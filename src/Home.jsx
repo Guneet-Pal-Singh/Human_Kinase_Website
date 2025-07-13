@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './src/App.css';
+import './Home.css';
 
 function Home() {
   const [uniprotId, setUniprotId] = useState('');
@@ -22,7 +22,7 @@ function Home() {
 
   return (
     <div className="main-bg">
-      <div className="search-card">
+      <div className="search-card" style={{ marginTop: '88px' }}>
         <h1 className="search-title">Human Kinase UniProt Search</h1>
         <form onSubmit={handleSearch} className="search-form">
           <input
@@ -30,14 +30,21 @@ function Home() {
             value={uniprotId}
             onChange={e => setUniprotId(e.target.value)}
             placeholder="Enter UniProt ID"
-            className="search-input"
+            className="search-input black-input"
+            style={{ color: 'black' }}
           />
           <button type="submit" className="search-btn">Search</button>
         </form>
         {error && <div className="error-msg">{error}</div>}
+        <style>{`
+          .black-input::placeholder {
+            color: #222 !important;
+            opacity: 1;
+          }
+        `}</style>
       </div>
       {result && (
-        <div className="result-card" style={{maxWidth: '900px', width: '100%'}}>
+        <div className="result-card" style={{maxWidth: '900px', width: '100%', marginTop: '48px'}}>
           {/* Left: Dummy Image */}
           <div className="result-img-col">
             <img
