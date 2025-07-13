@@ -1,5 +1,7 @@
 import React, { useState } from 'react';
 
+// App.jsx is now replaced by Home.jsx. This file is deprecated and can be removed if not needed.
+
 function App() {
   const [uniprotId, setUniprotId] = useState('');
   const [result, setResult] = useState(null);
