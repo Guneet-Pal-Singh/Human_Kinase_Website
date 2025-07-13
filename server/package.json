@@ -4,7 +4,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node index.js",
+    "start": "npm run import-csv && node index.js",
     "import-csv": "node import_csv.js"
   },
   "dependencies": {
