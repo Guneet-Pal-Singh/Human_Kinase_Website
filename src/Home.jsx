@@ -73,6 +73,10 @@ function Home() {
           <div className="structure-box">
             <div id="nglViewer" className="ngl-viewer"></div>
             <div className="viewer-label">3D Structure</div>
+            <details className="sequence-details">
+              <summary>Show Sequence</summary>
+              <div className="sequence">{result.sequence}</div>
+            </details>
           </div>
           <div className="info-box">
             <h2 className="info-title">{result["protein names"]}</h2>
@@ -86,10 +90,10 @@ function Home() {
             <p><strong>PDB:</strong> {result.pdb}</p>
             <p><strong>Data Sources:</strong> {result.data_sources}</p>
 
-            <details className="sequence-details">
+            {/* <details className="sequence-details">
               <summary>Show Sequence</summary>
               <div className="sequence">{result.sequence}</div>
-            </details>
+            </details> */}
           </div>
         </div>
       )}

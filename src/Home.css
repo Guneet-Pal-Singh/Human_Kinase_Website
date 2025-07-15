@@ -9,6 +9,11 @@ body {
   max-width: 1200px;
   margin: 50px auto;
   padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
 }
 
 .title {
@@ -45,12 +50,18 @@ body {
 }
 
 .result-layout {
+  align-self: center;
   display: flex;
   gap: 30px;
   background: white;
   padding: 20px;
   border-radius: 8px;
   box-shadow: 0 0 10px rgba(0,0,0,0.05);
+  margin: 0 auto;
+  align-items: flex;
+  justify-content: center;
+  /* max-width: 900px; */
+  width: 100%;
 }
 
 .structure-box {
@@ -58,6 +69,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
+  position: relative;
 }
 
 .ngl-viewer {
@@ -65,6 +77,28 @@ body {
   height: 400px;
   border: 1px solid #ddd;
   border-radius: 8px;
+}
+
+/* Show Sequence button below structure */
+.show-sequence-btn {
+  margin-top: 20px;
+  margin-bottom: 8px;
+  padding: 8px 20px;
+  background: linear-gradient(90deg, #3182ce 60%, #2563eb 100%);
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+  box-shadow: 0 2px 8px rgba(49, 130, 206, 0.10);
+  transition: background 0.2s, box-shadow 0.2s;
+  display: block;
+  width: fit-content;
+}
+.show-sequence-btn:hover {
+  background: linear-gradient(90deg, #2563eb 60%, #3182ce 100%);
+  box-shadow: 0 4px 16px rgba(49, 130, 206, 0.18);
 }
 
 .viewer-label {
@@ -93,11 +127,16 @@ body {
 }
 
 .sequence {
-  margin-top: 10px;
+  margin-top: 0;
   font-family: monospace;
   background: #f1f1f1;
   padding: 10px;
   border-radius: 5px;
-  max-height: 200px;
-  overflow: auto;
+  max-height: 160px;
+  overflow-y: auto;
+  overflow-x: auto;
+  width: 100%;
+  box-sizing: border-box;
+  word-break: break-all;
+  margin-bottom: 0;
 }
