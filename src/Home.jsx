@@ -20,6 +20,41 @@ function Home() {
     }
   };
 
+  React.useEffect(() => {
+    // Dynamically load NGL Viewer only when result is present
+    if (result) {
+      // Check if NGL is already loaded
+      if (!window.NGL) {
+        const script = document.createElement('script');
+        script.src = 'https://unpkg.com/ngl@2.0.0-dev.40/dist/ngl.js';
+        script.async = true;
+        script.onload = () => {
+          loadNGL();
+        };
+        document.body.appendChild(script);
+      } else {
+        loadNGL();
+      }
+    }
+    function loadNGL() {
+      // Remove previous stage if any
+      if (window.nglStage) {
+        window.nglStage.removeAllComponents();
+      } else {
+        window.nglStage = new window.NGL.Stage('nglViewer', { backgroundColor: 'white' });
+      }
+      // Load the local PDB file (7PUE.pdb in public folder)
+      window.nglStage.loadFile('/7PUE.pdb', { defaultRepresentation: true });
+      window.nglStage.autoView();
+    }
+    // Clean up on unmount
+    return () => {
+      if (window.nglStage) {
+        window.nglStage.removeAllComponents();
+      }
+    };
+  }, [result]);
+
   return (
     <div className="main-bg">
       <div className="search-card" style={{ marginTop: '88px' }}>
@@ -44,15 +79,11 @@ function Home() {
         `}</style>
       </div>
       {result && (
-        <div className="result-card" style={{maxWidth: '900px', width: '100%', marginTop: '48px'}}>
-          {/* Left: Dummy Image */}
-          <div className="result-img-col">
-            <img
-              src="https://via.placeholder.com/180x180.png?text=Protein+Structure"
-              alt="Protein Structure"
-              className="result-img"
-            />
-            <div className="result-img-label">Structure Preview</div>
+        <div className="result-card" >
+          {/* Left: 3D PDB Structure Viewer */}
+          <div className="result-img-col" style={{ minWidth: 240, maxWidth: 280, height: 260, display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center' }}>
+            <div id="nglViewer" style={{ width: 210, height: 210, background: '#fff', borderRadius: 16, border: '1.5px solid #e3e8f0', boxShadow: '0 2px 12px rgba(49, 130, 206, 0.15)' }}></div>
+            <div className="result-img-label">3D Structure</div>
           </div>
           {/* Right: Info */}
           <div className="result-info-col">
