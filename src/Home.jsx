@@ -73,23 +73,22 @@ function Home() {
           <div className="structure-box">
             <div id="nglViewer" className="ngl-viewer"></div>
             <div className="viewer-label">3D Structure</div>
-            <details className="sequence-details">
-              <summary>Show Sequence</summary>
-              <div className="sequence">{result.sequence}</div>
-            </details>
+            <div className="sequence-label"><strong>Sequence:</strong></div>
+            <div className="sequence">{result.sequence}</div>
           </div>
           <div className="info-box">
-            <h2 className="info-title">{result["protein names"]}</h2>
-            <p><strong>UniProt ID:</strong> {result.uniprot_id}</p>
-            <p><strong>Gene Name:</strong> {result["gene names (primary)"]}</p>
-            <p><strong>Kinase Name:</strong> {result["kinase name"]}</p>
-            <p><strong>Group:</strong> {result.group}</p>
-            <p><strong>Length:</strong> {result.length}</p>
-            <p><strong>Protein Families:</strong> {result["protein families"]}</p>
-            <p><strong>Description:</strong> {result.description}</p>
-            <p><strong>PDB:</strong> {result.pdb}</p>
-            <p><strong>Data Sources:</strong> {result.data_sources}</p>
-
+            <div className="uniprot-id-title">
+              UniProt ID: <span className="uniprot-id-value">{result.uniprot_id}</span>
+            </div>
+            <div className="info-row"><strong className="info-label">Protein Name:</strong> <span className="info-value">{result["protein names"]}</span></div>
+            <div className="info-row"><strong className="info-label">Gene Name:</strong> <span className="info-value">{result["gene names (primary)"]}</span></div>
+            <div className="info-row"><strong className="info-label">Kinase Name:</strong> <span className="info-value">{result["kinase name"]}</span></div>
+            <div className="info-row"><strong className="info-label">Group:</strong> <span className="info-value">{result.group}</span></div>
+            <div className="info-row"><strong className="info-label">Length:</strong> <span className="info-value">{result.length}</span></div>
+            <div className="info-row"><strong className="info-label">Protein Families:</strong> <span className="info-value">{result["protein families"]}</span></div>
+            <div className="info-row"><strong className="info-label">Description:</strong> <span className="info-value">{result.description}</span></div>
+            <div className="info-row"><strong className="info-label">PDB:</strong> <span className="info-value">{result.pdb}</span></div>
+            <div className="info-row"><strong className="info-label">Data Sources:</strong> <span className="info-value">{result.data_sources}</span></div>
             {/* <details className="sequence-details">
               <summary>Show Sequence</summary>
               <div className="sequence">{result.sequence}</div>
