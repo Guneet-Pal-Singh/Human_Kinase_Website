@@ -116,15 +116,15 @@ function Home() {
             <div className="uniprot-id-value">
               Gene Name: {result["gene names (primary)"]} 
             </div>
-            <div className="info-row"><strong className="info-label">Uniprot ID:</strong> <span className="info-value">{result.uniprot_id}</span></div>
+            <div className="info-row"><strong className="info-label">Uniprot ID:</strong> <span className="info-value"><a href={`https://www.uniprot.org/uniprotkb/${result.uniprot_id}`} target="_blank" rel="noopener noreferrer" style={{ color: '#4c51bf', cursor: 'pointer' }}>{result.uniprot_id}</a></span></div>
+            <div className="info-row"><strong className="info-label">PDB:</strong> <span className="info-value"><a href={`https://www.rcsb.org/3d-view/${result.pdb}`} target="_blank" rel="noopener noreferrer" style={{ color: '#4c51bf', cursor: 'pointer' }}>{result.pdb}</a></span></div>
             <div className="info-row"><strong className="info-label">Protein Name:</strong> <span className="info-value">{result["protein names"]}</span></div>
             
             <div className="info-row"><strong className="info-label">Kinase Name:</strong> <span className="info-value">{result["kinase name"]}</span></div>
             <div className="info-row"><strong className="info-label">Group:</strong> <span className="info-value">{result.group}</span></div>
-            <div className="info-row"><strong className="info-label">Length:</strong> <span className="info-value">{result.length}</span></div>
+            <div className="info-row"><strong className="info-label">Sequence Length:</strong> <span className="info-value">{result.length}</span></div>
             <div className="info-row"><strong className="info-label">Protein Families:</strong> <span className="info-value">{result["protein families"]}</span></div>
-            <div className="info-row"><strong className="info-label">Description:</strong> <span className="info-value">{result.description}</span></div>
-            <div className="info-row"><strong className="info-label">PDB:</strong> <span className="info-value">{result.pdb}</span></div>
+            {/* <div className="info-row"><strong className="info-label">Description:</strong> <span className="info-value">{result.description}</span></div> */}
             <div className="info-row"><strong className="info-label">Data Sources:</strong> <span className="info-value">{result.data_sources}</span></div>
             {/* <details className="sequence-details">
               <summary>Show Sequence</summary>
