@@ -1,8 +1,12 @@
+import './Home.css';
+
+
 import React, { useState, useEffect } from 'react';
 import './Home.css';
 
 function Home() {
   const [uniprotId, setUniprotId] = useState('');
+  const [geneName, setGeneName] = useState('');
   const [result, setResult] = useState(null);
   const [error, setError] = useState('');
 
@@ -10,13 +14,20 @@ function Home() {
     e.preventDefault();
     setError('');
     setResult(null);
+    if (!uniprotId && !geneName) {
+      setError('Please enter UniProt ID or Gene Name.');
+      return;
+    }
     try {
-      const res = await fetch(`http://localhost:5001/api/search/${uniprotId}`);
+      const params = new URLSearchParams();
+      if (uniprotId) params.append('uniprot_id', uniprotId);
+      if (geneName) params.append('gene_name', geneName);
+      const res = await fetch(`http://localhost:5001/api/search?${params.toString()}`);
       if (!res.ok) throw new Error('Not found');
       const data = await res.json();
       setResult(data);
     } catch (err) {
-      setError('No data found for this UniProt ID.');
+      setError('No data found for the provided input.');
     }
   };
 
@@ -62,6 +73,14 @@ function Home() {
           onChange={e => setUniprotId(e.target.value)}
           placeholder="Enter UniProt ID"
           className="search-input"
+        />
+        <input
+          type="text"
+          value={geneName}
+          onChange={e => setGeneName(e.target.value)}
+          placeholder="Enter Gene Name (Primary)"
+          className="search-input"
+          style={{ marginLeft: 8 }}
         />
         <button type="submit" className="search-btn">Search</button>
       </form>
