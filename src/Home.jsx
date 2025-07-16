@@ -77,11 +77,12 @@ function Home() {
             <div className="sequence">{result.sequence}</div>
           </div>
           <div className="info-box">
-            <div className="uniprot-id-title">
-              UniProt ID: <span className="uniprot-id-value">{result.uniprot_id}</span>
+            <div className="uniprot-id-value">
+              Gene Name: {result["gene names (primary)"]} 
             </div>
+            <div className="info-row"><strong className="info-label">Uniprot ID:</strong> <span className="info-value">{result.uniprot_id}</span></div>
             <div className="info-row"><strong className="info-label">Protein Name:</strong> <span className="info-value">{result["protein names"]}</span></div>
-            <div className="info-row"><strong className="info-label">Gene Name:</strong> <span className="info-value">{result["gene names (primary)"]}</span></div>
+            
             <div className="info-row"><strong className="info-label">Kinase Name:</strong> <span className="info-value">{result["kinase name"]}</span></div>
             <div className="info-row"><strong className="info-label">Group:</strong> <span className="info-value">{result.group}</span></div>
             <div className="info-row"><strong className="info-label">Length:</strong> <span className="info-value">{result.length}</span></div>
