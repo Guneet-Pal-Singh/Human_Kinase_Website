@@ -61,9 +61,17 @@ function Home() {
         window.nglStage.removeAllComponents();
         window.nglStage = null;
       }
-      window.nglStage = new window.NGL.Stage('nglViewer', { backgroundColor: 'white' });
-      window.nglStage.loadFile('/7PUE.pdb', { defaultRepresentation: true });
-      window.nglStage.autoView();
+      if (result && result.pdb) {
+        window.nglStage = new window.NGL.Stage('nglViewer', { backgroundColor: 'white' });
+        const pdbPath = `/pdb_files/${result.pdb}.pdb`;
+        window.nglStage.loadFile(pdbPath, { defaultRepresentation: true })
+          .then(() => window.nglStage.autoView())
+          .catch(() => {
+            if (nglDiv) nglDiv.innerHTML = '<div style="color:red;">PDB file not found.</div>';
+          });
+      } else {
+        if (nglDiv) nglDiv.innerHTML = '<div style="color:red;">PDB not found.</div>';
+      }
     }
 
     return () => {
@@ -102,7 +110,7 @@ function Home() {
           <div className="structure-box">
             <div id="nglViewer" className="ngl-viewer"></div>
             <div className="sequence-label"><strong>Sequence:</strong></div>
-            <div className="sequence">{result.sequence}</div>
+            <div className="sequence sequence-bg">{result.sequence}</div>
           </div>
           <div className="info-box">
             <div className="uniprot-id-value">
