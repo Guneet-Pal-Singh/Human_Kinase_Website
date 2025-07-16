@@ -1,7 +1,7 @@
 import './Home.css';
 
 
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import './Home.css';
 
 function Home() {
@@ -9,6 +9,9 @@ function Home() {
   const [geneName, setGeneName] = useState('');
   const [result, setResult] = useState(null);
   const [error, setError] = useState('');
+
+  // Ref for result layout
+  const resultRef = useRef(null);
 
   const handleSearch = async (e) => {
     e.preventDefault();
@@ -33,6 +36,13 @@ function Home() {
 
   useEffect(() => {
     if (result) {
+      // Scroll to result
+      setTimeout(() => {
+        if (resultRef.current) {
+          resultRef.current.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }
+      }, 100);
+      // NGL viewer logic
       if (!window.NGL) {
         const script = document.createElement('script');
         script.src = 'https://unpkg.com/ngl@2.0.0-dev.40/dist/ngl.js';
@@ -78,9 +88,9 @@ function Home() {
           type="text"
           value={geneName}
           onChange={e => setGeneName(e.target.value)}
-          placeholder="Enter Gene Name (Primary)"
+          placeholder="Enter Gene Name"
           className="search-input"
-          style={{ marginLeft: 8 }}
+          
         />
         <button type="submit" className="search-btn">Search</button>
       </form>
@@ -88,10 +98,9 @@ function Home() {
       {error && <div className="error-msg">{error}</div>}
 
       {result && (
-        <div className="result-layout">
+        <div className="result-layout" ref={resultRef}>
           <div className="structure-box">
             <div id="nglViewer" className="ngl-viewer"></div>
-            <div className="viewer-label">3D Structure</div>
             <div className="sequence-label"><strong>Sequence:</strong></div>
             <div className="sequence">{result.sequence}</div>
           </div>
