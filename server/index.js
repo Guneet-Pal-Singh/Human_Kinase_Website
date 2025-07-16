@@ -16,15 +16,21 @@ mongoose.connect(MONGO_URI, { useNewUrlParser: true, useUnifiedTopology: true })
   .then(() => console.log('MongoDB connected'))
   .catch(err => console.error('MongoDB connection error:', err));
 
-// Search API by UniProt ID
-app.get('/api/search/:uniprot_id', async (req, res) => {
+// Search API by UniProt ID and/or gene names (primary)
+app.get('/api/search', async (req, res) => {
   try {
-    let { uniprot_id } = req.params;
-    uniprot_id = uniprot_id.trim();
-    // Case-insensitive search for uniprot_id
-    const result = await UsableData.findOne({
-      uniprot_id: { $regex: `^${uniprot_id}$`, $options: 'i' }
-    });
+    let { uniprot_id, gene_name } = req.query;
+    const query = {};
+    if (uniprot_id && uniprot_id.trim() !== '') {
+      query.uniprot_id = { $regex: `^${uniprot_id.trim()}$`, $options: 'i' };
+    }
+    if (gene_name && gene_name.trim() !== '') {
+      query["gene names (primary)"] = { $regex: `^${gene_name.trim()}$`, $options: 'i' };
+    }
+    if (Object.keys(query).length === 0) {
+      return res.status(400).json({ error: 'At least one search parameter (uniprot_id or gene_name) must be provided.' });
+    }
+    const result = await UsableData.findOne(query);
     if (!result) return res.status(404).json({ error: 'Not found' });
     res.json(result);
   } catch (err) {
