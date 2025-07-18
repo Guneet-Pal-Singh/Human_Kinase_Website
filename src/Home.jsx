@@ -109,6 +109,15 @@ function Home() {
         <div className="result-layout" ref={resultRef}>
           <div className="structure-box">
             <div id="nglViewer" className="ngl-viewer"></div>
+            <div style={{ margin: '10px 0' }}>
+              <a
+                href={`/pdb_files/${result.pdb}.pdb`}
+                download={`${result.pdb}.pdb`}
+                style={{ color: '#4c51bf', cursor: 'pointer', fontWeight: 500 }}
+              >
+                Download Structure (PDB)
+              </a>
+            </div>
             <div className="sequence-label"><strong>Sequence:</strong></div>
             <div className="sequence sequence-bg">{result.sequence}</div>
           </div>
