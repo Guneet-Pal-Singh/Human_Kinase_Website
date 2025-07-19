@@ -38,5 +38,20 @@ app.get('/api/search', async (req, res) => {
   }
 });
 
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT || 5001;
 app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
+// Endpoint to download the CSV file
+import path from 'path';
+import { fileURLToPath } from 'url';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+
+app.get('/api/download-csv', (req, res) => {
+  const csvPath = path.join(__dirname, '../DATA_TO_USE.csv');
+  res.download(csvPath, 'DATA_TO_USE.csv', (err) => {
+    if (err) {
+      res.status(500).json({ error: 'Failed to download CSV.' });
+    }
+  });
+});
