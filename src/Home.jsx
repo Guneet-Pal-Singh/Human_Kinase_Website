@@ -1,22 +1,23 @@
-import './Home.css';
 
 
-import React, { useState, useEffect, useRef } from 'react';
-import './Home.css';
+
+import React, { useState, useRef } from 'react';
+import { useNavigate } from 'react-router-dom';
+
+import Navbar from './Navbar';
+
+
 
 function Home() {
   const [uniprotId, setUniprotId] = useState('');
   const [geneName, setGeneName] = useState('');
-  const [result, setResult] = useState(null);
   const [error, setError] = useState('');
-
-  // Ref for result layout
+  const navigate = useNavigate();
   const resultRef = useRef(null);
 
   const handleSearch = async (e) => {
     e.preventDefault();
     setError('');
-    setResult(null);
     if (!uniprotId && !geneName) {
       setError('Please enter UniProt ID or Gene Name.');
       return;
@@ -28,122 +29,43 @@ function Home() {
       const res = await fetch(`http://localhost:5001/api/search?${params.toString()}`);
       if (!res.ok) throw new Error('Not found');
       const data = await res.json();
-      setResult(data);
+      navigate('/results', { state: { result: data } });
     } catch (err) {
       setError('No data found for the provided input.');
     }
   };
 
-  useEffect(() => {
-    if (result) {
-      // Scroll to result
-      setTimeout(() => {
-        if (resultRef.current) {
-          resultRef.current.scrollIntoView({ behavior: 'smooth', block: 'start' });
-        }
-      }, 100);
-      // NGL viewer logic
-      if (!window.NGL) {
-        const script = document.createElement('script');
-        script.src = 'https://unpkg.com/ngl@2.0.0-dev.40/dist/ngl.js';
-        script.async = true;
-        script.onload = () => loadNGL();
-        document.body.appendChild(script);
-      } else {
-        loadNGL();
-      }
-    }
-
-    function loadNGL() {
-      const nglDiv = document.getElementById('nglViewer');
-      if (nglDiv) nglDiv.innerHTML = '';
-      if (window.nglStage) {
-        window.nglStage.removeAllComponents();
-        window.nglStage = null;
-      }
-      if (result && result.pdb) {
-        window.nglStage = new window.NGL.Stage('nglViewer', { backgroundColor: 'white' });
-        const pdbPath = `/pdb_files/${result.pdb}.pdb`;
-        window.nglStage.loadFile(pdbPath, { defaultRepresentation: true })
-          .then(() => window.nglStage.autoView())
-          .catch(() => {
-            if (nglDiv) nglDiv.innerHTML = '<div style="color:red;">PDB file not found.</div>';
-          });
-      } else {
-        if (nglDiv) nglDiv.innerHTML = '<div style="color:red;">PDB not found.</div>';
-      }
-    }
-
-    return () => {
-      if (window.nglStage) {
-        window.nglStage.removeAllComponents();
-      }
-    };
-  }, [result]);
-
   return (
-    <div className="container">
-      <h1 className="title">Human Kinase UniProt Search</h1>
-      <form onSubmit={handleSearch} className="search-form">
-        <input
-          type="text"
-          value={uniprotId}
-          onChange={e => setUniprotId(e.target.value)}
-          placeholder="Enter UniProt ID"
-          className="search-input"
-        />
-        <input
-          type="text"
-          value={geneName}
-          onChange={e => setGeneName(e.target.value)}
-          placeholder="Enter Gene Name"
-          className="search-input"
-          
-        />
-        <button type="submit" className="search-btn">Search</button>
-      </form>
+    <>
+      <Navbar />
+      <div className="container">
+        <h1 className="title">Human Kinase UniProt Search</h1>
+        <form onSubmit={handleSearch} className="search-form">
+          <input
+            type="text"
+            value={uniprotId}
+            onChange={e => setUniprotId(e.target.value)}
+            placeholder="Enter UniProt ID"
+            className="search-input"
+          />
+          <input
+            type="text"
+            value={geneName}
+            onChange={e => setGeneName(e.target.value)}
+            placeholder="Enter Gene Name"
+            className="search-input"
+          />
+          <button type="submit" className="search-btn">Search</button>
+        </form>
 
-      {error && <div className="error-msg">{error}</div>}
+        {error && <div className="error-msg">{error}</div>}
 
-      {result && (
-        <div className="result-layout" ref={resultRef}>
-          <div className="structure-box">
-            <div id="nglViewer" className="ngl-viewer"></div>
-            <div style={{ margin: '10px 0' }}>
-              <a
-                href={`/pdb_files/${result.pdb}.pdb`}
-                download={`${result.pdb}.pdb`}
-                style={{ color: '#4c51bf', cursor: 'pointer', fontWeight: 500 }}
-              >
-                Download Structure (PDB)
-              </a>
-            </div>
-            <div className="sequence-label"><strong>Sequence:</strong></div>
-            <div className="sequence sequence-bg">{result.sequence}</div>
-          </div>
-          <div className="info-box">
-            <div className="uniprot-id-value">
-              Gene Name: {result["gene names (primary)"]} 
-            </div>
-            <div className="info-row"><strong className="info-label">Uniprot ID:</strong> <span className="info-value"><a href={`https://www.uniprot.org/uniprotkb/${result.uniprot_id}`} target="_blank" rel="noopener noreferrer" style={{ color: '#4c51bf', cursor: 'pointer' }}>{result.uniprot_id}</a></span></div>
-            <div className="info-row"><strong className="info-label">PDB:</strong> <span className="info-value"><a href={`https://www.rcsb.org/3d-view/${result.pdb}`} target="_blank" rel="noopener noreferrer" style={{ color: '#4c51bf', cursor: 'pointer' }}>{result.pdb}</a></span></div>
-            <div className="info-row"><strong className="info-label">Protein Name:</strong> <span className="info-value">{result["protein names"]}</span></div>
-            
-            <div className="info-row"><strong className="info-label">Kinase Name:</strong> <span className="info-value">{result["kinase name"]}</span></div>
-            <div className="info-row"><strong className="info-label">Group:</strong> <span className="info-value">{result.group}</span></div>
-            <div className="info-row"><strong className="info-label">Sequence Length:</strong> <span className="info-value">{result.length}</span></div>
-            <div className="info-row"><strong className="info-label">Protein Families:</strong> <span className="info-value">{result["protein families"]}</span></div>
-            {/* <div className="info-row"><strong className="info-label">Description:</strong> <span className="info-value">{result.description}</span></div> */}
-            <div className="info-row"><strong className="info-label">Data Sources:</strong> <span className="info-value">{result.data_sources}</span></div>
-            {/* <details className="sequence-details">
-              <summary>Show Sequence</summary>
-              <div className="sequence">{result.sequence}</div>
-            </details> */}
-          </div>
-        </div>
-      )}
-    </div>
+        {/* Results are now shown on a separate page */}
+      </div>
+    </>
   );
 }
 
 export default Home;
+
+
