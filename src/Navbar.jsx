@@ -1,8 +1,21 @@
 import React, { useState, useRef, useEffect } from 'react';
 import './Home.css';
+import './navbar.css';
+
+// Import the image from the public folder (Vite/React best practice is to use /[filename] for public assets)
+const navbarBg = '/dna_navbar.jpg'; // Place the image in the public/ folder as dna_navbar.jpg
 
 
 function Navbar() {
+  // Prevent horizontal scroll on the whole page (in a React-safe way)
+  useEffect(() => {
+    document.documentElement.style.overflowX = 'hidden';
+    document.body.style.overflowX = 'hidden';
+    return () => {
+      document.documentElement.style.overflowX = '';
+      document.body.style.overflowX = '';
+    };
+  }, []);
   const dataSources = [
     { name: 'SugiyamaDB', url: 'https://esbl.nhlbi.nih.gov/Databases/Kinase_Logos/' },
     { name: 'KincoreDB', url: 'http://dunbrack.fccc.edu/kincore/download' },
@@ -18,6 +31,24 @@ function Navbar() {
     { name: 'UniProt', url: 'https://www.uniprot.org/uniprotkb?query=%28reviewed%3Atrue%29+AND+%28organism_id%3A9606%29+AND+%28family%3A%22protein+kinase+superfamily%22%29' },
     // Add more as needed
   ];
+  // Download CSV handler
+  const handleDownloadCSV = async () => {
+    try {
+      const response = await fetch('http://localhost:5001/api/download-csv');
+      if (!response.ok) throw new Error('Failed to download CSV');
+      const blob = await response.blob();
+      const url = window.URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = 'DATA_TO_USE.csv';
+      document.body.appendChild(a);
+      a.click();
+      a.remove();
+      window.URL.revokeObjectURL(url);
+    } catch (err) {
+      alert('Failed to download CSV.');
+    }
+  };
   const [dropdownOpen, setDropdownOpen] = useState(false);
   const dropdownRef = useRef(null);
 
@@ -34,11 +65,18 @@ function Navbar() {
   }, []);
 
   return (
-    <nav className="navbar navbar-blue">
+    <nav
+      className="navbar navbar-blue navbar-bg-image"
+      style={{ backgroundImage: `url(${navbarBg})` }}
+    >
+
       <div className="navbar-content">
         <a href="/" className="nav-logo">KinaseDB</a>
         <div className="nav-links">
           <a href="/" className="nav-link">Home</a>
+          <button className="nav-link" style={{background:'rgba(0,0,0,0.25)',border:'none',borderRadius:'4px',padding:'0.3em 0.8em',cursor:'pointer'}} onClick={handleDownloadCSV}>
+            Download
+          </button>
           <div className="dropdown" ref={dropdownRef}>
             <button
               className="dropbtn"
