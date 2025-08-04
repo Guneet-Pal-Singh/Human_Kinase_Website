@@ -7,7 +7,8 @@ function parseResultFromSearchParams(searchParams) {
   // Only parse known fields for safety
   const fields = [
     'uniprot_id', 'pdb', 'sequence', 'gene names (primary)', 'protein names',
-    'kinase name', 'group', 'length', 'protein families', 'data_sources'
+    'kinase name', 'group', 'length', 'protein families', 'data_sources', 'EC_number', 
+    'All_Gene_Names'
   ];
   const result = {};
   fields.forEach(f => {
@@ -29,6 +30,11 @@ function Results() {
     const parsed = parseResultFromSearchParams(searchParams);
     return parsed;
   }, [location.state, searchParams]);
+
+  // // Debug print to check what result contains
+  // React.useEffect(() => {
+  //   console.log('Results page result object:', result);
+  // }, [result]);
 
   useEffect(() => {
     if (!result) {
@@ -108,6 +114,8 @@ function Results() {
             <div className="info-row"><strong className="info-label" style={{ color: '#1565a5' }}>Group:</strong> <span className="info-value" style={{ color: '#1a3557' }}>{result.group}</span></div>
             <div className="info-row"><strong className="info-label" style={{ color: '#1565a5' }}>Sequence Length:</strong> <span className="info-value" style={{ color: '#1a3557' }}>{result.length}</span></div>
             <div className="info-row"><strong className="info-label" style={{ color: '#1565a5' }}>Protein Families:</strong> <span className="info-value" style={{ color: '#1a3557' }}>{result["protein families"]}</span></div>
+            <div className="info-row"><strong className="info-label" style={{ color: '#1565a5' }}>Common Gene Names:</strong> <span className="info-value" style={{ color: '#1a3557' }}>{result.All_Gene_Names}</span></div>
+            <div className="info-row"><strong className="info-label" style={{ color: '#1565a5' }}>EC Number:</strong> <span className="info-value" style={{ color: '#1a3557' }}>{result.EC_number}</span></div>
             <div className="info-row"><strong className="info-label" style={{ color: '#1565a5' }}>Data Sources:</strong> <span className="info-value" style={{ color: '#1a3557' }}>{result.data_sources}</span></div>
           </div>
         </div>

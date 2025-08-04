@@ -31,7 +31,8 @@ function Home() {
       // Only add known fields to avoid leaking extra data
       const fields = [
         'uniprot_id', 'pdb', 'sequence', 'gene names (primary)', 'protein names',
-        'kinase name', 'group', 'length', 'protein families', 'data_sources'
+        'kinase name', 'group', 'length', 'protein families', 'data_sources', 'EC_number',
+        'All_Gene_Names'
       ];
       fields.forEach(f => {
         if (data[f]) resultParams.append(f, data[f]);
