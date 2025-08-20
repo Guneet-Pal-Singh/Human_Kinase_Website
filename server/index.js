@@ -34,7 +34,12 @@ app.get('/api/search', async (req, res) => {
     }
     const result = await UsableData.findOne(query);
     if (!result) return res.status(404).json({ error: 'Not found' });
-    res.json(result);
+    // Ensure substrates field is included
+    const resultObj = result.toObject ? result.toObject() : result;
+    res.json({
+      ...resultObj,
+      substrates: resultObj.substrates || null
+    });
   } catch (err) {
     res.status(500).json({ error: 'Server error' });
   }
@@ -60,6 +65,7 @@ app.post('/api/blast-search', async (req, res) => {
       data_sources: 1,
       pdb: 1,
       description: 1,
+      substrates: 1,
       _id: 0
     });
     // Smith-Waterman local alignment
@@ -106,6 +112,7 @@ app.post('/api/blast-search', async (req, res) => {
         dataSources: p.data_sources,
         pdb: p.pdb,
         description: p.description,
+        substrates: p.substrates,
         alignmentScore,
         alignmentPercent,
         eValue,
