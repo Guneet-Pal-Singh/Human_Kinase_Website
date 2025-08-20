@@ -10,6 +10,7 @@ function Home() {
   const [uniprotId, setUniprotId] = useState('');
   const [geneName, setGeneName] = useState('');
   const [error, setError] = useState('');
+  const [blastSequence, setBlastSequence] = useState('');
   const navigate = useNavigate();
 
   const handleSearch = async (e) => {
@@ -47,33 +48,68 @@ function Home() {
   return (
     <>
       <Navbar />
-      <div className="home-bg">
-        <div className="home-container">
-          <div className="home-header">
-            Search
-          </div>
-          <form onSubmit={handleSearch} className="home-form">
-            <div className="home-input-group">
-              <input
-                type="text"
-                value={uniprotId}
-                onChange={e => setUniprotId(e.target.value)}
-                placeholder="Enter UniProt ID"
-                className="home-input"
-              />
-              <input
-                type="text"
-                value={geneName}
-                onChange={e => setGeneName(e.target.value)}
-                placeholder="Enter Gene Name"
-                className="home-input"
-              />
-            </div>
-            <button type="submit" className="home-search-btn">
+      <div className="home-bg" style={{display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'flex-start'}}>
+        <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', width: '100%'}}>
+          <div className="home-container">
+            <div className="home-header">
               Search
-            </button>
-            {error && <div className="home-error">{error}</div>}
-          </form>
+            </div>
+            <form onSubmit={handleSearch} className="home-form" style={{marginBottom: '0'}}>
+              <div className="home-input-group">
+                <input
+                  type="text"
+                  value={uniprotId}
+                  onChange={e => setUniprotId(e.target.value)}
+                  placeholder="Enter UniProt ID"
+                  className="home-input"
+                />
+                <input
+                  type="text"
+                  value={geneName}
+                  onChange={e => setGeneName(e.target.value)}
+                  placeholder="Enter Gene Name"
+                  className="home-input"
+                />
+              </div>
+              <button type="submit" className="home-search-btn">
+                Search
+              </button>
+              {error && <div className="home-error">{error}</div>}
+            </form>
+          </div>
+          <div className="home-container" style={{marginTop: '32px'}}>
+            <div className="home-header">
+              BLAST Search
+            </div>
+            <form
+              className="home-form"
+              style={{marginBottom: '0'}}
+              onSubmit={e => {
+                e.preventDefault();
+                if (!blastSequence) {
+                  setError('Please enter a sequence for BLAST search.');
+                  return;
+                }
+                setError('');
+                const url = `/blast-results?sequence=${encodeURIComponent(blastSequence)}`;
+                window.open(url, '_blank');
+              }}
+            >
+              <div className="home-input-group">
+                <input
+                  type="text"
+                  value={blastSequence}
+                  onChange={e => setBlastSequence(e.target.value)}
+                  placeholder="Enter protein sequence (FASTA or plain)"
+                  className="home-input"
+                />
+              </div>
+              <button type="submit" className="home-search-btn">
+                Run BLAST
+              </button>
+              {error && <div className="home-error">{error}</div>}
+            </form>
+          </div>
         </div>
         <footer className="home-footer">
         </footer>
