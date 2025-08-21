@@ -7,11 +7,15 @@ import fetch from 'node-fetch';
 
 dotenv.config();
 
+import { Parser as Json2csvParser } from 'json2csv';
+
 const app = express();
 app.use(cors());
 app.use(express.json());
 
+
 const MONGO_URI = process.env.MONGO_URI || 'mongodb://localhost:27017/ipdb';
+
 
 mongoose.connect(MONGO_URI, { useNewUrlParser: true, useUnifiedTopology: true })
   .then(() => console.log('MongoDB connected'))
@@ -42,6 +46,125 @@ app.get('/api/search', async (req, res) => {
     });
   } catch (err) {
     res.status(500).json({ error: 'Server error' });
+  }
+});
+
+// Batch Search API
+// Accepts: { inputs: "id1,id2,..." } and type: "uniprot" or "gene" (optional, default: both)
+app.post('/api/batch-search', async (req, res) => {
+  try {
+    let { inputs, type } = req.body;
+    if (!inputs || typeof inputs !== 'string') {
+      return res.status(400).json({ error: 'Inputs (comma-separated) are required.' });
+    }
+    const inputArr = inputs.split(',').map(x => x.trim()).filter(Boolean);
+    if (inputArr.length === 0) {
+      return res.status(400).json({ error: 'No valid inputs provided.' });
+    }
+    // Build queries for all inputs
+    const orQueries = [];
+    inputArr.forEach(input => {
+      if (!type || type === 'uniprot' || type === 'both') {
+        orQueries.push({ uniprot_id: { $regex: `^${input}$`, $options: 'i' } });
+      }
+      if (!type || type === 'gene' || type === 'both') {
+        orQueries.push({ All_Gene_Names: { $regex: `\\b${input}\\b`, $options: 'i' } });
+      }
+    });
+    // Find all matches in one go
+    const results = await UsableData.find({ $or: orQueries });
+    // Map input to result
+    const inputToResult = {};
+    inputArr.forEach(input => {
+      // Find first match for this input
+      let match = results.find(r =>
+        (r.uniprot_id && r.uniprot_id.toLowerCase() === input.toLowerCase()) ||
+        (r.All_Gene_Names && r.All_Gene_Names.split(',').map(x => x.trim().toLowerCase()).includes(input.toLowerCase()))
+      );
+      if (match) {
+        inputToResult[input] = {
+          gene_name: match["gene names (primary)"] || match.All_Gene_Names || '',
+          uniprot_id: match.uniprot_id || '',
+          pdb: match.pdb || '',
+          group: match.group || '',
+          seq_length: match.length || match["Sequence Length"] || '',
+          ec_number: match["EC_number"] || match["EC number"] || match.ec_number || '',
+        };
+      } else {
+        inputToResult[input] = null;
+      }
+    });
+    res.json({ map: inputToResult });
+  } catch (err) {
+    res.status(500).json({ error: 'Server error', details: err.message });
+  }
+});
+
+// Batch Download API (CSV)
+// Accepts: { inputs: "id1,id2,..." } and type: "uniprot" or "gene" (optional)
+app.post('/api/download-batch-csv', async (req, res) => {
+  try {
+    let { inputs, type } = req.body;
+    if (!inputs || typeof inputs !== 'string') {
+      return res.status(400).json({ error: 'Inputs (comma-separated) are required.' });
+    }
+    const inputArr = inputs.split(',').map(x => x.trim()).filter(Boolean);
+    if (inputArr.length === 0) {
+      return res.status(400).json({ error: 'No valid inputs provided.' });
+    }
+    const orQueries = [];
+    inputArr.forEach(input => {
+      if (!type || type === 'uniprot' || type === 'both') {
+        orQueries.push({ uniprot_id: { $regex: `^${input}$`, $options: 'i' } });
+      }
+      if (!type || type === 'gene' || type === 'both') {
+        orQueries.push({ All_Gene_Names: { $regex: `\\b${input}\\b`, $options: 'i' } });
+      }
+    });
+    const results = await UsableData.find({ $or: orQueries });
+    // Only include the specified columns in the output
+    const wantedFields = [
+      'uniprot_id',
+      'protein names',
+      'length',
+      'protein families',
+      'sequence',
+      'gene names (primary)',
+      'kinase name',
+      'group',
+      'pocket',
+      'data_sources',
+      'pdb',
+      'description',
+      'EC_number',
+      'All_Gene_Names',
+      'substrates'
+    ];
+    const csvData = inputArr.map(input => {
+      let match = results.find(r =>
+        (r.uniprot_id && r.uniprot_id.toLowerCase() === input.toLowerCase()) ||
+        (r.All_Gene_Names && r.All_Gene_Names.split(',').map(x => x.trim().toLowerCase()).includes(input.toLowerCase()))
+      );
+      if (match) {
+        const obj = match.toObject();
+        // Only pick the wanted fields
+        const filtered = {};
+        wantedFields.forEach(f => { filtered[f] = obj[f] || ''; });
+        return filtered;
+      } else {
+        // If not found, return empty fields
+        const empty = {};
+        wantedFields.forEach(f => { empty[f] = ''; });
+        return empty;
+      }
+    });
+    const json2csv = new Json2csvParser({ fields: wantedFields });
+    const csv = json2csv.parse(csvData);
+    res.header('Content-Type', 'text/csv');
+    res.attachment('batch_results.csv');
+    return res.send(csv);
+  } catch (err) {
+    res.status(500).json({ error: 'Server error', details: err.message });
   }
 });
 
