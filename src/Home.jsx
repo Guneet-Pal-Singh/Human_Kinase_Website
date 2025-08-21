@@ -9,8 +9,10 @@ import './Home.css';
 function Home() {
   const [uniprotId, setUniprotId] = useState('');
   const [geneName, setGeneName] = useState('');
-  const [error, setError] = useState('');
   const [blastSequence, setBlastSequence] = useState('');
+  const [batchInput, setBatchInput] = useState('');
+  const [error, setError] = useState('');
+  const [searchType, setSearchType] = useState('normal'); // 'normal', 'blast', 'batch'
   const navigate = useNavigate();
 
   const handleSearch = async (e) => {
@@ -49,67 +51,14 @@ function Home() {
     <>
       <Navbar />
       <div className="home-bg" style={{display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'flex-start'}}>
-        <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', width: '100%'}}>
-          <div className="home-container">
-            <div className="home-header">
-              Search
-            </div>
-            <form onSubmit={handleSearch} className="home-form" style={{marginBottom: '0'}}>
-              <div className="home-input-group">
-                <input
-                  type="text"
-                  value={uniprotId}
-                  onChange={e => setUniprotId(e.target.value)}
-                  placeholder="Enter UniProt ID"
-                  className="home-input"
-                />
-                <input
-                  type="text"
-                  value={geneName}
-                  onChange={e => setGeneName(e.target.value)}
-                  placeholder="Enter Gene Name"
-                  className="home-input"
-                />
-              </div>
-              <button type="submit" className="home-search-btn">
-                Search
-              </button>
-              {error && <div className="home-error">{error}</div>}
-            </form>
+        <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', width: '100%', marginTop: '40px'}}>
+          <div className="home-container" style={{maxWidth: 700, textAlign: 'center', marginBottom: 32}}>
+            <h1 style={{marginBottom: 16}}>Human Kinase Structural Database</h1>
+            <p style={{fontSize: '1.1rem', color: '#444', marginBottom: 0}}>
+              Explore a comprehensive resource for human kinase structures, sequences, and annotations. Search by UniProt ID, gene name, or protein sequence (BLAST), or perform batch queries. Visualize, analyze, and download curated kinase data for research and discovery.
+            </p>
           </div>
-          <div className="home-container" style={{marginTop: '32px'}}>
-            <div className="home-header">
-              BLAST Search
-            </div>
-            <form
-              className="home-form"
-              style={{marginBottom: '0'}}
-              onSubmit={e => {
-                e.preventDefault();
-                if (!blastSequence) {
-                  setError('Please enter a sequence for BLAST search.');
-                  return;
-                }
-                setError('');
-                const url = `/blast-results?sequence=${encodeURIComponent(blastSequence)}`;
-                window.open(url, '_blank');
-              }}
-            >
-              <div className="home-input-group">
-                <input
-                  type="text"
-                  value={blastSequence}
-                  onChange={e => setBlastSequence(e.target.value)}
-                  placeholder="Enter protein sequence (FASTA or plain)"
-                  className="home-input"
-                />
-              </div>
-              <button type="submit" className="home-search-btn">
-                Run BLAST
-              </button>
-              {error && <div className="home-error">{error}</div>}
-            </form>
-          </div>
+          {/* Search UI moved to Navbar. No search UI here. */}
         </div>
         <footer className="home-footer">
         </footer>

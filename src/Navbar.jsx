@@ -1,4 +1,5 @@
 import React, { useState, useRef, useEffect } from 'react';
+import { useNavigate } from 'react-router-dom';
 import './Home.css';
 import './navbar.css';
 
@@ -50,12 +51,24 @@ function Navbar() {
     }
   };
   const [dropdownOpen, setDropdownOpen] = useState(false);
+  const [searchDropdownOpen, setSearchDropdownOpen] = useState(false);
+  const [searchType, setSearchType] = useState('normal');
+  const [uniprotId, setUniprotId] = useState('');
+  const [geneName, setGeneName] = useState('');
+  const [blastSequence, setBlastSequence] = useState('');
+  const [batchInput, setBatchInput] = useState('');
+  const [error, setError] = useState('');
   const dropdownRef = useRef(null);
+  const searchDropdownRef = useRef(null);
+  const navigate = useNavigate();
 
   useEffect(() => {
     function handleClickOutside(event) {
       if (dropdownRef.current && !dropdownRef.current.contains(event.target)) {
         setDropdownOpen(false);
+      }
+      if (searchDropdownRef.current && !searchDropdownRef.current.contains(event.target)) {
+        setSearchDropdownOpen(false);
       }
     }
     document.addEventListener('mousedown', handleClickOutside);
@@ -63,6 +76,37 @@ function Navbar() {
       document.removeEventListener('mousedown', handleClickOutside);
     };
   }, []);
+
+  // Search handlers (copied from Home.jsx)
+  const handleSearch = async (e) => {
+    e.preventDefault();
+    setError('');
+    if (!uniprotId && !geneName) {
+      setError('Please enter UniProt ID or Gene Name.');
+      return;
+    }
+    try {
+      const params = new URLSearchParams();
+      if (uniprotId) params.append('uniprot_id', uniprotId);
+      if (geneName) params.append('gene_name', geneName);
+      const res = await fetch(`http://localhost:5001/api/search?${params.toString()}`);
+      if (!res.ok) throw new Error('Not found');
+      const data = await res.json();
+      const resultParams = new URLSearchParams();
+      const fields = [
+        'uniprot_id', 'pdb', 'sequence', 'gene names (primary)', 'protein names',
+        'kinase name', 'group', 'length', 'protein families', 'data_sources', 'EC_number',
+        'All_Gene_Names','substrates'
+      ];
+      fields.forEach(f => {
+        if (data[f]) resultParams.append(f, data[f]);
+      });
+      const url = `/results?${resultParams.toString()}`;
+      window.open(url, '_blank');
+    } catch (err) {
+      setError('No data found for the provided input.');
+    }
+  };
 
   return (
     <nav
@@ -77,7 +121,8 @@ function Navbar() {
           <button className="nav-link" style={{background:'rgba(0,0,0,0.25)',border:'none',borderRadius:'4px',padding:'0.3em 0.8em',cursor:'pointer'}} onClick={handleDownloadCSV}>
             Download
           </button>
-          <div className="dropdown" ref={dropdownRef}>
+          {/* Data Sources Dropdown */}
+          <div className="dropdown" ref={dropdownRef} style={{display: 'inline-block', marginRight: 12}}>
             <button
               className="dropbtn"
               onClick={() => setDropdownOpen((open) => !open)}
@@ -90,6 +135,107 @@ function Navbar() {
               {dataSources.map(ds => (
                 <a key={ds.name} href={ds.url} target="_blank" rel="noopener noreferrer">{ds.name}</a>
               ))}
+            </div>
+          </div>
+          {/* SEARCH Dropdown with forms */}
+          <div className="dropdown" ref={searchDropdownRef} style={{display: 'inline-block'}}>
+            <button className="dropbtn" onClick={() => setSearchDropdownOpen(open => !open)}>
+              SEARCH <span style={{fontSize: '0.7em'}}>▼</span>
+            </button>
+            <div className={`dropdown-content${searchDropdownOpen ? ' show' : ''}`} style={{minWidth: 420, padding: 0}}>
+              <div style={{display: 'flex', flexDirection: 'row', borderBottom: '1px solid #eee'}}>
+                <button style={{flex: 1, background: searchType==='normal'?'#f0f5ff':'#fff', border: 'none', padding: '12px', fontWeight: 600, cursor: 'pointer'}} onClick={() => { setSearchType('normal'); setError(''); }}>Normal Search</button>
+                <button style={{flex: 1, background: searchType==='blast'?'#f0f5ff':'#fff', border: 'none', padding: '12px', fontWeight: 600, cursor: 'pointer'}} onClick={() => { setSearchType('blast'); setError(''); }}>BLAST Search</button>
+                <button style={{flex: 1, background: searchType==='batch'?'#f0f5ff':'#fff', border: 'none', padding: '12px', fontWeight: 600, cursor: 'pointer'}} onClick={() => { setSearchType('batch'); setError(''); }}>Batch Search</button>
+              </div>
+              {/* Normal Search */}
+              {searchType === 'normal' && (
+                <form onSubmit={handleSearch} className="home-form" style={{marginBottom: 0, boxShadow: 'none', padding: 24}}>
+                  <div className="home-input-group">
+                    <input
+                      type="text"
+                      value={uniprotId}
+                      onChange={e => setUniprotId(e.target.value)}
+                      placeholder="Enter UniProt ID"
+                      className="home-input"
+                    />
+                    <input
+                      type="text"
+                      value={geneName}
+                      onChange={e => setGeneName(e.target.value)}
+                      placeholder="Enter Gene Name"
+                      className="home-input"
+                    />
+                  </div>
+                  <button type="submit" className="home-search-btn">
+                    Search
+                  </button>
+                  {error && <div className="home-error">{error}</div>}
+                </form>
+              )}
+              {/* BLAST Search */}
+              {searchType === 'blast' && (
+                <form
+                  className="home-form"
+                  style={{marginBottom: 0, boxShadow: 'none', padding: 24}}
+                  onSubmit={e => {
+                    e.preventDefault();
+                    if (!blastSequence) {
+                      setError('Please enter a sequence for BLAST search.');
+                      return;
+                    }
+                    setError('');
+                    const url = `/blast-results?sequence=${encodeURIComponent(blastSequence)}`;
+                    window.open(url, '_blank');
+                  }}
+                >
+                  <div className="home-input-group">
+                    <input
+                      type="text"
+                      value={blastSequence}
+                      onChange={e => setBlastSequence(e.target.value)}
+                      placeholder="Enter protein sequence (Plain Text)"
+                      className="home-input"
+                    />
+                  </div>
+                  <button type="submit" className="home-search-btn">
+                    Run BLAST
+                  </button>
+                  {error && <div className="home-error">{error}</div>}
+                </form>
+              )}
+              {/* Batch Search */}
+              {searchType === 'batch' && (
+                <form
+                  className="home-form"
+                  style={{marginBottom: 0, boxShadow: 'none', padding: 24}}
+                  onSubmit={e => {
+                    e.preventDefault();
+                    if (!batchInput) {
+                      setError('Please enter UniProt IDs or Gene Names (Comma Separated).');
+                      return;
+                    }
+                    setError('');
+                    const url = `/batch-results?input=${encodeURIComponent(batchInput)}`;
+                    window.open(url, '_blank');
+                  }}
+                >
+                  <div className="home-input-group">
+                    <textarea
+                      value={batchInput}
+                      onChange={e => setBatchInput(e.target.value)}
+                      placeholder="Enter UniProt IDs or Gene Names (comma or newline separated)"
+                      className="home-input"
+                      rows={4}
+                      style={{resize: 'vertical'}}
+                    />
+                  </div>
+                  <button type="submit" className="home-search-btn">
+                    Run Batch Search
+                  </button>
+                  {error && <div className="home-error">{error}</div>}
+                </form>
+              )}
             </div>
           </div>
         </div>
