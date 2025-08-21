@@ -144,9 +144,36 @@ function Navbar() {
             </button>
             <div className={`dropdown-content${searchDropdownOpen ? ' show' : ''}`} style={{minWidth: 420, padding: 0}}>
               <div style={{display: 'flex', flexDirection: 'row', borderBottom: '1px solid #eee'}}>
-                <button style={{flex: 1, background: searchType==='normal'?'#f0f5ff':'#fff', border: 'none', padding: '12px', fontWeight: 600, cursor: 'pointer'}} onClick={() => { setSearchType('normal'); setError(''); }}>Normal Search</button>
-                <button style={{flex: 1, background: searchType==='blast'?'#f0f5ff':'#fff', border: 'none', padding: '12px', fontWeight: 600, cursor: 'pointer'}} onClick={() => { setSearchType('blast'); setError(''); }}>BLAST Search</button>
-                <button style={{flex: 1, background: searchType==='batch'?'#f0f5ff':'#fff', border: 'none', padding: '12px', fontWeight: 600, cursor: 'pointer'}} onClick={() => { setSearchType('batch'); setError(''); }}>Batch Search</button>
+                {[{type:'normal',label:'Normal Search'},{type:'blast',label:'BLAST Search'},{type:'batch',label:'Batch Search'}].map(opt => (
+                  <button
+                    key={opt.type}
+                    style={{
+                      flex: 1,
+                      background: searchType===opt.type ? '#0a6cb5' : '#fff',
+                      color: searchType===opt.type ? '#fff' : '#065a8e',
+                      border: 'none',
+                      padding: '12px',
+                      fontWeight: 600,
+                      cursor: 'pointer',
+                      transition: 'background 0.2s, color 0.2s'
+                    }}
+                    onMouseOver={e => {
+                      if (searchType !== opt.type) {
+                        e.target.style.background = '#0a6cb5';
+                        e.target.style.color = '#fff';
+                      }
+                    }}
+                    onMouseOut={e => {
+                      if (searchType !== opt.type) {
+                        e.target.style.background = '#fff';
+                        e.target.style.color = '#065a8e';
+                      }
+                    }}
+                    onClick={() => { setSearchType(opt.type); setError(''); }}
+                  >
+                    {opt.label}
+                  </button>
+                ))}
               </div>
               {/* Normal Search */}
               {searchType === 'normal' && (
