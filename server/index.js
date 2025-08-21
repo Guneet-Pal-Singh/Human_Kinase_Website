@@ -136,8 +136,8 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 app.get('/api/download-csv', (req, res) => {
-  const csvPath = path.join(__dirname, '../DATA_TO_USE_with_sequences.csv');
-  res.download(csvPath, 'DATA_TO_USE_with_sequences.csv', (err) => {
+  const csvPath = path.join(__dirname, '../DATA_TO_USE.csv');
+  res.download(csvPath, 'DATA_TO_USE.csv', (err) => {
     if (err) {
       res.status(500).json({ error: 'Failed to download CSV.' });
     }
