@@ -3,6 +3,7 @@ import mongoose from 'mongoose';
 import cors from 'cors';
 import dotenv from 'dotenv';
 import UsableData from './usableData.model.js';
+import KinaseDataset from './kinaseDataset.model.js';
 import fetch from 'node-fetch';
 
 dotenv.config();
@@ -245,6 +246,155 @@ app.post('/api/blast-search', async (req, res) => {
     const topMatches = scored.sort((a, b) => b.alignmentScore - a.alignmentScore).slice(0, 10);
     res.json({ matches: topMatches });
   } catch (err) {
+    res.status(500).json({ error: 'Server error', details: err.message });
+  }
+});
+
+// Kinase-Substrate Interaction Search API
+app.get('/api/kinase-substrates', async (req, res) => {
+  try {
+    let { kinase_id, kinase_gene, substrate_id, substrate_gene, limit } = req.query;
+    const query = {};
+
+    // Build query based on parameters
+    if (kinase_id && kinase_id.trim() !== '') {
+      query["kinase|uniprot_id"] = { $regex: `^${kinase_id.trim()}$`, $options: 'i' };
+    }
+    if (kinase_gene && kinase_gene.trim() !== '') {
+      query["kinase|gene_name"] = { $regex: kinase_gene.trim(), $options: 'i' };
+    }
+    if (substrate_id && substrate_id.trim() !== '') {
+      query["substrate|uniprot_id"] = { $regex: `^${substrate_id.trim()}$`, $options: 'i' };
+    }
+    if (substrate_gene && substrate_gene.trim() !== '') {
+      query["substrate|gene_name"] = { $regex: substrate_gene.trim(), $options: 'i' };
+    }
+
+    if (Object.keys(query).length === 0) {
+      return res.status(400).json({
+        error: 'At least one search parameter (kinase_id, kinase_gene, substrate_id, or substrate_gene) must be provided.'
+      });
+    }
+
+    const limitNum = parseInt(limit) || 50;
+    const results = await KinaseDataset.find(query).limit(limitNum);
+
+    if (results.length === 0) {
+      return res.status(404).json({ error: 'No kinase-substrate interactions found' });
+    }
+
+    // Format the response
+    const formattedResults = results.map(r => {
+      const obj = r.toObject ? r.toObject() : r;
+      return {
+        kinase: {
+          uniprot_id: obj["kinase|uniprot_id"],
+          gene_name: obj["kinase|gene_name"],
+          organism: obj["kinase|organism"],
+          family: obj["kinase|family"],
+          domain_sequence: obj["kinase|domainsequence"],
+          full_sequence: obj["kinase|fullsequence"]
+        },
+        substrate: {
+          uniprot_id: obj["substrate|uniprot_id"],
+          gene_name: obj["substrate|gene_name"],
+          organism: obj["substrate|organism"],
+          phosphorylation_site: obj["substrate|phosphorylationsite"],
+          motif_15aa: obj["substrate|15AAmotif"],
+          full_sequence: obj["substrate|fullsequence"]
+        },
+        interaction_details: {
+          motif_merged: obj["Motif_Merged"],
+          kinase_domain_description: obj["Kinase_Domain_Description"],
+          kinase_domain_coordinates: obj["Kinase_Domain_Coordinates"],
+          data_source: obj["Data|source"],
+          updated_domain_name: obj["Updated_Domain_Name"]
+        }
+      };
+    });
+
+    res.json({
+      total: results.length,
+      interactions: formattedResults
+    });
+  } catch (err) {
+    console.error('Kinase-substrate search error:', err);
+    res.status(500).json({ error: 'Server error', details: err.message });
+  }
+});
+
+// Get all substrates for a specific kinase
+app.get('/api/kinase/:uniprot_id/substrates', async (req, res) => {
+  try {
+    const { uniprot_id } = req.params;
+    const { limit } = req.query;
+
+    const query = { "kinase|uniprot_id": { $regex: `^${uniprot_id}$`, $options: 'i' } };
+    const limitNum = parseInt(limit) || 100;
+
+    const results = await KinaseDataset.find(query).limit(limitNum);
+
+    if (results.length === 0) {
+      return res.status(404).json({ error: `No substrates found for kinase ${uniprot_id}` });
+    }
+
+    const substrates = results.map(r => {
+      const obj = r.toObject ? r.toObject() : r;
+      return {
+        substrate_uniprot_id: obj["substrate|uniprot_id"],
+        substrate_gene_name: obj["substrate|gene_name"],
+        phosphorylation_site: obj["substrate|phosphorylationsite"],
+        motif_15aa: obj["substrate|15AAmotif"],
+        motif_merged: obj["Motif_Merged"],
+        data_source: obj["Data|source"]
+      };
+    });
+
+    res.json({
+      kinase_uniprot_id: uniprot_id,
+      substrate_count: substrates.length,
+      substrates: substrates
+    });
+  } catch (err) {
+    console.error('Get kinase substrates error:', err);
+    res.status(500).json({ error: 'Server error', details: err.message });
+  }
+});
+
+// Get all kinases that phosphorylate a specific substrate
+app.get('/api/substrate/:uniprot_id/kinases', async (req, res) => {
+  try {
+    const { uniprot_id } = req.params;
+    const { limit } = req.query;
+
+    const query = { "substrate|uniprot_id": { $regex: `^${uniprot_id}$`, $options: 'i' } };
+    const limitNum = parseInt(limit) || 100;
+
+    const results = await KinaseDataset.find(query).limit(limitNum);
+
+    if (results.length === 0) {
+      return res.status(404).json({ error: `No kinases found for substrate ${uniprot_id}` });
+    }
+
+    const kinases = results.map(r => {
+      const obj = r.toObject ? r.toObject() : r;
+      return {
+        kinase_uniprot_id: obj["kinase|uniprot_id"],
+        kinase_gene_name: obj["kinase|gene_name"],
+        kinase_family: obj["kinase|family"],
+        phosphorylation_site: obj["substrate|phosphorylationsite"],
+        motif_15aa: obj["substrate|15AAmotif"],
+        data_source: obj["Data|source"]
+      };
+    });
+
+    res.json({
+      substrate_uniprot_id: uniprot_id,
+      kinase_count: kinases.length,
+      kinases: kinases
+    });
+  } catch (err) {
+    console.error('Get substrate kinases error:', err);
     res.status(500).json({ error: 'Server error', details: err.message });
   }
 });
