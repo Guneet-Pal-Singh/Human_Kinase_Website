@@ -94,7 +94,7 @@ function Results() {
       <div className="container" style={{ background: 'linear-gradient(135deg, #e3f0ff 0%, #f8fbff 100%)', minHeight: '100vh', padding: 0 }}>
          <h1 className="title" style={{ color: '#1565a5', fontWeight: 800, letterSpacing: 1, marginTop: 32, marginBottom: 32, textAlign: 'center', fontSize: 32 }}>Human Kinase UniProt Search</h1>
         <div className="result-layout" ref={resultRef} style={{ display: 'flex', gap: 32, justifyContent: 'center', alignItems: 'flex-start', background: 'white', borderRadius: 18, boxShadow: '0 6px 32px 0 rgba(35,102,168,0.10)', border: '1px solid #e3eaf1', padding: 36, maxWidth: 1300, margin: '0 auto' }}>
-          <div className="structure-box" style={{ flex: 1, minWidth: 340, background: '#f4faff', borderRadius: 14, padding: 24, boxShadow: '0 2px 8px 0 rgba(35,102,168,0.06)' }}>
+          <div className="structure-box" style={{ flex: 1, minWidth: 340, background: '#f4faff', borderRadius: 14, padding: 24, boxShadow: '0 2px 8px 0 rgba(35,102,168,0.06)', display: 'flex', flexDirection: 'column', height: 520 }}>
             <div
               id="nglViewer"
               className="ngl-viewer"
@@ -123,7 +123,7 @@ function Results() {
             <div className="sequence-label" style={{ color: '#2366a8', fontWeight: 700, marginTop: 18 }}><strong>Sequence:</strong></div>
             <div className="sequence sequence-bg" style={{ background: '#e3f0ff', color: '#1a3557', borderRadius: 6, padding: 10, fontFamily: 'monospace', fontSize: 14, marginTop: 4 }}>{result.sequence}</div>
           </div>
-           <div className="info-box" style={{ flex: 1, minWidth: 340, background: '#f4faff', borderRadius: 14, padding: 24, boxShadow: '0 2px 8px 0 rgba(35,102,168,0.06)' }}>
+           <div className="info-box" style={{ flex: 1, minWidth: 340, background: '#f4faff', borderRadius: 14, padding: 24, boxShadow: '0 2px 8px 0 rgba(35,102,168,0.06)', height: 520, overflowY: 'auto', display: 'flex', flexDirection: 'column' }}>
             <div className="uniprot-id-value" style={{ color: '#1565a5', fontWeight: 700, fontSize: 18, marginBottom: 18 }}>
               Gene Name: {result["gene names (primary)"]}
             </div>
@@ -137,29 +137,6 @@ function Results() {
             <div className="info-row"><strong className="info-label" style={{ color: '#1565a5' }}>Common Gene Names:</strong> <span className="info-value" style={{ color: '#1a3557' }}>{result.All_Gene_Names}</span></div>
             <div className="info-row"><strong className="info-label" style={{ color: '#1565a5' }}>EC Number:</strong> <span className="info-value" style={{ color: '#1a3557' }}>{result.EC_number}</span></div>
             <div className="info-row"><strong className="info-label" style={{ color: '#1565a5' }}>Data Sources:</strong> <span className="info-value" style={{ color: '#1a3557' }}>{result.data_sources}</span></div>
-            {result.substrates && (
-              <div className="info-row">
-                <strong className="info-label" style={{ color: '#1565a5' }}>Substrate:</strong>
-                <span className="info-value" style={{ color: '#1a3557' }}>
-                  {result.substrates.split(',').map((substrate, idx) => {
-                    const trimmed = substrate.trim();
-                    return (
-                      <React.Fragment key={trimmed}>
-                        <a
-                          href={`https://www.uniprot.org/uniprotkb/${trimmed}`}
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          style={{ color: '#2366a8', cursor: 'pointer', fontWeight: 600 }}
-                        >
-                          {trimmed}
-                        </a>
-                        {idx < result.substrates.split(',').length - 1 && ', '}
-                      </React.Fragment>
-                    );
-                  })}
-                </span>
-              </div>
-            )}
           </div>
         </div>
       </div>
