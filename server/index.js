@@ -1,3 +1,6 @@
+import fs from 'fs';
+import csv from 'csv-parser';
+
 import express from 'express';
 import mongoose from 'mongoose';
 import cors from 'cors';
@@ -47,6 +50,64 @@ app.get('/api/search', async (req, res) => {
     });
   } catch (err) {
     res.status(500).json({ error: 'Server error' });
+  }
+});
+
+// ...existing code...
+
+// API: Get substrate details from kinase_substrate_data.csv
+// POST /api/substrate-details
+// Body: { substrates: ["substrate1", "substrate2", ...] }
+// Returns: Object mapping each input substrate to an array of objects with specified columns
+app.post('/api/substrate-details', async (req, res) => {
+  try {
+    let { substrates, kinase_id } = req.body;
+    // Accept substrates as comma-separated string or array
+    if (typeof substrates === 'string') {
+      substrates = substrates.split(',').map(s => s.trim()).filter(Boolean);
+    }
+    if (!Array.isArray(substrates) || substrates.length === 0 || !kinase_id) {
+      return res.status(400).json({ error: 'A non-empty array or comma-separated string of substrates and a kinase_id are required.' });
+    }
+    const kinaseIdLc = kinase_id.toLowerCase();
+    const details = {};
+    substrates.forEach(s => { details[s] = null; });
+    const inputLowerMap = {};
+    substrates.forEach(s => { inputLowerMap[s.toLowerCase()] = s; });
+    const filePath = path.join(__dirname, '../kinase_substrate_data.csv');
+    const columns = [
+      'substrate|uniprot_id',
+      'substrate|gene_name',
+      'substrate|organism',
+      'substrate|15AAmotif',
+      'Data|source',
+      'residue',
+      'location_residue'
+    ];
+    const found = new Set();
+    fs.createReadStream(filePath)
+      .pipe(csv())
+      .on('data', (row) => {
+        const geneName = (row['substrate|gene_name'] || '').toLowerCase();
+        const uniprotId = (row['substrate|uniprot_id'] || '').toLowerCase();
+        const rowKinaseId = (row['kinase|uniprot_id'] || '').toLowerCase();
+        Object.keys(inputLowerMap).forEach(inputLc => {
+          if (!found.has(inputLc) && (inputLc === geneName || inputLc === uniprotId) && rowKinaseId === kinaseIdLc) {
+            const entry = {};
+            columns.forEach(col => { entry[col] = row[col] || ''; });
+            details[inputLowerMap[inputLc]] = entry;
+            found.add(inputLc);
+          }
+        });
+      })
+      .on('end', () => {
+        res.json({ details });
+      })
+      .on('error', (err) => {
+        res.status(500).json({ error: 'Failed to read CSV', details: err.message });
+      });
+  } catch (err) {
+    res.status(500).json({ error: 'Server error', details: err.message });
   }
 });
 
