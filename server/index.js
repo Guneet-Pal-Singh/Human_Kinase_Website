@@ -74,7 +74,7 @@ app.post('/api/substrate-details', async (req, res) => {
     substrates.forEach(s => { details[s] = null; });
     const inputLowerMap = {};
     substrates.forEach(s => { inputLowerMap[s.toLowerCase()] = s; });
-    const filePath = path.join(__dirname, '../kinase_substrate_data.csv');
+    const filePath = path.join(__dirname, '../kinase_substrate_data_filled1.csv');
     const columns = [
       'substrate|uniprot_id',
       'substrate|gene_name',

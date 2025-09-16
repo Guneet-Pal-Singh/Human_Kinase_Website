@@ -12,7 +12,7 @@ import { fileURLToPath } from 'url';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
-const CSV_PATH = path.resolve(__dirname, '../kinase_substrate_data.csv');
+const CSV_PATH = path.resolve(__dirname, '../kinase_substrate_data_filled1.csv');
 
 async function importKinaseDataset() {
     try {
