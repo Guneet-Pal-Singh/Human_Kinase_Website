@@ -74,7 +74,7 @@ app.post('/api/substrate-details', async (req, res) => {
     substrates.forEach(s => { details[s] = null; });
     const inputLowerMap = {};
     substrates.forEach(s => { inputLowerMap[s.toLowerCase()] = s; });
-    const filePath = path.join(__dirname, '../kinase_substrate_data_filled1.csv');
+    const filePath = path.join(__dirname, '../kinase_substrate_data_normalized.csv');
     const columns = [
       'substrate|uniprot_id',
       'substrate|gene_name',
@@ -470,8 +470,8 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 app.get('/api/download-csv', (req, res) => {
-  const csvPath = path.join(__dirname, '../DATA_TO_USE.csv');
-  res.download(csvPath, 'DATA_TO_USE.csv', (err) => {
+  const csvPath = path.join(__dirname, '../DATA_TO_USE_filled.csv');
+  res.download(csvPath, 'DATA_TO_USE_filled.csv', (err) => {
     if (err) {
       res.status(500).json({ error: 'Failed to download CSV.' });
     }
