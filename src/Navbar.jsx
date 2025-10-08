@@ -118,7 +118,7 @@ function Navbar() {
         <a href="/" className="nav-logo">KinaseDB</a>
         <div className="nav-links">
           <a href="/" className="nav-link">Home</a>
-          <button className="nav-link" style={{background:'rgba(0,0,0,0.25)',border:'none',borderRadius:'4px',padding:'0.3em 0.8em',cursor:'pointer'}} onClick={handleDownloadCSV} onMouseOver={e => (e.target.style.background='#0a6cb5')} onMouseOut={e=>(e.target.style.background='rgba(0,0,0,0.25)')}>
+          <button className="nav-link" style={{background:'rgba(0,0,0,0.25)',border:'none',borderRadius:'4px',padding:'0.3em 0.8em',cursor:'pointer'}} onClick={handleDownloadCSV}>
             Download
           </button>
           {/* Data Sources Dropdown */}
@@ -140,7 +140,7 @@ function Navbar() {
           {/* SEARCH Dropdown with forms */}
           <div className="dropdown" ref={searchDropdownRef} style={{display: 'inline-block'}}>
             <button className="dropbtn" onClick={() => setSearchDropdownOpen(open => !open)}>
-              Search <span style={{fontSize: '0.7em'}}>▼</span>
+              SEARCH <span style={{fontSize: '0.7em'}}>▼</span>
             </button>
             <div className={`dropdown-content${searchDropdownOpen ? ' show' : ''}`} style={{minWidth: 420, padding: 0}}>
               <div style={{display: 'flex', flexDirection: 'row', borderBottom: '1px solid #eee'}}>
