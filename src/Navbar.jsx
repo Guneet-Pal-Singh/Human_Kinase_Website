@@ -118,6 +118,7 @@ function Navbar() {
         <a href="/" className="nav-logo">KinaseDB</a>
         <div className="nav-links">
           <a href="/" className="nav-link">Home</a>
+          <a href="/kinase_disease" className="nav-link">Disease</a>
           <button className="nav-link" style={{background:'rgba(0,0,0,0.25)',border:'none',borderRadius:'4px',padding:'0.3em 0.8em',cursor:'pointer'}} onClick={handleDownloadCSV} onMouseOver={e => (e.target.style.background='#0a6cb5')} onMouseOut={e=>(e.target.style.background='rgba(0,0,0,0.25)')}>
             Download
           </button>

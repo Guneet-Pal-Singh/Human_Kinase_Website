@@ -44,6 +44,22 @@ function Results() {
     return parsed;
   }, [location.state, searchParams]);
   // Fetch substrate details from backend
+
+  const dataSources = [
+    { name: 'SugiyamaDB', url: 'https://esbl.nhlbi.nih.gov/Databases/Kinase_Logos/' },
+    { name: 'KincoreDB', url: 'http://dunbrack.fccc.edu/kincore/download' },
+    { name: 'HKPocketDB', url: 'http://zhaoserver.com.cn/HKPocket/HKPocket.html' },
+    { name: 'phosformer', url: 'https://github.com/esbgkannan/phosformer/blob/main/data/reference_human_kinases.csv ' },
+    { name: 'KinaseMD', url: 'https://bioinfo.uth.edu/kmd/download.html' },
+    { name: 'Kinbase', url: 'http://kinase.com/web/current/kinbase/genes/SpeciesID/9606/' },
+    { name: 'Kinhub', url: 'http://kinhub.org/kinases.html' },
+    { name: 'KLIFS', url: 'https://klifs.net/api/kinase_names?species=HUMAN' },
+    { name: 'Pkinfam', url: 'https://www.uniprot.org/docs/pkinfam.txt' },
+    { name: 'Duntrack MSA', url: 'https://static-content.springer.com/esm/art%3A10.1038%2Fs41598-019-56499-4/MediaObjects/41598_2019_56499_MOESM4_ESM.txt' },
+    { name: 'dunbrack_kincore', url: 'http://dunbrack3.fccc.edu/kincore/static/downloads/text-files/Human_Allgroups_Allspatials_Alldihedrals_All.tab' },
+    { name: 'UniProt', url: 'https://www.uniprot.org/uniprotkb?query=%28reviewed%3Atrue%29+AND+%28organism_id%3A9606%29+AND+%28family%3A%22protein+kinase+superfamily%22%29' },
+  ];
+
   useEffect(() => {
     if (!result || !result.substrates || !result.uniprot_id) return;
     let substrates = result.substrates;
@@ -125,7 +141,7 @@ function Results() {
     <>
       <Navbar />
       <div className="container" style={{ background: 'linear-gradient(135deg, #e3f0ff 0%, #f8fbff 100%)', minHeight: '100vh', padding: 0 }}>
-         <h1 className="title" style={{ color: '#1565a5', fontWeight: 800, letterSpacing: 1, marginTop: 32, marginBottom: 32, textAlign: 'center', fontSize: 32 }}>Human Kinase UniProt Search</h1>
+        <h1 className="title" style={{ color: '#1565a5', fontWeight: 800, letterSpacing: 1, marginTop: 32, marginBottom: 32, textAlign: 'center', fontSize: 32 }}>Human Kinase UniProt Search</h1>
         <div className="result-layout" ref={resultRef} style={{ display: 'flex', gap: 32, justifyContent: 'center', alignItems: 'flex-start', background: 'white', borderRadius: 18, boxShadow: '0 6px 32px 0 rgba(35,102,168,0.10)', border: '1px solid #e3eaf1', padding: 36, maxWidth: 1300, margin: '0 auto' }}>
           <div className="structure-box" style={{ flex: 1, minWidth: 340, background: '#f4faff', borderRadius: 14, padding: 24, boxShadow: '0 2px 8px 0 rgba(35,102,168,0.06)', display: 'flex', flexDirection: 'column', height: 520 }}>
             <div
@@ -156,7 +172,7 @@ function Results() {
             <div className="sequence-label" style={{ color: '#2366a8', fontWeight: 700, marginTop: 18 }}><strong>Sequence:</strong></div>
             <div className="sequence sequence-bg" style={{ background: '#e3f0ff', color: '#1a3557', borderRadius: 6, padding: 10, fontFamily: 'monospace', fontSize: 14, marginTop: 4 }}>{result.sequence}</div>
           </div>
-           <div className="info-box" style={{ flex: 1, minWidth: 340, background: '#f4faff', borderRadius: 14, padding: 24, boxShadow: '0 2px 8px 0 rgba(35,102,168,0.06)', height: 520, overflowY: 'auto', display: 'flex', flexDirection: 'column' }}>
+          <div className="info-box" style={{ flex: 1, minWidth: 340, background: '#f4faff', borderRadius: 14, padding: 24, boxShadow: '0 2px 8px 0 rgba(35,102,168,0.06)', height: 520, overflowY: 'auto', display: 'flex', flexDirection: 'column' }}>
             <div className="uniprot-id-value" style={{ color: '#1565a5', fontWeight: 700, fontSize: 18, marginBottom: 18 }}>
               Gene Name: {result["gene names (primary)"]}
             </div>
@@ -169,7 +185,50 @@ function Results() {
             <div className="info-row"><strong className="info-label" style={{ color: '#1565a5' }}>Protein Families:</strong> <span className="info-value" style={{ color: '#1a3557' }}>{result["protein families"]}</span></div>
             <div className="info-row"><strong className="info-label" style={{ color: '#1565a5' }}>Common Gene Names:</strong> <span className="info-value" style={{ color: '#1a3557' }}>{result.All_Gene_Names}</span></div>
             <div className="info-row"><strong className="info-label" style={{ color: '#1565a5' }}>EC Number:</strong> <span className="info-value" style={{ color: '#1a3557' }}>{result.EC_number}</span></div>
-            <div className="info-row"><strong className="info-label" style={{ color: '#1565a5' }}>Data Sources:</strong> <span className="info-value" style={{ color: '#1a3557' }}>{result.data_sources}</span></div>
+            <div className="info-row"><strong className="info-label" style={{ color: '#1565a5' }}>Data Sources:</strong>
+              <span className="info-value" style={{ color: '#1a3557' }}>
+                {(() => {
+                  if (!result.data_sources) return '-';
+                  // Accept arrays or strings; split on semicolon or comma
+                  const raw = Array.isArray(result.data_sources) ? result.data_sources : String(result.data_sources);
+                  const parts = raw.split(/[;,]+/).map(s => s.trim()).filter(Boolean);
+                  if (parts.length === 0) return '-';
+
+                  const normalize = s => String(s || '').replace(/[_\W]+/g, ' ').trim().toLowerCase();
+
+                  return (
+                    <>
+                      {parts.map((p, i) => {
+                        const n = normalize(p);
+                        const found = dataSources.find(ds => {
+                          const nName = normalize(ds.name);
+                          return nName === n || nName.includes(n) || n.includes(nName);
+                        });
+                        const looksLikeUrl = /^(https?:)?\/\//i.test(p);
+                        if (found) {
+                          return (
+                            <span key={p + i}>
+                              <a href={found.url} target="_blank" rel="noopener noreferrer" style={{ color: '#2366a8', cursor: 'pointer', fontWeight: 600 }}>{found.name}</a>
+                              {i < parts.length - 1 ? '; ' : ''}
+                            </span>
+                          );
+                        }
+                        if (looksLikeUrl) {
+                          return (
+                            <span key={p + i}>
+                              <a href={p} target="_blank" rel="noopener noreferrer" style={{ color: '#2366a8', cursor: 'pointer', fontWeight: 600 }}>{p}</a>
+                              {i < parts.length - 1 ? '; ' : ''}
+                            </span>
+                          );
+                        }
+                        // Fallback: plain text (preserve original casing) and separator
+                        return <span key={p + i}>{p}{i < parts.length - 1 ? '; ' : ''}</span>;
+                      })}
+                    </>
+                  );
+                })()}
+              </span>
+            </div>
           </div>
         </div>
         {/* Substrate Details Table */}
