@@ -58,6 +58,7 @@ function Results() {
     { name: 'Duntrack MSA', url: 'https://static-content.springer.com/esm/art%3A10.1038%2Fs41598-019-56499-4/MediaObjects/41598_2019_56499_MOESM4_ESM.txt' },
     { name: 'dunbrack_kincore', url: 'http://dunbrack3.fccc.edu/kincore/static/downloads/text-files/Human_Allgroups_Allspatials_Alldihedrals_All.tab' },
     { name: 'UniProt', url: 'https://www.uniprot.org/uniprotkb?query=%28reviewed%3Atrue%29+AND+%28organism_id%3A9606%29+AND+%28family%3A%22protein+kinase+superfamily%22%29' },
+    // Add more as needed
   ];
 
   useEffect(() => {
@@ -160,7 +161,7 @@ function Results() {
                 overflow: 'hidden'
               }}
             ></div>
-            <div style={{ margin:'10px 0' }}>
+            <div style={{ margin: '10px 0' }}>
               <a
                 href={`/pdb_files/${result.pdb}.pdb`}
                 download={`${result.pdb}.pdb`}
