@@ -477,3 +477,126 @@ app.get('/api/download-csv', (req, res) => {
     }
   });
 });
+
+
+// API: List all unique Disease_Name values from Kinase_Diseases_Dataset.csv
+app.get('/api/diseases', (req, res) => {
+  try {
+    const csvPath = path.join(__dirname, '../Kinase_Diseases_Dataset.csv');
+    const diseases = new Set();
+    fs.createReadStream(csvPath)
+      .pipe(csv())
+      .on('data', (row) => {
+        const name = (row['Disease_Name'] || row['disease_name'] || '').trim();
+        if (name) diseases.add(name);
+      })
+      .on('end', () => {
+        const arr = Array.from(diseases).sort();
+        res.json({ count: arr.length, diseases: arr });
+      })
+      .on('error', (err) => {
+        res.status(500).json({ error: 'Failed to read CSV', details: err.message });
+      });
+  } catch (err) {
+    res.status(500).json({ error: 'Server error', details: err.message });
+  }
+});
+
+// API: Lookup diseases by uniprot OR lookup uniprots by disease
+// Query parameters:
+//   ?uniprot=O00141    -> returns { uniprot, diseases: [...] }
+//   ?disease=Name      -> returns { disease, uniprots: [...] }
+app.get('/api/kinase-disease-lookup', (req, res) => {
+  try {
+    const { uniprot, disease } = req.query;
+    if ((!uniprot || String(uniprot).trim() === '') && (!disease || String(disease).trim() === '')) {
+      return res.status(400).json({ error: 'Provide either `uniprot` or `disease` query parameter.' });
+    }
+
+    const csvPath = path.join(__dirname, '../Kinase_Diseases_Dataset.csv');
+
+  // Support comma-separated lists for UniProt only. For disease, treat the full string as a single name
+  const uniprotInputs = uniprot ? String(uniprot).split(',').map(s => s.trim()).filter(Boolean) : [];
+  const diseaseInputs = disease && String(disease).trim() !== '' ? [String(disease).trim()] : [];
+
+    const resultsMap = {};
+
+    fs.createReadStream(csvPath)
+      .pipe(csv())
+      .on('data', (row) => {
+        const rowUniRaw = (row['UniProt'] || row['uniprot'] || '').trim();
+        const rowEnsembl = (row['Ensembl'] || row['ensembl'] || '').trim();
+        const rowDiseaseRaw = (row['Disease_Name'] || row['disease_name'] || '').trim();
+        const rowDiseaseId = (row['Disease_ID'] || row['disease_id'] || '').trim();
+        const rowDatasource = (row['Datasource_Scores'] || row['datasource_scores'] || row['Datasource_Scores'] || '').trim();
+        const rowScore = (row['Score'] || row['score'] || '').trim();
+
+        if (!rowUniRaw && !rowDiseaseRaw) return; // skip empty rows
+
+        const outRow = {
+          UniProt: rowUniRaw,
+          Ensembl: rowEnsembl,
+          Disease_ID: rowDiseaseId,
+          Disease_Name: rowDiseaseRaw,
+          Datasource_Scores: rowDatasource,
+          Score: rowScore
+        };
+
+        // If uniprot lookup, collect full rows per requested uniprot(s)
+        if (uniprotInputs.length > 0 && rowUniRaw) {
+          uniprotInputs.forEach(inp => {
+            if (inp && inp.toLowerCase() === rowUniRaw.toLowerCase()) {
+              if (!resultsMap[inp]) resultsMap[inp] = [];
+              resultsMap[inp].push(outRow);
+            }
+          });
+        }
+
+        // If disease lookup, collect full rows per requested disease(s)
+        if (diseaseInputs.length > 0 && rowDiseaseRaw) {
+          diseaseInputs.forEach(inp => {
+            if (inp && inp.toLowerCase() === rowDiseaseRaw.toLowerCase()) {
+              if (!resultsMap[inp]) resultsMap[inp] = [];
+              resultsMap[inp].push(outRow);
+            }
+          });
+        }
+      })
+      .on('end', () => {
+        // Deduplicate rows per input (by JSON string) and return
+        const formatted = {};
+        Object.keys(resultsMap).forEach(k => {
+          const seen = new Set();
+          const uniq = [];
+          (resultsMap[k] || []).forEach(r => {
+            const key = JSON.stringify([r.UniProt, r.Ensembl, r.Disease_ID, r.Disease_Name, r.Datasource_Scores, r.Score]);
+            if (!seen.has(key)) {
+              seen.add(key);
+              uniq.push(r);
+            }
+          });
+          formatted[k] = uniq;
+        });
+
+        if (uniprotInputs.length > 0 && diseaseInputs.length === 0) {
+          const out = uniprotInputs.map(u => ({ uniprot: u, rows: formatted[u] || [] }));
+          return res.json({ results: out });
+        }
+        if (diseaseInputs.length > 0 && uniprotInputs.length === 0) {
+          const out = diseaseInputs.map(d => ({ disease: d, rows: formatted[d] || [] }));
+          return res.json({ results: out });
+        }
+        // If both provided, return both mappings keyed by input
+        return res.json({ results: formatted });
+      })
+      .on('error', (err) => {
+        res.status(500).json({ error: 'Failed to read CSV', details: err.message });
+      });
+
+  } catch (err) {
+    res.status(500).json({ error: 'Server error', details: err.message });
+  }
+});
+
+
+
