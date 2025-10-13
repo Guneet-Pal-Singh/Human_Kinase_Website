@@ -30,7 +30,6 @@ function Navbar() {
     { name: 'Duntrack MSA', url: 'https://static-content.springer.com/esm/art%3A10.1038%2Fs41598-019-56499-4/MediaObjects/41598_2019_56499_MOESM4_ESM.txt' },
     { name: 'Duntrack Kincore', url: 'http://dunbrack3.fccc.edu/kincore/static/downloads/text-files/Human_Allgroups_Allspatials_Alldihedrals_All.tab' },
     { name: 'UniProt', url: 'https://www.uniprot.org/uniprotkb?query=%28reviewed%3Atrue%29+AND+%28organism_id%3A9606%29+AND+%28family%3A%22protein+kinase+superfamily%22%29' },
-    // Add more as needed
   ];
   // Download CSV handler
   const handleDownloadCSV = async () => {
@@ -118,6 +117,7 @@ function Navbar() {
         <a href="/" className="nav-logo">KinaseDB</a>
         <div className="nav-links">
           <a href="/" className="nav-link">Home</a>
+          <a href="/kinase_disease" className="nav-link">Disease</a>
           <button className="nav-link" style={{background:'rgba(0,0,0,0.25)',border:'none',borderRadius:'4px',padding:'0.3em 0.8em',cursor:'pointer'}} onClick={handleDownloadCSV}>
             Download
           </button>
