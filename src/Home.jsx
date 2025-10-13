@@ -14,7 +14,6 @@ function Home() {
   const [error, setError] = useState('');
   const [searchType, setSearchType] = useState('normal'); // 'normal', 'blast', 'batch'
   const navigate = useNavigate();
-
   const handleSearch = async (e) => {
     e.preventDefault();
     setError('');

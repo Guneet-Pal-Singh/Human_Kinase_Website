@@ -44,6 +44,23 @@ function Results() {
     return parsed;
   }, [location.state, searchParams]);
   // Fetch substrate details from backend
+  
+  const dataSources = [
+    { name: 'SugiyamaDB', url: 'https://esbl.nhlbi.nih.gov/Databases/Kinase_Logos/' },
+    { name: 'KincoreDB', url: 'http://dunbrack.fccc.edu/kincore/download' },
+    { name: 'HKPocketDB', url: 'http://zhaoserver.com.cn/HKPocket/HKPocket.html' },
+    { name: 'phosformer', url: 'https://github.com/esbgkannan/phosformer/blob/main/data/reference_human_kinases.csv ' },
+    { name: 'KinaseMD', url: 'https://bioinfo.uth.edu/kmd/download.html' },
+    { name: 'Kinbase', url: 'http://kinase.com/web/current/kinbase/genes/SpeciesID/9606/' },
+    { name: 'Kinhub', url: 'http://kinhub.org/kinases.html' },
+    { name: 'KLIFS', url: 'https://klifs.net/api/kinase_names?species=HUMAN' },
+    { name: 'Pkinfam', url: 'https://www.uniprot.org/docs/pkinfam.txt' },
+    { name: 'Duntrack MSA', url: 'https://static-content.springer.com/esm/art%3A10.1038%2Fs41598-019-56499-4/MediaObjects/41598_2019_56499_MOESM4_ESM.txt' },
+    { name: 'dunbrack_kincore', url: 'http://dunbrack3.fccc.edu/kincore/static/downloads/text-files/Human_Allgroups_Allspatials_Alldihedrals_All.tab' },
+    { name: 'UniProt', url: 'https://www.uniprot.org/uniprotkb?query=%28reviewed%3Atrue%29+AND+%28organism_id%3A9606%29+AND+%28family%3A%22protein+kinase+superfamily%22%29' },
+    // Add more as needed
+  ];
+
   useEffect(() => {
     if (!result || !result.substrates || !result.uniprot_id) return;
     let substrates = result.substrates;
@@ -169,7 +186,50 @@ function Results() {
             <div className="info-row"><strong className="info-label" style={{ color: '#1565a5' }}>Protein Families:</strong> <span className="info-value" style={{ color: '#1a3557' }}>{result["protein families"]}</span></div>
             <div className="info-row"><strong className="info-label" style={{ color: '#1565a5' }}>Common Gene Names:</strong> <span className="info-value" style={{ color: '#1a3557' }}>{result.All_Gene_Names}</span></div>
             <div className="info-row"><strong className="info-label" style={{ color: '#1565a5' }}>EC Number:</strong> <span className="info-value" style={{ color: '#1a3557' }}>{result.EC_number}</span></div>
-            <div className="info-row"><strong className="info-label" style={{ color: '#1565a5' }}>Data Sources:</strong> <span className="info-value" style={{ color: '#1a3557' }}>{result.data_sources}</span></div>
+            <div className="info-row"><strong className="info-label" style={{ color: '#1565a5' }}>Data Sources:</strong>
+              <span className="info-value" style={{ color: '#1a3557' }}>
+                {(() => {
+                  if (!result.data_sources) return '-';
+                  // Accept arrays or strings; split on semicolon or comma
+                  const raw = Array.isArray(result.data_sources) ? result.data_sources : String(result.data_sources);
+                  const parts = raw.split(/[;,]+/).map(s => s.trim()).filter(Boolean);
+                  if (parts.length === 0) return '-';
+
+                  const normalize = s => String(s || '').replace(/[_\W]+/g, ' ').trim().toLowerCase();
+
+                  return (
+                    <>
+                      {parts.map((p, i) => {
+                        const n = normalize(p);
+                        const found = dataSources.find(ds => {
+                          const nName = normalize(ds.name);
+                          return nName === n || nName.includes(n) || n.includes(nName);
+                        });
+                        const looksLikeUrl = /^(https?:)?\/\//i.test(p);
+                        if (found) {
+                          return (
+                            <span key={p + i}>
+                              <a href={found.url} target="_blank" rel="noopener noreferrer" style={{ color: '#2366a8', cursor: 'pointer', fontWeight: 600 }}>{found.name}</a>
+                              {i < parts.length - 1 ? '; ' : ''}
+                            </span>
+                          );
+                        }
+                        if (looksLikeUrl) {
+                          return (
+                            <span key={p + i}>
+                              <a href={p} target="_blank" rel="noopener noreferrer" style={{ color: '#2366a8', cursor: 'pointer', fontWeight: 600 }}>{p}</a>
+                              {i < parts.length - 1 ? '; ' : ''}
+                            </span>
+                          );
+                        }
+                        // Fallback: plain text (preserve original casing) and separator
+                        return <span key={p + i}>{p}{i < parts.length - 1 ? '; ' : ''}</span>;
+                      })}
+                    </>
+                  );
+                })()}
+              </span>
+            </div>
           </div>
         </div>
         {/* Substrate Details Table */}
