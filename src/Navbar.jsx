@@ -140,7 +140,7 @@ function Navbar() {
           {/* SEARCH Dropdown with forms */}
           <div className="dropdown" ref={searchDropdownRef} style={{display: 'inline-block'}}>
             <button className="dropbtn" onClick={() => setSearchDropdownOpen(open => !open)}>
-              SEARCH <span style={{fontSize: '0.7em'}}>▼</span>
+              Search <span style={{fontSize: '0.7em'}}>▼</span>
             </button>
             <div className={`dropdown-content${searchDropdownOpen ? ' show' : ''}`} style={{minWidth: 420, padding: 0}}>
               <div style={{display: 'flex', flexDirection: 'row', borderBottom: '1px solid #eee'}}>

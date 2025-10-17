@@ -7,6 +7,7 @@ import { useLocation, useNavigate } from 'react-router-dom';
 import { useSearchParams } from 'react-router-dom';
 import './Home.css';
 import Navbar from './Navbar';
+import KinaseTree from './KinaseTree';
 function parseResultFromSearchParams(searchParams) {
   // Only parse known fields for safety
   const fields = [
@@ -276,7 +277,17 @@ function Results() {
           {substrateDetails && Object.keys(substrateDetails).length === 0 && !substrateLoading && (
             <div style={{ color: '#2366a8', fontWeight: 600 }}>No substrate details found.</div>
           )}
+
+          {/* KinaseTree visualization for kinase-disease associations */}
+          {result && result.uniprot_id && (
+            <div style={{ marginTop: 48 }}>
+              <h2 style={{ color: '#1565a5', fontWeight: 700, fontSize: 22, marginBottom: 18 }}>Kinase-Disease Associations</h2>
+              <KinaseTree kinaseId={result.uniprot_id} />
+            </div>
+          )}
+
         </div>
+
       </div>
       <style>
         {`
