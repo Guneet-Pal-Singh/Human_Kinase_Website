@@ -2,6 +2,7 @@ import React, { useState, useRef, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import './Home.css';
 import './navbar.css';
+import { base_url, extension_urls, search, download_csv } from '../config/urls';
 
 // Import the image from the public folder (Vite/React best practice is to use /[filename] for public assets)
 const navbarBg = '/dna_navbar.jpg'; // Place the image in the public/ folder as dna_navbar.jpg
@@ -34,7 +35,7 @@ function Navbar() {
   // Download CSV handler
   const handleDownloadCSV = async () => {
     try {
-      const response = await fetch('http://localhost:5001/api/download-csv');
+      const response = await fetch(`${base_url}${extension_urls}${download_csv}`);
       if (!response.ok) throw new Error('Failed to download CSV');
       const blob = await response.blob();
       const url = window.URL.createObjectURL(blob);
@@ -88,7 +89,7 @@ function Navbar() {
       const params = new URLSearchParams();
       if (uniprotId) params.append('uniprot_id', uniprotId);
       if (geneName) params.append('gene_name', geneName);
-      const res = await fetch(`http://localhost:5001/api/search?${params.toString()}`);
+      const res = await fetch(`${base_url}${extension_urls}${search}${params.toString()}`);
       if (!res.ok) throw new Error('Not found');
       const data = await res.json();
       const resultParams = new URLSearchParams();

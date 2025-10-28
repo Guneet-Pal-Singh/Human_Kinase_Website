@@ -4,6 +4,7 @@ import React, { useEffect, useState } from 'react';
 import { useLocation } from 'react-router-dom';
 import Navbar from './Navbar';
 import './Home.css';
+import {base_url, extension_urls, blast_search} from "../config/urls";
 
 function BlastResults() {
   const location = useLocation();
@@ -18,7 +19,7 @@ function BlastResults() {
     if (!sequence) return;
     setLoading(true);
     setError('');
-    fetch('http://localhost:5001/api/blast-search', {
+    fetch(`${base_url}${extension_urls}${blast_search}`, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ sequence }),

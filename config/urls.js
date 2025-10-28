@@ -1,0 +1,11 @@
+export const base_url = 'http://localhost:5001/';
+export const extension_urls = 'api/';
+export const search = 'search?';
+export const batch_result = 'batch-search';
+export const download_batch_csv = 'download-batch-csv';
+export const blast_search = 'blast-search';
+export const download_csv = 'download-csv';
+export const search_kinase = 'search';
+export const get_disease_list = 'diseases';
+export const kinase_disease_lookup_disease = 'kinase-disease-lookup?disease=';
+export const kinase_disease_lookup_uniprot = 'kinase-disease-lookup?uniprot=';

@@ -1,5 +1,6 @@
 import React, { useEffect, useRef, useState } from "react";
 import * as d3 from "d3";
+import { base_url, extension_urls, kinase_disease_lookup_uniprot } from "../config/urls";
 
 // Props: kinaseId (string)
 const KinaseTree = ({ kinaseId }) => {
@@ -21,7 +22,7 @@ const KinaseTree = ({ kinaseId }) => {
     if (!kinaseId) return;
     setLoading(true);
     setError(null);
-    fetch(`http://localhost:5001/api/kinase-disease-lookup?uniprot=${encodeURIComponent(kinaseId)}`)
+    fetch(`${base_url}${extension_urls}${kinase_disease_lookup_uniprot}${encodeURIComponent(kinaseId)}`)
       .then(res => res.json())
       .then(data => {
         if (data && data.results && Array.isArray(data.results[0]?.rows)) {

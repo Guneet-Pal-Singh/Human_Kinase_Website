@@ -1,6 +1,7 @@
 import React, { useEffect, useRef, useState } from "react";
 import * as d3 from "d3";
 import Navbar from "./Navbar";
+import {base_url, extension_urls, get_disease_list, kinase_disease_lookup_disease} from "../config/urls";
 
 const Kinase_Disease = ({}) => {
   const ref = useRef();
@@ -20,7 +21,7 @@ const Kinase_Disease = ({}) => {
 
   // Fetch diseases from API
   useEffect(() => {
-    fetch("http://localhost:5001/api/diseases")
+    fetch(`${base_url}${extension_urls}${get_disease_list}`)
       .then(res => res.json())
       .then(data => {
         let diseaseList = Array.isArray(data.diseases) ? data.diseases : [];
@@ -38,7 +39,7 @@ const Kinase_Disease = ({}) => {
       setKinaseData([]);
       return;
     }
-    fetch(`http://localhost:5001/api/kinase-disease-lookup?disease=${encodeURIComponent(selectedDisease)}`)
+    fetch(`${base_url}${extension_urls}${kinase_disease_lookup_disease}${encodeURIComponent(selectedDisease)}`)
       .then(res => res.json())
       .then(data => {
         if (data && data.results && data.results.length > 0 && Array.isArray(data.results[0].rows)) {

@@ -5,6 +5,7 @@ import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import Navbar from './Navbar';
 import './Home.css';
+import { base_url, extension_urls, search_kinase } from '../config/urls';
 
 function Home() {
   const [uniprotId, setUniprotId] = useState('');
@@ -25,7 +26,7 @@ function Home() {
       const params = new URLSearchParams();
       if (uniprotId) params.append('uniprot_id', uniprotId);
       if (geneName) params.append('gene_name', geneName);
-      const res = await fetch(`http://localhost:5001/api/search?${params.toString()}`);
+      const res = await fetch(`${base_url}${extension_urls}${search_kinase}?${params.toString()}`);
       if (!res.ok) throw new Error('Not found');
       const data = await res.json();
       // Serialize result data as query params for Results page

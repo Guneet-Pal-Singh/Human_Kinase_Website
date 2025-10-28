@@ -4,6 +4,7 @@ import React, { useEffect, useState, useRef } from 'react';
 import { useLocation } from 'react-router-dom';
 import Navbar from './Navbar';
 import './Home.css';
+import {base_url, extension_urls, batch_result, download_batch_csv} from "../config/urls";
 
 function parseQuery(queryString) {
   const params = new URLSearchParams(queryString);
@@ -34,7 +35,7 @@ export default function BatchResults() {
     if (!input) return;
     setLoading(true);
     setError('');
-    fetch('http://localhost:5001/api/batch-search', {
+    fetch(`${base_url}${extension_urls}${batch_result}`, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ inputs: input, type }),
@@ -54,7 +55,7 @@ export default function BatchResults() {
   }, [input, type]);
 
   const handleDownload = async () => {
-    const url = 'http://localhost:5001/api/download-batch-csv';
+    const url = `${base_url}${extension_urls}${download_batch_csv}`;;
     try {
       const res = await fetch(url, {
         method: 'POST',
