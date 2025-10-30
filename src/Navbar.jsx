@@ -56,6 +56,7 @@ function Navbar() {
   const [uniprotId, setUniprotId] = useState('');
   const [geneName, setGeneName] = useState('');
   const [blastSequence, setBlastSequence] = useState('');
+  const [pocketSequence, setPocketSequence] = useState('');
   const [batchInput, setBatchInput] = useState('');
   const [error, setError] = useState('');
   const dropdownRef = useRef(null);
@@ -96,11 +97,15 @@ function Navbar() {
       const fields = [
         'uniprot_id', 'pdb', 'sequence', 'gene names (primary)', 'protein names',
         'kinase name', 'group', 'length', 'protein families', 'data_sources', 'EC_number',
-        'All_Gene_Names','substrates'
+        'All_Gene_Names','substrates', 'pocket'
       ];
       fields.forEach(f => {
         if (data[f]) resultParams.append(f, data[f]);
       });
+      // If the user provided a pocket sequence in the navbar input, include it
+      if (pocketSequence && pocketSequence.trim() !== '') {
+        resultParams.append('pocket', pocketSequence.trim());
+      }
       const url = `/results?${resultParams.toString()}`;
       window.open(url, '_blank');
     } catch (err) {
@@ -193,6 +198,14 @@ function Navbar() {
                       onChange={e => setGeneName(e.target.value)}
                       placeholder="Enter Gene Name"
                       className="home-input"
+                    />
+                    <input
+                      type="text"
+                      value={pocketSequence}
+                      onChange={e => setPocketSequence(e.target.value)}
+                      placeholder="Pocket sequence (optional)"
+                      className="home-input"
+                      style={{ fontFamily: 'monospace' }}
                     />
                   </div>
                   <button type="submit" className="home-search-btn">
