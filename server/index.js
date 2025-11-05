@@ -597,6 +597,3 @@ app.get('/api/kinase-disease-lookup', (req, res) => {
     res.status(500).json({ error: 'Server error', details: err.message });
   }
 });
-
-
-
