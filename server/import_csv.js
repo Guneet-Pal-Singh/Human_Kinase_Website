@@ -11,7 +11,7 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
-const CSV_PATH = path.resolve(__dirname, '../KinaseFinalData.csv');
+const CSV_PATH = path.resolve(__dirname, '../DATA_TO_USE.csv');
 
 async function importCSV() {
   try {
