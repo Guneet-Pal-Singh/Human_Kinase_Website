@@ -13,7 +13,7 @@ function parseResultFromSearchParams(searchParams) {
   const fields = [
     'uniprot_id', 'pdb', 'sequence', 'gene names (primary)', 'protein names',
     'kinase name', 'group', 'length', 'protein families', 'data_sources', 'EC_number',
-    'All_Gene_Names', 'substrates', 'pocket'
+    'All_Gene_Names', 'substrates', 'pocket', 'pdb_pocket'
   ];
   const result = {};
   fields.forEach(f => {
@@ -26,6 +26,8 @@ function parseResultFromSearchParams(searchParams) {
   } else {
     console.log(result.substrates)
   }
+
+  console.log(result.pdb_pocket)
   return Object.keys(result).length > 0 ? result : null;
 }
 
@@ -190,7 +192,7 @@ function Results() {
             {/* Pocket sequence (from navbar or backend) */}
             <div className="info-row">
               <strong className="info-label" style={{ color: '#1565a5' }}>Pocket Sequence:</strong>
-              <span className="info-value" style={{ color: '#1a3557', fontFamily: 'monospace', display: 'block', whiteSpace: 'pre-wrap', lineHeight: 1.6, textAlign: 'center' }}>{result.pocket || '-'}</span>
+              <span className="info-value" style={{ color: '#1a3557', fontFamily: 'monospace', display: 'block', whiteSpace: 'pre-wrap', lineHeight: 1.6, textAlign: 'center' }}>{result.pdb_pocket || '-'}</span>
             </div>
 
             <div className="info-row"><strong className="info-label" style={{ color: '#1565a5' }}>Data Sources:</strong>

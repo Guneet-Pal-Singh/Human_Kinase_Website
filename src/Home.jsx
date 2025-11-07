@@ -35,7 +35,7 @@ function Home() {
       const fields = [
         'uniprot_id', 'pdb', 'sequence', 'gene names (primary)', 'protein names',
         'kinase name', 'group', 'length', 'protein families', 'data_sources', 'EC_number',
-        'All_Gene_Names','substrates'
+        'All_Gene_Names', 'substrates', 'pdb_pocket'
       ];
       fields.forEach(f => {
         if (data[f]) resultParams.append(f, data[f]);
@@ -50,11 +50,11 @@ function Home() {
   return (
     <>
       <Navbar />
-      <div className="home-bg" style={{display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'flex-start'}}>
-        <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', width: '100%', marginTop: '40px'}}>
-          <div className="home-container" style={{maxWidth: 700, textAlign: 'center', marginBottom: 32, background: 'var(--container-bg)', borderRadius: 16, boxShadow: '0 6px 32px 0 rgba(0,0,0,0.10)', border: '1px solid #e3eaf1'}}>
-            <h1 style={{marginBottom: 16, color: 'var(--main-text)', fontWeight: 700}}>Human Kinase Structural Database</h1>
-            <p style={{fontSize: '1.1rem', color: 'var(--main-text)', marginBottom: 0, fontWeight: 500}}>
+      <div className="home-bg" style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'flex-start' }}>
+        <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', width: '100%', marginTop: '40px' }}>
+          <div className="home-container" style={{ maxWidth: 700, textAlign: 'center', marginBottom: 32, background: 'var(--container-bg)', borderRadius: 16, boxShadow: '0 6px 32px 0 rgba(0,0,0,0.10)', border: '1px solid #e3eaf1' }}>
+            <h1 style={{ marginBottom: 16, color: 'var(--main-text)', fontWeight: 700 }}>Human Kinase Structural Database</h1>
+            <p style={{ fontSize: '1.1rem', color: 'var(--main-text)', marginBottom: 0, fontWeight: 500 }}>
               Explore a comprehensive resource for human kinase structures, sequences, and annotations. Search by UniProt ID, gene name, or protein sequence (BLAST), or perform batch queries. Visualize, analyze, and download curated kinase data for research and discovery.
             </p>
           </div>

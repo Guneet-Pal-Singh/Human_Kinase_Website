@@ -97,7 +97,7 @@ function Navbar() {
       const fields = [
         'uniprot_id', 'pdb', 'sequence', 'gene names (primary)', 'protein names',
         'kinase name', 'group', 'length', 'protein families', 'data_sources', 'EC_number',
-        'All_Gene_Names','substrates', 'pocket'
+        'All_Gene_Names', 'substrates', 'pocket', 'pdb_pocket'
       ];
       fields.forEach(f => {
         if (data[f]) resultParams.append(f, data[f]);
@@ -124,18 +124,18 @@ function Navbar() {
         <div className="nav-links">
           <a href="/" className="nav-link">Home</a>
           <a href="/kinase_disease" className="nav-link">Disease</a>
-          <button className="nav-link" style={{background:'rgba(0,0,0,0.25)',border:'none',borderRadius:'4px',padding:'0.3em 0.8em',cursor:'pointer'}} onClick={handleDownloadCSV}>
+          <button className="nav-link" style={{ background: 'rgba(0,0,0,0.25)', border: 'none', borderRadius: '4px', padding: '0.3em 0.8em', cursor: 'pointer' }} onClick={handleDownloadCSV}>
             Download
           </button>
           {/* Data Sources Dropdown */}
-          <div className="dropdown" ref={dropdownRef} style={{display: 'inline-block', marginRight: 12}}>
+          <div className="dropdown" ref={dropdownRef} style={{ display: 'inline-block', marginRight: 12 }}>
             <button
               className="dropbtn"
               onClick={() => setDropdownOpen((open) => !open)}
               aria-haspopup="true"
               aria-expanded={dropdownOpen}
             >
-              Data Sources <span style={{fontSize: '0.7em'}}>▼</span>
+              Data Sources <span style={{ fontSize: '0.7em' }}>▼</span>
             </button>
             <div className={`dropdown-content${dropdownOpen ? ' show' : ''}`}>
               {dataSources.map(ds => (
@@ -144,19 +144,19 @@ function Navbar() {
             </div>
           </div>
           {/* SEARCH Dropdown with forms */}
-          <div className="dropdown" ref={searchDropdownRef} style={{display: 'inline-block'}}>
+          <div className="dropdown" ref={searchDropdownRef} style={{ display: 'inline-block' }}>
             <button className="dropbtn" onClick={() => setSearchDropdownOpen(open => !open)}>
-              Search <span style={{fontSize: '0.7em'}}>▼</span>
+              Search <span style={{ fontSize: '0.7em' }}>▼</span>
             </button>
-            <div className={`dropdown-content${searchDropdownOpen ? ' show' : ''}`} style={{minWidth: 420, padding: 0}}>
-              <div style={{display: 'flex', flexDirection: 'row', borderBottom: '1px solid #eee'}}>
-                {[{type:'normal',label:'Normal Search'},{type:'blast',label:'BLAST Search'},{type:'batch',label:'Batch Search'}].map(opt => (
+            <div className={`dropdown-content${searchDropdownOpen ? ' show' : ''}`} style={{ minWidth: 420, padding: 0 }}>
+              <div style={{ display: 'flex', flexDirection: 'row', borderBottom: '1px solid #eee' }}>
+                {[{ type: 'normal', label: 'Normal Search' }, { type: 'blast', label: 'BLAST Search' }, { type: 'batch', label: 'Batch Search' }].map(opt => (
                   <button
                     key={opt.type}
                     style={{
                       flex: 1,
-                      background: searchType===opt.type ? '#0a6cb5' : '#fff',
-                      color: searchType===opt.type ? '#fff' : '#065a8e',
+                      background: searchType === opt.type ? '#0a6cb5' : '#fff',
+                      color: searchType === opt.type ? '#fff' : '#065a8e',
                       border: 'none',
                       padding: '12px',
                       fontWeight: 600,
@@ -183,7 +183,7 @@ function Navbar() {
               </div>
               {/* Normal Search */}
               {searchType === 'normal' && (
-                <form onSubmit={handleSearch} className="home-form" style={{marginBottom: 0, boxShadow: 'none', padding: 24}}>
+                <form onSubmit={handleSearch} className="home-form" style={{ marginBottom: 0, boxShadow: 'none', padding: 24 }}>
                   <div className="home-input-group">
                     <input
                       type="text"
@@ -218,7 +218,7 @@ function Navbar() {
               {searchType === 'blast' && (
                 <form
                   className="home-form"
-                  style={{marginBottom: 0, boxShadow: 'none', padding: 24}}
+                  style={{ marginBottom: 0, boxShadow: 'none', padding: 24 }}
                   onSubmit={e => {
                     e.preventDefault();
                     if (!blastSequence) {
@@ -249,7 +249,7 @@ function Navbar() {
               {searchType === 'batch' && (
                 <form
                   className="home-form"
-                  style={{marginBottom: 0, boxShadow: 'none', padding: 24}}
+                  style={{ marginBottom: 0, boxShadow: 'none', padding: 24 }}
                   onSubmit={e => {
                     e.preventDefault();
                     if (!batchInput) {
@@ -268,7 +268,7 @@ function Navbar() {
                       placeholder="Enter UniProt IDs or Gene Names (comma or newline separated)"
                       className="home-input"
                       rows={4}
-                      style={{resize: 'vertical'}}
+                      style={{ resize: 'vertical' }}
                     />
                   </div>
                   <button type="submit" className="home-search-btn">
