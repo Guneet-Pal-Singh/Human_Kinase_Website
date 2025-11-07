@@ -181,7 +181,7 @@ function Results() {
               Gene Name: {result["gene names (primary)"]}
             </div>
             <div className="info-row"><strong className="info-label" style={{ color: '#1565a5' }}>Uniprot ID:</strong> <span className="info-value"><a href={`https://www.uniprot.org/uniprotkb/${result.uniprot_id}`} target="_blank" rel="noopener noreferrer" style={{ color: '#2366a8', cursor: 'pointer', fontWeight: 600 }}>{result.uniprot_id}</a></span></div>
-            <div className="info-row"><strong className="info-label" style={{ color: '#1565a5' }}>PDB:</strong> <span className="info-value"><a href={`https://www.rcsb.org/3d-view/${result.uniprot_id}`} target="_blank" rel="noopener noreferrer" style={{ color: '#2366a8', cursor: 'pointer', fontWeight: 600 }}>{result.uniprot_id}</a></span></div>
+            <div className="info-row"><strong className="info-label" style={{ color: '#1565a5' }}>PDB:</strong> <span className="info-value"><a href={`https://www.rcsb.org/3d-view/${result.pdb}`} target="_blank" rel="noopener noreferrer" style={{ color: '#2366a8', cursor: 'pointer', fontWeight: 600 }}>{result.pdb}</a></span></div>
             <div className="info-row"><strong className="info-label" style={{ color: '#1565a5' }}>Protein Name:</strong> <span className="info-value" style={{ color: '#1a3557' }}>{result["protein names"]}</span></div>
             <div className="info-row"><strong className="info-label" style={{ color: '#1565a5' }}>Kinase Name:</strong> <span className="info-value" style={{ color: '#1a3557' }}>{result["kinase name"]}</span></div>
             <div className="info-row"><strong className="info-label" style={{ color: '#1565a5' }}>Group:</strong> <span className="info-value" style={{ color: '#1a3557' }}>{result.group}</span></div>
