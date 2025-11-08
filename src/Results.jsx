@@ -13,7 +13,7 @@ function parseResultFromSearchParams(searchParams) {
   const fields = [
     'uniprot_id', 'pdb', 'sequence', 'gene names (primary)', 'protein names',
     'kinase name', 'group', 'length', 'protein families', 'data_sources', 'EC_number',
-    'All_Gene_Names', 'substrates', 'pocket', 'pdb_pocket'
+    'All_Gene_Names', 'substrates', 'pocket', 'pdb_pocket','pocket_residues_y'
   ];
   const result = {};
   fields.forEach(f => {
@@ -27,7 +27,7 @@ function parseResultFromSearchParams(searchParams) {
     console.log(result.substrates)
   }
 
-  console.log(result.pdb_pocket)
+  console.log(result.pocket_residues_y)
   return Object.keys(result).length > 0 ? result : null;
 }
 

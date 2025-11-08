@@ -97,7 +97,7 @@ function Navbar() {
       const fields = [
         'uniprot_id', 'pdb', 'sequence', 'gene names (primary)', 'protein names',
         'kinase name', 'group', 'length', 'protein families', 'data_sources', 'EC_number',
-        'All_Gene_Names', 'substrates', 'pocket', 'pdb_pocket'
+        'All_Gene_Names', 'substrates', 'pocket', 'pdb_pocket','pocket_residues_y'
       ];
       fields.forEach(f => {
         if (data[f]) resultParams.append(f, data[f]);
