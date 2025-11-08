@@ -13,7 +13,7 @@ function parseResultFromSearchParams(searchParams) {
   const fields = [
     'uniprot_id', 'pdb', 'sequence', 'gene names (primary)', 'protein names',
     'kinase name', 'group', 'length', 'protein families', 'data_sources', 'EC_number',
-    'All_Gene_Names', 'substrates', 'pocket', 'pdb_pocket','pocket_residues_y'
+    'All_Gene_Names', 'substrates', 'pocket', 'pdb_pocket', 'pocket_residues_y'
   ];
   const result = {};
   fields.forEach(f => {
@@ -40,6 +40,7 @@ function Results() {
   const [substratePage, setSubstratePage] = useState(1);
   const [substrateLoading, setSubstrateLoading] = useState(false);
   const [substrateError, setSubstrateError] = useState(null);
+  const [showPocketHighlight, setShowPocketHighlight] = useState(true);
   // Prefer state, fallback to query params
   const result = useMemo(() => {
     if (location.state?.result) return location.state.result;
@@ -94,6 +95,37 @@ function Results() {
   //   console.log('Results page result object:', result);
   // }, [result]);
 
+  // NEW HELPER FUNCTION to correctly parse pocket strings
+  function parsePocketToNGLSelection(pocketString) {
+    if (!pocketString) return null;
+
+    const rawData = pocketString.toString();
+    // Split by comma, semicolon, or one or more spaces
+    const parts = rawData.split(/[;,\s]+/).map(p => p.trim()).filter(Boolean);
+
+    const nglSelections = parts.map(part => {
+      if (part.includes(':')) {
+        // Format is "Chain:Residue", e.g., "A:165"
+        // NGL selection string is "(:A and 165)"
+        const [chain, res] = part.split(':');
+        if (chain && res && /^\d+$/.test(res.trim())) {
+          return `(:${chain.trim()} and ${res.trim()})`;
+        }
+      } else if (/^\d+(-\d+)?$/.test(part)) {
+        // Format is "165" or "165-170"
+        // NGL selection string handles this directly
+        return part;
+      }
+      return null; // Ignore invalid parts
+    }).filter(Boolean); // Remove any nulls
+
+    if (nglSelections.length === 0) return null;
+
+    // Join all parts with "or"
+    // e.g., "(:A and 165) or (:A and 171) or 180-185"
+    return nglSelections.join(' or ');
+  }
+
   useEffect(() => {
     if (!result) {
       navigate('/');
@@ -117,7 +149,31 @@ function Results() {
         window.nglStage = new window.NGL.Stage('nglViewer', { backgroundColor: 'white' });
         const pdbPath = `/pdb_files/${result.uniprot_id}.pdb`;
         window.nglStage.loadFile(pdbPath, { defaultRepresentation: true })
-          .then(() => window.nglStage.autoView())
+          .then((component) => {
+            // Highlight pocket residues if available
+            if (result.pocket_residues_y && showPocketHighlight) {
+              try {
+                // Use the new helper function
+                const selectionString = parsePocketToNGLSelection(result.pocket_residues_y);
+
+                if (selectionString) {
+                  // Add pink spheres for pocket residues only
+                  component.addRepresentation('spacefill', {
+                    sele: selectionString,
+                    color: 'black',
+                    opacity: 1.0,
+                    radiusScale: 0.8
+                  });
+
+                  console.log(`Highlighted pocket with pink spheres: ${selectionString}`);
+                }
+              } catch (error) {
+                console.warn('Error parsing pocket residues:', error);
+              }
+            }
+
+            window.nglStage.autoView();
+          })
           .catch(() => {
             if (nglDiv) nglDiv.innerHTML = '<div style="color:red;">PDB file not found.</div>';
           });
@@ -139,7 +195,7 @@ function Results() {
         window.nglStage.removeAllComponents();
       }
     };
-  }, [result, navigate]);
+  }, [result, navigate, showPocketHighlight]);
 
   return (
     <>
@@ -164,14 +220,77 @@ function Results() {
                 overflow: 'hidden'
               }}
             ></div>
-            <div style={{ margin: '10px 0' }}>
-              <a
-                href={`/pdb_files/${result.uniprot_id}.pdb`}
-                download={`${result.uniprot_id}.pdb`}
-                style={{ color: '#2366a8', cursor: 'pointer', fontWeight: 600, fontSize: 16 }}
-              >
-                Download Structure (PDB)
-              </a>
+
+            {/* Controls Row - Pocket Highlighting and Download */}
+            <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: 12, gap: 16 }}>
+              {/* Pocket Controls - Left Side */}
+              {result.pocket_residues_y && (
+                <div style={{ display: 'flex', alignItems: 'center', gap: 12, padding: 8, background: '#e3f0ff', borderRadius: 6, flex: 1 }}>
+                  <span style={{ color: '#1565a5', fontWeight: 600, fontSize: 14 }}>Pocket Highlighting:</span>
+                  <button
+                    onClick={() => {
+                      const newState = !showPocketHighlight;
+                      setShowPocketHighlight(newState);
+
+                      // Force reload of NGL viewer with new settings
+                      setTimeout(() => {
+                        if (window.nglStage && result) {
+                          window.nglStage.removeAllComponents();
+                          const pdbPath = `/pdb_files/${result.uniprot_id}.pdb`;
+                          window.nglStage.loadFile(pdbPath, { defaultRepresentation: true })
+                            .then((component) => {
+                              // Highlight pocket residues if enabled
+                              if (result.pocket_residues_y && newState) {
+                                try {
+                                  // Use the new helper function
+                                  const selectionString = parsePocketToNGLSelection(result.pocket_residues_y);
+
+                                  if (selectionString) {
+                                    // Add pink spheres for pocket residues only
+                                    component.addRepresentation('spacefill', {
+                                      sele: selectionString,
+                                      color: 'hotpink',
+                                      opacity: 1.0,
+                                      radiusScale: 0.6
+                                    });
+                                  }
+                                } catch (error) {
+                                  console.warn('Error parsing pocket residues:', error);
+                                }
+                              }
+
+                              window.nglStage.autoView();
+                            })
+                            .catch(console.error);
+                        }
+                      }, 100);
+                    }}
+                    style={{
+                      padding: '4px 12px',
+                      borderRadius: 4,
+                      border: 'none',
+                      background: showPocketHighlight ? '#2366a8' : '#ccc',
+                      color: 'white',
+                      fontWeight: 600,
+                      cursor: 'pointer',
+                      fontSize: 12
+                    }}
+                  >
+                    {showPocketHighlight ? 'ON' : 'OFF'}
+                  </button>
+                </div>
+              )}
+
+              {/* Download Structure - Right Side */}
+              <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'flex-end' }}>
+                <a
+                  href={`/pdb_files/${result.uniprot_id}.pdb`}
+                  download={`${result.uniprot_id}.pdb`}
+                  style={{ color: '#2366a8', cursor: 'pointer', fontWeight: 600, fontSize: 16, textDecoration: 'none' }}
+                >
+                  📁 Download PDB
+                </a>
+              </div>
             </div>
             <div className="sequence-label" style={{ color: '#2366a8', fontWeight: 700, marginTop: 18 }}><strong>Sequence:</strong></div>
             <div className="sequence sequence-bg" style={{ background: '#e3f0ff', color: '#1a3557', borderRadius: 6, padding: 10, fontFamily: 'monospace', fontSize: 14, marginTop: 4 }}>{result.sequence}</div>
@@ -194,6 +313,19 @@ function Results() {
               <strong className="info-label" style={{ color: '#1565a5' }}>Pocket Sequence:</strong>
               <span className="info-value" style={{ color: '#1a3557', fontFamily: 'monospace', display: 'block', whiteSpace: 'pre-wrap', lineHeight: 1.6, textAlign: 'center' }}>{result.pdb_pocket || '-'}</span>
             </div>
+
+            {/* Pocket residues */}
+            {result.pocket_residues_y && (
+              <div className="info-row">
+                <strong className="info-label" style={{ color: '#1565a5' }}>Pocket Residues:</strong>
+                <span className="info-value" style={{ color: '#dc2626', fontWeight: 600, fontFamily: 'monospace' }}>
+                  {result.pocket_residues_y}
+                </span>
+                <div style={{ fontSize: 12, color: '#666', marginTop: 2, fontStyle: 'italic' }}>
+                  These residues are highlighted with pink spheres in the 3D structure
+                </div>
+              </div>
+            )}
 
             <div className="info-row"><strong className="info-label" style={{ color: '#1565a5' }}>Data Sources:</strong>
               <span className="info-value" style={{ color: '#1a3557' }}>
