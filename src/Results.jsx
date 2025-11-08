@@ -314,18 +314,6 @@ function Results() {
               <span className="info-value" style={{ color: '#1a3557', fontFamily: 'monospace', display: 'block', whiteSpace: 'pre-wrap', lineHeight: 1.6, textAlign: 'center' }}>{result.pdb_pocket || '-'}</span>
             </div>
 
-            {/* Pocket residues */}
-            {result.pocket_residues_y && (
-              <div className="info-row">
-                <strong className="info-label" style={{ color: '#1565a5' }}>Pocket Residues:</strong>
-                <span className="info-value" style={{ color: '#dc2626', fontWeight: 600, fontFamily: 'monospace' }}>
-                  {result.pocket_residues_y}
-                </span>
-                <div style={{ fontSize: 12, color: '#666', marginTop: 2, fontStyle: 'italic' }}>
-                  These residues are highlighted with pink spheres in the 3D structure
-                </div>
-              </div>
-            )}
 
             <div className="info-row"><strong className="info-label" style={{ color: '#1565a5' }}>Data Sources:</strong>
               <span className="info-value" style={{ color: '#1a3557' }}>
