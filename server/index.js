@@ -1,5 +1,7 @@
 import fs from 'fs';
 import csv from 'csv-parser';
+import path from 'path';
+import { fileURLToPath } from 'url';
 
 import express from 'express';
 import mongoose from 'mongoose';
@@ -12,6 +14,9 @@ import fetch from 'node-fetch';
 dotenv.config();
 
 import { Parser as Json2csvParser } from 'json2csv';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 const app = express();
 app.use(cors());
@@ -460,18 +465,169 @@ app.get('/api/substrate/:uniprot_id/kinases', async (req, res) => {
   }
 });
 
+// Asset serving APIs
+
+// Serve static assets directory
+app.use('/api/assets', express.static(path.join(__dirname, '../assets')));
+
+// Get list of available kinase plot files
+app.get('/api/assets/kinase-plots', (req, res) => {
+  try {
+    const plotsDir = path.join(__dirname, '../assets/kinase_centric_plots_svg');
+    fs.readdir(plotsDir, (err, files) => {
+      if (err) {
+        return res.status(500).json({ error: 'Failed to read plots directory', details: err.message });
+      }
+
+      // Filter for SVG files and extract kinase names
+      const svgFiles = files.filter(file => file.endsWith('_plot.svg'));
+      const kinaseNames = svgFiles.map(file => file.replace('_plot.svg', ''));
+
+      res.json({
+        total: svgFiles.length,
+        kinases: kinaseNames,
+        files: svgFiles
+      });
+    });
+  } catch (err) {
+    res.status(500).json({ error: 'Server error', details: err.message });
+  }
+});
+
+// Get list of available kinase expression files
+app.get('/api/assets/kinase-expressions', (req, res) => {
+  try {
+    const expressionDir = path.join(__dirname, '../assets/kinase_svg_plots');
+    fs.readdir(expressionDir, (err, files) => {
+      if (err) {
+        return res.status(500).json({ error: 'Failed to read expression directory', details: err.message });
+      }
+
+      // Filter for SVG files and extract kinase names
+      const svgFiles = files.filter(file => file.endsWith('_expression.svg'));
+      const kinaseNames = svgFiles.map(file => file.replace('_expression.svg', ''));
+
+      res.json({
+        total: svgFiles.length,
+        kinases: kinaseNames,
+        files: svgFiles
+      });
+    });
+  } catch (err) {
+    res.status(500).json({ error: 'Server error', details: err.message });
+  }
+});
+
+// Get specific kinase plot by name
+app.get('/api/assets/kinase-plot/:kinaseName', (req, res) => {
+  try {
+    const { kinaseName } = req.params;
+    const fileName = `${kinaseName}_plot.svg`;
+    const filePath = path.join(__dirname, '../assets/kinase_centric_plots_svg', fileName);
+
+    // Check if file exists
+    if (!fs.existsSync(filePath)) {
+      return res.status(404).json({ error: `Plot not found for kinase: ${kinaseName}` });
+    }
+
+    // Set appropriate headers for SVG
+    res.setHeader('Content-Type', 'image/svg+xml');
+    res.setHeader('Cache-Control', 'public, max-age=86400'); // Cache for 24 hours
+
+    // Send the file
+    res.sendFile(filePath);
+  } catch (err) {
+    res.status(500).json({ error: 'Server error', details: err.message });
+  }
+});
+
+// Get specific kinase expression plot by name
+app.get('/api/assets/kinase-expression/:kinaseName', (req, res) => {
+  try {
+    const { kinaseName } = req.params;
+    const fileName = `${kinaseName}_expression.svg`;
+    const filePath = path.join(__dirname, '../assets/kinase_svg_plots', fileName);
+
+    // Check if file exists
+    if (!fs.existsSync(filePath)) {
+      return res.status(404).json({ error: `Expression plot not found for kinase: ${kinaseName}` });
+    }
+
+    // Set appropriate headers for SVG
+    res.setHeader('Content-Type', 'image/svg+xml');
+    res.setHeader('Cache-Control', 'public, max-age=86400'); // Cache for 24 hours
+
+    // Send the file
+    res.sendFile(filePath);
+  } catch (err) {
+    res.status(500).json({ error: 'Server error', details: err.message });
+  }
+});
+
+// Check if assets exist for a specific kinase
+app.get('/api/assets/kinase-availability/:kinaseName', (req, res) => {
+  try {
+    const { kinaseName } = req.params;
+    const plotFile = path.join(__dirname, '../assets/kinase_centric_plots_svg', `${kinaseName}_plot.svg`);
+    const expressionFile = path.join(__dirname, '../assets/kinase_svg_plots', `${kinaseName}_expression.svg`);
+
+    const availability = {
+      kinase: kinaseName,
+      plot_available: fs.existsSync(plotFile),
+      expression_available: fs.existsSync(expressionFile),
+      plot_url: fs.existsSync(plotFile) ? `/api/assets/kinase-plot/${kinaseName}` : null,
+      expression_url: fs.existsSync(expressionFile) ? `/api/assets/kinase-expression/${kinaseName}` : null
+    };
+
+    res.json(availability);
+  } catch (err) {
+    res.status(500).json({ error: 'Server error', details: err.message });
+  }
+});
+
+// Get multiple kinase assets availability
+app.post('/api/assets/kinase-batch-availability', (req, res) => {
+  try {
+    let { kinases } = req.body;
+
+    // Handle both array and comma-separated string input
+    if (typeof kinases === 'string') {
+      kinases = kinases.split(',').map(k => k.trim()).filter(Boolean);
+    }
+
+    if (!Array.isArray(kinases) || kinases.length === 0) {
+      return res.status(400).json({ error: 'Kinases array is required' });
+    }
+
+    const results = kinases.map(kinaseName => {
+      const plotFile = path.join(__dirname, '../assets/kinase_centric_plots_svg', `${kinaseName}_plot.svg`);
+      const expressionFile = path.join(__dirname, '../assets/kinase_svg_plots', `${kinaseName}_expression.svg`);
+
+      return {
+        kinase: kinaseName,
+        plot_available: fs.existsSync(plotFile),
+        expression_available: fs.existsSync(expressionFile),
+        plot_url: fs.existsSync(plotFile) ? `/api/assets/kinase-plot/${kinaseName}` : null,
+        expression_url: fs.existsSync(expressionFile) ? `/api/assets/kinase-expression/${kinaseName}` : null
+      };
+    });
+
+    res.json({
+      total: results.length,
+      results: results
+    });
+  } catch (err) {
+    res.status(500).json({ error: 'Server error', details: err.message });
+  }
+});
+
 const PORT = process.env.PORT || 5001;
 app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
 // Endpoint to download the CSV file
-import path from 'path';
-import { fileURLToPath } from 'url';
-
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
 
 app.get('/api/download-csv', (req, res) => {
-  const csvPath = path.join(__dirname, '../DATA_TO_USE.csv');
-  res.download(csvPath, 'DATA_TO_USE.csv', (err) => {
+  const csvPath = path.join(__dirname, '../KinaseDB.csv');
+  res.download(csvPath, 'KinaseDB.csv', (err) => {
     if (err) {
       res.status(500).json({ error: 'Failed to download CSV.' });
     }
@@ -515,9 +671,9 @@ app.get('/api/kinase-disease-lookup', (req, res) => {
 
     const csvPath = path.join(__dirname, '../Kinase_Diseases_Dataset.csv');
 
-  // Support comma-separated lists for UniProt only. For disease, treat the full string as a single name
-  const uniprotInputs = uniprot ? String(uniprot).split(',').map(s => s.trim()).filter(Boolean) : [];
-  const diseaseInputs = disease && String(disease).trim() !== '' ? [String(disease).trim()] : [];
+    // Support comma-separated lists for UniProt only. For disease, treat the full string as a single name
+    const uniprotInputs = uniprot ? String(uniprot).split(',').map(s => s.trim()).filter(Boolean) : [];
+    const diseaseInputs = disease && String(disease).trim() !== '' ? [String(disease).trim()] : [];
 
     const resultsMap = {};
 
