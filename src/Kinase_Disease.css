@@ -1,0 +1,169 @@
+/* Global container */
+.kd-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  padding: 24px;
+}
+
+/* Top bar for disease selection */
+.kd-topbar {
+  margin-bottom: 24px;
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  background: #f9fafb;
+  padding: 16px;
+  border-radius: 12px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+  width: 100%;
+  max-width: 1200px;
+}
+
+.kd-label {
+  margin-right: 8px;
+  font-weight: 500;
+  color: #374151;
+}
+
+.kd-select {
+  border: 2px solid #d1d5db;
+  border-radius: 8px;
+  padding: 8px 16px;
+  outline: none;
+  font-size: 14px;
+}
+
+.kd-select:focus {
+  border-color: #3b82f6;
+}
+
+/* Chart layout */
+.kd-chart-area {
+  display: flex;
+  width: 100%;
+  max-width: 1400px;
+  overflow-x: auto;
+}
+
+.kd-chart-box {
+  display: flex;
+  flex: 1;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06);
+  min-height: 520px;
+}
+
+.kd-svg-container {
+  flex: 1;
+  min-width: 800px;
+  border-radius: 12px;
+  border-right: 1px solid rgba(0, 0, 0, 0.06);
+  overflow: auto;
+}
+
+/* Legend styles */
+.kd-legend-column {
+  width: 340px;
+  background: #fff;
+  border-radius: 12px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.kd-legend-title {
+  margin-top: 0;
+  margin-bottom: 8px;
+  color: #2c3e50;
+}
+
+.kd-legend-items {
+  margin-top: 4px;
+}
+
+.legend-row {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.legend-color {
+  width: 18px;
+  height: 18px;
+  border-radius: 9px;
+  margin-right: 8px;
+  box-shadow: inset 0 0 0 2px rgba(255, 255, 255, 0.6);
+}
+
+.legend-label {
+  font-size: 13px;
+}
+
+.kd-legend-tip {
+  margin-top: 12px;
+  font-size: 13px;
+  color: #555;
+}
+
+/* D3 SVG styles */
+.kinase-svg {
+  background: white;
+}
+
+.link {
+  fill: none;
+  opacity: 0.7;
+}
+
+.node-circle {
+  stroke: white;
+  stroke-width: 3px;
+  filter: drop-shadow(0px 2px 4px rgba(0, 0, 0, 0.3));
+  cursor: pointer;
+}
+
+.node-text {
+  font-size: 18px;
+  font-weight: bold;
+  fill: #34495e;
+  paint-order: stroke;
+  stroke: white;
+  stroke-width: 3px;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.chart-title {
+  font-size: 18px;
+  font-weight: bold;
+  fill: #2c3e50;
+}
+
+/* Tooltip */
+.tooltip {
+  position: absolute;
+  background: rgba(0, 0, 0, 0.9);
+  color: white;
+  padding: 12px;
+  border-radius: 6px;
+  font-size: 13px;
+  pointer-events: none;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+  z-index: 1000;
+}
+
+.tooltip-score {
+  color: #ffd700;
+}
+
+.tooltip-ensembl {
+  color: #87ceeb;
+}
+
+.tooltip-source {
+  color: #e0e0e0;
+}

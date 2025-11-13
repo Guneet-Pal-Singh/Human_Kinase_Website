@@ -1,0 +1,153 @@
+/* BatchResults.css */
+
+.batch-container {
+  background: linear-gradient(135deg, #e3f0ff 0%, #f8fbff 100%);
+  min-height: 100vh;
+  padding: 0;
+}
+
+.batch-card {
+  background: white;
+  border-radius: 18px;
+  box-shadow: 0 6px 32px 0 rgba(35, 102, 168, 0.10);
+  border: 1px solid #e3eaf1;
+  padding: 36px;
+  max-width: 900px;
+  margin: 48px auto 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.batch-title {
+  color: #1565a5;
+  font-weight: 800;
+  letter-spacing: 1px;
+  margin-bottom: 32px;
+  text-align: center;
+  font-size: 32px;
+}
+
+.batch-query-container {
+  margin-bottom: 24px;
+  width: 100%;
+}
+
+.batch-query-label {
+  color: #2366a8;
+  font-weight: 700;
+  margin-bottom: 8px;
+  align-self: flex-start;
+  font-size: 18px;
+}
+
+.batch-query-input {
+  background: #e3f0ff;
+  color: #1a3557;
+  border-radius: 6px;
+  padding: 10px;
+  font-family: monospace;
+  font-size: 14px;
+  margin-bottom: 24px;
+  width: 100%;
+}
+
+.batch-loading {
+  color: #4b4fc4;
+  font-weight: 600;
+  font-size: 18px;
+}
+
+.batch-error {
+  color: red;
+  font-weight: 600;
+}
+
+.batch-download-btn {
+  margin-bottom: 16px;
+  float: right;
+  background: #4c51bf;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 22px;
+  cursor: pointer;
+  font-weight: 700;
+  font-size: 16px;
+  box-shadow: 0 2px 8px #e3eaf1;
+}
+
+.batch-clear {
+  clear: both;
+}
+
+.batch-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+  background: #f7f8fa;
+  border-radius: 6px;
+  box-shadow: 0 2px 8px rgba(76, 81, 191, 0.08);
+}
+
+.batch-thead-row {
+  background: #4c51bf;
+  color: #fff;
+}
+
+.batch-th {
+  padding: 12px;
+  font-weight: 700;
+  font-size: 16px;
+  text-align: center;
+  border: none;
+}
+
+.batch-th-left {
+  border-top-left-radius: 18px;
+}
+
+.batch-th-right {
+  border-top-right-radius: 18px;
+}
+
+.batch-row-even {
+  background: #e3e9ff;
+}
+
+.batch-row-odd {
+  background: #eef2fa;
+}
+
+.batch-td {
+  padding: 12px;
+  text-align: center;
+  color: #1a3557;
+  font-weight: 500;
+  font-size: 15px;
+  border: none;
+}
+
+.batch-bold {
+  font-weight: 700;
+}
+
+.batch-link {
+  color: #2366a8;
+  cursor: pointer;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.batch-link:hover {
+  text-decoration: underline;
+}
+
+.batch-no-results {
+  color: #4b4fc4;
+  font-weight: 600;
+}
+
+.wide-column {
+  min-width: 120;
+}

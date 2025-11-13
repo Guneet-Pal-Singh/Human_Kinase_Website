@@ -1,0 +1,260 @@
+/* Container and Layout Styles */
+.page-container {
+  padding: 24px;
+}
+
+.chart-legend-wrapper {
+  display: flex;
+  gap: 0;
+  width: 100%;
+  max-width: 1400px;
+  overflow-x: auto;
+}
+
+.chart-container {
+  flex: 1;
+  min-height: 520px;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-right: 1px solid rgba(0, 0, 0, 0.06);
+}
+
+.legend-column {
+  background: #fff;
+  border-radius: 8px;
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  padding: 20px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06);
+  margin-left: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  border-left: 1px solid rgba(0, 0, 0, 0.06);
+}
+
+.legend-title {
+  margin-top: 0;
+  margin-bottom: 8px;
+  color: #2c3e50;
+}
+
+#legend-items {
+  margin-top: 4px;
+}
+
+.legend-tip {
+  margin-top: 12px;
+  font-size: 13px;
+  color: #555;
+}
+
+.legend-row {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.legend-swatch {
+  width: 18px;
+  height: 18px;
+  border-radius: 9px;
+  margin-right: 8px;
+  box-shadow: inset 0 0 0 2px rgba(255, 255, 255, 0.6);
+}
+
+.legend-label {
+  font-size: 13px;
+}
+
+/* D3 SVG Element Styles */
+.tree-svg {
+  background: white;
+}
+
+.chart-title {
+  font-size: 18px;
+  font-weight: bold;
+  fill: #2c3e50;
+  text-anchor: middle;
+}
+
+.link {
+  fill: none;
+  opacity: 0.7;
+}
+
+.node-circle {
+  stroke: white;
+  stroke-width: 3px;
+  filter: drop-shadow(0px 2px 4px rgba(0, 0, 0, 0.3));
+}
+
+.node-label {
+  font-weight: bold;
+  paint-order: stroke;
+  stroke: white;
+  stroke-width: 3px;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.score-badge {
+  font-size: 10px;
+  font-weight: bold;
+  paint-order: stroke;
+  stroke: white;
+  stroke-width: 2px;
+}
+
+/* D3 Tooltip Style */
+.tooltip {
+  position: absolute;
+  background: rgba(0, 0, 0, 0.9);
+  color: white;
+  padding: 12px;
+  border-radius: 6px;
+  font-size: 13px;
+  pointer-events: none;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+  z-index: 1000;
+}
+
+/* Tooltip content styles */
+.tooltip-score {
+  color: #ffd700;
+}
+
+.tooltip-id {
+  color: #87ceeb;
+}
+
+/* Container and Layout Styles */
+.page-container {
+  padding: 24px;
+}
+
+.chart-legend-wrapper {
+  display: flex;
+  gap: 0;
+  width: 100%;
+  max-width: 1400px;
+  overflow-x: auto;
+}
+
+.chart-container {
+  flex: 1;
+  min-height: 520px;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-right: 1px solid rgba(0, 0, 0, 0.06);
+}
+
+.legend-column {
+  background: #fff;
+  border-radius: 8px;
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  padding: 20px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06);
+  margin-left: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  border-left: 1px solid rgba(0, 0, 0, 0.06);
+}
+
+.legend-title {
+  margin-top: 0;
+  margin-bottom: 8px;
+  color: #2c3e50;
+}
+
+#legend-items {
+  margin-top: 4px;
+}
+
+.legend-tip {
+  margin-top: 12px;
+  font-size: 13px;
+  color: #555;
+}
+
+.legend-row {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.legend-swatch {
+  width: 18px;
+  height: 18px;
+  border-radius: 9px;
+  margin-right: 8px;
+  box-shadow: inset 0 0 0 2px rgba(255, 255, 255, 0.6);
+}
+
+.legend-label {
+  font-size: 13px;
+}
+
+/* D3 SVG Element Styles */
+.tree-svg {
+  background: white;
+}
+
+.chart-title {
+  font-size: 18px;
+  font-weight: bold;
+  fill: #2c3e50;
+  text-anchor: middle;
+}
+
+.link {
+  fill: none;
+  opacity: 0.7;
+}
+
+.node-circle {
+  stroke: white;
+  stroke-width: 3px;
+  filter: drop-shadow(0px 2px 4px rgba(0, 0, 0, 0.3));
+}
+
+.node-label {
+  font-weight: bold;
+  paint-order: stroke;
+  stroke: white;
+  stroke-width: 3px;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.score-badge {
+  font-size: 10px;
+  font-weight: bold;
+  paint-order: stroke;
+  stroke: white;
+  stroke-width: 2px;
+}
+
+/* D3 Tooltip Style */
+.tooltip {
+  position: absolute;
+  background: rgba(0, 0, 0, 0.9);
+  color: white;
+  padding: 12px;
+  border-radius: 6px;
+  font-size: 13px;
+  pointer-events: none;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+  z-index: 1000;
+}
+
+.tooltip-score {
+  color: #ffd700;
+}
+
+.tooltip-id {
+  color: #87ceeb;
+}

@@ -1,10 +1,9 @@
-
-
 import React, { useEffect, useState, useRef } from 'react';
 import { useLocation } from 'react-router-dom';
 import Navbar from './Navbar';
 import './Home.css';
-import {base_url, extension_urls, batch_result, download_batch_csv} from "../config/urls";
+import './BatchResults.css'; // ✅ Added new CSS file import
+import { base_url, extension_urls, batch_result, download_batch_csv } from "../config/urls";
 
 function parseQuery(queryString) {
   const params = new URLSearchParams(queryString);
@@ -83,55 +82,31 @@ export default function BatchResults() {
   return (
     <>
       <Navbar />
-      <div className="container" style={{ background: 'linear-gradient(135deg, #e3f0ff 0%, #f8fbff 100%)', minHeight: '100vh', padding: 0 }}>
-        <div style={{
-          background: 'white',
-          borderRadius: 18,
-          boxShadow: '0 6px 32px 0 rgba(35,102,168,0.10)',
-          border: '1px solid #e3eaf1',
-          padding: 36,
-          maxWidth: 900,
-          margin: '48px auto 0 auto',
-          display: 'flex',
-          flexDirection: 'column',
-          alignItems: 'center'
-        }}>
-          <h1 className="title" style={{ color: '#1565a5', fontWeight: 800, letterSpacing: 1, marginBottom: 32, textAlign: 'center', fontSize: 32 }}>Batch Search Results</h1>
-          <div style={{ marginBottom: 24, width: '100%' }}>
-            <div className="sequence-label" style={{ color: '#2366a8', fontWeight: 700, marginBottom: 8, alignSelf: 'flex-start', fontSize: 18 }}><strong>Query Inputs:</strong></div>
-            <div className="sequence sequence-bg" style={{ background: '#e3f0ff', color: '#1a3557', borderRadius: 6, padding: 10, fontFamily: 'monospace', fontSize: 14, marginBottom: 24, width: '100%' }}>{input}</div>
+      <div className="batch-container">
+        <div className="batch-card">
+          <h1 className="batch-title">Batch Search Results</h1>
+          <div className="batch-query-container">
+            <div className="batch-query-label"><strong>Query Inputs:</strong></div>
+            <div className="batch-query-input">{input}</div>
           </div>
-          {loading && <div style={{ color: '#4b4fc4', fontWeight: 600, fontSize: 18 }}>Loading batch results...</div>}
-          {error && <div style={{ color: 'red', fontWeight: 600 }}>{error}</div>}
+          {loading && <div className="batch-loading">Loading batch results...</div>}
+          {error && <div className="batch-error">{error}</div>}
           {!loading && !error && results.length > 0 && (
             <>
-              <button onClick={handleDownload} style={{ marginBottom: 16, float: 'right', background: '#4c51bf', color: '#fff', border: 'none', borderRadius: 8, padding: '10px 22px', cursor: 'pointer', fontWeight: 700, fontSize: 16, boxShadow: '0 2px 8px #e3eaf1' }}>
+              <button onClick={handleDownload} className="batch-download-btn">
                 Download CSV
               </button>
-              <div style={{ clear: 'both' }} />
-              <table style={{
-                width: '100%',
-                borderCollapse: 'collapse',
-                marginTop: '10px',
-                background: '#f7f8fa',
-                borderRadius: '6px',
-                boxShadow: '0 2px 8px rgba(76, 81, 191, 0.08)'
-              }}>
+              <div className="batch-clear" />
+              <table className="batch-table">
                 <thead>
-                  <tr style={{background: '#4c51bf', color: '#fff'}}>
+                  <tr className="batch-thead-row">
                     {columns.map((col, idx) => (
                       <th
                         key={col.key}
-                        style={{
-                          padding: '12px',
-                          minWidth: col.key === 'input' || col.key === 'uniprot_id' ? '120px' : undefined,
-                          borderTopLeftRadius: idx === 0 ? '18px' : undefined,
-                          borderTopRightRadius: idx === columns.length - 1 ? '18px' : undefined,
-                          fontWeight: 700,
-                          fontSize: 16,
-                          textAlign: 'center',
-                          border: 'none'
-                        }}
+                        // className={`batch-th ${idx === 0 ? 'batch-th-left' : ''} ${idx === columns.length - 1 ? 'batch-th-right' : ''}`}
+                        // style={{ minWidth: col.key === 'input' || col.key === 'uniprot_id' ? '120px' : undefined }}
+                        className={`batch-th ${idx === 0 ? 'batch-th-left' : ''} ${idx === columns.length - 1 ? 'batch-th-right' : ''}
+                        ${col.key === 'input' || col.key === 'uniprot_id' ? 'wide-column' : ''}`}
                       >
                         {col.label}
                       </th>
@@ -140,23 +115,13 @@ export default function BatchResults() {
                 </thead>
                 <tbody>
                   {results.map((row, i) => (
-                    <tr key={i} style={{background: i % 2 === 0 ? '#e3e9ff' : '#eef2fa'}}>
+                    <tr key={i} className={`batch-row ${i % 2 === 0 ? 'batch-row-even' : 'batch-row-odd'}`}>
                       {columns.map(col => (
-                        <td
-                          key={col.key}
-                          style={{
-                            padding: '12px',
-                            textAlign: 'center',
-                            color: '#1a3557',
-                            fontWeight: col.key === 'uniprot_id' || col.key === 'input' ? 700 : 500,
-                            fontSize: 15,
-                            border: 'none'
-                          }}
-                        >
+                        <td key={col.key} className={`batch-td ${col.key === 'uniprot_id' || col.key === 'input' ? 'batch-bold' : ''}`}>
                           {col.key === 'uniprot_id' && row[col.key] ? (
-                            <a href={`https://www.uniprot.org/uniprotkb/${row[col.key]}`} target="_blank" rel="noopener noreferrer" style={{ color: '#2366a8', cursor: 'pointer', fontWeight: 600 }}>{row[col.key]}</a>
+                            <a href={`https://www.uniprot.org/uniprotkb/${row[col.key]}`} target="_blank" rel="noopener noreferrer" className="batch-link">{row[col.key]}</a>
                           ) : col.key === 'pdb' && row[col.key] ? (
-                            <a href={`https://www.rcsb.org/3d-view/${row[col.key]}`} target="_blank" rel="noopener noreferrer" style={{ color: '#2366a8', cursor: 'pointer', fontWeight: 600 }}>{row[col.key]}</a>
+                            <a href={`https://www.rcsb.org/3d-view/${row[col.key]}`} target="_blank" rel="noopener noreferrer" className="batch-link">{row[col.key]}</a>
                           ) : (
                             row[col.key] || ''
                           )}
@@ -169,7 +134,7 @@ export default function BatchResults() {
             </>
           )}
           {!loading && !error && results.length === 0 && (
-            <div style={{ color: '#4b4fc4', fontWeight: 600 }}>No batch results found.</div>
+            <div className="batch-no-results">No batch results found.</div>
           )}
         </div>
       </div>
