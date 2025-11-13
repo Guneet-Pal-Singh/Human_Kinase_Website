@@ -56,7 +56,7 @@ const KinaseTree = ({ kinaseId }) => {
       name: kinaseId,
       children: diseaseData.map(d => ({
         id: d.Disease_ID || "Unknown Disease",
-        name: d.Disease_ID || "Unknown Disease", // node label is Disease_ID
+        name: d.Disease_Name || d.Disease || "Unknown Disease Name", // node label is Disease_Name now
         diseaseName: d.Disease_Name || d.Disease || "Unknown Disease Name", // for tooltip
         score: parseFloat(d.Score),
         datasource: d.Datasource_Scores
@@ -144,8 +144,28 @@ const KinaseTree = ({ kinaseId }) => {
         d3.selectAll(".tooltip").remove();
       });
 
+    // Helper function to wrap text
+    const wrapText = (text, maxChars = 18) => {
+      const words = text.split(' ');
+      let line = [];
+      let lineLength = 0;
+      let lines = [];
+      words.forEach(word => {
+        if (lineLength + word.length + 1 > maxChars) {
+          if (line.length) lines.push(line.join(' '));
+          line = [word];
+          lineLength = word.length;
+        } else {
+          line.push(word);
+          lineLength += word.length + 1;
+        }
+      });
+      if (line.length) lines.push(line.join(' '));
+      return lines;
+    };
+
     node.append("text")
-      .attr("x", d => d.children ? -30 : (isHorizontal ? 15 : 0))
+      .attr("x", d => d.children ? -30 : (isHorizontal ? 25 : 0))
       .attr("y", d => d.children ? 40 : (isHorizontal ? 5 : 30))
       .attr("text-anchor", d => d.children ? "start" : (isHorizontal ? "start" : "middle"))
       .style("font-size", "18px")
@@ -158,33 +178,29 @@ const KinaseTree = ({ kinaseId }) => {
       .style("stroke-linejoin", "round")
       .each(function(d) {
         if (d.children) {
-          const words = d.data.name.split(' ');
-          let line = [];
-          let lineLength = 0;
-          const maxChars = 28;
-          let lines = [];
-          words.forEach(word => {
-            if (lineLength + word.length + 1 > maxChars) {
-              lines.push(line.join(' '));
-              line = [word];
-              lineLength = word.length;
-            } else {
-              line.push(word);
-              lineLength += word.length + 1;
-            }
-          });
-          if (line.length) lines.push(line.join(' '));
+          // Root node (Kinase)
+          const lines = wrapText(d.data.name, 28);
           d3.select(this).selectAll('tspan').remove();
           lines.forEach((l, i) => {
             d3.select(this)
               .append('tspan')
               .attr('x', -30)
               .attr('dy', i === 0 ? '0' : '1.2em')
+              .style('font-size', '18px')
               .text(l);
           });
         } else {
-          // Show Disease_ID on node label
-          d3.select(this).text(d.data.id || d.data.name);
+          // Leaf node (Disease) - show disease name with wrapping
+          const lines = wrapText(d.data.name, 18);
+          d3.select(this).selectAll('tspan').remove();
+          lines.forEach((l, i) => {
+            d3.select(this)
+              .append('tspan')
+              .attr('x', isHorizontal ? 25 : 0)
+              .attr('dy', i === 0 ? '0' : '1.3em')
+              .style('font-size', '15px')
+              .text(l);
+          });
         }
       });
 
