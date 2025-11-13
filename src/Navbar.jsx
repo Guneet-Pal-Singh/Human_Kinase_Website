@@ -41,7 +41,7 @@ function Navbar() {
       const url = window.URL.createObjectURL(blob);
       const a = document.createElement('a');
       a.href = url;
-      a.download = 'DATA_TO_USE.csv';
+      a.download = 'KinaseDB.csv';
       document.body.appendChild(a);
       a.click();
       a.remove();

@@ -8,6 +8,7 @@ import { useSearchParams } from 'react-router-dom';
 import './Home.css';
 import Navbar from './Navbar';
 import KinaseTree from './KinaseTree';
+import KinasePlot from './KinasePlot';
 function parseResultFromSearchParams(searchParams) {
   // Only parse known fields for safety
   const fields = [
@@ -411,6 +412,14 @@ function Results() {
             <div style={{ marginTop: 48 }}>
               <h2 style={{ color: '#1565a5', fontWeight: 700, fontSize: 22, marginBottom: 18 }}>Kinase-Disease Associations</h2>
               <KinaseTree kinaseId={result.uniprot_id} />
+            </div>
+          )}
+
+          {/* KinasePlot visualization for expression and centric plots */}
+          {result && result["gene names (primary)"] && (
+            <div style={{ marginTop: 48 }}>
+              <h2 style={{ color: '#1565a5', fontWeight: 700, fontSize: 22, marginBottom: 18 }}>Kinase Analysis Plots</h2>
+              <KinasePlot geneName={result["gene names (primary)"]} />
             </div>
           )}
 
