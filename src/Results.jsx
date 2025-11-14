@@ -159,12 +159,18 @@ function Results() {
 
                 if (selectionString) {
                   // Add pink spheres for pocket residues only
-                  component.addRepresentation('spacefill', {
+                  // Solvent excluded surface (ses)
+                  // Mesh surface (grid/wireframe)
+                  // For molecular surfaces (mesh, but not "volume mesh"):
+                  component.addRepresentation('surface', {
                     sele: selectionString,
-                    color: 'black',
-                    opacity: 1.0,
-                    radiusScale: 0.8
+                    color: 'blue',
+                    opacity: 0.5,
+                    surfaceType: 'mesh',
+                    wireframe: true
                   });
+
+
 
                   console.log(`Highlighted pocket with pink spheres: ${selectionString}`);
                 }
