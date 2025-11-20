@@ -7,6 +7,7 @@ import BlastResults from './BlastResults';
 import BatchResults from './BatchResults';
 import TreeHierarchyView from './DiseaseDendroHeatmapPage';
 import Kinase_Disease from './Kinase_Disease';
+import KinaseTissue from './KinaseTissue';
 
 function AppRouter() {
   return (
@@ -17,6 +18,7 @@ function AppRouter() {
         <Route path="/blast-results" element={<BlastResults />} />
         <Route path="/batch-results" element={<BatchResults />} />
         <Route path="/kinase_disease" element={<Kinase_Disease />} />
+        <Route path="/kinase_tissue" element={<KinaseTissue />} />
       </Routes>
     </Router>
   );

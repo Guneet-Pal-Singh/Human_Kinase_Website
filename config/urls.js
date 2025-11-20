@@ -9,3 +9,6 @@ export const search_kinase = 'search';
 export const get_disease_list = 'diseases';
 export const kinase_disease_lookup_disease = 'kinase-disease-lookup?disease=';
 export const kinase_disease_lookup_uniprot = 'kinase-disease-lookup?uniprot=';
+export const get_tissue_list = 'tissues';
+export const kinase_tissue_lookup_tissue = 'kinase-tissue-lookup?tissue=';
+export const kinase_tissue_lookup_uniprot = 'kinase-tissue-lookup?uniprot=';
