@@ -242,30 +242,29 @@ function Results() {
                       // Force reload of NGL viewer with new settings
                       setTimeout(() => {
                         if (window.nglStage && result) {
+                          // remove any existing components to start fresh
                           window.nglStage.removeAllComponents();
                           const pdbPath = `/pdb_files/${result.uniprot_id}.pdb`;
                           window.nglStage.loadFile(pdbPath, { defaultRepresentation: true })
                             .then((component) => {
-                              // Highlight pocket residues if enabled
+                              // Highlight pocket residues if enabled (use surface mesh only)
                               if (result.pocket_residues_y && newState) {
                                 try {
-                                  // Use the new helper function
                                   const selectionString = parsePocketToNGLSelection(result.pocket_residues_y);
-
                                   if (selectionString) {
-                                    // Add pink spheres for pocket residues only
-                                    component.addRepresentation('spacefill', {
+                                    component.addRepresentation('surface', {
                                       sele: selectionString,
-                                      color: 'hotpink',
-                                      opacity: 1.0,
-                                      radiusScale: 0.6
+                                      color: 'blue',
+                                      opacity: 0.5,
+                                      surfaceType: 'mesh',
+                                      wireframe: true
                                     });
+                                    console.log(`Highlighted pocket as blue mesh: ${selectionString}`);
                                   }
                                 } catch (error) {
                                   console.warn('Error parsing pocket residues:', error);
                                 }
                               }
-
                               window.nglStage.autoView();
                             })
                             .catch(console.error);
