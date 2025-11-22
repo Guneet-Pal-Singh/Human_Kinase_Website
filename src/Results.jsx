@@ -14,7 +14,7 @@ function parseResultFromSearchParams(searchParams) {
   const fields = [
     'uniprot_id', 'pdb', 'sequence', 'gene names (primary)', 'protein names',
     'kinase name', 'group', 'length', 'protein families', 'data_sources', 'EC_number',
-    'All_Gene_Names', 'substrates', 'pocket', 'pdb_pocket', 'pocket_residues_y'
+    'All_Gene_Names', 'substrates', 'pocket', 'pdb_pocket', 'pocket_residues_y', 'all_domains'
   ];
   const result = {};
   fields.forEach(f => {
@@ -318,6 +318,30 @@ function Results() {
             <div className="info-row">
               <strong className="info-label" style={{ color: '#1565a5' }}>Pocket Sequence:</strong>
               <span className="info-value" style={{ color: '#1a3557', fontFamily: 'monospace', display: 'block', whiteSpace: 'pre-wrap', lineHeight: 1.6, textAlign: 'center' }}>{result.pdb_pocket || '-'}</span>
+            </div>
+
+            <div className="info-row">
+              <strong className="info-label" style={{ color: '#1565a5' }}>All Domains:</strong>
+              <span className="info-value" style={{ color: '#1a3557', fontFamily: 'monospace', display: 'block', whiteSpace: 'pre-wrap', lineHeight: 1.6, textAlign: 'center' }}>
+                {(() => {
+                  if (!result.all_domains || result.all_domains === '-') return '-';
+
+                  // Split domains and add empty lines between them
+                  const domainsText = result.all_domains.toString();
+
+                  // First, normalize any "Protein\nkinase" patterns to "Protein kinase" on same line
+                  let normalizedText = domainsText.replace(/Protein\s*[\r\n]+\s*kinase/gi, 'Protein kinase');
+
+                  // Add newlines after semicolons for better formatting
+                  normalizedText = normalizedText.replace(/;/g, ';\n');
+
+                  // Split by patterns that indicate new domain sections
+                  // Looking for patterns like "Protein kinase:" or "GS:" or similar domain headers
+                  
+                  // Filter out empty sections and join with double newlines
+                  return normalizedText;
+                })()}
+              </span>
             </div>
 
 
