@@ -7,7 +7,6 @@ import { useLocation, useNavigate } from 'react-router-dom';
 import { useSearchParams } from 'react-router-dom';
 import './Home.css';
 import Navbar from './Navbar';
-import KinaseTree from './KinaseTree';
 import KinasePlot from './KinasePlot';
 function parseResultFromSearchParams(searchParams) {
   // Only parse known fields for safety
