@@ -316,14 +316,14 @@ function Results() {
             {/* Pocket sequence (from navbar or backend) */}
             <div className="info-row">
               <strong className="info-label" style={{ color: '#1565a5' }}>Pocket Sequence:</strong>
-              <span className="info-value" style={{ color: '#1a3557', fontFamily: 'monospace', display: 'block', whiteSpace: 'pre-wrap', lineHeight: 1.6, textAlign: 'center' }}>{result.pdb_pocket || '-'}</span>
+              <span className="info-value" style={{ color: '#1a3557', fontFamily: 'monospace', display: 'block', whiteSpace: 'pre-wrap', lineHeight: 1.6, textAlign: 'center' }}>{result.pdb_pocket || 'Not available'}</span>
             </div>
 
             <div className="info-row">
               <strong className="info-label" style={{ color: '#1565a5' }}>All Domains:</strong>
               <span className="info-value" style={{ color: '#1a3557', fontFamily: 'monospace', display: 'block', whiteSpace: 'pre-wrap', lineHeight: 1.6, textAlign: 'center' }}>
                 {(() => {
-                  if (!result.all_domains || result.all_domains === '-') return '-';
+                  if (!result.all_domains || result.all_domains === '-') return 'Not available';
 
                   // Split domains and add empty lines between them
                   const domainsText = result.all_domains.toString();
@@ -336,7 +336,7 @@ function Results() {
 
                   // Split by patterns that indicate new domain sections
                   // Looking for patterns like "Protein kinase:" or "GS:" or similar domain headers
-                  
+
                   // Filter out empty sections and join with double newlines
                   return normalizedText;
                 })()}
@@ -347,11 +347,11 @@ function Results() {
             <div className="info-row"><strong className="info-label" style={{ color: '#1565a5' }}>Data Sources:</strong>
               <span className="info-value" style={{ color: '#1a3557' }}>
                 {(() => {
-                  if (!result.data_sources) return '-';
+                  if (!result.data_sources) return 'Not available';
                   // Accept arrays or strings; split on semicolon or comma
                   const raw = Array.isArray(result.data_sources) ? result.data_sources : String(result.data_sources);
                   const parts = raw.split(/[;,]+/).map(s => s.trim()).filter(Boolean);
-                  if (parts.length === 0) return '-';
+                  if (parts.length === 0) return 'Not available';
 
                   const normalize = s => String(s || '').replace(/[_\W]+/g, ' ').trim().toLowerCase();
 
@@ -412,13 +412,24 @@ function Results() {
                 <tbody>
                   {paginate(Object.entries(substrateDetails), 5, substratePage).map(([substrate, detail], idx) => (
                     <tr key={substrate} style={{ background: idx % 2 === 0 ? '#f8fbff' : 'white' }}>
-                      <td style={{ padding: 8, border: '1px solid #e3eaf1', fontWeight: 600 }}>{substrate}</td>
-                      <td style={{ padding: 8, border: '1px solid #e3eaf1' }}>{detail ? detail["substrate|gene_name"] : '-'}</td>
-                      <td style={{ padding: 8, border: '1px solid #e3eaf1' }}>{detail ? detail["substrate|organism"] : '-'}</td>
-                      <td style={{ padding: 8, border: '1px solid #e3eaf1', fontFamily: 'monospace' }}>{detail ? detail["substrate|15AAmotif"] : '-'}</td>
-                      <td style={{ padding: 8, border: '1px solid #e3eaf1' }}>{detail ? detail["residue"] : '-'}</td>
-                      <td style={{ padding: 8, border: '1px solid #e3eaf1' }}>{detail ? detail["location_residue"] : '-'}</td>
-                      <td style={{ padding: 8, border: '1px solid #e3eaf1' }}>{detail ? detail["Data|source"] : '-'}</td>
+                      <td style={{ padding: 8, border: '1px solid #e3eaf1', fontWeight: 600 }}>
+                        <a
+                          href={`https://www.uniprot.org/uniprotkb/${substrate}`}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          style={{ color: '#2366a8', cursor: 'pointer', fontWeight: 600, textDecoration: 'none' }}
+                          onMouseEnter={(e) => e.target.style.textDecoration = 'underline'}
+                          onMouseLeave={(e) => e.target.style.textDecoration = 'none'}
+                        >
+                          {substrate}
+                        </a>
+                      </td>
+                      <td style={{ padding: 8, border: '1px solid #e3eaf1' }}>{detail ? detail["substrate|gene_name"] : 'Not available'}</td>
+                      <td style={{ padding: 8, border: '1px solid #e3eaf1' }}>{detail ? detail["substrate|organism"] : 'Not available'}</td>
+                      <td style={{ padding: 8, border: '1px solid #e3eaf1', fontFamily: 'monospace' }}>{detail ? detail["substrate|15AAmotif"] : 'Not available'}</td>
+                      <td style={{ padding: 8, border: '1px solid #e3eaf1' }}>{detail ? detail["residue"] : 'Not available'}</td>
+                      <td style={{ padding: 8, border: '1px solid #e3eaf1' }}>{detail ? detail["location_residue"] : 'Not available'}</td>
+                      <td style={{ padding: 8, border: '1px solid #e3eaf1' }}>{detail ? detail["Data|source"] : 'Not available'}</td>
                     </tr>
                   ))}
                 </tbody>

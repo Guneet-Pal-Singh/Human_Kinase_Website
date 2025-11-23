@@ -4,6 +4,7 @@ import "./KinaseTissue.css";
 
 const KinaseTissue = () => {
     const [selectedTissue, setSelectedTissue] = useState("");
+    const [selectedCellType, setSelectedCellType] = useState("");
     const [tissueImages, setTissueImages] = useState([]);
     const [loading, setLoading] = useState(false);
 
@@ -32,13 +33,10 @@ const KinaseTissue = () => {
 
     const tissues = getAvailableTissues();
 
-    // Get actual available images for selected tissue
-    const getTissueImages = (tissueName) => {
+    // Get available cell types for selected tissue
+    const getAvailableCellTypes = (tissueName) => {
         if (!tissueName) return [];
 
-        const images = [];
-
-        // Define actual cell types available for each tissue based on real file structure
         const tissueSpecificCellTypes = {
             'breast': ['Adipocyte', 'Endothelial_cell', 'Epithelial_cell', 'Fibroblast', 'Immune_myeloid', 'Muscle'],
             'esophagusmucosa': ['Endothelial_cell', 'Epithelial_cell', 'Fibroblast', 'Glia', 'Immune_lymphocyte', 'Immune_myeloid', 'Muscle', 'Stromal'],
@@ -50,24 +48,36 @@ const KinaseTissue = () => {
             'skin': ['Adipocyte', 'Endothelial_cell', 'Epithelial_cell', 'Epithelial_cell_keratinocyte', 'Fibroblast', 'Immune_lymphocyte', 'Immune_myeloid', 'Melanocyte', 'Muscle', 'Other']
         };
 
-        const availableCellTypes = tissueSpecificCellTypes[tissueName] || [];
+        return tissueSpecificCellTypes[tissueName] || [];
+    };
+
+    const availableCellTypes = getAvailableCellTypes(selectedTissue);
+
+    // Get actual available images for selected tissue and cell type
+    const getTissueImages = (tissueName, cellType) => {
+        if (!tissueName || !cellType) return [];
+
+        const images = [];
+        const cellTypesToShow = [cellType];
 
         // Only add images that actually exist
-        availableCellTypes.forEach(cellType => {
+        cellTypesToShow.forEach(ct => {
             // Barchart images
             images.push({
                 folder: 'tissue_centric_barcharts_svg',
-                filename: `${tissueName}_${cellType}_barchart.svg`,
-                title: `${tissueName} - ${cellType} Barchart`,
-                type: 'Barchart'
+                filename: `${tissueName}_${ct}_barchart.svg`,
+                title: `${tissueName} - ${ct} Barchart`,
+                type: 'Barchart',
+                cellType: ct
             });
 
             // Heatmap images
             images.push({
                 folder: 'tissue_centric_heatmaps_svg',
-                filename: `${tissueName}_${cellType}_heatmap.svg`,
-                title: `${tissueName} - ${cellType} Heatmap`,
-                type: 'Heatmap'
+                filename: `${tissueName}_${ct}_heatmap.svg`,
+                title: `${tissueName} - ${ct} Heatmap`,
+                type: 'Heatmap',
+                cellType: ct
             });
         });
 
@@ -77,11 +87,21 @@ const KinaseTissue = () => {
     useEffect(() => {
         if (selectedTissue) {
             setLoading(true);
-            const images = getTissueImages(selectedTissue);
+            const images = getTissueImages(selectedTissue, selectedCellType);
             setTissueImages(images);
             setLoading(false);
         } else {
             setTissueImages([]);
+        }
+    }, [selectedTissue, selectedCellType]);
+
+    // Set default cell type when tissue changes
+    useEffect(() => {
+        const cellTypes = getAvailableCellTypes(selectedTissue);
+        if (cellTypes.length > 0) {
+            setSelectedCellType(cellTypes[0]);
+        } else {
+            setSelectedCellType("");
         }
     }, [selectedTissue]);
 
@@ -111,6 +131,23 @@ const KinaseTissue = () => {
                             ))}
                         </select>
                     </div>
+
+                    {selectedTissue && availableCellTypes.length > 0 && (
+                        <div>
+                            <label className="kt-label">Select Cell Type:</label>
+                            <select
+                                value={selectedCellType}
+                                onChange={(e) => setSelectedCellType(e.target.value)}
+                                className="kt-select"
+                            >
+                                {availableCellTypes.map((cellType) => (
+                                    <option key={cellType} value={cellType}>
+                                        {cellType.replace(/_/g, ' ')}
+                                    </option>
+                                ))}
+                            </select>
+                        </div>
+                    )}
                 </div>
 
                 <div className="kt-content-area">
