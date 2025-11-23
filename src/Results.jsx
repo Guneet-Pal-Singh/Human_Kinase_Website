@@ -435,14 +435,6 @@ function Results() {
             <div style={{ color: '#2366a8', fontWeight: 600 }}>No substrate details found.</div>
           )}
 
-          {/* KinaseTree visualization for kinase-disease associations */}
-          {result && result.uniprot_id && (
-            <div style={{ marginTop: 48 }}>
-              <h2 style={{ color: '#1565a5', fontWeight: 700, fontSize: 22, marginBottom: 18 }}>Kinase-Disease Associations</h2>
-              <KinaseTree kinaseId={result.uniprot_id} />
-            </div>
-          )}
-
           {/* KinasePlot visualization for expression and centric plots */}
           {result && result["gene names (primary)"] && (
             <div style={{ marginTop: 48 }}>
