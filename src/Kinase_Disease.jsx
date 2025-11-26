@@ -88,7 +88,8 @@ const Kinase_Disease = ({}) => {
     const root = {
       name: selectedDisease,
       children: kinaseData.map((d) => ({
-        name: d.UniProt,
+        name : d.Gene_Name,
+        gene: d.Gene_Name,
         score: parseFloat(d.Score),
         ensembl: d.Ensembl,
         uniprot: d.UniProt,
@@ -168,7 +169,8 @@ const Kinase_Disease = ({}) => {
 
           tooltip
             .html(`
-            <strong>Kinase: ${d.data.name}</strong><br/>
+            <strong>Gene Name: ${d.data.name}</strong><br/>
+            <span class="tooltip-ensembl">Uniprot Id: ${d.data.uniprot}</span><br/>
             <span class="tooltip-score">Score: ${d.data.score?.toFixed(
               3
             )}</span><br/>
