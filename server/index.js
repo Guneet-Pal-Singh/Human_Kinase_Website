@@ -686,6 +686,7 @@ app.get('/api/kinase-disease-lookup', (req, res) => {
         const rowDiseaseId = (row['Disease_ID'] || row['disease_id'] || '').trim();
         const rowDatasource = (row['Datasource_Scores'] || row['datasource_scores'] || row['Datasource_Scores'] || '').trim();
         const rowScore = (row['Score'] || row['score'] || '').trim();
+        const rowGeneName = (row['Gene_Name'] || row['gene_name'] || '').trim();
 
         if (!rowUniRaw && !rowDiseaseRaw) return; // skip empty rows
 
@@ -695,7 +696,8 @@ app.get('/api/kinase-disease-lookup', (req, res) => {
           Disease_ID: rowDiseaseId,
           Disease_Name: rowDiseaseRaw,
           Datasource_Scores: rowDatasource,
-          Score: rowScore
+          Score: rowScore,
+          Gene_Name: rowGeneName
         };
 
         // If uniprot lookup, collect full rows per requested uniprot(s)
