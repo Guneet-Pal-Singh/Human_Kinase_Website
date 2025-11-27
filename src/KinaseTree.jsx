@@ -224,6 +224,7 @@ const KinaseTree = ({ kinaseId }) => {
       .style("stroke", "white")
       .style("stroke-width", 3)
       .style("filter", "drop-shadow(0px 2px 4px rgba(0,0,0,0.25))")
+      .style("cursor", d => d.depth === 0 ? "pointer" : "default")  // <-- hyperlink cursor for root kinase
       .on("mouseover", function(event, d) {
         if (d.data.score) {
           d3.select(this).transition().duration(180).attr("r", d.data.score ? 12 + d.data.score * 16 : 20);
@@ -250,6 +251,13 @@ const KinaseTree = ({ kinaseId }) => {
           d3.select(this).transition().duration(180).attr("r", d.data.score ? 8 + d.data.score * 12 : 14);
         }
         d3.selectAll(".tooltip").remove();
+      })
+      .on("click", function(event, d) {
+        // open UniProt page for the kinase (root node)
+        if (d.depth === 0 && kinaseId) {
+          const url = `https://www.uniprot.org/uniprotkb/${kinaseId}`;
+          window.open(url, "_blank", "noopener,noreferrer");
+        }
       });
 
     // Append wrapped text as tspans using computedLeafMaxChars so it fits label area
@@ -263,6 +271,14 @@ const KinaseTree = ({ kinaseId }) => {
       .style("paint-order", "stroke")
       .style("stroke", "white")
       .style("stroke-width", "3px")
+      .style("cursor", d => d.depth === 0 ? "pointer" : "default")  // <-- pointer on kinase label
+      .on("click", function(event, d) {
+        // same UniProt link when clicking the kinase label text
+        if (d.depth === 0 && kinaseId) {
+          const url = `https://www.uniprot.org/uniprotkb/${kinaseId}`;
+          window.open(url, "_blank", "noopener,noreferrer");
+        }
+      })
       .each(function(d) {
         d3.select(this).selectAll('tspan').remove();
         if (d.children) {
