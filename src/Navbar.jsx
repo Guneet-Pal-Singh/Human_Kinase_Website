@@ -97,7 +97,7 @@ function Navbar() {
       const fields = [
         'uniprot_id', 'pdb', 'sequence', 'gene names (primary)', 'protein names',
         'kinase name', 'group', 'length', 'protein families', 'data_sources', 'EC_number',
-        'All_Gene_Names', 'substrates', 'pocket', 'pdb_pocket','pocket_residues_y','all_domains'
+        'All_Gene_Names', 'substrates', 'pocket', 'pdb_pocket', 'pocket_residues_y', 'all_domains'
       ];
       fields.forEach(f => {
         if (data[f]) resultParams.append(f, data[f]);
@@ -124,6 +124,7 @@ function Navbar() {
         <div className="nav-links">
           <a href="/" className="nav-link">Home</a>
           <a href="/kinase_disease" className="nav-link">Disease</a>
+          <a href="/kinase_tissue" className="nav-link">Tissue</a>
           <button className="nav-link" style={{ background: 'rgba(0,0,0,0.25)', border: 'none', borderRadius: '4px', padding: '0.3em 0.8em', cursor: 'pointer' }} onClick={handleDownloadCSV}>
             Download
           </button>
