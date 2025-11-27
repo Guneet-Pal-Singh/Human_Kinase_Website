@@ -503,28 +503,59 @@ function Results() {
                   </tr>
                 </thead>
                 <tbody>
-                  {paginate(Object.entries(substrateDetails), 5, substratePage).map(([substrate, detail], idx) => (
-                    <tr key={substrate} style={{ background: idx % 2 === 0 ? '#f8fbff' : 'white' }}>
-                      <td style={{ padding: 8, border: '1px solid #e3eaf1', fontWeight: 600 }}>
-                        <a
-                          href={`https://www.uniprot.org/uniprotkb/${substrate}`}
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          style={{ color: '#2366a8', cursor: 'pointer', fontWeight: 600, textDecoration: 'none' }}
-                          onMouseEnter={(e) => e.target.style.textDecoration = 'underline'}
-                          onMouseLeave={(e) => e.target.style.textDecoration = 'none'}
-                        >
-                          {substrate}
-                        </a>
-                      </td>
-                      <td style={{ padding: 8, border: '1px solid #e3eaf1' }}>{detail ? detail["substrate|gene_name"] : 'Not available'}</td>
-                      <td style={{ padding: 8, border: '1px solid #e3eaf1' }}>{detail ? detail["substrate|organism"] : 'Not available'}</td>
-                      <td style={{ padding: 8, border: '1px solid #e3eafff', fontFamily: 'monospace' }}>{detail ? detail["substrate|15AAmotif"] : 'Not available'}</td>
-                      <td style={{ padding: 8, border: '1px solid #e3eaf1' }}>{detail ? detail["residue"] : 'Not available'}</td>
-                      <td style={{ padding: 8, border: '1px solid #e3eaf1' }}>{detail ? detail["location_residue"] : 'Not available'}</td>
-                      <td style={{ padding: 8, border: '1px solid #e3eaf1' }}>{detail ? detail["Data|source"] : 'Not available'}</td>
-                    </tr>
-                  ))}
+                  {paginate(Object.entries(substrateDetails), 5, substratePage).map(([substrate, detailArray], groupIdx) => {
+                    // detailArray is an array (possibly empty) of matching row objects
+                    const rows = Array.isArray(detailArray) ? detailArray : [];
+                    if (rows.length === 0) {
+                      return (
+                        <tr key={substrate} style={{ background: groupIdx % 2 === 0 ? '#f8fbff' : 'white' }}>
+                          <td style={{ padding: 8, border: '1px solid #e3eaf1', fontWeight: 600 }}>
+                            <a
+                              href={`https://www.uniprot.org/uniprotkb/${substrate}`}
+                              target="_blank"
+                              rel="noopener noreferrer"
+                              style={{ color: '#2366a8', cursor: 'pointer', fontWeight: 600, textDecoration: 'none' }}
+                              onMouseEnter={(e) => e.target.style.textDecoration = 'underline'}
+                              onMouseLeave={(e) => e.target.style.textDecoration = 'none'}
+                            >
+                              {substrate}
+                            </a>
+                          </td>
+                          <td style={{ padding: 8, border: '1px solid #e3eaf1' }}>Not available</td>
+                          <td style={{ padding: 8, border: '1px solid #e3eaf1' }}>Not available</td>
+                          <td style={{ padding: 8, border: '1px solid #e3eafff', fontFamily: 'monospace' }}>Not available</td>
+                          <td style={{ padding: 8, border: '1px solid #e3eaf1' }}>Not available</td>
+                          <td style={{ padding: 8, border: '1px solid #e3eaf1' }}>Not available</td>
+                          <td style={{ padding: 8, border: '1px solid #e3eaf1' }}>Not available</td>
+                        </tr>
+                      );
+                    }
+
+                    return rows.map((row, rowIdx) => (
+                      <tr key={`${substrate}-${rowIdx}-${row['residue'] || rowIdx}`} style={{ background: groupIdx % 2 === 0 ? '#f8fbff' : 'white' }}>
+                        {rowIdx === 0 && (
+                          <td rowSpan={rows.length} style={{ padding: 8, border: '1px solid #e3eaf1', fontWeight: 600, verticalAlign: 'middle' }}>
+                            <a
+                              href={`https://www.uniprot.org/uniprotkb/${substrate}`}
+                              target="_blank"
+                              rel="noopener noreferrer"
+                              style={{ color: '#2366a8', cursor: 'pointer', fontWeight: 600, textDecoration: 'none' }}
+                              onMouseEnter={(e) => e.target.style.textDecoration = 'underline'}
+                              onMouseLeave={(e) => e.target.style.textDecoration = 'none'}
+                            >
+                              {substrate}
+                            </a>
+                          </td>
+                        )}
+                        <td style={{ padding: 8, border: '1px solid #e3eaf1' }}>{row ? row["substrate|gene_name"] || 'Not available' : 'Not available'}</td>
+                        <td style={{ padding: 8, border: '1px solid #e3eaf1' }}>{row ? row["substrate|organism"] || 'Not available' : 'Not available'}</td>
+                        <td style={{ padding: 8, border: '1px solid #e3eafff', fontFamily: 'monospace' }}>{row ? row["substrate|15AAmotif"] || 'Not available' : 'Not available'}</td>
+                        <td style={{ padding: 8, border: '1px solid #e3eaf1' }}>{row ? row["residue"] || 'Not available' : 'Not available'}</td>
+                        <td style={{ padding: 8, border: '1px solid #e3eaf1' }}>{row ? row["location_residue"] || 'Not available' : 'Not available'}</td>
+                        <td style={{ padding: 8, border: '1px solid #e3eaf1' }}>{row ? row["Data|source"] || 'Not available' : 'Not available'}</td>
+                      </tr>
+                    ));
+                  })}
                 </tbody>
               </table>
               {/* Pagination Controls */}
@@ -543,7 +574,7 @@ function Results() {
           {result && result["gene names (primary)"] && (
             <div style={{ marginTop: 48 }}>
               <h2 style={{ color: '#1565a5', fontWeight: 700, fontSize: 22, marginBottom: 18 }}>Kinase Analysis Plots</h2>
-              <KinasePlot geneName={result["gene names (primary)"]} />
+              <KinasePlot geneName={result["gene names (primary)"]} /> 
             </div>
           )}
 
