@@ -88,7 +88,8 @@ const Kinase_Disease = ({}) => {
     const root = {
       name: selectedDisease,
       children: kinaseData.map((d) => ({
-        name: d.UniProt,
+        name : d.Gene_Name,
+        gene: d.Gene_Name,
         score: parseFloat(d.Score),
         ensembl: d.Ensembl,
         uniprot: d.UniProt,
@@ -154,6 +155,7 @@ const Kinase_Disease = ({}) => {
         d.data.score ? d3.interpolateViridis(d.data.score) : "steelblue"
       )
       .attr("class", "node-circle")
+      .style("cursor", (d) => (d.data.uniprot ? "pointer" : "default")) // cursor when uniprot present
       .on("mouseover", function (event, d) {
         if (d.data.score) {
           d3.select(this)
@@ -168,7 +170,8 @@ const Kinase_Disease = ({}) => {
 
           tooltip
             .html(`
-            <strong>Kinase: ${d.data.name}</strong><br/>
+            <strong>Gene Name: ${d.data.name}</strong><br/>
+            <span class="tooltip-ensembl">Uniprot Id: ${d.data.uniprot}</span><br/>
             <span class="tooltip-score">Score: ${d.data.score?.toFixed(
               3
             )}</span><br/>
@@ -189,6 +192,13 @@ const Kinase_Disease = ({}) => {
             .attr("r", d.data.score ? 8 + d.data.score * 12 : 18);
         }
         d3.selectAll(".tooltip").remove();
+      })
+      .on("click", function (event, d) {
+        // open UniProt page in new tab if uniprot id exists
+        if (d.data && d.data.uniprot) {
+          const url = `https://www.uniprot.org/uniprotkb/${d.data.uniprot}`;
+          window.open(url, "_blank", "noopener,noreferrer");
+        }
       });
 
     node
@@ -226,7 +236,15 @@ const Kinase_Disease = ({}) => {
               .text(l);
           });
         } else {
-          d3.select(this).text(d.data.name);
+          // leaf node text — make clickable to UniProt if uniprot exists
+          const textEl = d3.select(this).text(d.data.name);
+          if (d.data && d.data.uniprot) {
+            textEl.style("cursor", "pointer");
+            d3.select(this).on("click", function (event_) {
+              const url = `https://www.uniprot.org/uniprotkb/${d.data.uniprot}`;
+              window.open(url, "_blank", "noopener,noreferrer");
+            });
+          }
         }
       });
 
