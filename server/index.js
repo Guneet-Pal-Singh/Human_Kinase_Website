@@ -60,61 +60,77 @@ app.get('/api/search', async (req, res) => {
 
 // ...existing code...
 
-// API: Get substrate details from kinase_substrate_data.csv
-// POST /api/substrate-details
-// Body: { substrates: ["substrate1", "substrate2", ...] }
-// Returns: Object mapping each input substrate to an array of objects with specified columns
 app.post('/api/substrate-details', async (req, res) => {
   try {
     let { substrates, kinase_id } = req.body;
+
     // Accept substrates as comma-separated string or array
     if (typeof substrates === 'string') {
       substrates = substrates.split(',').map(s => s.trim()).filter(Boolean);
     }
+
     if (!Array.isArray(substrates) || substrates.length === 0 || !kinase_id) {
-      return res.status(400).json({ error: 'A non-empty array or comma-separated string of substrates and a kinase_id are required.' });
+      return res.status(400).json({
+        error: 'A non-empty array or comma-separated string of substrates and a kinase_id are required.'
+      });
     }
-    const kinaseIdLc = kinase_id.toLowerCase();
+
+    const kinaseIdLc = String(kinase_id).trim().toLowerCase();
+
+    // Prepare details map: original input -> array of matching rows (allow duplicates)
     const details = {};
-    substrates.forEach(s => { details[s] = null; });
-    const inputLowerMap = {};
-    substrates.forEach(s => { inputLowerMap[s.toLowerCase()] = s; });
+    const inputLowerToOrig = {}; // map lowercase input -> original input key
+    substrates.forEach(s => {
+      const orig = String(s).trim();
+      details[orig] = []; // will collect ALL matching rows for this input
+      inputLowerToOrig[orig.toLowerCase()] = orig;
+    });
+
     const filePath = path.join(__dirname, '../kinase_substrate_data_normalized.csv');
-    const columns = [
-      'substrate|uniprot_id',
-      'substrate|gene_name',
-      'substrate|organism',
-      'substrate|15AAmotif',
-      'Data|source',
-      'residue',
-      'location_residue'
-    ];
-    const found = new Set();
+
     fs.createReadStream(filePath)
       .pipe(csv())
       .on('data', (row) => {
-        const geneName = (row['substrate|gene_name'] || '').toLowerCase();
-        const uniprotId = (row['substrate|uniprot_id'] || '').toLowerCase();
-        const rowKinaseId = (row['kinase|uniprot_id'] || '').toLowerCase();
-        Object.keys(inputLowerMap).forEach(inputLc => {
-          if (!found.has(inputLc) && (inputLc === geneName || inputLc === uniprotId) && rowKinaseId === kinaseIdLc) {
-            const entry = {};
-            columns.forEach(col => { entry[col] = row[col] || ''; });
-            details[inputLowerMap[inputLc]] = entry;
-            found.add(inputLc);
-          }
-        });
+        try {
+          // Normalize comparison fields
+          const rowKinase = String(row['kinase|uniprot_id'] || '').trim().toLowerCase();
+          if (rowKinase !== kinaseIdLc) return; // only rows for requested kinase
+
+          const rowSubUni = String(row['substrate|uniprot_id'] || '').trim().toLowerCase();
+          const rowSubGene = String(row['substrate|gene_name'] || '').trim().toLowerCase();
+
+          // For each input, if it matches gene or uniprot, push the full row object
+          Object.keys(inputLowerToOrig).forEach(inputLc => {
+            if (inputLc === rowSubUni || inputLc === rowSubGene) {
+              const origKey = inputLowerToOrig[inputLc];
+              // push a shallow copy to avoid accidental mutation
+              details[origKey].push({ ...row });
+            }
+          });
+
+        } catch (err) {
+          // ignore malformed rows but keep streaming
+          console.warn('Skipping malformed CSV row', err);
+        }
       })
       .on('end', () => {
-        res.json({ details });
+        // Ensure every requested input key exists (already initialized) and return
+        return res.status(200).json({ details });
       })
       .on('error', (err) => {
-        res.status(500).json({ error: 'Failed to read CSV', details: err.message });
+        console.error('CSV read error:', err);
+        return res.status(500).json({ error: 'Failed to read CSV', details: err.message });
       });
+
   } catch (err) {
-    res.status(500).json({ error: 'Server error', details: err.message });
+    console.error('Server error:', err);
+    return res.status(500).json({ error: 'Server error', details: err.message });
   }
 });
+
+
+
+
 
 // Batch Search API
 // Accepts: { inputs: "id1,id2,..." } and type: "uniprot" or "gene" (optional, default: both)
