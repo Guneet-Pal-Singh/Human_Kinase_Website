@@ -203,7 +203,7 @@ const Kinase_Disease = ({}) => {
 
     node
       .append("text")
-      .attr("x", (d) => (d.children ? -30 : isHorizontal ? 15 : 0))
+      .attr("x", (d) => (d.children ? -30 : isHorizontal ? 25 : 0))
       .attr("y", (d) => (d.children ? 40 : isHorizontal ? 5 : 30))
       .attr("text-anchor", (d) =>
         d.children ? "start" : isHorizontal ? "start" : "middle"
