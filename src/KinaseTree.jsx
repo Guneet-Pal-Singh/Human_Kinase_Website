@@ -263,7 +263,7 @@ const KinaseTree = ({ kinaseId }) => {
     // Append wrapped text as tspans using computedLeafMaxChars so it fits label area
     node.append("text")
       .attr("x", d => d.children ? -30 : (isHorizontal ? 25 : 0))
-      .attr("y", d => d.children ? 40 : (isHorizontal ? 5 : 30))
+      .attr("y", d => d.children ? 40 : (isHorizontal ? 0 : 0))
       .attr("text-anchor", d => d.children ? "start" : (isHorizontal ? "start" : "middle"))
       .style("font-size", d => d.children ? "18px" : "15px")
       .style("font-weight", d => d.children ? "700" : "600")

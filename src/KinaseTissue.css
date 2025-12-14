@@ -4,21 +4,21 @@
   flex-direction: column;
   align-items: center;
   width: 100%;
-  padding: 24px;
+  padding: clamp(16px, 2vw, 32px); /* responsive */
 }
 
 /* Top bar for tissue and cell type selection */
 .kt-topbar {
-  margin-bottom: 24px;
+  margin-bottom: clamp(16px, 2vw, 32px);
   display: flex;
-  gap: 24px;
+  gap: clamp(12px, 2vw, 24px);
   align-items: center;
   background: #f0f9ff;
-  padding: 16px;
+  padding: clamp(12px, 1.6vw, 20px);
   border-radius: 12px;
   box-shadow: 0 2px 6px rgba(14, 116, 144, 0.08);
   width: 100%;
-  max-width: 1200px;
+  max-width: clamp(900px, 80vw, 1400px); /* scales to projector */
   flex-wrap: wrap;
 }
 
@@ -26,14 +26,15 @@
   margin-right: 8px;
   font-weight: 500;
   color: #0f4c75;
+  font-size: clamp(14px, 1.2vw, 18px);
 }
 
 .kt-select {
   border: 2px solid #bfdbfe;
   border-radius: 8px;
-  padding: 8px 16px;
+  padding: clamp(6px, 0.9vw, 12px) clamp(12px, 1.5vw, 20px);
   outline: none;
-  font-size: 14px;
+  font-size: clamp(13px, 1.2vw, 16px);
   background: white;
   color: black;
   font-weight: 500;
@@ -52,29 +53,29 @@
 /* Content area for images */
 .kt-content-area {
   width: 100%;
-  max-width: 1400px;
+  max-width: clamp(900px, 85vw, 1600px); /* scales smoothly */
 }
 
 .kt-loading {
   text-align: center;
-  padding: 40px;
-  font-size: 16px;
+  padding: clamp(24px, 3vw, 48px);
+  font-size: clamp(14px, 1.4vw, 18px);
   color: #0f4c75;
 }
 
 .kt-images-container {
   background: white;
   border-radius: 12px;
-  padding: 24px;
+  padding: clamp(16px, 2vw, 32px);
   box-shadow: 0 4px 12px rgba(14, 116, 144, 0.06);
 }
 
 .kt-tissue-title {
   color: #0f4c75;
-  font-size: 28px;
+  font-size: clamp(20px, 2.6vw, 34px);
   font-weight: 700;
   text-align: center;
-  margin-bottom: 30px;
+  margin-bottom: clamp(20px, 2vw, 36px);
   border-bottom: 2px solid #e0f2fe;
   padding-bottom: 15px;
 }
@@ -82,15 +83,15 @@
 /* Image grid layout */
 .kt-images-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
-  gap: 24px;
+  grid-template-columns: repeat(auto-fit, minmax(clamp(280px, 30vw, 450px), 1fr));
+  gap: clamp(16px, 2vw, 28px);
   margin-top: 20px;
 }
 
 .kt-image-item {
   background: #f8fafc;
   border-radius: 12px;
-  padding: 16px;
+  padding: clamp(12px, 1.4vw, 20px);
   border: 1px solid #e2e8f0;
   transition: all 0.3s ease;
 }
@@ -104,12 +105,12 @@
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
-  margin-bottom: 12px;
+  margin-bottom: clamp(8px, 1vw, 14px);
 }
 
 .kt-image-header h4 {
   color: #0f4c75;
-  font-size: 16px;
+  font-size: clamp(14px, 1.3vw, 18px);
   font-weight: 600;
   margin: 0;
   flex: 1;
@@ -120,7 +121,7 @@
   color: white;
   padding: 4px 8px;
   border-radius: 6px;
-  font-size: 12px;
+  font-size: clamp(10px, 1vw, 12px);
   font-weight: 500;
   margin-left: 10px;
 }
@@ -131,7 +132,7 @@
   border-radius: 8px;
   overflow: hidden;
   margin-bottom: 12px;
-  min-height: 200px;
+  min-height: clamp(160px, 20vw, 280px);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -139,7 +140,7 @@
 
 .kt-tissue-image {
   max-width: 100%;
-  max-height: 400px;
+  max-height: clamp(240px, 35vw, 480px);
   object-fit: contain;
   border-radius: 8px;
 }
@@ -147,7 +148,7 @@
 .kt-image-placeholder {
   color: #64748b;
   font-style: italic;
-  padding: 40px;
+  padding: clamp(24px, 2.5vw, 40px);
   text-align: center;
   background: #f1f5f9;
   border-radius: 8px;
@@ -160,7 +161,7 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  padding: 40px 20px;
+  padding: clamp(24px, 3vw, 48px);
   text-align: center;
   background: #f8fafc;
   border: 2px dashed #cbd5e1;
@@ -170,7 +171,7 @@
 }
 
 .kt-file-icon {
-  font-size: 48px;
+  font-size: clamp(32px, 4vw, 56px);
   margin-bottom: 12px;
 }
 
@@ -193,10 +194,10 @@
   display: inline-block;
   background: #0ea5e9;
   color: white;
-  padding: 8px 16px;
+  padding: clamp(6px, 1vw, 12px) clamp(12px, 1.6vw, 20px);
   border-radius: 6px;
   text-decoration: none;
-  font-size: 14px;
+  font-size: clamp(12px, 1.2vw, 14px);
   font-weight: 500;
   transition: background-color 0.2s ease;
 }
@@ -213,21 +214,21 @@
     align-items: flex-start;
     gap: 16px;
   }
-  
+
   .kt-topbar > div {
     width: 100%;
   }
-  
+
   .kt-images-grid {
     grid-template-columns: 1fr;
     gap: 16px;
   }
-  
+
   .kt-image-header {
     flex-direction: column;
     align-items: flex-start;
   }
-  
+
   .kt-image-type {
     margin-left: 0;
     margin-top: 8px;

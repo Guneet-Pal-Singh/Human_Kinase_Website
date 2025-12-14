@@ -8,7 +8,6 @@ const KinasePlot = ({ geneName }) => {
     const [loading, setLoading] = useState(true);
     const [error, setError] = useState(null);
 
-    // Check if plots are available for the given gene name
     useEffect(() => {
         if (!geneName) {
             setLoading(false);
@@ -20,14 +19,12 @@ const KinasePlot = ({ geneName }) => {
             setError(null);
 
             try {
-                // Construct file paths
                 const centricPlotPath = `/kinase_centric_plots_svg/${geneName}_plot.svg`;
                 const expressionPlotPath = `/kinase_svg_plots/${geneName}_expression.svg`;
 
-                // Check if files exist by attempting to fetch them
                 const checkFile = async (path) => {
                     try {
-                        const response = await fetch(path, { method: 'HEAD' });
+                        const response = await fetch(path, { method: "HEAD" });
                         return response.ok;
                     } catch {
                         return false;
@@ -44,8 +41,7 @@ const KinasePlot = ({ geneName }) => {
                     expressionPlot: expressionExists
                 });
             } catch (err) {
-                setError('Failed to check plot availability');
-                console.error('Error checking plot availability:', err);
+                setError("Failed to check plot availability");
             } finally {
                 setLoading(false);
             }
@@ -54,13 +50,17 @@ const KinasePlot = ({ geneName }) => {
         checkPlotAvailability();
     }, [geneName]);
 
+    const responsiveText = (min, mid, max) => ({
+        fontSize: `clamp(${min}px, ${mid}vw, ${max}px)`
+    });
+
     if (!geneName) {
         return (
             <div style={{
-                textAlign: 'center',
-                padding: '40px 20px',
-                color: '#666',
-                fontSize: '16px'
+                textAlign: "center",
+                padding: "clamp(20px, 3vw, 40px)",
+                color: "#666",
+                ...responsiveText(14, 1.4, 18)
             }}>
                 No gene name provided for plot display
             </div>
@@ -70,10 +70,10 @@ const KinasePlot = ({ geneName }) => {
     if (loading) {
         return (
             <div style={{
-                textAlign: 'center',
-                padding: '40px 20px',
-                color: '#2366a8',
-                fontSize: '16px'
+                textAlign: "center",
+                padding: "clamp(20px, 3vw, 40px)",
+                color: "#2366a8",
+                ...responsiveText(14, 1.4, 18)
             }}>
                 Loading plots for {geneName}...
             </div>
@@ -83,10 +83,10 @@ const KinasePlot = ({ geneName }) => {
     if (error) {
         return (
             <div style={{
-                textAlign: 'center',
-                padding: '40px 20px',
-                color: '#dc2626',
-                fontSize: '16px'
+                textAlign: "center",
+                padding: "clamp(20px, 3vw, 40px)",
+                color: "#dc2626",
+                ...responsiveText(14, 1.4, 18)
             }}>
                 {error}
             </div>
@@ -96,10 +96,10 @@ const KinasePlot = ({ geneName }) => {
     if (!plotAvailability.centricPlot && !plotAvailability.expressionPlot) {
         return (
             <div style={{
-                textAlign: 'center',
-                padding: '40px 20px',
-                color: '#666',
-                fontSize: '16px'
+                textAlign: "center",
+                padding: "clamp(20px, 3vw, 40px)",
+                color: "#666",
+                ...responsiveText(14, 1.4, 18)
             }}>
                 No plots available for gene: {geneName}
             </div>
@@ -108,70 +108,73 @@ const KinasePlot = ({ geneName }) => {
 
     return (
         <div style={{
-            background: 'white',
-            borderRadius: 14,
-            padding: 24,
-            boxShadow: '0 2px 8px 0 rgba(35,102,168,0.06)',
-            border: '1px solid #e3eaf1'
+            background: "white",
+            borderRadius: "14px",
+            padding: "clamp(16px, 2vw, 28px)",
+            boxShadow: "0 2px 8px rgba(35,102,168,0.06)",
+            border: "1px solid #e3eaf1",
+            maxWidth: "clamp(300px, 80vw, 1300px)",
+            margin: "0 auto"
         }}>
             <h3 style={{
-                color: '#1565a5',
+                color: "#1565a5",
                 fontWeight: 700,
-                fontSize: 20,
-                marginBottom: 20,
-                textAlign: 'center'
+                marginBottom: "clamp(10px, 2vw, 20px)",
+                textAlign: "center",
+                ...responsiveText(18, 2, 26)
             }}>
                 Kinase Plots for {geneName}
             </h3>
 
             <div style={{
-                display: 'flex',
-                flexDirection: 'column',
-                gap: 30
+                display: "flex",
+                flexDirection: "column",
+                gap: "clamp(16px, 3vw, 32px)"
             }}>
 
-                {/* Kinase Centric Plot */}
+                {/* CENTRIC PLOT */}
                 {plotAvailability.centricPlot && (
                     <div style={{
-                        background: '#f4faff',
+                        background: "#f4faff",
                         borderRadius: 10,
-                        padding: 20,
-                        border: '1px solid #e3f0ff'
+                        padding: "clamp(14px, 2vw, 24px)",
+                        border: "1px solid #e3f0ff"
                     }}>
                         <h4 style={{
-                            color: '#1565a5',
+                            color: "#1565a5",
                             fontWeight: 600,
-                            fontSize: 16,
-                            marginBottom: 15,
-                            textAlign: 'center'
+                            marginBottom: "clamp(10px, 1.5vw, 18px)",
+                            textAlign: "center",
+                            ...responsiveText(14, 1.6, 20)
                         }}>
                             Kinase Centric Analysis
                         </h4>
+
                         <div style={{
-                            textAlign: 'center',
-                            background: 'white',
+                            textAlign: "center",
+                            background: "white",
                             borderRadius: 8,
-                            padding: 10,
-                            border: '1px solid #e3eaf1'
+                            padding: "clamp(8px, 1vw, 14px)",
+                            border: "1px solid #e3eaf1"
                         }}>
                             <img
                                 src={`/kinase_centric_plots_svg/${geneName}_plot.svg`}
                                 alt={`${geneName} Centric Plot`}
                                 style={{
-                                    maxWidth: '100%',
-                                    height: 'auto',
-                                    maxHeight: '500px'
+                                    maxWidth: "100%",
+                                    height: "auto",
+                                    maxHeight: "clamp(260px, 45vw, 600px)"
                                 }}
                                 onError={(e) => {
-                                    e.target.style.display = 'none';
-                                    e.target.nextSibling.style.display = 'block';
+                                    e.target.style.display = "none";
+                                    e.target.nextSibling.style.display = "block";
                                 }}
                             />
                             <div style={{
-                                display: 'none',
-                                color: '#dc2626',
-                                padding: '20px',
-                                fontSize: '14px'
+                                display: "none",
+                                color: "#dc2626",
+                                padding: "clamp(10px, 2vw, 20px)",
+                                ...responsiveText(12, 1.4, 16)
                             }}>
                                 Failed to load centric plot
                             </div>
@@ -179,48 +182,49 @@ const KinasePlot = ({ geneName }) => {
                     </div>
                 )}
 
-                {/* Expression Plot */}
+                {/* EXPRESSION PLOT */}
                 {plotAvailability.expressionPlot && (
                     <div style={{
-                        background: '#f4faff',
+                        background: "#f4faff",
                         borderRadius: 10,
-                        padding: 20,
-                        border: '1px solid #e3f0ff'
+                        padding: "clamp(14px, 2vw, 24px)",
+                        border: "1px solid #e3f0ff"
                     }}>
                         <h4 style={{
-                            color: '#1565a5',
+                            color: "#1565a5",
                             fontWeight: 600,
-                            fontSize: 16,
-                            marginBottom: 15,
-                            textAlign: 'center'
+                            marginBottom: "clamp(10px, 1.5vw, 18px)",
+                            textAlign: "center",
+                            ...responsiveText(14, 1.6, 20)
                         }}>
                             Expression Analysis
                         </h4>
+
                         <div style={{
-                            textAlign: 'center',
-                            background: 'white',
+                            textAlign: "center",
+                            background: "white",
                             borderRadius: 8,
-                            padding: 10,
-                            border: '1px solid #e3eaf1'
+                            padding: "clamp(8px, 1vw, 14px)",
+                            border: "1px solid #e3eaf1"
                         }}>
                             <img
                                 src={`/kinase_svg_plots/${geneName}_expression.svg`}
                                 alt={`${geneName} Expression Plot`}
                                 style={{
-                                    maxWidth: '100%',
-                                    height: 'auto',
-                                    maxHeight: '500px'
+                                    maxWidth: "100%",
+                                    height: "auto",
+                                    maxHeight: "clamp(260px, 45vw, 600px)"
                                 }}
                                 onError={(e) => {
-                                    e.target.style.display = 'none';
-                                    e.target.nextSibling.style.display = 'block';
+                                    e.target.style.display = "none";
+                                    e.target.nextSibling.style.display = "block";
                                 }}
                             />
                             <div style={{
-                                display: 'none',
-                                color: '#dc2626',
-                                padding: '20px',
-                                fontSize: '14px'
+                                display: "none",
+                                color: "#dc2626",
+                                padding: "clamp(10px, 2vw, 20px)",
+                                ...responsiveText(12, 1.4, 16)
                             }}>
                                 Failed to load expression plot
                             </div>
@@ -228,69 +232,69 @@ const KinasePlot = ({ geneName }) => {
                     </div>
                 )}
 
-                {/* Download Links */}
+                {/* DOWNLOAD LINKS */}
                 <div style={{
-                    display: 'flex',
-                    justifyContent: 'center',
-                    gap: 20,
-                    marginTop: 10
+                    display: "flex",
+                    justifyContent: "center",
+                    gap: "clamp(12px, 2vw, 24px)",
+                    marginTop: "clamp(4px, 1vw, 10px)"
                 }}>
                     {plotAvailability.centricPlot && (
                         <a
                             href={`/kinase_centric_plots_svg/${geneName}_plot.svg`}
                             download={`${geneName}_plot.svg`}
                             style={{
-                                color: '#2366a8',
-                                textDecoration: 'none',
+                                color: "#2366a8",
+                                textDecoration: "none",
                                 fontWeight: 600,
-                                fontSize: 14,
-                                padding: '8px 16px',
-                                border: '1px solid #2366a8',
+                                padding: "clamp(6px, 1vw, 12px) clamp(12px, 2vw, 20px)",
+                                border: "1px solid #2366a8",
                                 borderRadius: 6,
-                                background: 'white',
-                                transition: 'all 0.2s ease'
+                                background: "white",
+                                transition: "0.2s",
+                                ...responsiveText(12, 1.4, 16)
                             }}
                             onMouseOver={(e) => {
-                                e.target.style.background = '#2366a8';
-                                e.target.style.color = 'white';
+                                e.target.style.background = "#2366a8";
+                                e.target.style.color = "white";
                             }}
                             onMouseOut={(e) => {
-                                e.target.style.background = 'white';
-                                e.target.style.color = '#2366a8';
+                                e.target.style.background = "white";
+                                e.target.style.color = "#2366a8";
                             }}
                         >
                             📊 Download Centric Plot
                         </a>
                     )}
+
                     {plotAvailability.expressionPlot && (
                         <a
                             href={`/kinase_svg_plots/${geneName}_expression.svg`}
                             download={`${geneName}_expression.svg`}
                             style={{
-                                color: '#2366a8',
-                                textDecoration: 'none',
+                                color: "#2366a8",
+                                textDecoration: "none",
                                 fontWeight: 600,
-                                fontSize: 14,
-                                padding: '8px 16px',
-                                border: '1px solid #2366a8',
+                                padding: "clamp(6px, 1vw, 12px) clamp(12px, 2vw, 20px)",
+                                border: "1px solid #2366a8",
                                 borderRadius: 6,
-                                background: 'white',
-                                transition: 'all 0.2s ease'
+                                background: "white",
+                                transition: "0.2s",
+                                ...responsiveText(12, 1.4, 16)
                             }}
                             onMouseOver={(e) => {
-                                e.target.style.background = '#2366a8';
-                                e.target.style.color = 'white';
+                                e.target.style.background = "#2366a8";
+                                e.target.style.color = "white";
                             }}
                             onMouseOut={(e) => {
-                                e.target.style.background = 'white';
-                                e.target.style.color = '#2366a8';
+                                e.target.style.background = "white";
+                                e.target.style.color = "#2366a8";
                             }}
                         >
                             📈 Download Expression Plot
                         </a>
                     )}
                 </div>
-
             </div>
         </div>
     );
