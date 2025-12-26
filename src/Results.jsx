@@ -39,6 +39,7 @@ function Results() {
   const [substrateLoading, setSubstrateLoading] = useState(false);
   const [substrateError, setSubstrateError] = useState(null);
   const [showPocketHighlight, setShowPocketHighlight] = useState(true);
+  const [pdbSource, setPdbSource] = useState('pdb_files'); // 'pdb_files', 'modeller_pdbs', or 'alpha_fold'
 
   // Modal state for expanded viewer
   const [showNGLModal, setShowNGLModal] = useState(false);
@@ -132,7 +133,7 @@ function Results() {
     }, 100);
 
     // NGL viewer logic
-    function loadNGL() {
+    function loadNGL(flag) {
       const nglDiv = document.getElementById('nglViewer');
       if (nglDiv) nglDiv.innerHTML = '';
       if (window.nglStage) {
@@ -142,7 +143,14 @@ function Results() {
 
       if (result) {
         window.nglStage = new window.NGL.Stage('nglViewer', { backgroundColor: 'white' });
-        const pdbPath = `/pdb_files/${result.uniprot_id}.pdb`;
+
+        const pdbFolderMap = {
+          'pdb_files': 'PDB/pdb_files',
+          'modeller_pdbs': 'PDB/modeller_pdbs',
+          'alpha_fold': 'PDB/alpha_fold'
+        };
+        const pdbPath = `/${pdbFolderMap[pdbSource]}/${result.uniprot_id}.pdb`;
+
         window.nglStage.loadFile(pdbPath, { defaultRepresentation: true })
           .then((component) => {
             // Highlight pocket residues if available
@@ -188,7 +196,7 @@ function Results() {
         window.nglStage = null;
       }
     };
-  }, [result, navigate, showPocketHighlight]);
+  }, [result, navigate, showPocketHighlight, pdbSource]);
 
   // Effect to manage the large NGL viewer inside the modal
   useEffect(() => {
@@ -216,7 +224,12 @@ function Results() {
     }
 
     window.nglStageLarge = new window.NGL.Stage('nglViewerLarge', { backgroundColor: 'white' });
-    const pdbPath = `/pdb_files/${result.uniprot_id}.pdb`;
+    const pdbFolderMap = {
+      'pdb_files': 'pdb_files',
+      'modeller_pdbs': 'modeller_pdbs',
+      'alpha_fold': 'alpha_fold'
+    };
+    const pdbPath = `/${pdbFolderMap[pdbSource]}/${result.uniprot_id}.pdb`;
     window.nglStageLarge.loadFile(pdbPath, { defaultRepresentation: true })
       .then((component) => {
         if (result.pocket_residues_y && showPocketHighlight) {
@@ -250,7 +263,7 @@ function Results() {
       const largeDiv2 = document.getElementById('nglViewerLarge');
       if (largeDiv2) largeDiv2.innerHTML = '';
     };
-  }, [showNGLModal, result, showPocketHighlight]);
+  }, [showNGLModal, result, showPocketHighlight, pdbSource]);
 
   return (
     <>
@@ -324,7 +337,12 @@ function Results() {
                           const smallDiv = document.getElementById('nglViewer');
                           if (smallDiv) smallDiv.innerHTML = '';
                           window.nglStage = new window.NGL.Stage('nglViewer', { backgroundColor: 'white' });
-                          const pdbPath = `/pdb_files/${result.uniprot_id}.pdb`;
+                          const pdbFolderMap = {
+                            'pdb_files': 'pdb_files',
+                            'modeller_pdbs': 'modeller_pdbs',
+                            'alpha_fold': 'alpha_fold'
+                          };
+                          const pdbPath = `/${pdbFolderMap[pdbSource]}/${result.uniprot_id}.pdb`;
                           window.nglStage.loadFile(pdbPath, { defaultRepresentation: true })
                             .then((component) => {
                               if (result.pocket_residues_y && newState) {
@@ -355,7 +373,12 @@ function Results() {
                             window.nglStageLarge = null;
                           }
                           window.nglStageLarge = new window.NGL.Stage('nglViewerLarge', { backgroundColor: 'white' });
-                          const pdbPath = `/pdb_files/${result.uniprot_id}.pdb`;
+                          const pdbFolderMap = {
+                            'pdb_files': 'pdb_files',
+                            'modeller_pdbs': 'modeller_pdbs',
+                            'alpha_fold': 'alpha_fold'
+                          };
+                          const pdbPath = `/${pdbFolderMap[pdbSource]}/${result.uniprot_id}.pdb`;
                           window.nglStageLarge.loadFile(pdbPath, { defaultRepresentation: true })
                             .then((component) => {
                               if (result.pocket_residues_y && newState) {
@@ -396,7 +419,7 @@ function Results() {
 
               <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'flex-end' }}>
                 <a
-                  href={`/pdb_files/${result.uniprot_id}.pdb`}
+                  href={`/${pdbSource === 'pdb_files' ? 'pdb_files' : pdbSource === 'modeller_pdbs' ? 'modeller_pdbs' : 'alpha_fold'}/${result.uniprot_id}.pdb`}
                   download={`${result.uniprot_id}.pdb`}
                   style={{ color: '#2366a8', cursor: 'pointer', fontWeight: 600, fontSize: 16, textDecoration: 'none' }}
                 >
@@ -495,6 +518,34 @@ function Results() {
               </span>
             </div>
           </div>
+        </div>
+
+        {/* PDB Source Toggle Button */}
+        <div style={{ display: 'flex', justifyContent: 'center', marginTop: 24 }}>
+          <button
+            onClick={() => {
+              setPdbSource(prev => {
+                if (prev === 'pdb_files') return 'modeller_pdbs';
+                if (prev === 'modeller_pdbs') return 'alpha_fold';
+                return 'pdb_files';
+              });
+            }}
+            style={{
+              padding: '12px 24px',
+              fontSize: 16,
+              fontWeight: 600,
+              borderRadius: 8,
+              border: 'none',
+              background: pdbSource === 'pdb_files' ? '#1565a5' : pdbSource === 'modeller_pdbs' ? '#2366a8' : '#0d47a1',
+              color: 'white',
+              cursor: 'pointer',
+              boxShadow: '0 2px 8px 0 rgba(35,102,168,0.2)',
+              transition: 'all 0.2s ease'
+            }}
+            onMouseEnter={(e) => e.target.style.transform = 'translateY(-2px)'}
+            onMouseLeave={(e) => e.target.style.transform = 'translateY(0)'}          >
+            PDB Source: {pdbSource === 'pdb_files' ? 'Original PDBs' : pdbSource === 'modeller_pdbs' ? 'Modeller PDBs' : 'AlphaFold'}
+          </button>
         </div>
 
         {/* Substrate Details Table (unchanged) */}
@@ -596,7 +647,7 @@ function Results() {
           {result && result["gene names (primary)"] && (
             <div style={{ marginTop: 48 }}>
               <h2 style={{ color: '#1565a5', fontWeight: 700, fontSize: 22, marginBottom: 18 }}>Kinase Analysis Plots</h2>
-              <KinasePlot geneName={result["gene names (primary)"]} /> 
+              <KinasePlot geneName={result["gene names (primary)"]} />
             </div>
           )}
 
