@@ -430,13 +430,26 @@ function Results() {
 
             <div className="info-row">
               <strong className="info-label" style={{ color: '#1565a5' }}>All Domains:</strong>
-              <span className="info-value" style={{ color: '#1a3557', fontFamily: 'monospace', display: 'block', whiteSpace: 'pre-wrap', lineHeight: 1.6, textAlign: 'center' }}>
+              <span className="info-value" style={{ color: '#1a3557', fontFamily: 'monospace', display: 'block', whiteSpace: 'pre-wrap', lineHeight: 1.6, textAlign: 'left' }}>
                 {(() => {
                   if (!result.all_domains || result.all_domains === '-') return 'Not available';
                   const domainsText = result.all_domains.toString();
                   let normalizedText = domainsText.replace(/Protein\s*[\r\n]+\s*kinase/gi, 'Protein kinase');
                   normalizedText = normalizedText.replace(/;/g, ';\n');
-                  return normalizedText;
+                  // Split into individual domains and render as a list
+                  const domains = normalizedText.split('\n').map(d => d.trim()).filter(Boolean);
+                  const renderDomain = (domain) => {
+                    const colonIndex = domain.indexOf(':');
+                    if (colonIndex === -1) return domain;
+                    const heading = domain.substring(0, colonIndex + 1);
+                    const sequence = domain.substring(colonIndex + 1);
+                    return <><strong>{heading}</strong>{sequence}</>;
+                  };
+                  return domains.map((domain, idx) => (
+                    <div key={idx} style={{ marginLeft: '10px', marginBottom: '4px' }}>
+                      • {renderDomain(domain)}
+                    </div>
+                  ));
                 })()}
               </span>
             </div>
