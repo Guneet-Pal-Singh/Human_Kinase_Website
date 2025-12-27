@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Myocyte (cardiac),TNNI3K,0.09856626
+"Myocyte (cardiac, cytoplasmic)",TNNI3K,0.07488558
+"Myocyte (sk. muscle, cytoplasmic)",TNNI3K,0.009036672
+Epithelial cell (basal keratinocyte),TNNI3K,0.0057564545
+Myofibroblast,TNNI3K,0.0038450472
+Epithelial cell (Hillock),TNNI3K,0.002464641
+Schwann cell,TNNI3K,0.0024078104
+Myocyte (sk. muscle),TNNI3K,0.001922173
+Fibroblast,TNNI3K,0.0005590073
+Pericyte/SMC,TNNI3K,0.00052324834
+Endothelial cell (vascular),TNNI3K,0.00051533995
+Myocyte (smooth muscle),TNNI3K,0.00048215876
+Immune (DC/macrophage),TNNI3K,0.00023920804
+Epithelial cell (luminal),TNNI3K,0.00012502597
+Epithelial cell (basal),TNNI3K,0.0
+Epithelial cell (alveolar type II),TNNI3K,0.0
+Epithelial cell (alveolar type I),TNNI3K,0.0
+Adipocyte,TNNI3K,0.0
+Endothelial cell (lymphatic),TNNI3K,0.0
+Epithelial cell (cornified keratinocyte),TNNI3K,0.0
+Epithelial cell (club),TNNI3K,0.0
+Epithelial cell (ciliated),TNNI3K,0.0
+Epithelial cell (squamous),TNNI3K,0.0
+Epithelial cell (suprabasal keratinocyte),TNNI3K,0.0
+Epithelial cell (suprabasal),TNNI3K,0.0
+ICCs,TNNI3K,0.0
+Epithelial cell (mature keratinocyte),TNNI3K,0.0
+Melanocyte,TNNI3K,0.0
+Immune (mast cell),TNNI3K,0.0
+Immune (alveolar macrophage),TNNI3K,0.0
+Immune (T cell),TNNI3K,0.0
+Immune (NK cell),TNNI3K,0.0
+Immune (Langerhans),TNNI3K,0.0
+Immune (DC),TNNI3K,0.0
+Immune (B cell),TNNI3K,0.0
+Myoepithelial (basal),TNNI3K,0.0
+Mucous cell,TNNI3K,0.0
+Myocyte (NMJ-rich),TNNI3K,0.0
+Neuroendocrine,TNNI3K,0.0
+Neuronal,TNNI3K,0.0
+Satellite cell,TNNI3K,0.0
+Sebaceous gland cell,TNNI3K,0.0
+Sweat gland cell,TNNI3K,0.0

@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skin,Melanocyte,AMHR2,1.0,0.7352941176470588
+esophagusmuscularis,Adipocyte,AMHR2,1.0,0.5714285714285714
+esophagusmuscularis,Immune (lymphocyte),AMHR2,1.0,0.3322259136212624
+skin,Epithelial cell,AMHR2,1.0,0.3322259136212624
+lung,Immune (myeloid),AMHR2,1.0,0.2951303492375799
+lung,Fibroblast,AMHR2,1.0,0.2710027100271002
+breast,Adipocyte,AMHR2,1.0,0.2271436683702442
+esophagusmuscularis,Immune (myeloid),AMHR2,1.0,0.2024974687816402
+skin,Fibroblast,AMHR2,1.0,0.1890359168241966
+lung,Epithelial cell,AMHR2,1.0,0.1869158878504673
+lung,Endothelial cell,AMHR2,1.0,0.1820830298616169
+skeletalmuscle,Muscle,AMHR2,1.0277778,0.1594966993044171
+breast,Epithelial cell,AMHR2,1.0,0.1551991722710812
+skin,Epithelial cell (keratinocyte),AMHR2,1.0,0.1540832049306625
+skeletalmuscle,Endothelial cell,AMHR2,1.0,0.1502629601803155
+heart,Immune (lymphocyte),AMHR2,1.0,0.1432664756446991
+esophagusmucosa,Fibroblast,AMHR2,1.0,0.1420959147424511
+skeletalmuscle,Fibroblast,AMHR2,1.0,0.1345895020188425
+breast,Endothelial cell,AMHR2,1.0,0.1135073779795686
+esophagusmucosa,Immune (lymphocyte),AMHR2,1.0,0.11001100110011
+heart,Muscle,AMHR2,1.0,0.1077586206896551
+esophagusmuscularis,Glia,AMHR2,1.0,0.1030927835051546
+esophagusmucosa,Stromal,AMHR2,1.0,0.1011122345803842
+esophagusmucosa,Endothelial cell,AMHR2,1.0,0.0855066267635741
+heart,Immune (myeloid),AMHR2,1.0,0.0781372089388967
+prostate,Epithelial cell,AMHR2,1.0,0.0780132622545832
+esophagusmucosa,Epithelial cell,AMHR2,1.0,0.0724847781965787
+prostate,Endothelial cell,AMHR2,1.0,0.0707714083510261
+esophagusmuscularis,Muscle,AMHR2,1.0,0.067254018427601
+esophagusmuscularis,Endothelial cell,AMHR2,1.0,0.0672494956287827
+prostate,Muscle,AMHR2,1.0,0.0445831475702184
+esophagusmuscularis,Fibroblast,AMHR2,1.0,0.0384282832164473
+heart,Fibroblast,AMHR2,1.0,0.0323032195542155
+heart,Endothelial cell,AMHR2,1.0,0.0261951538965291
+heart,Glia,AMHR2,0.0,0.0
+breast,Muscle,AMHR2,0.0,0.0
+heart,Adipocyte,AMHR2,0.0,0.0
+esophagusmuscularis,Neuron,AMHR2,0.0,0.0
+esophagusmucosa,Muscle,AMHR2,0.0,0.0
+esophagusmucosa,Immune (myeloid),AMHR2,0.0,0.0
+breast,Immune (myeloid),AMHR2,0.0,0.0
+breast,Fibroblast,AMHR2,0.0,0.0
+esophagusmucosa,Glia,AMHR2,0.0,0.0
+skeletalmuscle,Adipocyte,AMHR2,0.0,0.0
+prostate,Immune (myeloid),AMHR2,0.0,0.0
+prostate,Immune (lymphocyte),AMHR2,0.0,0.0
+prostate,Glia,AMHR2,0.0,0.0
+prostate,Fibroblast,AMHR2,0.0,0.0
+lung,Muscle,AMHR2,0.0,0.0
+lung,Immune (lymphocyte),AMHR2,0.0,0.0
+skeletalmuscle,Glia,AMHR2,0.0,0.0
+skin,Endothelial cell,AMHR2,0.0,0.0
+skin,Adipocyte,AMHR2,0.0,0.0
+skeletalmuscle,Immune (myeloid),AMHR2,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),AMHR2,0.0,0.0
+skin,Immune (lymphocyte),AMHR2,0.0,0.0
+skin,Immune (myeloid),AMHR2,0.0,0.0
+skin,Muscle,AMHR2,0.0,0.0
+skin,Other,AMHR2,0.0,0.0

@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmucosa,Stromal,STK11,1.1714286,14.155712841253791
+skin,Melanocyte,STK11,1.1081082,13.602941176470589
+esophagusmucosa,Epithelial cell,STK11,1.1433922,13.547405044940565
+skin,Other,STK11,1.1639345,13.495575221238935
+esophagusmuscularis,Neuron,STK11,1.3333334,12.0
+breast,Adipocyte,STK11,1.0628272,10.84611016467916
+skin,Immune (myeloid),STK11,1.0625,8.938547486033519
+prostate,Muscle,STK11,1.0717949,8.693713776192599
+skin,Adipocyte,STK11,1.0,8.064516129032258
+breast,Muscle,STK11,1.1666666,7.894736842105263
+breast,Immune (myeloid),STK11,1.0714285,7.82122905027933
+prostate,Epithelial cell,STK11,1.1446785,7.818662505959346
+esophagusmucosa,Immune (myeloid),STK11,1.0654205,7.65379113018598
+prostate,Glia,STK11,1.0,7.462686567164178
+skin,Muscle,STK11,1.0769231,6.989247311827956
+heart,Muscle,STK11,1.0723606,6.987732095490716
+esophagusmuscularis,Adipocyte,STK11,1.0833334,6.857142857142858
+lung,Immune (myeloid),STK11,1.068796,6.6732251188719465
+esophagusmucosa,Endothelial cell,STK11,1.0627062,6.4771269773407445
+esophagusmucosa,Immune (lymphocyte),STK11,1.0431035,6.380638063806381
+skeletalmuscle,Adipocyte,STK11,1.0,6.289308176100629
+skin,Epithelial cell,STK11,1.054054,6.146179401993355
+esophagusmucosa,Muscle,STK11,1.0666667,5.9880239520958085
+prostate,Immune (myeloid),STK11,1.05,5.836575875486381
+prostate,Endothelial cell,STK11,1.018405,5.767869780608635
+breast,Epithelial cell,STK11,1.0993975,5.72512502155544
+heart,Adipocyte,STK11,1.0909091,5.699481865284974
+skin,Epithelial cell (keratinocyte),STK11,1.0545454,5.649717514124294
+prostate,Fibroblast,STK11,1.0625,5.604203152364273
+skin,Endothelial cell,STK11,1.0363636,5.376344086021505
+esophagusmucosa,Fibroblast,STK11,1.0510949,4.8667850799289525
+lung,Epithelial cell,STK11,1.0342172,4.855659397715472
+esophagusmuscularis,Muscle,STK11,1.038682,4.694330486246553
+esophagusmucosa,Glia,STK11,1.0,4.615384615384616
+skin,Fibroblast,STK11,1.0,4.158790170132325
+breast,Endothelial cell,STK11,1.117647,3.859250851305335
+heart,Glia,STK11,1.0,3.691275167785235
+heart,Fibroblast,STK11,1.0180722,3.574889630666523
+esophagusmuscularis,Immune (myeloid),STK11,1.0294118,3.442456969287884
+esophagusmuscularis,Glia,STK11,1.0909091,3.402061855670103
+esophagusmuscularis,Endothelial cell,STK11,1.0555556,3.2279757901815738
+lung,Endothelial cell,STK11,1.0348837,3.1318281136198105
+heart,Immune (myeloid),STK11,1.02,3.1254883575558683
+skeletalmuscle,Muscle,STK11,1.0475504,3.074741925479598
+skeletalmuscle,Immune (lymphocyte),STK11,1.0,3.0
+lung,Fibroblast,STK11,1.0238096,2.845528455284553
+skeletalmuscle,Fibroblast,STK11,1.0118343,2.8432032301480485
+esophagusmuscularis,Fibroblast,STK11,1.0204778,2.814871745604765
+skeletalmuscle,Endothelial cell,STK11,1.0,2.779864763335838
+skin,Immune (lymphocyte),STK11,1.0,2.666666666666667
+heart,Endothelial cell,STK11,1.0344827,2.658808120497708
+lung,Immune (lymphocyte),STK11,1.0526316,2.6206896551724137
+skeletalmuscle,Immune (myeloid),STK11,1.0,2.3066485753052914
+heart,Immune (lymphocyte),STK11,1.0625,2.292263610315186
+esophagusmuscularis,Immune (lymphocyte),STK11,1.0,1.9933554817275747
+breast,Fibroblast,STK11,1.125,1.953601953601953
+prostate,Immune (lymphocyte),STK11,1.0769231,1.906158357771261
+lung,Muscle,STK11,1.0,1.8404907975460123
+skeletalmuscle,Glia,STK11,0.0,0.0

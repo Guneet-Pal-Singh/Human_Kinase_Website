@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+lung,Immune (myeloid),MKNK1,1.4481246,33.66125594359731
+esophagusmuscularis,Adipocyte,MKNK1,1.4423077,29.714285714285715
+heart,Immune (myeloid),MKNK1,1.3021064,28.191904985153933
+prostate,Immune (myeloid),MKNK1,1.2814815,26.26459143968872
+heart,Adipocyte,MKNK1,1.1914893,24.352331606217614
+esophagusmuscularis,Immune (myeloid),MKNK1,1.3550624,24.3334458319271
+esophagusmucosa,Immune (myeloid),MKNK1,1.2705883,24.320457796852647
+breast,Immune (myeloid),MKNK1,1.1851852,22.62569832402235
+skeletalmuscle,Immune (myeloid),MKNK1,1.186747,22.523744911804613
+esophagusmuscularis,Neuron,MKNK1,1.6,20.0
+skeletalmuscle,Muscle,MKNK1,1.312346,19.773160249878163
+breast,Adipocyte,MKNK1,1.1773256,19.534355479841
+esophagusmucosa,Stromal,MKNK1,1.2227979,19.51466127401416
+heart,Muscle,MKNK1,1.3157182,18.35212201591512
+skin,Immune (myeloid),MKNK1,1.0645162,17.318435754189945
+skeletalmuscle,Adipocyte,MKNK1,1.1153846,16.352201257861633
+skin,Epithelial cell,MKNK1,1.2888889,14.950166112956811
+esophagusmucosa,Epithelial cell,MKNK1,1.1755968,13.663380690055089
+esophagusmucosa,Immune (lymphocyte),MKNK1,1.1333333,13.2013201320132
+esophagusmucosa,Fibroblast,MKNK1,1.1488764,12.646536412078152
+heart,Immune (lymphocyte),MKNK1,1.1463414,11.74785100286533
+heart,Fibroblast,MKNK1,1.160221,11.693765478626036
+esophagusmuscularis,Fibroblast,MKNK1,1.1138353,10.971274858295706
+prostate,Muscle,MKNK1,1.111588,10.3878733838609
+esophagusmucosa,Muscle,MKNK1,1.0961539,10.379241516966069
+esophagusmuscularis,Muscle,MKNK1,1.1141791,9.01203846929854
+skeletalmuscle,Glia,MKNK1,1.0,8.571428571428571
+skin,Fibroblast,MKNK1,1.0222223,8.506616257088846
+esophagusmuscularis,Immune (lymphocyte),MKNK1,1.04,8.305647840531561
+lung,Immune (lymphocyte),MKNK1,1.1333333,8.275862068965518
+skin,Adipocyte,MKNK1,1.0,8.064516129032258
+esophagusmuscularis,Glia,MKNK1,1.2337662,7.938144329896906
+breast,Muscle,MKNK1,1.0833334,7.894736842105263
+skeletalmuscle,Fibroblast,MKNK1,1.0987124,7.839838492597577
+prostate,Epithelial cell,MKNK1,1.1015625,7.766653664456291
+prostate,Fibroblast,MKNK1,1.1022727,7.705779334500876
+lung,Fibroblast,MKNK1,1.0727273,7.452574525745257
+breast,Fibroblast,MKNK1,1.0344827,7.0818070818070815
+esophagusmucosa,Endothelial cell,MKNK1,1.1128527,6.8191534843950405
+skin,Immune (lymphocyte),MKNK1,1.0,6.666666666666667
+skeletalmuscle,Endothelial cell,MKNK1,1.0568181,6.6115702479338845
+lung,Epithelial cell,MKNK1,1.078544,6.5046728971962615
+heart,Endothelial cell,MKNK1,1.0857143,6.41781270464964
+breast,Endothelial cell,MKNK1,1.125,6.3564131668558455
+esophagusmuscularis,Endothelial cell,MKNK1,1.0833334,6.186953597848016
+heart,Glia,MKNK1,1.117647,5.704697986577181
+lung,Muscle,MKNK1,1.2222222,5.521472392638037
+skin,Muscle,MKNK1,1.0,5.376344086021505
+skin,Other,MKNK1,1.0869565,5.08849557522124
+skeletalmuscle,Immune (lymphocyte),MKNK1,1.2,5.0
+lung,Endothelial cell,MKNK1,1.0294118,4.952658412235979
+prostate,Immune (lymphocyte),MKNK1,1.060606,4.838709677419355
+breast,Epithelial cell,MKNK1,1.0678571,4.828418692878082
+esophagusmucosa,Glia,MKNK1,1.0,4.615384615384616
+prostate,Endothelial cell,MKNK1,1.0634921,4.45859872611465
+skin,Epithelial cell (keratinocyte),MKNK1,1.1234568,4.160246533127889
+skin,Melanocyte,MKNK1,1.0,4.044117647058823
+skin,Endothelial cell,MKNK1,1.1111112,3.519061583577713
+prostate,Glia,MKNK1,1.0,2.985074626865672

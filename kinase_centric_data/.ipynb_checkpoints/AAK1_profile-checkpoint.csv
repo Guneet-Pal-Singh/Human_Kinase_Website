@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+heart,Muscle,AAK1,3.2893288,55.69462864721485
+esophagusmuscularis,Adipocyte,AAK1,1.5638298,53.71428571428572
+esophagusmucosa,Immune (lymphocyte),AAK1,1.5853379,48.01980198019802
+lung,Immune (myeloid),AAK1,1.6557727,46.15510739465486
+skin,Immune (lymphocyte),AAK1,1.2258065,41.333333333333336
+skeletalmuscle,Muscle,AAK1,1.4897761,41.1678702760179
+prostate,Immune (lymphocyte),AAK1,1.442446,40.76246334310851
+skeletalmuscle,Immune (lymphocyte),AAK1,1.45,40.0
+esophagusmuscularis,Immune (lymphocyte),AAK1,1.5166667,39.8671096345515
+heart,Immune (myeloid),AAK1,1.4268775,39.53742772308173
+heart,Immune (lymphocyte),AAK1,1.2851712,37.67908309455588
+heart,Adipocyte,AAK1,1.4225352,36.787564766839374
+esophagusmuscularis,Neuron,AAK1,2.5555556,36.0
+lung,Immune (lymphocyte),AAK1,1.2948207,34.62068965517241
+esophagusmuscularis,Endothelial cell,AAK1,1.5236194,33.69199731002018
+prostate,Immune (myeloid),AAK1,1.4411764,33.07392996108949
+esophagusmuscularis,Immune (myeloid),AAK1,1.3381592,32.63584205197435
+esophagusmucosa,Stromal,AAK1,1.5576324,32.45702730030334
+esophagusmucosa,Immune (myeloid),AAK1,1.3856813,30.972818311874107
+prostate,Epithelial cell,AAK1,1.6527619,30.442508559788493
+skeletalmuscle,Immune (myeloid),AAK1,1.309417,30.257801899592945
+breast,Adipocyte,AAK1,1.3161033,28.56331629755821
+heart,Endothelial cell,AAK1,1.4060434,27.74066797642436
+esophagusmucosa,Epithelial cell,AAK1,1.4092816,27.645694404175124
+skeletalmuscle,Endothelial cell,AAK1,1.4986376,27.573253193087904
+esophagusmucosa,Endothelial cell,AAK1,1.3562402,27.06284737067123
+breast,Immune (myeloid),AAK1,1.28125,26.81564245810056
+breast,Endothelial cell,AAK1,1.3778802,24.6311010215664
+prostate,Endothelial cell,AAK1,1.3787879,23.35456475583864
+breast,Muscle,AAK1,1.2058823,22.36842105263158
+lung,Endothelial cell,AAK1,1.222408,21.77713037144938
+prostate,Muscle,AAK1,1.4887064,21.711992866696388
+lung,Muscle,AAK1,1.2,21.47239263803681
+skin,Immune (myeloid),AAK1,1.2105263,21.22905027932961
+esophagusmucosa,Muscle,AAK1,1.247619,20.958083832335326
+skeletalmuscle,Adipocyte,AAK1,1.3030303,20.75471698113208
+esophagusmuscularis,Muscle,AAK1,1.2427689,20.69406147017284
+lung,Epithelial cell,AAK1,1.2089764,20.4527518172378
+prostate,Fibroblast,AAK1,1.2943723,20.2276707530648
+skeletalmuscle,Glia,AAK1,1.1428572,20.0
+prostate,Glia,AAK1,1.5384616,19.402985074626866
+lung,Fibroblast,AAK1,1.1466166,18.021680216802167
+esophagusmuscularis,Glia,AAK1,1.1098266,17.835051546391753
+heart,Fibroblast,AAK1,1.1988984,17.594486917196082
+skin,Endothelial cell,AAK1,1.2569833,17.49755620723363
+skin,Muscle,AAK1,1.1333333,16.129032258064516
+esophagusmucosa,Fibroblast,AAK1,1.1431818,15.630550621669627
+esophagusmuscularis,Fibroblast,AAK1,1.1594293,15.486598136228263
+skin,Epithelial cell (keratinocyte),AAK1,1.1926911,15.459681561376476
+breast,Fibroblast,AAK1,1.192,15.262515262515263
+skin,Epithelial cell,AAK1,1.1444445,14.950166112956811
+heart,Glia,AAK1,1.2325581,14.429530201342285
+breast,Epithelial cell,AAK1,1.1522843,13.588549749956888
+esophagusmucosa,Glia,AAK1,1.125,12.307692307692308
+skeletalmuscle,Fibroblast,AAK1,1.1224806,10.85127860026918
+skin,Other,AAK1,1.1836735,10.84070796460177
+skin,Melanocyte,AAK1,1.1538461,9.558823529411764
+skin,Fibroblast,AAK1,1.2272727,8.31758034026465
+skin,Adipocyte,AAK1,1.3333334,4.838709677419355

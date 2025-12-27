@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (suprabasal keratinocyte),EEF2K,1.4549183
+Epithelial cell (basal keratinocyte),EEF2K,1.0903096
+Epithelial cell (mature keratinocyte),EEF2K,0.90799254
+Mucous cell,EEF2K,0.6681913
+Myocyte (sk. muscle),EEF2K,0.61394286
+Myofibroblast,EEF2K,0.59176975
+Sweat gland cell,EEF2K,0.55012745
+Neuroendocrine,EEF2K,0.53163815
+Epithelial cell (club),EEF2K,0.5175809
+Epithelial cell (ciliated),EEF2K,0.5090271
+Epithelial cell (luminal),EEF2K,0.50617975
+Epithelial cell (basal),EEF2K,0.50130606
+Fibroblast,EEF2K,0.4768872
+Epithelial cell (Hillock),EEF2K,0.4461397
+Epithelial cell (cornified keratinocyte),EEF2K,0.4235425
+Adipocyte,EEF2K,0.3982435
+Myoepithelial (basal),EEF2K,0.39613742
+Neuronal,EEF2K,0.39354405
+Immune (DC/macrophage),EEF2K,0.3931181
+Epithelial cell (alveolar type I),EEF2K,0.38608614
+Satellite cell,EEF2K,0.3829604
+Myocyte (cardiac),EEF2K,0.36332095
+Endothelial cell (vascular),EEF2K,0.36279383
+Immune (mast cell),EEF2K,0.34947264
+Epithelial cell (suprabasal),EEF2K,0.33407384
+"Myocyte (sk. muscle, cytoplasmic)",EEF2K,0.3247198
+Immune (alveolar macrophage),EEF2K,0.31368187
+Immune (Langerhans),EEF2K,0.29291585
+Sebaceous gland cell,EEF2K,0.2854207
+Endothelial cell (lymphatic),EEF2K,0.27005672
+Pericyte/SMC,EEF2K,0.2699623
+Immune (DC),EEF2K,0.25639328
+Epithelial cell (alveolar type II),EEF2K,0.24154812
+Myocyte (smooth muscle),EEF2K,0.2415055
+Melanocyte,EEF2K,0.23013304
+Immune (B cell),EEF2K,0.22207068
+Myocyte (NMJ-rich),EEF2K,0.19858368
+Immune (T cell),EEF2K,0.19075276
+Immune (NK cell),EEF2K,0.1770589
+Schwann cell,EEF2K,0.14716439
+"Myocyte (cardiac, cytoplasmic)",EEF2K,0.116185926
+Epithelial cell (squamous),EEF2K,0.110128336
+ICCs,EEF2K,0.0911159

@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skin,Melanocyte,IPMK,1.1803279,22.426470588235293
+esophagusmuscularis,Neuron,IPMK,1.6666666,12.0
+esophagusmuscularis,Immune (myeloid),IPMK,1.1170213,9.51738103273709
+esophagusmucosa,Immune (myeloid),IPMK,1.1654135,9.513590844062946
+heart,Immune (myeloid),IPMK,1.1003289,9.50148460696984
+skeletalmuscle,Immune (myeloid),IPMK,1.119403,9.090909090909092
+lung,Immune (myeloid),IPMK,1.1175373,8.788325955074603
+heart,Muscle,IPMK,1.1706616,8.64555702917772
+skin,Epithelial cell (keratinocyte),IPMK,1.1036586,8.42321520287622
+esophagusmucosa,Stromal,IPMK,1.0722891,8.39231547017189
+prostate,Immune (myeloid),IPMK,1.1547619,8.171206225680933
+esophagusmucosa,Epithelial cell,IPMK,1.1669692,7.987822557262975
+skin,Immune (myeloid),IPMK,1.1428572,7.82122905027933
+esophagusmucosa,Fibroblast,IPMK,1.1269841,6.714031971580817
+skin,Endothelial cell,IPMK,1.1269841,6.158357771260997
+breast,Immune (myeloid),IPMK,1.2272727,6.145251396648044
+esophagusmuscularis,Muscle,IPMK,1.1887695,5.629161342390208
+skin,Other,IPMK,1.04,5.530973451327434
+skeletalmuscle,Fibroblast,IPMK,1.0721003,5.366756393001346
+esophagusmuscularis,Fibroblast,IPMK,1.1102662,5.053319242962821
+skin,Adipocyte,IPMK,1.0,4.838709677419355
+heart,Fibroblast,IPMK,1.0782998,4.81317971357812
+skin,Epithelial cell,IPMK,1.2142857,4.651162790697675
+esophagusmuscularis,Adipocyte,IPMK,1.125,4.571428571428571
+lung,Epithelial cell,IPMK,1.0786309,4.490134994807892
+skeletalmuscle,Muscle,IPMK,1.0846614,4.448185725045413
+prostate,Endothelial cell,IPMK,1.096,4.423213021939136
+skin,Fibroblast,IPMK,1.0,4.3478260869565215
+prostate,Muscle,IPMK,1.1368421,4.235399019170753
+heart,Adipocyte,IPMK,1.25,4.145077720207254
+skeletalmuscle,Endothelial cell,IPMK,1.0727273,4.132231404958678
+esophagusmucosa,Endothelial cell,IPMK,1.0947368,4.061564771269773
+skin,Immune (lymphocyte),IPMK,1.0,4.0
+prostate,Epithelial cell,IPMK,1.0753045,3.913665323104928
+esophagusmucosa,Immune (lymphocyte),IPMK,1.0882353,3.74037403740374
+breast,Epithelial cell,IPMK,1.084507,3.673047077082255
+heart,Endothelial cell,IPMK,1.062963,3.536345776031434
+esophagusmuscularis,Endothelial cell,IPMK,1.0855263,3.407307778524994
+skin,Muscle,IPMK,1.1666666,3.225806451612903
+esophagusmucosa,Muscle,IPMK,1.0,3.1936127744510974
+esophagusmucosa,Glia,IPMK,1.0,3.076923076923077
+skeletalmuscle,Immune (lymphocyte),IPMK,1.0,3.0
+esophagusmuscularis,Glia,IPMK,1.0344827,2.989690721649485
+prostate,Immune (lymphocyte),IPMK,1.2,2.932551319648094
+skeletalmuscle,Glia,IPMK,1.0,2.857142857142857
+prostate,Fibroblast,IPMK,1.125,2.8021015761821366
+breast,Fibroblast,IPMK,1.0454545,2.6862026862026864
+heart,Glia,IPMK,1.0,2.684563758389262
+skeletalmuscle,Adipocyte,IPMK,1.0,2.515723270440252
+breast,Endothelial cell,IPMK,1.0454545,2.4971623155505105
+lung,Muscle,IPMK,1.0,2.4539877300613497
+heart,Immune (lymphocyte),IPMK,1.0588236,2.4355300859598854
+lung,Fibroblast,IPMK,1.0909091,2.2357723577235773
+lung,Immune (lymphocyte),IPMK,1.0,2.206896551724138
+lung,Endothelial cell,IPMK,1.06,1.820830298616169
+prostate,Glia,IPMK,1.0,1.4925373134328357
+esophagusmuscularis,Immune (lymphocyte),IPMK,1.0,1.32890365448505
+breast,Adipocyte,IPMK,1.0625,0.9085746734809768
+breast,Muscle,IPMK,1.0,0.6578947368421052

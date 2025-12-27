@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (luminal),CDK19,0.9783672
+Epithelial cell (club),CDK19,0.958364
+Epithelial cell (suprabasal),CDK19,0.7446147
+Epithelial cell (mature keratinocyte),CDK19,0.67932826
+Melanocyte,CDK19,0.66185594
+Immune (alveolar macrophage),CDK19,0.6406422
+Epithelial cell (suprabasal keratinocyte),CDK19,0.6197505
+Sebaceous gland cell,CDK19,0.61255133
+Epithelial cell (basal keratinocyte),CDK19,0.56557745
+Mucous cell,CDK19,0.5639572
+Epithelial cell (Hillock),CDK19,0.560773
+Immune (DC/macrophage),CDK19,0.55987346
+Epithelial cell (squamous),CDK19,0.5438036
+Immune (Langerhans),CDK19,0.52001506
+Neuroendocrine,CDK19,0.5027359
+Epithelial cell (basal),CDK19,0.49633327
+Myocyte (cardiac),CDK19,0.48985484
+Immune (B cell),CDK19,0.48268858
+Schwann cell,CDK19,0.47828662
+Immune (DC),CDK19,0.4665668
+Epithelial cell (alveolar type II),CDK19,0.46296164
+Epithelial cell (alveolar type I),CDK19,0.40643188
+Sweat gland cell,CDK19,0.40267956
+Epithelial cell (ciliated),CDK19,0.3972255
+Immune (NK cell),CDK19,0.39076516
+Satellite cell,CDK19,0.36449486
+Immune (T cell),CDK19,0.36179256
+Endothelial cell (vascular),CDK19,0.35817954
+Epithelial cell (cornified keratinocyte),CDK19,0.34385884
+Immune (mast cell),CDK19,0.32654935
+Fibroblast,CDK19,0.31977725
+Endothelial cell (lymphatic),CDK19,0.31002802
+Myofibroblast,CDK19,0.30925512
+Myoepithelial (basal),CDK19,0.26779553
+Neuronal,CDK19,0.26005062
+Pericyte/SMC,CDK19,0.2516104
+Adipocyte,CDK19,0.23811269
+Myocyte (NMJ-rich),CDK19,0.23758897
+Myocyte (sk. muscle),CDK19,0.21827558
+Myocyte (smooth muscle),CDK19,0.1555914
+ICCs,CDK19,0.13409099
+"Myocyte (sk. muscle, cytoplasmic)",CDK19,0.12857383
+"Myocyte (cardiac, cytoplasmic)",CDK19,0.118529245

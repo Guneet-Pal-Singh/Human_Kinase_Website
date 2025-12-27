@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (DC/macrophage),FES,0.2765234
+Endothelial cell (vascular),FES,0.19106252
+Immune (alveolar macrophage),FES,0.17986323
+Immune (mast cell),FES,0.15146829
+Mucous cell,FES,0.09556459
+Endothelial cell (lymphatic),FES,0.08021443
+ICCs,FES,0.07354211
+Sweat gland cell,FES,0.06327295
+Epithelial cell (luminal),FES,0.059350073
+Myofibroblast,FES,0.056972533
+Neuroendocrine,FES,0.04921807
+Schwann cell,FES,0.048511483
+Epithelial cell (club),FES,0.043971293
+Immune (NK cell),FES,0.038864244
+Epithelial cell (Hillock),FES,0.03703143
+Fibroblast,FES,0.034334354
+Myocyte (smooth muscle),FES,0.028796393
+Pericyte/SMC,FES,0.027931973
+Melanocyte,FES,0.027329136
+Immune (DC),FES,0.027111258
+Immune (T cell),FES,0.026715074
+"Myocyte (cardiac, cytoplasmic)",FES,0.022901634
+Epithelial cell (alveolar type II),FES,0.020076392
+Epithelial cell (basal),FES,0.019994132
+Myocyte (cardiac),FES,0.019139355
+"Myocyte (sk. muscle, cytoplasmic)",FES,0.017944228
+Adipocyte,FES,0.014606931
+Epithelial cell (mature keratinocyte),FES,0.014535255
+Epithelial cell (squamous),FES,0.012268525
+Immune (B cell),FES,0.010831635
+Epithelial cell (alveolar type I),FES,0.009998398
+Epithelial cell (ciliated),FES,0.009880373
+Myocyte (sk. muscle),FES,0.008676181
+Myoepithelial (basal),FES,0.008505733
+Epithelial cell (suprabasal),FES,0.005949666
+Epithelial cell (cornified keratinocyte),FES,0.0
+Epithelial cell (basal keratinocyte),FES,0.0
+Immune (Langerhans),FES,0.0
+Epithelial cell (suprabasal keratinocyte),FES,0.0
+Myocyte (NMJ-rich),FES,0.0
+Neuronal,FES,0.0
+Satellite cell,FES,0.0
+Sebaceous gland cell,FES,0.0

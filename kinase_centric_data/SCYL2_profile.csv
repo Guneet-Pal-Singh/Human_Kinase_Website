@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Neuron,SCYL2,1.1666666,24.0
+heart,Muscle,SCYL2,1.2224784,14.381631299734748
+skin,Epithelial cell,SCYL2,1.1764706,14.119601328903656
+esophagusmucosa,Stromal,SCYL2,1.173913,13.953488372093023
+esophagusmucosa,Glia,SCYL2,1.0,13.846153846153848
+prostate,Epithelial cell,SCYL2,1.1752478,13.552637281671217
+lung,Epithelial cell,SCYL2,1.154484,13.524402907580477
+heart,Adipocyte,SCYL2,1.2692307,13.471502590673577
+esophagusmucosa,Epithelial cell,SCYL2,1.1798124,13.141490287039725
+lung,Immune (myeloid),SCYL2,1.1545339,12.838170191834728
+skin,Endothelial cell,SCYL2,1.1370968,12.12121212121212
+prostate,Muscle,SCYL2,1.1835206,11.903700401248328
+prostate,Immune (myeloid),SCYL2,1.0909091,11.7704280155642
+skeletalmuscle,Glia,SCYL2,1.25,11.428571428571429
+skin,Epithelial cell (keratinocyte),SCYL2,1.1009175,11.196712891628144
+skin,Immune (myeloid),SCYL2,1.05,11.1731843575419
+breast,Epithelial cell,SCYL2,1.1210191,10.829453354026557
+esophagusmucosa,Immune (myeloid),SCYL2,1.150685,10.44349070100143
+esophagusmuscularis,Adipocyte,SCYL2,1.1111112,10.285714285714285
+prostate,Endothelial cell,SCYL2,1.1418685,10.226468506723284
+heart,Immune (myeloid),SCYL2,1.1066461,10.110954836693232
+skeletalmuscle,Adipocyte,SCYL2,1.0,9.433962264150944
+skin,Immune (lymphocyte),SCYL2,1.0,9.333333333333334
+skeletalmuscle,Endothelial cell,SCYL2,1.1209677,9.316303531179564
+breast,Immune (myeloid),SCYL2,1.0625,8.938547486033519
+esophagusmuscularis,Muscle,SCYL2,1.132206,8.749747797430897
+breast,Adipocyte,SCYL2,1.0723684,8.631459398069278
+skin,Melanocyte,SCYL2,1.0869565,8.455882352941178
+esophagusmuscularis,Immune (myeloid),SCYL2,1.08,8.437394532568343
+skin,Other,SCYL2,1.2972972,8.185840707964601
+esophagusmuscularis,Endothelial cell,SCYL2,1.0934066,8.159605469625644
+esophagusmucosa,Endothelial cell,SCYL2,1.1078948,8.123129542539546
+heart,Endothelial cell,SCYL2,1.1220735,7.832351015062214
+prostate,Fibroblast,SCYL2,1.137931,7.618213660245184
+esophagusmucosa,Muscle,SCYL2,1.0263158,7.584830339321358
+heart,Fibroblast,SCYL2,1.1063218,7.494346936578013
+skeletalmuscle,Immune (myeloid),SCYL2,1.0363636,7.462686567164178
+prostate,Glia,SCYL2,1.2,7.462686567164178
+heart,Immune (lymphocyte),SCYL2,1.06,7.163323782234957
+lung,Endothelial cell,SCYL2,1.0752689,6.773488710852149
+lung,Muscle,SCYL2,1.2727273,6.748466257668712
+breast,Endothelial cell,SCYL2,1.0508474,6.696935300794552
+breast,Muscle,SCYL2,1.0,6.578947368421052
+skin,Muscle,SCYL2,1.0833334,6.451612903225806
+prostate,Immune (lymphocyte),SCYL2,1.0952381,6.158357771260997
+skin,Fibroblast,SCYL2,1.1612903,5.860113421550095
+esophagusmuscularis,Fibroblast,SCYL2,1.066335,5.793063694879431
+esophagusmuscularis,Glia,SCYL2,1.0714285,5.77319587628866
+lung,Fibroblast,SCYL2,1.0625,5.420054200542006
+lung,Immune (lymphocyte),SCYL2,1.0769231,5.379310344827586
+esophagusmuscularis,Immune (lymphocyte),SCYL2,1.0625,5.3156146179402
+esophagusmucosa,Immune (lymphocyte),SCYL2,1.0631579,5.225522552255225
+skeletalmuscle,Fibroblast,SCYL2,1.0503355,5.013458950201884
+skeletalmuscle,Immune (lymphocyte),SCYL2,1.0,5.0
+breast,Fibroblast,SCYL2,1.0263158,4.63980463980464
+skeletalmuscle,Muscle,SCYL2,1.0755258,4.634265207567232
+esophagusmucosa,Fibroblast,SCYL2,1.0930233,4.58259325044405
+heart,Glia,SCYL2,1.0769231,4.362416107382551
+skin,Adipocyte,SCYL2,0.0,0.0

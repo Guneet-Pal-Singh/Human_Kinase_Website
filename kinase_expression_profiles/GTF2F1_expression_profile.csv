@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Neuronal,GTF2F1,0.2995423
+Neuroendocrine,GTF2F1,0.11946899
+Epithelial cell (luminal),GTF2F1,0.11448933
+Epithelial cell (squamous),GTF2F1,0.10668338
+"Myocyte (cardiac, cytoplasmic)",GTF2F1,0.10212085
+Immune (NK cell),GTF2F1,0.09634391
+Immune (DC),GTF2F1,0.09552838
+Epithelial cell (Hillock),GTF2F1,0.09361615
+Immune (alveolar macrophage),GTF2F1,0.08877385
+Epithelial cell (ciliated),GTF2F1,0.088589154
+Myocyte (smooth muscle),GTF2F1,0.085218444
+Epithelial cell (suprabasal),GTF2F1,0.08186519
+Melanocyte,GTF2F1,0.0771161
+Myofibroblast,GTF2F1,0.07658648
+Immune (DC/macrophage),GTF2F1,0.07268398
+Immune (Langerhans),GTF2F1,0.072648
+Epithelial cell (basal),GTF2F1,0.07242787
+Myoepithelial (basal),GTF2F1,0.072375685
+Adipocyte,GTF2F1,0.065464295
+Epithelial cell (club),GTF2F1,0.063744135
+"Myocyte (sk. muscle, cytoplasmic)",GTF2F1,0.059200525
+Epithelial cell (alveolar type II),GTF2F1,0.058678325
+Endothelial cell (lymphatic),GTF2F1,0.051432673
+Epithelial cell (alveolar type I),GTF2F1,0.04898369
+Immune (T cell),GTF2F1,0.04821395
+Epithelial cell (cornified keratinocyte),GTF2F1,0.047875598
+Schwann cell,GTF2F1,0.04778825
+Fibroblast,GTF2F1,0.04540823
+Endothelial cell (vascular),GTF2F1,0.042926624
+Mucous cell,GTF2F1,0.04067701
+Pericyte/SMC,GTF2F1,0.040451273
+ICCs,GTF2F1,0.040122632
+Satellite cell,GTF2F1,0.03975527
+Epithelial cell (basal keratinocyte),GTF2F1,0.039325394
+Myocyte (cardiac),GTF2F1,0.03474692
+Epithelial cell (suprabasal keratinocyte),GTF2F1,0.029886046
+Immune (B cell),GTF2F1,0.028318381
+Immune (mast cell),GTF2F1,0.02387497
+Epithelial cell (mature keratinocyte),GTF2F1,0.022240635
+Sebaceous gland cell,GTF2F1,0.015130525
+Sweat gland cell,GTF2F1,0.01401468
+Myocyte (sk. muscle),GTF2F1,0.011485595
+Myocyte (NMJ-rich),GTF2F1,0.0

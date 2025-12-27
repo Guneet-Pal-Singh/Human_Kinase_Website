@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Neuronal,PANK3,0.62097394
+Sebaceous gland cell,PANK3,0.33251345
+Immune (DC),PANK3,0.31209633
+Epithelial cell (mature keratinocyte),PANK3,0.2815803
+Melanocyte,PANK3,0.27598718
+Epithelial cell (luminal),PANK3,0.23158157
+Epithelial cell (suprabasal),PANK3,0.22548577
+Mucous cell,PANK3,0.21187775
+Epithelial cell (suprabasal keratinocyte),PANK3,0.2032533
+ICCs,PANK3,0.18881911
+Myofibroblast,PANK3,0.18225324
+Epithelial cell (Hillock),PANK3,0.17679496
+Endothelial cell (lymphatic),PANK3,0.16919822
+Epithelial cell (squamous),PANK3,0.16752778
+Immune (Langerhans),PANK3,0.16294998
+Epithelial cell (basal),PANK3,0.15978096
+Myocyte (cardiac),PANK3,0.15141022
+Neuroendocrine,PANK3,0.14653325
+Adipocyte,PANK3,0.14620677
+Epithelial cell (basal keratinocyte),PANK3,0.14202787
+"Myocyte (cardiac, cytoplasmic)",PANK3,0.13486417
+Sweat gland cell,PANK3,0.13254224
+Epithelial cell (alveolar type II),PANK3,0.13082346
+Epithelial cell (club),PANK3,0.1267952
+Immune (alveolar macrophage),PANK3,0.12485176
+"Myocyte (sk. muscle, cytoplasmic)",PANK3,0.12222988
+Myocyte (smooth muscle),PANK3,0.12133226
+Myocyte (NMJ-rich),PANK3,0.12034436
+Immune (DC/macrophage),PANK3,0.10907868
+Immune (NK cell),PANK3,0.10818001
+Schwann cell,PANK3,0.10625205
+Fibroblast,PANK3,0.10384084
+Immune (T cell),PANK3,0.10131899
+Endothelial cell (vascular),PANK3,0.10115482
+Pericyte/SMC,PANK3,0.10026371
+Satellite cell,PANK3,0.095509216
+Immune (mast cell),PANK3,0.094622515
+Epithelial cell (alveolar type I),PANK3,0.09127944
+Epithelial cell (cornified keratinocyte),PANK3,0.08062108
+Epithelial cell (ciliated),PANK3,0.074528925
+Myoepithelial (basal),PANK3,0.0744497
+Myocyte (sk. muscle),PANK3,0.060226556
+Immune (B cell),PANK3,0.046703883

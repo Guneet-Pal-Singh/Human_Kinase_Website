@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skin,Other,DTYMK,1.0416666,5.3097345132743365
+esophagusmucosa,Epithelial cell,DTYMK,1.0819672,3.537257175993042
+heart,Adipocyte,DTYMK,1.2,2.5906735751295336
+skin,Epithelial cell (keratinocyte),DTYMK,1.1041666,2.465331278890601
+prostate,Epithelial cell,DTYMK,1.0612245,2.336063797512244
+prostate,Immune (myeloid),DTYMK,1.0434783,2.237354085603113
+skin,Immune (myeloid),DTYMK,1.0,2.23463687150838
+skeletalmuscle,Adipocyte,DTYMK,1.0,1.8867924528301887
+esophagusmucosa,Stromal,DTYMK,1.1111112,1.820020222446916
+breast,Immune (myeloid),DTYMK,1.3333334,1.675977653631285
+heart,Muscle,DTYMK,1.0150753,1.6495358090185677
+skin,Adipocyte,DTYMK,1.0,1.6129032258064515
+breast,Fibroblast,DTYMK,1.0769231,1.5873015873015872
+esophagusmucosa,Immune (myeloid),DTYMK,1.0909091,1.5736766809728182
+esophagusmucosa,Immune (lymphocyte),DTYMK,1.0,1.54015401540154
+esophagusmucosa,Glia,DTYMK,1.0,1.5384615384615383
+prostate,Fibroblast,DTYMK,1.0588236,1.48861646234676
+lung,Immune (myeloid),DTYMK,1.0909091,1.442859485161502
+prostate,Muscle,DTYMK,1.0,1.3820775746767722
+breast,Adipocyte,DTYMK,1.0416666,1.362862010221465
+breast,Epithelial cell,DTYMK,1.0379747,1.3623038454906018
+esophagusmuscularis,Immune (myeloid),DTYMK,1.025,1.3499831252109349
+prostate,Endothelial cell,DTYMK,1.0,1.3446567586694975
+esophagusmucosa,Endothelial cell,DTYMK,1.0175439,1.218469431380932
+esophagusmuscularis,Muscle,DTYMK,1.0467836,1.1500437151119778
+heart,Immune (lymphocyte),DTYMK,1.0,1.146131805157593
+esophagusmuscularis,Adipocyte,DTYMK,1.0,1.1428571428571428
+skin,Muscle,DTYMK,1.0,1.0752688172043012
+heart,Fibroblast,DTYMK,1.010101,1.0660062452891137
+heart,Immune (myeloid),DTYMK,1.0147059,1.062666041568995
+skin,Epithelial cell,DTYMK,1.0,0.9966777408637874
+heart,Endothelial cell,DTYMK,1.0140845,0.9299279633267844
+skeletalmuscle,Immune (myeloid),DTYMK,1.0,0.8141112618724559
+skin,Fibroblast,DTYMK,1.25,0.7561436672967864
+esophagusmuscularis,Endothelial cell,DTYMK,1.0,0.717327953373683
+lung,Epithelial cell,DTYMK,1.0292398,0.7102803738317757
+breast,Endothelial cell,DTYMK,1.0,0.681044267877412
+breast,Muscle,DTYMK,1.0,0.6578947368421052
+esophagusmuscularis,Glia,DTYMK,1.0,0.6185567010309279
+prostate,Immune (lymphocyte),DTYMK,1.0,0.5865102639296188
+esophagusmucosa,Fibroblast,DTYMK,1.0,0.5683836589698046
+skeletalmuscle,Endothelial cell,DTYMK,1.0,0.5259203606311045
+skin,Endothelial cell,DTYMK,1.0,0.4887585532746823
+lung,Fibroblast,DTYMK,1.0,0.4742547425474254
+skeletalmuscle,Fibroblast,DTYMK,1.0,0.4710632570659488
+esophagusmuscularis,Fibroblast,DTYMK,1.0204082,0.4707464694014795
+skeletalmuscle,Muscle,DTYMK,1.0102041,0.43418545921758
+esophagusmucosa,Muscle,DTYMK,1.0,0.3992015968063871
+skin,Melanocyte,DTYMK,1.0,0.3676470588235294
+heart,Glia,DTYMK,1.0,0.3355704697986577
+lung,Endothelial cell,DTYMK,1.0,0.3277494537509104
+lung,Immune (lymphocyte),DTYMK,1.0,0.2758620689655172
+esophagusmuscularis,Immune (lymphocyte),DTYMK,0.0,0.0
+esophagusmuscularis,Neuron,DTYMK,0.0,0.0
+lung,Muscle,DTYMK,0.0,0.0
+prostate,Glia,DTYMK,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),DTYMK,0.0,0.0
+skeletalmuscle,Glia,DTYMK,0.0,0.0
+skin,Immune (lymphocyte),DTYMK,0.0,0.0

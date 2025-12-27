@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skeletalmuscle,Adipocyte,NME3,1.0731708,25.78616352201258
+esophagusmuscularis,Neuron,NME3,2.1666667,24.0
+skin,Other,NME3,1.2134831,19.690265486725664
+esophagusmucosa,Stromal,NME3,1.2303665,19.312436804853387
+esophagusmuscularis,Adipocyte,NME3,1.3030303,18.857142857142858
+skin,Epithelial cell (keratinocyte),NME3,1.1637427,17.565485362095533
+prostate,Muscle,NME3,1.2133334,16.71868033883192
+heart,Adipocyte,NME3,1.1875,16.580310880829018
+esophagusmucosa,Muscle,NME3,1.1097561,16.367265469061877
+heart,Muscle,NME3,1.183715,16.288129973474803
+esophagusmuscularis,Muscle,NME3,1.1685995,15.078350931468156
+prostate,Fibroblast,NME3,1.1272727,14.448336252189142
+prostate,Epithelial cell,NME3,1.1987121,14.133402678455337
+esophagusmucosa,Epithelial cell,NME3,1.1617874,14.112786314873876
+esophagusmucosa,Immune (myeloid),NME3,1.13089,13.662374821173104
+lung,Immune (myeloid),NME3,1.108141,13.494015412362684
+breast,Adipocyte,NME3,1.1361703,13.344690516751845
+lung,Epithelial cell,NME3,1.0938628,12.656282450674974
+esophagusmucosa,Endothelial cell,NME3,1.0956522,12.291577597263789
+skin,Immune (myeloid),NME3,1.2380953,11.731843575418994
+breast,Epithelial cell,NME3,1.1885126,11.708915330229347
+skin,Muscle,NME3,1.1904762,11.29032258064516
+skin,Epithelial cell,NME3,1.2089552,11.129568106312291
+lung,Muscle,NME3,1.1666666,11.042944785276074
+esophagusmucosa,Fibroblast,NME3,1.0622838,10.266429840142097
+esophagusmuscularis,Fibroblast,NME3,1.0786517,10.26035161879143
+lung,Fibroblast,NME3,1.0666667,10.16260162601626
+esophagusmuscularis,Glia,NME3,1.0833334,9.896907216494846
+lung,Endothelial cell,NME3,1.0627307,9.868900218499636
+prostate,Endothelial cell,NME3,1.0985402,9.695682944090589
+skin,Adipocyte,NME3,1.1666666,9.67741935483871
+prostate,Immune (myeloid),NME3,1.0707071,9.63035019455253
+heart,Fibroblast,NME3,1.0771812,9.62635942715624
+esophagusmucosa,Glia,NME3,1.0,9.230769230769232
+esophagusmuscularis,Immune (myeloid),NME3,1.0805861,9.213634829564633
+breast,Fibroblast,NME3,1.0958904,8.913308913308914
+esophagusmucosa,Immune (lymphocyte),NME3,1.0864197,8.91089108910891
+skeletalmuscle,Glia,NME3,1.0,8.571428571428571
+esophagusmuscularis,Endothelial cell,NME3,1.0771277,8.428603452140775
+skeletalmuscle,Fibroblast,NME3,1.0661157,8.142664872139974
+lung,Immune (lymphocyte),NME3,1.0847458,8.137931034482758
+skin,Fibroblast,NME3,1.1860465,8.128544423440454
+heart,Immune (myeloid),NME3,1.0501931,8.095014846069699
+heart,Endothelial cell,NME3,1.0746269,7.897838899803536
+prostate,Glia,NME3,1.4,7.462686567164178
+skin,Melanocyte,NME3,1.0526316,6.985294117647059
+skeletalmuscle,Endothelial cell,NME3,1.0444444,6.7618332081142
+heart,Immune (lymphocyte),NME3,1.0,6.73352435530086
+breast,Muscle,NME3,1.2,6.578947368421052
+prostate,Immune (lymphocyte),NME3,1.0476191,6.158357771260997
+heart,Glia,NME3,1.0,5.704697986577181
+skin,Immune (lymphocyte),NME3,1.25,5.333333333333334
+breast,Immune (myeloid),NME3,1.2105263,5.307262569832402
+skeletalmuscle,Immune (myeloid),NME3,1.0285715,4.74898236092266
+skeletalmuscle,Immune (lymphocyte),NME3,1.0,4.0
+esophagusmuscularis,Immune (lymphocyte),NME3,1.0833334,3.986710963455149
+skin,Endothelial cell,NME3,1.2564102,3.812316715542522
+breast,Endothelial cell,NME3,1.1515151,3.745743473325766
+skeletalmuscle,Muscle,NME3,1.0362319,3.057020070001329

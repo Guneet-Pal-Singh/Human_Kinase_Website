@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (alveolar type II),FGGY,0.6857876
+Myocyte (sk. muscle),FGGY,0.6835104
+Immune (DC),FGGY,0.67392105
+Immune (Langerhans),FGGY,0.6250987
+Mucous cell,FGGY,0.61931
+Epithelial cell (Hillock),FGGY,0.60883933
+Satellite cell,FGGY,0.5499206
+Myocyte (NMJ-rich),FGGY,0.5383948
+Epithelial cell (ciliated),FGGY,0.53272164
+Epithelial cell (club),FGGY,0.5082912
+Myoepithelial (basal),FGGY,0.50288725
+Myocyte (cardiac),FGGY,0.5000153
+Neuroendocrine,FGGY,0.48822665
+Epithelial cell (luminal),FGGY,0.4832224
+"Myocyte (sk. muscle, cytoplasmic)",FGGY,0.3834475
+Myofibroblast,FGGY,0.3807554
+Sweat gland cell,FGGY,0.36976838
+Immune (alveolar macrophage),FGGY,0.36903805
+Epithelial cell (basal),FGGY,0.36491185
+Epithelial cell (suprabasal keratinocyte),FGGY,0.3467419
+Epithelial cell (alveolar type I),FGGY,0.3360437
+Epithelial cell (suprabasal),FGGY,0.33315864
+Epithelial cell (basal keratinocyte),FGGY,0.32972163
+Schwann cell,FGGY,0.29893515
+Sebaceous gland cell,FGGY,0.29879284
+Immune (B cell),FGGY,0.28401455
+Endothelial cell (lymphatic),FGGY,0.2819323
+Adipocyte,FGGY,0.27430448
+Melanocyte,FGGY,0.26748237
+Myocyte (smooth muscle),FGGY,0.25725374
+Fibroblast,FGGY,0.25565362
+Immune (mast cell),FGGY,0.24878564
+Immune (DC/macrophage),FGGY,0.24560928
+Endothelial cell (vascular),FGGY,0.24416347
+Immune (T cell),FGGY,0.20187429
+Pericyte/SMC,FGGY,0.20065993
+Neuronal,FGGY,0.19522756
+Immune (NK cell),FGGY,0.16753024
+ICCs,FGGY,0.14083631
+Epithelial cell (mature keratinocyte),FGGY,0.13256484
+"Myocyte (cardiac, cytoplasmic)",FGGY,0.11020482
+Epithelial cell (squamous),FGGY,0.10068944
+Epithelial cell (cornified keratinocyte),FGGY,0.04649024

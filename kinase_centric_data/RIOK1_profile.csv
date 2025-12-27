@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Adipocyte,RIOK1,1.0714285,8.0
+prostate,Glia,RIOK1,1.25,5.970149253731343
+lung,Immune (myeloid),RIOK1,1.0597014,5.492703721921627
+esophagusmucosa,Epithelial cell,RIOK1,1.0836821,5.197158596694694
+esophagusmucosa,Glia,RIOK1,1.0,4.615384615384616
+lung,Muscle,RIOK1,1.2857143,4.294478527607362
+esophagusmucosa,Stromal,RIOK1,1.0476191,4.246713852376137
+heart,Muscle,RIOK1,1.0785855,4.219164456233422
+heart,Adipocyte,RIOK1,1.0,4.145077720207254
+prostate,Endothelial cell,RIOK1,1.09009,3.927813163481953
+lung,Epithelial cell,RIOK1,1.0533049,3.896157840083074
+prostate,Immune (myeloid),RIOK1,1.0,3.696498054474709
+prostate,Epithelial cell,RIOK1,1.0647482,3.614614484462359
+breast,Adipocyte,RIOK1,1.0338984,3.3503691084611016
+skin,Adipocyte,RIOK1,1.0,3.225806451612903
+esophagusmucosa,Immune (lymphocyte),RIOK1,1.0862069,3.1903190319031904
+esophagusmuscularis,Endothelial cell,RIOK1,1.0211267,3.183142793095718
+esophagusmucosa,Immune (myeloid),RIOK1,1.0232558,3.0758226037196
+esophagusmuscularis,Fibroblast,RIOK1,1.0447284,3.0070131616870017
+esophagusmuscularis,Immune (lymphocyte),RIOK1,1.0,2.990033222591362
+esophagusmuscularis,Muscle,RIOK1,1.0389909,2.932275203443406
+heart,Immune (myeloid),RIOK1,1.0326087,2.8754492889513985
+skeletalmuscle,Glia,RIOK1,1.0,2.857142857142857
+heart,Fibroblast,RIOK1,1.0339622,2.8534510606223757
+breast,Endothelial cell,RIOK1,1.0,2.724177071509648
+breast,Fibroblast,RIOK1,1.1363636,2.6862026862026864
+skin,Immune (lymphocyte),RIOK1,1.0,2.666666666666667
+breast,Epithelial cell,RIOK1,1.0392157,2.638385928608381
+esophagusmucosa,Fibroblast,RIOK1,1.054054,2.6287744227353462
+prostate,Fibroblast,RIOK1,1.0,2.364273204903678
+heart,Glia,RIOK1,1.0,2.348993288590604
+skeletalmuscle,Endothelial cell,RIOK1,1.0645162,2.329075882794891
+esophagusmucosa,Endothelial cell,RIOK1,1.0654205,2.287302265925609
+skin,Immune (myeloid),RIOK1,1.0,2.23463687150838
+breast,Immune (myeloid),RIOK1,1.0,2.23463687150838
+lung,Immune (lymphocyte),RIOK1,1.0625,2.206896551724138
+prostate,Muscle,RIOK1,1.0,2.1845742309407044
+esophagusmuscularis,Immune (myeloid),RIOK1,1.046875,2.159973000337496
+lung,Endothelial cell,RIOK1,1.0172414,2.112163146394756
+heart,Endothelial cell,RIOK1,1.0522876,2.0039292730844798
+skeletalmuscle,Immune (lymphocyte),RIOK1,1.0,2.0
+esophagusmuscularis,Glia,RIOK1,1.0,1.958762886597938
+skin,Epithelial cell (keratinocyte),RIOK1,1.027027,1.900359527478172
+skeletalmuscle,Immune (myeloid),RIOK1,1.0,1.899592944369064
+skeletalmuscle,Adipocyte,RIOK1,1.0,1.8867924528301887
+lung,Fibroblast,RIOK1,1.0,1.7615176151761516
+skeletalmuscle,Fibroblast,RIOK1,1.0291262,1.7328398384925974
+heart,Immune (lymphocyte),RIOK1,1.0,1.7191977077363898
+skin,Other,RIOK1,1.0,1.5486725663716814
+skin,Epithelial cell,RIOK1,1.0,1.495016611295681
+skin,Endothelial cell,RIOK1,1.0666667,1.466275659824047
+esophagusmucosa,Muscle,RIOK1,1.0,1.3972055888223551
+breast,Muscle,RIOK1,1.0,1.3157894736842104
+prostate,Immune (lymphocyte),RIOK1,1.0,1.1730205278592376
+skin,Melanocyte,RIOK1,1.0,1.1029411764705883
+skeletalmuscle,Muscle,RIOK1,1.0046729,0.9481192680873688
+skin,Fibroblast,RIOK1,1.0,0.5671077504725899
+esophagusmuscularis,Neuron,RIOK1,0.0,0.0
+skin,Muscle,RIOK1,0.0,0.0

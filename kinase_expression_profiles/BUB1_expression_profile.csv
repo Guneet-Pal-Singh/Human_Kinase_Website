@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (Langerhans),BUB1,0.28863773
+Epithelial cell (basal keratinocyte),BUB1,0.12675613
+Immune (DC),BUB1,0.06860347
+Epithelial cell (basal),BUB1,0.06497592
+Immune (T cell),BUB1,0.050938193
+Immune (alveolar macrophage),BUB1,0.02996067
+Neuroendocrine,BUB1,0.027886597
+Immune (DC/macrophage),BUB1,0.027147377
+Immune (B cell),BUB1,0.02628602
+Myofibroblast,BUB1,0.024217477
+Epithelial cell (cornified keratinocyte),BUB1,0.021470219
+Epithelial cell (Hillock),BUB1,0.020445578
+Immune (NK cell),BUB1,0.01967352
+Epithelial cell (alveolar type II),BUB1,0.018368298
+Epithelial cell (suprabasal keratinocyte),BUB1,0.01807484
+Immune (mast cell),BUB1,0.013932925
+Epithelial cell (club),BUB1,0.013197082
+Sebaceous gland cell,BUB1,0.012507071
+Melanocyte,BUB1,0.01130763
+Epithelial cell (suprabasal),BUB1,0.01122043
+Epithelial cell (squamous),BUB1,0.010910837
+Endothelial cell (lymphatic),BUB1,0.00998815
+Satellite cell,BUB1,0.009542987
+Myoepithelial (basal),BUB1,0.0069867047
+Myocyte (cardiac),BUB1,0.0057730707
+Epithelial cell (alveolar type I),BUB1,0.0056870775
+Pericyte/SMC,BUB1,0.0051341667
+Epithelial cell (ciliated),BUB1,0.0049113664
+Endothelial cell (vascular),BUB1,0.0038031947
+"Myocyte (cardiac, cytoplasmic)",BUB1,0.0036465793
+Epithelial cell (luminal),BUB1,0.003010852
+Fibroblast,BUB1,0.0018850736
+Schwann cell,BUB1,0.0017155384
+Myocyte (smooth muscle),BUB1,0.0017141643
+Myocyte (sk. muscle),BUB1,0.0007915909
+Adipocyte,BUB1,0.0
+ICCs,BUB1,0.0
+Epithelial cell (mature keratinocyte),BUB1,0.0
+Myocyte (NMJ-rich),BUB1,0.0
+"Myocyte (sk. muscle, cytoplasmic)",BUB1,0.0
+Mucous cell,BUB1,0.0
+Neuronal,BUB1,0.0
+Sweat gland cell,BUB1,0.0

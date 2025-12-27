@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+lung,Immune (myeloid),SGK3,1.0555556,6.197737333989179
+skin,Melanocyte,SGK3,1.0,3.308823529411765
+prostate,Immune (myeloid),SGK3,1.0294118,3.3073929961089497
+skeletalmuscle,Glia,SGK3,1.0,2.857142857142857
+skin,Immune (myeloid),SGK3,1.0,2.793296089385475
+esophagusmucosa,Immune (myeloid),SGK3,1.0263158,2.718168812589413
+skin,Immune (lymphocyte),SGK3,1.0,2.666666666666667
+skin,Epithelial cell (keratinocyte),SGK3,1.0,2.311248073959938
+breast,Epithelial cell,SGK3,1.0687023,2.25901017416796
+heart,Immune (myeloid),SGK3,1.016529,1.8909204563213
+lung,Muscle,SGK3,1.0,1.8404907975460123
+prostate,Epithelial cell,SGK3,1.068558,1.8333116629827069
+skeletalmuscle,Immune (myeloid),SGK3,1.0769231,1.7639077340569878
+heart,Glia,SGK3,1.0,1.6778523489932886
+prostate,Endothelial cell,SGK3,1.0217391,1.627742392073602
+prostate,Muscle,SGK3,1.0285715,1.560410164957646
+heart,Adipocyte,SGK3,1.0,1.5544041450777202
+skin,Other,SGK3,1.0,1.5486725663716814
+skin,Endothelial cell,SGK3,1.0666667,1.466275659824047
+esophagusmuscularis,Immune (myeloid),SGK3,1.0238096,1.4174822814714816
+heart,Muscle,SGK3,1.0181818,1.367705570291777
+prostate,Fibroblast,SGK3,1.0,1.3134851138353765
+esophagusmucosa,Stromal,SGK3,1.0,1.1122345803842264
+breast,Endothelial cell,SGK3,1.0,1.021566401816118
+skeletalmuscle,Endothelial cell,SGK3,1.0769231,0.9767092411720512
+esophagusmucosa,Immune (lymphocyte),SGK3,1.0,0.935093509350935
+lung,Epithelial cell,SGK3,1.0088888,0.9345794392523364
+esophagusmuscularis,Glia,SGK3,1.1111112,0.9278350515463918
+esophagusmucosa,Endothelial cell,SGK3,1.0232558,0.9191962377084224
+prostate,Immune (lymphocyte),SGK3,1.0,0.8797653958944283
+esophagusmuscularis,Endothelial cell,SGK3,1.0256411,0.8742434431741762
+breast,Immune (myeloid),SGK3,1.0,0.8379888268156425
+esophagusmucosa,Epithelial cell,SGK3,1.0263158,0.8263264714409974
+heart,Endothelial cell,SGK3,1.0,0.7727570399476097
+esophagusmucosa,Fibroblast,SGK3,1.0,0.7460035523978685
+esophagusmuscularis,Immune (lymphocyte),SGK3,1.0,0.6644518272425249
+breast,Muscle,SGK3,1.0,0.6578947368421052
+heart,Fibroblast,SGK3,1.0163934,0.6568321309357166
+lung,Endothelial cell,SGK3,1.0555556,0.6554989075018208
+esophagusmuscularis,Fibroblast,SGK3,1.0,0.5956383898549332
+heart,Immune (lymphocyte),SGK3,1.0,0.5730659025787965
+lung,Immune (lymphocyte),SGK3,1.0,0.5517241379310345
+skin,Epithelial cell,SGK3,1.0,0.4983388704318937
+esophagusmuscularis,Muscle,SGK3,1.0454545,0.4438765216221669
+skeletalmuscle,Fibroblast,SGK3,1.0,0.3869448183041722
+lung,Fibroblast,SGK3,1.0,0.3387533875338753
+skeletalmuscle,Muscle,SGK3,1.0,0.2658278321740286
+breast,Fibroblast,SGK3,1.0,0.2442002442002442
+breast,Adipocyte,SGK3,1.0,0.2271436683702442
+esophagusmucosa,Muscle,SGK3,1.0,0.1996007984031935
+skin,Fibroblast,SGK3,1.0,0.1890359168241966
+esophagusmuscularis,Neuron,SGK3,0.0,0.0
+esophagusmuscularis,Adipocyte,SGK3,0.0,0.0
+esophagusmucosa,Glia,SGK3,0.0,0.0
+prostate,Glia,SGK3,0.0,0.0
+skeletalmuscle,Adipocyte,SGK3,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),SGK3,0.0,0.0
+skin,Adipocyte,SGK3,0.0,0.0
+skin,Muscle,SGK3,0.0,0.0

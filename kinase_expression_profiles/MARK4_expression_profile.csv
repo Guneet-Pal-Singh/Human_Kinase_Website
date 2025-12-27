@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (cornified keratinocyte),MARK4,0.4484917
+Neuronal,MARK4,0.44841015
+Epithelial cell (mature keratinocyte),MARK4,0.4397496
+Endothelial cell (vascular),MARK4,0.38996962
+Endothelial cell (lymphatic),MARK4,0.37895694
+Myofibroblast,MARK4,0.36031422
+Immune (alveolar macrophage),MARK4,0.3594488
+Epithelial cell (suprabasal),MARK4,0.3448966
+Epithelial cell (suprabasal keratinocyte),MARK4,0.3392123
+Myoepithelial (basal),MARK4,0.33347452
+Myocyte (cardiac),MARK4,0.3324215
+Mucous cell,MARK4,0.31195462
+Epithelial cell (alveolar type I),MARK4,0.30879548
+Epithelial cell (basal),MARK4,0.30550876
+Epithelial cell (ciliated),MARK4,0.29155546
+Epithelial cell (basal keratinocyte),MARK4,0.28782153
+Epithelial cell (alveolar type II),MARK4,0.27543202
+ICCs,MARK4,0.26986519
+Melanocyte,MARK4,0.26069734
+Epithelial cell (club),MARK4,0.2549398
+Immune (T cell),MARK4,0.24652953
+Sweat gland cell,MARK4,0.2371567
+Myocyte (smooth muscle),MARK4,0.23213778
+Epithelial cell (Hillock),MARK4,0.21370082
+Myocyte (sk. muscle),MARK4,0.21056062
+Epithelial cell (squamous),MARK4,0.2088071
+Sebaceous gland cell,MARK4,0.20565099
+Neuroendocrine,MARK4,0.20412004
+Pericyte/SMC,MARK4,0.2020818
+Epithelial cell (luminal),MARK4,0.19683667
+Immune (Langerhans),MARK4,0.18904406
+Fibroblast,MARK4,0.18512255
+Schwann cell,MARK4,0.17384271
+Adipocyte,MARK4,0.1687474
+Immune (DC/macrophage),MARK4,0.16253915
+Immune (NK cell),MARK4,0.16043097
+Immune (B cell),MARK4,0.15908232
+Satellite cell,MARK4,0.14568156
+Immune (mast cell),MARK4,0.14518632
+Myocyte (NMJ-rich),MARK4,0.12814713
+"Myocyte (cardiac, cytoplasmic)",MARK4,0.08481131
+"Myocyte (sk. muscle, cytoplasmic)",MARK4,0.07869729
+Immune (DC),MARK4,0.06409688

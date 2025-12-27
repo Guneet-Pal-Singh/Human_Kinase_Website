@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skin,Immune (lymphocyte),PASK,1.0,4.0
+esophagusmucosa,Epithelial cell,PASK,1.0591497,3.921426500434909
+skin,Epithelial cell (keratinocyte),PASK,1.0,3.64663585002568
+esophagusmucosa,Stromal,PASK,1.0294118,3.4378159757330637
+skin,Other,PASK,1.0769231,2.8761061946902653
+esophagusmuscularis,Adipocyte,PASK,1.0,2.857142857142857
+breast,Immune (myeloid),PASK,1.0,2.5139664804469275
+esophagusmucosa,Immune (lymphocyte),PASK,1.0454545,2.42024202420242
+prostate,Epithelial cell,PASK,1.0397112,2.401074849391063
+breast,Epithelial cell,PASK,1.038168,2.25901017416796
+skin,Epithelial cell,PASK,1.0,2.1594684385382057
+heart,Adipocyte,PASK,1.0,2.072538860103627
+prostate,Immune (lymphocyte),PASK,1.0,1.7595307917888563
+lung,Epithelial cell,PASK,1.0289855,1.7196261682242993
+prostate,Muscle,PASK,1.0,1.560410164957646
+lung,Immune (myeloid),PASK,1.032258,1.5248401377274965
+prostate,Glia,PASK,1.0,1.4925373134328357
+prostate,Immune (myeloid),PASK,1.0,1.4591439688715953
+esophagusmucosa,Immune (myeloid),PASK,1.05,1.430615164520744
+heart,Muscle,PASK,1.0136986,1.210212201591512
+breast,Adipocyte,PASK,1.0,1.192504258943782
+skin,Fibroblast,PASK,1.0,1.1342155009451798
+skin,Immune (myeloid),PASK,1.0,1.11731843575419
+skin,Melanocyte,PASK,1.0,1.1029411764705883
+lung,Endothelial cell,PASK,1.0,1.056081573197378
+heart,Glia,PASK,1.0,1.006711409395973
+skeletalmuscle,Muscle,PASK,1.0133333,0.9968543706526074
+esophagusmucosa,Endothelial cell,PASK,1.0434783,0.9833262077811032
+lung,Immune (lymphocyte),PASK,1.0,0.9655172413793104
+esophagusmuscularis,Immune (myeloid),PASK,1.0,0.8774890313871078
+heart,Fibroblast,PASK,1.0125,0.8614191881124151
+heart,Immune (lymphocyte),PASK,1.0,0.8595988538681949
+lung,Fibroblast,PASK,1.0,0.7452574525745257
+prostate,Endothelial cell,PASK,1.0,0.7077140835102618
+breast,Endothelial cell,PASK,1.0,0.681044267877412
+esophagusmuscularis,Fibroblast,PASK,1.0,0.6724949562878278
+esophagusmucosa,Fibroblast,PASK,1.0,0.6394316163410302
+esophagusmuscularis,Muscle,PASK,1.0106384,0.6321877732194499
+skeletalmuscle,Adipocyte,PASK,1.0,0.628930817610063
+esophagusmuscularis,Endothelial cell,PASK,1.0,0.6276619592019727
+lung,Muscle,PASK,1.0,0.6134969325153374
+esophagusmucosa,Muscle,PASK,1.0,0.5988023952095809
+heart,Immune (myeloid),PASK,1.0,0.5625879043600562
+skeletalmuscle,Fibroblast,PASK,1.0,0.5551816958277255
+prostate,Fibroblast,PASK,1.0,0.4378283712784588
+skin,Endothelial cell,PASK,1.0,0.3910068426197458
+heart,Endothelial cell,PASK,1.0,0.3798297314996726
+skeletalmuscle,Endothelial cell,PASK,1.0,0.3756574004507889
+breast,Fibroblast,PASK,1.0,0.3663003663003663
+esophagusmuscularis,Immune (lymphocyte),PASK,1.0,0.3322259136212624
+esophagusmuscularis,Glia,PASK,1.0,0.2061855670103093
+skeletalmuscle,Immune (myeloid),PASK,1.0,0.1356852103120759
+esophagusmuscularis,Neuron,PASK,0.0,0.0
+breast,Muscle,PASK,0.0,0.0
+esophagusmucosa,Glia,PASK,0.0,0.0
+skin,Adipocyte,PASK,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),PASK,0.0,0.0
+skeletalmuscle,Glia,PASK,0.0,0.0
+skin,Muscle,PASK,0.0,0.0

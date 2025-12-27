@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+breast,Epithelial cell,AK5,1.8518087,29.55682014140369
+esophagusmuscularis,Neuron,AK5,1.6,20.0
+esophagusmuscularis,Glia,AK5,1.4943181,18.144329896907216
+prostate,Glia,AK5,1.3333334,13.432835820895525
+heart,Glia,AK5,1.32,8.389261744966444
+esophagusmucosa,Glia,AK5,1.5,6.153846153846154
+lung,Immune (myeloid),AK5,1.0936639,5.951795376291195
+prostate,Epithelial cell,AK5,1.6608863,4.498764790014302
+lung,Epithelial cell,AK5,1.1349037,3.879543094496365
+heart,Immune (lymphocyte),AK5,1.0416666,3.43839541547278
+skin,Fibroblast,AK5,1.0555556,3.402646502835539
+lung,Endothelial cell,AK5,1.0674157,3.241077931536781
+lung,Muscle,AK5,1.0,3.067484662576687
+esophagusmuscularis,Adipocyte,AK5,1.0,2.857142857142857
+esophagusmucosa,Muscle,AK5,1.4285715,2.7944111776447107
+skin,Immune (lymphocyte),AK5,1.0,2.666666666666667
+breast,Immune (myeloid),AK5,1.3333334,2.5139664804469275
+lung,Immune (lymphocyte),AK5,1.0625,2.206896551724138
+lung,Fibroblast,AK5,1.0,2.032520325203252
+skin,Epithelial cell,AK5,1.5833334,1.9933554817275747
+breast,Muscle,AK5,1.3333334,1.973684210526316
+skeletalmuscle,Muscle,AK5,1.0568181,1.9494041026095432
+skin,Adipocyte,AK5,1.0,1.6129032258064515
+prostate,Muscle,AK5,1.1388888,1.6049933125278644
+breast,Endothelial cell,AK5,1.5714285,1.5891032917139614
+breast,Fibroblast,AK5,1.3636364,1.3431013431013432
+skin,Melanocyte,AK5,1.0,1.1029411764705883
+heart,Muscle,AK5,1.0751879,1.1024535809018567
+skin,Muscle,AK5,1.0,1.0752688172043012
+skeletalmuscle,Endothelial cell,AK5,1.0,1.051840721262209
+skeletalmuscle,Immune (lymphocyte),AK5,1.0,1.0
+heart,Fibroblast,AK5,1.082353,0.9152578873694412
+esophagusmuscularis,Muscle,AK5,1.1565218,0.7734212119174121
+esophagusmucosa,Stromal,AK5,1.0,0.7077856420626896
+skin,Endothelial cell,AK5,1.0,0.6842619745845552
+skeletalmuscle,Adipocyte,AK5,1.0,0.628930817610063
+heart,Endothelial cell,AK5,1.1666666,0.6286836935166994
+esophagusmuscularis,Endothelial cell,AK5,1.0,0.605245460659045
+skeletalmuscle,Immune (myeloid),AK5,1.0,0.5427408412483039
+prostate,Endothelial cell,AK5,1.0666667,0.5307855626326964
+skin,Epithelial cell (keratinocyte),AK5,1.2,0.5136106831022085
+esophagusmuscularis,Immune (myeloid),AK5,1.0,0.4724940938238272
+skeletalmuscle,Fibroblast,AK5,1.0,0.4374158815612382
+esophagusmucosa,Fibroblast,AK5,1.0,0.4262877442273534
+breast,Adipocyte,AK5,1.2857143,0.3975014196479273
+esophagusmucosa,Endothelial cell,AK5,1.0,0.3634031637451902
+heart,Immune (myeloid),AK5,1.0,0.3594311611189248
+esophagusmuscularis,Fibroblast,AK5,1.081081,0.3554616197521376
+prostate,Fibroblast,AK5,1.75,0.3502626970227671
+esophagusmucosa,Epithelial cell,AK5,1.0232558,0.3116845462452885
+esophagusmucosa,Immune (myeloid),AK5,1.0,0.2861230329041487
+skin,Other,AK5,1.0,0.2212389380530973
+esophagusmucosa,Immune (lymphocyte),AK5,1.0,0.22002200220022
+prostate,Immune (myeloid),AK5,1.0,0.1945525291828793
+prostate,Immune (lymphocyte),AK5,1.0,0.1466275659824047
+heart,Adipocyte,AK5,0.0,0.0
+esophagusmuscularis,Immune (lymphocyte),AK5,0.0,0.0
+skeletalmuscle,Glia,AK5,0.0,0.0
+skin,Immune (myeloid),AK5,0.0,0.0

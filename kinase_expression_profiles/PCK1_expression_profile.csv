@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Adipocyte,PCK1,0.7035803
+Sebaceous gland cell,PCK1,0.04267435
+Myocyte (smooth muscle),PCK1,0.011402672
+Immune (mast cell),PCK1,0.0078050913
+Epithelial cell (suprabasal),PCK1,0.0046995026
+Epithelial cell (ciliated),PCK1,0.0044013667
+Myofibroblast,PCK1,0.003938697
+Pericyte/SMC,PCK1,0.0023745012
+Epithelial cell (basal),PCK1,0.002213266
+Endothelial cell (lymphatic),PCK1,0.00085553195
+Epithelial cell (luminal),PCK1,0.000687079
+Epithelial cell (squamous),PCK1,0.0005437067
+Immune (DC/macrophage),PCK1,0.0005072596
+Epithelial cell (club),PCK1,0.0004711555
+Endothelial cell (vascular),PCK1,0.00036180613
+Myocyte (sk. muscle),PCK1,0.00034873866
+Fibroblast,PCK1,0.0003134903
+Myocyte (cardiac),PCK1,0.00029234088
+Epithelial cell (alveolar type II),PCK1,0.00018624519
+Epithelial cell (cornified keratinocyte),PCK1,0.0
+Epithelial cell (Hillock),PCK1,0.0
+Epithelial cell (alveolar type I),PCK1,0.0
+Epithelial cell (basal keratinocyte),PCK1,0.0
+Immune (B cell),PCK1,0.0
+ICCs,PCK1,0.0
+Epithelial cell (suprabasal keratinocyte),PCK1,0.0
+Epithelial cell (mature keratinocyte),PCK1,0.0
+Melanocyte,PCK1,0.0
+Immune (alveolar macrophage),PCK1,0.0
+Immune (T cell),PCK1,0.0
+Immune (NK cell),PCK1,0.0
+Immune (DC),PCK1,0.0
+Immune (Langerhans),PCK1,0.0
+"Myocyte (cardiac, cytoplasmic)",PCK1,0.0
+Mucous cell,PCK1,0.0
+Myoepithelial (basal),PCK1,0.0
+"Myocyte (sk. muscle, cytoplasmic)",PCK1,0.0
+Myocyte (NMJ-rich),PCK1,0.0
+Neuroendocrine,PCK1,0.0
+Neuronal,PCK1,0.0
+Satellite cell,PCK1,0.0
+Schwann cell,PCK1,0.0
+Sweat gland cell,PCK1,0.0

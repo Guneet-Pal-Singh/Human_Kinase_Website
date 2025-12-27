@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Neuronal,PRKAA1,0.4352557
+Myofibroblast,PRKAA1,0.43525326
+Mucous cell,PRKAA1,0.428655
+Fibroblast,PRKAA1,0.40776008
+Immune (DC),PRKAA1,0.4034594
+Epithelial cell (club),PRKAA1,0.36391708
+Epithelial cell (luminal),PRKAA1,0.34061226
+Immune (NK cell),PRKAA1,0.33871925
+Pericyte/SMC,PRKAA1,0.3359666
+Immune (T cell),PRKAA1,0.33199584
+Endothelial cell (vascular),PRKAA1,0.3263705
+Myocyte (cardiac),PRKAA1,0.31836116
+Endothelial cell (lymphatic),PRKAA1,0.3117404
+ICCs,PRKAA1,0.29562825
+Adipocyte,PRKAA1,0.2918283
+Epithelial cell (suprabasal),PRKAA1,0.29137516
+Epithelial cell (basal),PRKAA1,0.27715
+Epithelial cell (alveolar type II),PRKAA1,0.27615136
+Myocyte (NMJ-rich),PRKAA1,0.27563816
+Sebaceous gland cell,PRKAA1,0.27208298
+Immune (B cell),PRKAA1,0.2703649
+Satellite cell,PRKAA1,0.26827142
+Immune (alveolar macrophage),PRKAA1,0.26714915
+Epithelial cell (alveolar type I),PRKAA1,0.25851846
+Myocyte (smooth muscle),PRKAA1,0.24488322
+Immune (DC/macrophage),PRKAA1,0.22726235
+Melanocyte,PRKAA1,0.2252429
+Epithelial cell (Hillock),PRKAA1,0.22500174
+Epithelial cell (ciliated),PRKAA1,0.22054276
+Immune (mast cell),PRKAA1,0.21344838
+Schwann cell,PRKAA1,0.20417604
+Neuroendocrine,PRKAA1,0.20075227
+Myoepithelial (basal),PRKAA1,0.18965748
+Epithelial cell (basal keratinocyte),PRKAA1,0.1828214
+Sweat gland cell,PRKAA1,0.16797149
+"Myocyte (cardiac, cytoplasmic)",PRKAA1,0.15662922
+Epithelial cell (suprabasal keratinocyte),PRKAA1,0.13990337
+"Myocyte (sk. muscle, cytoplasmic)",PRKAA1,0.088740535
+Myocyte (sk. muscle),PRKAA1,0.08786405
+Epithelial cell (squamous),PRKAA1,0.07421971
+Epithelial cell (mature keratinocyte),PRKAA1,0.068394035
+Immune (Langerhans),PRKAA1,0.05716446
+Epithelial cell (cornified keratinocyte),PRKAA1,0.0

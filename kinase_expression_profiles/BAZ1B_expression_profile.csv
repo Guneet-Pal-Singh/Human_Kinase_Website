@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (Langerhans),BAZ1B,0.49911085
+Immune (B cell),BAZ1B,0.43992168
+Immune (DC),BAZ1B,0.41601983
+Epithelial cell (ciliated),BAZ1B,0.40874308
+Myofibroblast,BAZ1B,0.40764034
+Mucous cell,BAZ1B,0.40363193
+ICCs,BAZ1B,0.39673558
+Epithelial cell (alveolar type II),BAZ1B,0.38309568
+Immune (alveolar macrophage),BAZ1B,0.37372094
+Epithelial cell (alveolar type I),BAZ1B,0.3663281
+Adipocyte,BAZ1B,0.3647297
+Neuronal,BAZ1B,0.34869966
+Myocyte (cardiac),BAZ1B,0.33915108
+Immune (T cell),BAZ1B,0.3334266
+Epithelial cell (basal),BAZ1B,0.32667032
+Epithelial cell (luminal),BAZ1B,0.3234655
+Myocyte (NMJ-rich),BAZ1B,0.30653387
+Epithelial cell (Hillock),BAZ1B,0.30233476
+Epithelial cell (suprabasal),BAZ1B,0.30215973
+Epithelial cell (club),BAZ1B,0.28887734
+Myocyte (smooth muscle),BAZ1B,0.28348473
+Myoepithelial (basal),BAZ1B,0.27526885
+Endothelial cell (lymphatic),BAZ1B,0.26882064
+Pericyte/SMC,BAZ1B,0.25870517
+Immune (NK cell),BAZ1B,0.25698277
+Neuroendocrine,BAZ1B,0.2520723
+Immune (mast cell),BAZ1B,0.24786624
+Fibroblast,BAZ1B,0.2474369
+Endothelial cell (vascular),BAZ1B,0.24717031
+Immune (DC/macrophage),BAZ1B,0.24120738
+Satellite cell,BAZ1B,0.23277195
+Melanocyte,BAZ1B,0.2304638
+Sebaceous gland cell,BAZ1B,0.22679846
+Epithelial cell (suprabasal keratinocyte),BAZ1B,0.21769093
+Epithelial cell (basal keratinocyte),BAZ1B,0.21690078
+Epithelial cell (cornified keratinocyte),BAZ1B,0.21666208
+Myocyte (sk. muscle),BAZ1B,0.19290484
+Sweat gland cell,BAZ1B,0.19192113
+Schwann cell,BAZ1B,0.18198282
+Epithelial cell (mature keratinocyte),BAZ1B,0.17359556
+"Myocyte (cardiac, cytoplasmic)",BAZ1B,0.15453847
+"Myocyte (sk. muscle, cytoplasmic)",BAZ1B,0.13813631
+Epithelial cell (squamous),BAZ1B,0.12879296

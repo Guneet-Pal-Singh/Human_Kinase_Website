@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Mucous cell,FRK,0.52919316
+Myocyte (cardiac),FRK,0.4917729
+Epithelial cell (suprabasal),FRK,0.3977954
+Epithelial cell (ciliated),FRK,0.33119208
+Epithelial cell (squamous),FRK,0.31129542
+Epithelial cell (alveolar type II),FRK,0.26838207
+Epithelial cell (Hillock),FRK,0.26610938
+Epithelial cell (club),FRK,0.25570172
+Epithelial cell (basal),FRK,0.21543199
+Epithelial cell (alveolar type I),FRK,0.16627496
+Pericyte/SMC,FRK,0.16399802
+Epithelial cell (luminal),FRK,0.14234206
+Satellite cell,FRK,0.11462912
+"Myocyte (cardiac, cytoplasmic)",FRK,0.112055734
+Immune (DC),FRK,0.0946246
+Adipocyte,FRK,0.09007784
+Myofibroblast,FRK,0.08416559
+Fibroblast,FRK,0.07211576
+Sweat gland cell,FRK,0.053559694
+Neuroendocrine,FRK,0.052857228
+Melanocyte,FRK,0.052062016
+Myoepithelial (basal),FRK,0.04664594
+Immune (mast cell),FRK,0.04018502
+Epithelial cell (cornified keratinocyte),FRK,0.037574936
+Myocyte (NMJ-rich),FRK,0.034575995
+Myocyte (smooth muscle),FRK,0.034526963
+Sebaceous gland cell,FRK,0.034444682
+Epithelial cell (basal keratinocyte),FRK,0.031142857
+Endothelial cell (lymphatic),FRK,0.029918894
+ICCs,FRK,0.029129982
+Immune (B cell),FRK,0.028663374
+Epithelial cell (mature keratinocyte),FRK,0.025503736
+Myocyte (sk. muscle),FRK,0.025355883
+Schwann cell,FRK,0.024739625
+Immune (DC/macrophage),FRK,0.019352162
+Epithelial cell (suprabasal keratinocyte),FRK,0.018067878
+Immune (alveolar macrophage),FRK,0.01743134
+"Myocyte (sk. muscle, cytoplasmic)",FRK,0.01734536
+Endothelial cell (vascular),FRK,0.010628835
+Immune (T cell),FRK,0.006516303
+Immune (NK cell),FRK,0.0
+Immune (Langerhans),FRK,0.0
+Neuronal,FRK,0.0

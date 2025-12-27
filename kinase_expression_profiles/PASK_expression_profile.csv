@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (suprabasal keratinocyte),PASK,0.1406616
+Epithelial cell (ciliated),PASK,0.13866241
+Epithelial cell (squamous),PASK,0.12282041
+Epithelial cell (basal keratinocyte),PASK,0.12080011
+Epithelial cell (mature keratinocyte),PASK,0.09694175
+Epithelial cell (luminal),PASK,0.08681345
+Immune (Langerhans),PASK,0.08492125
+Myofibroblast,PASK,0.07888309
+Sweat gland cell,PASK,0.0788116
+Epithelial cell (suprabasal),PASK,0.07779496
+Immune (T cell),PASK,0.07246696
+Immune (B cell),PASK,0.06941257
+Epithelial cell (basal),PASK,0.06908029
+Sebaceous gland cell,PASK,0.062288452
+Epithelial cell (Hillock),PASK,0.053741474
+Epithelial cell (alveolar type I),PASK,0.050047908
+Mucous cell,PASK,0.04873364
+Immune (alveolar macrophage),PASK,0.048224267
+Myoepithelial (basal),PASK,0.047768783
+Epithelial cell (club),PASK,0.047055997
+Epithelial cell (alveolar type II),PASK,0.045912102
+Adipocyte,PASK,0.0369969
+Melanocyte,PASK,0.03626502
+Myocyte (sk. muscle),PASK,0.03369739
+Myocyte (cardiac),PASK,0.031729635
+Neuroendocrine,PASK,0.03132294
+ICCs,PASK,0.027555084
+Immune (DC/macrophage),PASK,0.027336562
+Immune (mast cell),PASK,0.024758391
+Fibroblast,PASK,0.023865497
+Myocyte (smooth muscle),PASK,0.023488387
+Endothelial cell (lymphatic),PASK,0.0221524
+Endothelial cell (vascular),PASK,0.02210159
+Immune (DC),PASK,0.01864947
+Pericyte/SMC,PASK,0.015648486
+Schwann cell,PASK,0.013858318
+"Myocyte (sk. muscle, cytoplasmic)",PASK,0.0074814195
+"Myocyte (cardiac, cytoplasmic)",PASK,0.0034086218
+Epithelial cell (cornified keratinocyte),PASK,0.0
+Immune (NK cell),PASK,0.0
+Myocyte (NMJ-rich),PASK,0.0
+Neuronal,PASK,0.0
+Satellite cell,PASK,0.0

@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+"Myocyte (cardiac, cytoplasmic)",BCKDK,0.29390603
+Epithelial cell (cornified keratinocyte),BCKDK,0.2887288
+Epithelial cell (mature keratinocyte),BCKDK,0.2659635
+Immune (Langerhans),BCKDK,0.22488637
+"Myocyte (sk. muscle, cytoplasmic)",BCKDK,0.18223764
+Sebaceous gland cell,BCKDK,0.14903398
+Immune (DC),BCKDK,0.13939084
+Epithelial cell (squamous),BCKDK,0.13676383
+Myocyte (smooth muscle),BCKDK,0.1304345
+Immune (alveolar macrophage),BCKDK,0.110255644
+Immune (DC/macrophage),BCKDK,0.103694886
+Epithelial cell (luminal),BCKDK,0.0959156
+Epithelial cell (club),BCKDK,0.088630065
+Epithelial cell (Hillock),BCKDK,0.082094125
+Epithelial cell (basal),BCKDK,0.078402005
+Epithelial cell (suprabasal),BCKDK,0.060133524
+Epithelial cell (suprabasal keratinocyte),BCKDK,0.057271738
+Myofibroblast,BCKDK,0.057140823
+Myocyte (cardiac),BCKDK,0.050677855
+Immune (NK cell),BCKDK,0.050285935
+Endothelial cell (vascular),BCKDK,0.044343755
+Adipocyte,BCKDK,0.043563694
+Epithelial cell (basal keratinocyte),BCKDK,0.042859845
+Endothelial cell (lymphatic),BCKDK,0.042837474
+Immune (B cell),BCKDK,0.0426478
+Sweat gland cell,BCKDK,0.040531036
+Fibroblast,BCKDK,0.039802786
+Immune (mast cell),BCKDK,0.03960184
+Pericyte/SMC,BCKDK,0.037170555
+Mucous cell,BCKDK,0.035813127
+Myoepithelial (basal),BCKDK,0.035477053
+Schwann cell,BCKDK,0.03225126
+Epithelial cell (alveolar type I),BCKDK,0.03221981
+ICCs,BCKDK,0.029178523
+Epithelial cell (ciliated),BCKDK,0.02743562
+Epithelial cell (alveolar type II),BCKDK,0.02620749
+Myocyte (NMJ-rich),BCKDK,0.02318988
+Immune (T cell),BCKDK,0.0224579
+Melanocyte,BCKDK,0.019061454
+Satellite cell,BCKDK,0.006958122
+Myocyte (sk. muscle),BCKDK,0.0015181517
+Neuronal,BCKDK,0.0
+Neuroendocrine,BCKDK,0.0

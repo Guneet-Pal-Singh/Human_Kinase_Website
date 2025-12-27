@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Myocyte (cardiac),CDK6,0.83062005
+Mucous cell,CDK6,0.80689394
+Immune (DC),CDK6,0.7339653
+Sebaceous gland cell,CDK6,0.7000013
+Epithelial cell (Hillock),CDK6,0.6513163
+Epithelial cell (suprabasal),CDK6,0.6410306
+Epithelial cell (basal keratinocyte),CDK6,0.6280614
+Immune (Langerhans),CDK6,0.57128376
+Immune (DC/macrophage),CDK6,0.56899893
+Neuronal,CDK6,0.5512384
+Epithelial cell (club),CDK6,0.54273164
+Epithelial cell (basal),CDK6,0.5366658
+Immune (NK cell),CDK6,0.5235634
+Immune (T cell),CDK6,0.51639086
+ICCs,CDK6,0.49173847
+Endothelial cell (vascular),CDK6,0.47245097
+Endothelial cell (lymphatic),CDK6,0.45192495
+Melanocyte,CDK6,0.44705763
+Epithelial cell (alveolar type I),CDK6,0.44655532
+Myofibroblast,CDK6,0.42776886
+Epithelial cell (suprabasal keratinocyte),CDK6,0.41093668
+Satellite cell,CDK6,0.40893054
+Sweat gland cell,CDK6,0.39676964
+Immune (mast cell),CDK6,0.35967743
+Immune (B cell),CDK6,0.34614635
+Pericyte/SMC,CDK6,0.34139964
+Adipocyte,CDK6,0.28865078
+Epithelial cell (mature keratinocyte),CDK6,0.28257304
+Myocyte (NMJ-rich),CDK6,0.27652287
+Myocyte (smooth muscle),CDK6,0.2681709
+Epithelial cell (luminal),CDK6,0.2586625
+Immune (alveolar macrophage),CDK6,0.24301225
+Epithelial cell (alveolar type II),CDK6,0.20487975
+"Myocyte (cardiac, cytoplasmic)",CDK6,0.20086375
+Schwann cell,CDK6,0.19957186
+Myoepithelial (basal),CDK6,0.18246725
+Fibroblast,CDK6,0.15910204
+Epithelial cell (ciliated),CDK6,0.13399397
+Epithelial cell (squamous),CDK6,0.119677946
+Epithelial cell (cornified keratinocyte),CDK6,0.10388725
+"Myocyte (sk. muscle, cytoplasmic)",CDK6,0.03871926
+Neuroendocrine,CDK6,0.02793754
+Myocyte (sk. muscle),CDK6,0.01379444

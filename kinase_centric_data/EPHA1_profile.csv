@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmucosa,Epithelial cell,EPHA1,1.2538745,9.821687445636416
+skin,Epithelial cell,EPHA1,1.030303,5.48172757475083
+skin,Epithelial cell (keratinocyte),EPHA1,1.1052631,4.879301489470981
+esophagusmucosa,Stromal,EPHA1,1.1621622,3.741152679474216
+breast,Epithelial cell,EPHA1,1.0491803,2.1038110018968785
+breast,Muscle,EPHA1,1.0,1.973684210526316
+skin,Other,EPHA1,1.0,1.7699115044247788
+prostate,Epithelial cell,EPHA1,1.0274725,1.577601525592684
+esophagusmucosa,Immune (lymphocyte),EPHA1,1.0,1.3751375137513753
+esophagusmuscularis,Immune (lymphocyte),EPHA1,1.0,1.32890365448505
+prostate,Immune (lymphocyte),EPHA1,1.0,1.3196480938416422
+lung,Epithelial cell,EPHA1,1.0037037,1.1214953271028036
+lung,Fibroblast,EPHA1,1.0833334,0.8130081300813009
+prostate,Fibroblast,EPHA1,1.0,0.6129597197898424
+breast,Endothelial cell,EPHA1,1.0,0.5675368898978433
+skin,Immune (myeloid),EPHA1,1.0,0.5586592178770949
+lung,Immune (myeloid),EPHA1,1.0588236,0.5574684374487621
+prostate,Muscle,EPHA1,1.0,0.5349977708426215
+esophagusmuscularis,Muscle,EPHA1,1.0,0.5044051382070078
+breast,Fibroblast,EPHA1,1.0,0.4884004884004884
+heart,Muscle,EPHA1,1.0,0.4807692307692308
+skeletalmuscle,Muscle,EPHA1,1.0185186,0.4784900979132515
+skeletalmuscle,Endothelial cell,EPHA1,1.0,0.4507888805409466
+esophagusmucosa,Immune (myeloid),EPHA1,1.0,0.4291845493562232
+breast,Adipocyte,EPHA1,1.0,0.3975014196479273
+esophagusmuscularis,Endothelial cell,EPHA1,1.0,0.3810804752297691
+esophagusmuscularis,Immune (myeloid),EPHA1,1.0,0.371245359433007
+heart,Glia,EPHA1,1.0,0.3355704697986577
+skeletalmuscle,Fibroblast,EPHA1,1.0,0.319650067294751
+esophagusmuscularis,Glia,EPHA1,1.0,0.3092783505154639
+prostate,Immune (myeloid),EPHA1,1.0,0.2918287937743191
+lung,Immune (lymphocyte),EPHA1,1.0,0.2758620689655172
+skeletalmuscle,Immune (myeloid),EPHA1,1.0,0.2713704206241519
+esophagusmucosa,Endothelial cell,EPHA1,1.0,0.2565198802907225
+prostate,Endothelial cell,EPHA1,1.0,0.2476999292285916
+esophagusmuscularis,Fibroblast,EPHA1,1.0,0.2305696992986838
+heart,Fibroblast,EPHA1,1.0,0.2153547970281037
+esophagusmucosa,Muscle,EPHA1,1.0,0.1996007984031935
+heart,Immune (myeloid),EPHA1,1.0,0.1875293014533521
+lung,Endothelial cell,EPHA1,1.0,0.1820830298616169
+heart,Immune (lymphocyte),EPHA1,1.0,0.1432664756446991
+heart,Endothelial cell,EPHA1,1.0,0.1309757694826457
+esophagusmucosa,Fibroblast,EPHA1,1.0,0.1065719360568383
+esophagusmuscularis,Neuron,EPHA1,0.0,0.0
+heart,Adipocyte,EPHA1,0.0,0.0
+esophagusmuscularis,Adipocyte,EPHA1,0.0,0.0
+esophagusmucosa,Glia,EPHA1,0.0,0.0
+breast,Immune (myeloid),EPHA1,0.0,0.0
+skeletalmuscle,Adipocyte,EPHA1,0.0,0.0
+lung,Muscle,EPHA1,0.0,0.0
+prostate,Glia,EPHA1,0.0,0.0
+skin,Endothelial cell,EPHA1,0.0,0.0
+skin,Adipocyte,EPHA1,0.0,0.0
+skeletalmuscle,Glia,EPHA1,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),EPHA1,0.0,0.0
+skin,Immune (lymphocyte),EPHA1,0.0,0.0
+skin,Fibroblast,EPHA1,0.0,0.0
+skin,Melanocyte,EPHA1,0.0,0.0
+skin,Muscle,EPHA1,0.0,0.0

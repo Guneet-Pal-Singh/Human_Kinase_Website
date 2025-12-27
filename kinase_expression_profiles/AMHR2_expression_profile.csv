@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (mast cell),AMHR2,0.031240137
+Melanocyte,AMHR2,0.025847549
+ICCs,AMHR2,0.012986092
+Myoepithelial (basal),AMHR2,0.012426593
+Epithelial cell (ciliated),AMHR2,0.011109161
+Epithelial cell (suprabasal keratinocyte),AMHR2,0.010768989
+Sebaceous gland cell,AMHR2,0.009163823
+Immune (alveolar macrophage),AMHR2,0.00907205
+Sweat gland cell,AMHR2,0.006513906
+Adipocyte,AMHR2,0.0062308717
+Epithelial cell (alveolar type II),AMHR2,0.005725621
+Myocyte (sk. muscle),AMHR2,0.005472415
+Epithelial cell (basal keratinocyte),AMHR2,0.005294904
+Epithelial cell (alveolar type I),AMHR2,0.005042137
+Epithelial cell (suprabasal),AMHR2,0.0047989246
+Immune (T cell),AMHR2,0.004275682
+Myocyte (cardiac),AMHR2,0.0030089642
+Epithelial cell (club),AMHR2,0.0029210898
+Endothelial cell (vascular),AMHR2,0.002896374
+Epithelial cell (luminal),AMHR2,0.0028399043
+Fibroblast,AMHR2,0.0026888493
+Pericyte/SMC,AMHR2,0.0024720235
+Epithelial cell (Hillock),AMHR2,0.0024610353
+Myocyte (smooth muscle),AMHR2,0.0021277473
+Schwann cell,AMHR2,0.0020820666
+Myofibroblast,AMHR2,0.0015566348
+Epithelial cell (basal),AMHR2,0.001353728
+Immune (DC/macrophage),AMHR2,0.0012846543
+"Myocyte (sk. muscle, cytoplasmic)",AMHR2,0.0010672734
+Endothelial cell (lymphatic),AMHR2,0.00083301537
+"Myocyte (cardiac, cytoplasmic)",AMHR2,0.000739164
+Epithelial cell (cornified keratinocyte),AMHR2,0.0
+Epithelial cell (mature keratinocyte),AMHR2,0.0
+Epithelial cell (squamous),AMHR2,0.0
+Immune (B cell),AMHR2,0.0
+Immune (Langerhans),AMHR2,0.0
+Immune (DC),AMHR2,0.0
+Immune (NK cell),AMHR2,0.0
+Mucous cell,AMHR2,0.0
+Myocyte (NMJ-rich),AMHR2,0.0
+Neuroendocrine,AMHR2,0.0
+Neuronal,AMHR2,0.0
+Satellite cell,AMHR2,0.0

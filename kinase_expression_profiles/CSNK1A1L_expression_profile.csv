@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (suprabasal keratinocyte),CSNK1A1L,0.08237939
+Sebaceous gland cell,CSNK1A1L,0.07629353
+Epithelial cell (mature keratinocyte),CSNK1A1L,0.07282494
+Epithelial cell (basal keratinocyte),CSNK1A1L,0.06148788
+Epithelial cell (suprabasal),CSNK1A1L,0.050183453
+Sweat gland cell,CSNK1A1L,0.049650162
+Myoepithelial (basal),CSNK1A1L,0.034214776
+Epithelial cell (luminal),CSNK1A1L,0.023321204
+Epithelial cell (squamous),CSNK1A1L,0.022552041
+Adipocyte,CSNK1A1L,0.020383516
+Epithelial cell (basal),CSNK1A1L,0.019717291
+Epithelial cell (Hillock),CSNK1A1L,0.019467039
+Myofibroblast,CSNK1A1L,0.019385591
+Epithelial cell (ciliated),CSNK1A1L,0.019349618
+Epithelial cell (alveolar type II),CSNK1A1L,0.01925985
+Immune (alveolar macrophage),CSNK1A1L,0.017890722
+Mucous cell,CSNK1A1L,0.017537193
+Epithelial cell (club),CSNK1A1L,0.017192585
+Epithelial cell (alveolar type I),CSNK1A1L,0.01543377
+ICCs,CSNK1A1L,0.014267072
+Endothelial cell (vascular),CSNK1A1L,0.01078384
+Myocyte (smooth muscle),CSNK1A1L,0.010414565
+Myocyte (cardiac),CSNK1A1L,0.009978244
+Myocyte (sk. muscle),CSNK1A1L,0.009754311
+Immune (mast cell),CSNK1A1L,0.009314544
+Immune (DC/macrophage),CSNK1A1L,0.008794134
+Endothelial cell (lymphatic),CSNK1A1L,0.006766929
+Fibroblast,CSNK1A1L,0.0065772515
+Pericyte/SMC,CSNK1A1L,0.006402445
+Immune (T cell),CSNK1A1L,0.0054091923
+"Myocyte (cardiac, cytoplasmic)",CSNK1A1L,0.0009772184
+Epithelial cell (cornified keratinocyte),CSNK1A1L,0.0
+Immune (B cell),CSNK1A1L,0.0
+Immune (Langerhans),CSNK1A1L,0.0
+Immune (NK cell),CSNK1A1L,0.0
+Melanocyte,CSNK1A1L,0.0
+Immune (DC),CSNK1A1L,0.0
+"Myocyte (sk. muscle, cytoplasmic)",CSNK1A1L,0.0
+Myocyte (NMJ-rich),CSNK1A1L,0.0
+Neuronal,CSNK1A1L,0.0
+Neuroendocrine,CSNK1A1L,0.0
+Schwann cell,CSNK1A1L,0.0
+Satellite cell,CSNK1A1L,0.0

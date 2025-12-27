@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (DC),NMRK1,0.57600856
+Epithelial cell (squamous),NMRK1,0.3827293
+Sebaceous gland cell,NMRK1,0.32688436
+Epithelial cell (basal keratinocyte),NMRK1,0.2501599
+Epithelial cell (suprabasal),NMRK1,0.24582759
+Immune (T cell),NMRK1,0.22950538
+Epithelial cell (cornified keratinocyte),NMRK1,0.22491685
+Epithelial cell (ciliated),NMRK1,0.21407197
+Melanocyte,NMRK1,0.19034496
+Epithelial cell (suprabasal keratinocyte),NMRK1,0.18453959
+Epithelial cell (Hillock),NMRK1,0.1821999
+Adipocyte,NMRK1,0.16534898
+Epithelial cell (basal),NMRK1,0.15677376
+Immune (alveolar macrophage),NMRK1,0.15141192
+Neuronal,NMRK1,0.15106565
+Epithelial cell (mature keratinocyte),NMRK1,0.15063298
+Mucous cell,NMRK1,0.13746995
+Immune (B cell),NMRK1,0.13707368
+Epithelial cell (club),NMRK1,0.13393693
+Sweat gland cell,NMRK1,0.13388143
+Epithelial cell (alveolar type II),NMRK1,0.13267355
+Epithelial cell (alveolar type I),NMRK1,0.12924951
+Endothelial cell (vascular),NMRK1,0.12642217
+Myoepithelial (basal),NMRK1,0.124988504
+Immune (NK cell),NMRK1,0.12448752
+Schwann cell,NMRK1,0.11780873
+Epithelial cell (luminal),NMRK1,0.11719363
+Myofibroblast,NMRK1,0.11022505
+"Myocyte (sk. muscle, cytoplasmic)",NMRK1,0.10520406
+Endothelial cell (lymphatic),NMRK1,0.10470369
+Immune (DC/macrophage),NMRK1,0.103040114
+Neuroendocrine,NMRK1,0.08563001
+Myocyte (cardiac),NMRK1,0.077519216
+Fibroblast,NMRK1,0.076511286
+"Myocyte (cardiac, cytoplasmic)",NMRK1,0.06497789
+Pericyte/SMC,NMRK1,0.05678471
+Immune (mast cell),NMRK1,0.054869745
+Satellite cell,NMRK1,0.050745104
+Myocyte (NMJ-rich),NMRK1,0.049567077
+Myocyte (smooth muscle),NMRK1,0.045970075
+ICCs,NMRK1,0.037356757
+Myocyte (sk. muscle),NMRK1,0.03458792
+Immune (Langerhans),NMRK1,0.0

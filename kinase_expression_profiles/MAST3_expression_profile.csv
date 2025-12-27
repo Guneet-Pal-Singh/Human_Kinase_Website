@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Neuronal,MAST3,0.2731765
+Epithelial cell (cornified keratinocyte),MAST3,0.26543906
+Epithelial cell (mature keratinocyte),MAST3,0.25908145
+Immune (Langerhans),MAST3,0.2295086
+Immune (alveolar macrophage),MAST3,0.2203801
+Immune (B cell),MAST3,0.2065555
+Immune (NK cell),MAST3,0.14651304
+Adipocyte,MAST3,0.13730201
+Immune (DC/macrophage),MAST3,0.1172003
+Immune (T cell),MAST3,0.107813455
+Epithelial cell (ciliated),MAST3,0.10656614
+Epithelial cell (alveolar type I),MAST3,0.094140194
+Epithelial cell (alveolar type II),MAST3,0.09206382
+Myofibroblast,MAST3,0.081772566
+Schwann cell,MAST3,0.07865967
+Mucous cell,MAST3,0.07407073
+Endothelial cell (vascular),MAST3,0.06940519
+Epithelial cell (basal),MAST3,0.06471086
+Endothelial cell (lymphatic),MAST3,0.062382173
+Pericyte/SMC,MAST3,0.06160044
+Epithelial cell (club),MAST3,0.05985735
+Epithelial cell (suprabasal),MAST3,0.05587801
+Epithelial cell (luminal),MAST3,0.050927732
+Immune (mast cell),MAST3,0.04918283
+Epithelial cell (squamous),MAST3,0.048550896
+Myocyte (cardiac),MAST3,0.048477896
+Myoepithelial (basal),MAST3,0.04773817
+Epithelial cell (Hillock),MAST3,0.045336735
+Fibroblast,MAST3,0.044737294
+Myocyte (smooth muscle),MAST3,0.04280091
+Sebaceous gland cell,MAST3,0.039081026
+ICCs,MAST3,0.03754528
+Sweat gland cell,MAST3,0.033755355
+"Myocyte (cardiac, cytoplasmic)",MAST3,0.030459192
+Myocyte (NMJ-rich),MAST3,0.028474025
+Immune (DC),MAST3,0.027350737
+Myocyte (sk. muscle),MAST3,0.026199214
+Neuroendocrine,MAST3,0.022867609
+Epithelial cell (basal keratinocyte),MAST3,0.020597836
+"Myocyte (sk. muscle, cytoplasmic)",MAST3,0.011926578
+Satellite cell,MAST3,0.00943176
+Melanocyte,MAST3,0.008732423
+Epithelial cell (suprabasal keratinocyte),MAST3,0.00850522

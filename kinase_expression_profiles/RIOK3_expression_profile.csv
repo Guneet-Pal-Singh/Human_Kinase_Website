@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (squamous),RIOK3,1.3103482
+Epithelial cell (cornified keratinocyte),RIOK3,0.8997978
+Epithelial cell (basal keratinocyte),RIOK3,0.8644818
+Epithelial cell (suprabasal),RIOK3,0.8065443
+Epithelial cell (mature keratinocyte),RIOK3,0.7141627
+Epithelial cell (suprabasal keratinocyte),RIOK3,0.66605014
+Immune (alveolar macrophage),RIOK3,0.54811597
+Epithelial cell (Hillock),RIOK3,0.5392722
+Mucous cell,RIOK3,0.5190172
+Sweat gland cell,RIOK3,0.44534534
+Epithelial cell (basal),RIOK3,0.42814916
+Melanocyte,RIOK3,0.4201751
+Epithelial cell (alveolar type I),RIOK3,0.40856665
+Myofibroblast,RIOK3,0.39807796
+Epithelial cell (luminal),RIOK3,0.39321107
+Myocyte (cardiac),RIOK3,0.3778702
+Epithelial cell (club),RIOK3,0.37348968
+Adipocyte,RIOK3,0.35988948
+Epithelial cell (alveolar type II),RIOK3,0.3533986
+Fibroblast,RIOK3,0.30249122
+Neuronal,RIOK3,0.28316778
+Neuroendocrine,RIOK3,0.28289554
+Immune (DC/macrophage),RIOK3,0.28223327
+Immune (Langerhans),RIOK3,0.27591816
+Immune (DC),RIOK3,0.26900092
+Immune (mast cell),RIOK3,0.25533912
+Myocyte (smooth muscle),RIOK3,0.25486022
+Sebaceous gland cell,RIOK3,0.24979717
+Schwann cell,RIOK3,0.24872094
+"Myocyte (cardiac, cytoplasmic)",RIOK3,0.24665101
+Endothelial cell (lymphatic),RIOK3,0.2418396
+ICCs,RIOK3,0.24000254
+Satellite cell,RIOK3,0.23752595
+Myocyte (NMJ-rich),RIOK3,0.21842828
+Endothelial cell (vascular),RIOK3,0.21818154
+Immune (NK cell),RIOK3,0.20946735
+Myoepithelial (basal),RIOK3,0.20870887
+Pericyte/SMC,RIOK3,0.19413371
+"Myocyte (sk. muscle, cytoplasmic)",RIOK3,0.19161908
+Immune (T cell),RIOK3,0.1873471
+Epithelial cell (ciliated),RIOK3,0.1521002
+Myocyte (sk. muscle),RIOK3,0.14176477
+Immune (B cell),RIOK3,0.11571126

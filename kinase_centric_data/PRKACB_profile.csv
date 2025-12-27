@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Neuron,PRKACB,1.75,48.0
+heart,Muscle,PRKACB,1.4660226,24.883952254641912
+esophagusmucosa,Stromal,PRKACB,1.3552631,23.053589484327603
+prostate,Muscle,PRKACB,1.3991684,21.44449398127508
+heart,Adipocyte,PRKACB,1.225,20.72538860103627
+prostate,Epithelial cell,PRKACB,1.3023256,15.84102630780566
+skin,Melanocyte,PRKACB,1.1190476,15.441176470588236
+prostate,Immune (myeloid),PRKACB,1.181208,14.494163424124515
+skeletalmuscle,Glia,PRKACB,1.2,14.285714285714285
+prostate,Immune (lymphocyte),PRKACB,1.1978022,13.343108504398826
+prostate,Fibroblast,PRKACB,1.2397261,12.784588441331
+esophagusmuscularis,Muscle,PRKACB,1.2062392,11.64167058981774
+esophagusmucosa,Muscle,PRKACB,1.2241379,11.57684630738523
+esophagusmuscularis,Immune (lymphocyte),PRKACB,1.09375,10.6312292358804
+breast,Muscle,PRKACB,1.0625,10.526315789473683
+esophagusmucosa,Immune (lymphocyte),PRKACB,1.1297297,10.176017601760176
+lung,Immune (lymphocyte),PRKACB,1.0833334,9.93103448275862
+heart,Immune (lymphocyte),PRKACB,1.0882353,9.742120343839542
+lung,Immune (myeloid),PRKACB,1.1617391,9.427775045089358
+skin,Muscle,PRKACB,1.117647,9.13978494623656
+heart,Fibroblast,PRKACB,1.1257414,9.077204694734576
+skin,Fibroblast,PRKACB,1.1875,9.073724007561438
+prostate,Glia,PRKACB,1.0,8.955223880597014
+prostate,Endothelial cell,PRKACB,1.2450593,8.952583156404813
+lung,Fibroblast,PRKACB,1.2272727,8.94308943089431
+esophagusmucosa,Immune (myeloid),PRKACB,1.128,8.94134477825465
+skeletalmuscle,Adipocyte,PRKACB,1.0714285,8.80503144654088
+breast,Adipocyte,PRKACB,1.125,8.631459398069278
+esophagusmuscularis,Adipocyte,PRKACB,1.1333333,8.571428571428571
+esophagusmucosa,Fibroblast,PRKACB,1.1422594,8.490230905861457
+esophagusmuscularis,Immune (myeloid),PRKACB,1.0588236,8.032399595005064
+skin,Immune (myeloid),PRKACB,1.2857143,7.82122905027933
+heart,Glia,PRKACB,1.2173913,7.718120805369128
+esophagusmuscularis,Glia,PRKACB,1.1095891,7.525773195876289
+skeletalmuscle,Muscle,PRKACB,1.1722714,7.5096362589163075
+lung,Muscle,PRKACB,1.1666666,7.361963190184049
+heart,Immune (myeloid),PRKACB,1.1002132,7.329270198468511
+esophagusmucosa,Epithelial cell,PRKACB,1.1824249,6.516381559872427
+breast,Immune (myeloid),PRKACB,1.0434783,6.424581005586592
+esophagusmucosa,Endothelial cell,PRKACB,1.1970803,5.857203933304831
+skin,Epithelial cell,PRKACB,1.1764706,5.647840531561462
+breast,Fibroblast,PRKACB,1.1333333,5.494505494505495
+breast,Epithelial cell,PRKACB,1.1135646,5.466459734436971
+skeletalmuscle,Fibroblast,PRKACB,1.1075269,4.693808882907134
+esophagusmucosa,Glia,PRKACB,1.3333334,4.615384615384616
+skeletalmuscle,Immune (myeloid),PRKACB,1.0882353,4.613297150610583
+esophagusmuscularis,Fibroblast,PRKACB,1.156044,4.371217215870881
+lung,Epithelial cell,PRKACB,1.1232466,4.145379023883697
+lung,Endothelial cell,PRKACB,1.1862745,3.714493809176985
+skeletalmuscle,Endothelial cell,PRKACB,1.1463414,3.0803906836964687
+breast,Endothelial cell,PRKACB,1.1538461,2.9511918274687856
+esophagusmuscularis,Endothelial cell,PRKACB,1.1889764,2.8468953149518046
+skin,Endothelial cell,PRKACB,1.375,2.346041055718475
+heart,Endothelial cell,PRKACB,1.1428572,2.200392927308448
+skeletalmuscle,Immune (lymphocyte),PRKACB,1.0,2.0
+skin,Adipocyte,PRKACB,1.0,1.6129032258064515
+skin,Immune (lymphocyte),PRKACB,1.0,1.3333333333333337
+skin,Other,PRKACB,1.1666666,1.327433628318584
+skin,Epithelial cell (keratinocyte),PRKACB,1.0625,0.8217770929635336

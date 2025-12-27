@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmucosa,Epithelial cell,MAPK6,1.3391813,23.550304436068423
+esophagusmuscularis,Neuron,MAPK6,1.0,20.0
+skin,Epithelial cell (keratinocyte),MAPK6,1.2552084,19.72265023112481
+esophagusmuscularis,Adipocyte,MAPK6,1.0645162,17.71428571428571
+skin,Other,MAPK6,1.2467532,17.035398230088493
+lung,Immune (myeloid),MAPK6,1.1913215,16.62567634038367
+skin,Epithelial cell,MAPK6,1.2105263,15.780730897009969
+heart,Muscle,MAPK6,1.2165948,15.384615384615383
+skin,Adipocyte,MAPK6,1.0,14.516129032258066
+esophagusmucosa,Stromal,MAPK6,1.3169014,14.35793731041456
+skeletalmuscle,Muscle,MAPK6,1.1959925,14.150901599397455
+lung,Epithelial cell,MAPK6,1.1561208,13.063343717549325
+prostate,Epithelial cell,MAPK6,1.1555794,12.118060070211936
+prostate,Immune (myeloid),MAPK6,1.1300813,11.964980544747082
+heart,Adipocyte,MAPK6,1.1818181,11.398963730569948
+lung,Fibroblast,MAPK6,1.124183,10.365853658536585
+lung,Endothelial cell,MAPK6,1.0978261,10.050983248361254
+skin,Endothelial cell,MAPK6,1.089109,9.872922776148584
+heart,Fibroblast,MAPK6,1.1240395,9.809411004630128
+breast,Epithelial cell,MAPK6,1.1201414,9.760303500603552
+skin,Muscle,MAPK6,1.1666666,9.67741935483871
+esophagusmucosa,Endothelial cell,MAPK6,1.1327434,9.662248824283882
+skeletalmuscle,Adipocyte,MAPK6,1.0,9.433962264150944
+skin,Immune (lymphocyte),MAPK6,1.1428572,9.333333333333334
+skin,Melanocyte,MAPK6,1.12,9.191176470588236
+prostate,Glia,MAPK6,1.0,8.955223880597014
+breast,Adipocyte,MAPK6,1.0636942,8.915388983532084
+esophagusmuscularis,Fibroblast,MAPK6,1.0887641,8.550293015659525
+esophagusmuscularis,Endothelial cell,MAPK6,1.0981432,8.451019950683705
+skeletalmuscle,Fibroblast,MAPK6,1.0858283,8.428667563930013
+esophagusmucosa,Immune (myeloid),MAPK6,1.0603448,8.297567954220316
+esophagusmuscularis,Glia,MAPK6,1.125,8.24742268041237
+esophagusmuscularis,Immune (myeloid),MAPK6,1.1516393,8.234897063786702
+prostate,Endothelial cell,MAPK6,1.0652174,8.138711960368012
+esophagusmucosa,Immune (lymphocyte),MAPK6,1.1360544,8.085808580858085
+esophagusmucosa,Fibroblast,MAPK6,1.1371682,8.02841918294849
+lung,Muscle,MAPK6,1.0,7.975460122699387
+prostate,Muscle,MAPK6,1.2146893,7.891217119928667
+skin,Fibroblast,MAPK6,1.097561,7.750472589792061
+breast,Fibroblast,MAPK6,1.1746032,7.6923076923076925
+breast,Endothelial cell,MAPK6,1.1044776,7.604994324631101
+heart,Immune (myeloid),MAPK6,1.0875,7.501172058134084
+heart,Endothelial cell,MAPK6,1.0805604,7.478716437459069
+esophagusmucosa,Muscle,MAPK6,1.081081,7.385229540918163
+skeletalmuscle,Endothelial cell,MAPK6,1.0520834,7.212622088655146
+prostate,Fibroblast,MAPK6,1.0617284,7.092819614711034
+heart,Glia,MAPK6,1.0952381,7.046979865771812
+breast,Immune (myeloid),MAPK6,1.125,6.70391061452514
+lung,Immune (lymphocyte),MAPK6,1.125,6.620689655172414
+esophagusmuscularis,Muscle,MAPK6,1.0712106,6.611070011433183
+esophagusmucosa,Glia,MAPK6,1.0,6.153846153846154
+prostate,Immune (lymphocyte),MAPK6,1.15,5.865102639296188
+skin,Immune (myeloid),MAPK6,1.0,5.58659217877095
+breast,Muscle,MAPK6,1.375,5.263157894736842
+skeletalmuscle,Immune (lymphocyte),MAPK6,1.0,5.0
+skeletalmuscle,Immune (myeloid),MAPK6,1.1111112,4.884667571234735
+heart,Immune (lymphocyte),MAPK6,1.0294118,4.871060171919771
+esophagusmuscularis,Immune (lymphocyte),MAPK6,1.0714285,4.651162790697675
+skeletalmuscle,Glia,MAPK6,0.0,0.0

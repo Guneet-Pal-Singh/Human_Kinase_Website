@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+lung,Epithelial cell,AK7,1.1660701,5.80269989615784
+lung,Immune (myeloid),AK7,1.0319635,3.590752582390556
+skin,Epithelial cell (keratinocyte),AK7,1.1666666,3.389830508474576
+lung,Endothelial cell,AK7,1.0235294,3.095411507647487
+esophagusmuscularis,Adipocyte,AK7,1.0,2.2857142857142856
+skin,Endothelial cell,AK7,1.0476191,2.0527859237536656
+skin,Epithelial cell,AK7,1.0,1.9933554817275747
+lung,Muscle,AK7,1.0,1.8404907975460123
+skin,Other,AK7,1.0,1.7699115044247788
+lung,Fibroblast,AK7,1.0416666,1.6260162601626018
+heart,Muscle,AK7,1.0102564,1.6163793103448276
+prostate,Epithelial cell,AK7,1.0298103,1.599271876218957
+prostate,Glia,AK7,1.0,1.4925373134328357
+skin,Melanocyte,AK7,1.0,1.4705882352941175
+breast,Endothelial cell,AK7,1.0,1.362088535754824
+prostate,Endothelial cell,AK7,1.0526316,1.3446567586694975
+skin,Immune (lymphocyte),AK7,1.0,1.3333333333333337
+esophagusmucosa,Stromal,AK7,1.0,1.314459049544995
+skeletalmuscle,Muscle,AK7,1.0137931,1.2848345221744717
+esophagusmuscularis,Endothelial cell,AK7,1.0175439,1.277740416946873
+esophagusmucosa,Epithelial cell,AK7,1.0295858,1.2249927515221803
+esophagusmucosa,Endothelial cell,AK7,1.0535715,1.1970927746900384
+esophagusmuscularis,Glia,AK7,1.0,1.134020618556701
+breast,Immune (myeloid),AK7,1.0,1.11731843575419
+lung,Immune (lymphocyte),AK7,1.0,1.103448275862069
+breast,Fibroblast,AK7,1.0,1.098901098901099
+skin,Muscle,AK7,1.0,1.0752688172043012
+breast,Epithelial cell,AK7,1.0491803,1.0519055009484393
+skeletalmuscle,Endothelial cell,AK7,1.0714285,1.051840721262209
+heart,Adipocyte,AK7,1.0,1.0362694300518136
+esophagusmuscularis,Muscle,AK7,1.0208334,0.9684578653574551
+skeletalmuscle,Fibroblast,AK7,1.0196079,0.8580080753701211
+heart,Endothelial cell,AK7,1.0,0.8513425016371972
+esophagusmuscularis,Fibroblast,AK7,1.0,0.8358151599577288
+esophagusmucosa,Muscle,AK7,1.0,0.7984031936127743
+prostate,Immune (lymphocyte),AK7,1.0,0.7331378299120235
+heart,Fibroblast,AK7,1.0151515,0.7106708301927426
+breast,Adipocyte,AK7,1.0,0.6814310051107325
+prostate,Muscle,AK7,1.0666667,0.6687472135532769
+breast,Muscle,AK7,1.0,0.6578947368421052
+skeletalmuscle,Adipocyte,AK7,1.0,0.628930817610063
+prostate,Immune (myeloid),AK7,1.0,0.5836575875486382
+heart,Immune (lymphocyte),AK7,1.0,0.5730659025787965
+esophagusmucosa,Immune (myeloid),AK7,1.0,0.5722460658082975
+skin,Fibroblast,AK7,1.0,0.5671077504725899
+skeletalmuscle,Immune (myeloid),AK7,1.0,0.5427408412483039
+esophagusmuscularis,Immune (myeloid),AK7,1.0,0.5399932500843739
+heart,Immune (myeloid),AK7,1.0,0.4844506954211595
+esophagusmucosa,Fibroblast,AK7,1.0,0.3552397868561279
+heart,Glia,AK7,1.0,0.3355704697986577
+prostate,Fibroblast,AK7,1.0,0.2626970227670753
+esophagusmucosa,Immune (lymphocyte),AK7,1.0,0.11001100110011
+esophagusmuscularis,Neuron,AK7,0.0,0.0
+esophagusmucosa,Glia,AK7,0.0,0.0
+esophagusmuscularis,Immune (lymphocyte),AK7,0.0,0.0
+skin,Adipocyte,AK7,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),AK7,0.0,0.0
+skeletalmuscle,Glia,AK7,0.0,0.0
+skin,Immune (myeloid),AK7,0.0,0.0

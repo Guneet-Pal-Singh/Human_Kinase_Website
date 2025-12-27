@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+prostate,Immune (lymphocyte),STK4,1.6465969,56.01173020527859
+skeletalmuscle,Immune (lymphocyte),STK4,1.7321428,56.00000000000001
+skin,Immune (lymphocyte),STK4,1.5625,42.66666666666667
+heart,Immune (lymphocyte),STK4,1.3525424,42.26361031518625
+esophagusmuscularis,Immune (lymphocyte),STK4,1.4504504,36.87707641196013
+lung,Immune (lymphocyte),STK4,1.2905983,32.27586206896552
+esophagusmucosa,Immune (lymphocyte),STK4,1.2786325,32.17821782178218
+esophagusmucosa,Immune (myeloid),STK4,1.5473684,27.181688125894134
+prostate,Immune (myeloid),STK4,1.3405797,26.848249027237355
+skeletalmuscle,Immune (myeloid),STK4,1.2741935,25.237449118046136
+heart,Immune (myeloid),STK4,1.2245295,24.08188779496796
+skin,Immune (myeloid),STK4,1.2,22.3463687150838
+esophagusmuscularis,Immune (myeloid),STK4,1.2223903,22.308471144110698
+lung,Immune (myeloid),STK4,1.2738557,21.13461223151337
+heart,Adipocyte,STK4,1.28,12.953367875647666
+breast,Immune (myeloid),STK4,1.2045455,12.290502793296088
+esophagusmuscularis,Neuron,STK4,1.6666666,12.0
+esophagusmuscularis,Adipocyte,STK4,1.2857143,12.0
+lung,Endothelial cell,STK4,1.113924,11.507647487254188
+esophagusmucosa,Stromal,STK4,1.2232143,11.324570273003031
+prostate,Epithelial cell,STK4,1.1486539,11.108221731027609
+esophagusmucosa,Epithelial cell,STK4,1.1542553,10.90171064076544
+heart,Muscle,STK4,1.1617874,10.759283819628648
+heart,Fibroblast,STK4,1.1027397,9.432540109830946
+esophagusmucosa,Endothelial cell,STK4,1.1229315,9.04232578024797
+prostate,Muscle,STK4,1.1909548,8.872046366473473
+prostate,Endothelial cell,STK4,1.125,8.775654635527246
+esophagusmuscularis,Muscle,STK4,1.1166023,8.709395386374336
+prostate,Fibroblast,STK4,1.113402,8.493870402802102
+heart,Endothelial cell,STK4,1.1045241,8.39554682383759
+esophagusmuscularis,Endothelial cell,STK4,1.1111112,8.069939475453934
+esophagusmuscularis,Glia,STK4,1.0769231,8.041237113402062
+esophagusmucosa,Glia,STK4,1.0,7.6923076923076925
+skin,Other,STK4,1.1764706,7.52212389380531
+esophagusmuscularis,Fibroblast,STK4,1.065703,7.310980881929099
+breast,Muscle,STK4,1.0909091,7.236842105263158
+skin,Epithelial cell (keratinocyte),STK4,1.1449275,7.0878274268104775
+skeletalmuscle,Fibroblast,STK4,1.0726392,6.9481830417227455
+esophagusmucosa,Muscle,STK4,1.0588236,6.786427145708583
+heart,Glia,STK4,1.15,6.711409395973154
+skeletalmuscle,Endothelial cell,STK4,1.0786517,6.686701728024041
+lung,Epithelial cell,STK4,1.079177,6.66251298026999
+esophagusmucosa,Fibroblast,STK4,1.1111112,6.074600355239787
+skin,Epithelial cell,STK4,1.8333334,5.980066445182724
+prostate,Glia,STK4,1.25,5.970149253731343
+skin,Melanocyte,STK4,1.1333333,5.514705882352941
+breast,Epithelial cell,STK4,1.0645162,5.34574926711502
+breast,Endothelial cell,STK4,1.0888889,5.10783200908059
+skeletalmuscle,Adipocyte,STK4,1.125,5.031446540880504
+breast,Fibroblast,STK4,1.0731708,5.006105006105006
+lung,Muscle,STK4,1.125,4.9079754601227
+lung,Fibroblast,STK4,1.0416666,4.878048780487805
+skin,Endothelial cell,STK4,1.1363636,4.301075268817205
+skeletalmuscle,Muscle,STK4,1.0612245,3.9076691329582207
+skin,Muscle,STK4,1.0,3.225806451612903
+skin,Adipocyte,STK4,1.0,3.225806451612903
+skeletalmuscle,Glia,STK4,1.0,2.857142857142857
+breast,Adipocyte,STK4,1.02,2.839295854628052
+skin,Fibroblast,STK4,1.25,2.2684310018903595

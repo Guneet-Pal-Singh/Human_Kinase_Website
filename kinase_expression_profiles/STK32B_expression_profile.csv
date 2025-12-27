@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Endothelial cell (lymphatic),STK32B,0.936584
+Fibroblast,STK32B,0.17682143
+Epithelial cell (cornified keratinocyte),STK32B,0.13725494
+Immune (alveolar macrophage),STK32B,0.13330059
+Immune (DC/macrophage),STK32B,0.13090153
+Melanocyte,STK32B,0.12983766
+Epithelial cell (ciliated),STK32B,0.11817006
+Endothelial cell (vascular),STK32B,0.11222266
+Neuronal,STK32B,0.10370897
+Myofibroblast,STK32B,0.1022519
+Myoepithelial (basal),STK32B,0.10007406
+Immune (DC),STK32B,0.098264575
+Myocyte (NMJ-rich),STK32B,0.09532442
+Epithelial cell (alveolar type I),STK32B,0.090424374
+Epithelial cell (alveolar type II),STK32B,0.09042163
+Epithelial cell (luminal),STK32B,0.09027252
+Immune (Langerhans),STK32B,0.08539076
+Schwann cell,STK32B,0.07855412
+Sweat gland cell,STK32B,0.07497978
+ICCs,STK32B,0.069419935
+Epithelial cell (Hillock),STK32B,0.0656002
+Myocyte (smooth muscle),STK32B,0.059107427
+Immune (mast cell),STK32B,0.057536177
+Epithelial cell (club),STK32B,0.05461558
+Epithelial cell (basal keratinocyte),STK32B,0.054267623
+Pericyte/SMC,STK32B,0.046822093
+Satellite cell,STK32B,0.042445082
+Myocyte (cardiac),STK32B,0.03803549
+Immune (T cell),STK32B,0.038001318
+Epithelial cell (basal),STK32B,0.03661902
+Adipocyte,STK32B,0.036414277
+Myocyte (sk. muscle),STK32B,0.029153073
+Epithelial cell (squamous),STK32B,0.028611109
+Immune (NK cell),STK32B,0.02409283
+Mucous cell,STK32B,0.018523663
+"Myocyte (sk. muscle, cytoplasmic)",STK32B,0.0147623615
+Epithelial cell (suprabasal),STK32B,0.014708397
+"Myocyte (cardiac, cytoplasmic)",STK32B,0.011286641
+Immune (B cell),STK32B,0.010570105
+Sebaceous gland cell,STK32B,0.00426848
+Epithelial cell (mature keratinocyte),STK32B,0.0
+Epithelial cell (suprabasal keratinocyte),STK32B,0.0
+Neuroendocrine,STK32B,0.0

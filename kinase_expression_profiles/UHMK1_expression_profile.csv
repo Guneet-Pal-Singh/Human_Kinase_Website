@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (NK cell),UHMK1,0.28409192
+Epithelial cell (Hillock),UHMK1,0.27097535
+Adipocyte,UHMK1,0.26462916
+Mucous cell,UHMK1,0.25593463
+Immune (DC),UHMK1,0.25451484
+Neuronal,UHMK1,0.23862049
+Epithelial cell (luminal),UHMK1,0.2370245
+Immune (B cell),UHMK1,0.23512855
+Epithelial cell (club),UHMK1,0.22907035
+Epithelial cell (squamous),UHMK1,0.22768483
+Immune (alveolar macrophage),UHMK1,0.22170599
+"Myocyte (sk. muscle, cytoplasmic)",UHMK1,0.2165567
+Myofibroblast,UHMK1,0.21092515
+ICCs,UHMK1,0.20897776
+Epithelial cell (suprabasal),UHMK1,0.20723198
+Epithelial cell (suprabasal keratinocyte),UHMK1,0.19866326
+Myocyte (sk. muscle),UHMK1,0.19376506
+Neuroendocrine,UHMK1,0.1918594
+Immune (T cell),UHMK1,0.17940937
+Myocyte (cardiac),UHMK1,0.17803518
+Immune (DC/macrophage),UHMK1,0.17340921
+Epithelial cell (basal),UHMK1,0.17149813
+Epithelial cell (basal keratinocyte),UHMK1,0.16577801
+Epithelial cell (cornified keratinocyte),UHMK1,0.16556153
+Myocyte (NMJ-rich),UHMK1,0.16453733
+Endothelial cell (vascular),UHMK1,0.16320235
+Endothelial cell (lymphatic),UHMK1,0.15693976
+"Myocyte (cardiac, cytoplasmic)",UHMK1,0.15355699
+Myocyte (smooth muscle),UHMK1,0.15204805
+Epithelial cell (ciliated),UHMK1,0.15183413
+Sweat gland cell,UHMK1,0.14733398
+Immune (mast cell),UHMK1,0.14192206
+Fibroblast,UHMK1,0.13993974
+Epithelial cell (alveolar type I),UHMK1,0.13870817
+Epithelial cell (alveolar type II),UHMK1,0.13737363
+Pericyte/SMC,UHMK1,0.11932697
+Schwann cell,UHMK1,0.10063892
+Immune (Langerhans),UHMK1,0.0990959
+Satellite cell,UHMK1,0.097981624
+Sebaceous gland cell,UHMK1,0.09336711
+Melanocyte,UHMK1,0.0918008
+Myoepithelial (basal),UHMK1,0.07868181
+Epithelial cell (mature keratinocyte),UHMK1,0.07335267

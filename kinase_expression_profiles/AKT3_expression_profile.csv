@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Endothelial cell (vascular),AKT3,1.519199
+Neuroendocrine,AKT3,1.4469033
+Satellite cell,AKT3,1.4351002
+Fibroblast,AKT3,1.4210516
+Pericyte/SMC,AKT3,1.3565573
+Schwann cell,AKT3,1.3544356
+Neuronal,AKT3,1.3516731
+Immune (T cell),AKT3,1.3261672
+Myofibroblast,AKT3,1.2497027
+Endothelial cell (lymphatic),AKT3,1.2401086
+Melanocyte,AKT3,1.1922877
+Immune (B cell),AKT3,1.1549948
+ICCs,AKT3,1.1113276
+Immune (NK cell),AKT3,1.0180684
+Immune (alveolar macrophage),AKT3,1.0073366
+Myocyte (NMJ-rich),AKT3,0.99600154
+Myocyte (smooth muscle),AKT3,0.98019767
+Immune (mast cell),AKT3,0.9348274
+Myoepithelial (basal),AKT3,0.9283957
+Immune (Langerhans),AKT3,0.8779377
+Immune (DC),AKT3,0.8654892
+Epithelial cell (club),AKT3,0.8065755
+Epithelial cell (luminal),AKT3,0.7579289
+Epithelial cell (basal),AKT3,0.7123253
+Immune (DC/macrophage),AKT3,0.7088111
+Epithelial cell (Hillock),AKT3,0.55196273
+Epithelial cell (alveolar type I),AKT3,0.51756835
+Myocyte (sk. muscle),AKT3,0.42695355
+Epithelial cell (alveolar type II),AKT3,0.40118644
+Epithelial cell (ciliated),AKT3,0.38254252
+Myocyte (cardiac),AKT3,0.33926108
+"Myocyte (cardiac, cytoplasmic)",AKT3,0.33348706
+"Myocyte (sk. muscle, cytoplasmic)",AKT3,0.33344707
+Adipocyte,AKT3,0.27808982
+Mucous cell,AKT3,0.271788
+Sweat gland cell,AKT3,0.1669173
+Epithelial cell (squamous),AKT3,0.14782366
+Epithelial cell (suprabasal),AKT3,0.099890165
+Epithelial cell (cornified keratinocyte),AKT3,0.060383584
+Epithelial cell (basal keratinocyte),AKT3,0.034086455
+Sebaceous gland cell,AKT3,0.019293278
+Epithelial cell (suprabasal keratinocyte),AKT3,0.007790552
+Epithelial cell (mature keratinocyte),AKT3,0.0

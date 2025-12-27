@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skin,Melanocyte,ACVR2B,1.0909091,4.044117647058823
+esophagusmuscularis,Neuron,ACVR2B,2.0,4.0
+heart,Adipocyte,ACVR2B,1.0,3.1088082901554404
+skin,Immune (myeloid),ACVR2B,1.0,2.793296089385475
+esophagusmucosa,Stromal,ACVR2B,1.0,2.527805864509605
+skin,Epithelial cell,ACVR2B,1.0666667,2.491694352159469
+prostate,Muscle,ACVR2B,1.0363636,2.452073116362015
+prostate,Epithelial cell,ACVR2B,1.0470163,2.3967407792658086
+heart,Muscle,ACVR2B,1.0415225,2.3955570291777186
+esophagusmucosa,Muscle,ACVR2B,1.0,2.395209580838324
+skin,Endothelial cell,ACVR2B,1.0434783,2.248289345063539
+skin,Muscle,ACVR2B,1.0,2.1505376344086025
+prostate,Endothelial cell,ACVR2B,1.0181818,1.9462137296532205
+lung,Epithelial cell,ACVR2B,1.0348837,1.7860851505711317
+esophagusmuscularis,Adipocyte,ACVR2B,1.0,1.7142857142857144
+esophagusmucosa,Endothelial cell,ACVR2B,1.0375,1.7101325352714838
+prostate,Immune (myeloid),ACVR2B,1.0,1.6536964980544748
+breast,Endothelial cell,ACVR2B,1.0714285,1.5891032917139614
+heart,Endothelial cell,ACVR2B,1.017094,1.5324165029469548
+prostate,Glia,ACVR2B,1.0,1.4925373134328357
+esophagusmucosa,Epithelial cell,ACVR2B,1.035533,1.4279501304726008
+heart,Fibroblast,ACVR2B,1.0152671,1.41057392053408
+lung,Immune (myeloid),ACVR2B,1.0348837,1.4100672241351042
+prostate,Fibroblast,ACVR2B,1.0,1.4010507880910683
+skin,Other,ACVR2B,1.0,1.327433628318584
+breast,Muscle,ACVR2B,1.0,1.3157894736842104
+breast,Epithelial cell,ACVR2B,1.0675676,1.2760820831177788
+lung,Muscle,ACVR2B,1.0,1.2269938650306749
+skeletalmuscle,Immune (myeloid),ACVR2B,1.0,1.2211668928086838
+esophagusmuscularis,Endothelial cell,ACVR2B,1.0,1.031158932974669
+esophagusmuscularis,Glia,ACVR2B,1.0,1.0309278350515465
+lung,Fibroblast,ACVR2B,1.0,1.016260162601626
+heart,Immune (myeloid),ACVR2B,1.032258,0.9689013908423192
+esophagusmucosa,Fibroblast,ACVR2B,1.0,0.9591474245115452
+esophagusmuscularis,Muscle,ACVR2B,1.0075188,0.8944784450870941
+breast,Immune (myeloid),ACVR2B,1.0,0.8379888268156425
+lung,Immune (lymphocyte),ACVR2B,1.0,0.8275862068965517
+skeletalmuscle,Endothelial cell,ACVR2B,1.0,0.8264462809917356
+skeletalmuscle,Fibroblast,ACVR2B,1.0,0.7907133243607
+esophagusmucosa,Immune (myeloid),ACVR2B,1.0909091,0.7868383404864091
+esophagusmuscularis,Immune (myeloid),ACVR2B,1.0,0.7762402969962876
+skeletalmuscle,Muscle,ACVR2B,1.0192307,0.6911523636524745
+skin,Epithelial cell (keratinocyte),ACVR2B,1.0,0.667693888032871
+prostate,Immune (lymphocyte),ACVR2B,1.0,0.5865102639296188
+lung,Endothelial cell,ACVR2B,1.0,0.5826656955571741
+heart,Immune (lymphocyte),ACVR2B,1.25,0.5730659025787965
+esophagusmuscularis,Fibroblast,ACVR2B,1.0338984,0.5668171774425977
+esophagusmucosa,Immune (lymphocyte),ACVR2B,1.0,0.495049504950495
+breast,Adipocyte,ACVR2B,1.1428572,0.3975014196479273
+skin,Fibroblast,ACVR2B,1.0,0.3780718336483932
+breast,Fibroblast,ACVR2B,1.0,0.3663003663003663
+heart,Glia,ACVR2B,1.0,0.3355704697986577
+esophagusmuscularis,Immune (lymphocyte),ACVR2B,1.0,0.3322259136212624
+esophagusmucosa,Glia,ACVR2B,0.0,0.0
+skeletalmuscle,Adipocyte,ACVR2B,0.0,0.0
+skin,Adipocyte,ACVR2B,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),ACVR2B,0.0,0.0
+skeletalmuscle,Glia,ACVR2B,0.0,0.0
+skin,Immune (lymphocyte),ACVR2B,0.0,0.0

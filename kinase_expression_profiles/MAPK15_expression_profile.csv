@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (ciliated),MAPK15,0.88439554
+Myoepithelial (basal),MAPK15,0.108373225
+Epithelial cell (alveolar type I),MAPK15,0.058987904
+Immune (Langerhans),MAPK15,0.040927958
+Epithelial cell (suprabasal keratinocyte),MAPK15,0.03859854
+Sebaceous gland cell,MAPK15,0.030296516
+Melanocyte,MAPK15,0.03017475
+Epithelial cell (mature keratinocyte),MAPK15,0.021336354
+Mucous cell,MAPK15,0.018474422
+Epithelial cell (luminal),MAPK15,0.016124083
+Myofibroblast,MAPK15,0.014222796
+Epithelial cell (club),MAPK15,0.010647101
+Schwann cell,MAPK15,0.010020772
+Satellite cell,MAPK15,0.009152886
+Epithelial cell (basal keratinocyte),MAPK15,0.009089995
+Epithelial cell (alveolar type II),MAPK15,0.007320412
+Immune (NK cell),MAPK15,0.006967022
+Epithelial cell (basal),MAPK15,0.006423163
+Immune (alveolar macrophage),MAPK15,0.0055238134
+Fibroblast,MAPK15,0.0042201234
+Endothelial cell (lymphatic),MAPK15,0.0029427158
+Adipocyte,MAPK15,0.0017967873
+Immune (DC/macrophage),MAPK15,0.0016466537
+Immune (T cell),MAPK15,0.001260426
+Epithelial cell (suprabasal),MAPK15,0.0012526936
+Endothelial cell (vascular),MAPK15,0.001217811
+Epithelial cell (squamous),MAPK15,0.0011696956
+"Myocyte (cardiac, cytoplasmic)",MAPK15,0.0009339074
+Pericyte/SMC,MAPK15,0.00084710977
+Myocyte (smooth muscle),MAPK15,0.0006504637
+Epithelial cell (Hillock),MAPK15,0.0
+Epithelial cell (cornified keratinocyte),MAPK15,0.0
+Immune (DC),MAPK15,0.0
+ICCs,MAPK15,0.0
+Immune (B cell),MAPK15,0.0
+Immune (mast cell),MAPK15,0.0
+"Myocyte (sk. muscle, cytoplasmic)",MAPK15,0.0
+Myocyte (NMJ-rich),MAPK15,0.0
+Myocyte (cardiac),MAPK15,0.0
+Myocyte (sk. muscle),MAPK15,0.0
+Neuroendocrine,MAPK15,0.0
+Neuronal,MAPK15,0.0
+Sweat gland cell,MAPK15,0.0

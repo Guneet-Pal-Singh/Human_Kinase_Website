@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Adipocyte,UHMK1,1.3333334,12.0
+esophagusmuscularis,Neuron,UHMK1,1.0,12.0
+skin,Other,UHMK1,1.0625,10.619469026548671
+prostate,Epithelial cell,UHMK1,1.1699914,9.994365708837169
+prostate,Immune (myeloid),UHMK1,1.1313131,9.63035019455253
+breast,Adipocyte,UHMK1,1.0679013,9.19931856899489
+esophagusmucosa,Stromal,UHMK1,1.1149426,8.796764408493427
+lung,Immune (myeloid),UHMK1,1.1257254,8.476799475323823
+prostate,Endothelial cell,UHMK1,1.0756303,8.421797593772116
+heart,Muscle,UHMK1,1.1361829,8.338859416445624
+esophagusmucosa,Epithelial cell,UHMK1,1.1806332,7.784865178312554
+heart,Adipocyte,UHMK1,1.2,7.772020725388601
+skeletalmuscle,Adipocyte,UHMK1,1.1818181,6.918238993710692
+prostate,Muscle,UHMK1,1.1266667,6.687472135532769
+esophagusmuscularis,Immune (lymphocyte),UHMK1,1.0,6.64451827242525
+skin,Adipocyte,UHMK1,1.0,6.451612903225806
+prostate,Immune (lymphocyte),UHMK1,1.0952381,6.158357771260997
+heart,Immune (lymphocyte),UHMK1,1.0238096,6.017191977077363
+esophagusmucosa,Immune (myeloid),UHMK1,1.1219512,5.865522174535051
+skeletalmuscle,Muscle,UHMK1,1.119084,5.803907669132958
+skin,Immune (myeloid),UHMK1,1.1,5.58659217877095
+skin,Endothelial cell,UHMK1,1.0363636,5.376344086021505
+skin,Immune (lymphocyte),UHMK1,1.0,5.333333333333334
+heart,Endothelial cell,UHMK1,1.0595534,5.278323510150622
+breast,Muscle,UHMK1,1.125,5.263157894736842
+esophagusmucosa,Endothelial cell,UHMK1,1.1065574,5.2159042325780245
+prostate,Fibroblast,UHMK1,1.0338984,5.166374781085814
+lung,Fibroblast,UHMK1,1.0,5.149051490514905
+esophagusmucosa,Fibroblast,UHMK1,1.034965,5.079928952042629
+skin,Epithelial cell (keratinocyte),UHMK1,1.1224489,5.033384694401644
+esophagusmuscularis,Muscle,UHMK1,1.0739248,5.003698971013519
+heart,Immune (myeloid),UHMK1,1.0385852,4.860134395999375
+lung,Epithelial cell,UHMK1,1.06929,4.855659397715472
+esophagusmucosa,Immune (lymphocyte),UHMK1,1.045977,4.785478547854786
+heart,Fibroblast,UHMK1,1.0495496,4.780876494023905
+esophagusmuscularis,Immune (myeloid),UHMK1,1.0714285,4.724940938238272
+esophagusmuscularis,Endothelial cell,UHMK1,1.0634147,4.595382201300157
+prostate,Glia,UHMK1,1.0,4.477611940298507
+skin,Epithelial cell,UHMK1,1.1153846,4.318936877076411
+lung,Immune (lymphocyte),UHMK1,1.0344827,4.0
+skeletalmuscle,Fibroblast,UHMK1,1.0470085,3.936742934051144
+skeletalmuscle,Endothelial cell,UHMK1,1.0384616,3.9068369646882046
+esophagusmucosa,Muscle,UHMK1,1.0,3.792415169660679
+esophagusmuscularis,Fibroblast,UHMK1,1.0253807,3.78518589682006
+skeletalmuscle,Immune (myeloid),UHMK1,1.037037,3.6635006784260513
+breast,Endothelial cell,UHMK1,1.0,3.5187287173666286
+esophagusmucosa,Glia,UHMK1,1.5,3.076923076923077
+breast,Fibroblast,UHMK1,1.0,3.0525030525030523
+heart,Glia,UHMK1,1.0,3.02013422818792
+skin,Melanocyte,UHMK1,1.0,2.941176470588235
+breast,Epithelial cell,UHMK1,1.0787879,2.845318158303156
+lung,Endothelial cell,UHMK1,1.027027,2.69482884195193
+esophagusmuscularis,Glia,UHMK1,1.1538461,2.6804123711340204
+lung,Muscle,UHMK1,1.0,2.4539877300613497
+skin,Fibroblast,UHMK1,1.0,2.2684310018903595
+breast,Immune (myeloid),UHMK1,1.0,2.23463687150838
+skin,Muscle,UHMK1,1.25,2.1505376344086025
+skeletalmuscle,Immune (lymphocyte),UHMK1,1.0,2.0
+skeletalmuscle,Glia,UHMK1,0.0,0.0

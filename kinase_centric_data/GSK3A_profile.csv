@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skin,Adipocyte,GSK3A,1.0,4.838709677419355
+esophagusmuscularis,Neuron,GSK3A,1.0,4.0
+prostate,Muscle,GSK3A,1.0123457,3.611234953187695
+skin,Other,GSK3A,1.1875,3.5398230088495577
+esophagusmucosa,Stromal,GSK3A,1.0,3.5389282103134483
+prostate,Epithelial cell,GSK3A,1.0598639,3.185541542062151
+esophagusmucosa,Glia,GSK3A,1.0,3.076923076923077
+prostate,Glia,GSK3A,1.0,2.985074626865672
+skin,Immune (lymphocyte),GSK3A,1.0,2.666666666666667
+prostate,Fibroblast,GSK3A,1.0666667,2.626970227670753
+prostate,Immune (myeloid),GSK3A,1.0,2.529182879377432
+skeletalmuscle,Adipocyte,GSK3A,1.0,2.515723270440252
+lung,Muscle,GSK3A,1.0,2.4539877300613497
+esophagusmucosa,Epithelial cell,GSK3A,1.0318471,2.276022035372572
+esophagusmuscularis,Muscle,GSK3A,1.0472972,1.9907189454569911
+prostate,Endothelial cell,GSK3A,1.0178572,1.9815994338287333
+skin,Epithelial cell (keratinocyte),GSK3A,1.0571429,1.7976373908577297
+esophagusmucosa,Muscle,GSK3A,1.0,1.7964071856287425
+lung,Immune (myeloid),GSK3A,1.0204082,1.6068207902934908
+heart,Immune (lymphocyte),GSK3A,1.0,1.5759312320916905
+esophagusmucosa,Immune (myeloid),GSK3A,1.0,1.430615164520744
+heart,Muscle,GSK3A,1.0178572,1.3925729442970822
+esophagusmucosa,Endothelial cell,GSK3A,1.03125,1.3681060282171869
+breast,Endothelial cell,GSK3A,1.0,1.2485811577752552
+skin,Melanocyte,GSK3A,1.0,1.1029411764705883
+esophagusmucosa,Fibroblast,GSK3A,1.032258,1.1012433392539964
+heart,Fibroblast,GSK3A,1.0,1.0983094648433294
+skeletalmuscle,Fibroblast,GSK3A,1.0,1.0935397039030954
+heart,Adipocyte,GSK3A,1.0,1.0362694300518136
+heart,Endothelial cell,GSK3A,1.0379747,1.0347085789129011
+esophagusmuscularis,Glia,GSK3A,1.1,1.0309278350515465
+heart,Glia,GSK3A,1.0,1.006711409395973
+skeletalmuscle,Immune (lymphocyte),GSK3A,1.0,1.0
+esophagusmuscularis,Immune (lymphocyte),GSK3A,1.0,0.9966777408637874
+breast,Epithelial cell,GSK3A,1.0892857,0.9656837385756164
+heart,Immune (myeloid),GSK3A,1.0,0.9063916236912016
+skin,Endothelial cell,GSK3A,1.0,0.8797653958944283
+esophagusmuscularis,Endothelial cell,GSK3A,1.0571429,0.7845774490024657
+esophagusmuscularis,Fibroblast,GSK3A,1.0128205,0.7493515227207225
+prostate,Immune (lymphocyte),GSK3A,1.0,0.7331378299120235
+esophagusmucosa,Immune (lymphocyte),GSK3A,1.0,0.7150715071507151
+breast,Adipocyte,GSK3A,1.0,0.6814310051107325
+esophagusmuscularis,Immune (myeloid),GSK3A,1.0,0.6749915626054674
+breast,Fibroblast,GSK3A,1.0,0.6105006105006106
+skeletalmuscle,Immune (myeloid),GSK3A,1.0,0.5427408412483039
+skin,Muscle,GSK3A,1.0,0.5376344086021506
+lung,Epithelial cell,GSK3A,1.016,0.5192107995846313
+skin,Epithelial cell,GSK3A,1.3333334,0.4983388704318937
+skeletalmuscle,Endothelial cell,GSK3A,1.0,0.4507888805409466
+lung,Endothelial cell,GSK3A,1.0,0.4369992716678805
+breast,Immune (myeloid),GSK3A,1.0,0.2793296089385474
+lung,Immune (lymphocyte),GSK3A,1.0,0.2758620689655172
+skeletalmuscle,Muscle,GSK3A,1.0,0.2259536573479243
+skin,Fibroblast,GSK3A,1.0,0.1890359168241966
+lung,Fibroblast,GSK3A,1.0,0.1355013550135501
+esophagusmuscularis,Adipocyte,GSK3A,0.0,0.0
+breast,Muscle,GSK3A,0.0,0.0
+skeletalmuscle,Glia,GSK3A,0.0,0.0
+skin,Immune (myeloid),GSK3A,0.0,0.0

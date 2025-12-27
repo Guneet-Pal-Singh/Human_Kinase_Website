@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+lung,Epithelial cell,ERBB4,4.018918,65.64901349948079
+heart,Muscle,ERBB4,5.9497404,54.2606100795756
+esophagusmuscularis,Neuron,ERBB4,5.230769,52.0
+breast,Epithelial cell,ERBB4,5.6998,51.69856871874461
+skin,Epithelial cell,ERBB4,2.8439023,34.053156146179404
+skeletalmuscle,Muscle,ERBB4,1.4774512,24.265650613619247
+prostate,Epithelial cell,ERBB4,1.7979114,22.41147661769168
+skeletalmuscle,Glia,ERBB4,1.3333334,17.142857142857142
+lung,Muscle,ERBB4,2.44,15.337423312883436
+breast,Adipocyte,ERBB4,1.6951673,15.27541169789892
+esophagusmucosa,Muscle,ERBB4,1.7272727,13.17365269461078
+esophagusmuscularis,Adipocyte,ERBB4,1.4782609,13.142857142857142
+prostate,Muscle,ERBB4,1.744898,13.107445385644226
+skin,Muscle,ERBB4,1.4285715,11.29032258064516
+esophagusmuscularis,Endothelial cell,ERBB4,1.4170306,10.266756332660838
+lung,Immune (myeloid),ERBB4,1.5,9.804886046892932
+skeletalmuscle,Endothelial cell,ERBB4,1.3495935,9.241172051089409
+esophagusmuscularis,Glia,ERBB4,1.1875,8.24742268041237
+prostate,Glia,ERBB4,1.0,7.462686567164178
+breast,Immune (myeloid),ERBB4,3.6,6.983240223463687
+breast,Muscle,ERBB4,4.0,6.578947368421052
+heart,Adipocyte,ERBB4,2.5833333,6.217616580310881
+prostate,Endothelial cell,ERBB4,1.4425287,6.157112526539279
+esophagusmucosa,Epithelial cell,ERBB4,1.6444708,6.09596984633227
+esophagusmuscularis,Muscle,ERBB4,1.1276102,5.79729638845921
+esophagusmucosa,Stromal,ERBB4,1.3684211,5.763397371081901
+skeletalmuscle,Adipocyte,ERBB4,1.0,5.660377358490567
+skin,Epithelial cell (keratinocyte),ERBB4,1.1909091,5.649717514124294
+breast,Endothelial cell,ERBB4,2.6222222,5.10783200908059
+esophagusmucosa,Endothelial cell,ERBB4,1.2268908,5.087644292432664
+skeletalmuscle,Fibroblast,ERBB4,1.1208054,5.013458950201884
+skin,Melanocyte,ERBB4,1.0,4.779411764705882
+lung,Endothelial cell,ERBB4,1.468254,4.588492352512746
+prostate,Fibroblast,ERBB4,1.1960784,4.46584938704028
+lung,Fibroblast,ERBB4,1.0923077,4.403794037940379
+heart,Glia,ERBB4,1.0,4.026845637583892
+skin,Immune (myeloid),ERBB4,1.0,3.910614525139665
+esophagusmuscularis,Fibroblast,ERBB4,1.0810126,3.794792967624171
+skin,Endothelial cell,ERBB4,1.0789474,3.714565004887586
+breast,Fibroblast,ERBB4,3.9655173,3.5409035409035408
+skin,Other,ERBB4,1.0,3.5398230088495577
+skeletalmuscle,Immune (myeloid),ERBB4,1.0416666,3.2564450474898234
+skin,Adipocyte,ERBB4,1.0,3.225806451612903
+skin,Fibroblast,ERBB4,1.0588236,3.213610586011342
+prostate,Immune (myeloid),ERBB4,1.2903225,3.0155642023346303
+skeletalmuscle,Immune (lymphocyte),ERBB4,2.0,3.0
+esophagusmuscularis,Immune (myeloid),ERBB4,1.0779221,2.5987175160310496
+esophagusmucosa,Fibroblast,ERBB4,1.2631578,2.024866785079929
+heart,Fibroblast,ERBB4,1.1333333,1.7766770754818564
+heart,Endothelial cell,ERBB4,1.296875,1.676489849377865
+esophagusmuscularis,Immune (lymphocyte),ERBB4,1.2,1.6611295681063123
+esophagusmucosa,Glia,ERBB4,1.0,1.5384615384615383
+skin,Immune (lymphocyte),ERBB4,1.0,1.3333333333333337
+lung,Immune (lymphocyte),ERBB4,1.0,1.2413793103448276
+esophagusmucosa,Immune (myeloid),ERBB4,1.0,1.072961373390558
+prostate,Immune (lymphocyte),ERBB4,1.0,1.0263929618768328
+heart,Immune (myeloid),ERBB4,1.0172414,0.9063916236912016
+esophagusmucosa,Immune (lymphocyte),ERBB4,1.2,0.275027502750275
+heart,Immune (lymphocyte),ERBB4,1.0,0.1432664756446991

@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Neuron,MARK4,1.3333334,24.0
+prostate,Endothelial cell,MARK4,1.4784313,18.04670912951168
+esophagusmucosa,Stromal,MARK4,1.2628205,15.77350859453994
+esophagusmucosa,Endothelial cell,MARK4,1.309958,15.241556220607096
+lung,Endothelial cell,MARK4,1.0796703,13.255644573925707
+heart,Muscle,MARK4,1.2015114,13.163129973474804
+esophagusmucosa,Epithelial cell,MARK4,1.1730877,12.982023775007248
+lung,Immune (myeloid),MARK4,1.1613723,12.903754713887524
+heart,Endothelial cell,MARK4,1.2035294,11.132940406024886
+heart,Adipocyte,MARK4,1.3333334,10.88082901554404
+prostate,Glia,MARK4,1.1428572,10.44776119402985
+prostate,Muscle,MARK4,1.1324786,10.43245653143112
+lung,Muscle,MARK4,1.2941177,10.429447852760736
+lung,Epithelial cell,MARK4,1.1148268,10.30944963655244
+skin,Epithelial cell (keratinocyte),MARK4,1.1398964,9.912686183872625
+esophagusmuscularis,Endothelial cell,MARK4,1.2330316,9.908092355973997
+breast,Endothelial cell,MARK4,1.074074,9.19409761634506
+esophagusmuscularis,Adipocyte,MARK4,1.125,9.142857142857142
+skin,Other,MARK4,1.1025641,8.628318584070795
+skin,Epithelial cell,MARK4,1.137255,8.471760797342192
+lung,Fibroblast,MARK4,1.0645162,8.401084010840108
+esophagusmucosa,Immune (lymphocyte),MARK4,1.1125828,8.305830583058306
+prostate,Epithelial cell,MARK4,1.0981048,7.7753218047068
+skin,Melanocyte,MARK4,1.0952381,7.720588235294118
+esophagusmuscularis,Immune (lymphocyte),MARK4,1.173913,7.641196013289036
+esophagusmuscularis,Muscle,MARK4,1.1162162,7.465196045463716
+breast,Epithelial cell,MARK4,1.0504807,7.173650629418865
+skin,Muscle,MARK4,1.1538461,6.989247311827956
+prostate,Fibroblast,MARK4,1.1282052,6.830122591943957
+esophagusmucosa,Muscle,MARK4,1.0882353,6.786427145708583
+heart,Fibroblast,MARK4,1.0797342,6.482179390545924
+skeletalmuscle,Endothelial cell,MARK4,1.0705882,6.3861758076634105
+skeletalmuscle,Muscle,MARK4,1.1290092,6.215940809002703
+esophagusmucosa,Fibroblast,MARK4,1.1220931,6.1101243339254
+lung,Immune (lymphocyte),MARK4,1.1136364,6.068965517241379
+skeletalmuscle,Immune (lymphocyte),MARK4,1.0,6.0
+skin,Endothelial cell,MARK4,1.0983607,5.962854349951124
+esophagusmucosa,Immune (myeloid),MARK4,1.0843374,5.937052932761088
+breast,Muscle,MARK4,1.0,5.921052631578947
+skin,Fibroblast,MARK4,1.032258,5.860113421550095
+skeletalmuscle,Adipocyte,MARK4,1.0,5.660377358490567
+skeletalmuscle,Fibroblast,MARK4,1.0495356,5.434051144010767
+heart,Glia,MARK4,1.0,5.369127516778524
+breast,Adipocyte,MARK4,1.0217391,5.224304372515616
+heart,Immune (myeloid),MARK4,1.0668693,5.141428348179403
+breast,Fibroblast,MARK4,1.0487804,5.006105006105006
+esophagusmuscularis,Glia,MARK4,1.1489362,4.845360824742269
+esophagusmuscularis,Fibroblast,MARK4,1.0643777,4.476894994716111
+skin,Immune (myeloid),MARK4,1.125,4.46927374301676
+heart,Immune (lymphocyte),MARK4,1.1,4.297994269340974
+prostate,Immune (myeloid),MARK4,1.0681819,4.280155642023346
+esophagusmuscularis,Immune (myeloid),MARK4,1.1339285,3.779952750590618
+skeletalmuscle,Immune (myeloid),MARK4,1.074074,3.6635006784260513
+skin,Adipocyte,MARK4,1.0,3.225806451612903
+breast,Immune (myeloid),MARK4,1.0909091,3.072625698324022
+skeletalmuscle,Glia,MARK4,1.0,2.857142857142857
+prostate,Immune (lymphocyte),MARK4,1.0588236,2.49266862170088
+esophagusmucosa,Glia,MARK4,1.0,1.5384615384615383
+skin,Immune (lymphocyte),MARK4,1.0,1.3333333333333337

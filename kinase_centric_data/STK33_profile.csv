@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+heart,Muscle,STK33,1.992178,33.91080901856764
+lung,Epithelial cell,STK33,1.7495522,27.82969885773624
+prostate,Muscle,STK33,1.2853717,18.591172536781094
+esophagusmuscularis,Neuron,STK33,1.3333334,12.0
+esophagusmucosa,Stromal,STK33,1.1714286,10.616784630940344
+esophagusmuscularis,Muscle,STK33,1.2358307,10.32349182863676
+prostate,Fibroblast,STK33,1.1875,7.005253940455342
+lung,Immune (myeloid),STK33,1.156923,5.328742416789638
+esophagusmuscularis,Glia,STK33,1.25,4.948453608247423
+prostate,Endothelial cell,STK33,1.1075269,3.290870488322718
+lung,Muscle,STK33,1.6,3.067484662576687
+prostate,Glia,STK33,1.5,2.985074626865672
+skeletalmuscle,Muscle,STK33,1.107717,2.755748526870763
+skin,Muscle,STK33,1.0,2.6881720430107525
+esophagusmuscularis,Endothelial cell,STK33,1.1030928,2.1744003586639766
+skin,Endothelial cell,STK33,1.05,1.9550342130987293
+esophagusmucosa,Endothelial cell,STK33,1.1481482,1.731509191962377
+esophagusmuscularis,Adipocyte,STK33,1.0,1.7142857142857144
+prostate,Epithelial cell,STK33,1.1548223,1.707623629350323
+breast,Endothelial cell,STK33,1.0714285,1.5891032917139614
+lung,Immune (lymphocyte),STK33,1.1818181,1.5172413793103448
+skin,Immune (lymphocyte),STK33,1.0,1.3333333333333337
+breast,Muscle,STK33,1.0,1.3157894736842104
+prostate,Immune (myeloid),STK33,1.1818181,1.0700389105058363
+heart,Adipocyte,STK33,2.0,1.0362694300518136
+prostate,Immune (lymphocyte),STK33,1.0,1.0263929618768328
+skeletalmuscle,Immune (lymphocyte),STK33,1.0,1.0
+esophagusmuscularis,Immune (lymphocyte),STK33,1.3333334,0.9966777408637874
+skeletalmuscle,Fibroblast,STK33,1.0,0.9925975773889636
+skin,Epithelial cell (keratinocyte),STK33,1.0,0.9758602978941964
+esophagusmucosa,Fibroblast,STK33,1.1538461,0.9236234458259326
+skin,Epithelial cell,STK33,1.0,0.8305647840531563
+breast,Epithelial cell,STK33,1.0625,0.8277289187790998
+lung,Fibroblast,STK33,1.1666666,0.8130081300813009
+esophagusmuscularis,Immune (myeloid),STK33,1.0833334,0.809989875126561
+esophagusmucosa,Muscle,STK33,1.0,0.7984031936127743
+skeletalmuscle,Endothelial cell,STK33,1.1,0.7513148009015778
+breast,Fibroblast,STK33,1.1666666,0.7326007326007326
+heart,Immune (lymphocyte),STK33,1.0,0.7163323782234957
+esophagusmucosa,Immune (myeloid),STK33,1.0,0.7153075822603719
+skeletalmuscle,Immune (myeloid),STK33,1.0,0.6784260515603799
+esophagusmuscularis,Fibroblast,STK33,1.0285715,0.6724949562878278
+heart,Glia,STK33,1.0,0.6711409395973155
+esophagusmucosa,Immune (lymphocyte),STK33,1.0,0.6600660066006601
+lung,Endothelial cell,STK33,1.1111112,0.6554989075018208
+skeletalmuscle,Adipocyte,STK33,1.0,0.628930817610063
+esophagusmucosa,Epithelial cell,STK33,1.0617284,0.5871267033922876
+skin,Fibroblast,STK33,1.0,0.5671077504725899
+skin,Immune (myeloid),STK33,1.0,0.5586592178770949
+heart,Endothelial cell,STK33,1.05,0.5239030779305829
+skin,Melanocyte,STK33,1.0,0.3676470588235294
+breast,Adipocyte,STK33,1.0,0.3407155025553662
+heart,Immune (myeloid),STK33,1.0476191,0.3281762775433661
+breast,Immune (myeloid),STK33,1.0,0.2793296089385474
+skin,Other,STK33,1.0,0.2212389380530973
+heart,Fibroblast,STK33,1.0625,0.172283837622483
+esophagusmucosa,Glia,STK33,0.0,0.0
+skin,Adipocyte,STK33,0.0,0.0
+skeletalmuscle,Glia,STK33,0.0,0.0

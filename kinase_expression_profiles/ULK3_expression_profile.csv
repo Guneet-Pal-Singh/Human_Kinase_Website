@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (mature keratinocyte),ULK3,0.7867528
+Epithelial cell (squamous),ULK3,0.720352
+Epithelial cell (cornified keratinocyte),ULK3,0.5705694
+Epithelial cell (suprabasal keratinocyte),ULK3,0.45175445
+Neuronal,ULK3,0.43833795
+Epithelial cell (suprabasal),ULK3,0.39031684
+Epithelial cell (basal keratinocyte),ULK3,0.26293054
+Immune (Langerhans),ULK3,0.20148964
+Sebaceous gland cell,ULK3,0.1861094
+Epithelial cell (basal),ULK3,0.18479317
+Mucous cell,ULK3,0.18400906
+Myocyte (cardiac),ULK3,0.15196401
+Neuroendocrine,ULK3,0.15141037
+Myofibroblast,ULK3,0.14204487
+Immune (DC/macrophage),ULK3,0.13646972
+Immune (mast cell),ULK3,0.13091049
+Myocyte (NMJ-rich),ULK3,0.12828073
+Epithelial cell (alveolar type I),ULK3,0.12298356
+Immune (NK cell),ULK3,0.12076041
+"Myocyte (sk. muscle, cytoplasmic)",ULK3,0.108140916
+Immune (T cell),ULK3,0.097843744
+Schwann cell,ULK3,0.0944972
+"Myocyte (cardiac, cytoplasmic)",ULK3,0.09287229
+Epithelial cell (club),ULK3,0.092290826
+Epithelial cell (luminal),ULK3,0.08793218
+Epithelial cell (Hillock),ULK3,0.08491233
+Adipocyte,ULK3,0.0844738
+Myocyte (smooth muscle),ULK3,0.08339395
+Epithelial cell (alveolar type II),ULK3,0.08079444
+Epithelial cell (ciliated),ULK3,0.07966446
+Immune (alveolar macrophage),ULK3,0.07965665
+Fibroblast,ULK3,0.07511856
+Endothelial cell (vascular),ULK3,0.063908674
+Endothelial cell (lymphatic),ULK3,0.06335986
+Immune (B cell),ULK3,0.05184369
+Myoepithelial (basal),ULK3,0.05040751
+Pericyte/SMC,ULK3,0.049802527
+ICCs,ULK3,0.047151543
+Satellite cell,ULK3,0.038069326
+Myocyte (sk. muscle),ULK3,0.032798413
+Immune (DC),ULK3,0.024788484
+Sweat gland cell,ULK3,0.019825352
+Melanocyte,ULK3,0.010132124

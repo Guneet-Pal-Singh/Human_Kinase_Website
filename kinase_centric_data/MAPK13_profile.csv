@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmucosa,Epithelial cell,MAPK13,1.2453442,8.951870107277472
+skin,Other,MAPK13,1.3043479,5.08849557522124
+skin,Immune (lymphocyte),MAPK13,1.0,4.0
+skin,Epithelial cell,MAPK13,1.0454545,3.654485049833888
+skin,Epithelial cell (keratinocyte),MAPK13,1.031746,3.235747303543913
+lung,Immune (myeloid),MAPK13,1.0255102,3.2136415805869816
+prostate,Epithelial cell,MAPK13,1.0495868,3.146534910934859
+lung,Epithelial cell,MAPK13,1.0204724,2.6375908618899278
+esophagusmucosa,Stromal,MAPK13,1.16,2.527805864509605
+breast,Immune (myeloid),MAPK13,1.25,2.23463687150838
+skeletalmuscle,Muscle,MAPK13,1.048583,2.188649151566169
+lung,Immune (lymphocyte),MAPK13,1.0666667,2.0689655172413794
+esophagusmuscularis,Immune (lymphocyte),MAPK13,1.1666666,1.9933554817275747
+breast,Epithelial cell,MAPK13,1.0458716,1.8796344197275396
+prostate,Immune (lymphocyte),MAPK13,1.0,1.7595307917888563
+prostate,Immune (myeloid),MAPK13,1.0555556,1.7509727626459144
+esophagusmuscularis,Adipocyte,MAPK13,1.0,1.7142857142857144
+heart,Immune (lymphocyte),MAPK13,1.0,1.5759312320916905
+esophagusmucosa,Glia,MAPK13,1.0,1.5384615384615383
+heart,Muscle,MAPK13,1.0404624,1.4340185676392572
+prostate,Muscle,MAPK13,1.0,1.3820775746767722
+esophagusmucosa,Immune (lymphocyte),MAPK13,1.0416666,1.32013201320132
+breast,Muscle,MAPK13,1.0,1.3157894736842104
+esophagusmuscularis,Fibroblast,MAPK13,1.0461539,1.2489192045345374
+lung,Muscle,MAPK13,1.0,1.2269938650306749
+prostate,Fibroblast,MAPK13,1.0,1.2259194395796849
+breast,Fibroblast,MAPK13,1.0,1.098901098901099
+skin,Muscle,MAPK13,1.0,1.0752688172043012
+skin,Endothelial cell,MAPK13,1.0,1.0752688172043012
+esophagusmucosa,Immune (myeloid),MAPK13,1.0,1.072961373390558
+breast,Endothelial cell,MAPK13,1.0,1.021566401816118
+skeletalmuscle,Fibroblast,MAPK13,1.0175439,0.958950201884253
+heart,Immune (myeloid),MAPK13,1.0,0.7969995311767463
+lung,Endothelial cell,MAPK13,1.0,0.764748725418791
+skeletalmuscle,Endothelial cell,MAPK13,1.0,0.7513148009015778
+lung,Fibroblast,MAPK13,1.0,0.7452574525745257
+skin,Melanocyte,MAPK13,1.0,0.7352941176470588
+esophagusmuscularis,Immune (myeloid),MAPK13,1.0,0.6749915626054674
+heart,Fibroblast,MAPK13,1.032258,0.6675998707871218
+skin,Immune (myeloid),MAPK13,1.0,0.5586592178770949
+esophagusmuscularis,Muscle,MAPK13,1.0121951,0.5514829511063286
+heart,Adipocyte,MAPK13,1.0,0.5181347150259068
+esophagusmuscularis,Endothelial cell,MAPK13,1.0476191,0.4707464694014795
+breast,Adipocyte,MAPK13,1.0,0.3975014196479273
+heart,Endothelial cell,MAPK13,1.0,0.3405370006548788
+esophagusmuscularis,Glia,MAPK13,1.0,0.3092783505154639
+esophagusmucosa,Endothelial cell,MAPK13,1.0,0.2565198802907225
+prostate,Endothelial cell,MAPK13,1.0,0.2476999292285916
+esophagusmucosa,Muscle,MAPK13,2.0,0.1996007984031935
+skin,Fibroblast,MAPK13,1.0,0.1890359168241966
+esophagusmucosa,Fibroblast,MAPK13,1.0,0.1776198934280639
+skeletalmuscle,Immune (myeloid),MAPK13,1.0,0.1356852103120759
+esophagusmuscularis,Neuron,MAPK13,0.0,0.0
+heart,Glia,MAPK13,0.0,0.0
+prostate,Glia,MAPK13,0.0,0.0
+skeletalmuscle,Adipocyte,MAPK13,0.0,0.0
+skin,Adipocyte,MAPK13,0.0,0.0
+skeletalmuscle,Glia,MAPK13,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),MAPK13,0.0,0.0

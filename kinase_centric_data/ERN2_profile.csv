@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+prostate,Epithelial cell,ERN2,1.2906815,3.1161964200580763
+esophagusmucosa,Epithelial cell,ERN2,1.4719101,1.290229051899101
+skin,Epithelial cell,ERN2,1.3333334,0.9966777408637874
+esophagusmucosa,Stromal,ERN2,1.3333334,0.6066734074823054
+lung,Immune (myeloid),ERN2,1.0,0.573864567961961
+esophagusmuscularis,Adipocyte,ERN2,1.0,0.5714285714285714
+lung,Epithelial cell,ERN2,1.0707965,0.4693665628245068
+prostate,Muscle,ERN2,1.1111112,0.4012483281319661
+heart,Glia,ERN2,1.0,0.3355704697986577
+esophagusmuscularis,Immune (lymphocyte),ERN2,1.0,0.3322259136212624
+lung,Endothelial cell,ERN2,1.0,0.3277494537509104
+prostate,Fibroblast,ERN2,1.3333334,0.2626970227670753
+skeletalmuscle,Endothelial cell,ERN2,1.0,0.1502629601803155
+prostate,Immune (lymphocyte),ERN2,1.0,0.1466275659824047
+skeletalmuscle,Muscle,ERN2,1.030303,0.1462053076957157
+heart,Immune (lymphocyte),ERN2,1.0,0.1432664756446991
+lung,Immune (lymphocyte),ERN2,1.0,0.1379310344827586
+skeletalmuscle,Immune (myeloid),ERN2,1.0,0.1356852103120759
+breast,Adipocyte,ERN2,1.0,0.1135718341851221
+esophagusmucosa,Immune (lymphocyte),ERN2,2.0,0.11001100110011
+prostate,Immune (myeloid),ERN2,1.0,0.0972762645914396
+esophagusmucosa,Endothelial cell,ERN2,1.0,0.0855066267635741
+heart,Fibroblast,ERN2,1.0,0.0753741789598363
+heart,Muscle,ERN2,1.0,0.0746021220159151
+esophagusmucosa,Immune (myeloid),ERN2,1.0,0.0715307582260371
+esophagusmucosa,Fibroblast,ERN2,1.5,0.0710479573712255
+prostate,Endothelial cell,ERN2,1.5,0.0707714083510261
+lung,Fibroblast,ERN2,1.0,0.067750677506775
+esophagusmuscularis,Immune (myeloid),ERN2,1.0,0.0674991562605467
+esophagusmuscularis,Endothelial cell,ERN2,1.0,0.0672494956287827
+skin,Epithelial cell (keratinocyte),ERN2,1.0,0.0513610683102208
+skeletalmuscle,Fibroblast,ERN2,1.0,0.0504710632570659
+esophagusmuscularis,Muscle,ERN2,1.0,0.0403524110565606
+esophagusmuscularis,Fibroblast,ERN2,1.0,0.0384282832164473
+breast,Epithelial cell,ERN2,1.0,0.0344887049491291
+heart,Immune (myeloid),ERN2,1.0,0.0312548835755586
+heart,Endothelial cell,ERN2,1.0,0.0130975769482645
+breast,Endothelial cell,ERN2,0.0,0.0
+esophagusmuscularis,Glia,ERN2,0.0,0.0
+breast,Muscle,ERN2,0.0,0.0
+breast,Immune (myeloid),ERN2,0.0,0.0
+breast,Fibroblast,ERN2,0.0,0.0
+esophagusmucosa,Glia,ERN2,0.0,0.0
+esophagusmuscularis,Neuron,ERN2,0.0,0.0
+heart,Adipocyte,ERN2,0.0,0.0
+esophagusmucosa,Muscle,ERN2,0.0,0.0
+lung,Muscle,ERN2,0.0,0.0
+skeletalmuscle,Adipocyte,ERN2,0.0,0.0
+prostate,Glia,ERN2,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),ERN2,0.0,0.0
+skeletalmuscle,Glia,ERN2,0.0,0.0
+skin,Endothelial cell,ERN2,0.0,0.0
+skin,Adipocyte,ERN2,0.0,0.0
+skin,Fibroblast,ERN2,0.0,0.0
+skin,Immune (lymphocyte),ERN2,0.0,0.0
+skin,Immune (myeloid),ERN2,0.0,0.0
+skin,Melanocyte,ERN2,0.0,0.0
+skin,Muscle,ERN2,0.0,0.0
+skin,Other,ERN2,0.0,0.0

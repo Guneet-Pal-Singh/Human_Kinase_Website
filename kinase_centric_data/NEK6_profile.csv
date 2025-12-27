@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmucosa,Glia,NEK6,1.2,15.384615384615383
+lung,Immune (myeloid),NEK6,1.20671,15.150024594195768
+prostate,Immune (myeloid),NEK6,1.1493506,14.980544747081712
+esophagusmuscularis,Glia,NEK6,1.1532847,14.123711340206183
+breast,Adipocyte,NEK6,1.141593,12.833617262918796
+esophagusmucosa,Immune (myeloid),NEK6,1.2134147,11.731044349070102
+breast,Immune (myeloid),NEK6,1.1428572,9.776536312849162
+prostate,Glia,NEK6,1.0,8.955223880597014
+skeletalmuscle,Glia,NEK6,1.0,8.571428571428571
+heart,Glia,NEK6,1.0,8.053691275167784
+esophagusmucosa,Stromal,NEK6,1.1038961,7.785642062689585
+esophagusmuscularis,Immune (myeloid),NEK6,1.0631068,6.952413094836314
+heart,Immune (myeloid),NEK6,1.0769231,6.907329270198469
+prostate,Muscle,NEK6,1.1610738,6.64288898796255
+esophagusmuscularis,Adipocyte,NEK6,1.0909091,6.285714285714287
+prostate,Epithelial cell,NEK6,1.0816944,5.7296407055866165
+lung,Epithelial cell,NEK6,1.0624082,5.657320872274144
+breast,Fibroblast,NEK6,1.0454545,5.372405372405373
+heart,Adipocyte,NEK6,1.0,5.181347150259067
+skeletalmuscle,Immune (myeloid),NEK6,1.0,4.74898236092266
+lung,Fibroblast,NEK6,1.0757576,4.471544715447155
+breast,Epithelial cell,NEK6,1.0394089,3.5006035523366097
+esophagusmuscularis,Endothelial cell,NEK6,1.0641025,3.496973772696705
+esophagusmuscularis,Muscle,NEK6,1.0554456,3.396327930593853
+breast,Endothelial cell,NEK6,1.0357143,3.1782065834279227
+heart,Immune (lymphocyte),NEK6,1.0,3.151862464183381
+skin,Immune (myeloid),NEK6,1.0,2.793296089385475
+esophagusmucosa,Endothelial cell,NEK6,1.0153847,2.7789653698161607
+skin,Muscle,NEK6,1.0,2.6881720430107525
+skin,Epithelial cell,NEK6,1.0,2.6578073089701
+esophagusmucosa,Fibroblast,NEK6,1.0405406,2.6287744227353462
+prostate,Fibroblast,NEK6,1.2,2.626970227670753
+esophagusmucosa,Epithelial cell,NEK6,1.0545977,2.52247028124094
+lung,Muscle,NEK6,1.0,2.4539877300613497
+prostate,Endothelial cell,NEK6,1.0434783,2.441613588110404
+heart,Endothelial cell,NEK6,1.0276244,2.3706614276358877
+skeletalmuscle,Endothelial cell,NEK6,1.0,2.178812922614576
+heart,Fibroblast,NEK6,1.0463917,2.088941531172607
+lung,Endothelial cell,NEK6,1.0727273,2.002913328477786
+esophagusmuscularis,Fibroblast,NEK6,1.0144231,1.99827072725526
+skeletalmuscle,Adipocyte,NEK6,1.0,1.8867924528301887
+esophagusmucosa,Immune (lymphocyte),NEK6,1.060606,1.8151815181518156
+skeletalmuscle,Muscle,NEK6,1.0201511,1.758894156218156
+skin,Adipocyte,NEK6,1.0,1.6129032258064515
+heart,Muscle,NEK6,1.032258,1.5417771883289124
+lung,Immune (lymphocyte),NEK6,1.0,1.5172413793103448
+esophagusmucosa,Muscle,NEK6,1.0,1.3972055888223551
+breast,Muscle,NEK6,1.0,1.3157894736842104
+skeletalmuscle,Immune (lymphocyte),NEK6,1.0,1.0
+esophagusmuscularis,Immune (lymphocyte),NEK6,1.0,0.9966777408637874
+skeletalmuscle,Fibroblast,NEK6,1.0,0.9925975773889636
+skin,Other,NEK6,1.0,0.8849557522123894
+prostate,Immune (lymphocyte),NEK6,1.1666666,0.8797653958944283
+skin,Endothelial cell,NEK6,1.0,0.6842619745845552
+skin,Epithelial cell (keratinocyte),NEK6,1.0,0.6163328197226503
+skin,Fibroblast,NEK6,1.0,0.3780718336483932
+esophagusmuscularis,Neuron,NEK6,0.0,0.0
+skin,Immune (lymphocyte),NEK6,0.0,0.0
+skin,Melanocyte,NEK6,0.0,0.0

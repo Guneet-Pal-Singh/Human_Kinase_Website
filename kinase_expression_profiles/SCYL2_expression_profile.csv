@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Neuronal,SCYL2,0.51360905
+Sebaceous gland cell,SCYL2,0.5071155
+Immune (DC),SCYL2,0.47549978
+Neuroendocrine,SCYL2,0.44247636
+Immune (Langerhans),SCYL2,0.42834625
+ICCs,SCYL2,0.42380813
+Epithelial cell (alveolar type II),SCYL2,0.42102686
+Epithelial cell (mature keratinocyte),SCYL2,0.40881458
+Epithelial cell (suprabasal),SCYL2,0.38880983
+Epithelial cell (luminal),SCYL2,0.38767868
+Epithelial cell (club),SCYL2,0.37847346
+Sweat gland cell,SCYL2,0.36970037
+Mucous cell,SCYL2,0.36287716
+Immune (alveolar macrophage),SCYL2,0.34663126
+Epithelial cell (Hillock),SCYL2,0.3464511
+Myocyte (cardiac),SCYL2,0.34296066
+Epithelial cell (basal keratinocyte),SCYL2,0.34061787
+Epithelial cell (squamous),SCYL2,0.33811408
+Myofibroblast,SCYL2,0.33387777
+Immune (DC/macrophage),SCYL2,0.31864637
+Epithelial cell (suprabasal keratinocyte),SCYL2,0.31359762
+Epithelial cell (alveolar type I),SCYL2,0.28968063
+Melanocyte,SCYL2,0.2708291
+Epithelial cell (ciliated),SCYL2,0.26788595
+Epithelial cell (basal),SCYL2,0.26597193
+Endothelial cell (vascular),SCYL2,0.26578057
+Endothelial cell (lymphatic),SCYL2,0.2631087
+Myocyte (smooth muscle),SCYL2,0.26162395
+Myocyte (NMJ-rich),SCYL2,0.26002607
+Epithelial cell (cornified keratinocyte),SCYL2,0.25872746
+Adipocyte,SCYL2,0.25116813
+Myoepithelial (basal),SCYL2,0.23310763
+Immune (T cell),SCYL2,0.2238369
+Pericyte/SMC,SCYL2,0.21701548
+Immune (NK cell),SCYL2,0.21565118
+Satellite cell,SCYL2,0.21056627
+Schwann cell,SCYL2,0.20000446
+Fibroblast,SCYL2,0.19634113
+Immune (mast cell),SCYL2,0.16846065
+"Myocyte (cardiac, cytoplasmic)",SCYL2,0.16038726
+"Myocyte (sk. muscle, cytoplasmic)",SCYL2,0.15587685
+Myocyte (sk. muscle),SCYL2,0.15093227
+Immune (B cell),SCYL2,0.12750635

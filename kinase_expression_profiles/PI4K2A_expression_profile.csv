@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (cornified keratinocyte),PI4K2A,0.27031186
+Epithelial cell (squamous),PI4K2A,0.2341131
+Immune (Langerhans),PI4K2A,0.07701844
+Melanocyte,PI4K2A,0.062500596
+Epithelial cell (mature keratinocyte),PI4K2A,0.060836747
+Immune (alveolar macrophage),PI4K2A,0.05131915
+"Myocyte (cardiac, cytoplasmic)",PI4K2A,0.042282086
+Immune (DC/macrophage),PI4K2A,0.04066564
+Immune (DC),PI4K2A,0.035740484
+Epithelial cell (suprabasal),PI4K2A,0.031483814
+Mucous cell,PI4K2A,0.03071613
+Myofibroblast,PI4K2A,0.030545572
+Myocyte (smooth muscle),PI4K2A,0.029960502
+"Myocyte (sk. muscle, cytoplasmic)",PI4K2A,0.029936075
+Epithelial cell (suprabasal keratinocyte),PI4K2A,0.028874952
+Epithelial cell (luminal),PI4K2A,0.028010074
+Fibroblast,PI4K2A,0.022761805
+Epithelial cell (Hillock),PI4K2A,0.019324673
+Endothelial cell (lymphatic),PI4K2A,0.017274667
+Epithelial cell (basal),PI4K2A,0.015848713
+Epithelial cell (alveolar type I),PI4K2A,0.015454528
+Myoepithelial (basal),PI4K2A,0.015322827
+Myocyte (cardiac),PI4K2A,0.014759127
+Pericyte/SMC,PI4K2A,0.014606081
+Immune (mast cell),PI4K2A,0.012924731
+Sweat gland cell,PI4K2A,0.012591295
+Epithelial cell (club),PI4K2A,0.012385841
+Epithelial cell (ciliated),PI4K2A,0.012243628
+Immune (B cell),PI4K2A,0.010858435
+Schwann cell,PI4K2A,0.01034746
+Epithelial cell (basal keratinocyte),PI4K2A,0.009841428
+Epithelial cell (alveolar type II),PI4K2A,0.009804191
+Immune (T cell),PI4K2A,0.0085961735
+Endothelial cell (vascular),PI4K2A,0.0065781074
+Immune (NK cell),PI4K2A,0.0060255383
+Adipocyte,PI4K2A,0.0020472042
+Myocyte (sk. muscle),PI4K2A,0.0017529856
+ICCs,PI4K2A,0.0
+Myocyte (NMJ-rich),PI4K2A,0.0
+Neuronal,PI4K2A,0.0
+Neuroendocrine,PI4K2A,0.0
+Satellite cell,PI4K2A,0.0
+Sebaceous gland cell,PI4K2A,0.0

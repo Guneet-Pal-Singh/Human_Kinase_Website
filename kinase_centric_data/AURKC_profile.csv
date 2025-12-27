@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Neuron,AURKC,1.0,4.0
+heart,Adipocyte,AURKC,1.0,2.072538860103627
+skin,Other,AURKC,1.0,1.327433628318584
+skin,Epithelial cell,AURKC,1.0,1.162790697674419
+skin,Muscle,AURKC,1.0,1.0752688172043012
+skeletalmuscle,Immune (lymphocyte),AURKC,1.0,1.0
+heart,Muscle,AURKC,1.0113636,0.7294429708222812
+skeletalmuscle,Adipocyte,AURKC,1.0,0.628930817610063
+breast,Fibroblast,AURKC,1.2,0.6105006105006106
+skeletalmuscle,Muscle,AURKC,1.0075758,0.584821230782863
+esophagusmuscularis,Glia,AURKC,1.0,0.5154639175257731
+breast,Adipocyte,AURKC,1.1111112,0.5110732538330494
+esophagusmucosa,Stromal,AURKC,1.0,0.5055611729019212
+esophagusmucosa,Epithelial cell,AURKC,1.0153847,0.4711510582777616
+prostate,Fibroblast,AURKC,1.0,0.4378283712784588
+esophagusmuscularis,Muscle,AURKC,1.0,0.4169749142511265
+lung,Immune (myeloid),AURKC,1.0,0.4099032628299721
+skin,Melanocyte,AURKC,1.0,0.3676470588235294
+lung,Fibroblast,AURKC,1.0,0.3387533875338753
+breast,Epithelial cell,AURKC,1.0,0.2931539920675978
+breast,Immune (myeloid),AURKC,1.0,0.2793296089385474
+skin,Epithelial cell (keratinocyte),AURKC,1.2,0.2568053415511042
+esophagusmuscularis,Fibroblast,AURKC,1.0,0.2305696992986838
+heart,Endothelial cell,AURKC,1.0,0.2226588081204977
+lung,Endothelial cell,AURKC,1.0,0.2184996358339402
+esophagusmucosa,Immune (myeloid),AURKC,1.0,0.2145922746781116
+esophagusmucosa,Fibroblast,AURKC,1.0,0.2131438721136767
+heart,Fibroblast,AURKC,1.0,0.1938193173252934
+prostate,Muscle,AURKC,1.0,0.1783325902808738
+esophagusmuscularis,Immune (myeloid),AURKC,1.0,0.1687478906513668
+lung,Epithelial cell,AURKC,1.027027,0.1536863966770509
+prostate,Epithelial cell,AURKC,1.0,0.1516924543839119
+skeletalmuscle,Endothelial cell,AURKC,1.0,0.1502629601803155
+prostate,Immune (lymphocyte),AURKC,1.0,0.1466275659824047
+skeletalmuscle,Immune (myeloid),AURKC,1.0,0.1356852103120759
+esophagusmuscularis,Endothelial cell,AURKC,1.0,0.1344989912575655
+esophagusmucosa,Immune (lymphocyte),AURKC,1.0,0.11001100110011
+prostate,Endothelial cell,AURKC,1.0,0.1061571125265392
+skeletalmuscle,Fibroblast,AURKC,1.0,0.1009421265141319
+esophagusmucosa,Endothelial cell,AURKC,1.0,0.0855066267635741
+heart,Immune (myeloid),AURKC,1.0,0.0781372089388967
+breast,Muscle,AURKC,0.0,0.0
+esophagusmucosa,Glia,AURKC,0.0,0.0
+heart,Immune (lymphocyte),AURKC,0.0,0.0
+heart,Glia,AURKC,0.0,0.0
+esophagusmuscularis,Adipocyte,AURKC,0.0,0.0
+esophagusmuscularis,Immune (lymphocyte),AURKC,0.0,0.0
+esophagusmucosa,Muscle,AURKC,0.0,0.0
+breast,Endothelial cell,AURKC,0.0,0.0
+lung,Immune (lymphocyte),AURKC,0.0,0.0
+lung,Muscle,AURKC,0.0,0.0
+prostate,Immune (myeloid),AURKC,0.0,0.0
+prostate,Glia,AURKC,0.0,0.0
+skeletalmuscle,Glia,AURKC,0.0,0.0
+skin,Adipocyte,AURKC,0.0,0.0
+skin,Endothelial cell,AURKC,0.0,0.0
+skin,Fibroblast,AURKC,0.0,0.0
+skin,Immune (lymphocyte),AURKC,0.0,0.0
+skin,Immune (myeloid),AURKC,0.0,0.0

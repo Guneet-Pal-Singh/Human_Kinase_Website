@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+heart,Muscle,CMPK1,1.1883034,12.89787798408488
+prostate,Epithelial cell,CMPK1,1.2410746,12.261084384345338
+heart,Adipocyte,CMPK1,1.2272727,11.398963730569948
+esophagusmucosa,Epithelial cell,CMPK1,1.2114362,10.90171064076544
+prostate,Fibroblast,CMPK1,1.125,9.80735551663748
+lung,Immune (myeloid),CMPK1,1.1584507,9.313002131496969
+prostate,Muscle,CMPK1,1.1386138,9.005795809184129
+prostate,Glia,CMPK1,1.1666666,8.955223880597014
+skin,Other,CMPK1,1.225,8.849557522123893
+esophagusmuscularis,Adipocyte,CMPK1,1.4666667,8.571428571428571
+breast,Adipocyte,CMPK1,1.0821918,8.290743895513913
+heart,Fibroblast,CMPK1,1.1303781,8.258856466027781
+esophagusmucosa,Stromal,CMPK1,1.1234568,8.190091001011123
+esophagusmuscularis,Neuron,CMPK1,1.0,8.0
+esophagusmuscularis,Muscle,CMPK1,1.2216982,7.128925953325711
+heart,Endothelial cell,CMPK1,1.0839695,6.863130320890636
+skeletalmuscle,Endothelial cell,CMPK1,1.1758242,6.836964688204357
+prostate,Endothelial cell,CMPK1,1.1067415,6.29865534324133
+heart,Immune (lymphocyte),CMPK1,1.0232558,6.160458452722064
+prostate,Immune (myeloid),CMPK1,1.1111112,6.1284046692607
+skeletalmuscle,Fibroblast,CMPK1,1.0505618,5.989232839838492
+lung,Epithelial cell,CMPK1,1.0546763,5.773624091381101
+skeletalmuscle,Muscle,CMPK1,1.0807561,5.157059944176155
+skeletalmuscle,Adipocyte,CMPK1,1.125,5.031446540880504
+skeletalmuscle,Immune (lymphocyte),CMPK1,1.0,5.0
+lung,Fibroblast,CMPK1,1.0410959,4.94579945799458
+heart,Glia,CMPK1,1.0714285,4.697986577181208
+esophagusmucosa,Endothelial cell,CMPK1,1.0801886,4.531851218469432
+esophagusmucosa,Fibroblast,CMPK1,1.0819672,4.33392539964476
+heart,Immune (myeloid),CMPK1,1.0421456,4.078762306610408
+skin,Epithelial cell,CMPK1,1.0833334,3.986710963455149
+breast,Muscle,CMPK1,1.0,3.947368421052632
+breast,Epithelial cell,CMPK1,1.0840708,3.8972236592515954
+prostate,Immune (lymphocyte),CMPK1,1.0384616,3.812316715542522
+breast,Endothelial cell,CMPK1,1.030303,3.745743473325766
+esophagusmucosa,Immune (lymphocyte),CMPK1,1.030303,3.630363036303631
+skin,Epithelial cell (keratinocyte),CMPK1,1.0857143,3.5952747817154598
+esophagusmucosa,Immune (myeloid),CMPK1,1.0416666,3.433476394849785
+breast,Fibroblast,CMPK1,1.0357143,3.418803418803419
+skin,Adipocyte,CMPK1,1.0,3.225806451612903
+lung,Immune (lymphocyte),CMPK1,1.0434783,3.1724137931034484
+lung,Endothelial cell,CMPK1,1.045977,3.168244719592134
+lung,Muscle,CMPK1,1.0,3.067484662576687
+skin,Endothelial cell,CMPK1,1.0645162,3.0303030303030303
+skin,Fibroblast,CMPK1,1.0,3.0245746691871456
+esophagusmuscularis,Endothelial cell,CMPK1,1.0751879,2.98139430620937
+esophagusmucosa,Muscle,CMPK1,1.0,2.7944111776447107
+skin,Immune (myeloid),CMPK1,1.2,2.793296089385475
+skeletalmuscle,Immune (myeloid),CMPK1,1.0,2.442333785617368
+esophagusmuscularis,Fibroblast,CMPK1,1.0577778,2.161590930925161
+breast,Immune (myeloid),CMPK1,1.0,1.675977653631285
+skin,Muscle,CMPK1,1.0,1.6129032258064515
+esophagusmuscularis,Immune (myeloid),CMPK1,1.0425532,1.5862301721228484
+esophagusmucosa,Glia,CMPK1,1.0,1.5384615384615383
+skin,Melanocyte,CMPK1,1.0,1.4705882352941175
+skin,Immune (lymphocyte),CMPK1,1.0,1.3333333333333337
+esophagusmuscularis,Glia,CMPK1,1.1818181,1.134020618556701
+esophagusmuscularis,Immune (lymphocyte),CMPK1,1.0,0.3322259136212624
+skeletalmuscle,Glia,CMPK1,0.0,0.0

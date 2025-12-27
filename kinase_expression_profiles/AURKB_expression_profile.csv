@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (Langerhans),AURKB,0.14764622
+Epithelial cell (basal keratinocyte),AURKB,0.1233736
+Epithelial cell (basal),AURKB,0.081438094
+Immune (B cell),AURKB,0.07831795
+Melanocyte,AURKB,0.057424624
+Sebaceous gland cell,AURKB,0.05576318
+Immune (NK cell),AURKB,0.050681345
+Immune (DC/macrophage),AURKB,0.04495753
+Immune (mast cell),AURKB,0.042475976
+Myofibroblast,AURKB,0.028621225
+Epithelial cell (suprabasal keratinocyte),AURKB,0.026406426
+Epithelial cell (mature keratinocyte),AURKB,0.022701537
+Immune (DC),AURKB,0.01864947
+Immune (T cell),AURKB,0.018204086
+Epithelial cell (suprabasal),AURKB,0.01818812
+Epithelial cell (squamous),AURKB,0.016588133
+Immune (alveolar macrophage),AURKB,0.015933422
+Epithelial cell (club),AURKB,0.014011104
+Adipocyte,AURKB,0.009009156
+Satellite cell,AURKB,0.008075504
+Endothelial cell (lymphatic),AURKB,0.006882983
+Pericyte/SMC,AURKB,0.006558933
+Schwann cell,AURKB,0.006018516
+Mucous cell,AURKB,0.0057376116
+Myocyte (smooth muscle),AURKB,0.005287879
+Endothelial cell (vascular),AURKB,0.00510589
+Epithelial cell (alveolar type II),AURKB,0.004346156
+Epithelial cell (Hillock),AURKB,0.0037498476
+Myocyte (cardiac),AURKB,0.0036707672
+Epithelial cell (alveolar type I),AURKB,0.0034322992
+Epithelial cell (luminal),AURKB,0.0034106807
+"Myocyte (cardiac, cytoplasmic)",AURKB,0.0027496165
+Epithelial cell (ciliated),AURKB,0.0026098825
+Fibroblast,AURKB,0.0025999255
+"Myocyte (sk. muscle, cytoplasmic)",AURKB,0.0025649036
+Myocyte (sk. muscle),AURKB,0.0011183135
+Epithelial cell (cornified keratinocyte),AURKB,0.0
+ICCs,AURKB,0.0
+Myocyte (NMJ-rich),AURKB,0.0
+Myoepithelial (basal),AURKB,0.0
+Neuroendocrine,AURKB,0.0
+Neuronal,AURKB,0.0
+Sweat gland cell,AURKB,0.0

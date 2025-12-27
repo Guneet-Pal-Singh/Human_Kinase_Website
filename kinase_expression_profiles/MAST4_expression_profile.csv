@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Myocyte (cardiac),MAST4,1.704317
+Epithelial cell (suprabasal),MAST4,1.7038156
+Epithelial cell (alveolar type II),MAST4,1.6979406
+Epithelial cell (Hillock),MAST4,1.5447074
+Sebaceous gland cell,MAST4,1.4592141
+Epithelial cell (basal),MAST4,1.4528676
+Epithelial cell (club),MAST4,1.4037971
+Myocyte (NMJ-rich),MAST4,1.3105953
+Epithelial cell (basal keratinocyte),MAST4,1.2606003
+Epithelial cell (suprabasal keratinocyte),MAST4,1.1943319
+Adipocyte,MAST4,1.1188245
+Epithelial cell (mature keratinocyte),MAST4,1.0488669
+Epithelial cell (ciliated),MAST4,0.95483136
+Endothelial cell (vascular),MAST4,0.9336064
+Epithelial cell (squamous),MAST4,0.9297841
+Epithelial cell (luminal),MAST4,0.9146215
+Myoepithelial (basal),MAST4,0.7880429
+Mucous cell,MAST4,0.7771885
+Sweat gland cell,MAST4,0.7757207
+Myocyte (sk. muscle),MAST4,0.75004125
+Myofibroblast,MAST4,0.7235049
+Neuroendocrine,MAST4,0.6897383
+"Myocyte (cardiac, cytoplasmic)",MAST4,0.6891551
+Epithelial cell (alveolar type I),MAST4,0.68171585
+Pericyte/SMC,MAST4,0.6642039
+ICCs,MAST4,0.5735089
+Myocyte (smooth muscle),MAST4,0.5696401
+Immune (B cell),MAST4,0.49158448
+Fibroblast,MAST4,0.48636222
+Epithelial cell (cornified keratinocyte),MAST4,0.47568828
+Neuronal,MAST4,0.44819272
+"Myocyte (sk. muscle, cytoplasmic)",MAST4,0.40954
+Immune (T cell),MAST4,0.3312956
+Immune (mast cell),MAST4,0.30861303
+Immune (Langerhans),MAST4,0.25273788
+Endothelial cell (lymphatic),MAST4,0.2511764
+Immune (alveolar macrophage),MAST4,0.24618722
+Immune (DC),MAST4,0.2387263
+Schwann cell,MAST4,0.16712868
+Satellite cell,MAST4,0.13921298
+Melanocyte,MAST4,0.13196008
+Immune (NK cell),MAST4,0.07766688
+Immune (DC/macrophage),MAST4,0.07489913

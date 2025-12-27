@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (mast cell),BTK,0.382219
+Immune (Langerhans),BTK,0.2954503
+Immune (B cell),BTK,0.2909074
+Immune (alveolar macrophage),BTK,0.23151974
+Immune (DC/macrophage),BTK,0.1637854
+Immune (DC),BTK,0.03561968
+Sebaceous gland cell,BTK,0.035599712
+Myocyte (NMJ-rich),BTK,0.027883394
+Sweat gland cell,BTK,0.027651088
+Epithelial cell (suprabasal keratinocyte),BTK,0.022433853
+ICCs,BTK,0.02233801
+Epithelial cell (alveolar type I),BTK,0.017567268
+Epithelial cell (ciliated),BTK,0.017184088
+Myoepithelial (basal),BTK,0.016577592
+Melanocyte,BTK,0.01643239
+Immune (T cell),BTK,0.014523507
+Epithelial cell (alveolar type II),BTK,0.013215828
+Epithelial cell (basal keratinocyte),BTK,0.012826038
+Schwann cell,BTK,0.012771147
+Myocyte (cardiac),BTK,0.012584645
+Mucous cell,BTK,0.012170297
+Epithelial cell (mature keratinocyte),BTK,0.010819347
+Myofibroblast,BTK,0.007963309
+Myocyte (sk. muscle),BTK,0.0077359835
+Pericyte/SMC,BTK,0.0076704654
+Myocyte (smooth muscle),BTK,0.007449083
+Epithelial cell (basal),BTK,0.0061406246
+Epithelial cell (squamous),BTK,0.0057828343
+Endothelial cell (vascular),BTK,0.0057559405
+Fibroblast,BTK,0.0057540564
+Epithelial cell (Hillock),BTK,0.0049218214
+Epithelial cell (luminal),BTK,0.0048712585
+Epithelial cell (club),BTK,0.0048244647
+Endothelial cell (lymphatic),BTK,0.0040656114
+Adipocyte,BTK,0.003698729
+"Myocyte (cardiac, cytoplasmic)",BTK,0.0005564285
+Epithelial cell (cornified keratinocyte),BTK,0.0
+Immune (NK cell),BTK,0.0
+Epithelial cell (suprabasal),BTK,0.0
+"Myocyte (sk. muscle, cytoplasmic)",BTK,0.0
+Neuroendocrine,BTK,0.0
+Neuronal,BTK,0.0
+Satellite cell,BTK,0.0

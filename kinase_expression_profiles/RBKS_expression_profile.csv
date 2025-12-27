@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (ciliated),RBKS,0.4116399
+Myocyte (NMJ-rich),RBKS,0.30874148
+Myocyte (cardiac),RBKS,0.29774737
+Immune (mast cell),RBKS,0.25797042
+Myocyte (sk. muscle),RBKS,0.20973298
+ICCs,RBKS,0.18084323
+Neuronal,RBKS,0.17538919
+Epithelial cell (alveolar type II),RBKS,0.17202425
+Myocyte (smooth muscle),RBKS,0.16017488
+Schwann cell,RBKS,0.14351664
+Myofibroblast,RBKS,0.14099729
+Myoepithelial (basal),RBKS,0.13781276
+Epithelial cell (alveolar type I),RBKS,0.13386638
+Sebaceous gland cell,RBKS,0.1293102
+Endothelial cell (vascular),RBKS,0.12799856
+Epithelial cell (basal),RBKS,0.11751549
+Fibroblast,RBKS,0.11186191
+Satellite cell,RBKS,0.11153959
+Endothelial cell (lymphatic),RBKS,0.1101038
+Epithelial cell (club),RBKS,0.10826266
+Pericyte/SMC,RBKS,0.10301594
+Epithelial cell (Hillock),RBKS,0.098922804
+Immune (alveolar macrophage),RBKS,0.09207979
+Immune (DC/macrophage),RBKS,0.0915395
+Epithelial cell (suprabasal),RBKS,0.087687
+Neuroendocrine,RBKS,0.086595625
+Epithelial cell (luminal),RBKS,0.08579288
+Sweat gland cell,RBKS,0.08227218
+Mucous cell,RBKS,0.08184374
+Immune (T cell),RBKS,0.07860185
+"Myocyte (sk. muscle, cytoplasmic)",RBKS,0.07735166
+Immune (Langerhans),RBKS,0.066622026
+Immune (B cell),RBKS,0.0644183
+Epithelial cell (squamous),RBKS,0.06372554
+Immune (DC),RBKS,0.06274662
+Immune (NK cell),RBKS,0.06273542
+Adipocyte,RBKS,0.053107224
+Melanocyte,RBKS,0.047366083
+Epithelial cell (suprabasal keratinocyte),RBKS,0.04532807
+Epithelial cell (basal keratinocyte),RBKS,0.043905064
+"Myocyte (cardiac, cytoplasmic)",RBKS,0.04141702
+Epithelial cell (mature keratinocyte),RBKS,0.02647228
+Epithelial cell (cornified keratinocyte),RBKS,0.0

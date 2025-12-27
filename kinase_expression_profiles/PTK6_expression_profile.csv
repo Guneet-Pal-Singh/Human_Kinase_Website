@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (squamous),PTK6,1.0185354
+Epithelial cell (suprabasal),PTK6,0.6593061
+Epithelial cell (mature keratinocyte),PTK6,0.5293785
+Epithelial cell (cornified keratinocyte),PTK6,0.4075214
+Sebaceous gland cell,PTK6,0.31955385
+Mucous cell,PTK6,0.2515207
+Epithelial cell (suprabasal keratinocyte),PTK6,0.20173642
+Epithelial cell (Hillock),PTK6,0.16206443
+Epithelial cell (basal),PTK6,0.12121288
+Myofibroblast,PTK6,0.11946583
+Sweat gland cell,PTK6,0.10100906
+Immune (DC),PTK6,0.08519591
+Epithelial cell (basal keratinocyte),PTK6,0.072610386
+Epithelial cell (alveolar type I),PTK6,0.065946594
+Immune (alveolar macrophage),PTK6,0.036966395
+Epithelial cell (alveolar type II),PTK6,0.035905227
+Epithelial cell (club),PTK6,0.034255587
+Epithelial cell (ciliated),PTK6,0.03385968
+Epithelial cell (luminal),PTK6,0.027103493
+Myocyte (NMJ-rich),PTK6,0.026312027
+Immune (mast cell),PTK6,0.025462508
+Immune (DC/macrophage),PTK6,0.01745105
+Immune (NK cell),PTK6,0.015486006
+Myoepithelial (basal),PTK6,0.014969859
+Melanocyte,PTK6,0.011865685
+Schwann cell,PTK6,0.010770867
+Myocyte (cardiac),PTK6,0.007917299
+Adipocyte,PTK6,0.0071083885
+Endothelial cell (vascular),PTK6,0.006725161
+Myocyte (smooth muscle),PTK6,0.005264746
+Myocyte (sk. muscle),PTK6,0.0039647664
+Fibroblast,PTK6,0.0035933983
+Pericyte/SMC,PTK6,0.002660353
+Immune (T cell),PTK6,0.0021887098
+Endothelial cell (lymphatic),PTK6,0.0015195261
+"Myocyte (cardiac, cytoplasmic)",PTK6,0.0008943764
+Immune (Langerhans),PTK6,0.0
+ICCs,PTK6,0.0
+Immune (B cell),PTK6,0.0
+"Myocyte (sk. muscle, cytoplasmic)",PTK6,0.0
+Neuroendocrine,PTK6,0.0
+Neuronal,PTK6,0.0
+Satellite cell,PTK6,0.0

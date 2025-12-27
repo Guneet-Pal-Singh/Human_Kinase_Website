@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+"Myocyte (cardiac, cytoplasmic)",PKM,1.3101697
+"Myocyte (sk. muscle, cytoplasmic)",PKM,1.2567476
+Epithelial cell (Hillock),PKM,1.1869292
+Neuronal,PKM,1.1082603
+Epithelial cell (suprabasal),PKM,0.92063826
+Epithelial cell (basal),PKM,0.8580675
+Neuroendocrine,PKM,0.8492655
+Epithelial cell (club),PKM,0.81796294
+Epithelial cell (luminal),PKM,0.6651082
+Epithelial cell (squamous),PKM,0.65467954
+Mucous cell,PKM,0.62127733
+Immune (DC),PKM,0.61088675
+Immune (DC/macrophage),PKM,0.56676996
+Sweat gland cell,PKM,0.5087903
+Myocyte (cardiac),PKM,0.5064754
+Myocyte (smooth muscle),PKM,0.50156075
+Immune (alveolar macrophage),PKM,0.44345137
+Myofibroblast,PKM,0.42539102
+Epithelial cell (basal keratinocyte),PKM,0.40224603
+Epithelial cell (ciliated),PKM,0.33684978
+Myoepithelial (basal),PKM,0.33303043
+Epithelial cell (suprabasal keratinocyte),PKM,0.30817735
+Immune (NK cell),PKM,0.29774526
+Epithelial cell (alveolar type I),PKM,0.2958537
+Endothelial cell (lymphatic),PKM,0.27213624
+Immune (T cell),PKM,0.26425287
+ICCs,PKM,0.24866565
+Immune (B cell),PKM,0.24468756
+Fibroblast,PKM,0.23824145
+Endothelial cell (vascular),PKM,0.2302807
+Pericyte/SMC,PKM,0.22427289
+Schwann cell,PKM,0.21589553
+Immune (Langerhans),PKM,0.21336815
+Epithelial cell (cornified keratinocyte),PKM,0.20201303
+Sebaceous gland cell,PKM,0.19910541
+Epithelial cell (alveolar type II),PKM,0.18549386
+Immune (mast cell),PKM,0.17799324
+Adipocyte,PKM,0.14578213
+Epithelial cell (mature keratinocyte),PKM,0.14161839
+Melanocyte,PKM,0.10308463
+Myocyte (NMJ-rich),PKM,0.028388701
+Satellite cell,PKM,0.017058492
+Myocyte (sk. muscle),PKM,0.009571518

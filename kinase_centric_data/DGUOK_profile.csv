@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Neuron,DGUOK,1.25,16.0
+prostate,Glia,DGUOK,1.1428572,10.44776119402985
+skeletalmuscle,Adipocyte,DGUOK,1.0,8.176100628930817
+skin,Adipocyte,DGUOK,1.0,8.064516129032258
+prostate,Epithelial cell,DGUOK,1.1635768,7.948684609716985
+esophagusmucosa,Stromal,DGUOK,1.0519481,7.785642062689585
+heart,Adipocyte,DGUOK,1.2,7.772020725388601
+heart,Muscle,DGUOK,1.0930787,6.946286472148541
+heart,Glia,DGUOK,1.05,6.711409395973154
+esophagusmuscularis,Muscle,DGUOK,1.1215526,6.584168404062142
+breast,Muscle,DGUOK,1.0,6.578947368421052
+skin,Other,DGUOK,1.0,6.415929203539823
+prostate,Muscle,DGUOK,1.106383,6.286223807400802
+esophagusmucosa,Epithelial cell,DGUOK,1.06913,6.081472890692955
+prostate,Immune (myeloid),DGUOK,1.0819672,5.93385214007782
+heart,Fibroblast,DGUOK,1.0847145,5.846882739313018
+skeletalmuscle,Glia,DGUOK,1.0,5.714285714285714
+esophagusmuscularis,Immune (lymphocyte),DGUOK,1.0,5.647840531561462
+prostate,Fibroblast,DGUOK,1.0793651,5.516637478108581
+prostate,Immune (lymphocyte),DGUOK,1.0555556,5.278592375366569
+lung,Immune (myeloid),DGUOK,1.0578232,4.820462370880472
+skeletalmuscle,Fibroblast,DGUOK,1.0638298,4.744279946164199
+esophagusmucosa,Immune (myeloid),DGUOK,1.0307692,4.649499284692418
+skin,Epithelial cell (keratinocyte),DGUOK,1.0804597,4.468412942989214
+skin,Epithelial cell,DGUOK,1.0384616,4.318936877076411
+skin,Muscle,DGUOK,1.0,4.301075268817205
+prostate,Endothelial cell,DGUOK,1.0413224,4.281670205237084
+breast,Adipocyte,DGUOK,1.0405406,4.202157864849517
+heart,Immune (myeloid),DGUOK,1.0225564,4.156899515549305
+skin,Melanocyte,DGUOK,1.0,4.044117647058823
+skin,Immune (myeloid),DGUOK,1.0,3.910614525139665
+esophagusmucosa,Fibroblast,DGUOK,1.0272727,3.9076376554174073
+esophagusmuscularis,Fibroblast,DGUOK,1.0320197,3.900470746469401
+esophagusmuscularis,Glia,DGUOK,1.081081,3.814432989690722
+esophagusmucosa,Endothelial cell,DGUOK,1.039548,3.783668234288157
+heart,Endothelial cell,DGUOK,1.0727273,3.601833660772757
+skeletalmuscle,Endothelial cell,DGUOK,1.0652174,3.4560480841472576
+breast,Epithelial cell,DGUOK,1.05,3.448870494912916
+lung,Immune (lymphocyte),DGUOK,1.0833334,3.310344827586207
+esophagusmuscularis,Immune (myeloid),DGUOK,1.0421053,3.20620992237597
+lung,Epithelial cell,DGUOK,1.038961,3.198338525441329
+esophagusmucosa,Immune (lymphocyte),DGUOK,1.0350877,3.1353135313531357
+esophagusmuscularis,Endothelial cell,DGUOK,1.0503597,3.115893297466936
+skin,Fibroblast,DGUOK,1.0,3.0245746691871456
+skeletalmuscle,Immune (lymphocyte),DGUOK,1.0,3.0
+esophagusmucosa,Muscle,DGUOK,1.1333333,2.9940119760479043
+heart,Immune (lymphocyte),DGUOK,1.1,2.865329512893983
+lung,Fibroblast,DGUOK,1.0263158,2.5745257452574526
+breast,Fibroblast,DGUOK,1.05,2.442002442002442
+skin,Endothelial cell,DGUOK,1.0869565,2.248289345063539
+breast,Immune (myeloid),DGUOK,1.0,2.23463687150838
+skeletalmuscle,Immune (myeloid),DGUOK,1.0,2.03527815468114
+breast,Endothelial cell,DGUOK,1.125,1.8161180476730987
+lung,Endothelial cell,DGUOK,1.0,1.6751638747268751
+esophagusmucosa,Glia,DGUOK,1.0,1.5384615384615383
+skin,Immune (lymphocyte),DGUOK,1.0,1.3333333333333337
+esophagusmuscularis,Adipocyte,DGUOK,1.0,1.1428571428571428
+skeletalmuscle,Muscle,DGUOK,1.0384616,0.8063444242612201
+lung,Muscle,DGUOK,1.0,0.6134969325153374

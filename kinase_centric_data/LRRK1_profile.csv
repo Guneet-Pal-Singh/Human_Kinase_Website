@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmucosa,Immune (myeloid),LRRK1,1.6059114,29.0414878397711
+prostate,Immune (myeloid),LRRK1,1.3278009,23.443579766536963
+heart,Immune (myeloid),LRRK1,1.1924883,19.971870604782
+lung,Immune (myeloid),LRRK1,1.2284483,19.01951139531071
+prostate,Fibroblast,LRRK1,1.2568306,16.024518388791595
+skeletalmuscle,Immune (myeloid),LRRK1,1.1794872,15.87516960651289
+breast,Immune (myeloid),LRRK1,1.1320754,14.80446927374302
+skin,Immune (myeloid),LRRK1,1.48,13.966480446927374
+esophagusmucosa,Fibroblast,LRRK1,1.140056,12.682060390763766
+esophagusmucosa,Stromal,LRRK1,1.2477876,11.425682507583415
+prostate,Muscle,LRRK1,1.1778656,11.27953633526527
+esophagusmucosa,Epithelial cell,LRRK1,1.2139596,11.111916497535518
+prostate,Epithelial cell,LRRK1,1.1814212,10.917522645516405
+esophagusmuscularis,Immune (myeloid),LRRK1,1.0934579,10.833614579817752
+prostate,Endothelial cell,LRRK1,1.127451,10.828025477707008
+esophagusmuscularis,Fibroblast,LRRK1,1.162037,10.375636468440772
+heart,Fibroblast,LRRK1,1.1452894,9.486378809087972
+breast,Fibroblast,LRRK1,1.1621622,9.035409035409035
+heart,Adipocyte,LRRK1,1.0588236,8.808290155440414
+esophagusmuscularis,Adipocyte,LRRK1,1.0666667,8.571428571428571
+esophagusmuscularis,Neuron,LRRK1,1.5,8.0
+esophagusmuscularis,Endothelial cell,LRRK1,1.18,7.845774490024658
+esophagusmucosa,Endothelial cell,LRRK1,1.143662,7.588713125267208
+lung,Fibroblast,LRRK1,1.0818182,7.452574525745257
+skin,Endothelial cell,LRRK1,1.0547945,7.135874877810362
+breast,Endothelial cell,LRRK1,1.0645162,7.037457434733257
+lung,Epithelial cell,LRRK1,1.0992823,6.944963655244029
+skin,Fibroblast,LRRK1,1.1388888,6.805293005671078
+skin,Epithelial cell (keratinocyte),LRRK1,1.0689656,5.957883923985619
+skeletalmuscle,Fibroblast,LRRK1,1.0755814,5.787348586810229
+breast,Epithelial cell,LRRK1,1.0965732,5.53543714433523
+lung,Muscle,LRRK1,1.0,5.521472392638037
+breast,Muscle,LRRK1,1.0,5.263157894736842
+skin,Adipocyte,LRRK1,1.0,4.838709677419355
+prostate,Glia,LRRK1,1.3333334,4.477611940298507
+skin,Other,LRRK1,1.1,4.424778761061947
+lung,Immune (lymphocyte),LRRK1,1.625,4.413793103448276
+heart,Endothelial cell,LRRK1,1.1178248,4.335297969875573
+skin,Muscle,LRRK1,1.0,4.301075268817205
+esophagusmucosa,Muscle,LRRK1,1.15,3.992015968063872
+skeletalmuscle,Endothelial cell,LRRK1,1.1320754,3.9819684447783614
+skeletalmuscle,Adipocyte,LRRK1,1.0,3.7735849056603774
+esophagusmuscularis,Muscle,LRRK1,1.1264822,3.403053332436613
+lung,Endothelial cell,LRRK1,1.0561798,3.241077931536781
+esophagusmucosa,Glia,LRRK1,1.0,3.076923076923077
+esophagusmucosa,Immune (lymphocyte),LRRK1,1.226415,2.915291529152915
+heart,Glia,LRRK1,1.0,2.684563758389262
+esophagusmuscularis,Glia,LRRK1,1.1923077,2.6804123711340204
+esophagusmuscularis,Immune (lymphocyte),LRRK1,1.0,2.6578073089701
+heart,Muscle,LRRK1,1.1104101,2.6276525198939
+skin,Melanocyte,LRRK1,1.2857143,2.5735294117647056
+skin,Epithelial cell,LRRK1,1.0,2.1594684385382057
+heart,Immune (lymphocyte),LRRK1,1.0,2.148997134670487
+prostate,Immune (lymphocyte),LRRK1,1.3,1.466275659824047
+breast,Adipocyte,LRRK1,1.0476191,1.192504258943782
+skeletalmuscle,Muscle,LRRK1,1.0576923,1.1519206060874574
+skeletalmuscle,Immune (lymphocyte),LRRK1,0.0,0.0
+skeletalmuscle,Glia,LRRK1,0.0,0.0
+skin,Immune (lymphocyte),LRRK1,0.0,0.0

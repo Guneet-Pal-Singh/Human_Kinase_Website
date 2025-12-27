@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Adipocyte,PRKCD,0.37331167
+Immune (alveolar macrophage),PRKCD,0.25873998
+Immune (DC/macrophage),PRKCD,0.2496372
+Immune (DC),PRKCD,0.23449455
+Epithelial cell (mature keratinocyte),PRKCD,0.21416257
+Epithelial cell (Hillock),PRKCD,0.20321311
+Epithelial cell (squamous),PRKCD,0.18422022
+Epithelial cell (alveolar type II),PRKCD,0.15681635
+Epithelial cell (alveolar type I),PRKCD,0.1484232
+Epithelial cell (club),PRKCD,0.14421432
+Immune (B cell),PRKCD,0.14283484
+Mucous cell,PRKCD,0.14139013
+Epithelial cell (suprabasal),PRKCD,0.13585596
+Epithelial cell (ciliated),PRKCD,0.1329148
+Epithelial cell (luminal),PRKCD,0.10810295
+Neuronal,PRKCD,0.10267818
+Myoepithelial (basal),PRKCD,0.08704193
+Immune (mast cell),PRKCD,0.08584408
+Neuroendocrine,PRKCD,0.08562011
+Epithelial cell (suprabasal keratinocyte),PRKCD,0.083479814
+Epithelial cell (basal),PRKCD,0.080330096
+Immune (Langerhans),PRKCD,0.07701844
+Myofibroblast,PRKCD,0.06877041
+Pericyte/SMC,PRKCD,0.067870386
+Sebaceous gland cell,PRKCD,0.062186163
+Melanocyte,PRKCD,0.06133312
+Immune (T cell),PRKCD,0.05946973
+Immune (NK cell),PRKCD,0.054363854
+Myocyte (smooth muscle),PRKCD,0.052991018
+Epithelial cell (cornified keratinocyte),PRKCD,0.05236473
+Myocyte (cardiac),PRKCD,0.044944357
+Satellite cell,PRKCD,0.043020103
+Fibroblast,PRKCD,0.035537966
+Epithelial cell (basal keratinocyte),PRKCD,0.035179842
+Schwann cell,PRKCD,0.032971732
+"Myocyte (cardiac, cytoplasmic)",PRKCD,0.032936264
+Sweat gland cell,PRKCD,0.030360846
+Endothelial cell (lymphatic),PRKCD,0.027407605
+Endothelial cell (vascular),PRKCD,0.015910799
+ICCs,PRKCD,0.01297808
+Myocyte (sk. muscle),PRKCD,0.0120009435
+"Myocyte (sk. muscle, cytoplasmic)",PRKCD,0.0017878553
+Myocyte (NMJ-rich),PRKCD,0.0

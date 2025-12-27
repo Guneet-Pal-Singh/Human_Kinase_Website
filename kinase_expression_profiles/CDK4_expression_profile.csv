@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+"Myocyte (cardiac, cytoplasmic)",CDK4,0.13912523
+"Myocyte (sk. muscle, cytoplasmic)",CDK4,0.103447095
+Myocyte (cardiac),CDK4,0.0930179
+Epithelial cell (luminal),CDK4,0.09023181
+Epithelial cell (basal),CDK4,0.08743224
+Epithelial cell (Hillock),CDK4,0.08509069
+Myocyte (smooth muscle),CDK4,0.08357898
+Mucous cell,CDK4,0.08018092
+Schwann cell,CDK4,0.078045234
+Immune (NK cell),CDK4,0.077837005
+Pericyte/SMC,CDK4,0.07653412
+Fibroblast,CDK4,0.07382515
+Epithelial cell (mature keratinocyte),CDK4,0.071028896
+Adipocyte,CDK4,0.067886956
+Epithelial cell (club),CDK4,0.06750001
+Endothelial cell (lymphatic),CDK4,0.060539603
+Melanocyte,CDK4,0.053490262
+Epithelial cell (alveolar type II),CDK4,0.050819322
+Endothelial cell (vascular),CDK4,0.04790005
+Epithelial cell (suprabasal keratinocyte),CDK4,0.04624809
+Myofibroblast,CDK4,0.046019055
+Epithelial cell (suprabasal),CDK4,0.044658594
+Immune (DC),CDK4,0.044059206
+Immune (DC/macrophage),CDK4,0.042273734
+Epithelial cell (alveolar type I),CDK4,0.041998297
+Immune (alveolar macrophage),CDK4,0.03865731
+Epithelial cell (ciliated),CDK4,0.038224593
+Epithelial cell (cornified keratinocyte),CDK4,0.03774584
+Immune (mast cell),CDK4,0.034961633
+Immune (B cell),CDK4,0.029752119
+Satellite cell,CDK4,0.025727097
+Immune (T cell),CDK4,0.025562705
+Epithelial cell (basal keratinocyte),CDK4,0.02373473
+Neuroendocrine,CDK4,0.022867609
+Myoepithelial (basal),CDK4,0.018952655
+Myocyte (NMJ-rich),CDK4,0.018482912
+Epithelial cell (squamous),CDK4,0.017097753
+Myocyte (sk. muscle),CDK4,0.01355849
+Sweat gland cell,CDK4,0.012093212
+ICCs,CDK4,0.011319232
+Immune (Langerhans),CDK4,0.0
+Neuronal,CDK4,0.0
+Sebaceous gland cell,CDK4,0.0

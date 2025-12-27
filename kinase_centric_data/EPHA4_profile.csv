@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+heart,Endothelial cell,EPHA4,1.6495413,35.69089718402096
+skeletalmuscle,Endothelial cell,EPHA4,1.7185628,25.09391435011269
+esophagusmucosa,Endothelial cell,EPHA4,1.533264,20.56434373663959
+esophagusmuscularis,Endothelial cell,EPHA4,1.5401376,19.547186729432863
+prostate,Endothelial cell,EPHA4,1.4228028,14.897381457891012
+skin,Endothelial cell,EPHA4,1.4275862,14.173998044965789
+breast,Endothelial cell,EPHA4,1.5210084,13.507377979568671
+prostate,Muscle,EPHA4,1.2842106,12.70619705751226
+heart,Muscle,EPHA4,1.5027152,10.684681697612731
+lung,Endothelial cell,EPHA4,1.3257576,9.61398397669337
+skin,Epithelial cell (keratinocyte),EPHA4,1.1279069,8.834103749357986
+lung,Epithelial cell,EPHA4,1.2197115,8.639667705088266
+prostate,Fibroblast,EPHA4,1.244898,8.581436077057793
+skin,Adipocyte,EPHA4,1.0,8.064516129032258
+esophagusmucosa,Stromal,EPHA4,1.3205128,7.886754297269969
+esophagusmuscularis,Adipocyte,EPHA4,1.0,7.428571428571429
+breast,Fibroblast,EPHA4,1.1186441,7.203907203907203
+breast,Adipocyte,EPHA4,1.2063493,7.155025553662692
+skin,Other,EPHA4,1.25,7.079646017699115
+skeletalmuscle,Adipocyte,EPHA4,1.2727273,6.918238993710692
+esophagusmucosa,Epithelial cell,EPHA4,1.6254257,6.385908959118584
+skeletalmuscle,Immune (lymphocyte),EPHA4,1.0,5.0
+skin,Fibroblast,EPHA4,1.1818181,4.158790170132325
+heart,Immune (lymphocyte),EPHA4,1.2413793,4.154727793696275
+esophagusmuscularis,Neuron,EPHA4,1.0,4.0
+prostate,Epithelial cell,EPHA4,1.3101852,3.7446365882199975
+esophagusmucosa,Muscle,EPHA4,1.2777778,3.592814371257485
+breast,Muscle,EPHA4,1.6,3.289473684210526
+esophagusmuscularis,Muscle,EPHA4,1.1972789,2.9659022126572063
+prostate,Immune (lymphocyte),EPHA4,1.0526316,2.785923753665689
+breast,Epithelial cell,EPHA4,1.1298702,2.6556302810829453
+lung,Muscle,EPHA4,1.25,2.4539877300613497
+esophagusmucosa,Immune (lymphocyte),EPHA4,1.255814,2.3652365236523654
+lung,Immune (lymphocyte),EPHA4,1.1764706,2.344827586206897
+skin,Epithelial cell,EPHA4,1.0,1.9933554817275747
+skeletalmuscle,Muscle,EPHA4,1.1209677,1.6481325594789775
+lung,Immune (myeloid),EPHA4,1.0707071,1.6232169208066896
+skin,Muscle,EPHA4,1.6666666,1.6129032258064515
+lung,Fibroblast,EPHA4,1.3043479,1.5582655826558265
+esophagusmucosa,Glia,EPHA4,1.0,1.5384615384615383
+prostate,Glia,EPHA4,1.0,1.4925373134328357
+esophagusmuscularis,Immune (lymphocyte),EPHA4,1.5,1.32890365448505
+esophagusmuscularis,Fibroblast,EPHA4,1.1029412,1.3065616293592084
+esophagusmucosa,Immune (myeloid),EPHA4,1.1333333,1.072961373390558
+skeletalmuscle,Fibroblast,EPHA4,1.12,0.8411843876177658
+esophagusmuscularis,Glia,EPHA4,1.125,0.8247422680412372
+esophagusmuscularis,Immune (myeloid),EPHA4,1.0454545,0.7424907188660141
+skin,Melanocyte,EPHA4,1.0,0.7352941176470588
+heart,Glia,EPHA4,1.0,0.6711409395973155
+heart,Fibroblast,EPHA4,1.0535715,0.6029934316786907
+skin,Immune (myeloid),EPHA4,1.0,0.5586592178770949
+heart,Adipocyte,EPHA4,1.0,0.5181347150259068
+heart,Immune (myeloid),EPHA4,1.3793104,0.4531958118456008
+skeletalmuscle,Immune (myeloid),EPHA4,1.0,0.4070556309362279
+prostate,Immune (myeloid),EPHA4,1.25,0.3891050583657587
+breast,Immune (myeloid),EPHA4,1.0,0.2793296089385474
+esophagusmucosa,Fibroblast,EPHA4,1.0,0.2486678507992895
+skeletalmuscle,Glia,EPHA4,0.0,0.0
+skin,Immune (lymphocyte),EPHA4,0.0,0.0

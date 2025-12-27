@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (squamous),STK35,0.34719664
+Myocyte (cardiac),STK35,0.25887105
+Adipocyte,STK35,0.22019614
+Neuronal,STK35,0.21523704
+Myofibroblast,STK35,0.2114175
+Epithelial cell (suprabasal),STK35,0.21022914
+Immune (alveolar macrophage),STK35,0.16397528
+Epithelial cell (basal keratinocyte),STK35,0.15859352
+Epithelial cell (cornified keratinocyte),STK35,0.14465809
+Mucous cell,STK35,0.14320134
+Epithelial cell (basal),STK35,0.1310911
+Melanocyte,STK35,0.124053456
+Epithelial cell (ciliated),STK35,0.121330835
+Epithelial cell (alveolar type I),STK35,0.104158655
+Epithelial cell (alveolar type II),STK35,0.10355212
+Epithelial cell (suprabasal keratinocyte),STK35,0.1027432
+Endothelial cell (lymphatic),STK35,0.09941893
+Epithelial cell (Hillock),STK35,0.09879112
+Neuroendocrine,STK35,0.0971868
+Immune (B cell),STK35,0.09646199
+Epithelial cell (club),STK35,0.094773255
+"Myocyte (cardiac, cytoplasmic)",STK35,0.0866562
+ICCs,STK35,0.0828663
+Fibroblast,STK35,0.078178994
+Myocyte (smooth muscle),STK35,0.07801754
+Immune (T cell),STK35,0.0769343
+Sweat gland cell,STK35,0.076816745
+Myocyte (sk. muscle),STK35,0.07498697
+Endothelial cell (vascular),STK35,0.07479119
+Immune (mast cell),STK35,0.07049966
+Epithelial cell (luminal),STK35,0.06921193
+Immune (NK cell),STK35,0.06347804
+Pericyte/SMC,STK35,0.06060969
+Sebaceous gland cell,STK35,0.05740479
+Immune (DC/macrophage),STK35,0.052372526
+Immune (Langerhans),STK35,0.05166466
+Epithelial cell (mature keratinocyte),STK35,0.050674036
+Schwann cell,STK35,0.043811638
+Satellite cell,STK35,0.032929875
+"Myocyte (sk. muscle, cytoplasmic)",STK35,0.031507708
+Myoepithelial (basal),STK35,0.029376037
+Immune (DC),STK35,0.0
+Myocyte (NMJ-rich),STK35,0.0

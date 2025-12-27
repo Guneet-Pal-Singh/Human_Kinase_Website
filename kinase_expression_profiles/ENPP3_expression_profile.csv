@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (mast cell),ENPP3,0.53266245
+Endothelial cell (lymphatic),ENPP3,0.20766526
+Epithelial cell (club),ENPP3,0.2022606
+Epithelial cell (luminal),ENPP3,0.19320723
+Myoepithelial (basal),ENPP3,0.15031998
+Immune (alveolar macrophage),ENPP3,0.11693754
+Adipocyte,ENPP3,0.109722115
+Epithelial cell (Hillock),ENPP3,0.10216411
+Epithelial cell (basal),ENPP3,0.09316107
+Mucous cell,ENPP3,0.05790581
+Epithelial cell (ciliated),ENPP3,0.050445374
+Epithelial cell (alveolar type II),ENPP3,0.048002366
+Sweat gland cell,ENPP3,0.046655096
+Endothelial cell (vascular),ENPP3,0.041916277
+Immune (B cell),ENPP3,0.040840358
+Epithelial cell (alveolar type I),ENPP3,0.039770328
+Epithelial cell (suprabasal),ENPP3,0.039363045
+Myofibroblast,ENPP3,0.036420982
+ICCs,ENPP3,0.036276594
+Schwann cell,ENPP3,0.03505513
+Immune (NK cell),ENPP3,0.026777202
+Epithelial cell (suprabasal keratinocyte),ENPP3,0.026220325
+Fibroblast,ENPP3,0.025501879
+Immune (T cell),ENPP3,0.023155523
+Epithelial cell (basal keratinocyte),ENPP3,0.022059418
+Myocyte (cardiac),ENPP3,0.02014542
+Epithelial cell (mature keratinocyte),ENPP3,0.019213518
+Myocyte (smooth muscle),ENPP3,0.01892312
+Epithelial cell (squamous),ENPP3,0.017875774
+Pericyte/SMC,ENPP3,0.017654423
+Myocyte (sk. muscle),ENPP3,0.016566712
+Satellite cell,ENPP3,0.01650023
+Sebaceous gland cell,ENPP3,0.015714495
+Immune (DC/macrophage),ENPP3,0.01169186
+Melanocyte,ENPP3,0.01130763
+"Myocyte (sk. muscle, cytoplasmic)",ENPP3,0.0037006158
+"Myocyte (cardiac, cytoplasmic)",ENPP3,0.0021665576
+Epithelial cell (cornified keratinocyte),ENPP3,0.0
+Immune (Langerhans),ENPP3,0.0
+Immune (DC),ENPP3,0.0
+Myocyte (NMJ-rich),ENPP3,0.0
+Neuronal,ENPP3,0.0
+Neuroendocrine,ENPP3,0.0

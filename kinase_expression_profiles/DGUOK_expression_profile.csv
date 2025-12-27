@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Neuroendocrine,DGUOK,0.28294954
+Neuronal,DGUOK,0.28014717
+Immune (B cell),DGUOK,0.23963772
+Mucous cell,DGUOK,0.21729983
+Immune (DC),DGUOK,0.21104595
+Epithelial cell (luminal),DGUOK,0.20057358
+Myocyte (smooth muscle),DGUOK,0.18975565
+Myofibroblast,DGUOK,0.18003039
+Sebaceous gland cell,DGUOK,0.17976455
+Epithelial cell (club),DGUOK,0.17822413
+Immune (NK cell),DGUOK,0.17781033
+Epithelial cell (suprabasal),DGUOK,0.17549153
+Epithelial cell (basal),DGUOK,0.1721995
+Epithelial cell (Hillock),DGUOK,0.16645795
+ICCs,DGUOK,0.16521187
+Schwann cell,DGUOK,0.16092393
+Epithelial cell (suprabasal keratinocyte),DGUOK,0.15824726
+"Myocyte (cardiac, cytoplasmic)",DGUOK,0.15181121
+Fibroblast,DGUOK,0.14736208
+Epithelial cell (basal keratinocyte),DGUOK,0.14622465
+Immune (Langerhans),DGUOK,0.1437427
+Myocyte (cardiac),DGUOK,0.14049155
+"Myocyte (sk. muscle, cytoplasmic)",DGUOK,0.13812396
+Adipocyte,DGUOK,0.13608103
+Immune (DC/macrophage),DGUOK,0.13215484
+Pericyte/SMC,DGUOK,0.13154708
+Epithelial cell (mature keratinocyte),DGUOK,0.13106486
+Myoepithelial (basal),DGUOK,0.12679693
+Endothelial cell (lymphatic),DGUOK,0.1263013
+Immune (alveolar macrophage),DGUOK,0.12427169
+Melanocyte,DGUOK,0.12371885
+Immune (T cell),DGUOK,0.12221076
+Immune (mast cell),DGUOK,0.11611531
+Epithelial cell (ciliated),DGUOK,0.114486784
+Sweat gland cell,DGUOK,0.11004261
+Endothelial cell (vascular),DGUOK,0.10438616
+Satellite cell,DGUOK,0.0934822
+Epithelial cell (alveolar type II),DGUOK,0.092600375
+Epithelial cell (alveolar type I),DGUOK,0.092591345
+Epithelial cell (cornified keratinocyte),DGUOK,0.08190175
+Epithelial cell (squamous),DGUOK,0.06809024
+Myocyte (NMJ-rich),DGUOK,0.023733376
+Myocyte (sk. muscle),DGUOK,0.017994164

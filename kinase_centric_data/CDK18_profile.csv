@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+heart,Muscle,CDK18,1.6466488,30.9184350132626
+esophagusmucosa,Glia,CDK18,1.5,12.307692307692308
+esophagusmucosa,Muscle,CDK18,1.0408163,9.780439121756489
+esophagusmuscularis,Glia,CDK18,1.0617284,8.350515463917525
+heart,Glia,CDK18,1.1875,5.369127516778524
+esophagusmucosa,Epithelial cell,CDK18,1.0823045,5.2841403305305885
+breast,Muscle,CDK18,1.0,5.263157894736842
+lung,Muscle,CDK18,1.0,4.9079754601227
+lung,Fibroblast,CDK18,1.0597014,4.539295392953929
+lung,Immune (myeloid),CDK18,1.071161,4.377766847024103
+esophagusmucosa,Stromal,CDK18,1.1860465,4.3478260869565215
+esophagusmuscularis,Neuron,CDK18,1.0,4.0
+lung,Epithelial cell,CDK18,1.0386682,3.867082035306334
+skin,Muscle,CDK18,1.0,3.225806451612903
+prostate,Fibroblast,CDK18,1.0555556,3.1523642732049035
+breast,Epithelial cell,CDK18,1.0391061,3.08673909294706
+prostate,Epithelial cell,CDK18,1.0711111,2.925497334546873
+skin,Epithelial cell,CDK18,1.0,2.3255813953488373
+esophagusmucosa,Fibroblast,CDK18,1.05,2.131438721136768
+skin,Fibroblast,CDK18,1.0,2.0793950850661624
+prostate,Muscle,CDK18,1.0222223,2.0062416406598307
+skin,Adipocyte,CDK18,1.0,1.6129032258064515
+prostate,Glia,CDK18,1.0,1.4925373134328357
+heart,Endothelial cell,CDK18,1.046729,1.401440733464309
+breast,Immune (myeloid),CDK18,1.0,1.3966480446927374
+heart,Immune (myeloid),CDK18,1.0337079,1.3908423191123611
+skin,Immune (lymphocyte),CDK18,1.0,1.3333333333333337
+prostate,Immune (myeloid),CDK18,1.0,1.264591439688716
+heart,Fibroblast,CDK18,1.018868,1.1413804242489505
+skin,Other,CDK18,1.0,1.106194690265487
+esophagusmuscularis,Muscle,CDK18,1.0387096,1.0424372856278163
+heart,Adipocyte,CDK18,1.5,1.0362694300518136
+skeletalmuscle,Immune (lymphocyte),CDK18,1.0,1.0
+skeletalmuscle,Immune (myeloid),CDK18,1.0,0.949796472184532
+esophagusmucosa,Immune (myeloid),CDK18,1.0,0.9298998569384836
+skin,Epithelial cell (keratinocyte),CDK18,1.0,0.9244992295839756
+heart,Immune (lymphocyte),CDK18,1.0,0.8595988538681949
+lung,Endothelial cell,CDK18,1.0,0.7283321194464676
+skeletalmuscle,Endothelial cell,CDK18,1.0,0.67618332081142
+skeletalmuscle,Adipocyte,CDK18,1.0,0.628930817610063
+esophagusmuscularis,Immune (myeloid),CDK18,1.0588236,0.5737428282146473
+esophagusmuscularis,Adipocyte,CDK18,1.0,0.5714285714285714
+breast,Endothelial cell,CDK18,1.0,0.5675368898978433
+esophagusmuscularis,Fibroblast,CDK18,1.0377358,0.5091747526179269
+skeletalmuscle,Fibroblast,CDK18,1.04,0.4205921938088829
+lung,Immune (lymphocyte),CDK18,1.0,0.4137931034482758
+esophagusmuscularis,Endothelial cell,CDK18,1.0,0.3810804752297691
+breast,Fibroblast,CDK18,1.0,0.3663003663003663
+esophagusmucosa,Endothelial cell,CDK18,1.117647,0.3634031637451902
+prostate,Endothelial cell,CDK18,1.0,0.3538570417551309
+skeletalmuscle,Muscle,CDK18,1.0266666,0.3322847902175357
+esophagusmuscularis,Immune (lymphocyte),CDK18,1.0,0.3322259136212624
+breast,Adipocyte,CDK18,1.0,0.2271436683702442
+esophagusmucosa,Immune (lymphocyte),CDK18,0.0,0.0
+prostate,Immune (lymphocyte),CDK18,0.0,0.0
+skin,Endothelial cell,CDK18,0.0,0.0
+skeletalmuscle,Glia,CDK18,0.0,0.0
+skin,Melanocyte,CDK18,0.0,0.0
+skin,Immune (myeloid),CDK18,0.0,0.0

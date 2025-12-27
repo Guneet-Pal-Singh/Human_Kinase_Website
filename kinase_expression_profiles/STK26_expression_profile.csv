@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (B cell),STK26,0.11619957
+Immune (NK cell),STK26,0.09434417
+Immune (Langerhans),STK26,0.08534343
+Epithelial cell (basal),STK26,0.07676652
+Epithelial cell (mature keratinocyte),STK26,0.06922947
+Epithelial cell (suprabasal keratinocyte),STK26,0.06788171
+Sebaceous gland cell,STK26,0.067335226
+Neuroendocrine,STK26,0.067290254
+Epithelial cell (basal keratinocyte),STK26,0.065455586
+Immune (T cell),STK26,0.06404144
+Epithelial cell (alveolar type II),STK26,0.063135006
+Epithelial cell (Hillock),STK26,0.0536399
+Epithelial cell (suprabasal),STK26,0.04755896
+Epithelial cell (cornified keratinocyte),STK26,0.046744507
+Immune (mast cell),STK26,0.046724364
+Myofibroblast,STK26,0.041971907
+Myoepithelial (basal),STK26,0.0394822
+Epithelial cell (squamous),STK26,0.03681032
+Myocyte (smooth muscle),STK26,0.034039088
+Immune (DC/macrophage),STK26,0.028873267
+"Myocyte (sk. muscle, cytoplasmic)",STK26,0.026354583
+Epithelial cell (club),STK26,0.02607592
+Epithelial cell (alveolar type I),STK26,0.023128951
+Immune (alveolar macrophage),STK26,0.020887729
+Mucous cell,STK26,0.020361472
+Satellite cell,STK26,0.0184172
+Epithelial cell (luminal),STK26,0.017920278
+"Myocyte (cardiac, cytoplasmic)",STK26,0.007944153
+Sweat gland cell,STK26,0.0071520275
+Fibroblast,STK26,0.0069632567
+Endothelial cell (vascular),STK26,0.00680202
+Pericyte/SMC,STK26,0.0055921706
+Epithelial cell (ciliated),STK26,0.0044137114
+Adipocyte,STK26,0.002939283
+Myocyte (cardiac),STK26,0.002828404
+Schwann cell,STK26,0.002421546
+Endothelial cell (lymphatic),STK26,0.0010057478
+Myocyte (sk. muscle),STK26,0.0009325324
+ICCs,STK26,0.0
+Melanocyte,STK26,0.0
+Immune (DC),STK26,0.0
+Myocyte (NMJ-rich),STK26,0.0
+Neuronal,STK26,0.0

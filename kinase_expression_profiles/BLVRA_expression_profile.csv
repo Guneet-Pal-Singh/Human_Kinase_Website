@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (DC),BLVRA,0.28607658
+Immune (alveolar macrophage),BLVRA,0.28031045
+Epithelial cell (squamous),BLVRA,0.19121648
+Immune (mast cell),BLVRA,0.1706583
+Immune (DC/macrophage),BLVRA,0.16936629
+"Myocyte (cardiac, cytoplasmic)",BLVRA,0.15733568
+Epithelial cell (ciliated),BLVRA,0.15358944
+Epithelial cell (alveolar type II),BLVRA,0.15271452
+Epithelial cell (alveolar type I),BLVRA,0.15151767
+Mucous cell,BLVRA,0.14078374
+Myocyte (smooth muscle),BLVRA,0.13970871
+Epithelial cell (suprabasal),BLVRA,0.13724774
+Melanocyte,BLVRA,0.12940644
+Epithelial cell (cornified keratinocyte),BLVRA,0.120531835
+Neuronal,BLVRA,0.10998699
+Adipocyte,BLVRA,0.104924224
+Myofibroblast,BLVRA,0.10106888
+"Myocyte (sk. muscle, cytoplasmic)",BLVRA,0.10094989
+Epithelial cell (basal),BLVRA,0.1001506
+Epithelial cell (suprabasal keratinocyte),BLVRA,0.09615487
+Epithelial cell (basal keratinocyte),BLVRA,0.092759885
+Epithelial cell (Hillock),BLVRA,0.09204155
+Myoepithelial (basal),BLVRA,0.08847739
+Immune (Langerhans),BLVRA,0.080684505
+Epithelial cell (luminal),BLVRA,0.078035295
+Immune (NK cell),BLVRA,0.06511516
+Sweat gland cell,BLVRA,0.063333526
+Epithelial cell (club),BLVRA,0.062224053
+Epithelial cell (mature keratinocyte),BLVRA,0.059547953
+Myocyte (cardiac),BLVRA,0.056643505
+Schwann cell,BLVRA,0.05508496
+Sebaceous gland cell,BLVRA,0.053136565
+Fibroblast,BLVRA,0.036213867
+Endothelial cell (vascular),BLVRA,0.03559334
+Myocyte (NMJ-rich),BLVRA,0.034373146
+Pericyte/SMC,BLVRA,0.0340233
+ICCs,BLVRA,0.03285322
+Endothelial cell (lymphatic),BLVRA,0.032361075
+Immune (T cell),BLVRA,0.023913708
+Satellite cell,BLVRA,0.018182518
+Immune (B cell),BLVRA,0.0070265825
+Myocyte (sk. muscle),BLVRA,0.005799621
+Neuroendocrine,BLVRA,0.0

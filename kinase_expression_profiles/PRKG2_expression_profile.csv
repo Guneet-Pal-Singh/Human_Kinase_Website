@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (mast cell),PRKG2,0.15457416
+Epithelial cell (alveolar type I),PRKG2,0.11259731
+Neuroendocrine,PRKG2,0.11214039
+Melanocyte,PRKG2,0.11166008
+Myofibroblast,PRKG2,0.10928437
+Myocyte (NMJ-rich),PRKG2,0.08042688
+Myocyte (smooth muscle),PRKG2,0.074418835
+Epithelial cell (cornified keratinocyte),PRKG2,0.04903123
+Epithelial cell (luminal),PRKG2,0.047396705
+Epithelial cell (mature keratinocyte),PRKG2,0.046950456
+Epithelial cell (alveolar type II),PRKG2,0.04583863
+Epithelial cell (suprabasal keratinocyte),PRKG2,0.037412394
+Immune (alveolar macrophage),PRKG2,0.03724296
+Epithelial cell (Hillock),PRKG2,0.029388677
+Epithelial cell (suprabasal),PRKG2,0.029350592
+Epithelial cell (club),PRKG2,0.028222928
+Epithelial cell (ciliated),PRKG2,0.027035303
+Schwann cell,PRKG2,0.021049432
+Myoepithelial (basal),PRKG2,0.02064463
+Epithelial cell (basal keratinocyte),PRKG2,0.020085892
+Fibroblast,PRKG2,0.019536775
+Epithelial cell (basal),PRKG2,0.018249938
+Myocyte (cardiac),PRKG2,0.01609313
+Immune (B cell),PRKG2,0.01600809
+ICCs,PRKG2,0.015525308
+Myocyte (sk. muscle),PRKG2,0.014905179
+Immune (T cell),PRKG2,0.014279843
+Endothelial cell (lymphatic),PRKG2,0.01183771
+Pericyte/SMC,PRKG2,0.01162942
+Endothelial cell (vascular),PRKG2,0.0114673395
+Sebaceous gland cell,PRKG2,0.009934519
+Immune (DC/macrophage),PRKG2,0.009295918
+Mucous cell,PRKG2,0.008978904
+Immune (NK cell),PRKG2,0.008616005
+"Myocyte (sk. muscle, cytoplasmic)",PRKG2,0.006827696
+"Myocyte (cardiac, cytoplasmic)",PRKG2,0.0040134746
+Adipocyte,PRKG2,0.0025252458
+Epithelial cell (squamous),PRKG2,0.0024550261
+Immune (Langerhans),PRKG2,0.0
+Immune (DC),PRKG2,0.0
+Neuronal,PRKG2,0.0
+Satellite cell,PRKG2,0.0
+Sweat gland cell,PRKG2,0.0

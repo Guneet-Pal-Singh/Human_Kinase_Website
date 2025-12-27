@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Glia,STK32A,1.1871345,17.628865979381445
+esophagusmucosa,Glia,STK32A,1.1818181,16.923076923076923
+skin,Melanocyte,STK32A,1.1428572,15.441176470588236
+prostate,Glia,STK32A,1.4444444,13.432835820895525
+heart,Glia,STK32A,1.2121212,11.073825503355703
+lung,Epithelial cell,STK32A,1.1704249,9.57840083073728
+skin,Epithelial cell,STK32A,1.6122448,8.13953488372093
+esophagusmuscularis,Neuron,STK32A,1.0,8.0
+breast,Fibroblast,STK32A,1.1764706,6.227106227106227
+skeletalmuscle,Glia,STK32A,1.0,5.714285714285714
+esophagusmuscularis,Adipocyte,STK32A,1.2222222,5.142857142857142
+skin,Fibroblast,STK32A,1.2631578,3.5916824196597354
+lung,Immune (myeloid),STK32A,1.0776255,3.590752582390556
+prostate,Fibroblast,STK32A,1.0256411,3.4150612959719786
+lung,Fibroblast,STK32A,1.0425532,3.1842818428184283
+heart,Fibroblast,STK32A,1.0849421,2.788844621513944
+lung,Endothelial cell,STK32A,1.0,2.2578295702840494
+esophagusmuscularis,Fibroblast,STK32A,1.0515021,2.2384474973580555
+esophagusmuscularis,Endothelial cell,STK32A,1.1326531,2.196816857206904
+breast,Immune (myeloid),STK32A,1.0,1.9553072625698324
+skeletalmuscle,Fibroblast,STK32A,1.0442477,1.9010767160161504
+esophagusmuscularis,Muscle,STK32A,1.0492424,1.7755060864886676
+breast,Endothelial cell,STK32A,1.0,1.70261066969353
+skin,Immune (myeloid),STK32A,1.0,1.675977653631285
+skin,Muscle,STK32A,1.0,1.6129032258064515
+heart,Muscle,STK32A,1.027027,1.5334880636604775
+esophagusmucosa,Stromal,STK32A,1.0,1.5166835187057632
+esophagusmucosa,Fibroblast,STK32A,1.054054,1.3143872113676731
+prostate,Muscle,STK32A,1.0689656,1.2929112795363351
+prostate,Endothelial cell,STK32A,1.0,1.167728237791932
+prostate,Epithelial cell,STK32A,1.064,1.0835175313136567
+breast,Adipocyte,STK32A,1.0,1.0789324247586598
+breast,Epithelial cell,STK32A,1.05,1.0346611484738748
+skeletalmuscle,Immune (lymphocyte),STK32A,1.0,1.0
+esophagusmucosa,Endothelial cell,STK32A,1.0,0.9191962377084224
+skin,Endothelial cell,STK32A,1.0,0.8797653958944283
+heart,Endothelial cell,STK32A,1.0153847,0.8513425016371972
+lung,Immune (lymphocyte),STK32A,1.0,0.8275862068965517
+skeletalmuscle,Muscle,STK32A,1.0215054,0.8240662797394888
+esophagusmucosa,Epithelial cell,STK32A,1.0089285,0.8118295158016816
+esophagusmuscularis,Immune (myeloid),STK32A,1.0,0.7762402969962876
+skeletalmuscle,Endothelial cell,STK32A,1.0,0.67618332081142
+breast,Muscle,STK32A,1.0,0.6578947368421052
+skeletalmuscle,Adipocyte,STK32A,1.0,0.628930817610063
+heart,Immune (myeloid),STK32A,1.0,0.5782153461478357
+heart,Adipocyte,STK32A,1.0,0.5181347150259068
+skin,Other,STK32A,1.0,0.4424778761061947
+heart,Immune (lymphocyte),STK32A,1.0,0.4297994269340974
+skeletalmuscle,Immune (myeloid),STK32A,1.0,0.4070556309362279
+esophagusmucosa,Muscle,STK32A,1.0,0.3992015968063871
+prostate,Immune (myeloid),STK32A,1.0,0.3891050583657587
+esophagusmuscularis,Immune (lymphocyte),STK32A,1.0,0.3322259136212624
+prostate,Immune (lymphocyte),STK32A,1.0,0.2932551319648094
+esophagusmucosa,Immune (myeloid),STK32A,1.0,0.2145922746781116
+skin,Epithelial cell (keratinocyte),STK32A,1.0,0.2054442732408834
+esophagusmucosa,Immune (lymphocyte),STK32A,1.0,0.165016501650165
+lung,Muscle,STK32A,0.0,0.0
+skin,Adipocyte,STK32A,0.0,0.0
+skin,Immune (lymphocyte),STK32A,0.0,0.0

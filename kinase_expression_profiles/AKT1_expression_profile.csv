@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Adipocyte,AKT1,0.3582551
+Immune (Langerhans),AKT1,0.3546279
+"Myocyte (cardiac, cytoplasmic)",AKT1,0.27780682
+Myofibroblast,AKT1,0.24925439
+Mucous cell,AKT1,0.23924482
+Sweat gland cell,AKT1,0.22351846
+Epithelial cell (squamous),AKT1,0.2082802
+Epithelial cell (suprabasal),AKT1,0.20523678
+Epithelial cell (Hillock),AKT1,0.1956658
+Epithelial cell (luminal),AKT1,0.18250151
+Myocyte (smooth muscle),AKT1,0.18151155
+Immune (DC),AKT1,0.17892846
+Epithelial cell (basal),AKT1,0.17533512
+Immune (T cell),AKT1,0.14350934
+Epithelial cell (club),AKT1,0.14295915
+Melanocyte,AKT1,0.13938631
+Epithelial cell (suprabasal keratinocyte),AKT1,0.13419582
+Epithelial cell (alveolar type I),AKT1,0.13178931
+Immune (alveolar macrophage),AKT1,0.12883513
+Neuroendocrine,AKT1,0.12410901
+Immune (DC/macrophage),AKT1,0.12043723
+Epithelial cell (alveolar type II),AKT1,0.11843641
+Epithelial cell (mature keratinocyte),AKT1,0.08933118
+Endothelial cell (lymphatic),AKT1,0.088729694
+Epithelial cell (basal keratinocyte),AKT1,0.08839311
+Schwann cell,AKT1,0.08595103
+Pericyte/SMC,AKT1,0.084255956
+"Myocyte (sk. muscle, cytoplasmic)",AKT1,0.08410345
+Endothelial cell (vascular),AKT1,0.08405964
+Immune (NK cell),AKT1,0.079208225
+Epithelial cell (ciliated),AKT1,0.07631131
+Fibroblast,AKT1,0.06823492
+Myoepithelial (basal),AKT1,0.060603425
+Myocyte (cardiac),AKT1,0.05705619
+Immune (mast cell),AKT1,0.049106866
+Immune (B cell),AKT1,0.04534773
+ICCs,AKT1,0.04297737
+Myocyte (NMJ-rich),AKT1,0.029060371
+Satellite cell,AKT1,0.02668536
+Sebaceous gland cell,AKT1,0.025563212
+Myocyte (sk. muscle),AKT1,0.016304178
+Epithelial cell (cornified keratinocyte),AKT1,0.0
+Neuronal,AKT1,0.0

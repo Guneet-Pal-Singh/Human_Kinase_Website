@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+heart,Muscle,GRK4,1.469697,20.242042440318304
+esophagusmuscularis,Neuron,GRK4,2.25,16.0
+esophagusmucosa,Glia,GRK4,1.0,12.307692307692308
+lung,Fibroblast,GRK4,1.1328671,9.688346883468837
+heart,Adipocyte,GRK4,1.3529412,8.808290155440414
+lung,Muscle,GRK4,1.0714285,8.588957055214724
+skeletalmuscle,Adipocyte,GRK4,1.0833334,7.547169811320755
+breast,Fibroblast,GRK4,1.074074,6.593406593406594
+esophagusmucosa,Stromal,GRK4,1.0769231,6.572295247724974
+esophagusmuscularis,Glia,GRK4,1.1774193,6.391752577319587
+esophagusmuscularis,Adipocyte,GRK4,1.0909091,6.285714285714287
+prostate,Glia,GRK4,1.25,5.970149253731343
+skin,Melanocyte,GRK4,1.0,5.88235294117647
+skin,Epithelial cell,GRK4,1.1428572,5.813953488372093
+skeletalmuscle,Glia,GRK4,1.0,5.714285714285714
+lung,Immune (myeloid),GRK4,1.0529412,5.574684374487621
+breast,Adipocyte,GRK4,1.0851064,5.337876206700738
+heart,Fibroblast,GRK4,1.1108787,5.146979648971681
+lung,Epithelial cell,GRK4,1.0604445,4.672897196261682
+esophagusmucosa,Fibroblast,GRK4,1.0923077,4.618117229129663
+esophagusmucosa,Muscle,GRK4,1.0434783,4.590818363273453
+skeletalmuscle,Fibroblast,GRK4,1.0671642,4.508748317631225
+heart,Glia,GRK4,1.1666666,4.026845637583892
+prostate,Fibroblast,GRK4,1.0888889,3.940455341506129
+breast,Immune (myeloid),GRK4,1.0,3.910614525139665
+heart,Endothelial cell,GRK4,1.105802,3.837590045841519
+breast,Epithelial cell,GRK4,1.1045455,3.7937575444042073
+skeletalmuscle,Muscle,GRK4,1.0855803,3.7791856807407735
+skin,Epithelial cell (keratinocyte),GRK4,1.0694444,3.697996918335902
+skin,Other,GRK4,1.0,3.5398230088495577
+esophagusmucosa,Epithelial cell,GRK4,1.0949367,3.435778486517832
+esophagusmucosa,Endothelial cell,GRK4,1.044586,3.3561351004702864
+breast,Muscle,GRK4,1.2,3.289473684210526
+skin,Adipocyte,GRK4,1.0,3.225806451612903
+lung,Endothelial cell,GRK4,1.1022727,3.204661325564458
+breast,Endothelial cell,GRK4,1.0357143,3.1782065834279227
+esophagusmuscularis,Muscle,GRK4,1.0688889,3.0264308292420474
+skin,Fibroblast,GRK4,1.1333333,2.835538752362949
+skin,Endothelial cell,GRK4,1.0,2.834799608993157
+skin,Muscle,GRK4,1.2,2.6881720430107525
+prostate,Muscle,GRK4,1.0833334,2.674988854213108
+skin,Immune (lymphocyte),GRK4,1.0,2.666666666666667
+esophagusmuscularis,Fibroblast,GRK4,1.0577618,2.661158612738976
+skeletalmuscle,Endothelial cell,GRK4,1.0294118,2.5544703230653645
+prostate,Endothelial cell,GRK4,1.0597014,2.3708421797593773
+esophagusmuscularis,Endothelial cell,GRK4,1.0194175,2.308899349921542
+heart,Immune (myeloid),GRK4,1.0839161,2.234724175652446
+lung,Immune (lymphocyte),GRK4,1.0625,2.206896551724138
+prostate,Epithelial cell,GRK4,1.0420842,2.162700992502059
+skeletalmuscle,Immune (myeloid),GRK4,1.0666667,2.03527815468114
+esophagusmuscularis,Immune (myeloid),GRK4,1.0208334,1.619979750253122
+esophagusmucosa,Immune (myeloid),GRK4,1.0476191,1.502145922746781
+esophagusmuscularis,Immune (lymphocyte),GRK4,1.0,1.32890365448505
+skin,Immune (myeloid),GRK4,1.0,1.11731843575419
+prostate,Immune (myeloid),GRK4,1.0,1.0700389105058363
+esophagusmucosa,Immune (lymphocyte),GRK4,1.0526316,1.0451045104510452
+prostate,Immune (lymphocyte),GRK4,1.1666666,0.8797653958944283
+heart,Immune (lymphocyte),GRK4,1.0,0.7163323782234957
+skeletalmuscle,Immune (lymphocyte),GRK4,0.0,0.0

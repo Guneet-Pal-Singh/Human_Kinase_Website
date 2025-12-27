@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+heart,Adipocyte,PCK1,2.816092,45.07772020725388
+esophagusmuscularis,Adipocyte,PCK1,5.3589745,44.57142857142857
+skin,Adipocyte,PCK1,3.2,24.193548387096776
+breast,Adipocyte,PCK1,1.7402234,20.32935831913685
+skeletalmuscle,Adipocyte,PCK1,1.5882353,10.69182389937107
+prostate,Muscle,PCK1,2.8085105,2.095407935800268
+skin,Other,PCK1,1.3333334,0.6637168141592921
+breast,Muscle,PCK1,1.0,0.6578947368421052
+skin,Epithelial cell,PCK1,4.0,0.3322259136212624
+esophagusmucosa,Stromal,PCK1,1.0,0.2022244691607684
+esophagusmucosa,Epithelial cell,PCK1,1.1,0.1449695563931574
+breast,Fibroblast,PCK1,1.0,0.1221001221001221
+prostate,Endothelial cell,PCK1,1.0,0.0707714083510261
+lung,Fibroblast,PCK1,2.0,0.067750677506775
+esophagusmuscularis,Immune (myeloid),PCK1,1.0,0.0674991562605467
+esophagusmucosa,Endothelial cell,PCK1,1.0,0.042753313381787
+heart,Immune (myeloid),PCK1,1.0,0.0312548835755586
+esophagusmuscularis,Muscle,PCK1,1.25,0.0269016073710404
+prostate,Epithelial cell,PCK1,1.1666666,0.0260044207515277
+heart,Muscle,PCK1,1.3333334,0.024867374005305
+heart,Fibroblast,PCK1,1.0,0.0107677398514051
+skeletalmuscle,Muscle,PCK1,1.0,0.0088609277391342
+lung,Epithelial cell,PCK1,1.0,0.0083073727933541
+esophagusmucosa,Immune (lymphocyte),PCK1,0.0,0.0
+esophagusmucosa,Glia,PCK1,0.0,0.0
+esophagusmucosa,Fibroblast,PCK1,0.0,0.0
+breast,Immune (myeloid),PCK1,0.0,0.0
+heart,Immune (lymphocyte),PCK1,0.0,0.0
+heart,Glia,PCK1,0.0,0.0
+heart,Endothelial cell,PCK1,0.0,0.0
+esophagusmuscularis,Neuron,PCK1,0.0,0.0
+esophagusmuscularis,Endothelial cell,PCK1,0.0,0.0
+esophagusmuscularis,Fibroblast,PCK1,0.0,0.0
+esophagusmuscularis,Glia,PCK1,0.0,0.0
+esophagusmuscularis,Immune (lymphocyte),PCK1,0.0,0.0
+esophagusmucosa,Immune (myeloid),PCK1,0.0,0.0
+esophagusmucosa,Muscle,PCK1,0.0,0.0
+breast,Epithelial cell,PCK1,0.0,0.0
+breast,Endothelial cell,PCK1,0.0,0.0
+lung,Muscle,PCK1,0.0,0.0
+lung,Immune (myeloid),PCK1,0.0,0.0
+lung,Immune (lymphocyte),PCK1,0.0,0.0
+lung,Endothelial cell,PCK1,0.0,0.0
+prostate,Immune (lymphocyte),PCK1,0.0,0.0
+prostate,Immune (myeloid),PCK1,0.0,0.0
+prostate,Fibroblast,PCK1,0.0,0.0
+prostate,Glia,PCK1,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),PCK1,0.0,0.0
+skeletalmuscle,Glia,PCK1,0.0,0.0
+skeletalmuscle,Endothelial cell,PCK1,0.0,0.0
+skeletalmuscle,Fibroblast,PCK1,0.0,0.0
+skin,Endothelial cell,PCK1,0.0,0.0
+skeletalmuscle,Immune (myeloid),PCK1,0.0,0.0
+skin,Fibroblast,PCK1,0.0,0.0
+skin,Epithelial cell (keratinocyte),PCK1,0.0,0.0
+skin,Immune (lymphocyte),PCK1,0.0,0.0
+skin,Immune (myeloid),PCK1,0.0,0.0
+skin,Melanocyte,PCK1,0.0,0.0
+skin,Muscle,PCK1,0.0,0.0

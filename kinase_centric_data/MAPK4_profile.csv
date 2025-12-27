@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+heart,Muscle,MAPK4,1.6942858,20.30835543766578
+prostate,Glia,MAPK4,1.1666666,8.955223880597014
+prostate,Muscle,MAPK4,1.1230769,8.693713776192599
+esophagusmucosa,Stromal,MAPK4,1.0632912,7.987866531850354
+lung,Epithelial cell,MAPK4,1.1435751,5.786085150571132
+lung,Immune (myeloid),MAPK4,1.1046512,5.640268896540417
+esophagusmuscularis,Glia,MAPK4,1.226415,5.463917525773196
+skin,Muscle,MAPK4,1.1,5.376344086021505
+prostate,Epithelial cell,MAPK4,1.5306981,5.153209378927751
+esophagusmuscularis,Muscle,MAPK4,1.0827922,4.142847535140224
+esophagusmuscularis,Neuron,MAPK4,1.0,4.0
+lung,Fibroblast,MAPK4,1.0357143,3.794037940379404
+skin,Epithelial cell,MAPK4,1.0952381,3.488372093023256
+esophagusmuscularis,Adipocyte,MAPK4,1.1666666,3.428571428571429
+lung,Endothelial cell,MAPK4,1.0217391,3.3503277494537507
+skeletalmuscle,Glia,MAPK4,1.0,2.857142857142857
+breast,Epithelial cell,MAPK4,1.1185185,2.3279875840662183
+skin,Fibroblast,MAPK4,1.0,2.0793950850661624
+lung,Muscle,MAPK4,1.0,1.8404907975460123
+skeletalmuscle,Muscle,MAPK4,1.0338165,1.8342120420007977
+lung,Immune (lymphocyte),MAPK4,1.0769231,1.793103448275862
+prostate,Fibroblast,MAPK4,1.1,1.7513134851138354
+skin,Adipocyte,MAPK4,1.0,1.6129032258064515
+heart,Adipocyte,MAPK4,1.0,1.5544041450777202
+esophagusmucosa,Muscle,MAPK4,1.0,1.3972055888223551
+skeletalmuscle,Immune (myeloid),MAPK4,1.0,1.35685210312076
+skin,Other,MAPK4,1.0,1.327433628318584
+skeletalmuscle,Fibroblast,MAPK4,1.0138888,1.2113055181695829
+esophagusmuscularis,Immune (myeloid),MAPK4,1.0294118,1.1474856564292946
+breast,Endothelial cell,MAPK4,1.1,1.135073779795687
+esophagusmuscularis,Fibroblast,MAPK4,1.0254238,1.1336343548851957
+skin,Endothelial cell,MAPK4,1.0,1.0752688172043012
+breast,Adipocyte,MAPK4,1.0,1.0221465076660987
+esophagusmuscularis,Immune (lymphocyte),MAPK4,1.0,0.9966777408637874
+skin,Epithelial cell (keratinocyte),MAPK4,1.0,0.8731381612737544
+breast,Fibroblast,MAPK4,1.1428572,0.8547008547008548
+esophagusmuscularis,Endothelial cell,MAPK4,1.0263158,0.8518269446312485
+heart,Fibroblast,MAPK4,1.0759493,0.8506514482610101
+prostate,Endothelial cell,MAPK4,1.05,0.7077140835102618
+esophagusmucosa,Fibroblast,MAPK4,1.0555556,0.6394316163410302
+skeletalmuscle,Endothelial cell,MAPK4,1.0,0.6010518407212623
+esophagusmucosa,Immune (myeloid),MAPK4,1.0,0.5722460658082975
+esophagusmucosa,Epithelial cell,MAPK4,1.038961,0.5581327921136562
+prostate,Immune (myeloid),MAPK4,1.2,0.4863813229571984
+esophagusmucosa,Immune (lymphocyte),MAPK4,1.0,0.44004400440044
+heart,Endothelial cell,MAPK4,1.0,0.4191224623444662
+esophagusmucosa,Endothelial cell,MAPK4,1.0,0.3847798204360838
+heart,Glia,MAPK4,1.0,0.3355704697986577
+heart,Immune (myeloid),MAPK4,1.0,0.3125488357555868
+breast,Immune (myeloid),MAPK4,1.0,0.2793296089385474
+prostate,Immune (lymphocyte),MAPK4,1.0,0.1466275659824047
+heart,Immune (lymphocyte),MAPK4,0.0,0.0
+esophagusmucosa,Glia,MAPK4,0.0,0.0
+breast,Muscle,MAPK4,0.0,0.0
+skeletalmuscle,Adipocyte,MAPK4,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),MAPK4,0.0,0.0
+skin,Immune (lymphocyte),MAPK4,0.0,0.0
+skin,Melanocyte,MAPK4,0.0,0.0
+skin,Immune (myeloid),MAPK4,0.0,0.0

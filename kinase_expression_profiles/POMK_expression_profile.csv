@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (Langerhans),POMK,0.10408729
+Immune (DC),POMK,0.08600223
+Neuroendocrine,POMK,0.05930039
+Immune (DC/macrophage),POMK,0.0486934
+Myocyte (cardiac),POMK,0.047042012
+Epithelial cell (alveolar type II),POMK,0.04609768
+Immune (alveolar macrophage),POMK,0.0453159
+Epithelial cell (suprabasal),POMK,0.040486224
+Immune (T cell),POMK,0.038901243
+Mucous cell,POMK,0.038094953
+Epithelial cell (alveolar type I),POMK,0.03217053
+Epithelial cell (club),POMK,0.03156172
+Epithelial cell (basal),POMK,0.031316545
+Epithelial cell (luminal),POMK,0.03043814
+Epithelial cell (ciliated),POMK,0.028152933
+Epithelial cell (Hillock),POMK,0.027038174
+Endothelial cell (lymphatic),POMK,0.026093487
+Adipocyte,POMK,0.025054716
+Fibroblast,POMK,0.023698187
+Endothelial cell (vascular),POMK,0.023247419
+Immune (NK cell),POMK,0.023182262
+Myofibroblast,POMK,0.023094084
+Immune (mast cell),POMK,0.022838663
+Schwann cell,POMK,0.020269899
+Pericyte/SMC,POMK,0.020230556
+Myocyte (smooth muscle),POMK,0.019003067
+Satellite cell,POMK,0.016987277
+Melanocyte,POMK,0.016574873
+Immune (B cell),POMK,0.014092344
+Sweat gland cell,POMK,0.013591713
+Myocyte (sk. muscle),POMK,0.011748496
+Myoepithelial (basal),POMK,0.011608607
+Epithelial cell (squamous),POMK,0.010360778
+Epithelial cell (basal keratinocyte),POMK,0.009393828
+"Myocyte (cardiac, cytoplasmic)",POMK,0.004623389
+"Myocyte (sk. muscle, cytoplasmic)",POMK,0.003468844
+Epithelial cell (cornified keratinocyte),POMK,0.0
+ICCs,POMK,0.0
+Epithelial cell (mature keratinocyte),POMK,0.0
+Epithelial cell (suprabasal keratinocyte),POMK,0.0
+Myocyte (NMJ-rich),POMK,0.0
+Neuronal,POMK,0.0
+Sebaceous gland cell,POMK,0.0

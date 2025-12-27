@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skeletalmuscle,Muscle,IDNK,1.413487,23.45487572548846
+esophagusmuscularis,Adipocyte,IDNK,1.1052631,10.857142857142858
+heart,Adipocyte,IDNK,1.0,6.217616580310881
+esophagusmucosa,Glia,IDNK,1.0,4.615384615384616
+skeletalmuscle,Adipocyte,IDNK,1.0,4.40251572327044
+esophagusmuscularis,Glia,IDNK,1.1081082,3.814432989690722
+heart,Muscle,IDNK,1.0845411,3.431697612732096
+skeletalmuscle,Endothelial cell,IDNK,1.0888889,3.3809166040571
+skin,Adipocyte,IDNK,1.0,3.225806451612903
+esophagusmuscularis,Fibroblast,IDNK,1.063063,3.199154577769238
+heart,Immune (lymphocyte),IDNK,1.0454545,3.151862464183381
+esophagusmuscularis,Muscle,IDNK,1.0770878,3.140762660568969
+lung,Muscle,IDNK,1.0,3.067484662576687
+skeletalmuscle,Immune (lymphocyte),IDNK,1.0,3.0
+lung,Epithelial cell,IDNK,1.0350877,2.8411214953271027
+breast,Immune (myeloid),IDNK,1.0,2.793296089385475
+esophagusmuscularis,Immune (myeloid),IDNK,1.0126582,2.6662166722915965
+esophagusmuscularis,Immune (lymphocyte),IDNK,1.125,2.6578073089701
+lung,Immune (lymphocyte),IDNK,1.0526316,2.6206896551724137
+esophagusmuscularis,Endothelial cell,IDNK,1.079646,2.533064335350818
+esophagusmucosa,Stromal,IDNK,1.04,2.527805864509605
+lung,Immune (myeloid),IDNK,1.0584415,2.5250040990326283
+heart,Fibroblast,IDNK,1.0604651,2.3150640680521155
+prostate,Epithelial cell,IDNK,1.0576923,2.028344818619165
+esophagusmucosa,Immune (lymphocyte),IDNK,1.0588236,1.87018701870187
+esophagusmucosa,Fibroblast,IDNK,1.0384616,1.8472468916518647
+heart,Endothelial cell,IDNK,1.1134752,1.8467583497053044
+lung,Fibroblast,IDNK,1.0,1.829268292682927
+esophagusmucosa,Epithelial cell,IDNK,1.0242915,1.7903740214554944
+esophagusmucosa,Immune (myeloid),IDNK,1.04,1.78826895565093
+skeletalmuscle,Immune (myeloid),IDNK,1.0769231,1.7639077340569878
+prostate,Immune (lymphocyte),IDNK,1.0,1.7595307917888563
+esophagusmucosa,Endothelial cell,IDNK,1.097561,1.7528858486532708
+prostate,Muscle,IDNK,1.051282,1.7387427552385195
+heart,Immune (myeloid),IDNK,1.054054,1.7346460384435067
+heart,Glia,IDNK,1.0,1.6778523489932886
+breast,Epithelial cell,IDNK,1.0947368,1.6382134850836352
+lung,Endothelial cell,IDNK,1.0454545,1.602330662782229
+breast,Fibroblast,IDNK,1.0,1.5873015873015872
+prostate,Glia,IDNK,1.0,1.4925373134328357
+prostate,Immune (myeloid),IDNK,1.0833334,1.1673151750972763
+prostate,Fibroblast,IDNK,1.0,1.138353765323993
+breast,Adipocyte,IDNK,1.05,1.135718341851221
+breast,Endothelial cell,IDNK,1.0,1.135073779795687
+skin,Other,IDNK,1.0,1.106194690265487
+prostate,Endothelial cell,IDNK,1.0344827,1.0261854210898798
+esophagusmucosa,Muscle,IDNK,1.0,0.998003992015968
+skin,Epithelial cell,IDNK,1.0,0.8305647840531563
+skin,Endothelial cell,IDNK,1.0,0.7820136852394917
+skin,Fibroblast,IDNK,1.0,0.7561436672967864
+skin,Epithelial cell (keratinocyte),IDNK,1.0,0.667693888032871
+breast,Muscle,IDNK,1.0,0.6578947368421052
+skeletalmuscle,Fibroblast,IDNK,1.0,0.5720053835800807
+skin,Immune (myeloid),IDNK,1.0,0.5586592178770949
+esophagusmuscularis,Neuron,IDNK,0.0,0.0
+skeletalmuscle,Glia,IDNK,0.0,0.0
+skin,Immune (lymphocyte),IDNK,0.0,0.0
+skin,Melanocyte,IDNK,0.0,0.0
+skin,Muscle,IDNK,0.0,0.0

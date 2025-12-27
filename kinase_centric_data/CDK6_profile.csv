@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+heart,Muscle,CDK6,1.7560847,31.33289124668435
+esophagusmuscularis,Neuron,CDK6,1.1666666,24.0
+heart,Immune (myeloid),CDK6,1.4220607,23.65994686669792
+heart,Endothelial cell,CDK6,1.2620993,20.83824492468893
+esophagusmucosa,Muscle,CDK6,1.24,19.960079840319363
+esophagusmucosa,Epithelial cell,CDK6,1.4600465,18.686575819077994
+heart,Adipocyte,CDK6,1.2777778,18.65284974093264
+esophagusmucosa,Stromal,CDK6,1.3333334,18.503538928210315
+skin,Epithelial cell (keratinocyte),CDK6,1.2909604,18.181818181818183
+skeletalmuscle,Immune (myeloid),CDK6,1.248062,17.503392130257804
+skin,Epithelial cell,CDK6,1.446602,17.109634551495017
+heart,Immune (lymphocyte),CDK6,1.3589743,16.7621776504298
+esophagusmucosa,Immune (myeloid),CDK6,1.3675214,16.738197424892704
+prostate,Glia,CDK6,1.2727273,16.417910447761194
+skin,Immune (lymphocyte),CDK6,1.0,16.0
+prostate,Epithelial cell,CDK6,1.3248532,15.5029688380358
+skin,Other,CDK6,1.231884,15.265486725663717
+skeletalmuscle,Immune (lymphocyte),CDK6,1.2666667,15.0
+skin,Melanocyte,CDK6,1.15,14.705882352941178
+lung,Immune (lymphocyte),CDK6,1.245283,14.620689655172416
+esophagusmucosa,Immune (lymphocyte),CDK6,1.3460076,14.466446644664464
+lung,Fibroblast,CDK6,1.1818181,14.159891598915989
+esophagusmuscularis,Immune (lymphocyte),CDK6,1.3571428,13.953488372093023
+esophagusmucosa,Endothelial cell,CDK6,1.227907,13.787943565626335
+skin,Immune (myeloid),CDK6,1.1666666,13.40782122905028
+skin,Endothelial cell,CDK6,1.1925926,13.19648093841642
+breast,Muscle,CDK6,1.1,13.157894736842104
+prostate,Endothelial cell,CDK6,1.2439024,13.05732484076433
+prostate,Immune (myeloid),CDK6,1.238806,13.03501945525292
+esophagusmuscularis,Endothelial cell,CDK6,1.2531419,12.48598968841067
+lung,Muscle,CDK6,1.0,12.269938650306749
+breast,Endothelial cell,CDK6,1.1944444,12.258796821793416
+prostate,Immune (lymphocyte),CDK6,1.1866666,10.997067448680353
+skeletalmuscle,Endothelial cell,CDK6,1.1666666,10.368144252441772
+lung,Immune (myeloid),CDK6,1.2388535,10.2967699622889
+breast,Adipocyte,CDK6,1.1404494,10.107893242475866
+lung,Endothelial cell,CDK6,1.1538461,9.941733430444282
+lung,Epithelial cell,CDK6,1.1737089,9.73208722741433
+esophagusmuscularis,Adipocyte,CDK6,1.0,9.714285714285714
+esophagusmuscularis,Muscle,CDK6,1.1637262,9.52989441119107
+esophagusmucosa,Glia,CDK6,1.1666666,9.230769230769232
+skin,Muscle,CDK6,1.2352941,9.13978494623656
+esophagusmuscularis,Immune (myeloid),CDK6,1.1351352,8.741140735740803
+heart,Glia,CDK6,1.1153846,8.724832214765101
+breast,Fibroblast,CDK6,1.1690141,8.669108669108669
+breast,Epithelial cell,CDK6,1.2044535,8.518710122434904
+breast,Immune (myeloid),CDK6,1.1034483,8.100558659217876
+skin,Fibroblast,CDK6,1.0952381,7.939508506616256
+prostate,Muscle,CDK6,1.1666666,7.222469906375389
+esophagusmucosa,Fibroblast,CDK6,1.1581633,6.962699822380107
+prostate,Fibroblast,CDK6,1.0649351,6.742556917688266
+heart,Fibroblast,CDK6,1.1418685,6.2237536341122
+skin,Adipocyte,CDK6,1.3333334,4.838709677419355
+esophagusmuscularis,Glia,CDK6,1.175,4.123711340206185
+skeletalmuscle,Glia,CDK6,1.0,2.857142857142857
+skeletalmuscle,Fibroblast,CDK6,1.0779221,2.590847913862719
+skeletalmuscle,Adipocyte,CDK6,1.25,2.515723270440252
+esophagusmuscularis,Fibroblast,CDK6,1.0465117,2.478624267460851
+skeletalmuscle,Muscle,CDK6,1.1151832,0.8462185990873246

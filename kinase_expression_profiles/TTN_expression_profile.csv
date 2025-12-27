@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+"Myocyte (sk. muscle, cytoplasmic)",TTN,2.4530323
+Myocyte (cardiac),TTN,2.3993359
+"Myocyte (cardiac, cytoplasmic)",TTN,2.3662934
+Myocyte (sk. muscle),TTN,2.1884413
+Myocyte (NMJ-rich),TTN,2.1214519
+Epithelial cell (alveolar type II),TTN,1.3096507
+Neuronal,TTN,0.41115135
+Endothelial cell (lymphatic),TTN,0.36950684
+Immune (mast cell),TTN,0.33761674
+Immune (DC/macrophage),TTN,0.3175287
+Immune (B cell),TTN,0.25421092
+Schwann cell,TTN,0.24909522
+ICCs,TTN,0.22817956
+Epithelial cell (alveolar type I),TTN,0.18535654
+Pericyte/SMC,TTN,0.17565751
+Epithelial cell (ciliated),TTN,0.14830899
+Satellite cell,TTN,0.14390865
+Neuroendocrine,TTN,0.14313188
+Immune (Langerhans),TTN,0.1349193
+Adipocyte,TTN,0.1283487
+Myocyte (smooth muscle),TTN,0.117863886
+Epithelial cell (club),TTN,0.116718665
+Immune (T cell),TTN,0.11434857
+Melanocyte,TTN,0.09502994
+Myofibroblast,TTN,0.09218709
+Endothelial cell (vascular),TTN,0.0818114
+Fibroblast,TTN,0.07164844
+Immune (alveolar macrophage),TTN,0.06877467
+Epithelial cell (Hillock),TTN,0.06666702
+Sweat gland cell,TTN,0.06498644
+Epithelial cell (basal),TTN,0.05921291
+Mucous cell,TTN,0.051421553
+Myoepithelial (basal),TTN,0.046787966
+Immune (DC),TTN,0.04614965
+Epithelial cell (luminal),TTN,0.03537788
+Immune (NK cell),TTN,0.030191425
+Epithelial cell (mature keratinocyte),TTN,0.029648501
+Epithelial cell (basal keratinocyte),TTN,0.029412605
+Epithelial cell (suprabasal),TTN,0.02827487
+Sebaceous gland cell,TTN,0.020739568
+Epithelial cell (squamous),TTN,0.014807642
+Epithelial cell (suprabasal keratinocyte),TTN,0.009455851
+Epithelial cell (cornified keratinocyte),TTN,0.0

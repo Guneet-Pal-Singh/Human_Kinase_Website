@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skin,Other,NME2,1.0,0.2212389380530973
+breast,Fibroblast,NME2,1.0,0.1221001221001221
+prostate,Muscle,NME2,1.0,0.0891662951404369
+heart,Endothelial cell,NME2,1.0,0.0261951538965291
+prostate,Epithelial cell,NME2,1.0,0.0260044207515277
+esophagusmuscularis,Endothelial cell,NME2,1.0,0.0224164985429275
+heart,Fibroblast,NME2,1.0,0.0215354797028103
+esophagusmuscularis,Muscle,NME2,1.0,0.0201762055282803
+skeletalmuscle,Fibroblast,NME2,1.0,0.0168236877523553
+heart,Immune (myeloid),NME2,1.0,0.0156274417877793
+heart,Muscle,NME2,1.0,0.008289124668435
+esophagusmucosa,Epithelial cell,NME2,1.0,0.0072484778196578
+lung,Epithelial cell,NME2,1.0,0.004153686396677
+esophagusmucosa,Immune (lymphocyte),NME2,0.0,0.0
+esophagusmucosa,Endothelial cell,NME2,0.0,0.0
+esophagusmuscularis,Adipocyte,NME2,0.0,0.0
+esophagusmucosa,Immune (myeloid),NME2,0.0,0.0
+esophagusmucosa,Stromal,NME2,0.0,0.0
+esophagusmucosa,Muscle,NME2,0.0,0.0
+esophagusmuscularis,Immune (lymphocyte),NME2,0.0,0.0
+esophagusmucosa,Glia,NME2,0.0,0.0
+esophagusmucosa,Fibroblast,NME2,0.0,0.0
+breast,Immune (myeloid),NME2,0.0,0.0
+breast,Epithelial cell,NME2,0.0,0.0
+breast,Endothelial cell,NME2,0.0,0.0
+breast,Muscle,NME2,0.0,0.0
+breast,Adipocyte,NME2,0.0,0.0
+heart,Immune (lymphocyte),NME2,0.0,0.0
+heart,Glia,NME2,0.0,0.0
+esophagusmuscularis,Neuron,NME2,0.0,0.0
+heart,Adipocyte,NME2,0.0,0.0
+esophagusmuscularis,Immune (myeloid),NME2,0.0,0.0
+esophagusmuscularis,Fibroblast,NME2,0.0,0.0
+esophagusmuscularis,Glia,NME2,0.0,0.0
+lung,Immune (lymphocyte),NME2,0.0,0.0
+lung,Muscle,NME2,0.0,0.0
+lung,Immune (myeloid),NME2,0.0,0.0
+prostate,Fibroblast,NME2,0.0,0.0
+prostate,Endothelial cell,NME2,0.0,0.0
+prostate,Glia,NME2,0.0,0.0
+prostate,Immune (lymphocyte),NME2,0.0,0.0
+lung,Fibroblast,NME2,0.0,0.0
+lung,Endothelial cell,NME2,0.0,0.0
+skeletalmuscle,Adipocyte,NME2,0.0,0.0
+prostate,Immune (myeloid),NME2,0.0,0.0
+skeletalmuscle,Glia,NME2,0.0,0.0
+skeletalmuscle,Endothelial cell,NME2,0.0,0.0
+skeletalmuscle,Immune (myeloid),NME2,0.0,0.0
+skeletalmuscle,Muscle,NME2,0.0,0.0
+skin,Adipocyte,NME2,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),NME2,0.0,0.0
+skin,Endothelial cell,NME2,0.0,0.0
+skin,Epithelial cell,NME2,0.0,0.0
+skin,Fibroblast,NME2,0.0,0.0
+skin,Epithelial cell (keratinocyte),NME2,0.0,0.0
+skin,Immune (lymphocyte),NME2,0.0,0.0
+skin,Immune (myeloid),NME2,0.0,0.0
+skin,Melanocyte,NME2,0.0,0.0
+skin,Muscle,NME2,0.0,0.0

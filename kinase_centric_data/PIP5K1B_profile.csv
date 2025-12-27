@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+heart,Muscle,PIP5K1B,2.7032068,50.6631299734748
+lung,Epithelial cell,PIP5K1B,1.7225407,46.36344755970924
+breast,Muscle,PIP5K1B,1.2592592,17.763157894736842
+esophagusmucosa,Muscle,PIP5K1B,1.2564102,15.568862275449105
+esophagusmuscularis,Neuron,PIP5K1B,1.0,12.0
+skin,Muscle,PIP5K1B,1.3181819,11.827956989247312
+lung,Endothelial cell,PIP5K1B,1.2083334,11.361981063364894
+breast,Epithelial cell,PIP5K1B,1.2013311,10.363855837213311
+skin,Epithelial cell,PIP5K1B,1.1818181,9.13621262458472
+lung,Immune (myeloid),PIP5K1B,1.2087913,8.95228726020659
+prostate,Muscle,PIP5K1B,1.3826531,8.738296923762817
+lung,Muscle,PIP5K1B,1.3571428,8.588957055214724
+skin,Adipocyte,PIP5K1B,1.0,8.064516129032258
+heart,Adipocyte,PIP5K1B,1.1538461,6.735751295336788
+heart,Immune (myeloid),PIP5K1B,1.1244019,6.5322706672917645
+breast,Immune (myeloid),PIP5K1B,1.1363636,6.145251396648044
+skeletalmuscle,Immune (myeloid),PIP5K1B,1.1333333,6.10583446404342
+esophagusmuscularis,Adipocyte,PIP5K1B,1.0,5.714285714285714
+skeletalmuscle,Muscle,PIP5K1B,1.1164966,5.210225510610961
+breast,Adipocyte,PIP5K1B,1.0561798,5.053946621237933
+skin,Immune (myeloid),PIP5K1B,1.1111112,5.027932960893855
+esophagusmucosa,Immune (myeloid),PIP5K1B,1.0428572,5.007153075822604
+esophagusmuscularis,Immune (myeloid),PIP5K1B,1.0921986,4.758690516368545
+esophagusmucosa,Stromal,PIP5K1B,1.1276596,4.752275025278059
+prostate,Epithelial cell,PIP5K1B,1.1892157,4.420751527759719
+lung,Fibroblast,PIP5K1B,1.0153847,4.403794037940379
+prostate,Immune (myeloid),PIP5K1B,1.0888889,4.3774319066147855
+prostate,Endothelial cell,PIP5K1B,1.2105263,4.033970276008493
+breast,Fibroblast,PIP5K1B,1.1428572,3.418803418803419
+lung,Immune (lymphocyte),PIP5K1B,1.25,3.310344827586207
+esophagusmuscularis,Muscle,PIP5K1B,1.1204301,3.127311856883449
+heart,Glia,PIP5K1B,1.1111112,3.02013422818792
+skeletalmuscle,Immune (lymphocyte),PIP5K1B,1.0,3.0
+skeletalmuscle,Glia,PIP5K1B,2.0,2.857142857142857
+skin,Endothelial cell,PIP5K1B,1.0344827,2.834799608993157
+esophagusmucosa,Endothelial cell,PIP5K1B,1.1269841,2.6934587430525863
+skin,Immune (lymphocyte),PIP5K1B,1.0,2.666666666666667
+esophagusmuscularis,Immune (lymphocyte),PIP5K1B,1.25,2.6578073089701
+esophagusmuscularis,Glia,PIP5K1B,1.04,2.5773195876288657
+prostate,Fibroblast,PIP5K1B,1.137931,2.539404553415061
+skin,Epithelial cell (keratinocyte),PIP5K1B,1.0,2.516692347200822
+esophagusmucosa,Epithelial cell,PIP5K1B,1.0751445,2.507973325601624
+skeletalmuscle,Endothelial cell,PIP5K1B,1.0,2.329075882794891
+heart,Immune (lymphocyte),PIP5K1B,1.2,2.148997134670487
+skin,Fibroblast,PIP5K1B,1.0,2.0793950850661624
+breast,Endothelial cell,PIP5K1B,1.0555556,2.0431328036322363
+prostate,Immune (lymphocyte),PIP5K1B,1.0,1.906158357771261
+skeletalmuscle,Adipocyte,PIP5K1B,1.0,1.8867924528301887
+skin,Melanocyte,PIP5K1B,1.0,1.8382352941176472
+esophagusmuscularis,Endothelial cell,PIP5K1B,1.05,1.7933198834342077
+skin,Other,PIP5K1B,1.0,1.7699115044247788
+skeletalmuscle,Fibroblast,PIP5K1B,1.07,1.6823687752355316
+esophagusmucosa,Immune (lymphocyte),PIP5K1B,1.1153846,1.4301430143014302
+esophagusmucosa,Fibroblast,PIP5K1B,1.0,1.4209591474245116
+esophagusmuscularis,Fibroblast,PIP5K1B,1.0,1.335382841771544
+heart,Fibroblast,PIP5K1B,1.0357143,0.904490147518036
+heart,Endothelial cell,PIP5K1B,1.1,0.6548788474132285
+esophagusmucosa,Glia,PIP5K1B,0.0,0.0
+prostate,Glia,PIP5K1B,0.0,0.0

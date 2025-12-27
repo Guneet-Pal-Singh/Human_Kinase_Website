@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+prostate,Fibroblast,EPHA7,2.2304251,39.14185639229422
+esophagusmuscularis,Muscle,EPHA7,1.7116206,29.921312798439708
+esophagusmuscularis,Neuron,EPHA7,1.5,16.0
+prostate,Muscle,EPHA7,1.5202312,15.425769059295586
+esophagusmuscularis,Glia,EPHA7,1.2962962,11.134020618556702
+heart,Muscle,EPHA7,1.208377,7.916114058355437
+skin,Endothelial cell,EPHA7,1.24,4.887585532746823
+heart,Glia,EPHA7,1.1428572,4.697986577181208
+prostate,Endothelial cell,EPHA7,1.1578947,3.361641896673744
+esophagusmucosa,Glia,EPHA7,1.0,3.076923076923077
+esophagusmuscularis,Adipocyte,EPHA7,1.25,2.2857142857142856
+skeletalmuscle,Fibroblast,EPHA7,1.0930233,2.170255720053836
+heart,Endothelial cell,EPHA7,1.0735294,1.7812704649639817
+prostate,Epithelial cell,EPHA7,1.3012346,1.7552984007281238
+esophagusmuscularis,Immune (myeloid),EPHA7,1.2826087,1.5524805939925752
+skin,Epithelial cell,EPHA7,1.2222222,1.495016611295681
+prostate,Glia,EPHA7,1.0,1.4925373134328357
+breast,Epithelial cell,EPHA7,1.0595238,1.4485256078634248
+esophagusmucosa,Fibroblast,EPHA7,1.1842105,1.349911190053286
+lung,Immune (myeloid),EPHA7,1.0,1.114936874897524
+skeletalmuscle,Immune (lymphocyte),EPHA7,1.0,1.0
+esophagusmucosa,Endothelial cell,EPHA7,1.0487804,0.8764429243266354
+lung,Endothelial cell,EPHA7,1.0869565,0.8375819373634377
+lung,Epithelial cell,EPHA7,1.0348259,0.8348909657320873
+esophagusmuscularis,Endothelial cell,EPHA7,1.1212121,0.7397444519166106
+breast,Muscle,EPHA7,1.0,0.6578947368421052
+lung,Muscle,EPHA7,2.0,0.6134969325153374
+lung,Fibroblast,EPHA7,1.0,0.6097560975609756
+esophagusmucosa,Stromal,EPHA7,1.0,0.6066734074823054
+prostate,Immune (lymphocyte),EPHA7,1.5,0.5865102639296188
+breast,Endothelial cell,EPHA7,1.0,0.5675368898978433
+skin,Fibroblast,EPHA7,1.0,0.5671077504725899
+skeletalmuscle,Endothelial cell,EPHA7,1.0,0.5259203606311045
+breast,Fibroblast,EPHA7,1.0,0.4884004884004884
+prostate,Immune (myeloid),EPHA7,1.0,0.4863813229571984
+heart,Fibroblast,EPHA7,1.0222223,0.4845482933132335
+breast,Adipocyte,EPHA7,1.0,0.4542873367404884
+esophagusmucosa,Muscle,EPHA7,1.0,0.3992015968063871
+skin,Epithelial cell (keratinocyte),EPHA7,1.0,0.3595274781715459
+esophagusmuscularis,Immune (lymphocyte),EPHA7,1.0,0.3322259136212624
+esophagusmuscularis,Fibroblast,EPHA7,1.2352941,0.3266404073398021
+skeletalmuscle,Muscle,EPHA7,1.0,0.3012715431305658
+breast,Immune (myeloid),EPHA7,1.0,0.2793296089385474
+lung,Immune (lymphocyte),EPHA7,1.0,0.2758620689655172
+esophagusmucosa,Epithelial cell,EPHA7,1.0526316,0.2754421571469991
+heart,Immune (lymphocyte),EPHA7,1.0,0.1432664756446991
+heart,Immune (myeloid),EPHA7,1.0,0.093764650726676
+esophagusmucosa,Immune (myeloid),EPHA7,1.0,0.0715307582260371
+esophagusmucosa,Immune (lymphocyte),EPHA7,1.0,0.055005500550055
+heart,Adipocyte,EPHA7,0.0,0.0
+skeletalmuscle,Adipocyte,EPHA7,0.0,0.0
+skin,Adipocyte,EPHA7,0.0,0.0
+skeletalmuscle,Immune (myeloid),EPHA7,0.0,0.0
+skeletalmuscle,Glia,EPHA7,0.0,0.0
+skin,Immune (lymphocyte),EPHA7,0.0,0.0
+skin,Immune (myeloid),EPHA7,0.0,0.0
+skin,Melanocyte,EPHA7,0.0,0.0
+skin,Muscle,EPHA7,0.0,0.0
+skin,Other,EPHA7,0.0,0.0

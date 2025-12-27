@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Schwann cell,PRKCA,1.4973828
+Immune (mast cell),PRKCA,1.3902647
+Epithelial cell (alveolar type II),PRKCA,1.0227344
+Immune (DC),PRKCA,0.9682131
+Neuronal,PRKCA,0.89293003
+Immune (T cell),PRKCA,0.82562536
+Myofibroblast,PRKCA,0.7942184
+Immune (DC/macrophage),PRKCA,0.74444747
+Myocyte (smooth muscle),PRKCA,0.7442259
+Mucous cell,PRKCA,0.67578083
+Epithelial cell (basal keratinocyte),PRKCA,0.6683455
+Myocyte (cardiac),PRKCA,0.6486633
+Myocyte (sk. muscle),PRKCA,0.64459985
+Epithelial cell (ciliated),PRKCA,0.6165798
+Fibroblast,PRKCA,0.6125258
+Epithelial cell (suprabasal keratinocyte),PRKCA,0.6038479
+Myoepithelial (basal),PRKCA,0.60351634
+Immune (NK cell),PRKCA,0.57899415
+Epithelial cell (club),PRKCA,0.57793146
+Epithelial cell (basal),PRKCA,0.57458115
+Myocyte (NMJ-rich),PRKCA,0.57298476
+Endothelial cell (lymphatic),PRKCA,0.53985244
+Immune (alveolar macrophage),PRKCA,0.5278402
+Epithelial cell (Hillock),PRKCA,0.5223792
+Pericyte/SMC,PRKCA,0.5214533
+Epithelial cell (suprabasal),PRKCA,0.46894145
+Epithelial cell (cornified keratinocyte),PRKCA,0.42758217
+Adipocyte,PRKCA,0.37322217
+Epithelial cell (mature keratinocyte),PRKCA,0.35789317
+Neuroendocrine,PRKCA,0.34930795
+Epithelial cell (alveolar type I),PRKCA,0.34555522
+Sweat gland cell,PRKCA,0.33922505
+Melanocyte,PRKCA,0.32121688
+ICCs,PRKCA,0.2991996
+Epithelial cell (luminal),PRKCA,0.28879032
+Endothelial cell (vascular),PRKCA,0.2666443
+"Myocyte (sk. muscle, cytoplasmic)",PRKCA,0.21372885
+"Myocyte (cardiac, cytoplasmic)",PRKCA,0.186647
+Epithelial cell (squamous),PRKCA,0.15986533
+Sebaceous gland cell,PRKCA,0.15354508
+Satellite cell,PRKCA,0.15352295
+Immune (Langerhans),PRKCA,0.14122888
+Immune (B cell),PRKCA,0.14108182

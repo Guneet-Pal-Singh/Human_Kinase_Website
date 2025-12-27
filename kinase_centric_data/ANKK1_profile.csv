@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+breast,Muscle,ANKK1,1.0,0.6578947368421052
+breast,Epithelial cell,ANKK1,1.0,0.4655975168132436
+skeletalmuscle,Muscle,ANKK1,1.0131578,0.3367152540871029
+prostate,Epithelial cell,ANKK1,1.0,0.2990508386425692
+esophagusmucosa,Epithelial cell,ANKK1,1.0,0.2536967236880255
+breast,Endothelial cell,ANKK1,1.0,0.2270147559591373
+lung,Endothelial cell,ANKK1,1.0,0.2184996358339402
+lung,Epithelial cell,ANKK1,1.0,0.2159916926272066
+skin,Epithelial cell (keratinocyte),ANKK1,1.0,0.2054442732408834
+prostate,Fibroblast,ANKK1,1.0,0.1751313485113835
+heart,Immune (lymphocyte),ANKK1,1.0,0.1432664756446991
+prostate,Muscle,ANKK1,1.0,0.1337494427106553
+breast,Fibroblast,ANKK1,1.0,0.1221001221001221
+breast,Adipocyte,ANKK1,1.0,0.1135718341851221
+esophagusmucosa,Immune (lymphocyte),ANKK1,1.0,0.11001100110011
+esophagusmucosa,Stromal,ANKK1,1.0,0.1011122345803842
+prostate,Immune (myeloid),ANKK1,1.0,0.0972762645914396
+lung,Immune (myeloid),ANKK1,1.0,0.0819806525659944
+skeletalmuscle,Endothelial cell,ANKK1,1.0,0.0751314800901577
+lung,Fibroblast,ANKK1,1.0,0.067750677506775
+esophagusmucosa,Endothelial cell,ANKK1,1.0,0.0641299700726806
+heart,Endothelial cell,ANKK1,1.0,0.0523903077930582
+skeletalmuscle,Fibroblast,ANKK1,1.0,0.0504710632570659
+prostate,Endothelial cell,ANKK1,1.0,0.035385704175513
+esophagusmuscularis,Muscle,ANKK1,1.0,0.0336270092138005
+heart,Muscle,ANKK1,1.0,0.024867374005305
+esophagusmuscularis,Endothelial cell,ANKK1,1.0,0.0224164985429275
+heart,Fibroblast,ANKK1,1.0,0.0215354797028103
+esophagusmuscularis,Fibroblast,ANKK1,1.0,0.0192141416082236
+heart,Immune (myeloid),ANKK1,1.0,0.0156274417877793
+heart,Adipocyte,ANKK1,0.0,0.0
+heart,Glia,ANKK1,0.0,0.0
+esophagusmuscularis,Immune (myeloid),ANKK1,0.0,0.0
+esophagusmuscularis,Neuron,ANKK1,0.0,0.0
+esophagusmuscularis,Immune (lymphocyte),ANKK1,0.0,0.0
+esophagusmucosa,Immune (myeloid),ANKK1,0.0,0.0
+breast,Immune (myeloid),ANKK1,0.0,0.0
+esophagusmucosa,Fibroblast,ANKK1,0.0,0.0
+esophagusmucosa,Glia,ANKK1,0.0,0.0
+esophagusmuscularis,Adipocyte,ANKK1,0.0,0.0
+esophagusmucosa,Muscle,ANKK1,0.0,0.0
+esophagusmuscularis,Glia,ANKK1,0.0,0.0
+lung,Immune (lymphocyte),ANKK1,0.0,0.0
+skeletalmuscle,Adipocyte,ANKK1,0.0,0.0
+prostate,Immune (lymphocyte),ANKK1,0.0,0.0
+prostate,Glia,ANKK1,0.0,0.0
+lung,Muscle,ANKK1,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),ANKK1,0.0,0.0
+skeletalmuscle,Immune (myeloid),ANKK1,0.0,0.0
+skin,Adipocyte,ANKK1,0.0,0.0
+skeletalmuscle,Glia,ANKK1,0.0,0.0
+skin,Endothelial cell,ANKK1,0.0,0.0
+skin,Epithelial cell,ANKK1,0.0,0.0
+skin,Fibroblast,ANKK1,0.0,0.0
+skin,Immune (lymphocyte),ANKK1,0.0,0.0
+skin,Immune (myeloid),ANKK1,0.0,0.0
+skin,Melanocyte,ANKK1,0.0,0.0
+skin,Muscle,ANKK1,0.0,0.0
+skin,Other,ANKK1,0.0,0.0

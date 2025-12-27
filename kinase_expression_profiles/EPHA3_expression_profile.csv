@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+ICCs,EPHA3,0.72188836
+Pericyte/SMC,EPHA3,0.64581496
+Fibroblast,EPHA3,0.4734533
+Myocyte (smooth muscle),EPHA3,0.2582247
+Immune (alveolar macrophage),EPHA3,0.11667948
+Schwann cell,EPHA3,0.11010141
+Epithelial cell (ciliated),EPHA3,0.09655142
+Myocyte (cardiac),EPHA3,0.0951338
+Epithelial cell (alveolar type II),EPHA3,0.08204555
+Endothelial cell (vascular),EPHA3,0.080758505
+Myofibroblast,EPHA3,0.07989587
+Adipocyte,EPHA3,0.07454526
+Immune (Langerhans),EPHA3,0.072648
+"Myocyte (cardiac, cytoplasmic)",EPHA3,0.07064197
+Epithelial cell (alveolar type I),EPHA3,0.06378264
+Melanocyte,EPHA3,0.0615482
+Immune (mast cell),EPHA3,0.053429276
+Myocyte (NMJ-rich),EPHA3,0.04597241
+Endothelial cell (lymphatic),EPHA3,0.04386469
+Neuronal,EPHA3,0.04330386
+Myoepithelial (basal),EPHA3,0.037884388
+Immune (T cell),EPHA3,0.036955662
+Epithelial cell (club),EPHA3,0.036146943
+Epithelial cell (basal keratinocyte),EPHA3,0.032098208
+Sebaceous gland cell,EPHA3,0.03067606
+Epithelial cell (suprabasal keratinocyte),EPHA3,0.03033828
+Epithelial cell (luminal),EPHA3,0.028814094
+Myocyte (sk. muscle),EPHA3,0.027899925
+Epithelial cell (basal),EPHA3,0.025025813
+Epithelial cell (suprabasal),EPHA3,0.02378159
+Sweat gland cell,EPHA3,0.023598198
+"Myocyte (sk. muscle, cytoplasmic)",EPHA3,0.022896387
+Immune (DC/macrophage),EPHA3,0.02169556
+Epithelial cell (Hillock),EPHA3,0.02021631
+Immune (B cell),EPHA3,0.015214426
+Mucous cell,EPHA3,0.012728531
+Epithelial cell (squamous),EPHA3,0.00979975
+Epithelial cell (mature keratinocyte),EPHA3,0.009645492
+Satellite cell,EPHA3,0.009041971
+Immune (NK cell),EPHA3,0.0048577175
+Epithelial cell (cornified keratinocyte),EPHA3,0.0
+Immune (DC),EPHA3,0.0
+Neuroendocrine,EPHA3,0.0

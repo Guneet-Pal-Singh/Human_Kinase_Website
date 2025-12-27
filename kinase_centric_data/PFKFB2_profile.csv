@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+heart,Muscle,PFKFB2,1.5628192,24.345159151193634
+skeletalmuscle,Muscle,PFKFB2,1.2059743,15.57308050152851
+lung,Epithelial cell,PFKFB2,1.1630155,12.893042575285566
+skin,Epithelial cell,PFKFB2,1.2075472,8.803986710963455
+skin,Melanocyte,PFKFB2,1.1818181,8.088235294117647
+esophagusmucosa,Epithelial cell,PFKFB2,1.3449275,7.502174543345898
+skin,Immune (myeloid),PFKFB2,1.1,5.58659217877095
+skin,Other,PFKFB2,1.0869565,5.08849557522124
+esophagusmucosa,Stromal,PFKFB2,1.0487804,4.145601617795753
+skin,Epithelial cell (keratinocyte),PFKFB2,1.0416666,3.697996918335902
+esophagusmucosa,Immune (myeloid),PFKFB2,1.14,3.5765379113018603
+skin,Adipocyte,PFKFB2,1.0,3.225806451612903
+prostate,Immune (myeloid),PFKFB2,1.030303,3.210116731517509
+esophagusmuscularis,Glia,PFKFB2,1.0666667,3.0927835051546397
+esophagusmucosa,Glia,PFKFB2,1.0,3.076923076923077
+breast,Immune (myeloid),PFKFB2,1.0,3.072625698324022
+lung,Immune (myeloid),PFKFB2,1.0216216,3.0332841449417938
+esophagusmuscularis,Adipocyte,PFKFB2,1.0,2.857142857142857
+skin,Immune (lymphocyte),PFKFB2,1.0,2.666666666666667
+heart,Adipocyte,PFKFB2,1.0,2.5906735751295336
+esophagusmuscularis,Immune (myeloid),PFKFB2,1.0,2.497468781640229
+heart,Immune (myeloid),PFKFB2,1.0230769,2.031567432411314
+prostate,Epithelial cell,PFKFB2,1.0310421,1.9546656264898363
+esophagusmuscularis,Fibroblast,PFKFB2,1.0376344,1.7869151695647998
+breast,Epithelial cell,PFKFB2,1.0204082,1.6899465425073288
+prostate,Muscle,PFKFB2,1.0277778,1.6049933125278644
+esophagusmuscularis,Muscle,PFKFB2,1.0172414,1.5602932275203445
+prostate,Glia,PFKFB2,1.0,1.4925373134328357
+esophagusmucosa,Muscle,PFKFB2,1.1428572,1.3972055888223551
+breast,Muscle,PFKFB2,1.0,1.3157894736842104
+skeletalmuscle,Adipocyte,PFKFB2,1.0,1.257861635220126
+lung,Immune (lymphocyte),PFKFB2,1.125,1.103448275862069
+skeletalmuscle,Immune (myeloid),PFKFB2,1.0,1.0854816824966078
+heart,Glia,PFKFB2,1.0,1.006711409395973
+breast,Adipocyte,PFKFB2,1.0,0.9653605905735378
+prostate,Fibroblast,PFKFB2,1.0,0.9632224168126094
+skin,Fibroblast,PFKFB2,1.2,0.945179584120983
+heart,Immune (lymphocyte),PFKFB2,1.0,0.8595988538681949
+heart,Fibroblast,PFKFB2,1.0,0.8506514482610101
+lung,Fibroblast,PFKFB2,1.0833334,0.8130081300813009
+esophagusmuscularis,Endothelial cell,PFKFB2,1.0277778,0.8069939475453934
+breast,Endothelial cell,PFKFB2,1.0,0.7945516458569807
+esophagusmuscularis,Immune (lymphocyte),PFKFB2,1.0,0.6644518272425249
+esophagusmucosa,Immune (lymphocyte),PFKFB2,1.25,0.6600660066006601
+lung,Muscle,PFKFB2,1.0,0.6134969325153374
+skeletalmuscle,Endothelial cell,PFKFB2,1.1428572,0.5259203606311045
+esophagusmucosa,Fibroblast,PFKFB2,1.0,0.4618117229129663
+prostate,Immune (lymphocyte),PFKFB2,1.0,0.4398826979472141
+heart,Endothelial cell,PFKFB2,1.0,0.3143418467583497
+esophagusmucosa,Endothelial cell,PFKFB2,1.0,0.2992731936725096
+skeletalmuscle,Fibroblast,PFKFB2,1.0,0.2355316285329744
+prostate,Endothelial cell,PFKFB2,1.0,0.1415428167020523
+breast,Fibroblast,PFKFB2,1.0,0.1221001221001221
+lung,Endothelial cell,PFKFB2,1.0,0.1092498179169701
+skin,Endothelial cell,PFKFB2,1.0,0.0977517106549364
+esophagusmuscularis,Neuron,PFKFB2,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),PFKFB2,0.0,0.0
+skeletalmuscle,Glia,PFKFB2,0.0,0.0
+skin,Muscle,PFKFB2,0.0,0.0

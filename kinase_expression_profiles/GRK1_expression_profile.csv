@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+"Myocyte (cardiac, cytoplasmic)",GRK1,0.0021797805
+Epithelial cell (basal),GRK1,0.0004063378
+Myocyte (smooth muscle),GRK1,0.00022080883
+Fibroblast,GRK1,0.0001337963
+Endothelial cell (vascular),GRK1,0.0
+Epithelial cell (alveolar type II),GRK1,0.0
+Epithelial cell (alveolar type I),GRK1,0.0
+Epithelial cell (basal keratinocyte),GRK1,0.0
+Epithelial cell (Hillock),GRK1,0.0
+Endothelial cell (lymphatic),GRK1,0.0
+Adipocyte,GRK1,0.0
+Epithelial cell (cornified keratinocyte),GRK1,0.0
+Epithelial cell (club),GRK1,0.0
+Epithelial cell (ciliated),GRK1,0.0
+Epithelial cell (luminal),GRK1,0.0
+Epithelial cell (suprabasal keratinocyte),GRK1,0.0
+Epithelial cell (suprabasal),GRK1,0.0
+Epithelial cell (squamous),GRK1,0.0
+Epithelial cell (mature keratinocyte),GRK1,0.0
+Immune (DC),GRK1,0.0
+Immune (DC/macrophage),GRK1,0.0
+Immune (Langerhans),GRK1,0.0
+Immune (NK cell),GRK1,0.0
+Immune (T cell),GRK1,0.0
+Immune (alveolar macrophage),GRK1,0.0
+ICCs,GRK1,0.0
+Immune (B cell),GRK1,0.0
+Melanocyte,GRK1,0.0
+Immune (mast cell),GRK1,0.0
+Myocyte (NMJ-rich),GRK1,0.0
+Mucous cell,GRK1,0.0
+Myocyte (cardiac),GRK1,0.0
+Myocyte (sk. muscle),GRK1,0.0
+"Myocyte (sk. muscle, cytoplasmic)",GRK1,0.0
+Myoepithelial (basal),GRK1,0.0
+Myofibroblast,GRK1,0.0
+Neuroendocrine,GRK1,0.0
+Neuronal,GRK1,0.0
+Pericyte/SMC,GRK1,0.0
+Satellite cell,GRK1,0.0
+Schwann cell,GRK1,0.0
+Sebaceous gland cell,GRK1,0.0
+Sweat gland cell,GRK1,0.0

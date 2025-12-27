@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Neuronal,PRKACB,0.9505814
+Neuroendocrine,PRKACB,0.8757906
+Myocyte (cardiac),PRKACB,0.6389627
+Myofibroblast,PRKACB,0.5723617
+Epithelial cell (Hillock),PRKACB,0.5495912
+Melanocyte,PRKACB,0.506082
+Epithelial cell (club),PRKACB,0.49301568
+Immune (B cell),PRKACB,0.37991637
+Immune (T cell),PRKACB,0.37483385
+Myocyte (smooth muscle),PRKACB,0.3731794
+Mucous cell,PRKACB,0.36010253
+Immune (NK cell),PRKACB,0.33798715
+Epithelial cell (luminal),PRKACB,0.3353188
+Immune (DC),PRKACB,0.2950549
+Pericyte/SMC,PRKACB,0.2879782
+Epithelial cell (basal),PRKACB,0.27966866
+Adipocyte,PRKACB,0.27153057
+Immune (DC/macrophage),PRKACB,0.26085752
+Immune (alveolar macrophage),PRKACB,0.25804812
+Schwann cell,PRKACB,0.2520174
+Myocyte (sk. muscle),PRKACB,0.24710943
+Myocyte (NMJ-rich),PRKACB,0.2443827
+Satellite cell,PRKACB,0.24120942
+Fibroblast,PRKACB,0.220108
+Epithelial cell (alveolar type I),PRKACB,0.21646893
+Sebaceous gland cell,PRKACB,0.21632105
+Myoepithelial (basal),PRKACB,0.21386276
+"Myocyte (cardiac, cytoplasmic)",PRKACB,0.1988576
+Immune (mast cell),PRKACB,0.18785721
+Sweat gland cell,PRKACB,0.1672558
+ICCs,PRKACB,0.14399752
+Endothelial cell (vascular),PRKACB,0.13069607
+Endothelial cell (lymphatic),PRKACB,0.11412517
+Epithelial cell (suprabasal),PRKACB,0.08605991
+"Myocyte (sk. muscle, cytoplasmic)",PRKACB,0.08404586
+Immune (Langerhans),PRKACB,0.0804882
+Epithelial cell (alveolar type II),PRKACB,0.07786813
+Epithelial cell (squamous),PRKACB,0.07679196
+Epithelial cell (ciliated),PRKACB,0.06420101
+Epithelial cell (basal keratinocyte),PRKACB,0.033620607
+Epithelial cell (suprabasal keratinocyte),PRKACB,0.024946876
+Epithelial cell (cornified keratinocyte),PRKACB,0.0
+Epithelial cell (mature keratinocyte),PRKACB,0.0

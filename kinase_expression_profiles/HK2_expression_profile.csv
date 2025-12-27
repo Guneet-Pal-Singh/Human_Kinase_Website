@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Adipocyte,HK2,0.674567
+Melanocyte,HK2,0.41641912
+Immune (Langerhans),HK2,0.35346538
+Sweat gland cell,HK2,0.31772682
+Immune (alveolar macrophage),HK2,0.26505786
+"Myocyte (sk. muscle, cytoplasmic)",HK2,0.2641061
+Epithelial cell (alveolar type II),HK2,0.21791969
+Epithelial cell (club),HK2,0.21642497
+Epithelial cell (squamous),HK2,0.21606418
+Epithelial cell (suprabasal),HK2,0.20854545
+Sebaceous gland cell,HK2,0.2042583
+Immune (mast cell),HK2,0.17796618
+Epithelial cell (Hillock),HK2,0.15789151
+Myocyte (sk. muscle),HK2,0.1421217
+Epithelial cell (luminal),HK2,0.1377851
+Satellite cell,HK2,0.114664696
+Myocyte (cardiac),HK2,0.10278661
+Epithelial cell (ciliated),HK2,0.09735384
+Epithelial cell (cornified keratinocyte),HK2,0.0961605
+Epithelial cell (alveolar type I),HK2,0.09591077
+Immune (DC/macrophage),HK2,0.07190404
+"Myocyte (cardiac, cytoplasmic)",HK2,0.069880106
+Epithelial cell (basal),HK2,0.06982489
+Epithelial cell (mature keratinocyte),HK2,0.06285463
+Mucous cell,HK2,0.03847898
+Myofibroblast,HK2,0.038418196
+Neuroendocrine,HK2,0.03720441
+Fibroblast,HK2,0.03337931
+Myocyte (NMJ-rich),HK2,0.023733376
+Immune (NK cell),HK2,0.023524089
+Myocyte (smooth muscle),HK2,0.020382838
+Epithelial cell (suprabasal keratinocyte),HK2,0.020312294
+Myoepithelial (basal),HK2,0.019204354
+Endothelial cell (vascular),HK2,0.01563879
+Pericyte/SMC,HK2,0.012336562
+ICCs,HK2,0.0106957555
+Schwann cell,HK2,0.010243126
+Immune (T cell),HK2,0.010121195
+Endothelial cell (lymphatic),HK2,0.009237818
+Epithelial cell (basal keratinocyte),HK2,0.0056860493
+Immune (B cell),HK2,0.0
+Immune (DC),HK2,0.0
+Neuronal,HK2,0.0

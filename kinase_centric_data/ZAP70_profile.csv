@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmucosa,Immune (lymphocyte),ZAP70,1.0694444,15.84158415841584
+heart,Immune (lymphocyte),ZAP70,1.1428572,12.034383954154729
+skin,Immune (lymphocyte),ZAP70,1.0,10.666666666666668
+esophagusmuscularis,Immune (lymphocyte),ZAP70,1.0,9.634551495016613
+lung,Immune (lymphocyte),ZAP70,1.1186441,8.137931034482758
+skeletalmuscle,Immune (lymphocyte),ZAP70,1.0,7.000000000000001
+prostate,Immune (lymphocyte),ZAP70,1.1111112,6.598240469208211
+esophagusmuscularis,Neuron,ZAP70,1.0,4.0
+esophagusmucosa,Stromal,ZAP70,1.1538461,1.314459049544995
+lung,Muscle,ZAP70,1.0,0.6134969325153374
+esophagusmucosa,Immune (myeloid),ZAP70,1.25,0.5722460658082975
+skin,Immune (myeloid),ZAP70,1.0,0.5586592178770949
+breast,Epithelial cell,ZAP70,1.0,0.5518192791860665
+lung,Immune (myeloid),ZAP70,1.0344827,0.4754877848827676
+esophagusmucosa,Epithelial cell,ZAP70,1.0819672,0.4421571469991302
+esophagusmucosa,Muscle,ZAP70,1.0,0.3992015968063871
+breast,Endothelial cell,ZAP70,1.0,0.340522133938706
+breast,Immune (myeloid),ZAP70,1.0,0.2793296089385474
+lung,Fibroblast,ZAP70,1.0,0.2710027100271002
+lung,Epithelial cell,ZAP70,1.0,0.2699896157840083
+prostate,Muscle,ZAP70,1.0,0.2674988854213107
+skin,Epithelial cell (keratinocyte),ZAP70,1.0,0.2568053415511042
+skin,Other,ZAP70,1.0,0.2212389380530973
+esophagusmucosa,Endothelial cell,ZAP70,1.0,0.2137665669089354
+esophagusmuscularis,Immune (myeloid),ZAP70,1.0,0.2024974687816402
+heart,Fibroblast,ZAP70,1.0,0.1938193173252934
+lung,Endothelial cell,ZAP70,1.4,0.1820830298616169
+esophagusmucosa,Fibroblast,ZAP70,1.0,0.1776198934280639
+prostate,Endothelial cell,ZAP70,1.0,0.1769285208775654
+skeletalmuscle,Endothelial cell,ZAP70,1.0,0.1502629601803155
+esophagusmuscularis,Muscle,ZAP70,1.0454545,0.1479588405407223
+skeletalmuscle,Muscle,ZAP70,1.0,0.1417748438261486
+skeletalmuscle,Fibroblast,ZAP70,1.0,0.1345895020188425
+heart,Muscle,ZAP70,1.0625,0.1326259946949602
+prostate,Epithelial cell,ZAP70,1.0,0.1300221037576388
+esophagusmuscularis,Fibroblast,ZAP70,1.0,0.1152848496493419
+breast,Adipocyte,ZAP70,1.0,0.1135718341851221
+esophagusmuscularis,Glia,ZAP70,1.0,0.1030927835051546
+skin,Endothelial cell,ZAP70,1.0,0.0977517106549364
+prostate,Immune (myeloid),ZAP70,1.0,0.0972762645914396
+heart,Immune (myeloid),ZAP70,1.0,0.093764650726676
+prostate,Fibroblast,ZAP70,1.0,0.0875656742556917
+esophagusmuscularis,Endothelial cell,ZAP70,1.0,0.0448329970858551
+heart,Endothelial cell,ZAP70,1.0,0.0261951538965291
+heart,Adipocyte,ZAP70,0.0,0.0
+heart,Glia,ZAP70,0.0,0.0
+esophagusmucosa,Glia,ZAP70,0.0,0.0
+breast,Muscle,ZAP70,0.0,0.0
+breast,Fibroblast,ZAP70,0.0,0.0
+esophagusmuscularis,Adipocyte,ZAP70,0.0,0.0
+prostate,Glia,ZAP70,0.0,0.0
+skeletalmuscle,Adipocyte,ZAP70,0.0,0.0
+skin,Adipocyte,ZAP70,0.0,0.0
+skeletalmuscle,Glia,ZAP70,0.0,0.0
+skeletalmuscle,Immune (myeloid),ZAP70,0.0,0.0
+skin,Fibroblast,ZAP70,0.0,0.0
+skin,Epithelial cell,ZAP70,0.0,0.0
+skin,Melanocyte,ZAP70,0.0,0.0
+skin,Muscle,ZAP70,0.0,0.0

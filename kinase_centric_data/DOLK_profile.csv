@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Neuron,DOLK,1.0,4.0
+prostate,Glia,DOLK,1.0,2.985074626865672
+heart,Glia,DOLK,1.0,2.348993288590604
+skin,Other,DOLK,1.125,1.7699115044247788
+prostate,Epithelial cell,DOLK,1.0451612,1.3435617388289345
+prostate,Muscle,DOLK,1.0666667,1.337494427106554
+prostate,Fibroblast,DOLK,1.0,1.138353765323993
+prostate,Endothelial cell,DOLK,1.0,0.743099787685775
+skin,Endothelial cell,DOLK,1.0,0.6842619745845552
+heart,Muscle,DOLK,1.0121951,0.6797082228116711
+skin,Epithelial cell,DOLK,1.0,0.6644518272425249
+skeletalmuscle,Adipocyte,DOLK,1.0,0.628930817610063
+esophagusmuscularis,Muscle,DOLK,1.076087,0.6187369695339296
+esophagusmuscularis,Adipocyte,DOLK,1.0,0.5714285714285714
+skeletalmuscle,Fibroblast,DOLK,1.03125,0.5383580080753702
+heart,Endothelial cell,DOLK,1.0,0.5370006548788474
+esophagusmucosa,Endothelial cell,DOLK,1.04,0.5344164172723386
+heart,Adipocyte,DOLK,1.0,0.5181347150259068
+esophagusmucosa,Immune (myeloid),DOLK,1.0,0.5007153075822603
+heart,Fibroblast,DOLK,1.0217391,0.4953160331646387
+prostate,Immune (myeloid),DOLK,1.0,0.4863813229571984
+breast,Adipocyte,DOLK,1.0,0.4542873367404884
+esophagusmuscularis,Fibroblast,DOLK,1.0227273,0.4227111153809204
+esophagusmucosa,Stromal,DOLK,1.0,0.4044489383215369
+esophagusmucosa,Muscle,DOLK,1.0,0.3992015968063871
+esophagusmucosa,Epithelial cell,DOLK,1.0377358,0.3841693244418672
+skeletalmuscle,Endothelial cell,DOLK,1.0,0.3756574004507889
+skin,Melanocyte,DOLK,1.0,0.3676470588235294
+esophagusmuscularis,Endothelial cell,DOLK,1.0,0.3586639766868415
+breast,Endothelial cell,DOLK,1.0,0.340522133938706
+lung,Immune (myeloid),DOLK,1.1,0.3279226102639777
+breast,Immune (myeloid),DOLK,1.0,0.2793296089385474
+skeletalmuscle,Immune (myeloid),DOLK,1.0,0.2713704206241519
+lung,Endothelial cell,DOLK,1.0,0.2549162418062636
+esophagusmucosa,Fibroblast,DOLK,1.0,0.2131438721136767
+heart,Immune (myeloid),DOLK,1.0,0.2031567432411314
+esophagusmuscularis,Immune (myeloid),DOLK,1.0,0.1349983125210934
+lung,Epithelial cell,DOLK,1.0,0.1329179646936656
+skeletalmuscle,Muscle,DOLK,1.0,0.12405298834788
+breast,Fibroblast,DOLK,1.0,0.1221001221001221
+breast,Epithelial cell,DOLK,1.0,0.0862217623728228
+lung,Fibroblast,DOLK,1.0,0.067750677506775
+breast,Muscle,DOLK,0.0,0.0
+heart,Immune (lymphocyte),DOLK,0.0,0.0
+esophagusmuscularis,Immune (lymphocyte),DOLK,0.0,0.0
+esophagusmuscularis,Glia,DOLK,0.0,0.0
+esophagusmucosa,Immune (lymphocyte),DOLK,0.0,0.0
+esophagusmucosa,Glia,DOLK,0.0,0.0
+prostate,Immune (lymphocyte),DOLK,0.0,0.0
+lung,Immune (lymphocyte),DOLK,0.0,0.0
+lung,Muscle,DOLK,0.0,0.0
+skin,Adipocyte,DOLK,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),DOLK,0.0,0.0
+skeletalmuscle,Glia,DOLK,0.0,0.0
+skin,Epithelial cell (keratinocyte),DOLK,0.0,0.0
+skin,Immune (lymphocyte),DOLK,0.0,0.0
+skin,Fibroblast,DOLK,0.0,0.0
+skin,Immune (myeloid),DOLK,0.0,0.0
+skin,Muscle,DOLK,0.0,0.0

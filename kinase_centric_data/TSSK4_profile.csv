@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skin,Epithelial cell,TSSK4,1.0,0.1661129568106312
+esophagusmucosa,Stromal,TSSK4,1.0,0.1011122345803842
+esophagusmucosa,Immune (myeloid),TSSK4,1.0,0.0715307582260371
+prostate,Epithelial cell,TSSK4,1.0,0.0303384908767823
+heart,Fibroblast,TSSK4,1.0,0.0215354797028103
+heart,Muscle,TSSK4,1.0,0.01657824933687
+esophagusmuscularis,Fibroblast,TSSK4,1.0,0.0096070708041118
+esophagusmucosa,Epithelial cell,TSSK4,1.0,0.0072484778196578
+esophagusmuscularis,Muscle,TSSK4,1.0,0.0067254018427601
+lung,Epithelial cell,TSSK4,1.0,0.004153686396677
+breast,Muscle,TSSK4,0.0,0.0
+esophagusmucosa,Immune (lymphocyte),TSSK4,0.0,0.0
+esophagusmucosa,Glia,TSSK4,0.0,0.0
+esophagusmucosa,Fibroblast,TSSK4,0.0,0.0
+esophagusmucosa,Endothelial cell,TSSK4,0.0,0.0
+breast,Immune (myeloid),TSSK4,0.0,0.0
+esophagusmuscularis,Endothelial cell,TSSK4,0.0,0.0
+esophagusmuscularis,Adipocyte,TSSK4,0.0,0.0
+esophagusmucosa,Muscle,TSSK4,0.0,0.0
+esophagusmuscularis,Immune (lymphocyte),TSSK4,0.0,0.0
+esophagusmuscularis,Glia,TSSK4,0.0,0.0
+esophagusmuscularis,Neuron,TSSK4,0.0,0.0
+esophagusmuscularis,Immune (myeloid),TSSK4,0.0,0.0
+breast,Epithelial cell,TSSK4,0.0,0.0
+breast,Fibroblast,TSSK4,0.0,0.0
+breast,Endothelial cell,TSSK4,0.0,0.0
+breast,Adipocyte,TSSK4,0.0,0.0
+heart,Immune (lymphocyte),TSSK4,0.0,0.0
+heart,Glia,TSSK4,0.0,0.0
+heart,Endothelial cell,TSSK4,0.0,0.0
+heart,Adipocyte,TSSK4,0.0,0.0
+lung,Fibroblast,TSSK4,0.0,0.0
+lung,Immune (lymphocyte),TSSK4,0.0,0.0
+lung,Immune (myeloid),TSSK4,0.0,0.0
+heart,Immune (myeloid),TSSK4,0.0,0.0
+lung,Muscle,TSSK4,0.0,0.0
+prostate,Endothelial cell,TSSK4,0.0,0.0
+prostate,Fibroblast,TSSK4,0.0,0.0
+prostate,Glia,TSSK4,0.0,0.0
+prostate,Immune (lymphocyte),TSSK4,0.0,0.0
+prostate,Immune (myeloid),TSSK4,0.0,0.0
+prostate,Muscle,TSSK4,0.0,0.0
+lung,Endothelial cell,TSSK4,0.0,0.0
+skeletalmuscle,Adipocyte,TSSK4,0.0,0.0
+skeletalmuscle,Endothelial cell,TSSK4,0.0,0.0
+skeletalmuscle,Glia,TSSK4,0.0,0.0
+skeletalmuscle,Fibroblast,TSSK4,0.0,0.0
+skeletalmuscle,Immune (myeloid),TSSK4,0.0,0.0
+skeletalmuscle,Muscle,TSSK4,0.0,0.0
+skin,Adipocyte,TSSK4,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),TSSK4,0.0,0.0
+skin,Endothelial cell,TSSK4,0.0,0.0
+skin,Epithelial cell (keratinocyte),TSSK4,0.0,0.0
+skin,Fibroblast,TSSK4,0.0,0.0
+skin,Immune (lymphocyte),TSSK4,0.0,0.0
+skin,Immune (myeloid),TSSK4,0.0,0.0
+skin,Melanocyte,TSSK4,0.0,0.0
+skin,Muscle,TSSK4,0.0,0.0
+skin,Other,TSSK4,0.0,0.0

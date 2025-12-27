@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (squamous),OXSR1,0.74567276
+Neuronal,OXSR1,0.5947535
+Epithelial cell (suprabasal),OXSR1,0.49079973
+Immune (Langerhans),OXSR1,0.48890242
+Immune (DC),OXSR1,0.44495597
+Immune (alveolar macrophage),OXSR1,0.43101984
+Epithelial cell (Hillock),OXSR1,0.4055086
+Myocyte (cardiac),OXSR1,0.3515801
+Myofibroblast,OXSR1,0.34289232
+Mucous cell,OXSR1,0.31478542
+Epithelial cell (basal keratinocyte),OXSR1,0.30936867
+Adipocyte,OXSR1,0.30715328
+Epithelial cell (basal),OXSR1,0.2937767
+Epithelial cell (club),OXSR1,0.28141943
+Immune (DC/macrophage),OXSR1,0.27501035
+Sweat gland cell,OXSR1,0.26956904
+Epithelial cell (alveolar type I),OXSR1,0.26610938
+Epithelial cell (luminal),OXSR1,0.24988699
+Myocyte (smooth muscle),OXSR1,0.24722579
+Epithelial cell (suprabasal keratinocyte),OXSR1,0.23391044
+Epithelial cell (alveolar type II),OXSR1,0.23061785
+Sebaceous gland cell,OXSR1,0.22514196
+Endothelial cell (lymphatic),OXSR1,0.2226173
+Immune (T cell),OXSR1,0.21024504
+ICCs,OXSR1,0.20655148
+Immune (NK cell),OXSR1,0.1980367
+Endothelial cell (vascular),OXSR1,0.19590698
+Epithelial cell (cornified keratinocyte),OXSR1,0.19370867
+Immune (B cell),OXSR1,0.18364175
+"Myocyte (cardiac, cytoplasmic)",OXSR1,0.18083793
+Neuroendocrine,OXSR1,0.17979734
+"Myocyte (sk. muscle, cytoplasmic)",OXSR1,0.1789154
+Schwann cell,OXSR1,0.17745893
+Pericyte/SMC,OXSR1,0.17625216
+Epithelial cell (ciliated),OXSR1,0.17059289
+Melanocyte,OXSR1,0.15438148
+Satellite cell,OXSR1,0.1533105
+Myoepithelial (basal),OXSR1,0.1480017
+Fibroblast,OXSR1,0.14170241
+Epithelial cell (mature keratinocyte),OXSR1,0.13799174
+Immune (mast cell),OXSR1,0.13144833
+Myocyte (sk. muscle),OXSR1,0.11175129
+Myocyte (NMJ-rich),OXSR1,0.045890283

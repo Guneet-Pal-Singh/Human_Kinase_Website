@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (NK cell),PKN1,0.35328537
+Endothelial cell (lymphatic),PKN1,0.32229677
+"Myocyte (cardiac, cytoplasmic)",PKN1,0.30187753
+Neuronal,PKN1,0.30148977
+Endothelial cell (vascular),PKN1,0.30100837
+Immune (DC/macrophage),PKN1,0.29446143
+Myofibroblast,PKN1,0.26577684
+Immune (T cell),PKN1,0.26130098
+Immune (alveolar macrophage),PKN1,0.26080972
+Epithelial cell (ciliated),PKN1,0.25185868
+Immune (mast cell),PKN1,0.22369418
+Myocyte (smooth muscle),PKN1,0.20924065
+Immune (B cell),PKN1,0.20763622
+Epithelial cell (alveolar type I),PKN1,0.19943856
+Mucous cell,PKN1,0.18852305
+Myocyte (cardiac),PKN1,0.18142709
+Immune (DC),PKN1,0.17373827
+Pericyte/SMC,PKN1,0.16244158
+Neuroendocrine,PKN1,0.16201892
+"Myocyte (sk. muscle, cytoplasmic)",PKN1,0.14747559
+Epithelial cell (club),PKN1,0.1469729
+Epithelial cell (luminal),PKN1,0.14631167
+Epithelial cell (alveolar type II),PKN1,0.14302814
+Schwann cell,PKN1,0.14260304
+Fibroblast,PKN1,0.14029479
+Sweat gland cell,PKN1,0.12139075
+ICCs,PKN1,0.113751546
+Adipocyte,PKN1,0.10775967
+Satellite cell,PKN1,0.09538688
+Melanocyte,PKN1,0.0767096
+Epithelial cell (Hillock),PKN1,0.069266684
+Epithelial cell (basal),PKN1,0.06664994
+Epithelial cell (squamous),PKN1,0.06540381
+Epithelial cell (mature keratinocyte),PKN1,0.05592119
+Sebaceous gland cell,PKN1,0.054924544
+Myocyte (sk. muscle),PKN1,0.044262696
+Myoepithelial (basal),PKN1,0.042049248
+Myocyte (NMJ-rich),PKN1,0.033494253
+Epithelial cell (basal keratinocyte),PKN1,0.024518818
+Epithelial cell (suprabasal),PKN1,0.007613668
+Epithelial cell (cornified keratinocyte),PKN1,0.0
+Immune (Langerhans),PKN1,0.0
+Epithelial cell (suprabasal keratinocyte),PKN1,0.0

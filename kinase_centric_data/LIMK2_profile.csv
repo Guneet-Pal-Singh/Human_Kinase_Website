@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Endothelial cell,LIMK2,1.7521306,31.562429948442052
+lung,Immune (myeloid),LIMK2,1.3425775,20.101656009181838
+prostate,Epithelial cell,LIMK2,1.2949197,19.707016859532786
+breast,Endothelial cell,LIMK2,1.2134147,18.615209988649266
+esophagusmucosa,Endothelial cell,LIMK2,1.2709303,18.383924754168447
+esophagusmucosa,Epithelial cell,LIMK2,1.2342232,17.91823717019426
+prostate,Endothelial cell,LIMK2,1.2060606,17.51592356687898
+esophagusmucosa,Immune (myeloid),LIMK2,1.3395349,15.379113018597998
+prostate,Immune (myeloid),LIMK2,1.2657343,13.910505836575876
+heart,Endothelial cell,LIMK2,1.2414122,13.726260641781272
+skin,Other,LIMK2,1.3064516,13.716814159292037
+skin,Endothelial cell,LIMK2,1.0507246,13.48973607038123
+esophagusmucosa,Stromal,LIMK2,1.3157895,13.4479271991911
+esophagusmuscularis,Neuron,LIMK2,1.0,12.0
+lung,Endothelial cell,LIMK2,1.152439,11.944646758922069
+skin,Epithelial cell (keratinocyte),LIMK2,1.1357466,11.350796096558808
+lung,Epithelial cell,LIMK2,1.1369966,11.036344755970925
+breast,Epithelial cell,LIMK2,1.1836735,10.984652526297635
+skin,Epithelial cell,LIMK2,1.0909091,10.96345514950166
+skeletalmuscle,Endothelial cell,LIMK2,1.084507,10.668670172802404
+breast,Immune (myeloid),LIMK2,1.2,9.776536312849162
+heart,Muscle,LIMK2,1.1453438,9.52420424403183
+breast,Adipocyte,LIMK2,1.163522,9.028960817717206
+skin,Melanocyte,LIMK2,1.1363636,8.088235294117647
+esophagusmuscularis,Adipocyte,LIMK2,1.1428572,8.0
+esophagusmuscularis,Immune (myeloid),LIMK2,1.1842105,7.69490381370233
+prostate,Muscle,LIMK2,1.2248521,7.53455193936692
+prostate,Glia,LIMK2,1.2,7.462686567164178
+esophagusmucosa,Immune (lymphocyte),LIMK2,1.1203008,7.315731573157317
+skeletalmuscle,Muscle,LIMK2,1.119266,7.24380842674228
+esophagusmuscularis,Immune (lymphocyte),LIMK2,1.0952381,6.976744186046512
+esophagusmuscularis,Muscle,LIMK2,1.1812749,6.752303450131146
+lung,Immune (lymphocyte),LIMK2,1.0416666,6.620689655172414
+heart,Immune (myeloid),LIMK2,1.1229315,6.610407876230662
+heart,Adipocyte,LIMK2,1.0833334,6.217616580310881
+heart,Immune (lymphocyte),LIMK2,1.0769231,5.587392550143266
+skeletalmuscle,Immune (myeloid),LIMK2,1.1,5.42740841248304
+breast,Muscle,LIMK2,1.125,5.263157894736842
+skeletalmuscle,Adipocyte,LIMK2,1.375,5.031446540880504
+skin,Adipocyte,LIMK2,1.0,4.838709677419355
+heart,Fibroblast,LIMK2,1.1027397,4.716270054915473
+lung,Fibroblast,LIMK2,1.0724638,4.67479674796748
+esophagusmuscularis,Glia,LIMK2,1.1590909,4.536082474226804
+prostate,Immune (lymphocyte),LIMK2,1.0333333,4.398826979472141
+lung,Muscle,LIMK2,1.0,4.294478527607362
+skin,Immune (lymphocyte),LIMK2,1.0,4.0
+skin,Immune (myeloid),LIMK2,1.2857143,3.910614525139665
+prostate,Fibroblast,LIMK2,1.0930233,3.7653239929947455
+esophagusmucosa,Muscle,LIMK2,1.1111112,3.592814371257485
+breast,Fibroblast,LIMK2,1.0689656,3.5409035409035408
+esophagusmucosa,Fibroblast,LIMK2,1.1111112,3.197158081705151
+esophagusmuscularis,Fibroblast,LIMK2,1.0936556,3.179940436161014
+skeletalmuscle,Glia,LIMK2,1.0,2.857142857142857
+skeletalmuscle,Fibroblast,LIMK2,1.0220588,2.2880215343203227
+esophagusmucosa,Glia,LIMK2,1.0,1.5384615384615383
+heart,Glia,LIMK2,1.0,1.342281879194631
+skin,Muscle,LIMK2,1.0,1.0752688172043012
+skeletalmuscle,Immune (lymphocyte),LIMK2,1.0,1.0
+skin,Fibroblast,LIMK2,1.0,0.3780718336483932

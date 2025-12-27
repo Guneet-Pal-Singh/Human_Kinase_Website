@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Neuronal,MAPK11,0.55496633
+Neuroendocrine,MAPK11,0.23531835
+Endothelial cell (vascular),MAPK11,0.23467419
+Immune (DC),MAPK11,0.23388222
+Sebaceous gland cell,MAPK11,0.14042367
+Endothelial cell (lymphatic),MAPK11,0.1390587
+Adipocyte,MAPK11,0.11696719
+Myofibroblast,MAPK11,0.085264
+Myocyte (smooth muscle),MAPK11,0.076804675
+ICCs,MAPK11,0.061042175
+Epithelial cell (luminal),MAPK11,0.0604705
+Epithelial cell (basal),MAPK11,0.051871732
+Immune (B cell),MAPK11,0.044365264
+Sweat gland cell,MAPK11,0.043149803
+Immune (mast cell),MAPK11,0.038294096
+Epithelial cell (suprabasal),MAPK11,0.03793733
+Immune (T cell),MAPK11,0.035196792
+Epithelial cell (basal keratinocyte),MAPK11,0.034565415
+Myoepithelial (basal),MAPK11,0.025589403
+Epithelial cell (squamous),MAPK11,0.025063336
+"Myocyte (cardiac, cytoplasmic)",MAPK11,0.024538094
+Epithelial cell (club),MAPK11,0.021419046
+Melanocyte,MAPK11,0.019004086
+Pericyte/SMC,MAPK11,0.016861495
+Epithelial cell (Hillock),MAPK11,0.015048153
+Schwann cell,MAPK11,0.013300352
+Fibroblast,MAPK11,0.010890183
+Mucous cell,MAPK11,0.007858972
+Epithelial cell (alveolar type I),MAPK11,0.0074210223
+Myocyte (cardiac),MAPK11,0.007033771
+Immune (DC/macrophage),MAPK11,0.006376762
+Immune (NK cell),MAPK11,0.0058767004
+Epithelial cell (alveolar type II),MAPK11,0.004876915
+Epithelial cell (ciliated),MAPK11,0.004219266
+Myocyte (sk. muscle),MAPK11,0.0018026273
+"Myocyte (sk. muscle, cytoplasmic)",MAPK11,0.0013241745
+Immune (alveolar macrophage),MAPK11,0.00066438795
+Epithelial cell (cornified keratinocyte),MAPK11,0.0
+Epithelial cell (suprabasal keratinocyte),MAPK11,0.0
+Immune (Langerhans),MAPK11,0.0
+Epithelial cell (mature keratinocyte),MAPK11,0.0
+Myocyte (NMJ-rich),MAPK11,0.0
+Satellite cell,MAPK11,0.0

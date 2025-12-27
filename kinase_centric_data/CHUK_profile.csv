@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Neuron,CHUK,1.5,8.0
+heart,Adipocyte,CHUK,1.0,7.772020725388601
+heart,Muscle,CHUK,1.0661268,6.142241379310344
+esophagusmucosa,Stromal,CHUK,1.0833334,6.066734074823053
+prostate,Immune (myeloid),CHUK,1.1052631,5.544747081712062
+lung,Immune (myeloid),CHUK,1.0590163,5.00081980652566
+prostate,Epithelial cell,CHUK,1.0732714,4.199713951371733
+esophagusmucosa,Epithelial cell,CHUK,1.084922,4.182371701942592
+prostate,Muscle,CHUK,1.0537634,4.146232724030317
+esophagusmucosa,Immune (lymphocyte),CHUK,1.04,4.125412541254125
+esophagusmucosa,Immune (myeloid),CHUK,1.0350877,4.07725321888412
+esophagusmuscularis,Adipocyte,CHUK,1.0,4.0
+heart,Immune (myeloid),CHUK,1.0438247,3.922487888732615
+skeletalmuscle,Adipocyte,CHUK,1.0,3.7735849056603774
+prostate,Endothelial cell,CHUK,1.0377358,3.750884642604388
+esophagusmuscularis,Immune (lymphocyte),CHUK,1.0,3.654485049833888
+esophagusmuscularis,Muscle,CHUK,1.0581614,3.584639182191136
+skeletalmuscle,Immune (myeloid),CHUK,1.0384616,3.5278154681139755
+breast,Adipocyte,CHUK,1.05,3.4071550255536627
+heart,Fibroblast,CHUK,1.0543131,3.370302573489824
+heart,Endothelial cell,CHUK,1.0588236,3.3398821218074657
+esophagusmuscularis,Fibroblast,CHUK,1.0356083,3.2375828609856856
+prostate,Fibroblast,CHUK,1.0277778,3.1523642732049035
+esophagusmuscularis,Immune (myeloid),CHUK,1.0537634,3.138710766115423
+lung,Epithelial cell,CHUK,1.0376344,3.090342679127726
+breast,Endothelial cell,CHUK,1.1111112,3.064699205448354
+skeletalmuscle,Immune (lymphocyte),CHUK,1.0,3.0
+prostate,Glia,CHUK,1.0,2.985074626865672
+esophagusmuscularis,Endothelial cell,CHUK,1.030303,2.9589778076664426
+breast,Immune (myeloid),CHUK,1.1,2.793296089385475
+esophagusmuscularis,Glia,CHUK,1.0,2.783505154639176
+skin,Muscle,CHUK,1.0,2.6881720430107525
+esophagusmucosa,Fibroblast,CHUK,1.0266666,2.664298401420959
+skin,Other,CHUK,1.0833334,2.6548672566371683
+esophagusmucosa,Endothelial cell,CHUK,1.0887097,2.6507054296707997
+breast,Muscle,CHUK,1.25,2.631578947368421
+lung,Immune (lymphocyte),CHUK,1.0526316,2.6206896551724137
+lung,Fibroblast,CHUK,1.027027,2.5067750677506777
+skin,Epithelial cell,CHUK,1.0,2.491694352159469
+lung,Muscle,CHUK,1.0,2.4539877300613497
+heart,Immune (lymphocyte),CHUK,1.0,2.005730659025788
+breast,Fibroblast,CHUK,1.0,1.953601953601953
+lung,Endothelial cell,CHUK,1.0,1.930080116533139
+prostate,Immune (lymphocyte),CHUK,1.0,1.906158357771261
+skeletalmuscle,Fibroblast,CHUK,1.074074,1.8169582772543744
+skin,Immune (myeloid),CHUK,1.0,1.675977653631285
+esophagusmucosa,Muscle,CHUK,1.0,1.596806387225549
+esophagusmucosa,Glia,CHUK,1.0,1.5384615384615383
+skeletalmuscle,Endothelial cell,CHUK,1.0,1.5026296018031555
+skin,Melanocyte,CHUK,1.0,1.4705882352941175
+skeletalmuscle,Muscle,CHUK,1.0362538,1.4664835408267245
+breast,Epithelial cell,CHUK,1.075,1.3795481979651665
+skin,Immune (lymphocyte),CHUK,1.0,1.3333333333333337
+skin,Fibroblast,CHUK,1.0,1.1342155009451798
+skin,Epithelial cell (keratinocyte),CHUK,1.0,1.1299435028248588
+skin,Endothelial cell,CHUK,1.0,0.9775171065493646
+heart,Glia,CHUK,1.0,0.6711409395973155
+skin,Adipocyte,CHUK,0.0,0.0
+skeletalmuscle,Glia,CHUK,0.0,0.0

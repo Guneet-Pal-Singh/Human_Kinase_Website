@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Neuron,RET,1.8181819,44.0
+heart,Adipocyte,RET,1.0,6.217616580310881
+prostate,Glia,RET,2.5,2.985074626865672
+skeletalmuscle,Fibroblast,RET,1.0138888,1.2113055181695829
+breast,Muscle,RET,1.0,0.6578947368421052
+lung,Immune (myeloid),RET,1.0,0.6558452205279554
+esophagusmuscularis,Adipocyte,RET,1.0,0.5714285714285714
+heart,Fibroblast,RET,1.0566038,0.5706902121244751
+skin,Muscle,RET,1.0,0.5376344086021506
+lung,Endothelial cell,RET,1.0,0.5098324836125273
+prostate,Epithelial cell,RET,1.0571429,0.4550773631517357
+lung,Fibroblast,RET,1.0,0.4065040650406504
+skin,Fibroblast,RET,1.0,0.3780718336483932
+prostate,Endothelial cell,RET,1.0,0.3538570417551309
+skin,Epithelial cell,RET,1.0,0.3322259136212624
+skin,Endothelial cell,RET,1.0,0.2932551319648094
+prostate,Fibroblast,RET,1.3333334,0.2626970227670753
+lung,Epithelial cell,RET,1.032258,0.2575285565939771
+skin,Other,RET,1.0,0.2212389380530973
+heart,Endothelial cell,RET,1.125,0.2095612311722331
+esophagusmuscularis,Glia,RET,1.0,0.2061855670103093
+heart,Immune (myeloid),RET,1.0,0.2031567432411314
+esophagusmucosa,Muscle,RET,1.0,0.1996007984031935
+prostate,Immune (myeloid),RET,1.0,0.1945525291828793
+prostate,Muscle,RET,1.0,0.1783325902808738
+heart,Muscle,RET,1.0,0.1740716180371352
+breast,Epithelial cell,RET,1.2222222,0.1551991722710812
+skeletalmuscle,Endothelial cell,RET,1.0,0.1502629601803155
+esophagusmucosa,Epithelial cell,RET,1.0,0.1377210785734995
+skeletalmuscle,Immune (myeloid),RET,1.0,0.1356852103120759
+esophagusmuscularis,Immune (myeloid),RET,1.0,0.1349983125210934
+skeletalmuscle,Muscle,RET,1.0,0.1284834522174471
+breast,Fibroblast,RET,1.0,0.1221001221001221
+breast,Adipocyte,RET,1.0,0.1135718341851221
+esophagusmuscularis,Endothelial cell,RET,1.2,0.1120824927146379
+esophagusmucosa,Fibroblast,RET,1.0,0.1065719360568383
+esophagusmuscularis,Fibroblast,RET,1.0,0.1056777788452301
+skin,Epithelial cell (keratinocyte),RET,1.0,0.1027221366204417
+esophagusmucosa,Immune (myeloid),RET,1.0,0.0715307582260371
+esophagusmucosa,Immune (lymphocyte),RET,1.0,0.055005500550055
+esophagusmucosa,Endothelial cell,RET,1.0,0.042753313381787
+esophagusmuscularis,Muscle,RET,1.0,0.0269016073710404
+esophagusmucosa,Glia,RET,0.0,0.0
+heart,Immune (lymphocyte),RET,0.0,0.0
+heart,Glia,RET,0.0,0.0
+esophagusmucosa,Stromal,RET,0.0,0.0
+esophagusmuscularis,Immune (lymphocyte),RET,0.0,0.0
+breast,Immune (myeloid),RET,0.0,0.0
+breast,Endothelial cell,RET,0.0,0.0
+lung,Immune (lymphocyte),RET,0.0,0.0
+lung,Muscle,RET,0.0,0.0
+skeletalmuscle,Adipocyte,RET,0.0,0.0
+prostate,Immune (lymphocyte),RET,0.0,0.0
+skeletalmuscle,Glia,RET,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),RET,0.0,0.0
+skin,Adipocyte,RET,0.0,0.0
+skin,Immune (lymphocyte),RET,0.0,0.0
+skin,Melanocyte,RET,0.0,0.0
+skin,Immune (myeloid),RET,0.0,0.0

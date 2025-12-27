@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Myocyte (sk. muscle),SBK3,0.006093358
+Myocyte (cardiac),SBK3,0.0038628855
+Myoepithelial (basal),SBK3,0.0031917326
+Epithelial cell (club),SBK3,0.00090417336
+Pericyte/SMC,SBK3,0.00089300144
+Epithelial cell (alveolar type I),SBK3,0.0007989821
+Immune (alveolar macrophage),SBK3,0.00042370302
+Endothelial cell (vascular),SBK3,0.00019140399
+Endothelial cell (lymphatic),SBK3,0.0
+Epithelial cell (alveolar type II),SBK3,0.0
+Adipocyte,SBK3,0.0
+Epithelial cell (cornified keratinocyte),SBK3,0.0
+Epithelial cell (ciliated),SBK3,0.0
+Epithelial cell (basal),SBK3,0.0
+Epithelial cell (basal keratinocyte),SBK3,0.0
+Epithelial cell (Hillock),SBK3,0.0
+Epithelial cell (luminal),SBK3,0.0
+Epithelial cell (squamous),SBK3,0.0
+Epithelial cell (mature keratinocyte),SBK3,0.0
+Immune (B cell),SBK3,0.0
+Immune (DC),SBK3,0.0
+Immune (Langerhans),SBK3,0.0
+Immune (DC/macrophage),SBK3,0.0
+Epithelial cell (suprabasal),SBK3,0.0
+Fibroblast,SBK3,0.0
+ICCs,SBK3,0.0
+Epithelial cell (suprabasal keratinocyte),SBK3,0.0
+Melanocyte,SBK3,0.0
+Immune (mast cell),SBK3,0.0
+Immune (T cell),SBK3,0.0
+Immune (NK cell),SBK3,0.0
+"Myocyte (cardiac, cytoplasmic)",SBK3,0.0
+Myocyte (NMJ-rich),SBK3,0.0
+"Myocyte (sk. muscle, cytoplasmic)",SBK3,0.0
+Mucous cell,SBK3,0.0
+Myocyte (smooth muscle),SBK3,0.0
+Myofibroblast,SBK3,0.0
+Neuroendocrine,SBK3,0.0
+Neuronal,SBK3,0.0
+Satellite cell,SBK3,0.0
+Schwann cell,SBK3,0.0
+Sebaceous gland cell,SBK3,0.0
+Sweat gland cell,SBK3,0.0

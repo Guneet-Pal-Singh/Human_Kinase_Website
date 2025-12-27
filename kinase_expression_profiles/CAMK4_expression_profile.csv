@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Neuronal,CAMK4,1.2945842
+Immune (T cell),CAMK4,1.2611547
+Immune (B cell),CAMK4,0.20208451
+Neuroendocrine,CAMK4,0.15967843
+Immune (NK cell),CAMK4,0.14781652
+Myofibroblast,CAMK4,0.12135644
+Immune (alveolar macrophage),CAMK4,0.09463057
+Epithelial cell (ciliated),CAMK4,0.08497589
+Myoepithelial (basal),CAMK4,0.071270525
+Epithelial cell (basal),CAMK4,0.06371271
+Epithelial cell (alveolar type I),CAMK4,0.062318597
+Myocyte (smooth muscle),CAMK4,0.06000435
+Epithelial cell (cornified keratinocyte),CAMK4,0.05935156
+Epithelial cell (alveolar type II),CAMK4,0.05913087
+ICCs,CAMK4,0.05444766
+Sebaceous gland cell,CAMK4,0.046608806
+Epithelial cell (luminal),CAMK4,0.046346854
+Pericyte/SMC,CAMK4,0.043456726
+Endothelial cell (vascular),CAMK4,0.042433396
+Melanocyte,CAMK4,0.042353068
+Fibroblast,CAMK4,0.041432563
+Myocyte (cardiac),CAMK4,0.041277304
+Epithelial cell (squamous),CAMK4,0.0375684
+Immune (mast cell),CAMK4,0.036866147
+Epithelial cell (suprabasal),CAMK4,0.036206655
+Myocyte (sk. muscle),CAMK4,0.034637786
+Epithelial cell (club),CAMK4,0.03340166
+Mucous cell,CAMK4,0.033158142
+Schwann cell,CAMK4,0.032720238
+Adipocyte,CAMK4,0.032671314
+Sweat gland cell,CAMK4,0.030494215
+Immune (DC/macrophage),CAMK4,0.027991518
+Myocyte (NMJ-rich),CAMK4,0.026312027
+Epithelial cell (Hillock),CAMK4,0.026103454
+Immune (DC),CAMK4,0.023239635
+Endothelial cell (lymphatic),CAMK4,0.020526795
+Epithelial cell (suprabasal keratinocyte),CAMK4,0.020262608
+Satellite cell,CAMK4,0.017161656
+Epithelial cell (mature keratinocyte),CAMK4,0.016011152
+"Myocyte (cardiac, cytoplasmic)",CAMK4,0.006770353
+Epithelial cell (basal keratinocyte),CAMK4,0.0046659033
+Immune (Langerhans),CAMK4,0.0
+"Myocyte (sk. muscle, cytoplasmic)",CAMK4,0.0

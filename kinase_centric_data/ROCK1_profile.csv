@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+heart,Immune (myeloid),ROCK1,1.5092912,45.41334583528676
+lung,Immune (myeloid),ROCK1,1.6044776,43.941629775373016
+skeletalmuscle,Immune (myeloid),ROCK1,1.3962264,43.14789687924016
+esophagusmucosa,Stromal,ROCK1,1.5594937,39.93933265925177
+esophagusmucosa,Muscle,ROCK1,1.5279188,39.32135728542914
+breast,Muscle,ROCK1,1.3728814,38.81578947368421
+prostate,Immune (myeloid),ROCK1,1.4571428,37.45136186770428
+lung,Muscle,ROCK1,1.4576272,36.19631901840491
+skin,Immune (myeloid),ROCK1,1.3968254,35.19553072625698
+esophagusmucosa,Immune (myeloid),ROCK1,1.3814656,33.190271816881264
+heart,Muscle,ROCK1,1.4351047,32.44363395225464
+esophagusmuscularis,Immune (myeloid),ROCK1,1.3060573,31.758353020587244
+skin,Muscle,ROCK1,1.3703704,29.03225806451613
+breast,Immune (myeloid),ROCK1,1.37,27.932960893854748
+prostate,Endothelial cell,ROCK1,1.2945026,27.034677990092003
+heart,Adipocyte,ROCK1,1.32,25.906735751295333
+prostate,Muscle,ROCK1,1.4471831,25.323227819884085
+heart,Immune (lymphocyte),ROCK1,1.1988636,25.214899713467048
+esophagusmuscularis,Adipocyte,ROCK1,1.2727273,25.142857142857142
+prostate,Epithelial cell,ROCK1,1.3130574,24.29679712217744
+esophagusmuscularis,Muscle,ROCK1,1.2626086,23.20263635752236
+esophagusmucosa,Immune (lymphocyte),ROCK1,1.2024096,22.827282728272827
+esophagusmuscularis,Immune (lymphocyte),ROCK1,1.0882353,22.591362126245848
+heart,Fibroblast,ROCK1,1.2191387,22.504576289436848
+lung,Epithelial cell,ROCK1,1.226806,22.25129802699896
+lung,Immune (lymphocyte),ROCK1,1.1863354,22.20689655172413
+esophagusmucosa,Endothelial cell,ROCK1,1.2136499,21.61179991449337
+skin,Immune (lymphocyte),ROCK1,1.375,21.333333333333336
+lung,Fibroblast,ROCK1,1.1910828,21.27371273712737
+prostate,Fibroblast,ROCK1,1.2520661,21.19089316987741
+prostate,Immune (lymphocyte),ROCK1,1.1111112,21.114369501466275
+heart,Endothelial cell,ROCK1,1.1864516,20.301244269810084
+skin,Endothelial cell,ROCK1,1.1980677,20.234604105571847
+esophagusmuscularis,Neuron,ROCK1,1.4,20.0
+skeletalmuscle,Adipocyte,ROCK1,1.0666667,18.867924528301888
+esophagusmuscularis,Endothelial cell,ROCK1,1.1662621,18.471194799372338
+prostate,Glia,ROCK1,1.1666666,17.91044776119403
+breast,Fibroblast,ROCK1,1.2307693,17.46031746031746
+skeletalmuscle,Fibroblast,ROCK1,1.1498994,16.722745625841185
+lung,Endothelial cell,ROCK1,1.1545254,16.49672250546249
+breast,Epithelial cell,ROCK1,1.1948332,16.020003448870497
+esophagusmucosa,Fibroblast,ROCK1,1.1640091,15.595026642984012
+skeletalmuscle,Endothelial cell,ROCK1,1.1576355,15.251690458302027
+heart,Glia,ROCK1,1.1333333,15.100671140939598
+esophagusmucosa,Epithelial cell,ROCK1,1.2256361,15.098579298347348
+esophagusmuscularis,Fibroblast,ROCK1,1.1439688,14.814103179940435
+skin,Fibroblast,ROCK1,1.1282052,14.744801512287331
+skin,Melanocyte,ROCK1,1.2,14.705882352941178
+esophagusmuscularis,Glia,ROCK1,1.1014493,14.22680412371134
+breast,Adipocyte,ROCK1,1.176,14.19647927314026
+skeletalmuscle,Immune (lymphocyte),ROCK1,1.0714285,14.000000000000002
+esophagusmucosa,Glia,ROCK1,1.0,13.846153846153848
+breast,Endothelial cell,ROCK1,1.1525424,13.393870601589104
+skin,Epithelial cell,ROCK1,1.1666666,12.956810631229237
+skeletalmuscle,Muscle,ROCK1,1.1172638,12.24137167161402
+skeletalmuscle,Glia,ROCK1,1.25,11.428571428571429
+skin,Epithelial cell (keratinocyte),ROCK1,1.152439,8.42321520287622
+skin,Other,ROCK1,1.15625,7.079646017699115
+skin,Adipocyte,ROCK1,1.0,4.838709677419355

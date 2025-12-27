@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+heart,Muscle,SRPK3,1.1134846,6.208554376657825
+esophagusmuscularis,Neuron,SRPK3,1.0,4.0
+skeletalmuscle,Muscle,SRPK3,1.0402684,1.3202782331310088
+skin,Epithelial cell,SRPK3,1.0,1.162790697674419
+prostate,Muscle,SRPK3,1.0,1.0254123941150244
+esophagusmucosa,Muscle,SRPK3,1.0,0.5988023952095809
+esophagusmuscularis,Glia,SRPK3,1.0,0.4123711340206186
+esophagusmucosa,Stromal,SRPK3,1.0,0.4044489383215369
+esophagusmuscularis,Muscle,SRPK3,1.0,0.3564462976662855
+prostate,Fibroblast,SRPK3,1.0,0.3502626970227671
+heart,Glia,SRPK3,1.0,0.3355704697986577
+breast,Epithelial cell,SRPK3,1.0,0.3103983445421624
+breast,Adipocyte,SRPK3,1.0,0.2271436683702442
+prostate,Epithelial cell,SRPK3,1.0444444,0.1950331556364582
+skeletalmuscle,Immune (myeloid),SRPK3,1.0,0.1356852103120759
+breast,Endothelial cell,SRPK3,1.0,0.1135073779795686
+esophagusmucosa,Epithelial cell,SRPK3,1.0,0.108727167294868
+skeletalmuscle,Endothelial cell,SRPK3,1.0,0.0751314800901577
+esophagusmucosa,Immune (myeloid),SRPK3,1.0,0.0715307582260371
+lung,Fibroblast,SRPK3,1.0,0.067750677506775
+esophagusmuscularis,Immune (myeloid),SRPK3,1.0,0.0674991562605467
+lung,Endothelial cell,SRPK3,1.0,0.0364166059723233
+lung,Epithelial cell,SRPK3,1.0,0.0249221183800623
+heart,Fibroblast,SRPK3,1.0,0.0215354797028103
+skeletalmuscle,Fibroblast,SRPK3,1.0,0.0168236877523553
+esophagusmuscularis,Fibroblast,SRPK3,1.0,0.0096070708041118
+esophagusmucosa,Fibroblast,SRPK3,0.0,0.0
+heart,Immune (lymphocyte),SRPK3,0.0,0.0
+heart,Endothelial cell,SRPK3,0.0,0.0
+heart,Adipocyte,SRPK3,0.0,0.0
+esophagusmuscularis,Immune (lymphocyte),SRPK3,0.0,0.0
+esophagusmuscularis,Endothelial cell,SRPK3,0.0,0.0
+esophagusmuscularis,Adipocyte,SRPK3,0.0,0.0
+esophagusmucosa,Glia,SRPK3,0.0,0.0
+esophagusmucosa,Immune (lymphocyte),SRPK3,0.0,0.0
+esophagusmucosa,Endothelial cell,SRPK3,0.0,0.0
+breast,Fibroblast,SRPK3,0.0,0.0
+breast,Muscle,SRPK3,0.0,0.0
+breast,Immune (myeloid),SRPK3,0.0,0.0
+lung,Muscle,SRPK3,0.0,0.0
+lung,Immune (myeloid),SRPK3,0.0,0.0
+lung,Immune (lymphocyte),SRPK3,0.0,0.0
+heart,Immune (myeloid),SRPK3,0.0,0.0
+skeletalmuscle,Adipocyte,SRPK3,0.0,0.0
+prostate,Immune (myeloid),SRPK3,0.0,0.0
+prostate,Immune (lymphocyte),SRPK3,0.0,0.0
+prostate,Glia,SRPK3,0.0,0.0
+prostate,Endothelial cell,SRPK3,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),SRPK3,0.0,0.0
+skin,Adipocyte,SRPK3,0.0,0.0
+skeletalmuscle,Glia,SRPK3,0.0,0.0
+skin,Endothelial cell,SRPK3,0.0,0.0
+skin,Epithelial cell (keratinocyte),SRPK3,0.0,0.0
+skin,Fibroblast,SRPK3,0.0,0.0
+skin,Immune (lymphocyte),SRPK3,0.0,0.0
+skin,Immune (myeloid),SRPK3,0.0,0.0
+skin,Melanocyte,SRPK3,0.0,0.0
+skin,Muscle,SRPK3,0.0,0.0
+skin,Other,SRPK3,0.0,0.0

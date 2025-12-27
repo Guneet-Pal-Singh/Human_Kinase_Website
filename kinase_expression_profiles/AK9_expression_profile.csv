@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (ciliated),AK9,1.2393719
+Mucous cell,AK9,0.41264996
+Sebaceous gland cell,AK9,0.38747233
+Neuroendocrine,AK9,0.35192633
+Epithelial cell (club),AK9,0.32204217
+Sweat gland cell,AK9,0.31611535
+Myocyte (cardiac),AK9,0.2543584
+Myofibroblast,AK9,0.24830401
+Epithelial cell (luminal),AK9,0.2479753
+Immune (B cell),AK9,0.24737532
+Epithelial cell (alveolar type II),AK9,0.24228953
+Epithelial cell (alveolar type I),AK9,0.23493215
+Endothelial cell (lymphatic),AK9,0.22825797
+Epithelial cell (cornified keratinocyte),AK9,0.21977885
+Myocyte (sk. muscle),AK9,0.21278192
+Epithelial cell (Hillock),AK9,0.20773154
+Endothelial cell (vascular),AK9,0.20117044
+Myoepithelial (basal),AK9,0.19248879
+ICCs,AK9,0.18725178
+Immune (alveolar macrophage),AK9,0.18285426
+Epithelial cell (mature keratinocyte),AK9,0.18270728
+Epithelial cell (suprabasal keratinocyte),AK9,0.18008216
+Satellite cell,AK9,0.17910862
+Immune (mast cell),AK9,0.17309059
+Adipocyte,AK9,0.16826537
+Myocyte (NMJ-rich),AK9,0.16327423
+Immune (T cell),AK9,0.14873289
+Epithelial cell (basal keratinocyte),AK9,0.14709404
+Epithelial cell (basal),AK9,0.14216627
+Immune (NK cell),AK9,0.13858913
+Neuronal,AK9,0.13282007
+Myocyte (smooth muscle),AK9,0.1199706
+Pericyte/SMC,AK9,0.1130199
+Epithelial cell (suprabasal),AK9,0.109241806
+Schwann cell,AK9,0.10653834
+Fibroblast,AK9,0.104334965
+Melanocyte,AK9,0.09798966
+Immune (DC/macrophage),AK9,0.09072092
+Immune (DC),AK9,0.08177322
+"Myocyte (cardiac, cytoplasmic)",AK9,0.075581
+Epithelial cell (squamous),AK9,0.067981295
+"Myocyte (sk. muscle, cytoplasmic)",AK9,0.052685123
+Immune (Langerhans),AK9,0.0

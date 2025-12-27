@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (DC),STK4,1.5272124
+Immune (T cell),STK4,1.1428381
+Immune (NK cell),STK4,1.0913421
+Epithelial cell (cornified keratinocyte),STK4,1.0674298
+Immune (Langerhans),STK4,0.9222879
+Immune (B cell),STK4,0.88994527
+Immune (DC/macrophage),STK4,0.6843204
+Immune (mast cell),STK4,0.6417812
+Immune (alveolar macrophage),STK4,0.51989
+Epithelial cell (mature keratinocyte),STK4,0.4625034
+Epithelial cell (Hillock),STK4,0.35582986
+Epithelial cell (club),STK4,0.33579582
+Epithelial cell (suprabasal),STK4,0.3235455
+Epithelial cell (basal),STK4,0.29484645
+ICCs,STK4,0.28837723
+Endothelial cell (vascular),STK4,0.28746325
+Neuroendocrine,STK4,0.28561458
+Mucous cell,STK4,0.28415167
+Neuronal,STK4,0.2724649
+Myofibroblast,STK4,0.2703913
+Satellite cell,STK4,0.26453307
+Myocyte (smooth muscle),STK4,0.257451
+Myocyte (cardiac),STK4,0.2538489
+Schwann cell,STK4,0.25123042
+Fibroblast,STK4,0.24315539
+Epithelial cell (luminal),STK4,0.23443812
+Pericyte/SMC,STK4,0.22464883
+Endothelial cell (lymphatic),STK4,0.20863758
+Epithelial cell (ciliated),STK4,0.20264488
+Epithelial cell (alveolar type II),STK4,0.19912969
+Epithelial cell (basal keratinocyte),STK4,0.19507237
+Epithelial cell (suprabasal keratinocyte),STK4,0.19371934
+Myocyte (NMJ-rich),STK4,0.18212622
+Melanocyte,STK4,0.17308708
+Epithelial cell (squamous),STK4,0.16717586
+Epithelial cell (alveolar type I),STK4,0.16636907
+Myoepithelial (basal),STK4,0.16298239
+Myocyte (sk. muscle),STK4,0.12518893
+Adipocyte,STK4,0.12275281
+"Myocyte (sk. muscle, cytoplasmic)",STK4,0.09047025
+"Myocyte (cardiac, cytoplasmic)",STK4,0.09046056
+Sweat gland cell,STK4,0.08800515
+Sebaceous gland cell,STK4,0.038921166

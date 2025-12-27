@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Myocyte (cardiac),PPIP5K2,0.6963353
+Immune (Langerhans),PPIP5K2,0.53454536
+Immune (alveolar macrophage),PPIP5K2,0.44449124
+Myofibroblast,PPIP5K2,0.35514286
+Mucous cell,PPIP5K2,0.3532988
+Immune (DC/macrophage),PPIP5K2,0.3516723
+Myoepithelial (basal),PPIP5K2,0.33070767
+Sebaceous gland cell,PPIP5K2,0.32767436
+Epithelial cell (basal keratinocyte),PPIP5K2,0.32160306
+Immune (mast cell),PPIP5K2,0.31811494
+ICCs,PPIP5K2,0.31186622
+Immune (NK cell),PPIP5K2,0.30771056
+Neuronal,PPIP5K2,0.30610174
+Epithelial cell (suprabasal),PPIP5K2,0.30407038
+Endothelial cell (lymphatic),PPIP5K2,0.3028921
+Pericyte/SMC,PPIP5K2,0.30213112
+Satellite cell,PPIP5K2,0.2998807
+Epithelial cell (Hillock),PPIP5K2,0.294202
+Melanocyte,PPIP5K2,0.29036382
+Epithelial cell (suprabasal keratinocyte),PPIP5K2,0.2865793
+Sweat gland cell,PPIP5K2,0.28177384
+Epithelial cell (club),PPIP5K2,0.28087467
+Epithelial cell (luminal),PPIP5K2,0.28067958
+Immune (DC),PPIP5K2,0.27178428
+Epithelial cell (basal),PPIP5K2,0.27046728
+Fibroblast,PPIP5K2,0.25882176
+Immune (B cell),PPIP5K2,0.25809887
+Epithelial cell (alveolar type I),PPIP5K2,0.24512847
+Endothelial cell (vascular),PPIP5K2,0.24160717
+Immune (T cell),PPIP5K2,0.23340671
+Neuroendocrine,PPIP5K2,0.22479911
+Epithelial cell (alveolar type II),PPIP5K2,0.22272606
+Myocyte (smooth muscle),PPIP5K2,0.21452694
+Epithelial cell (mature keratinocyte),PPIP5K2,0.2086553
+Schwann cell,PPIP5K2,0.19904055
+"Myocyte (cardiac, cytoplasmic)",PPIP5K2,0.19674438
+Adipocyte,PPIP5K2,0.19553366
+Epithelial cell (ciliated),PPIP5K2,0.17703167
+Epithelial cell (squamous),PPIP5K2,0.110711254
+Myocyte (NMJ-rich),PPIP5K2,0.101060055
+Myocyte (sk. muscle),PPIP5K2,0.063028164
+"Myocyte (sk. muscle, cytoplasmic)",PPIP5K2,0.050140765
+Epithelial cell (cornified keratinocyte),PPIP5K2,0.0

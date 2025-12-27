@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (B cell),CSNK1G3,0.43727675
+Immune (DC),CSNK1G3,0.39916188
+Epithelial cell (Hillock),CSNK1G3,0.35792834
+Neuroendocrine,CSNK1G3,0.31161278
+Myocyte (cardiac),CSNK1G3,0.3022886
+Epithelial cell (basal),CSNK1G3,0.2753925
+Immune (T cell),CSNK1G3,0.2667062
+Myofibroblast,CSNK1G3,0.2657405
+ICCs,CSNK1G3,0.26054487
+Epithelial cell (club),CSNK1G3,0.25864106
+Endothelial cell (vascular),CSNK1G3,0.25831902
+Epithelial cell (suprabasal),CSNK1G3,0.2579825
+Mucous cell,CSNK1G3,0.25418192
+Epithelial cell (alveolar type I),CSNK1G3,0.2531759
+Epithelial cell (alveolar type II),CSNK1G3,0.23723914
+Endothelial cell (lymphatic),CSNK1G3,0.22824357
+Immune (NK cell),CSNK1G3,0.22536309
+Neuronal,CSNK1G3,0.22456053
+Immune (DC/macrophage),CSNK1G3,0.20952967
+Immune (alveolar macrophage),CSNK1G3,0.20317204
+Fibroblast,CSNK1G3,0.19892788
+Epithelial cell (ciliated),CSNK1G3,0.18253167
+Adipocyte,CSNK1G3,0.18064553
+Epithelial cell (luminal),CSNK1G3,0.17047249
+Epithelial cell (mature keratinocyte),CSNK1G3,0.16856562
+Sebaceous gland cell,CSNK1G3,0.1654298
+Melanocyte,CSNK1G3,0.15927991
+Schwann cell,CSNK1G3,0.1513458
+Myocyte (smooth muscle),CSNK1G3,0.14841901
+Pericyte/SMC,CSNK1G3,0.14456302
+Myoepithelial (basal),CSNK1G3,0.13786013
+Satellite cell,CSNK1G3,0.1368142
+"Myocyte (cardiac, cytoplasmic)",CSNK1G3,0.11511559
+Epithelial cell (basal keratinocyte),CSNK1G3,0.11433872
+Epithelial cell (suprabasal keratinocyte),CSNK1G3,0.11306506
+Sweat gland cell,CSNK1G3,0.10764236
+Immune (mast cell),CSNK1G3,0.08853529
+Epithelial cell (squamous),CSNK1G3,0.0842626
+Myocyte (sk. muscle),CSNK1G3,0.06145228
+Immune (Langerhans),CSNK1G3,0.05980752
+Myocyte (NMJ-rich),CSNK1G3,0.05242344
+"Myocyte (sk. muscle, cytoplasmic)",CSNK1G3,0.047827847
+Epithelial cell (cornified keratinocyte),CSNK1G3,0.03892853

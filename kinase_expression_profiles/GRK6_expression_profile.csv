@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (NK cell),GRK6,0.21465203
+Immune (alveolar macrophage),GRK6,0.19999099
+Neuronal,GRK6,0.12232406
+Immune (T cell),GRK6,0.12024088
+Immune (B cell),GRK6,0.11902501
+Epithelial cell (Hillock),GRK6,0.10775521
+Epithelial cell (cornified keratinocyte),GRK6,0.10440296
+Epithelial cell (basal keratinocyte),GRK6,0.09979949
+Epithelial cell (alveolar type I),GRK6,0.091791436
+Mucous cell,GRK6,0.09050563
+Neuroendocrine,GRK6,0.08889481
+Epithelial cell (basal),GRK6,0.08699886
+"Myocyte (cardiac, cytoplasmic)",GRK6,0.084513225
+Immune (DC/macrophage),GRK6,0.07945207
+Melanocyte,GRK6,0.07509358
+Myocyte (smooth muscle),GRK6,0.07075251
+Myofibroblast,GRK6,0.0704972
+Immune (mast cell),GRK6,0.06908193
+Immune (Langerhans),GRK6,0.06642232
+Epithelial cell (alveolar type II),GRK6,0.062442124
+Epithelial cell (suprabasal),GRK6,0.061796203
+Epithelial cell (ciliated),GRK6,0.06091655
+Immune (DC),GRK6,0.060602266
+"Myocyte (sk. muscle, cytoplasmic)",GRK6,0.060581487
+Epithelial cell (luminal),GRK6,0.05839312
+Epithelial cell (suprabasal keratinocyte),GRK6,0.05457782
+ICCs,GRK6,0.04905035
+Epithelial cell (club),GRK6,0.049009454
+Myocyte (cardiac),GRK6,0.04591177
+Epithelial cell (mature keratinocyte),GRK6,0.040329024
+Adipocyte,GRK6,0.03930129
+Myocyte (NMJ-rich),GRK6,0.039235182
+Epithelial cell (squamous),GRK6,0.03890794
+Myoepithelial (basal),GRK6,0.038395252
+Endothelial cell (lymphatic),GRK6,0.037291896
+Pericyte/SMC,GRK6,0.034487337
+Satellite cell,GRK6,0.034253575
+Endothelial cell (vascular),GRK6,0.0323002
+Fibroblast,GRK6,0.026188912
+Schwann cell,GRK6,0.017677018
+Sebaceous gland cell,GRK6,0.010411321
+Myocyte (sk. muscle),GRK6,0.010395953
+Sweat gland cell,GRK6,0.008543517

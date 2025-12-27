@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+lung,Immune (myeloid),PTK2B,1.5131755,36.7109362190523
+esophagusmuscularis,Neuron,PTK2B,1.125,32.0
+prostate,Immune (myeloid),PTK2B,1.4647436,30.35019455252918
+skin,Immune (myeloid),PTK2B,1.245283,29.60893854748604
+esophagusmucosa,Immune (lymphocyte),PTK2B,1.3135593,25.962596259625965
+esophagusmucosa,Immune (myeloid),PTK2B,1.4056338,25.3934191702432
+skin,Epithelial cell (keratinocyte),PTK2B,1.367713,22.907036466358495
+skeletalmuscle,Immune (myeloid),PTK2B,1.2987804,22.25237449118046
+skin,Immune (lymphocyte),PTK2B,1.25,21.333333333333336
+heart,Immune (myeloid),PTK2B,1.2827535,21.11267385528989
+esophagusmuscularis,Immune (myeloid),PTK2B,1.1682243,18.05602429969625
+prostate,Immune (lymphocyte),PTK2B,1.1557378,17.888563049853374
+esophagusmuscularis,Immune (lymphocyte),PTK2B,1.0943396,17.60797342192691
+heart,Immune (lymphocyte),PTK2B,1.1623932,16.7621776504298
+lung,Immune (lymphocyte),PTK2B,1.1801802,15.310344827586206
+skin,Other,PTK2B,1.1470588,15.04424778761062
+prostate,Epithelial cell,PTK2B,1.3018373,14.861526459498114
+breast,Immune (myeloid),PTK2B,1.1132076,14.80446927374302
+skeletalmuscle,Immune (lymphocyte),PTK2B,1.1428572,14.000000000000002
+esophagusmucosa,Epithelial cell,PTK2B,1.3830845,11.655552334009858
+lung,Epithelial cell,PTK2B,1.1574775,11.526479750778815
+prostate,Endothelial cell,PTK2B,1.1629393,11.075725406935598
+esophagusmucosa,Stromal,PTK2B,1.1530613,9.908998988877654
+heart,Adipocyte,PTK2B,1.8125,8.290155440414509
+prostate,Muscle,PTK2B,1.2692307,8.114132857779758
+esophagusmucosa,Endothelial cell,PTK2B,1.1618497,7.396323215049167
+skin,Epithelial cell,PTK2B,1.2820513,6.4784053156146175
+prostate,Glia,PTK2B,1.5,5.970149253731343
+heart,Muscle,PTK2B,1.1823802,5.3630636604774535
+esophagusmuscularis,Adipocyte,PTK2B,1.0,4.571428571428571
+skeletalmuscle,Adipocyte,PTK2B,1.0,3.7735849056603774
+breast,Adipocyte,PTK2B,1.0615385,3.691084611016468
+lung,Muscle,PTK2B,1.0,3.6809815950920246
+skin,Melanocyte,PTK2B,1.0,3.6764705882352944
+breast,Epithelial cell,PTK2B,1.0643564,3.483359199862045
+lung,Fibroblast,PTK2B,1.0784314,3.4552845528455287
+heart,Endothelial cell,PTK2B,1.0829875,3.1565160445317617
+lung,Endothelial cell,PTK2B,1.0365853,2.986161689730517
+esophagusmuscularis,Endothelial cell,PTK2B,1.0338984,2.645146828065456
+heart,Fibroblast,PTK2B,1.0612245,2.638096263594272
+breast,Muscle,PTK2B,1.25,2.631578947368421
+prostate,Fibroblast,PTK2B,1.2666667,2.626970227670753
+esophagusmucosa,Muscle,PTK2B,1.0769231,2.5948103792415167
+breast,Endothelial cell,PTK2B,1.0476191,2.383654937570942
+esophagusmuscularis,Glia,PTK2B,1.1,2.061855670103093
+skin,Endothelial cell,PTK2B,1.0952381,2.0527859237536656
+skeletalmuscle,Endothelial cell,PTK2B,1.074074,2.02854996243426
+heart,Glia,PTK2B,1.0,2.013422818791946
+esophagusmuscularis,Muscle,PTK2B,1.0334573,1.809133095702468
+skin,Muscle,PTK2B,1.0,1.6129032258064515
+skin,Adipocyte,PTK2B,1.0,1.6129032258064515
+breast,Fibroblast,PTK2B,1.0,1.221001221001221
+skeletalmuscle,Muscle,PTK2B,1.0671936,1.1209073590004872
+esophagusmucosa,Fibroblast,PTK2B,1.0645162,1.1012433392539964
+esophagusmuscularis,Fibroblast,PTK2B,1.0265486,1.0855990008646363
+skeletalmuscle,Fibroblast,PTK2B,1.0789474,0.639300134589502
+skin,Fibroblast,PTK2B,1.0,0.5671077504725899
+esophagusmucosa,Glia,PTK2B,0.0,0.0
+skeletalmuscle,Glia,PTK2B,0.0,0.0

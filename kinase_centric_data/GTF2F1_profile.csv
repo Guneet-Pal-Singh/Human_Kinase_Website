@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Neuron,GTF2F1,1.0,16.0
+prostate,Glia,GTF2F1,1.0,5.970149253731343
+prostate,Epithelial cell,GTF2F1,1.1167513,4.269059073375807
+skeletalmuscle,Immune (lymphocyte),GTF2F1,1.0,4.0
+prostate,Muscle,GTF2F1,1.0697675,3.8341506910387873
+skin,Other,GTF2F1,1.0588236,3.761061946902655
+esophagusmuscularis,Adipocyte,GTF2F1,1.0,3.428571428571429
+esophagusmucosa,Stromal,GTF2F1,1.0909091,3.336703741152679
+prostate,Immune (myeloid),GTF2F1,1.0588236,3.3073929961089497
+lung,Immune (myeloid),GTF2F1,1.0833334,3.1480570585341856
+esophagusmucosa,Epithelial cell,GTF2F1,1.0490655,3.102348506813569
+esophagusmuscularis,Muscle,GTF2F1,1.0714285,2.730513148160602
+breast,Immune (myeloid),GTF2F1,1.0,2.5139664804469275
+prostate,Endothelial cell,GTF2F1,1.028169,2.5123849964614293
+breast,Adipocyte,GTF2F1,1.0731708,2.328222600795003
+heart,Immune (lymphocyte),GTF2F1,1.0625,2.292263610315186
+heart,Muscle,GTF2F1,1.0405904,2.2463527851458887
+skin,Melanocyte,GTF2F1,1.0,2.2058823529411766
+heart,Immune (myeloid),GTF2F1,1.0431654,2.172214408501328
+esophagusmucosa,Immune (myeloid),GTF2F1,1.0,2.074391988555079
+prostate,Fibroblast,GTF2F1,1.0,2.0140105078809105
+breast,Epithelial cell,GTF2F1,1.0258621,2.0003448870494918
+lung,Epithelial cell,GTF2F1,1.017094,1.94392523364486
+lung,Muscle,GTF2F1,1.0,1.8404907975460123
+esophagusmuscularis,Immune (myeloid),GTF2F1,1.0185186,1.822477219034762
+esophagusmucosa,Muscle,GTF2F1,1.0,1.7964071856287425
+heart,Fibroblast,GTF2F1,1.006329,1.7013028965220205
+skeletalmuscle,Endothelial cell,GTF2F1,1.0909091,1.6528925619834711
+skin,Adipocyte,GTF2F1,1.0,1.6129032258064515
+heart,Adipocyte,GTF2F1,1.0,1.5544041450777202
+esophagusmucosa,Glia,GTF2F1,1.0,1.5384615384615383
+esophagusmuscularis,Fibroblast,GTF2F1,1.0314466,1.5275242578537804
+prostate,Immune (lymphocyte),GTF2F1,1.0,1.466275659824047
+lung,Endothelial cell,GTF2F1,1.0,1.3838310269482883
+skeletalmuscle,Immune (myeloid),GTF2F1,1.1,1.35685210312076
+heart,Glia,GTF2F1,1.0,1.342281879194631
+esophagusmuscularis,Glia,GTF2F1,1.0,1.3402061855670102
+heart,Endothelial cell,GTF2F1,1.050505,1.2966601178781925
+skeletalmuscle,Adipocyte,GTF2F1,1.0,1.257861635220126
+esophagusmucosa,Endothelial cell,GTF2F1,1.0,1.218469431380932
+skeletalmuscle,Fibroblast,GTF2F1,1.0,1.177658142664872
+lung,Immune (lymphocyte),GTF2F1,1.0,1.103448275862069
+esophagusmuscularis,Endothelial cell,GTF2F1,1.0204082,1.098408428603452
+skin,Muscle,GTF2F1,1.0,1.0752688172043012
+skin,Endothelial cell,GTF2F1,1.0,1.0752688172043012
+skin,Epithelial cell (keratinocyte),GTF2F1,1.05,1.027221366204417
+esophagusmuscularis,Immune (lymphocyte),GTF2F1,1.0,0.9966777408637874
+esophagusmucosa,Immune (lymphocyte),GTF2F1,1.0,0.99009900990099
+breast,Fibroblast,GTF2F1,1.0,0.8547008547008548
+skin,Epithelial cell,GTF2F1,1.0,0.8305647840531563
+lung,Fibroblast,GTF2F1,1.0,0.8130081300813009
+skin,Fibroblast,GTF2F1,1.0,0.7561436672967864
+esophagusmucosa,Fibroblast,GTF2F1,1.0,0.6749555950266429
+breast,Endothelial cell,GTF2F1,1.0,0.5675368898978433
+skin,Immune (myeloid),GTF2F1,1.0,0.5586592178770949
+skeletalmuscle,Muscle,GTF2F1,1.0,0.4563377785654157
+breast,Muscle,GTF2F1,0.0,0.0
+skeletalmuscle,Glia,GTF2F1,0.0,0.0
+skin,Immune (lymphocyte),GTF2F1,0.0,0.0

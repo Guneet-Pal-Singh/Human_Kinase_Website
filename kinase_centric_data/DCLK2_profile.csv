@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+heart,Muscle,DCLK2,1.6551298,26.823607427055705
+esophagusmuscularis,Neuron,DCLK2,2.3333333,24.0
+prostate,Endothelial cell,DCLK2,1.3535353,21.019108280254777
+esophagusmucosa,Stromal,DCLK2,1.2864321,20.12133468149646
+esophagusmuscularis,Muscle,DCLK2,1.5263339,19.537292353218103
+prostate,Muscle,DCLK2,1.3201133,15.737851092287118
+esophagusmucosa,Endothelial cell,DCLK2,1.2337859,14.17272338606242
+esophagusmucosa,Muscle,DCLK2,1.1538461,12.974051896207584
+esophagusmuscularis,Adipocyte,DCLK2,1.1578947,10.857142857142858
+esophagusmuscularis,Glia,DCLK2,1.5208334,9.896907216494846
+breast,Endothelial cell,DCLK2,1.0759493,8.967082860385926
+skin,Endothelial cell,DCLK2,1.1444445,8.797653958944283
+heart,Endothelial cell,DCLK2,1.1538461,8.68369351669941
+lung,Muscle,DCLK2,1.0,8.588957055214724
+skeletalmuscle,Glia,DCLK2,1.0,8.571428571428571
+heart,Adipocyte,DCLK2,1.375,8.290155440414509
+esophagusmuscularis,Endothelial cell,DCLK2,1.2056338,7.957856982739296
+lung,Fibroblast,DCLK2,1.0943396,7.181571815718158
+lung,Endothelial cell,DCLK2,1.0459183,7.137654770575383
+skin,Muscle,DCLK2,1.2307693,6.989247311827956
+prostate,Fibroblast,DCLK2,1.1558442,6.742556917688266
+lung,Immune (myeloid),DCLK2,1.0809062,5.066404328578456
+skeletalmuscle,Endothelial cell,DCLK2,1.0615385,4.883546205860256
+skin,Adipocyte,DCLK2,2.3333333,4.838709677419355
+esophagusmuscularis,Immune (myeloid),DCLK2,1.1386862,4.623692203847452
+esophagusmucosa,Glia,DCLK2,1.0,4.615384615384616
+esophagusmucosa,Immune (myeloid),DCLK2,1.1355932,4.220314735336195
+skin,Epithelial cell,DCLK2,1.04,4.152823920265781
+skeletalmuscle,Immune (lymphocyte),DCLK2,1.25,4.0
+breast,Muscle,DCLK2,1.1666666,3.947368421052632
+skeletalmuscle,Adipocyte,DCLK2,1.1666666,3.7735849056603774
+prostate,Epithelial cell,DCLK2,1.148825,3.319897715945044
+breast,Adipocyte,DCLK2,1.0357143,3.1800113571834183
+prostate,Glia,DCLK2,1.0,2.985074626865672
+esophagusmuscularis,Fibroblast,DCLK2,1.0814332,2.9493707368623308
+lung,Epithelial cell,DCLK2,1.0573888,2.8951194184839046
+skin,Immune (myeloid),DCLK2,1.0,2.793296089385475
+esophagusmuscularis,Immune (lymphocyte),DCLK2,1.0,2.6578073089701
+heart,Fibroblast,DCLK2,1.1171548,2.5734898244858404
+esophagusmucosa,Fibroblast,DCLK2,1.112676,2.522202486678508
+breast,Epithelial cell,DCLK2,1.0890411,2.5176754612864287
+skin,Fibroblast,DCLK2,1.0,2.457466918714556
+skeletalmuscle,Fibroblast,DCLK2,1.0447761,2.2543741588156125
+breast,Fibroblast,DCLK2,1.3529412,2.0757020757020754
+heart,Glia,DCLK2,1.0,1.6778523489932886
+breast,Immune (myeloid),DCLK2,1.0,1.675977653631285
+lung,Immune (lymphocyte),DCLK2,1.0,1.6551724137931034
+skeletalmuscle,Muscle,DCLK2,1.0291545,1.51964910726153
+heart,Immune (myeloid),DCLK2,1.0315789,1.4846069698390374
+skin,Melanocyte,DCLK2,1.25,1.4705882352941175
+skeletalmuscle,Immune (myeloid),DCLK2,1.1,1.35685210312076
+skin,Epithelial cell (keratinocyte),DCLK2,1.0,1.2840267077555212
+prostate,Immune (myeloid),DCLK2,1.5,1.1673151750972763
+esophagusmucosa,Epithelial cell,DCLK2,1.04,0.7248477819657871
+prostate,Immune (lymphocyte),DCLK2,1.0,0.5865102639296188
+heart,Immune (lymphocyte),DCLK2,1.5,0.5730659025787965
+esophagusmucosa,Immune (lymphocyte),DCLK2,1.0,0.33003300330033
+skin,Other,DCLK2,1.0,0.2212389380530973
+skin,Immune (lymphocyte),DCLK2,0.0,0.0

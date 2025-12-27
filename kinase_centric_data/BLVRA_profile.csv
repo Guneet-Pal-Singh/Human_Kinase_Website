@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+lung,Immune (myeloid),BLVRA,1.2211382,10.083620265617316
+heart,Immune (myeloid),BLVRA,1.0520834,6.000937646507267
+prostate,Glia,BLVRA,1.0,5.970149253731343
+esophagusmucosa,Epithelial cell,BLVRA,1.1212903,5.617570310234851
+lung,Epithelial cell,BLVRA,1.055336,5.254413291796469
+esophagusmucosa,Immune (myeloid),BLVRA,1.0273973,5.221745350500715
+esophagusmuscularis,Muscle,BLVRA,1.1547278,4.694330486246553
+prostate,Muscle,BLVRA,1.0582525,4.592064199732501
+esophagusmucosa,Stromal,BLVRA,1.0454545,4.448938321536906
+esophagusmuscularis,Immune (myeloid),BLVRA,1.0384616,4.387445156935539
+prostate,Immune (myeloid),BLVRA,1.0697675,4.182879377431906
+heart,Adipocyte,BLVRA,1.125,4.145077720207254
+skin,Immune (lymphocyte),BLVRA,1.3333334,4.0
+esophagusmuscularis,Neuron,BLVRA,1.0,4.0
+skin,Immune (myeloid),BLVRA,1.0,3.910614525139665
+breast,Immune (myeloid),BLVRA,1.0,3.910614525139665
+breast,Adipocyte,BLVRA,1.0307692,3.691084611016468
+skin,Melanocyte,BLVRA,1.0,3.6764705882352944
+skeletalmuscle,Immune (myeloid),BLVRA,1.08,3.3921302578018997
+heart,Muscle,BLVRA,1.0641975,3.3570954907161803
+skin,Adipocyte,BLVRA,1.0,3.225806451612903
+skeletalmuscle,Adipocyte,BLVRA,1.0,3.1446540880503147
+esophagusmucosa,Glia,BLVRA,1.0,3.076923076923077
+skeletalmuscle,Glia,BLVRA,1.0,2.857142857142857
+breast,Epithelial cell,BLVRA,1.107595,2.724607690981204
+skin,Epithelial cell (keratinocyte),BLVRA,1.0384616,2.670775552131484
+prostate,Epithelial cell,BLVRA,1.0536332,2.505092532397174
+esophagusmucosa,Fibroblast,BLVRA,1.0142857,2.4866785079928952
+lung,Muscle,BLVRA,1.0,2.4539877300613497
+skin,Other,BLVRA,1.0909091,2.433628318584071
+prostate,Fibroblast,BLVRA,1.0,2.364273204903678
+esophagusmuscularis,Adipocyte,BLVRA,1.0,2.2857142857142856
+skin,Epithelial cell,BLVRA,1.0,2.1594684385382057
+heart,Glia,BLVRA,1.0,2.013422818791946
+lung,Fibroblast,BLVRA,1.0,1.8970189701897016
+breast,Fibroblast,BLVRA,1.0666667,1.831501831501832
+skin,Fibroblast,BLVRA,1.1111112,1.7013232514177694
+esophagusmucosa,Endothelial cell,BLVRA,1.0135136,1.581872595126122
+prostate,Endothelial cell,BLVRA,1.0,1.4508138711960368
+breast,Muscle,BLVRA,1.0,1.3157894736842104
+esophagusmuscularis,Glia,BLVRA,1.0833334,1.2371134020618555
+breast,Endothelial cell,BLVRA,1.0,1.135073779795687
+heart,Endothelial cell,BLVRA,1.0379747,1.0347085789129011
+skeletalmuscle,Immune (lymphocyte),BLVRA,1.0,1.0
+esophagusmucosa,Muscle,BLVRA,1.2,0.998003992015968
+esophagusmuscularis,Immune (lymphocyte),BLVRA,1.0,0.9966777408637874
+heart,Fibroblast,BLVRA,1.0344827,0.9367933670722516
+skeletalmuscle,Endothelial cell,BLVRA,1.0,0.9015777610818932
+heart,Immune (lymphocyte),BLVRA,1.0,0.8595988538681949
+lung,Endothelial cell,BLVRA,1.0,0.8375819373634377
+esophagusmuscularis,Endothelial cell,BLVRA,1.0833334,0.8069939475453934
+skeletalmuscle,Fibroblast,BLVRA,1.0425532,0.7907133243607
+esophagusmuscularis,Fibroblast,BLVRA,1.0136986,0.7013161687001633
+esophagusmucosa,Immune (lymphocyte),BLVRA,1.0,0.6600660066006601
+lung,Immune (lymphocyte),BLVRA,1.0,0.5517241379310345
+skin,Muscle,BLVRA,1.0,0.5376344086021506
+skin,Endothelial cell,BLVRA,1.0,0.4887585532746823
+skeletalmuscle,Muscle,BLVRA,1.0144928,0.3057020070001329
+prostate,Immune (lymphocyte),BLVRA,1.0,0.2932551319648094

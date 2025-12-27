@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+heart,Fibroblast,NRK,1.2963952,16.130074297404974
+prostate,Fibroblast,NRK,1.2168674,7.267950963222416
+esophagusmuscularis,Fibroblast,NRK,1.3743017,5.158997021808051
+prostate,Muscle,NRK,1.1818181,3.4329023629068214
+skeletalmuscle,Adipocyte,NRK,1.0,1.8867924528301887
+skin,Endothelial cell,NRK,1.0,1.857282502443793
+esophagusmuscularis,Adipocyte,NRK,1.0,1.7142857142857144
+prostate,Glia,NRK,1.0,1.4925373134328357
+heart,Muscle,NRK,1.1890244,1.3594164456233422
+breast,Muscle,NRK,1.0,1.3157894736842104
+skeletalmuscle,Endothelial cell,NRK,1.0714285,1.051840721262209
+esophagusmucosa,Fibroblast,NRK,1.3793104,1.0301953818827707
+breast,Endothelial cell,NRK,1.1111112,1.021566401816118
+skin,Epithelial cell,NRK,1.0,0.9966777408637874
+esophagusmuscularis,Endothelial cell,NRK,1.225,0.8966599417171037
+breast,Epithelial cell,NRK,1.0816326,0.8449732712536644
+lung,Endothelial cell,NRK,1.0434783,0.8375819373634377
+skeletalmuscle,Fibroblast,NRK,1.0425532,0.7907133243607
+skin,Melanocyte,NRK,1.5,0.7352941176470588
+breast,Fibroblast,NRK,1.0,0.7326007326007326
+heart,Glia,NRK,1.0,0.6711409395973155
+esophagusmucosa,Endothelial cell,NRK,1.037037,0.5771697306541257
+prostate,Epithelial cell,NRK,1.0307692,0.5634291162831014
+esophagusmuscularis,Muscle,NRK,1.0853659,0.5514829511063286
+skin,Muscle,NRK,1.0,0.5376344086021506
+heart,Adipocyte,NRK,1.0,0.5181347150259068
+breast,Adipocyte,NRK,1.0,0.5110732538330494
+lung,Immune (myeloid),NRK,1.0,0.5082800459091654
+lung,Epithelial cell,NRK,1.0175439,0.4735202492211838
+skin,Epithelial cell (keratinocyte),NRK,1.0,0.4108885464817668
+skeletalmuscle,Muscle,NRK,1.0,0.3721589650436401
+prostate,Endothelial cell,NRK,1.0,0.3538570417551309
+prostate,Immune (lymphocyte),NRK,1.0,0.2932551319648094
+prostate,Immune (myeloid),NRK,1.0,0.2918287937743191
+esophagusmucosa,Epithelial cell,NRK,1.0,0.2899391127863149
+breast,Immune (myeloid),NRK,1.0,0.2793296089385474
+esophagusmucosa,Immune (lymphocyte),NRK,1.0,0.275027502750275
+esophagusmuscularis,Immune (myeloid),NRK,1.0,0.2699966250421869
+heart,Endothelial cell,NRK,1.0,0.2226588081204977
+skin,Other,NRK,1.0,0.2212389380530973
+esophagusmuscularis,Glia,NRK,1.5,0.2061855670103093
+esophagusmucosa,Muscle,NRK,1.0,0.1996007984031935
+heart,Immune (lymphocyte),NRK,1.0,0.1432664756446991
+lung,Immune (lymphocyte),NRK,1.0,0.1379310344827586
+skeletalmuscle,Immune (myeloid),NRK,1.0,0.1356852103120759
+esophagusmucosa,Stromal,NRK,1.0,0.1011122345803842
+heart,Immune (myeloid),NRK,1.0,0.0781372089388967
+esophagusmucosa,Immune (myeloid),NRK,1.0,0.0715307582260371
+lung,Fibroblast,NRK,1.0,0.067750677506775
+esophagusmucosa,Glia,NRK,0.0,0.0
+esophagusmuscularis,Immune (lymphocyte),NRK,0.0,0.0
+esophagusmuscularis,Neuron,NRK,0.0,0.0
+lung,Muscle,NRK,0.0,0.0
+skeletalmuscle,Glia,NRK,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),NRK,0.0,0.0
+skin,Adipocyte,NRK,0.0,0.0
+skin,Fibroblast,NRK,0.0,0.0
+skin,Immune (lymphocyte),NRK,0.0,0.0
+skin,Immune (myeloid),NRK,0.0,0.0

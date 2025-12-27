@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmucosa,Glia,SEPHS1,1.0,6.153846153846154
+prostate,Glia,SEPHS1,1.25,5.970149253731343
+skeletalmuscle,Adipocyte,SEPHS1,1.0,4.40251572327044
+heart,Muscle,SEPHS1,1.0444015,4.293766578249337
+esophagusmuscularis,Adipocyte,SEPHS1,1.0,4.0
+esophagusmucosa,Stromal,SEPHS1,1.1025641,3.9433771486349847
+prostate,Muscle,SEPHS1,1.0588236,3.7895675434685687
+esophagusmucosa,Endothelial cell,SEPHS1,1.0457143,3.74091492090637
+esophagusmucosa,Epithelial cell,SEPHS1,1.0571992,3.674978254566541
+prostate,Epithelial cell,SEPHS1,1.0592417,3.6579551857149046
+skin,Other,SEPHS1,1.0,3.3185840707964607
+prostate,Endothelial cell,SEPHS1,1.0109891,3.220099079971692
+breast,Endothelial cell,SEPHS1,1.0,2.9511918274687856
+esophagusmuscularis,Muscle,SEPHS1,1.0375587,2.8650211850158045
+heart,Fibroblast,SEPHS1,1.0265151,2.8426833207709703
+skin,Epithelial cell,SEPHS1,1.0,2.823920265780731
+lung,Immune (myeloid),SEPHS1,1.0359281,2.7381537957042137
+heart,Adipocyte,SEPHS1,1.0,2.5906735751295336
+prostate,Fibroblast,SEPHS1,1.0344827,2.539404553415061
+heart,Glia,SEPHS1,1.0,2.348993288590604
+breast,Adipocyte,SEPHS1,1.0,2.328222600795003
+lung,Epithelial cell,SEPHS1,1.0216607,2.301142263759086
+breast,Epithelial cell,SEPHS1,1.0310078,2.224521469218831
+esophagusmucosa,Muscle,SEPHS1,1.0,2.19560878243513
+heart,Endothelial cell,SEPHS1,1.0421686,2.174197773411919
+skin,Epithelial cell (keratinocyte),SEPHS1,1.0476191,2.157164869029276
+esophagusmucosa,Immune (myeloid),SEPHS1,1.0,2.145922746781116
+skeletalmuscle,Immune (lymphocyte),SEPHS1,1.0,2.0
+skin,Endothelial cell,SEPHS1,1.0,1.9550342130987293
+esophagusmuscularis,Endothelial cell,SEPHS1,1.0470588,1.9054023761488452
+heart,Immune (lymphocyte),SEPHS1,1.0,1.7191977077363898
+skeletalmuscle,Endothelial cell,SEPHS1,1.0,1.6528925619834711
+esophagusmucosa,Immune (lymphocyte),SEPHS1,1.0,1.65016501650165
+esophagusmuscularis,Fibroblast,SEPHS1,1.0473373,1.6235949658948985
+skin,Muscle,SEPHS1,1.0,1.6129032258064515
+skin,Adipocyte,SEPHS1,1.0,1.6129032258064515
+skeletalmuscle,Fibroblast,SEPHS1,1.0531915,1.5814266487214
+prostate,Immune (myeloid),SEPHS1,1.0625,1.556420233463035
+lung,Endothelial cell,SEPHS1,1.0714285,1.529497450837582
+skeletalmuscle,Immune (myeloid),SEPHS1,1.0,1.35685210312076
+esophagusmucosa,Fibroblast,SEPHS1,1.0,1.349911190053286
+skin,Immune (lymphocyte),SEPHS1,1.0,1.3333333333333337
+esophagusmuscularis,Immune (lymphocyte),SEPHS1,1.0,1.32890365448505
+prostate,Immune (lymphocyte),SEPHS1,1.1111112,1.3196480938416422
+heart,Immune (myeloid),SEPHS1,1.0238096,1.3127051101734646
+esophagusmuscularis,Glia,SEPHS1,1.0,1.2371134020618555
+breast,Fibroblast,SEPHS1,1.1,1.221001221001221
+lung,Fibroblast,SEPHS1,1.0,1.2195121951219512
+breast,Immune (myeloid),SEPHS1,1.0,1.11731843575419
+skeletalmuscle,Muscle,SEPHS1,1.0323887,1.0943245757830846
+lung,Immune (lymphocyte),SEPHS1,1.0,0.9655172413793104
+skin,Fibroblast,SEPHS1,1.0,0.7561436672967864
+esophagusmuscularis,Immune (myeloid),SEPHS1,1.0454545,0.7424907188660141
+breast,Muscle,SEPHS1,1.0,0.6578947368421052
+lung,Muscle,SEPHS1,1.0,0.6134969325153374
+skin,Immune (myeloid),SEPHS1,1.0,0.5586592178770949
+esophagusmuscularis,Neuron,SEPHS1,0.0,0.0
+skeletalmuscle,Glia,SEPHS1,0.0,0.0
+skin,Melanocyte,SEPHS1,0.0,0.0

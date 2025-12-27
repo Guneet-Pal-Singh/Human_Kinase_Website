@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+"Myocyte (sk. muscle, cytoplasmic)",NME1,0.004033541
+Myofibroblast,NME1,0.0025190653
+Epithelial cell (Hillock),NME1,0.0014499448
+Epithelial cell (luminal),NME1,0.00024178735
+Myocyte (smooth muscle),NME1,0.0002225284
+Epithelial cell (alveolar type II),NME1,0.00021272685
+Myocyte (sk. muscle),NME1,0.00018469754
+Myocyte (cardiac),NME1,0.00012863729
+Endothelial cell (vascular),NME1,0.000109376815
+Endothelial cell (lymphatic),NME1,0.0
+Adipocyte,NME1,0.0
+Epithelial cell (cornified keratinocyte),NME1,0.0
+Epithelial cell (club),NME1,0.0
+Epithelial cell (ciliated),NME1,0.0
+Epithelial cell (basal),NME1,0.0
+Epithelial cell (basal keratinocyte),NME1,0.0
+Epithelial cell (alveolar type I),NME1,0.0
+Epithelial cell (squamous),NME1,0.0
+Epithelial cell (mature keratinocyte),NME1,0.0
+Immune (DC),NME1,0.0
+Immune (DC/macrophage),NME1,0.0
+Immune (Langerhans),NME1,0.0
+Epithelial cell (suprabasal keratinocyte),NME1,0.0
+Epithelial cell (suprabasal),NME1,0.0
+Fibroblast,NME1,0.0
+ICCs,NME1,0.0
+Immune (B cell),NME1,0.0
+Melanocyte,NME1,0.0
+Immune (mast cell),NME1,0.0
+Immune (alveolar macrophage),NME1,0.0
+Immune (T cell),NME1,0.0
+Immune (NK cell),NME1,0.0
+"Myocyte (cardiac, cytoplasmic)",NME1,0.0
+Mucous cell,NME1,0.0
+Myocyte (NMJ-rich),NME1,0.0
+Myoepithelial (basal),NME1,0.0
+Neuroendocrine,NME1,0.0
+Neuronal,NME1,0.0
+Pericyte/SMC,NME1,0.0
+Satellite cell,NME1,0.0
+Schwann cell,NME1,0.0
+Sebaceous gland cell,NME1,0.0
+Sweat gland cell,NME1,0.0

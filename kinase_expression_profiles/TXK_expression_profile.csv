@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (NK cell),TXK,1.3900349
+Immune (T cell),TXK,0.6680089
+Neuroendocrine,TXK,0.45434952
+Epithelial cell (alveolar type I),TXK,0.4041047
+Immune (alveolar macrophage),TXK,0.3883122
+Immune (B cell),TXK,0.2967842
+Epithelial cell (mature keratinocyte),TXK,0.280134
+Epithelial cell (squamous),TXK,0.2716495
+Immune (DC/macrophage),TXK,0.21732053
+Immune (mast cell),TXK,0.20751739
+Myocyte (cardiac),TXK,0.20707615
+Epithelial cell (alveolar type II),TXK,0.19457155
+Neuronal,TXK,0.18856455
+Epithelial cell (suprabasal),TXK,0.17765646
+Epithelial cell (suprabasal keratinocyte),TXK,0.15368871
+Epithelial cell (ciliated),TXK,0.12108684
+Mucous cell,TXK,0.09878421
+Myocyte (sk. muscle),TXK,0.07773271
+Sweat gland cell,TXK,0.07536897
+Sebaceous gland cell,TXK,0.07414375
+Epithelial cell (basal keratinocyte),TXK,0.07072156
+Immune (DC),TXK,0.0676674
+Epithelial cell (club),TXK,0.06618119
+Myofibroblast,TXK,0.061913516
+Satellite cell,TXK,0.06064234
+Myocyte (NMJ-rich),TXK,0.060171794
+Epithelial cell (luminal),TXK,0.059402063
+Epithelial cell (basal),TXK,0.052169345
+Epithelial cell (cornified keratinocyte),TXK,0.050507814
+Epithelial cell (Hillock),TXK,0.049249485
+Endothelial cell (vascular),TXK,0.045260232
+Schwann cell,TXK,0.03916656
+Adipocyte,TXK,0.037579965
+Melanocyte,TXK,0.035594344
+Endothelial cell (lymphatic),TXK,0.035309073
+Pericyte/SMC,TXK,0.030847108
+"Myocyte (cardiac, cytoplasmic)",TXK,0.030247679
+Myocyte (smooth muscle),TXK,0.028327825
+"Myocyte (sk. muscle, cytoplasmic)",TXK,0.026558226
+Fibroblast,TXK,0.024513239
+Myoepithelial (basal),TXK,0.023638973
+ICCs,TXK,0.014367029
+Immune (Langerhans),TXK,0.0

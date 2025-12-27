@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skin,Immune (lymphocyte),CERK,1.1111112,12.0
+esophagusmucosa,Immune (lymphocyte),CERK,1.0896226,11.66116611661166
+skin,Endothelial cell,CERK,1.2,10.75268817204301
+heart,Muscle,CERK,1.1568627,10.568633952254642
+esophagusmucosa,Stromal,CERK,1.0795455,8.897876643073811
+prostate,Endothelial cell,CERK,1.1352459,8.634111818825195
+skin,Other,CERK,1.2702702,8.185840707964601
+esophagusmuscularis,Neuron,CERK,1.5,8.0
+breast,Muscle,CERK,1.1666666,7.894736842105263
+esophagusmucosa,Immune (myeloid),CERK,1.0727273,7.868383404864092
+esophagusmucosa,Epithelial cell,CERK,1.1157895,7.574659321542477
+esophagusmucosa,Endothelial cell,CERK,1.0823864,7.524583155194528
+prostate,Immune (myeloid),CERK,1.028169,6.906614785992218
+skin,Epithelial cell (keratinocyte),CERK,1.1492537,6.882383153569595
+breast,Endothelial cell,CERK,1.0357143,6.3564131668558455
+lung,Immune (lymphocyte),CERK,1.0869565,6.344827586206897
+skin,Epithelial cell,CERK,1.2972972,6.146179401993355
+prostate,Fibroblast,CERK,1.057971,6.042031523642732
+prostate,Immune (lymphocyte),CERK,1.0243902,6.011730205278592
+heart,Endothelial cell,CERK,1.0419581,5.618860510805501
+breast,Immune (myeloid),CERK,1.15,5.58659217877095
+skin,Immune (myeloid),CERK,1.3333334,5.027932960893855
+skeletalmuscle,Immune (lymphocyte),CERK,1.0,5.0
+prostate,Muscle,CERK,1.018018,4.948729380294249
+skin,Muscle,CERK,1.1111112,4.838709677419355
+esophagusmucosa,Muscle,CERK,1.0,4.790419161676647
+esophagusmuscularis,Adipocyte,CERK,1.0,4.571428571428571
+skin,Melanocyte,CERK,1.0833334,4.411764705882353
+skeletalmuscle,Endothelial cell,CERK,1.0178572,4.207362885048836
+lung,Immune (myeloid),CERK,1.0476191,4.131824889326119
+esophagusmuscularis,Endothelial cell,CERK,1.0444444,4.034969737726967
+heart,Immune (lymphocyte),CERK,1.0714285,4.011461318051576
+esophagusmucosa,Fibroblast,CERK,1.0280374,3.801065719360568
+esophagusmuscularis,Immune (myeloid),CERK,1.054054,3.746203172460344
+esophagusmuscularis,Immune (lymphocyte),CERK,1.0909091,3.654485049833888
+breast,Adipocyte,CERK,1.0689656,3.2935831913685405
+heart,Fibroblast,CERK,1.0229508,3.284160654678583
+heart,Immune (myeloid),CERK,1.0408163,3.06297859040475
+prostate,Glia,CERK,1.0,2.985074626865672
+lung,Epithelial cell,CERK,1.0255681,2.924195223260644
+lung,Endothelial cell,CERK,1.1038961,2.8040786598689005
+lung,Fibroblast,CERK,1.0243902,2.7777777777777777
+skeletalmuscle,Immune (myeloid),CERK,1.05,2.71370420624152
+skeletalmuscle,Adipocyte,CERK,1.0,2.515723270440252
+skeletalmuscle,Muscle,CERK,1.0265957,2.498781622435869
+esophagusmuscularis,Fibroblast,CERK,1.015625,2.4594101258526275
+esophagusmuscularis,Muscle,CERK,1.0497237,2.4345954670791583
+breast,Fibroblast,CERK,1.1111112,2.197802197802198
+breast,Epithelial cell,CERK,1.0186915,1.8451457147784105
+esophagusmuscularis,Glia,CERK,1.0588236,1.7525773195876289
+skeletalmuscle,Fibroblast,CERK,1.0097088,1.7328398384925974
+skin,Adipocyte,CERK,1.0,1.6129032258064515
+heart,Adipocyte,CERK,1.0,1.5544041450777202
+esophagusmucosa,Glia,CERK,1.0,1.5384615384615383
+heart,Glia,CERK,1.0,1.342281879194631
+prostate,Epithelial cell,CERK,1.0456026,1.3305595284531704
+lung,Muscle,CERK,1.0,1.2269938650306749
+skin,Fibroblast,CERK,1.0,0.5671077504725899
+skeletalmuscle,Glia,CERK,0.0,0.0

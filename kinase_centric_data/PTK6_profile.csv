@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmucosa,Epithelial cell,PTK6,1.6775819,20.143519860829223
+skin,Epithelial cell,PTK6,1.1818181,7.308970099667775
+skin,Other,PTK6,1.1724138,6.415929203539823
+esophagusmucosa,Stromal,PTK6,1.2745098,5.156723963599596
+skin,Epithelial cell (keratinocyte),PTK6,1.1136364,4.519774011299435
+skin,Immune (myeloid),PTK6,1.0,1.675977653631285
+skin,Adipocyte,PTK6,1.0,1.6129032258064515
+lung,Epithelial cell,PTK6,1.0112677,1.474558670820353
+breast,Epithelial cell,PTK6,1.0609756,1.4140369029142956
+lung,Immune (myeloid),PTK6,1.0125,1.3116904410559107
+skin,Muscle,PTK6,1.0,1.0752688172043012
+prostate,Epithelial cell,PTK6,1.0913242,0.9491613574307632
+esophagusmuscularis,Immune (myeloid),PTK6,1.0,0.809989875126561
+esophagusmucosa,Immune (myeloid),PTK6,1.0,0.7868383404864091
+skin,Fibroblast,PTK6,1.3333334,0.5671077504725899
+lung,Endothelial cell,PTK6,1.0,0.5462490895848506
+skeletalmuscle,Immune (myeloid),PTK6,1.0,0.5427408412483039
+heart,Adipocyte,PTK6,1.0,0.5181347150259068
+lung,Fibroblast,PTK6,1.0,0.4742547425474254
+breast,Endothelial cell,PTK6,1.0,0.4540295119182747
+skin,Melanocyte,PTK6,1.0,0.3676470588235294
+prostate,Fibroblast,PTK6,1.0,0.3502626970227671
+heart,Glia,PTK6,1.0,0.3355704697986577
+esophagusmuscularis,Glia,PTK6,1.0,0.3092783505154639
+heart,Immune (lymphocyte),PTK6,1.0,0.2865329512893982
+heart,Muscle,PTK6,1.0,0.2818302387267904
+heart,Immune (myeloid),PTK6,1.0,0.2812939521800281
+breast,Immune (myeloid),PTK6,1.0,0.2793296089385474
+breast,Fibroblast,PTK6,1.0,0.2442002442002442
+esophagusmucosa,Muscle,PTK6,1.0,0.1996007984031935
+prostate,Immune (myeloid),PTK6,1.0,0.1945525291828793
+esophagusmuscularis,Endothelial cell,PTK6,1.0,0.1793319883434207
+breast,Adipocyte,PTK6,1.0,0.1703577512776831
+esophagusmuscularis,Muscle,PTK6,1.0454545,0.1479588405407223
+prostate,Muscle,PTK6,1.0,0.1337494427106553
+skeletalmuscle,Muscle,PTK6,1.0,0.1151920606087457
+esophagusmucosa,Immune (lymphocyte),PTK6,1.0,0.11001100110011
+esophagusmucosa,Endothelial cell,PTK6,1.2,0.1068832834544677
+esophagusmucosa,Fibroblast,PTK6,1.0,0.1065719360568383
+heart,Endothelial cell,PTK6,1.0,0.1047806155861165
+esophagusmuscularis,Fibroblast,PTK6,1.0,0.0864636372370064
+skeletalmuscle,Endothelial cell,PTK6,1.0,0.0751314800901577
+prostate,Endothelial cell,PTK6,1.0,0.0707714083510261
+heart,Fibroblast,PTK6,1.0,0.0538386992570259
+skeletalmuscle,Fibroblast,PTK6,1.0,0.0504710632570659
+esophagusmuscularis,Neuron,PTK6,0.0,0.0
+esophagusmucosa,Glia,PTK6,0.0,0.0
+breast,Muscle,PTK6,0.0,0.0
+esophagusmuscularis,Immune (lymphocyte),PTK6,0.0,0.0
+esophagusmuscularis,Adipocyte,PTK6,0.0,0.0
+lung,Immune (lymphocyte),PTK6,0.0,0.0
+skeletalmuscle,Adipocyte,PTK6,0.0,0.0
+prostate,Immune (lymphocyte),PTK6,0.0,0.0
+prostate,Glia,PTK6,0.0,0.0
+lung,Muscle,PTK6,0.0,0.0
+skin,Endothelial cell,PTK6,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),PTK6,0.0,0.0
+skeletalmuscle,Glia,PTK6,0.0,0.0
+skin,Immune (lymphocyte),PTK6,0.0,0.0

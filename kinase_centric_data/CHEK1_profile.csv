@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Neuron,CHEK1,1.0,8.0
+skin,Immune (myeloid),CHEK1,1.0,3.35195530726257
+esophagusmucosa,Epithelial cell,CHEK1,1.1363636,3.1893302406494635
+lung,Muscle,CHEK1,1.0,2.4539877300613497
+lung,Immune (myeloid),CHEK1,1.0258621,1.9019511395310704
+lung,Fibroblast,CHEK1,1.0434783,1.5582655826558265
+esophagusmucosa,Stromal,CHEK1,1.0714285,1.4155712841253791
+breast,Immune (myeloid),CHEK1,1.0,1.3966480446927374
+lung,Epithelial cell,CHEK1,1.028481,1.312564901349948
+breast,Fibroblast,CHEK1,1.0,1.221001221001221
+esophagusmucosa,Immune (lymphocyte),CHEK1,1.0,1.21012101210121
+skin,Epithelial cell (keratinocyte),CHEK1,1.0909091,1.1299435028248588
+skin,Other,CHEK1,1.0,1.106194690265487
+heart,Adipocyte,CHEK1,1.0,1.0362694300518136
+heart,Muscle,CHEK1,1.0241935,1.0278514588859418
+prostate,Immune (myeloid),CHEK1,1.0,0.9727626459143968
+esophagusmucosa,Fibroblast,CHEK1,1.037037,0.9591474245115452
+prostate,Epithelial cell,CHEK1,1.0681819,0.953495427556018
+prostate,Fibroblast,CHEK1,1.0,0.8756567425569177
+skeletalmuscle,Muscle,CHEK1,1.0364584,0.8506490629568917
+esophagusmuscularis,Immune (myeloid),CHEK1,1.04,0.8437394532568343
+skin,Epithelial cell,CHEK1,1.0,0.8305647840531563
+prostate,Muscle,CHEK1,1.1666666,0.8024966562639322
+lung,Endothelial cell,CHEK1,1.0,0.764748725418791
+breast,Adipocyte,CHEK1,1.0,0.7382169222032936
+heart,Fibroblast,CHEK1,1.0147059,0.7322063098955529
+lung,Immune (lymphocyte),CHEK1,1.0,0.6896551724137931
+breast,Epithelial cell,CHEK1,1.1025641,0.6725297465080186
+esophagusmuscularis,Immune (lymphocyte),CHEK1,1.0,0.6644518272425249
+esophagusmuscularis,Fibroblast,CHEK1,1.0,0.6244596022672687
+heart,Immune (myeloid),CHEK1,1.1081082,0.5782153461478357
+heart,Immune (lymphocyte),CHEK1,1.0,0.5730659025787965
+esophagusmucosa,Immune (myeloid),CHEK1,1.125,0.5722460658082975
+skeletalmuscle,Fibroblast,CHEK1,1.0,0.5720053835800807
+esophagusmuscularis,Adipocyte,CHEK1,1.0,0.5714285714285714
+esophagusmucosa,Endothelial cell,CHEK1,1.1153846,0.5557930739632322
+skin,Muscle,CHEK1,1.0,0.5376344086021506
+esophagusmuscularis,Endothelial cell,CHEK1,1.0,0.5155794664873347
+breast,Endothelial cell,CHEK1,1.0,0.4540295119182747
+esophagusmuscularis,Muscle,CHEK1,1.0298507,0.450601923464927
+skeletalmuscle,Immune (myeloid),CHEK1,1.0,0.4070556309362279
+skin,Endothelial cell,CHEK1,1.0,0.3910068426197458
+skeletalmuscle,Endothelial cell,CHEK1,1.0,0.3756574004507889
+skin,Melanocyte,CHEK1,1.0,0.3676470588235294
+prostate,Endothelial cell,CHEK1,1.0,0.3184713375796179
+esophagusmuscularis,Glia,CHEK1,1.0,0.3092783505154639
+heart,Endothelial cell,CHEK1,1.0434783,0.3012442698100851
+skin,Fibroblast,CHEK1,1.0,0.1890359168241966
+prostate,Immune (lymphocyte),CHEK1,1.0,0.1466275659824047
+breast,Muscle,CHEK1,0.0,0.0
+esophagusmucosa,Glia,CHEK1,0.0,0.0
+heart,Glia,CHEK1,0.0,0.0
+esophagusmucosa,Muscle,CHEK1,0.0,0.0
+skeletalmuscle,Adipocyte,CHEK1,0.0,0.0
+prostate,Glia,CHEK1,0.0,0.0
+skin,Adipocyte,CHEK1,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),CHEK1,0.0,0.0
+skeletalmuscle,Glia,CHEK1,0.0,0.0
+skin,Immune (lymphocyte),CHEK1,0.0,0.0

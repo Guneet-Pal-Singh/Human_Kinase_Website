@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+heart,Adipocyte,STK3,1.4536083,50.25906735751296
+prostate,Muscle,STK3,1.8575445,47.57021845742309
+esophagusmuscularis,Adipocyte,STK3,1.3544304,45.14285714285714
+prostate,Epithelial cell,STK3,1.6913133,44.25519004897499
+breast,Adipocyte,STK3,1.4771838,43.55479840999432
+esophagusmucosa,Stromal,STK3,1.712589,42.56825075834176
+prostate,Fibroblast,STK3,1.6715177,42.11908931698774
+skeletalmuscle,Adipocyte,STK3,1.3333334,41.50943396226416
+lung,Epithelial cell,STK3,1.496974,41.17964693665628
+esophagusmucosa,Fibroblast,STK3,1.4846356,40.46181172291297
+breast,Fibroblast,STK3,1.5263158,39.43833943833944
+prostate,Endothelial cell,STK3,1.4433453,39.34890304317056
+heart,Fibroblast,STK3,1.4724972,39.15150209970928
+heart,Muscle,STK3,1.6328632,37.0275198938992
+skeletalmuscle,Muscle,STK3,1.4564251,36.85702893092907
+lung,Fibroblast,STK3,1.4658041,36.65311653116532
+esophagusmucosa,Endothelial cell,STK3,1.446227,35.97691321077384
+skeletalmuscle,Fibroblast,STK3,1.3402548,35.649394347240914
+lung,Immune (myeloid),STK3,1.4203968,35.53041482210199
+esophagusmuscularis,Endothelial cell,STK3,1.5016308,34.364492266308005
+breast,Epithelial cell,STK3,1.4006101,33.91964131746853
+breast,Muscle,STK3,1.4705882,33.55263157894737
+skin,Epithelial cell,STK3,1.575,33.222591362126245
+esophagusmucosa,Immune (myeloid),STK3,1.3340858,31.68812589413448
+skin,Endothelial cell,STK3,1.3560371,31.57380254154448
+prostate,Immune (myeloid),STK3,1.3900928,31.420233463035014
+esophagusmucosa,Epithelial cell,STK3,1.5339829,31.248187880545085
+esophagusmuscularis,Muscle,STK3,1.5590346,30.93012307485372
+esophagusmucosa,Muscle,STK3,1.3881578,30.33932135728543
+esophagusmuscularis,Glia,STK3,1.5532646,30.0
+esophagusmuscularis,Fibroblast,STK3,1.3315824,29.263137669324625
+skeletalmuscle,Immune (myeloid),STK3,1.1784037,28.900949796472187
+heart,Immune (myeloid),STK3,1.2512288,28.61384591342397
+breast,Immune (myeloid),STK3,1.3960396,28.212290502793294
+breast,Endothelial cell,STK3,1.3414634,27.922814982973893
+lung,Muscle,STK3,1.4222223,27.607361963190183
+skin,Fibroblast,STK3,1.2896552,27.410207939508503
+skeletalmuscle,Endothelial cell,STK3,1.3268698,27.12246431254696
+prostate,Glia,STK3,1.3888888,26.86567164179105
+heart,Endothelial cell,STK3,1.2794411,26.2475442043222
+skin,Muscle,STK3,1.375,25.806451612903224
+esophagusmuscularis,Immune (myeloid),STK3,1.3083004,25.61592980087749
+lung,Endothelial cell,STK3,1.2764977,23.70721048798252
+skin,Epithelial cell (keratinocyte),STK3,1.23918,22.547508988186955
+skin,Adipocyte,STK3,1.3846154,20.967741935483872
+heart,Glia,STK3,1.1578947,19.12751677852349
+skeletalmuscle,Immune (lymphocyte),STK3,1.0526316,19.0
+skin,Immune (myeloid),STK3,1.2058823,18.994413407821227
+skin,Other,STK3,1.15,17.699115044247787
+esophagusmucosa,Glia,STK3,1.4545455,16.923076923076923
+esophagusmuscularis,Neuron,STK3,1.75,16.0
+skin,Melanocyte,STK3,1.2380953,15.441176470588236
+esophagusmuscularis,Immune (lymphocyte),STK3,1.1707317,13.621262458471762
+esophagusmucosa,Immune (lymphocyte),STK3,1.1645021,12.706270627062707
+heart,Immune (lymphocyte),STK3,1.125,11.461318051575931
+lung,Immune (lymphocyte),STK3,1.0843374,11.448275862068966
+skeletalmuscle,Glia,STK3,1.0,8.571428571428571
+prostate,Immune (lymphocyte),STK3,1.0344827,8.504398826979472
+skin,Immune (lymphocyte),STK3,1.0,4.0

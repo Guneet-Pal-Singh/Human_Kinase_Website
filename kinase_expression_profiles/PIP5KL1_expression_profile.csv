@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (mature keratinocyte),PIP5KL1,0.10573159
+Epithelial cell (alveolar type II),PIP5KL1,0.09070283
+Epithelial cell (club),PIP5KL1,0.066633195
+Epithelial cell (alveolar type I),PIP5KL1,0.0648189
+Sweat gland cell,PIP5KL1,0.058671717
+Epithelial cell (basal),PIP5KL1,0.05262957
+Myofibroblast,PIP5KL1,0.045291066
+Epithelial cell (Hillock),PIP5KL1,0.04344471
+Epithelial cell (suprabasal),PIP5KL1,0.040670656
+Mucous cell,PIP5KL1,0.03846994
+Epithelial cell (ciliated),PIP5KL1,0.037764605
+Epithelial cell (suprabasal keratinocyte),PIP5KL1,0.03543158
+Epithelial cell (squamous),PIP5KL1,0.03187482
+Myoepithelial (basal),PIP5KL1,0.031579223
+Epithelial cell (basal keratinocyte),PIP5KL1,0.02766256
+Immune (alveolar macrophage),PIP5KL1,0.025569804
+Sebaceous gland cell,PIP5KL1,0.025250262
+Neuroendocrine,PIP5KL1,0.022867609
+Epithelial cell (luminal),PIP5KL1,0.016270678
+Immune (B cell),PIP5KL1,0.01600809
+Adipocyte,PIP5KL1,0.015150779
+ICCs,PIP5KL1,0.0116193555
+Myocyte (smooth muscle),PIP5KL1,0.008658403
+Endothelial cell (vascular),PIP5KL1,0.007727773
+Fibroblast,PIP5KL1,0.007615379
+Schwann cell,PIP5KL1,0.0073092896
+Immune (DC/macrophage),PIP5KL1,0.0040440024
+Pericyte/SMC,PIP5KL1,0.0038922157
+Immune (mast cell),PIP5KL1,0.0031426533
+Immune (T cell),PIP5KL1,0.0029434022
+Endothelial cell (lymphatic),PIP5KL1,0.0025216404
+Myocyte (cardiac),PIP5KL1,0.0018998447
+Myocyte (sk. muscle),PIP5KL1,0.00057104137
+Epithelial cell (cornified keratinocyte),PIP5KL1,0.0
+Immune (NK cell),PIP5KL1,0.0
+Melanocyte,PIP5KL1,0.0
+Immune (DC),PIP5KL1,0.0
+Immune (Langerhans),PIP5KL1,0.0
+Myocyte (NMJ-rich),PIP5KL1,0.0
+"Myocyte (sk. muscle, cytoplasmic)",PIP5KL1,0.0
+"Myocyte (cardiac, cytoplasmic)",PIP5KL1,0.0
+Neuronal,PIP5KL1,0.0
+Satellite cell,PIP5KL1,0.0

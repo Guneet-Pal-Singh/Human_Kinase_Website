@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+"Myocyte (cardiac, cytoplasmic)",HSPA5,0.6588973
+Neuronal,HSPA5,0.4124807
+Epithelial cell (luminal),HSPA5,0.39552996
+Neuroendocrine,HSPA5,0.3139146
+Epithelial cell (squamous),HSPA5,0.30663705
+Epithelial cell (ciliated),HSPA5,0.28415054
+Epithelial cell (club),HSPA5,0.2435924
+Immune (DC/macrophage),HSPA5,0.21825473
+Immune (DC),HSPA5,0.19854246
+"Myocyte (sk. muscle, cytoplasmic)",HSPA5,0.19682302
+Immune (alveolar macrophage),HSPA5,0.19514509
+Epithelial cell (Hillock),HSPA5,0.19067532
+Epithelial cell (suprabasal),HSPA5,0.18971193
+Fibroblast,HSPA5,0.17789
+Myocyte (smooth muscle),HSPA5,0.175011
+Myocyte (cardiac),HSPA5,0.16235076
+Immune (NK cell),HSPA5,0.15974201
+Adipocyte,HSPA5,0.15517585
+Schwann cell,HSPA5,0.13264328
+Immune (Langerhans),HSPA5,0.12880822
+Epithelial cell (alveolar type I),HSPA5,0.1269664
+Endothelial cell (lymphatic),HSPA5,0.123241596
+Myocyte (NMJ-rich),HSPA5,0.11629922
+Epithelial cell (basal),HSPA5,0.115541555
+Mucous cell,HSPA5,0.11147463
+Endothelial cell (vascular),HSPA5,0.1079049
+Pericyte/SMC,HSPA5,0.10361149
+ICCs,HSPA5,0.09422124
+Myofibroblast,HSPA5,0.08493746
+Immune (mast cell),HSPA5,0.078450054
+Sebaceous gland cell,HSPA5,0.07246123
+Immune (B cell),HSPA5,0.07096865
+Epithelial cell (alveolar type II),HSPA5,0.06852885
+Satellite cell,HSPA5,0.06719406
+Myoepithelial (basal),HSPA5,0.059141267
+Epithelial cell (basal keratinocyte),HSPA5,0.04422967
+Immune (T cell),HSPA5,0.043916408
+Epithelial cell (suprabasal keratinocyte),HSPA5,0.04356069
+Myocyte (sk. muscle),HSPA5,0.032631297
+Sweat gland cell,HSPA5,0.028913556
+Melanocyte,HSPA5,0.024472486
+Epithelial cell (mature keratinocyte),HSPA5,0.019255945
+Epithelial cell (cornified keratinocyte),HSPA5,0.0

@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Pericyte/SMC,PDGFRB,1.6156173
+Fibroblast,PDGFRB,0.7200329
+Schwann cell,PDGFRB,0.21870911
+Myofibroblast,PDGFRB,0.18317588
+Immune (mast cell),PDGFRB,0.17309944
+Myocyte (smooth muscle),PDGFRB,0.15345833
+ICCs,PDGFRB,0.14948076
+"Myocyte (cardiac, cytoplasmic)",PDGFRB,0.14881417
+Satellite cell,PDGFRB,0.14070138
+Myocyte (cardiac),PDGFRB,0.097010896
+Immune (DC),PDGFRB,0.0931098
+Adipocyte,PDGFRB,0.0649917
+"Myocyte (sk. muscle, cytoplasmic)",PDGFRB,0.059210926
+Immune (NK cell),PDGFRB,0.050987
+Endothelial cell (vascular),PDGFRB,0.026743945
+Melanocyte,PDGFRB,0.025527224
+Immune (DC/macrophage),PDGFRB,0.019942228
+Immune (alveolar macrophage),PDGFRB,0.019454652
+Myoepithelial (basal),PDGFRB,0.017809017
+Endothelial cell (lymphatic),PDGFRB,0.01611473
+Epithelial cell (squamous),PDGFRB,0.015523437
+Sweat gland cell,PDGFRB,0.015046109
+Epithelial cell (suprabasal),PDGFRB,0.013110338
+Immune (B cell),PDGFRB,0.013034836
+Epithelial cell (alveolar type I),PDGFRB,0.012467174
+Epithelial cell (alveolar type II),PDGFRB,0.011687766
+Epithelial cell (basal),PDGFRB,0.0107102655
+Epithelial cell (ciliated),PDGFRB,0.009995494
+Immune (T cell),PDGFRB,0.007892841
+Epithelial cell (luminal),PDGFRB,0.007675255
+Mucous cell,PDGFRB,0.0076711494
+Myocyte (sk. muscle),PDGFRB,0.00598118
+Epithelial cell (club),PDGFRB,0.004159418
+Epithelial cell (Hillock),PDGFRB,0.003177661
+Epithelial cell (basal keratinocyte),PDGFRB,0.0
+Epithelial cell (cornified keratinocyte),PDGFRB,0.0
+Immune (Langerhans),PDGFRB,0.0
+Epithelial cell (suprabasal keratinocyte),PDGFRB,0.0
+Epithelial cell (mature keratinocyte),PDGFRB,0.0
+Myocyte (NMJ-rich),PDGFRB,0.0
+Neuroendocrine,PDGFRB,0.0
+Neuronal,PDGFRB,0.0
+Sebaceous gland cell,PDGFRB,0.0

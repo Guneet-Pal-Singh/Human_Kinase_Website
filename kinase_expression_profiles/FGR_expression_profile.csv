@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (alveolar macrophage),FGR,0.7371405
+Immune (DC/macrophage),FGR,0.47181523
+Immune (NK cell),FGR,0.44787413
+Immune (Langerhans),FGR,0.15810454
+Immune (DC),FGR,0.14308095
+Endothelial cell (vascular),FGR,0.13898091
+Endothelial cell (lymphatic),FGR,0.12833264
+Immune (mast cell),FGR,0.08751641
+Myofibroblast,FGR,0.040251255
+Epithelial cell (ciliated),FGR,0.038426064
+Immune (T cell),FGR,0.034568273
+Sweat gland cell,FGR,0.029082451
+Immune (B cell),FGR,0.0247283
+Myocyte (cardiac),FGR,0.021130446
+Adipocyte,FGR,0.021040618
+"Myocyte (cardiac, cytoplasmic)",FGR,0.018590728
+Myocyte (NMJ-rich),FGR,0.015187027
+Epithelial cell (squamous),FGR,0.015034877
+Mucous cell,FGR,0.014347787
+Pericyte/SMC,FGR,0.014147864
+"Myocyte (sk. muscle, cytoplasmic)",FGR,0.01292797
+Schwann cell,FGR,0.012060638
+Epithelial cell (alveolar type I),FGR,0.011419394
+Myocyte (sk. muscle),FGR,0.011362404
+Sebaceous gland cell,FGR,0.009934519
+Myocyte (smooth muscle),FGR,0.009911973
+Epithelial cell (alveolar type II),FGR,0.009572885
+Fibroblast,FGR,0.008881137
+Satellite cell,FGR,0.008854473
+ICCs,FGR,0.008550698
+Epithelial cell (Hillock),FGR,0.008349969
+Epithelial cell (suprabasal),FGR,0.008122876
+Epithelial cell (club),FGR,0.006771551
+Epithelial cell (basal),FGR,0.006143707
+Epithelial cell (luminal),FGR,0.005069901
+Myoepithelial (basal),FGR,0.002642328
+Epithelial cell (basal keratinocyte),FGR,0.0
+Epithelial cell (cornified keratinocyte),FGR,0.0
+Epithelial cell (suprabasal keratinocyte),FGR,0.0
+Melanocyte,FGR,0.0
+Epithelial cell (mature keratinocyte),FGR,0.0
+Neuronal,FGR,0.0
+Neuroendocrine,FGR,0.0

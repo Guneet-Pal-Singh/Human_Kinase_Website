@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Neuroendocrine,EPHA4,1.0632917
+ICCs,EPHA4,0.8723649
+Endothelial cell (vascular),EPHA4,0.81522644
+Epithelial cell (suprabasal),EPHA4,0.40932775
+Epithelial cell (mature keratinocyte),EPHA4,0.3773742
+Epithelial cell (suprabasal keratinocyte),EPHA4,0.36091834
+Epithelial cell (Hillock),EPHA4,0.35982195
+Epithelial cell (alveolar type II),EPHA4,0.34158343
+Mucous cell,EPHA4,0.32167587
+Myocyte (cardiac),EPHA4,0.2947657
+Myocyte (NMJ-rich),EPHA4,0.2442301
+Epithelial cell (basal keratinocyte),EPHA4,0.2325379
+Myofibroblast,EPHA4,0.2066868
+Adipocyte,EPHA4,0.20175587
+Epithelial cell (squamous),EPHA4,0.17570639
+Neuronal,EPHA4,0.16768949
+Satellite cell,EPHA4,0.16123262
+"Myocyte (cardiac, cytoplasmic)",EPHA4,0.15618463
+Immune (B cell),EPHA4,0.11637537
+Pericyte/SMC,EPHA4,0.11403618
+Myocyte (smooth muscle),EPHA4,0.11355492
+Immune (NK cell),EPHA4,0.1087374
+Immune (T cell),EPHA4,0.10532237
+Epithelial cell (club),EPHA4,0.101360194
+"Myocyte (sk. muscle, cytoplasmic)",EPHA4,0.097914934
+Epithelial cell (ciliated),EPHA4,0.0967121
+Epithelial cell (luminal),EPHA4,0.0942902
+Myoepithelial (basal),EPHA4,0.09367272
+Immune (Langerhans),EPHA4,0.09272698
+Epithelial cell (alveolar type I),EPHA4,0.09056523
+Immune (mast cell),EPHA4,0.080195405
+Sebaceous gland cell,EPHA4,0.07406811
+Epithelial cell (cornified keratinocyte),EPHA4,0.06921898
+Epithelial cell (basal),EPHA4,0.057301488
+Immune (alveolar macrophage),EPHA4,0.0511945
+Fibroblast,EPHA4,0.04879017
+Myocyte (sk. muscle),EPHA4,0.04718583
+Sweat gland cell,EPHA4,0.039785888
+Endothelial cell (lymphatic),EPHA4,0.031291638
+Schwann cell,EPHA4,0.027680106
+Melanocyte,EPHA4,0.027229905
+Immune (DC),EPHA4,0.019371847
+Immune (DC/macrophage),EPHA4,0.013670592

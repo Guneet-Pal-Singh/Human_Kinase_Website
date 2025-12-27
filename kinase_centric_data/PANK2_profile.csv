@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Neuron,PANK2,1.0,24.0
+esophagusmucosa,Epithelial cell,PANK2,1.1792312,14.518701072774718
+esophagusmuscularis,Adipocyte,PANK2,1.0833334,13.714285714285715
+esophagusmucosa,Stromal,PANK2,1.1818181,13.346814964610717
+heart,Fibroblast,PANK2,1.2094764,12.953591041240443
+esophagusmucosa,Immune (myeloid),PANK2,1.1242938,12.660944206008583
+esophagusmuscularis,Muscle,PANK2,1.1886895,12.368013988835832
+heart,Adipocyte,PANK2,1.0909091,11.398963730569948
+lung,Immune (myeloid),PANK2,1.1099855,11.32972618462043
+heart,Muscle,PANK2,1.1188755,10.319960212201591
+prostate,Immune (myeloid),PANK2,1.080808,9.63035019455253
+prostate,Epithelial cell,PANK2,1.1351981,9.296580418671176
+prostate,Muscle,PANK2,1.120773,9.22871154703522
+esophagusmucosa,Muscle,PANK2,1.0434783,9.181636726546904
+esophagusmuscularis,Glia,PANK2,1.1647059,8.762886597938143
+skin,Muscle,PANK2,1.125,8.60215053763441
+skeletalmuscle,Glia,PANK2,1.0,8.571428571428571
+esophagusmuscularis,Fibroblast,PANK2,1.0734463,8.502257661638966
+skin,Immune (myeloid),PANK2,1.1333333,8.379888268156424
+prostate,Endothelial cell,PANK2,1.0811965,8.280254777070063
+prostate,Fibroblast,PANK2,1.106383,8.231173380035026
+skin,Melanocyte,PANK2,1.0909091,8.088235294117647
+heart,Immune (myeloid),PANK2,1.0722891,7.782466010314111
+esophagusmuscularis,Immune (myeloid),PANK2,1.0526316,7.69490381370233
+skin,Fibroblast,PANK2,1.025,7.561436672967864
+prostate,Glia,PANK2,1.0,7.462686567164178
+esophagusmucosa,Immune (lymphocyte),PANK2,1.0601504,7.315731573157317
+skeletalmuscle,Fibroblast,PANK2,1.0576037,7.301480484522208
+esophagusmucosa,Endothelial cell,PANK2,1.05,7.268063274903805
+breast,Muscle,PANK2,1.0909091,7.236842105263158
+breast,Adipocyte,PANK2,1.0555556,7.155025553662692
+esophagusmucosa,Fibroblast,PANK2,1.0461539,6.927175843694494
+skin,Immune (lymphocyte),PANK2,1.2,6.666666666666667
+lung,Epithelial cell,PANK2,1.0627352,6.620976116303219
+lung,Fibroblast,PANK2,1.113402,6.571815718157181
+esophagusmucosa,Glia,PANK2,1.0,6.153846153846154
+lung,Muscle,PANK2,1.0,6.134969325153374
+skeletalmuscle,Immune (myeloid),PANK2,1.0888889,6.10583446404342
+breast,Fibroblast,PANK2,1.06,6.105006105006105
+skin,Epithelial cell (keratinocyte),PANK2,1.0608696,5.906522855675398
+prostate,Immune (lymphocyte),PANK2,1.05,5.865102639296188
+skeletalmuscle,Adipocyte,PANK2,1.1111112,5.660377358490567
+heart,Immune (lymphocyte),PANK2,1.0769231,5.587392550143266
+esophagusmuscularis,Endothelial cell,PANK2,1.048387,5.559291638646044
+skin,Other,PANK2,1.25,5.3097345132743365
+skin,Epithelial cell,PANK2,1.0645162,5.149501661129568
+heart,Glia,PANK2,1.2,5.033557046979865
+lung,Endothelial cell,PANK2,1.0289855,5.025491624180627
+breast,Endothelial cell,PANK2,1.0227273,4.994324631101021
+heart,Endothelial cell,PANK2,1.0354223,4.8068107400130975
+breast,Epithelial cell,PANK2,1.0971223,4.793929987928953
+skin,Endothelial cell,PANK2,1.0612245,4.789833822091887
+skeletalmuscle,Endothelial cell,PANK2,1.0327868,4.583020285499624
+esophagusmuscularis,Immune (lymphocyte),PANK2,1.0,4.318936877076411
+breast,Immune (myeloid),PANK2,1.0666667,4.189944134078212
+skeletalmuscle,Immune (lymphocyte),PANK2,1.0,4.0
+lung,Immune (lymphocyte),PANK2,1.08,3.4482758620689653
+skeletalmuscle,Muscle,PANK2,1.0352942,2.2595365734792434
+skin,Adipocyte,PANK2,1.0,1.6129032258064515

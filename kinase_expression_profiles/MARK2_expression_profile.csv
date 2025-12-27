@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (suprabasal),MARK2,0.8339681
+Epithelial cell (squamous),MARK2,0.7589476
+Epithelial cell (mature keratinocyte),MARK2,0.6284335
+Myocyte (cardiac),MARK2,0.5910606
+Sweat gland cell,MARK2,0.5142086
+Mucous cell,MARK2,0.49227497
+Immune (DC/macrophage),MARK2,0.46808693
+Immune (DC),MARK2,0.45332515
+Myofibroblast,MARK2,0.44069043
+Myocyte (NMJ-rich),MARK2,0.43321994
+Epithelial cell (suprabasal keratinocyte),MARK2,0.43007198
+Epithelial cell (club),MARK2,0.42768368
+Epithelial cell (Hillock),MARK2,0.41637442
+Immune (alveolar macrophage),MARK2,0.41378674
+Epithelial cell (luminal),MARK2,0.4099007
+Epithelial cell (basal),MARK2,0.39392394
+Immune (NK cell),MARK2,0.38453308
+Immune (mast cell),MARK2,0.38014093
+Immune (T cell),MARK2,0.35647452
+Epithelial cell (cornified keratinocyte),MARK2,0.35384515
+Immune (Langerhans),MARK2,0.35052043
+Adipocyte,MARK2,0.33592814
+Epithelial cell (ciliated),MARK2,0.333797
+Myocyte (sk. muscle),MARK2,0.3333828
+Immune (B cell),MARK2,0.33218163
+Neuroendocrine,MARK2,0.3293543
+Epithelial cell (alveolar type I),MARK2,0.32014412
+Sebaceous gland cell,MARK2,0.3112253
+Epithelial cell (alveolar type II),MARK2,0.3095592
+ICCs,MARK2,0.28240138
+Epithelial cell (basal keratinocyte),MARK2,0.25889364
+Endothelial cell (lymphatic),MARK2,0.25083604
+Schwann cell,MARK2,0.24779542
+Melanocyte,MARK2,0.24348083
+Neuronal,MARK2,0.23187654
+Myocyte (smooth muscle),MARK2,0.23006853
+Endothelial cell (vascular),MARK2,0.22378343
+Fibroblast,MARK2,0.19416079
+Pericyte/SMC,MARK2,0.18770637
+"Myocyte (cardiac, cytoplasmic)",MARK2,0.17443916
+Satellite cell,MARK2,0.17075044
+Myoepithelial (basal),MARK2,0.1411598
+"Myocyte (sk. muscle, cytoplasmic)",MARK2,0.10359261

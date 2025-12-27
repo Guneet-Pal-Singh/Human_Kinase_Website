@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+heart,Muscle,CKMT2,4.6781936,58.728448275862064
+skeletalmuscle,Muscle,CKMT2,1.6053526,29.96322714988259
+esophagusmuscularis,Neuron,CKMT2,1.25,16.0
+heart,Adipocyte,CKMT2,2.3529413,8.808290155440414
+esophagusmuscularis,Adipocyte,CKMT2,1.0666667,8.571428571428571
+breast,Adipocyte,CKMT2,1.1690141,8.063600227143668
+prostate,Endothelial cell,CKMT2,1.0660378,3.750884642604388
+prostate,Muscle,CKMT2,1.1038961,3.4329023629068214
+skeletalmuscle,Glia,CKMT2,1.0,2.857142857142857
+esophagusmuscularis,Muscle,CKMT2,1.0522388,2.7036115407895625
+heart,Glia,CKMT2,1.0,2.684563758389262
+esophagusmucosa,Muscle,CKMT2,1.0,2.5948103792415167
+skin,Epithelial cell,CKMT2,1.0,2.491694352159469
+breast,Muscle,CKMT2,1.0,1.973684210526316
+skeletalmuscle,Adipocyte,CKMT2,3.0,1.8867924528301887
+esophagusmucosa,Endothelial cell,CKMT2,1.0555556,1.539119281744335
+skeletalmuscle,Endothelial cell,CKMT2,1.7222222,1.35236664162284
+lung,Muscle,CKMT2,1.0,1.2269938650306749
+lung,Epithelial cell,CKMT2,1.024138,1.2045690550363446
+prostate,Epithelial cell,CKMT2,1.0239043,1.0878516014389112
+skeletalmuscle,Immune (lymphocyte),CKMT2,1.0,1.0
+esophagusmuscularis,Immune (lymphocyte),CKMT2,1.0,0.9966777408637874
+prostate,Fibroblast,CKMT2,1.0,0.9632224168126094
+esophagusmuscularis,Endothelial cell,CKMT2,1.0238096,0.941492938802959
+lung,Endothelial cell,CKMT2,1.0,0.9104151493080844
+lung,Fibroblast,CKMT2,1.0,0.8807588075880758
+breast,Fibroblast,CKMT2,1.0,0.8547008547008548
+esophagusmucosa,Stromal,CKMT2,1.0,0.8088978766430739
+skin,Melanocyte,CKMT2,1.0,0.7352941176470588
+esophagusmucosa,Epithelial cell,CKMT2,1.049505,0.732096259785445
+esophagusmuscularis,Fibroblast,CKMT2,1.0,0.7301373811124988
+esophagusmuscularis,Glia,CKMT2,1.0,0.7216494845360825
+skeletalmuscle,Immune (myeloid),CKMT2,1.0,0.6784260515603799
+breast,Epithelial cell,CKMT2,1.0294118,0.5863079841351957
+skin,Fibroblast,CKMT2,1.0,0.5671077504725899
+skin,Immune (myeloid),CKMT2,1.0,0.5586592178770949
+esophagusmucosa,Fibroblast,CKMT2,1.0,0.497335701598579
+skin,Other,CKMT2,1.0,0.4424778761061947
+lung,Immune (myeloid),CKMT2,1.0,0.426299393343171
+skin,Endothelial cell,CKMT2,1.0,0.3910068426197458
+esophagusmucosa,Immune (myeloid),CKMT2,1.0,0.3576537911301859
+skin,Epithelial cell (keratinocyte),CKMT2,1.0,0.3081664098613251
+prostate,Immune (lymphocyte),CKMT2,1.0,0.2932551319648094
+prostate,Immune (myeloid),CKMT2,1.0,0.2918287937743191
+heart,Immune (lymphocyte),CKMT2,1.0,0.2865329512893982
+esophagusmucosa,Immune (lymphocyte),CKMT2,1.0,0.275027502750275
+heart,Endothelial cell,CKMT2,1.1578947,0.2488539620170268
+heart,Fibroblast,CKMT2,1.1428572,0.2261225368795089
+esophagusmuscularis,Immune (myeloid),CKMT2,1.0,0.2024974687816402
+skeletalmuscle,Fibroblast,CKMT2,1.1666666,0.2018842530282638
+heart,Immune (myeloid),CKMT2,1.6666666,0.140646976090014
+lung,Immune (lymphocyte),CKMT2,1.0,0.1379310344827586
+breast,Endothelial cell,CKMT2,1.0,0.1135073779795686
+breast,Immune (myeloid),CKMT2,0.0,0.0
+esophagusmucosa,Glia,CKMT2,0.0,0.0
+prostate,Glia,CKMT2,0.0,0.0
+skin,Adipocyte,CKMT2,0.0,0.0
+skin,Immune (lymphocyte),CKMT2,0.0,0.0
+skin,Muscle,CKMT2,0.0,0.0

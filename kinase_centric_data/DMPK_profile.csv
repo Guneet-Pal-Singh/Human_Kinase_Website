@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmucosa,Stromal,DMPK,1.3672727,27.80586450960566
+heart,Muscle,DMPK,1.6638806,27.76856763925729
+esophagusmucosa,Muscle,DMPK,1.235849,21.15768463073852
+prostate,Muscle,DMPK,1.2394366,15.827017387427553
+esophagusmucosa,Glia,DMPK,1.0,13.846153846153848
+esophagusmuscularis,Muscle,DMPK,1.2025641,13.114533593382204
+esophagusmuscularis,Adipocyte,DMPK,1.2222222,10.285714285714285
+skin,Muscle,DMPK,1.1052631,10.21505376344086
+esophagusmucosa,Epithelial cell,DMPK,1.1270903,8.669179472310814
+lung,Muscle,DMPK,1.0714285,8.588957055214724
+esophagusmuscularis,Neuron,DMPK,1.0,8.0
+skeletalmuscle,Muscle,DMPK,1.1035694,7.571662753090249
+heart,Adipocyte,DMPK,1.0,7.253886010362693
+breast,Adipocyte,DMPK,1.0416666,6.814310051107325
+esophagusmucosa,Fibroblast,DMPK,1.0645162,6.607460035523979
+breast,Muscle,DMPK,1.1,6.578947368421052
+lung,Fibroblast,DMPK,1.1111112,5.487804878048781
+breast,Endothelial cell,DMPK,1.0208334,5.448354143019296
+esophagusmucosa,Endothelial cell,DMPK,1.0803213,5.322787516032493
+skin,Adipocyte,DMPK,1.0,4.838709677419355
+prostate,Fibroblast,DMPK,1.0545454,4.816112084063047
+skeletalmuscle,Adipocyte,DMPK,1.0,4.40251572327044
+skin,Endothelial cell,DMPK,1.0263158,3.714565004887586
+lung,Epithelial cell,DMPK,1.0422195,3.4434060228452754
+esophagusmuscularis,Glia,DMPK,1.030303,3.402061855670103
+breast,Epithelial cell,DMPK,1.0777202,3.328160027590964
+prostate,Endothelial cell,DMPK,1.0444444,3.1847133757961785
+breast,Fibroblast,DMPK,1.12,3.0525030525030523
+skeletalmuscle,Immune (lymphocyte),DMPK,1.0,3.0
+prostate,Glia,DMPK,1.0,2.985074626865672
+prostate,Epithelial cell,DMPK,1.0437956,2.9688380357994197
+esophagusmuscularis,Endothelial cell,DMPK,1.0731708,2.757229320780094
+esophagusmucosa,Immune (lymphocyte),DMPK,1.06,2.7502750275027505
+skin,Epithelial cell,DMPK,1.0,2.6578073089701
+lung,Endothelial cell,DMPK,1.0704225,2.58557902403496
+skin,Other,DMPK,1.0,2.433628318584071
+heart,Glia,DMPK,1.0,2.348993288590604
+skeletalmuscle,Endothelial cell,DMPK,1.032258,2.329075882794891
+heart,Fibroblast,DMPK,1.0563381,2.293528588349305
+skin,Immune (myeloid),DMPK,1.0,2.23463687150838
+skin,Melanocyte,DMPK,1.0,2.2058823529411766
+esophagusmuscularis,Fibroblast,DMPK,1.0552995,2.0847343644922667
+skin,Fibroblast,DMPK,1.0,2.0793950850661624
+skeletalmuscle,Fibroblast,DMPK,1.05,2.0188425302826376
+skin,Epithelial cell (keratinocyte),DMPK,1.0263158,1.9517205957883923
+lung,Immune (lymphocyte),DMPK,1.1538461,1.793103448275862
+breast,Immune (myeloid),DMPK,1.0,1.675977653631285
+esophagusmucosa,Immune (myeloid),DMPK,1.0,1.430615164520744
+heart,Endothelial cell,DMPK,1.0421053,1.2442698100851344
+heart,Immune (lymphocyte),DMPK,1.125,1.146131805157593
+esophagusmuscularis,Immune (myeloid),DMPK,1.0666667,1.0124873439082012
+prostate,Immune (lymphocyte),DMPK,1.0,0.8797653958944283
+esophagusmuscularis,Immune (lymphocyte),DMPK,1.0,0.6644518272425249
+lung,Immune (myeloid),DMPK,1.0,0.573864567961961
+skeletalmuscle,Immune (myeloid),DMPK,1.0,0.5427408412483039
+prostate,Immune (myeloid),DMPK,1.0,0.1945525291828793
+heart,Immune (myeloid),DMPK,1.0,0.1719018596655727
+skeletalmuscle,Glia,DMPK,0.0,0.0
+skin,Immune (lymphocyte),DMPK,0.0,0.0

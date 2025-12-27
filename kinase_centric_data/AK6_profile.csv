@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skeletalmuscle,Glia,AK6,1.0,8.571428571428571
+heart,Muscle,AK6,1.1183879,6.581564986737401
+prostate,Glia,AK6,1.25,5.970149253731343
+heart,Adipocyte,AK6,1.0,5.181347150259067
+heart,Glia,AK6,1.0714285,4.697986577181208
+esophagusmucosa,Stromal,AK6,1.0227273,4.448938321536906
+esophagusmuscularis,Muscle,AK6,1.0686275,4.115945927769184
+prostate,Epithelial cell,AK6,1.1146067,3.857322411476618
+prostate,Muscle,AK6,1.0365853,3.6558181007579136
+breast,Adipocyte,AK6,1.046875,3.634298693923907
+heart,Fibroblast,AK6,1.0141343,3.047270377947669
+skeletalmuscle,Fibroblast,AK6,1.0335195,3.0114401076716013
+esophagusmuscularis,Glia,AK6,1.037037,2.783505154639176
+lung,Immune (myeloid),AK6,1.0361446,2.721757665191015
+prostate,Fibroblast,AK6,1.032258,2.714535901926445
+skin,Fibroblast,AK6,1.0,2.457466918714556
+lung,Muscle,AK6,1.0,2.4539877300613497
+esophagusmucosa,Epithelial cell,AK6,1.0797546,2.363003769208466
+skin,Immune (myeloid),AK6,1.0,2.23463687150838
+breast,Immune (myeloid),AK6,1.125,2.23463687150838
+esophagusmuscularis,Fibroblast,AK6,1.0174673,2.200019214141608
+skin,Endothelial cell,AK6,1.0,2.1505376344086025
+heart,Immune (myeloid),AK6,1.0145985,2.1409595249257696
+esophagusmucosa,Fibroblast,AK6,1.0338984,2.0959147424511544
+breast,Epithelial cell,AK6,1.0862069,2.0003448870494918
+skeletalmuscle,Immune (lymphocyte),AK6,1.0,2.0
+skin,Other,AK6,1.0,1.991150442477876
+prostate,Endothelial cell,AK6,1.0178572,1.9815994338287333
+heart,Endothelial cell,AK6,1.0264901,1.9777341191879505
+lung,Epithelial cell,AK6,1.0258064,1.9314641744548289
+skin,Melanocyte,AK6,1.0,1.8382352941176472
+lung,Fibroblast,AK6,1.037037,1.829268292682927
+breast,Endothelial cell,AK6,1.0625,1.8161180476730987
+prostate,Immune (myeloid),AK6,1.1666666,1.7509727626459144
+skin,Epithelial cell (keratinocyte),AK6,1.0,1.7462763225475089
+esophagusmucosa,Immune (lymphocyte),AK6,1.0,1.7051705170517053
+esophagusmuscularis,Immune (lymphocyte),AK6,1.0,1.6611295681063123
+skin,Adipocyte,AK6,1.0,1.6129032258064515
+skin,Muscle,AK6,1.0,1.6129032258064515
+esophagusmucosa,Glia,AK6,1.0,1.5384615384615383
+skeletalmuscle,Endothelial cell,AK6,1.05,1.5026296018031555
+lung,Endothelial cell,AK6,1.0,1.4566642388929352
+heart,Immune (lymphocyte),AK6,1.0,1.4326647564469914
+esophagusmucosa,Muscle,AK6,1.2857143,1.3972055888223551
+skin,Immune (lymphocyte),AK6,1.0,1.3333333333333337
+breast,Muscle,AK6,1.0,1.3157894736842104
+esophagusmucosa,Endothelial cell,AK6,1.0333333,1.2825994014536126
+esophagusmuscularis,Immune (myeloid),AK6,1.0526316,1.282483968950388
+skeletalmuscle,Adipocyte,AK6,1.5,1.257861635220126
+esophagusmuscularis,Endothelial cell,AK6,1.0588236,1.143241425689307
+breast,Fibroblast,AK6,1.0,1.098901098901099
+skeletalmuscle,Immune (myeloid),AK6,1.0,1.0854816824966078
+esophagusmucosa,Immune (myeloid),AK6,1.0,1.072961373390558
+skeletalmuscle,Muscle,AK6,1.0646766,0.8905232377829959
+lung,Immune (lymphocyte),AK6,1.4,0.6896551724137931
+skin,Epithelial cell,AK6,1.0,0.6644518272425249
+esophagusmuscularis,Adipocyte,AK6,1.0,0.5714285714285714
+prostate,Immune (lymphocyte),AK6,1.0,0.1466275659824047
+esophagusmuscularis,Neuron,AK6,0.0,0.0

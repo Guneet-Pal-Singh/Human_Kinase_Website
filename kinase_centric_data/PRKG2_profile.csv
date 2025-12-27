@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmucosa,Stromal,PRKG2,1.0526316,3.842264914054601
+skin,Melanocyte,PRKG2,1.0,3.308823529411765
+skin,Immune (lymphocyte),PRKG2,1.0,2.666666666666667
+prostate,Muscle,PRKG2,1.2105263,2.541239411502452
+esophagusmuscularis,Muscle,PRKG2,1.05,2.2866366265384355
+prostate,Fibroblast,PRKG2,1.0769231,2.276707530647986
+lung,Epithelial cell,PRKG2,1.061776,2.1516095534787123
+breast,Fibroblast,PRKG2,1.1428572,1.7094017094017095
+prostate,Glia,PRKG2,1.0,1.4925373134328357
+esophagusmuscularis,Immune (myeloid),PRKG2,1.0697675,1.4512318596017548
+prostate,Epithelial cell,PRKG2,1.2412698,1.3652320894552077
+esophagusmuscularis,Immune (lymphocyte),PRKG2,1.0,1.32890365448505
+lung,Immune (myeloid),PRKG2,1.0,1.1805213969503197
+esophagusmuscularis,Adipocyte,PRKG2,1.0,1.1428571428571428
+skin,Fibroblast,PRKG2,1.2,0.945179584120983
+skin,Epithelial cell (keratinocyte),PRKG2,1.0,0.7704160246533128
+lung,Fibroblast,PRKG2,1.0,0.7452574525745257
+esophagusmucosa,Epithelial cell,PRKG2,1.0531915,0.68135691504784
+heart,Glia,PRKG2,1.0,0.6711409395973155
+heart,Muscle,PRKG2,1.0266666,0.621684350132626
+lung,Endothelial cell,PRKG2,1.0,0.6190823015294974
+esophagusmuscularis,Glia,PRKG2,1.0,0.6185567010309279
+lung,Muscle,PRKG2,1.0,0.6134969325153374
+esophagusmucosa,Fibroblast,PRKG2,1.0,0.6039076376554174
+skin,Muscle,PRKG2,1.0,0.5376344086021506
+prostate,Immune (myeloid),PRKG2,1.0,0.4863813229571984
+esophagusmuscularis,Fibroblast,PRKG2,1.0208334,0.4611393985973677
+skeletalmuscle,Endothelial cell,PRKG2,1.0,0.4507888805409466
+breast,Epithelial cell,PRKG2,1.0,0.448353164338679
+skeletalmuscle,Muscle,PRKG2,1.0,0.4474768508262815
+heart,Fibroblast,PRKG2,1.025,0.4307095940562075
+heart,Immune (lymphocyte),PRKG2,1.0,0.4297994269340974
+skeletalmuscle,Immune (myeloid),PRKG2,1.0,0.4070556309362279
+esophagusmucosa,Muscle,PRKG2,1.0,0.3992015968063871
+skin,Epithelial cell,PRKG2,1.0,0.3322259136212624
+skeletalmuscle,Fibroblast,PRKG2,1.0,0.3028263795423957
+esophagusmucosa,Endothelial cell,PRKG2,1.0,0.2992731936725096
+heart,Endothelial cell,PRKG2,1.0,0.2881466928618206
+prostate,Endothelial cell,PRKG2,1.0,0.2830856334041047
+esophagusmuscularis,Endothelial cell,PRKG2,1.0,0.2689979825151311
+heart,Immune (myeloid),PRKG2,1.2352941,0.2656665103922487
+skin,Other,PRKG2,1.0,0.2212389380530973
+esophagusmucosa,Immune (lymphocyte),PRKG2,1.25,0.22002200220022
+prostate,Immune (lymphocyte),PRKG2,1.0,0.1466275659824047
+lung,Immune (lymphocyte),PRKG2,1.0,0.1379310344827586
+breast,Endothelial cell,PRKG2,1.0,0.1135073779795686
+esophagusmucosa,Immune (myeloid),PRKG2,0.0,0.0
+breast,Adipocyte,PRKG2,0.0,0.0
+breast,Immune (myeloid),PRKG2,0.0,0.0
+breast,Muscle,PRKG2,0.0,0.0
+esophagusmucosa,Glia,PRKG2,0.0,0.0
+esophagusmuscularis,Neuron,PRKG2,0.0,0.0
+heart,Adipocyte,PRKG2,0.0,0.0
+skeletalmuscle,Adipocyte,PRKG2,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),PRKG2,0.0,0.0
+skin,Endothelial cell,PRKG2,0.0,0.0
+skin,Adipocyte,PRKG2,0.0,0.0
+skeletalmuscle,Glia,PRKG2,0.0,0.0
+skin,Immune (myeloid),PRKG2,0.0,0.0

@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+heart,Adipocyte,GLYCTK,1.4583334,12.43523316062176
+esophagusmuscularis,Adipocyte,GLYCTK,1.0,4.571428571428571
+esophagusmuscularis,Neuron,GLYCTK,1.0,4.0
+breast,Adipocyte,GLYCTK,1.0416666,1.362862010221465
+prostate,Endothelial cell,GLYCTK,1.0263158,1.3446567586694975
+skin,Endothelial cell,GLYCTK,1.0,1.1730205278592376
+prostate,Immune (myeloid),GLYCTK,1.0,1.1673151750972763
+esophagusmucosa,Immune (myeloid),GLYCTK,1.0,1.144492131616595
+esophagusmucosa,Endothelial cell,GLYCTK,1.0,1.0902094912355709
+esophagusmucosa,Epithelial cell,GLYCTK,1.0214286,1.0147868947521022
+esophagusmuscularis,Immune (myeloid),GLYCTK,1.0,0.9449881876476544
+lung,Immune (myeloid),GLYCTK,1.0,0.9181833087391376
+breast,Immune (myeloid),GLYCTK,1.0,0.8379888268156425
+prostate,Epithelial cell,GLYCTK,1.0160428,0.8104711134226151
+esophagusmucosa,Stromal,GLYCTK,1.0,0.8088978766430739
+lung,Immune (lymphocyte),GLYCTK,1.0,0.6896551724137931
+skin,Epithelial cell,GLYCTK,1.0,0.6644518272425249
+esophagusmuscularis,Immune (lymphocyte),GLYCTK,1.0,0.6644518272425249
+esophagusmuscularis,Endothelial cell,GLYCTK,1.0,0.6276619592019727
+lung,Muscle,GLYCTK,1.0,0.6134969325153374
+esophagusmucosa,Immune (lymphocyte),GLYCTK,1.0909091,0.605060506050605
+heart,Fibroblast,GLYCTK,1.0,0.5922256918272855
+breast,Endothelial cell,GLYCTK,1.0,0.5675368898978433
+heart,Immune (myeloid),GLYCTK,1.0,0.5000781372089389
+prostate,Muscle,GLYCTK,1.1818181,0.490414623272403
+heart,Muscle,GLYCTK,1.0350877,0.4724801061007957
+prostate,Immune (lymphocyte),GLYCTK,1.0,0.4398826979472141
+heart,Immune (lymphocyte),GLYCTK,1.0,0.4297994269340974
+lung,Epithelial cell,GLYCTK,1.0,0.4070612668743509
+skeletalmuscle,Immune (myeloid),GLYCTK,1.0,0.4070556309362279
+esophagusmucosa,Muscle,GLYCTK,1.0,0.3992015968063871
+heart,Endothelial cell,GLYCTK,1.0,0.3929273084479371
+skin,Fibroblast,GLYCTK,1.0,0.3780718336483932
+skeletalmuscle,Endothelial cell,GLYCTK,1.0,0.3756574004507889
+prostate,Fibroblast,GLYCTK,1.0,0.3502626970227671
+esophagusmucosa,Fibroblast,GLYCTK,1.0,0.3197158081705151
+lung,Endothelial cell,GLYCTK,1.0,0.291332847778587
+breast,Epithelial cell,GLYCTK,1.0,0.2759096395930333
+lung,Fibroblast,GLYCTK,1.0,0.2710027100271002
+esophagusmuscularis,Fibroblast,GLYCTK,1.0,0.2401767701027956
+skeletalmuscle,Fibroblast,GLYCTK,1.0,0.2355316285329744
+esophagusmuscularis,Muscle,GLYCTK,1.0,0.2084874571255632
+esophagusmuscularis,Glia,GLYCTK,1.0,0.2061855670103093
+skin,Epithelial cell (keratinocyte),GLYCTK,1.0,0.1540832049306625
+skeletalmuscle,Muscle,GLYCTK,1.0,0.12405298834788
+breast,Muscle,GLYCTK,0.0,0.0
+esophagusmucosa,Glia,GLYCTK,0.0,0.0
+heart,Glia,GLYCTK,0.0,0.0
+breast,Fibroblast,GLYCTK,0.0,0.0
+skeletalmuscle,Adipocyte,GLYCTK,0.0,0.0
+prostate,Glia,GLYCTK,0.0,0.0
+skin,Adipocyte,GLYCTK,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),GLYCTK,0.0,0.0
+skeletalmuscle,Glia,GLYCTK,0.0,0.0
+skin,Immune (lymphocyte),GLYCTK,0.0,0.0
+skin,Immune (myeloid),GLYCTK,0.0,0.0
+skin,Melanocyte,GLYCTK,0.0,0.0
+skin,Muscle,GLYCTK,0.0,0.0
+skin,Other,GLYCTK,0.0,0.0

@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skeletalmuscle,Muscle,MAST2,1.9702271,57.737805148199016
+heart,Muscle,MAST2,1.9719188,37.19330238726791
+esophagusmucosa,Stromal,MAST2,1.3875,32.355915065722954
+esophagusmuscularis,Neuron,MAST2,1.5,32.0
+lung,Immune (myeloid),MAST2,1.3136011,23.266109198229216
+esophagusmucosa,Fibroblast,MAST2,1.217484,16.660746003552397
+esophagusmuscularis,Muscle,MAST2,1.2238383,16.64536956083126
+prostate,Muscle,MAST2,1.1994047,14.979937583593404
+breast,Endothelial cell,MAST2,1.2461538,14.755959137343927
+esophagusmuscularis,Adipocyte,MAST2,1.44,14.285714285714285
+prostate,Epithelial cell,MAST2,1.2691373,14.26775885233823
+esophagusmucosa,Glia,MAST2,1.0,13.846153846153848
+breast,Fibroblast,MAST2,1.1545454,13.431013431013431
+breast,Epithelial cell,MAST2,1.1662371,13.381617520262116
+esophagusmucosa,Immune (myeloid),MAST2,1.1774193,13.304721030042918
+esophagusmuscularis,Endothelial cell,MAST2,1.213198,13.248150638870207
+prostate,Fibroblast,MAST2,1.1333333,13.134851138353763
+heart,Adipocyte,MAST2,1.24,12.953367875647666
+lung,Muscle,MAST2,1.1428572,12.883435582822086
+lung,Epithelial cell,MAST2,1.1352149,12.656282450674974
+esophagusmucosa,Epithelial cell,MAST2,1.2089202,12.351406204697014
+prostate,Immune (myeloid),MAST2,1.192,12.15953307392996
+breast,Immune (myeloid),MAST2,1.1395348,12.011173184357542
+breast,Muscle,MAST2,1.1666666,11.842105263157894
+skeletalmuscle,Immune (myeloid),MAST2,1.1511627,11.668928086838534
+esophagusmucosa,Muscle,MAST2,1.0862069,11.57684630738523
+heart,Immune (myeloid),MAST2,1.1432432,11.564306922956712
+lung,Fibroblast,MAST2,1.1017964,11.314363143631438
+skin,Muscle,MAST2,1.0952381,11.29032258064516
+skeletalmuscle,Immune (lymphocyte),MAST2,1.0,11.0
+prostate,Endothelial cell,MAST2,1.1162791,10.65109695682944
+esophagusmuscularis,Fibroblast,MAST2,1.1195652,10.606206167739456
+heart,Fibroblast,MAST2,1.1758585,10.347797997200388
+lung,Endothelial cell,MAST2,1.0925267,10.23306627822287
+skeletalmuscle,Adipocyte,MAST2,1.3125,10.062893081761008
+esophagusmuscularis,Immune (myeloid),MAST2,1.1208054,10.057374282821463
+esophagusmucosa,Endothelial cell,MAST2,1.1563169,9.982898674647284
+esophagusmuscularis,Glia,MAST2,1.1770834,9.896907216494846
+skeletalmuscle,Fibroblast,MAST2,1.1280701,9.58950201884253
+breast,Adipocyte,MAST2,1.1547619,9.540034071550256
+skin,Fibroblast,MAST2,1.16,9.45179584120983
+heart,Glia,MAST2,1.1481482,9.060402684563758
+skin,Epithelial cell,MAST2,1.0925926,8.970099667774086
+skeletalmuscle,Glia,MAST2,1.3333334,8.571428571428571
+skeletalmuscle,Endothelial cell,MAST2,1.3421053,8.564988730277987
+lung,Immune (lymphocyte),MAST2,1.1475409,8.413793103448276
+heart,Immune (lymphocyte),MAST2,1.1206896,8.30945558739255
+heart,Endothelial cell,MAST2,1.1213171,7.557301899148658
+prostate,Glia,MAST2,1.2,7.462686567164178
+skin,Endothelial cell,MAST2,1.0789474,7.429130009775172
+esophagusmuscularis,Immune (lymphocyte),MAST2,1.1363636,7.308970099667775
+esophagusmucosa,Immune (lymphocyte),MAST2,1.1913043,6.325632563256326
+skin,Immune (myeloid),MAST2,1.1818181,6.145251396648044
+skin,Melanocyte,MAST2,1.125,5.88235294117647
+skin,Adipocyte,MAST2,1.0,4.838709677419355
+skin,Epithelial cell (keratinocyte),MAST2,1.0967742,4.776579352850539
+prostate,Immune (lymphocyte),MAST2,1.1290323,4.545454545454546
+skin,Other,MAST2,1.25,4.424778761061947
+skin,Immune (lymphocyte),MAST2,1.0,2.666666666666667

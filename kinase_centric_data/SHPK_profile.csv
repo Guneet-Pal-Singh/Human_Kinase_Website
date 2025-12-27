@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Adipocyte,SHPK,1.0,1.1428571428571428
+skin,Fibroblast,SHPK,1.0,0.5671077504725899
+skin,Muscle,SHPK,1.0,0.5376344086021506
+esophagusmuscularis,Immune (lymphocyte),SHPK,1.0,0.3322259136212624
+skin,Epithelial cell (keratinocyte),SHPK,1.0,0.3081664098613251
+esophagusmucosa,Immune (myeloid),SHPK,1.0,0.2861230329041487
+skin,Other,SHPK,1.0,0.2212389380530973
+skin,Endothelial cell,SHPK,1.0,0.1955034213098729
+heart,Immune (lymphocyte),SHPK,1.0,0.1432664756446991
+esophagusmucosa,Epithelial cell,SHPK,1.0588236,0.1232241229341838
+breast,Fibroblast,SHPK,1.0,0.1221001221001221
+esophagusmucosa,Stromal,SHPK,1.0,0.1011122345803842
+prostate,Immune (myeloid),SHPK,1.0,0.0972762645914396
+heart,Fibroblast,SHPK,1.0,0.0861419188112415
+esophagusmucosa,Endothelial cell,SHPK,1.0,0.0855066267635741
+esophagusmuscularis,Immune (myeloid),SHPK,1.0,0.0674991562605467
+esophagusmuscularis,Endothelial cell,SHPK,1.0,0.0672494956287827
+esophagusmucosa,Immune (lymphocyte),SHPK,1.0,0.055005500550055
+heart,Endothelial cell,SHPK,1.0,0.0523903077930582
+esophagusmuscularis,Fibroblast,SHPK,1.0,0.0480353540205591
+heart,Immune (myeloid),SHPK,1.0,0.046882325363338
+heart,Muscle,SHPK,1.0,0.041445623342175
+esophagusmucosa,Fibroblast,SHPK,1.0,0.0355239786856127
+prostate,Epithelial cell,SHPK,1.0,0.034672561002037
+esophagusmuscularis,Muscle,SHPK,1.0,0.0336270092138005
+skeletalmuscle,Muscle,SHPK,1.0,0.0177218554782685
+lung,Epithelial cell,SHPK,1.0,0.0124610591900311
+heart,Glia,SHPK,0.0,0.0
+heart,Adipocyte,SHPK,0.0,0.0
+esophagusmuscularis,Neuron,SHPK,0.0,0.0
+esophagusmuscularis,Glia,SHPK,0.0,0.0
+esophagusmucosa,Muscle,SHPK,0.0,0.0
+breast,Immune (myeloid),SHPK,0.0,0.0
+breast,Muscle,SHPK,0.0,0.0
+esophagusmucosa,Glia,SHPK,0.0,0.0
+breast,Epithelial cell,SHPK,0.0,0.0
+breast,Endothelial cell,SHPK,0.0,0.0
+breast,Adipocyte,SHPK,0.0,0.0
+lung,Immune (myeloid),SHPK,0.0,0.0
+lung,Muscle,SHPK,0.0,0.0
+lung,Immune (lymphocyte),SHPK,0.0,0.0
+lung,Fibroblast,SHPK,0.0,0.0
+lung,Endothelial cell,SHPK,0.0,0.0
+skeletalmuscle,Adipocyte,SHPK,0.0,0.0
+prostate,Muscle,SHPK,0.0,0.0
+prostate,Immune (lymphocyte),SHPK,0.0,0.0
+prostate,Glia,SHPK,0.0,0.0
+prostate,Endothelial cell,SHPK,0.0,0.0
+prostate,Fibroblast,SHPK,0.0,0.0
+skeletalmuscle,Endothelial cell,SHPK,0.0,0.0
+skeletalmuscle,Fibroblast,SHPK,0.0,0.0
+skin,Adipocyte,SHPK,0.0,0.0
+skeletalmuscle,Immune (myeloid),SHPK,0.0,0.0
+skeletalmuscle,Glia,SHPK,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),SHPK,0.0,0.0
+skin,Immune (lymphocyte),SHPK,0.0,0.0
+skin,Epithelial cell,SHPK,0.0,0.0
+skin,Melanocyte,SHPK,0.0,0.0
+skin,Immune (myeloid),SHPK,0.0,0.0

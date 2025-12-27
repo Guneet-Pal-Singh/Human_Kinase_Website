@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (ciliated),CDKL3,0.5576191
+Myocyte (NMJ-rich),CDKL3,0.39111614
+Myocyte (sk. muscle),CDKL3,0.33531868
+Myocyte (cardiac),CDKL3,0.313757
+Immune (DC),CDKL3,0.29693314
+Neuroendocrine,CDKL3,0.25620854
+Myofibroblast,CDKL3,0.2261777
+Immune (alveolar macrophage),CDKL3,0.21990971
+Epithelial cell (alveolar type I),CDKL3,0.19884787
+Adipocyte,CDKL3,0.19871946
+Epithelial cell (alveolar type II),CDKL3,0.19539669
+Schwann cell,CDKL3,0.19043343
+Myocyte (smooth muscle),CDKL3,0.18587945
+Pericyte/SMC,CDKL3,0.18266319
+Epithelial cell (club),CDKL3,0.18184924
+Mucous cell,CDKL3,0.18125616
+Epithelial cell (basal),CDKL3,0.17138115
+Epithelial cell (Hillock),CDKL3,0.16661301
+Epithelial cell (basal keratinocyte),CDKL3,0.16072424
+Fibroblast,CDKL3,0.1591387
+Melanocyte,CDKL3,0.15714769
+Myoepithelial (basal),CDKL3,0.15625656
+Epithelial cell (luminal),CDKL3,0.14587681
+Satellite cell,CDKL3,0.14500715
+Immune (mast cell),CDKL3,0.13076158
+Neuronal,CDKL3,0.12678322
+"Myocyte (sk. muscle, cytoplasmic)",CDKL3,0.11922785
+Epithelial cell (suprabasal),CDKL3,0.117666245
+Epithelial cell (cornified keratinocyte),CDKL3,0.11482798
+Immune (B cell),CDKL3,0.11424641
+Endothelial cell (vascular),CDKL3,0.1137927
+Immune (DC/macrophage),CDKL3,0.10847485
+Endothelial cell (lymphatic),CDKL3,0.09961444
+Immune (Langerhans),CDKL3,0.09955312
+Sweat gland cell,CDKL3,0.09919047
+ICCs,CDKL3,0.09230647
+Immune (NK cell),CDKL3,0.09023456
+Epithelial cell (suprabasal keratinocyte),CDKL3,0.086457305
+Sebaceous gland cell,CDKL3,0.080559276
+Immune (T cell),CDKL3,0.07665481
+Epithelial cell (mature keratinocyte),CDKL3,0.068725154
+"Myocyte (cardiac, cytoplasmic)",CDKL3,0.06201846
+Epithelial cell (squamous),CDKL3,0.033685297

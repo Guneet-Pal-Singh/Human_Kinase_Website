@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (NK cell),ATM,1.1993166
+Immune (Langerhans),ATM,1.062144
+Immune (B cell),ATM,0.98327136
+Immune (DC/macrophage),ATM,0.8564156
+Immune (T cell),ATM,0.7976142
+Immune (alveolar macrophage),ATM,0.7503216
+Neuronal,ATM,0.6684596
+Myocyte (cardiac),ATM,0.64974713
+Myocyte (NMJ-rich),ATM,0.52313644
+Epithelial cell (Hillock),ATM,0.5073612
+ICCs,ATM,0.50733423
+Sweat gland cell,ATM,0.5045807
+Satellite cell,ATM,0.50204074
+Fibroblast,ATM,0.5011309
+Neuroendocrine,ATM,0.497238
+Immune (mast cell),ATM,0.49697223
+Schwann cell,ATM,0.48355985
+Epithelial cell (club),ATM,0.472291
+Melanocyte,ATM,0.46028128
+Epithelial cell (basal),ATM,0.4540942
+Epithelial cell (ciliated),ATM,0.43808344
+Myoepithelial (basal),ATM,0.43496555
+Myofibroblast,ATM,0.43145287
+Pericyte/SMC,ATM,0.4268004
+Epithelial cell (luminal),ATM,0.4204879
+Mucous cell,ATM,0.41279182
+Epithelial cell (alveolar type II),ATM,0.38650352
+Endothelial cell (vascular),ATM,0.38151115
+Epithelial cell (basal keratinocyte),ATM,0.3664372
+Adipocyte,ATM,0.3517506
+Endothelial cell (lymphatic),ATM,0.35027614
+Myocyte (smooth muscle),ATM,0.34293193
+Epithelial cell (alveolar type I),ATM,0.33720347
+Sebaceous gland cell,ATM,0.31938943
+Epithelial cell (suprabasal keratinocyte),ATM,0.28069755
+Myocyte (sk. muscle),ATM,0.26338255
+Immune (DC),ATM,0.24299002
+Epithelial cell (cornified keratinocyte),ATM,0.23669453
+Epithelial cell (suprabasal),ATM,0.2325556
+"Myocyte (cardiac, cytoplasmic)",ATM,0.20455219
+"Myocyte (sk. muscle, cytoplasmic)",ATM,0.13978225
+Epithelial cell (mature keratinocyte),ATM,0.114053346
+Epithelial cell (squamous),ATM,0.07913187

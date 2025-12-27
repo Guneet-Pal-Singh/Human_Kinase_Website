@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Neuronal,PLK2,0.21606702
+Endothelial cell (vascular),PLK2,0.20543249
+Epithelial cell (suprabasal),PLK2,0.17410888
+Myocyte (cardiac),PLK2,0.16074085
+"Myocyte (cardiac, cytoplasmic)",PLK2,0.12011952
+Epithelial cell (basal keratinocyte),PLK2,0.10900836
+Epithelial cell (squamous),PLK2,0.10658578
+Myoepithelial (basal),PLK2,0.10482316
+Epithelial cell (basal),PLK2,0.097910754
+Epithelial cell (club),PLK2,0.096724965
+Endothelial cell (lymphatic),PLK2,0.08251616
+Epithelial cell (cornified keratinocyte),PLK2,0.08006752
+Myofibroblast,PLK2,0.077263795
+Mucous cell,PLK2,0.071872465
+Schwann cell,PLK2,0.056118384
+Epithelial cell (suprabasal keratinocyte),PLK2,0.04864302
+Epithelial cell (luminal),PLK2,0.046790462
+Immune (B cell),PLK2,0.030601472
+ICCs,PLK2,0.026656322
+Melanocyte,PLK2,0.024518987
+Sweat gland cell,PLK2,0.022492947
+Neuroendocrine,PLK2,0.02116858
+Immune (NK cell),PLK2,0.016296355
+Fibroblast,PLK2,0.014939391
+Epithelial cell (Hillock),PLK2,0.013913507
+Epithelial cell (ciliated),PLK2,0.013781152
+Pericyte/SMC,PLK2,0.013459159
+Adipocyte,PLK2,0.009304462
+Myocyte (smooth muscle),PLK2,0.008048311
+Immune (T cell),PLK2,0.006797227
+"Myocyte (sk. muscle, cytoplasmic)",PLK2,0.005537005
+Epithelial cell (alveolar type II),PLK2,0.005109489
+Immune (mast cell),PLK2,0.004970498
+Epithelial cell (alveolar type I),PLK2,0.004774584
+Immune (DC/macrophage),PLK2,0.0039733425
+Immune (alveolar macrophage),PLK2,0.0025413837
+Myocyte (sk. muscle),PLK2,0.0006135036
+Epithelial cell (mature keratinocyte),PLK2,0.0
+Immune (Langerhans),PLK2,0.0
+Immune (DC),PLK2,0.0
+Myocyte (NMJ-rich),PLK2,0.0
+Satellite cell,PLK2,0.0
+Sebaceous gland cell,PLK2,0.0

@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+prostate,Epithelial cell,STYK1,1.258956,8.46877302474754
+esophagusmuscularis,Neuron,STYK1,2.0,8.0
+esophagusmucosa,Epithelial cell,STYK1,1.1476744,6.23369092490577
+esophagusmuscularis,Immune (lymphocyte),STYK1,1.1666666,3.986710963455149
+heart,Immune (lymphocyte),STYK1,1.0,2.4355300859598854
+lung,Immune (lymphocyte),STYK1,1.2666667,2.0689655172413794
+lung,Epithelial cell,STYK1,1.0452261,1.6531671858774664
+breast,Epithelial cell,STYK1,1.0549451,1.5692360751853769
+lung,Immune (myeloid),STYK1,1.050633,1.295294310542712
+prostate,Immune (lymphocyte),STYK1,1.0,1.1730205278592376
+skin,Epithelial cell,STYK1,1.0,1.162790697674419
+skeletalmuscle,Immune (lymphocyte),STYK1,1.0,1.0
+prostate,Muscle,STYK1,1.4090909,0.980829246544806
+skeletalmuscle,Muscle,STYK1,1.1306533,0.8816623100438616
+lung,Endothelial cell,STYK1,1.0454545,0.8011653313911145
+esophagusmucosa,Endothelial cell,STYK1,1.0,0.7268063274903805
+breast,Endothelial cell,STYK1,1.0,0.681044267877412
+esophagusmucosa,Immune (myeloid),STYK1,1.0,0.6437768240343348
+skeletalmuscle,Adipocyte,STYK1,1.0,0.628930817610063
+heart,Endothelial cell,STYK1,1.0444444,0.5893909626719057
+skin,Epithelial cell (keratinocyte),STYK1,1.0,0.5649717514124294
+esophagusmuscularis,Endothelial cell,STYK1,1.08,0.5604124635731899
+breast,Immune (myeloid),STYK1,1.0,0.5586592178770949
+esophagusmucosa,Stromal,STYK1,1.0,0.5055611729019212
+skeletalmuscle,Endothelial cell,STYK1,1.0,0.4507888805409466
+heart,Muscle,STYK1,1.0,0.4144562334217507
+esophagusmucosa,Immune (lymphocyte),STYK1,1.0,0.385038503850385
+skin,Melanocyte,STYK1,1.0,0.3676470588235294
+prostate,Fibroblast,STYK1,1.0,0.3502626970227671
+heart,Immune (myeloid),STYK1,1.0,0.3438037193311455
+skin,Endothelial cell,STYK1,1.0,0.2932551319648094
+heart,Fibroblast,STYK1,1.0,0.2907289759879401
+breast,Adipocyte,STYK1,1.0,0.2839295854628052
+prostate,Endothelial cell,STYK1,1.25,0.2830856334041047
+lung,Fibroblast,STYK1,1.0,0.2710027100271002
+breast,Fibroblast,STYK1,1.0,0.2442002442002442
+esophagusmuscularis,Glia,STYK1,1.0,0.2061855670103093
+esophagusmuscularis,Immune (myeloid),STYK1,1.0,0.2024974687816402
+esophagusmuscularis,Muscle,STYK1,1.0,0.195036653440043
+prostate,Immune (myeloid),STYK1,1.0,0.1945525291828793
+skeletalmuscle,Fibroblast,STYK1,1.0,0.1682368775235531
+skeletalmuscle,Immune (myeloid),STYK1,1.0,0.1356852103120759
+esophagusmuscularis,Fibroblast,STYK1,1.0,0.1344989912575655
+esophagusmucosa,Fibroblast,STYK1,1.0,0.0710479573712255
+heart,Adipocyte,STYK1,0.0,0.0
+heart,Glia,STYK1,0.0,0.0
+esophagusmucosa,Muscle,STYK1,0.0,0.0
+breast,Muscle,STYK1,0.0,0.0
+esophagusmucosa,Glia,STYK1,0.0,0.0
+esophagusmuscularis,Adipocyte,STYK1,0.0,0.0
+lung,Muscle,STYK1,0.0,0.0
+prostate,Glia,STYK1,0.0,0.0
+skeletalmuscle,Glia,STYK1,0.0,0.0
+skin,Adipocyte,STYK1,0.0,0.0
+skin,Fibroblast,STYK1,0.0,0.0
+skin,Immune (lymphocyte),STYK1,0.0,0.0
+skin,Immune (myeloid),STYK1,0.0,0.0
+skin,Muscle,STYK1,0.0,0.0
+skin,Other,STYK1,0.0,0.0

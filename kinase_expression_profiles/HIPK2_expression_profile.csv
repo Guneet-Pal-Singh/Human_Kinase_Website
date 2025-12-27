@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Adipocyte,HIPK2,1.1712413
+Immune (alveolar macrophage),HIPK2,1.1008462
+Melanocyte,HIPK2,1.0128374
+Pericyte/SMC,HIPK2,0.9568808
+Myocyte (cardiac),HIPK2,0.9331271
+Epithelial cell (suprabasal),HIPK2,0.91817284
+"Myocyte (cardiac, cytoplasmic)",HIPK2,0.9087182
+Epithelial cell (luminal),HIPK2,0.87702787
+Mucous cell,HIPK2,0.8712423
+Sebaceous gland cell,HIPK2,0.85689205
+Immune (B cell),HIPK2,0.85188025
+Neuroendocrine,HIPK2,0.84613883
+Immune (NK cell),HIPK2,0.8063028
+Myofibroblast,HIPK2,0.797042
+Myocyte (NMJ-rich),HIPK2,0.7231048
+Endothelial cell (vascular),HIPK2,0.70478946
+Immune (DC),HIPK2,0.7031901
+Myocyte (sk. muscle),HIPK2,0.67453843
+Immune (mast cell),HIPK2,0.63540614
+Epithelial cell (club),HIPK2,0.6001268
+Immune (DC/macrophage),HIPK2,0.57009923
+Epithelial cell (basal),HIPK2,0.56875813
+ICCs,HIPK2,0.5473956
+Sweat gland cell,HIPK2,0.5331518
+Immune (T cell),HIPK2,0.5326458
+Epithelial cell (ciliated),HIPK2,0.49197394
+Satellite cell,HIPK2,0.44098336
+"Myocyte (sk. muscle, cytoplasmic)",HIPK2,0.43812546
+Epithelial cell (Hillock),HIPK2,0.4348667
+Schwann cell,HIPK2,0.3958365
+Epithelial cell (squamous),HIPK2,0.35046053
+Neuronal,HIPK2,0.3422505
+Endothelial cell (lymphatic),HIPK2,0.33982038
+Epithelial cell (alveolar type I),HIPK2,0.30701092
+Myocyte (smooth muscle),HIPK2,0.30280524
+Epithelial cell (alveolar type II),HIPK2,0.29831123
+Myoepithelial (basal),HIPK2,0.27652
+Fibroblast,HIPK2,0.24304712
+Immune (Langerhans),HIPK2,0.16905855
+Epithelial cell (suprabasal keratinocyte),HIPK2,0.15060665
+Epithelial cell (basal keratinocyte),HIPK2,0.12585218
+Epithelial cell (cornified keratinocyte),HIPK2,0.089020446
+Epithelial cell (mature keratinocyte),HIPK2,0.06295293

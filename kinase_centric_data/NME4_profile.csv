@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+heart,Adipocyte,NME4,1.3793104,15.025906735751295
+prostate,Muscle,NME4,1.1880734,9.719126170307623
+esophagusmucosa,Stromal,NME4,1.032258,6.268958543983821
+esophagusmuscularis,Muscle,NME4,1.2605321,6.066312462169615
+prostate,Epithelial cell,NME4,1.1251956,5.538941620075413
+skin,Immune (myeloid),NME4,1.0,5.027932960893855
+breast,Adipocyte,NME4,1.1190476,4.770017035775128
+prostate,Immune (myeloid),NME4,1.2222222,4.3774319066147855
+prostate,Fibroblast,NME4,1.125,4.203152364273205
+esophagusmuscularis,Neuron,NME4,1.0,4.0
+heart,Muscle,NME4,1.1218487,3.9456233421750655
+breast,Muscle,NME4,1.0,3.289473684210526
+skin,Adipocyte,NME4,1.0,3.225806451612903
+prostate,Endothelial cell,NME4,1.0289855,2.441613588110404
+heart,Fibroblast,NME4,1.0737327,2.336599547754926
+esophagusmucosa,Muscle,NME4,1.0,1.996007984031936
+breast,Epithelial cell,NME4,1.027027,1.9141231246766688
+skeletalmuscle,Adipocyte,NME4,1.0,1.8867924528301887
+esophagusmucosa,Epithelial cell,NME4,1.0156863,1.8483618440127572
+lung,Muscle,NME4,1.0,1.8404907975460123
+esophagusmuscularis,Adipocyte,NME4,1.0,1.7142857142857144
+heart,Glia,NME4,1.0,1.6778523489932886
+skin,Epithelial cell,NME4,1.0,1.6611295681063123
+esophagusmucosa,Immune (myeloid),NME4,1.0434783,1.6452074391988556
+lung,Fibroblast,NME4,1.0,1.6260162601626018
+skin,Muscle,NME4,1.0,1.6129032258064515
+skin,Other,NME4,1.0,1.5486725663716814
+esophagusmucosa,Glia,NME4,1.0,1.5384615384615383
+esophagusmucosa,Fibroblast,NME4,1.0232558,1.52753108348135
+lung,Immune (myeloid),NME4,1.0114943,1.426463354648303
+skeletalmuscle,Fibroblast,NME4,1.025,1.3458950201884252
+esophagusmucosa,Endothelial cell,NME4,1.0,1.2612227447627191
+skin,Melanocyte,NME4,1.0,1.1029411764705883
+skin,Endothelial cell,NME4,1.0,1.0752688172043012
+skeletalmuscle,Immune (lymphocyte),NME4,1.0,1.0
+heart,Endothelial cell,NME4,1.0684931,0.9561231172233138
+lung,Epithelial cell,NME4,1.0147784,0.8431983385254413
+prostate,Immune (lymphocyte),NME4,1.0,0.7331378299120235
+heart,Immune (lymphocyte),NME4,1.0,0.7163323782234957
+breast,Immune (myeloid),NME4,1.5,0.5586592178770949
+lung,Endothelial cell,NME4,1.0,0.5462490895848506
+skeletalmuscle,Immune (myeloid),NME4,1.0,0.5427408412483039
+esophagusmuscularis,Glia,NME4,1.0,0.5154639175257731
+breast,Fibroblast,NME4,1.0,0.4884004884004884
+breast,Endothelial cell,NME4,1.0,0.4540295119182747
+skeletalmuscle,Endothelial cell,NME4,1.0,0.4507888805409466
+esophagusmucosa,Immune (lymphocyte),NME4,1.0,0.44004400440044
+skeletalmuscle,Muscle,NME4,1.0108696,0.4076026760001772
+heart,Immune (myeloid),NME4,1.0416666,0.3750586029067042
+skin,Epithelial cell (keratinocyte),NME4,1.0,0.3595274781715459
+skin,Fibroblast,NME4,1.0,0.1890359168241966
+esophagusmuscularis,Immune (myeloid),NME4,1.2,0.1687478906513668
+lung,Immune (lymphocyte),NME4,1.0,0.1379310344827586
+esophagusmuscularis,Endothelial cell,NME4,1.2,0.1120824927146379
+esophagusmuscularis,Fibroblast,NME4,1.0,0.0672494956287827
+esophagusmuscularis,Immune (lymphocyte),NME4,0.0,0.0
+prostate,Glia,NME4,0.0,0.0
+skeletalmuscle,Glia,NME4,0.0,0.0
+skin,Immune (lymphocyte),NME4,0.0,0.0

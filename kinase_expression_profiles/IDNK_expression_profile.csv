@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Myocyte (NMJ-rich),IDNK,0.9080714
+Myocyte (sk. muscle),IDNK,0.7218583
+Immune (mast cell),IDNK,0.17172487
+"Myocyte (sk. muscle, cytoplasmic)",IDNK,0.15487017
+Epithelial cell (ciliated),IDNK,0.13563398
+Schwann cell,IDNK,0.11651863
+Immune (NK cell),IDNK,0.1063083
+Immune (B cell),IDNK,0.09961059
+Myocyte (smooth muscle),IDNK,0.0944877
+Epithelial cell (alveolar type I),IDNK,0.091406815
+Immune (T cell),IDNK,0.08557506
+Myocyte (cardiac),IDNK,0.083624914
+Epithelial cell (Hillock),IDNK,0.07990254
+Satellite cell,IDNK,0.07748238
+Epithelial cell (alveolar type II),IDNK,0.0773184
+Immune (Langerhans),IDNK,0.07498762
+Fibroblast,IDNK,0.07495415
+Adipocyte,IDNK,0.07316926
+Pericyte/SMC,IDNK,0.07060169
+Immune (alveolar macrophage),IDNK,0.070584655
+Endothelial cell (lymphatic),IDNK,0.07018352
+ICCs,IDNK,0.063877575
+Epithelial cell (suprabasal),IDNK,0.06327592
+Endothelial cell (vascular),IDNK,0.06239469
+Epithelial cell (cornified keratinocyte),IDNK,0.061318614
+Immune (DC/macrophage),IDNK,0.059346605
+Neuroendocrine,IDNK,0.05895142
+Epithelial cell (club),IDNK,0.05881422
+Epithelial cell (luminal),IDNK,0.057239506
+Myofibroblast,IDNK,0.056795463
+Immune (DC),IDNK,0.055395644
+Myoepithelial (basal),IDNK,0.053106394
+Mucous cell,IDNK,0.052420456
+Epithelial cell (basal),IDNK,0.048260693
+Epithelial cell (mature keratinocyte),IDNK,0.041327275
+Sweat gland cell,IDNK,0.034148432
+"Myocyte (cardiac, cytoplasmic)",IDNK,0.031014936
+Epithelial cell (basal keratinocyte),IDNK,0.022047563
+Epithelial cell (squamous),IDNK,0.019580888
+Sebaceous gland cell,IDNK,0.017843159
+Epithelial cell (suprabasal keratinocyte),IDNK,0.015241824
+Melanocyte,IDNK,0.0
+Neuronal,IDNK,0.0

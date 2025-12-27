@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (alveolar type II),MET,0.6804016
+Epithelial cell (club),MET,0.55634373
+Satellite cell,MET,0.47372654
+Endothelial cell (vascular),MET,0.33763078
+Epithelial cell (basal keratinocyte),MET,0.33166915
+Epithelial cell (Hillock),MET,0.3103991
+Mucous cell,MET,0.27846092
+Epithelial cell (basal),MET,0.24358848
+Epithelial cell (suprabasal keratinocyte),MET,0.24189387
+Myocyte (sk. muscle),MET,0.2383132
+Epithelial cell (ciliated),MET,0.22980194
+Myocyte (NMJ-rich),MET,0.22682036
+Myofibroblast,MET,0.20858683
+Epithelial cell (squamous),MET,0.16490538
+Myocyte (cardiac),MET,0.16335116
+Myoepithelial (basal),MET,0.15812026
+Epithelial cell (mature keratinocyte),MET,0.1412083
+Endothelial cell (lymphatic),MET,0.13397627
+Epithelial cell (suprabasal),MET,0.12869734
+Epithelial cell (cornified keratinocyte),MET,0.085005894
+Epithelial cell (alveolar type I),MET,0.08152066
+"Myocyte (sk. muscle, cytoplasmic)",MET,0.076878704
+Epithelial cell (luminal),MET,0.0700872
+"Myocyte (cardiac, cytoplasmic)",MET,0.060569286
+Schwann cell,MET,0.048178356
+Immune (alveolar macrophage),MET,0.044298556
+Immune (Langerhans),MET,0.040927958
+Sebaceous gland cell,MET,0.035769004
+Neuroendocrine,MET,0.03478906
+Myocyte (smooth muscle),MET,0.032015618
+Pericyte/SMC,MET,0.029014695
+Immune (DC),MET,0.024855426
+Adipocyte,MET,0.020594953
+Immune (mast cell),MET,0.01746923
+Melanocyte,MET,0.0172106
+Fibroblast,MET,0.012500251
+Immune (DC/macrophage),MET,0.011236129
+Immune (T cell),MET,0.006690582
+ICCs,MET,0.0
+Immune (NK cell),MET,0.0
+Immune (B cell),MET,0.0
+Neuronal,MET,0.0
+Sweat gland cell,MET,0.0

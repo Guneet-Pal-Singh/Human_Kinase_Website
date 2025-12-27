@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmucosa,Immune (lymphocyte),BLK,1.8455882,7.48074807480748
+esophagusmuscularis,Immune (lymphocyte),BLK,1.3333334,3.986710963455149
+prostate,Immune (lymphocyte),BLK,1.24,3.6656891495601176
+skeletalmuscle,Glia,BLK,1.0,2.857142857142857
+lung,Immune (lymphocyte),BLK,1.125,2.206896551724138
+heart,Immune (lymphocyte),BLK,1.25,1.7191977077363898
+breast,Immune (myeloid),BLK,1.0,0.5586592178770949
+esophagusmucosa,Immune (myeloid),BLK,1.7142857,0.5007153075822603
+lung,Immune (myeloid),BLK,1.0,0.4426955238563699
+lung,Epithelial cell,BLK,1.009901,0.4195223260643821
+skin,Fibroblast,BLK,1.0,0.3780718336483932
+prostate,Immune (myeloid),BLK,1.6666666,0.2918287937743191
+prostate,Muscle,BLK,1.0,0.2674988854213107
+skeletalmuscle,Endothelial cell,BLK,1.0,0.2253944402704733
+esophagusmucosa,Stromal,BLK,1.5,0.2022244691607684
+prostate,Endothelial cell,BLK,1.4,0.1769285208775654
+prostate,Fibroblast,BLK,1.0,0.1751313485113835
+lung,Endothelial cell,BLK,1.0,0.1456664238892935
+skeletalmuscle,Immune (myeloid),BLK,1.0,0.1356852103120759
+heart,Muscle,BLK,1.0,0.1243368700265251
+skeletalmuscle,Fibroblast,BLK,1.0,0.1177658142664872
+esophagusmuscularis,Muscle,BLK,1.0,0.1143318313269217
+breast,Adipocyte,BLK,1.0,0.1135718341851221
+esophagusmucosa,Endothelial cell,BLK,1.2,0.1068832834544677
+esophagusmuscularis,Glia,BLK,1.0,0.1030927835051546
+esophagusmuscularis,Immune (myeloid),BLK,1.0,0.1012487343908201
+heart,Endothelial cell,BLK,1.0,0.091683038637852
+prostate,Epithelial cell,BLK,1.1428572,0.0910154726303471
+esophagusmuscularis,Endothelial cell,BLK,1.0,0.0896659941717103
+esophagusmucosa,Epithelial cell,BLK,1.3333334,0.0869817338358944
+heart,Immune (myeloid),BLK,1.0,0.0781372089388967
+esophagusmuscularis,Fibroblast,BLK,1.0,0.0768565664328946
+heart,Fibroblast,BLK,1.0,0.0753741789598363
+skeletalmuscle,Muscle,BLK,1.0,0.0753178857826414
+breast,Epithelial cell,BLK,1.0,0.0689774098982583
+skin,Epithelial cell (keratinocyte),BLK,1.0,0.0513610683102208
+esophagusmucosa,Fibroblast,BLK,1.0,0.0355239786856127
+breast,Endothelial cell,BLK,0.0,0.0
+esophagusmucosa,Muscle,BLK,0.0,0.0
+esophagusmuscularis,Adipocyte,BLK,0.0,0.0
+breast,Fibroblast,BLK,0.0,0.0
+breast,Muscle,BLK,0.0,0.0
+esophagusmucosa,Glia,BLK,0.0,0.0
+heart,Glia,BLK,0.0,0.0
+heart,Adipocyte,BLK,0.0,0.0
+esophagusmuscularis,Neuron,BLK,0.0,0.0
+lung,Muscle,BLK,0.0,0.0
+skeletalmuscle,Adipocyte,BLK,0.0,0.0
+prostate,Glia,BLK,0.0,0.0
+lung,Fibroblast,BLK,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),BLK,0.0,0.0
+skin,Endothelial cell,BLK,0.0,0.0
+skin,Adipocyte,BLK,0.0,0.0
+skin,Epithelial cell,BLK,0.0,0.0
+skin,Immune (lymphocyte),BLK,0.0,0.0
+skin,Immune (myeloid),BLK,0.0,0.0
+skin,Melanocyte,BLK,0.0,0.0
+skin,Muscle,BLK,0.0,0.0
+skin,Other,BLK,0.0,0.0

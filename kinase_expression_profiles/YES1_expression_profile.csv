@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (NK cell),YES1,0.6844214
+Endothelial cell (lymphatic),YES1,0.6097278
+Endothelial cell (vascular),YES1,0.5248914
+Epithelial cell (suprabasal),YES1,0.33220842
+ICCs,YES1,0.33089992
+Epithelial cell (basal),YES1,0.3144931
+Mucous cell,YES1,0.31148157
+Epithelial cell (club),YES1,0.3070162
+Epithelial cell (Hillock),YES1,0.3069471
+Myocyte (cardiac),YES1,0.30535942
+Epithelial cell (alveolar type II),YES1,0.2966432
+Epithelial cell (luminal),YES1,0.27630618
+Sweat gland cell,YES1,0.25235257
+Epithelial cell (alveolar type I),YES1,0.24917799
+Myocyte (smooth muscle),YES1,0.23829962
+Sebaceous gland cell,YES1,0.2342573
+Myofibroblast,YES1,0.22784124
+Epithelial cell (ciliated),YES1,0.22034791
+Immune (mast cell),YES1,0.2038955
+Epithelial cell (basal keratinocyte),YES1,0.2000925
+Fibroblast,YES1,0.19389513
+Neuroendocrine,YES1,0.18899322
+Satellite cell,YES1,0.17587006
+Epithelial cell (squamous),YES1,0.174072
+Immune (alveolar macrophage),YES1,0.1636308
+Myoepithelial (basal),YES1,0.16315673
+"Myocyte (cardiac, cytoplasmic)",YES1,0.15913916
+Myocyte (NMJ-rich),YES1,0.15622059
+Schwann cell,YES1,0.15393543
+Pericyte/SMC,YES1,0.15223238
+Adipocyte,YES1,0.14794722
+Immune (T cell),YES1,0.14318077
+Myocyte (sk. muscle),YES1,0.14115293
+Melanocyte,YES1,0.12856345
+Epithelial cell (suprabasal keratinocyte),YES1,0.12175798
+"Myocyte (sk. muscle, cytoplasmic)",YES1,0.1056261
+Immune (DC/macrophage),YES1,0.06406958
+Epithelial cell (cornified keratinocyte),YES1,0.058665607
+Epithelial cell (mature keratinocyte),YES1,0.040735863
+Immune (DC),YES1,0.03755265
+Immune (B cell),YES1,0.0
+Immune (Langerhans),YES1,0.0
+Neuronal,YES1,0.0

@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skeletalmuscle,Muscle,SBK3,1.0,0.1772185547826857
+heart,Muscle,SBK3,1.0,0.1409151193633952
+breast,Epithelial cell,SBK3,1.0,0.0172443524745645
+lung,Immune (myeloid),SBK3,1.0,0.0163961305131988
+heart,Endothelial cell,SBK3,1.0,0.0130975769482645
+lung,Epithelial cell,SBK3,1.0,0.0124610591900311
+esophagusmuscularis,Muscle,SBK3,1.0,0.0067254018427601
+breast,Fibroblast,SBK3,0.0,0.0
+breast,Immune (myeloid),SBK3,0.0,0.0
+breast,Muscle,SBK3,0.0,0.0
+esophagusmucosa,Endothelial cell,SBK3,0.0,0.0
+esophagusmucosa,Immune (lymphocyte),SBK3,0.0,0.0
+esophagusmucosa,Glia,SBK3,0.0,0.0
+esophagusmucosa,Immune (myeloid),SBK3,0.0,0.0
+esophagusmucosa,Muscle,SBK3,0.0,0.0
+esophagusmuscularis,Endothelial cell,SBK3,0.0,0.0
+esophagusmuscularis,Fibroblast,SBK3,0.0,0.0
+esophagusmucosa,Stromal,SBK3,0.0,0.0
+esophagusmuscularis,Adipocyte,SBK3,0.0,0.0
+esophagusmuscularis,Immune (lymphocyte),SBK3,0.0,0.0
+esophagusmuscularis,Glia,SBK3,0.0,0.0
+esophagusmuscularis,Neuron,SBK3,0.0,0.0
+esophagusmuscularis,Immune (myeloid),SBK3,0.0,0.0
+esophagusmucosa,Epithelial cell,SBK3,0.0,0.0
+esophagusmucosa,Fibroblast,SBK3,0.0,0.0
+breast,Adipocyte,SBK3,0.0,0.0
+breast,Endothelial cell,SBK3,0.0,0.0
+heart,Immune (lymphocyte),SBK3,0.0,0.0
+heart,Glia,SBK3,0.0,0.0
+heart,Fibroblast,SBK3,0.0,0.0
+heart,Adipocyte,SBK3,0.0,0.0
+lung,Endothelial cell,SBK3,0.0,0.0
+lung,Fibroblast,SBK3,0.0,0.0
+lung,Immune (lymphocyte),SBK3,0.0,0.0
+heart,Immune (myeloid),SBK3,0.0,0.0
+prostate,Endothelial cell,SBK3,0.0,0.0
+prostate,Epithelial cell,SBK3,0.0,0.0
+prostate,Fibroblast,SBK3,0.0,0.0
+prostate,Glia,SBK3,0.0,0.0
+prostate,Immune (lymphocyte),SBK3,0.0,0.0
+prostate,Immune (myeloid),SBK3,0.0,0.0
+prostate,Muscle,SBK3,0.0,0.0
+lung,Muscle,SBK3,0.0,0.0
+skeletalmuscle,Adipocyte,SBK3,0.0,0.0
+skeletalmuscle,Endothelial cell,SBK3,0.0,0.0
+skeletalmuscle,Glia,SBK3,0.0,0.0
+skeletalmuscle,Fibroblast,SBK3,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),SBK3,0.0,0.0
+skeletalmuscle,Immune (myeloid),SBK3,0.0,0.0
+skin,Adipocyte,SBK3,0.0,0.0
+skin,Endothelial cell,SBK3,0.0,0.0
+skin,Epithelial cell,SBK3,0.0,0.0
+skin,Epithelial cell (keratinocyte),SBK3,0.0,0.0
+skin,Fibroblast,SBK3,0.0,0.0
+skin,Immune (lymphocyte),SBK3,0.0,0.0
+skin,Immune (myeloid),SBK3,0.0,0.0
+skin,Melanocyte,SBK3,0.0,0.0
+skin,Muscle,SBK3,0.0,0.0
+skin,Other,SBK3,0.0,0.0

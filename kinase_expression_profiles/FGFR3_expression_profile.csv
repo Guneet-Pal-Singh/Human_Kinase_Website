@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (mature keratinocyte),FGFR3,1.2666882
+Epithelial cell (suprabasal keratinocyte),FGFR3,1.1934011
+Epithelial cell (suprabasal),FGFR3,1.1207381
+Epithelial cell (basal keratinocyte),FGFR3,1.0965691
+Epithelial cell (cornified keratinocyte),FGFR3,0.73552793
+Epithelial cell (squamous),FGFR3,0.5909865
+Epithelial cell (basal),FGFR3,0.49466592
+Epithelial cell (Hillock),FGFR3,0.4593093
+Myofibroblast,FGFR3,0.3393909
+Mucous cell,FGFR3,0.2216349
+Epithelial cell (alveolar type II),FGFR3,0.084989674
+Immune (DC),FGFR3,0.064884834
+Immune (Langerhans),FGFR3,0.05716446
+Neuroendocrine,FGFR3,0.0463277
+Sebaceous gland cell,FGFR3,0.0418705
+Epithelial cell (club),FGFR3,0.040696573
+Endothelial cell (vascular),FGFR3,0.036319524
+Sweat gland cell,FGFR3,0.024897518
+Epithelial cell (ciliated),FGFR3,0.019738667
+Epithelial cell (luminal),FGFR3,0.018880345
+Melanocyte,FGFR3,0.017218417
+Endothelial cell (lymphatic),FGFR3,0.015884263
+Epithelial cell (alveolar type I),FGFR3,0.01283064
+Immune (mast cell),FGFR3,0.0121680815
+Pericyte/SMC,FGFR3,0.0118076885
+Immune (T cell),FGFR3,0.0087789195
+Immune (B cell),FGFR3,0.008208211
+Schwann cell,FGFR3,0.005776154
+Immune (DC/macrophage),FGFR3,0.004731044
+Fibroblast,FGFR3,0.0044846935
+Immune (alveolar macrophage),FGFR3,0.0042196093
+Myoepithelial (basal),FGFR3,0.0041973162
+"Myocyte (cardiac, cytoplasmic)",FGFR3,0.0030578761
+Adipocyte,FGFR3,0.0019630496
+Myocyte (smooth muscle),FGFR3,0.0018620578
+Myocyte (cardiac),FGFR3,0.00032535446
+Myocyte (sk. muscle),FGFR3,0.000115739684
+Immune (NK cell),FGFR3,0.0
+ICCs,FGFR3,0.0
+"Myocyte (sk. muscle, cytoplasmic)",FGFR3,0.0
+Myocyte (NMJ-rich),FGFR3,0.0
+Neuronal,FGFR3,0.0
+Satellite cell,FGFR3,0.0

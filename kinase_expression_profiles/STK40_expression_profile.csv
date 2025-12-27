@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (squamous),STK40,0.63510054
+Epithelial cell (mature keratinocyte),STK40,0.59310454
+Epithelial cell (suprabasal),STK40,0.46131057
+Myocyte (NMJ-rich),STK40,0.41659704
+Epithelial cell (cornified keratinocyte),STK40,0.39496663
+Immune (alveolar macrophage),STK40,0.33128327
+Mucous cell,STK40,0.3225094
+Myocyte (sk. muscle),STK40,0.31788066
+Immune (Langerhans),STK40,0.30751157
+"Myocyte (sk. muscle, cytoplasmic)",STK40,0.2806476
+Neuronal,STK40,0.2762234
+Myocyte (smooth muscle),STK40,0.27477908
+Immune (NK cell),STK40,0.273153
+Sweat gland cell,STK40,0.25374335
+Myofibroblast,STK40,0.2495572
+Epithelial cell (ciliated),STK40,0.23639339
+Immune (B cell),STK40,0.23582873
+Epithelial cell (Hillock),STK40,0.23093955
+Epithelial cell (luminal),STK40,0.22829849
+Myocyte (cardiac),STK40,0.22794169
+Adipocyte,STK40,0.22666384
+Epithelial cell (suprabasal keratinocyte),STK40,0.22097015
+Epithelial cell (alveolar type II),STK40,0.22093387
+Immune (DC/macrophage),STK40,0.20881706
+"Myocyte (cardiac, cytoplasmic)",STK40,0.20728785
+Epithelial cell (club),STK40,0.19933671
+Immune (T cell),STK40,0.19711033
+Epithelial cell (alveolar type I),STK40,0.19375183
+Epithelial cell (basal),STK40,0.18017793
+Immune (mast cell),STK40,0.17282271
+ICCs,STK40,0.17280121
+Endothelial cell (lymphatic),STK40,0.16969903
+Melanocyte,STK40,0.16407093
+Endothelial cell (vascular),STK40,0.15983501
+Sebaceous gland cell,STK40,0.15661655
+Neuroendocrine,STK40,0.1555355
+Fibroblast,STK40,0.14740944
+Pericyte/SMC,STK40,0.13679653
+Schwann cell,STK40,0.13058612
+Epithelial cell (basal keratinocyte),STK40,0.10222692
+Satellite cell,STK40,0.09655721
+Myoepithelial (basal),STK40,0.090735614
+Immune (DC),STK40,0.072415106

@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+heart,Muscle,CDK8,1.4552975,26.052718832891248
+esophagusmuscularis,Neuron,CDK8,1.6666666,24.0
+esophagusmucosa,Stromal,CDK8,1.2406417,18.90798786653185
+heart,Fibroblast,CDK8,1.3167808,18.86508021966189
+prostate,Muscle,CDK8,1.4258373,18.63575568435132
+esophagusmuscularis,Muscle,CDK8,1.486852,17.9030197054274
+esophagusmuscularis,Adipocyte,CDK8,1.0645162,17.71428571428571
+heart,Adipocyte,CDK8,1.2941177,17.616580310880828
+prostate,Epithelial cell,CDK8,1.2946708,16.59082043947471
+prostate,Immune (myeloid),CDK8,1.173913,15.66147859922179
+lung,Immune (myeloid),CDK8,1.2094017,15.346778160354155
+lung,Epithelial cell,CDK8,1.1774193,14.679127725856697
+prostate,Fibroblast,CDK8,1.1986755,13.222416812609458
+esophagusmucosa,Epithelial cell,CDK8,1.200225,12.887793563351696
+esophagusmucosa,Immune (myeloid),CDK8,1.1833333,12.875536480686694
+prostate,Endothelial cell,CDK8,1.1657304,12.59731068648266
+skeletalmuscle,Fibroblast,CDK8,1.2105979,12.382234185733513
+skeletalmuscle,Muscle,CDK8,1.1548991,12.298967701918391
+esophagusmucosa,Muscle,CDK8,1.1403508,11.377245508982035
+lung,Fibroblast,CDK8,1.1686747,11.24661246612466
+skin,Immune (myeloid),CDK8,1.1,11.1731843575419
+heart,Immune (myeloid),CDK8,1.1283498,11.079856227535553
+esophagusmucosa,Glia,CDK8,1.1428572,10.76923076923077
+esophagusmucosa,Endothelial cell,CDK8,1.1312127,10.752458315519451
+skeletalmuscle,Adipocyte,CDK8,1.0,10.062893081761008
+heart,Immune (lymphocyte),CDK8,1.1014493,9.88538681948424
+lung,Muscle,CDK8,1.0625,9.8159509202454
+lung,Immune (lymphocyte),CDK8,1.1617647,9.379310344827587
+skeletalmuscle,Immune (myeloid),CDK8,1.0724638,9.362279511533243
+esophagusmucosa,Immune (lymphocyte),CDK8,1.1352941,9.350935093509351
+breast,Immune (myeloid),CDK8,1.1212121,9.217877094972067
+skeletalmuscle,Immune (lymphocyte),CDK8,1.3333334,9.0
+esophagusmucosa,Fibroblast,CDK8,1.083004,8.987566607460035
+esophagusmuscularis,Immune (myeloid),CDK8,1.1466166,8.977387782652716
+heart,Endothelial cell,CDK8,1.1304985,8.932547478716439
+breast,Adipocyte,CDK8,1.1538461,8.858603066439523
+esophagusmuscularis,Immune (lymphocyte),CDK8,1.0384616,8.637873754152823
+esophagusmuscularis,Endothelial cell,CDK8,1.1697128,8.585518941941269
+breast,Epithelial cell,CDK8,1.1193416,8.380755302638386
+skeletalmuscle,Endothelial cell,CDK8,1.1904762,7.888805409466566
+prostate,Immune (lymphocyte),CDK8,1.1923077,7.624633431085044
+lung,Endothelial cell,CDK8,1.1586539,7.574654042243263
+esophagusmuscularis,Glia,CDK8,1.2222222,7.422680412371134
+esophagusmuscularis,Fibroblast,CDK8,1.0971129,7.320587952733211
+skin,Endothelial cell,CDK8,1.2027028,7.233626588465299
+breast,Endothelial cell,CDK8,1.1111112,7.150964812712826
+skin,Epithelial cell,CDK8,1.1351352,6.146179401993355
+skin,Muscle,CDK8,1.0,5.913978494623656
+skin,Melanocyte,CDK8,1.125,5.88235294117647
+skeletalmuscle,Glia,CDK8,1.0,5.714285714285714
+breast,Fibroblast,CDK8,1.1590909,5.372405372405373
+breast,Muscle,CDK8,1.5,5.263157894736842
+skin,Epithelial cell (keratinocyte),CDK8,1.0869565,4.725218284540318
+heart,Glia,CDK8,1.0,4.697986577181208
+skin,Immune (lymphocyte),CDK8,1.3333334,4.0
+skin,Adipocyte,CDK8,1.0,3.225806451612903
+skin,Other,CDK8,1.0714285,3.0973451327433628
+skin,Fibroblast,CDK8,1.125,3.0245746691871456
+prostate,Glia,CDK8,1.0,2.985074626865672

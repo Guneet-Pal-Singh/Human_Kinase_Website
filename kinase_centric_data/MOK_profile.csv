@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Adipocyte,MOK,1.12,14.285714285714285
+breast,Epithelial cell,MOK,1.1211072,9.967235730298327
+heart,Muscle,MOK,1.1765783,9.06001326259947
+esophagusmuscularis,Neuron,MOK,1.0,8.0
+skin,Melanocyte,MOK,1.0,7.720588235294118
+lung,Epithelial cell,MOK,1.2070844,7.622014537902388
+breast,Muscle,MOK,1.1,6.578947368421052
+esophagusmucosa,Stromal,MOK,1.0377358,5.358948432760364
+breast,Adipocyte,MOK,1.0860215,5.281090289608177
+skin,Epithelial cell,MOK,1.1290323,5.149501661129568
+skin,Adipocyte,MOK,1.0,4.838709677419355
+heart,Fibroblast,MOK,1.0859189,4.511682997738775
+prostate,Epithelial cell,MOK,1.0760347,4.503098860139557
+prostate,Fibroblast,MOK,1.137255,4.46584938704028
+lung,Fibroblast,MOK,1.0967742,4.200542005420054
+heart,Adipocyte,MOK,1.0,4.145077720207254
+esophagusmucosa,Epithelial cell,MOK,1.0657895,3.856190200057988
+esophagusmucosa,Muscle,MOK,1.1578947,3.792415169660679
+skin,Fibroblast,MOK,1.05,3.780718336483932
+prostate,Muscle,MOK,1.1190476,3.744984395898351
+lung,Muscle,MOK,1.0,3.6809815950920246
+esophagusmuscularis,Fibroblast,MOK,1.0529101,3.63147276395427
+skeletalmuscle,Fibroblast,MOK,1.0339806,3.4656796769851947
+lung,Immune (myeloid),MOK,1.0507615,3.2300377111001803
+breast,Fibroblast,MOK,1.0769231,3.1746031746031744
+skeletalmuscle,Adipocyte,MOK,1.2,3.1446540880503147
+breast,Immune (myeloid),MOK,1.0,3.072625698324022
+prostate,Glia,MOK,1.0,2.985074626865672
+skeletalmuscle,Glia,MOK,1.0,2.857142857142857
+esophagusmucosa,Fibroblast,MOK,1.0,2.770870337477797
+esophagusmuscularis,Glia,MOK,1.0,2.6804123711340204
+skin,Immune (lymphocyte),MOK,1.0,2.666666666666667
+esophagusmuscularis,Muscle,MOK,1.0206186,2.6094559149909204
+skin,Immune (myeloid),MOK,1.0,2.23463687150838
+lung,Endothelial cell,MOK,1.0491803,2.221412964311726
+skin,Other,MOK,1.0,2.2123893805309733
+skin,Epithelial cell (keratinocyte),MOK,1.0,2.2085259373394965
+esophagusmuscularis,Endothelial cell,MOK,1.031915,2.107150863035194
+breast,Endothelial cell,MOK,1.2222222,2.0431328036322363
+skeletalmuscle,Immune (lymphocyte),MOK,1.0,2.0
+skeletalmuscle,Muscle,MOK,1.0115207,1.9228213193921404
+prostate,Endothelial cell,MOK,1.018868,1.875442321302194
+heart,Endothelial cell,MOK,1.0070423,1.859855926653569
+heart,Glia,MOK,1.0,1.6778523489932886
+skin,Endothelial cell,MOK,1.0,1.6617790811339197
+skeletalmuscle,Endothelial cell,MOK,1.0,1.6528925619834711
+esophagusmucosa,Endothelial cell,MOK,1.0519481,1.6460025651988028
+skin,Muscle,MOK,1.0,1.6129032258064515
+esophagusmuscularis,Immune (lymphocyte),MOK,1.0,1.32890365448505
+skeletalmuscle,Immune (myeloid),MOK,1.0,1.2211668928086838
+esophagusmuscularis,Immune (myeloid),MOK,1.0,1.181235234559568
+prostate,Immune (lymphocyte),MOK,1.0,1.0263929618768328
+heart,Immune (myeloid),MOK,1.0,0.7501172058134083
+esophagusmucosa,Immune (myeloid),MOK,1.0,0.7153075822603719
+lung,Immune (lymphocyte),MOK,1.0,0.6896551724137931
+prostate,Immune (myeloid),MOK,1.1428572,0.6809338521400778
+heart,Immune (lymphocyte),MOK,1.0,0.4297994269340974
+esophagusmucosa,Immune (lymphocyte),MOK,1.0,0.33003300330033
+esophagusmucosa,Glia,MOK,0.0,0.0

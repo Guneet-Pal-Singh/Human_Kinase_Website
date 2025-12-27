@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Neuroendocrine,INSRR,0.12863047
+Fibroblast,INSRR,0.07674858
+Pericyte/SMC,INSRR,0.021750787
+Myocyte (cardiac),INSRR,0.021632535
+Immune (alveolar macrophage),INSRR,0.020338072
+Immune (mast cell),INSRR,0.017270928
+ICCs,INSRR,0.012363675
+Epithelial cell (alveolar type I),INSRR,0.009782839
+Epithelial cell (alveolar type II),INSRR,0.008369975
+Immune (NK cell),INSRR,0.00817076
+Myocyte (smooth muscle),INSRR,0.006735603
+Myocyte (sk. muscle),INSRR,0.0065969396
+Epithelial cell (Hillock),INSRR,0.0062509067
+Epithelial cell (ciliated),INSRR,0.005729903
+"Myocyte (cardiac, cytoplasmic)",INSRR,0.0052738283
+Immune (T cell),INSRR,0.004258363
+Myoepithelial (basal),INSRR,0.0042273253
+Endothelial cell (vascular),INSRR,0.0034506575
+Endothelial cell (lymphatic),INSRR,0.0032360053
+Epithelial cell (luminal),INSRR,0.0027817157
+Immune (DC/macrophage),INSRR,0.0025801829
+Schwann cell,INSRR,0.0023405042
+Epithelial cell (basal),INSRR,0.002145092
+Adipocyte,INSRR,0.0016134985
+Epithelial cell (suprabasal),INSRR,0.001566599
+Epithelial cell (club),INSRR,0.0009292669
+Epithelial cell (basal keratinocyte),INSRR,0.0
+Epithelial cell (cornified keratinocyte),INSRR,0.0
+Melanocyte,INSRR,0.0
+Immune (DC),INSRR,0.0
+Immune (Langerhans),INSRR,0.0
+Epithelial cell (suprabasal keratinocyte),INSRR,0.0
+Epithelial cell (squamous),INSRR,0.0
+Epithelial cell (mature keratinocyte),INSRR,0.0
+Immune (B cell),INSRR,0.0
+"Myocyte (sk. muscle, cytoplasmic)",INSRR,0.0
+Mucous cell,INSRR,0.0
+Myocyte (NMJ-rich),INSRR,0.0
+Myofibroblast,INSRR,0.0
+Neuronal,INSRR,0.0
+Satellite cell,INSRR,0.0
+Sebaceous gland cell,INSRR,0.0
+Sweat gland cell,INSRR,0.0

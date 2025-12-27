@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (NK cell),MAPK1,1.0246456
+Immune (Langerhans),MAPK1,0.74225825
+Neuronal,MAPK1,0.7238513
+Immune (alveolar macrophage),MAPK1,0.6665569
+Immune (T cell),MAPK1,0.6167826
+Myocyte (cardiac),MAPK1,0.610058
+Myofibroblast,MAPK1,0.5945736
+Immune (DC),MAPK1,0.58579123
+Immune (mast cell),MAPK1,0.56041026
+Epithelial cell (alveolar type II),MAPK1,0.55023026
+Epithelial cell (mature keratinocyte),MAPK1,0.5346964
+Epithelial cell (suprabasal),MAPK1,0.5276691
+Immune (DC/macrophage),MAPK1,0.50383353
+Epithelial cell (alveolar type I),MAPK1,0.5012745
+Myocyte (NMJ-rich),MAPK1,0.4922501
+Mucous cell,MAPK1,0.4818095
+ICCs,MAPK1,0.48014158
+Schwann cell,MAPK1,0.46369734
+Endothelial cell (lymphatic),MAPK1,0.4442224
+Epithelial cell (cornified keratinocyte),MAPK1,0.44340536
+Epithelial cell (squamous),MAPK1,0.43626
+Myocyte (smooth muscle),MAPK1,0.42503327
+Immune (B cell),MAPK1,0.41459724
+Epithelial cell (ciliated),MAPK1,0.40353093
+Epithelial cell (suprabasal keratinocyte),MAPK1,0.40052927
+Epithelial cell (Hillock),MAPK1,0.38637474
+Neuroendocrine,MAPK1,0.3846918
+Melanocyte,MAPK1,0.38016564
+Epithelial cell (basal),MAPK1,0.3727746
+Epithelial cell (club),MAPK1,0.3707305
+Endothelial cell (vascular),MAPK1,0.36223656
+Pericyte/SMC,MAPK1,0.36186132
+Fibroblast,MAPK1,0.3606889
+Adipocyte,MAPK1,0.33601847
+Myocyte (sk. muscle),MAPK1,0.3320483
+"Myocyte (cardiac, cytoplasmic)",MAPK1,0.3316955
+Epithelial cell (basal keratinocyte),MAPK1,0.32807785
+Epithelial cell (luminal),MAPK1,0.30691028
+Myoepithelial (basal),MAPK1,0.29449117
+"Myocyte (sk. muscle, cytoplasmic)",MAPK1,0.27213794
+Satellite cell,MAPK1,0.20850587
+Sebaceous gland cell,MAPK1,0.18262774
+Sweat gland cell,MAPK1,0.1613389

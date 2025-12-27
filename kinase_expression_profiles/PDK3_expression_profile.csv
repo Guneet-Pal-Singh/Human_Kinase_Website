@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Sweat gland cell,PDK3,0.8879048
+Epithelial cell (club),PDK3,0.4756869
+Pericyte/SMC,PDK3,0.4349817
+Immune (NK cell),PDK3,0.35761255
+Immune (alveolar macrophage),PDK3,0.34978864
+Myocyte (smooth muscle),PDK3,0.3200422
+Immune (DC/macrophage),PDK3,0.3154752
+Epithelial cell (luminal),PDK3,0.31329283
+Fibroblast,PDK3,0.30969378
+Immune (B cell),PDK3,0.28717282
+Myofibroblast,PDK3,0.28258577
+Epithelial cell (basal),PDK3,0.28122228
+Epithelial cell (Hillock),PDK3,0.27539676
+Epithelial cell (alveolar type II),PDK3,0.2733615
+Myocyte (cardiac),PDK3,0.27276704
+Immune (Langerhans),PDK3,0.26579413
+Melanocyte,PDK3,0.24216564
+Neuronal,PDK3,0.24188267
+Neuroendocrine,PDK3,0.23835227
+Immune (T cell),PDK3,0.22630501
+Immune (mast cell),PDK3,0.21490589
+Schwann cell,PDK3,0.21282926
+ICCs,PDK3,0.21137473
+Satellite cell,PDK3,0.19143128
+Epithelial cell (cornified keratinocyte),PDK3,0.18068725
+Epithelial cell (basal keratinocyte),PDK3,0.18013118
+Mucous cell,PDK3,0.17751352
+Immune (DC),PDK3,0.17672041
+Epithelial cell (alveolar type I),PDK3,0.17426313
+Epithelial cell (suprabasal),PDK3,0.16867502
+Epithelial cell (ciliated),PDK3,0.16646807
+Endothelial cell (vascular),PDK3,0.15828454
+Epithelial cell (suprabasal keratinocyte),PDK3,0.15592733
+Myoepithelial (basal),PDK3,0.13890375
+Epithelial cell (mature keratinocyte),PDK3,0.106722035
+Sebaceous gland cell,PDK3,0.10642364
+Endothelial cell (lymphatic),PDK3,0.07911852
+Epithelial cell (squamous),PDK3,0.07505979
+Myocyte (sk. muscle),PDK3,0.055372804
+"Myocyte (cardiac, cytoplasmic)",PDK3,0.05353484
+Adipocyte,PDK3,0.041814532
+"Myocyte (sk. muscle, cytoplasmic)",PDK3,0.020394368
+Myocyte (NMJ-rich),PDK3,0.0

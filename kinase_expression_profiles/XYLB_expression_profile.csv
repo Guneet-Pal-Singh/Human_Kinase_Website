@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Sebaceous gland cell,XYLB,0.6045851
+Immune (Langerhans),XYLB,0.28034118
+Epithelial cell (basal),XYLB,0.18776162
+Neuronal,XYLB,0.1862855
+Epithelial cell (suprabasal),XYLB,0.16629659
+Satellite cell,XYLB,0.16099699
+Epithelial cell (Hillock),XYLB,0.15526018
+Mucous cell,XYLB,0.14192641
+Sweat gland cell,XYLB,0.13766707
+Myoepithelial (basal),XYLB,0.13699675
+Myofibroblast,XYLB,0.11960054
+Adipocyte,XYLB,0.11580538
+Fibroblast,XYLB,0.0997178
+Epithelial cell (luminal),XYLB,0.09970304
+Endothelial cell (lymphatic),XYLB,0.09957062
+Immune (alveolar macrophage),XYLB,0.09803578
+Epithelial cell (club),XYLB,0.09622036
+Immune (DC/macrophage),XYLB,0.08816355
+Immune (mast cell),XYLB,0.087363936
+ICCs,XYLB,0.08251941
+Epithelial cell (alveolar type II),XYLB,0.07830313
+Schwann cell,XYLB,0.056212343
+Myocyte (smooth muscle),XYLB,0.05480186
+Endothelial cell (vascular),XYLB,0.054551985
+Myocyte (sk. muscle),XYLB,0.050991982
+Epithelial cell (ciliated),XYLB,0.046705212
+Melanocyte,XYLB,0.044788312
+Myocyte (cardiac),XYLB,0.043535326
+Immune (T cell),XYLB,0.041105986
+Immune (NK cell),XYLB,0.0395923
+Immune (B cell),XYLB,0.039325725
+Pericyte/SMC,XYLB,0.038787402
+Epithelial cell (alveolar type I),XYLB,0.03795458
+Epithelial cell (squamous),XYLB,0.030026533
+Myocyte (NMJ-rich),XYLB,0.022521563
+Epithelial cell (basal keratinocyte),XYLB,0.021816516
+Immune (DC),XYLB,0.01864947
+Epithelial cell (suprabasal keratinocyte),XYLB,0.016033433
+Epithelial cell (mature keratinocyte),XYLB,0.0135789355
+"Myocyte (sk. muscle, cytoplasmic)",XYLB,0.010603397
+"Myocyte (cardiac, cytoplasmic)",XYLB,0.008800116
+Epithelial cell (cornified keratinocyte),XYLB,0.0
+Neuroendocrine,XYLB,0.0

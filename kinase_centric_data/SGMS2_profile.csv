@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+lung,Immune (myeloid),SGMS2,1.5212078,22.807017543859647
+lung,Epithelial cell,SGMS2,1.35967,19.13603322949117
+esophagusmuscularis,Muscle,SGMS2,1.3281928,13.955208823727215
+heart,Immune (myeloid),SGMS2,1.2193878,12.251914361619002
+heart,Muscle,SGMS2,1.1829011,11.828580901856764
+esophagusmuscularis,Immune (myeloid),SGMS2,1.2429906,10.833614579817752
+skeletalmuscle,Immune (myeloid),SGMS2,1.0821918,9.905020352781548
+esophagusmucosa,Stromal,SGMS2,1.1764706,8.59453993933266
+esophagusmuscularis,Neuron,SGMS2,1.0,8.0
+prostate,Glia,SGMS2,1.0,7.462686567164178
+skin,Immune (myeloid),SGMS2,1.0,6.70391061452514
+prostate,Epithelial cell,SGMS2,1.1546886,6.3320764529970095
+prostate,Muscle,SGMS2,1.1869918,5.48372715113687
+esophagusmucosa,Immune (myeloid),SGMS2,1.0675676,5.293276108726753
+prostate,Immune (myeloid),SGMS2,1.12,4.863813229571985
+esophagusmuscularis,Adipocyte,SGMS2,1.25,4.571428571428571
+esophagusmucosa,Epithelial cell,SGMS2,1.1001589,4.559292548564802
+esophagusmuscularis,Endothelial cell,SGMS2,1.335,4.483299708585519
+esophagusmucosa,Fibroblast,SGMS2,1.09,3.5523978685612785
+heart,Fibroblast,SGMS2,1.0802469,3.488747711855281
+prostate,Fibroblast,SGMS2,1.1025641,3.4150612959719786
+breast,Immune (myeloid),SGMS2,1.1,2.793296089385475
+esophagusmuscularis,Glia,SGMS2,1.1923077,2.6804123711340204
+breast,Fibroblast,SGMS2,1.2857143,2.564102564102564
+skeletalmuscle,Adipocyte,SGMS2,1.0,2.515723270440252
+skin,Endothelial cell,SGMS2,1.0869565,2.248289345063539
+esophagusmucosa,Muscle,SGMS2,1.0,1.996007984031936
+skeletalmuscle,Muscle,SGMS2,1.0672854,1.909529927783439
+heart,Glia,SGMS2,1.0,1.6778523489932886
+esophagusmucosa,Endothelial cell,SGMS2,1.0657895,1.6246259085079091
+esophagusmuscularis,Fibroblast,SGMS2,1.0946746,1.6235949658948985
+skin,Adipocyte,SGMS2,1.0,1.6129032258064515
+heart,Adipocyte,SGMS2,1.0,1.5544041450777202
+esophagusmucosa,Glia,SGMS2,1.0,1.5384615384615383
+breast,Epithelial cell,SGMS2,1.1071428,1.4485256078634248
+breast,Adipocyte,SGMS2,1.0,1.419647927314026
+breast,Muscle,SGMS2,1.0,1.3157894736842104
+heart,Endothelial cell,SGMS2,1.043956,1.191879502292076
+breast,Endothelial cell,SGMS2,1.0,1.135073779795687
+skin,Epithelial cell (keratinocyte),SGMS2,1.0,1.078582434514638
+lung,Fibroblast,SGMS2,1.0,1.016260162601626
+skin,Epithelial cell,SGMS2,1.1666666,0.9966777408637874
+prostate,Endothelial cell,SGMS2,1.1428572,0.9907997169143666
+skeletalmuscle,Fibroblast,SGMS2,1.0217391,0.7738896366083445
+skeletalmuscle,Endothelial cell,SGMS2,1.1,0.7513148009015778
+esophagusmuscularis,Immune (lymphocyte),SGMS2,1.0,0.6644518272425249
+lung,Muscle,SGMS2,2.0,0.6134969325153374
+skin,Other,SGMS2,1.0,0.4424778761061947
+heart,Immune (lymphocyte),SGMS2,1.3333334,0.4297994269340974
+lung,Immune (lymphocyte),SGMS2,1.0,0.4137931034482758
+skin,Fibroblast,SGMS2,1.5,0.3780718336483932
+skin,Melanocyte,SGMS2,1.0,0.3676470588235294
+esophagusmucosa,Immune (lymphocyte),SGMS2,1.0,0.33003300330033
+lung,Endothelial cell,SGMS2,1.2,0.1820830298616169
+prostate,Immune (lymphocyte),SGMS2,0.0,0.0
+skeletalmuscle,Glia,SGMS2,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),SGMS2,0.0,0.0
+skin,Immune (lymphocyte),SGMS2,0.0,0.0
+skin,Muscle,SGMS2,0.0,0.0

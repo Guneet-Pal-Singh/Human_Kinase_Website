@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Neuron,BAZ1B,1.0,24.0
+esophagusmucosa,Stromal,BAZ1B,1.1812866,17.290192113245702
+esophagusmuscularis,Adipocyte,BAZ1B,1.137931,16.57142857142857
+skin,Adipocyte,BAZ1B,1.2222222,14.516129032258066
+lung,Muscle,BAZ1B,1.0434783,14.11042944785276
+heart,Muscle,BAZ1B,1.179396,14.000331564986736
+lung,Immune (myeloid),BAZ1B,1.1314217,13.723561239547466
+lung,Epithelial cell,BAZ1B,1.1088957,13.541017653167186
+heart,Adipocyte,BAZ1B,1.1538461,13.471502590673577
+breast,Immune (myeloid),BAZ1B,1.1458334,13.40782122905028
+prostate,Muscle,BAZ1B,1.1595745,12.572447614801604
+breast,Adipocyte,BAZ1B,1.1181818,12.49290176036343
+esophagusmucosa,Epithelial cell,BAZ1B,1.1538908,12.481878805450854
+prostate,Epithelial cell,BAZ1B,1.1530315,11.866684002947167
+esophagusmucosa,Immune (lymphocyte),BAZ1B,1.1188118,11.11111111111111
+esophagusmucosa,Muscle,BAZ1B,1.0727273,10.978043912175648
+skin,Muscle,BAZ1B,1.05,10.75268817204301
+prostate,Fibroblast,BAZ1B,1.1092438,10.42031523642732
+esophagusmucosa,Immune (myeloid),BAZ1B,1.0492958,10.15736766809728
+prostate,Endothelial cell,BAZ1B,1.0947368,10.084925690021231
+prostate,Immune (myeloid),BAZ1B,1.1359223,10.019455252918288
+esophagusmucosa,Endothelial cell,BAZ1B,1.0949228,9.683625480974776
+breast,Endothelial cell,BAZ1B,1.1666666,9.534619750283769
+esophagusmuscularis,Muscle,BAZ1B,1.1093638,9.408837178021386
+lung,Immune (lymphocyte),BAZ1B,1.03125,8.827586206896552
+breast,Fibroblast,BAZ1B,1.1388888,8.791208791208792
+breast,Epithelial cell,BAZ1B,1.1095618,8.65666494223142
+esophagusmuscularis,Immune (lymphocyte),BAZ1B,1.0384616,8.637873754152823
+lung,Fibroblast,BAZ1B,1.0806452,8.401084010840108
+prostate,Immune (lymphocyte),BAZ1B,1.0350877,8.357771260997067
+skeletalmuscle,Adipocyte,BAZ1B,1.0,8.176100628930817
+esophagusmucosa,Fibroblast,BAZ1B,1.1091703,8.13499111900533
+heart,Fibroblast,BAZ1B,1.0860215,8.01119844944546
+skeletalmuscle,Immune (lymphocyte),BAZ1B,1.0,8.0
+breast,Muscle,BAZ1B,1.25,7.894736842105263
+esophagusmuscularis,Endothelial cell,BAZ1B,1.060172,7.82335799148173
+skin,Endothelial cell,BAZ1B,1.0128205,7.624633431085044
+esophagusmuscularis,Fibroblast,BAZ1B,1.0729166,7.378230377557883
+skin,Immune (myeloid),BAZ1B,1.1538461,7.262569832402235
+skin,Epithelial cell,BAZ1B,1.0930233,7.142857142857142
+heart,Immune (myeloid),BAZ1B,1.0586908,6.922956711986247
+skeletalmuscle,Endothelial cell,BAZ1B,1.1318681,6.836964688204357
+skeletalmuscle,Fibroblast,BAZ1B,1.0592593,6.813593539703904
+heart,Endothelial cell,BAZ1B,1.0694981,6.784544859201048
+skin,Immune (lymphocyte),BAZ1B,1.0,6.666666666666667
+skin,Melanocyte,BAZ1B,1.1666666,6.61764705882353
+skin,Epithelial cell (keratinocyte),BAZ1B,1.1102362,6.522855675398048
+skeletalmuscle,Immune (myeloid),BAZ1B,1.0833334,6.512890094979647
+esophagusmuscularis,Immune (myeloid),BAZ1B,1.0638298,6.344920688491394
+heart,Immune (lymphocyte),BAZ1B,1.0454545,6.303724928366762
+skin,Fibroblast,BAZ1B,1.0625,6.049149338374291
+prostate,Glia,BAZ1B,1.25,5.970149253731343
+skeletalmuscle,Muscle,BAZ1B,1.0686567,5.936821585219972
+esophagusmuscularis,Glia,BAZ1B,1.0526316,5.876288659793814
+lung,Endothelial cell,BAZ1B,1.0691824,5.790240349599418
+skin,Other,BAZ1B,1.0416666,5.3097345132743365
+heart,Glia,BAZ1B,1.0714285,4.697986577181208
+esophagusmucosa,Glia,BAZ1B,1.0,3.076923076923077
+skeletalmuscle,Glia,BAZ1B,1.0,2.857142857142857

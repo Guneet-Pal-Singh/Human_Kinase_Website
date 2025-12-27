@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (alveolar macrophage),PRKCE,1.4707996
+Epithelial cell (ciliated),PRKCE,1.4071033
+Myoepithelial (basal),PRKCE,1.2490667
+Myocyte (NMJ-rich),PRKCE,1.23229
+Neuronal,PRKCE,1.1821473
+Myocyte (cardiac),PRKCE,1.1098853
+Myofibroblast,PRKCE,1.0159159
+Adipocyte,PRKCE,1.0042773
+Immune (B cell),PRKCE,0.964702
+Melanocyte,PRKCE,0.9471194
+Epithelial cell (alveolar type II),PRKCE,0.92667603
+Epithelial cell (suprabasal),PRKCE,0.92426324
+Myocyte (sk. muscle),PRKCE,0.9073218
+Sebaceous gland cell,PRKCE,0.8960774
+Epithelial cell (alveolar type I),PRKCE,0.8795183
+Epithelial cell (club),PRKCE,0.8701583
+Neuroendocrine,PRKCE,0.8645385
+Immune (DC/macrophage),PRKCE,0.82547534
+Endothelial cell (lymphatic),PRKCE,0.82238996
+Endothelial cell (vascular),PRKCE,0.8194054
+Immune (mast cell),PRKCE,0.79767793
+Schwann cell,PRKCE,0.7899157
+Epithelial cell (Hillock),PRKCE,0.78798175
+Epithelial cell (basal),PRKCE,0.77045965
+Myocyte (smooth muscle),PRKCE,0.76730716
+ICCs,PRKCE,0.7597387
+Mucous cell,PRKCE,0.65810686
+Epithelial cell (luminal),PRKCE,0.6257657
+Epithelial cell (squamous),PRKCE,0.60572636
+Fibroblast,PRKCE,0.56884474
+Pericyte/SMC,PRKCE,0.52208316
+Immune (DC),PRKCE,0.4695195
+Sweat gland cell,PRKCE,0.44837788
+Immune (T cell),PRKCE,0.4352459
+Immune (NK cell),PRKCE,0.40961158
+"Myocyte (sk. muscle, cytoplasmic)",PRKCE,0.39173064
+Satellite cell,PRKCE,0.30947843
+"Myocyte (cardiac, cytoplasmic)",PRKCE,0.25105485
+Epithelial cell (basal keratinocyte),PRKCE,0.1619868
+Epithelial cell (suprabasal keratinocyte),PRKCE,0.11873295
+Epithelial cell (mature keratinocyte),PRKCE,0.028196786
+Epithelial cell (cornified keratinocyte),PRKCE,0.0
+Immune (Langerhans),PRKCE,0.0

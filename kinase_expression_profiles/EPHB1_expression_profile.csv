@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Myocyte (cardiac),EPHB1,0.72476894
+Myoepithelial (basal),EPHB1,0.6494783
+Myocyte (NMJ-rich),EPHB1,0.5910365
+Epithelial cell (basal keratinocyte),EPHB1,0.5452726
+Melanocyte,EPHB1,0.5195511
+Neuroendocrine,EPHB1,0.3755482
+Myocyte (sk. muscle),EPHB1,0.346377
+Epithelial cell (cornified keratinocyte),EPHB1,0.2893946
+Neuronal,EPHB1,0.25924557
+Epithelial cell (mature keratinocyte),EPHB1,0.2536089
+Epithelial cell (suprabasal keratinocyte),EPHB1,0.18587886
+Sebaceous gland cell,EPHB1,0.17124033
+Adipocyte,EPHB1,0.16242883
+Satellite cell,EPHB1,0.14945672
+Immune (mast cell),EPHB1,0.13804363
+Endothelial cell (lymphatic),EPHB1,0.13786045
+Immune (alveolar macrophage),EPHB1,0.12813233
+Myofibroblast,EPHB1,0.10967031
+Epithelial cell (alveolar type I),EPHB1,0.108477876
+Epithelial cell (ciliated),EPHB1,0.10766838
+Myocyte (smooth muscle),EPHB1,0.10270381
+Epithelial cell (alveolar type II),EPHB1,0.09171639
+"Myocyte (sk. muscle, cytoplasmic)",EPHB1,0.088430636
+Fibroblast,EPHB1,0.08585996
+ICCs,EPHB1,0.080289915
+Pericyte/SMC,EPHB1,0.0790604
+Immune (Langerhans),EPHB1,0.07568952
+Epithelial cell (luminal),EPHB1,0.07126185
+"Myocyte (cardiac, cytoplasmic)",EPHB1,0.06675947
+Epithelial cell (Hillock),EPHB1,0.06612649
+Sweat gland cell,EPHB1,0.0626073
+Epithelial cell (basal),EPHB1,0.06047627
+Immune (B cell),EPHB1,0.05946247
+Epithelial cell (club),EPHB1,0.058318466
+Schwann cell,EPHB1,0.056766033
+Epithelial cell (suprabasal),EPHB1,0.0521292
+Endothelial cell (vascular),EPHB1,0.05124197
+Immune (T cell),EPHB1,0.038035993
+Immune (DC/macrophage),EPHB1,0.038033143
+Mucous cell,EPHB1,0.031216407
+Immune (NK cell),EPHB1,0.028163223
+Immune (DC),EPHB1,0.023407675
+Epithelial cell (squamous),EPHB1,0.011651087

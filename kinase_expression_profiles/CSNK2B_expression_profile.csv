@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (B cell),CSNK2B,0.013992709
+Mucous cell,CSNK2B,0.008311838
+Immune (mast cell),CSNK2B,0.004348728
+Myofibroblast,CSNK2B,0.0023338078
+Myocyte (sk. muscle),CSNK2B,0.0016141857
+Myocyte (smooth muscle),CSNK2B,0.0012956513
+Fibroblast,CSNK2B,0.0012910119
+Adipocyte,CSNK2B,0.0011245002
+Epithelial cell (suprabasal),CSNK2B,0.0011093775
+Epithelial cell (luminal),CSNK2B,0.0011038783
+Epithelial cell (club),CSNK2B,0.000906064
+Immune (DC/macrophage),CSNK2B,0.000591671
+Epithelial cell (basal),CSNK2B,0.00040083588
+Myocyte (cardiac),CSNK2B,0.00030798803
+Immune (alveolar macrophage),CSNK2B,0.00028322762
+Endothelial cell (vascular),CSNK2B,0.00012898122
+Epithelial cell (alveolar type I),CSNK2B,0.0
+Endothelial cell (lymphatic),CSNK2B,0.0
+Epithelial cell (Hillock),CSNK2B,0.0
+Epithelial cell (cornified keratinocyte),CSNK2B,0.0
+Epithelial cell (ciliated),CSNK2B,0.0
+Epithelial cell (alveolar type II),CSNK2B,0.0
+Epithelial cell (basal keratinocyte),CSNK2B,0.0
+ICCs,CSNK2B,0.0
+Epithelial cell (mature keratinocyte),CSNK2B,0.0
+Epithelial cell (squamous),CSNK2B,0.0
+Epithelial cell (suprabasal keratinocyte),CSNK2B,0.0
+Melanocyte,CSNK2B,0.0
+Immune (T cell),CSNK2B,0.0
+Immune (Langerhans),CSNK2B,0.0
+Immune (NK cell),CSNK2B,0.0
+Immune (DC),CSNK2B,0.0
+"Myocyte (cardiac, cytoplasmic)",CSNK2B,0.0
+"Myocyte (sk. muscle, cytoplasmic)",CSNK2B,0.0
+Myocyte (NMJ-rich),CSNK2B,0.0
+Myoepithelial (basal),CSNK2B,0.0
+Neuroendocrine,CSNK2B,0.0
+Neuronal,CSNK2B,0.0
+Pericyte/SMC,CSNK2B,0.0
+Satellite cell,CSNK2B,0.0
+Schwann cell,CSNK2B,0.0
+Sebaceous gland cell,CSNK2B,0.0
+Sweat gland cell,CSNK2B,0.0

@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (Langerhans),POLR2A,0.6731058
+Neuronal,POLR2A,0.49547228
+Immune (DC),POLR2A,0.4721172
+Epithelial cell (mature keratinocyte),POLR2A,0.45537418
+Epithelial cell (suprabasal),POLR2A,0.45308033
+Epithelial cell (squamous),POLR2A,0.34995136
+Neuroendocrine,POLR2A,0.33690885
+Mucous cell,POLR2A,0.32248122
+Epithelial cell (suprabasal keratinocyte),POLR2A,0.32240146
+Epithelial cell (Hillock),POLR2A,0.31185582
+Epithelial cell (basal keratinocyte),POLR2A,0.3066768
+Epithelial cell (basal),POLR2A,0.28219324
+Myoepithelial (basal),POLR2A,0.27887776
+Epithelial cell (cornified keratinocyte),POLR2A,0.26796106
+Epithelial cell (luminal),POLR2A,0.25821504
+ICCs,POLR2A,0.24781497
+Immune (alveolar macrophage),POLR2A,0.2432513
+Epithelial cell (ciliated),POLR2A,0.23967676
+Endothelial cell (vascular),POLR2A,0.23548286
+Melanocyte,POLR2A,0.23342028
+Adipocyte,POLR2A,0.2323025
+Epithelial cell (club),POLR2A,0.22451577
+Endothelial cell (lymphatic),POLR2A,0.21457437
+Myofibroblast,POLR2A,0.21082559
+Epithelial cell (alveolar type II),POLR2A,0.1887823
+Immune (DC/macrophage),POLR2A,0.18847097
+Fibroblast,POLR2A,0.18786989
+Immune (T cell),POLR2A,0.18475612
+Immune (B cell),POLR2A,0.18349607
+Immune (NK cell),POLR2A,0.17866288
+Sweat gland cell,POLR2A,0.17832491
+Sebaceous gland cell,POLR2A,0.17325151
+Immune (mast cell),POLR2A,0.16716544
+Schwann cell,POLR2A,0.1620446
+Epithelial cell (alveolar type I),POLR2A,0.16195452
+Myocyte (smooth muscle),POLR2A,0.14897704
+Pericyte/SMC,POLR2A,0.14780037
+Satellite cell,POLR2A,0.13108623
+Myocyte (cardiac),POLR2A,0.12895513
+"Myocyte (sk. muscle, cytoplasmic)",POLR2A,0.10312321
+"Myocyte (cardiac, cytoplasmic)",POLR2A,0.09248214
+Myocyte (sk. muscle),POLR2A,0.032011412
+Myocyte (NMJ-rich),POLR2A,0.03134414

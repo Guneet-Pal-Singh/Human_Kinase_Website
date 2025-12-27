@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Neuron,PLK3,1.0,16.0
+esophagusmucosa,Epithelial cell,PLK3,1.760032,9.031603363293708
+lung,Immune (myeloid),PLK3,1.1534196,8.870306607640597
+esophagusmuscularis,Adipocyte,PLK3,1.0,7.428571428571429
+esophagusmuscularis,Immune (myeloid),PLK3,1.0677084,6.479919001012488
+esophagusmuscularis,Fibroblast,PLK3,1.1082706,6.388702084734364
+esophagusmuscularis,Endothelial cell,PLK3,1.1111112,6.254203093476798
+prostate,Immune (myeloid),PLK3,1.0769231,5.058365758754864
+skin,Epithelial cell,PLK3,1.3103448,4.817275747508306
+breast,Immune (myeloid),PLK3,1.0625,4.46927374301676
+breast,Endothelial cell,PLK3,1.0256411,4.426787741203178
+lung,Endothelial cell,PLK3,1.0686275,3.714493809176985
+esophagusmuscularis,Glia,PLK3,1.030303,3.402061855670103
+lung,Fibroblast,PLK3,1.14,3.387533875338753
+skeletalmuscle,Endothelial cell,PLK3,1.0681819,3.3057851239669422
+breast,Muscle,PLK3,1.2,3.289473684210526
+esophagusmucosa,Immune (myeloid),PLK3,1.0444444,3.2188841201716736
+esophagusmuscularis,Muscle,PLK3,1.0572034,3.1743896697827694
+skeletalmuscle,Immune (myeloid),PLK3,1.0434783,3.120759837177748
+skeletalmuscle,Immune (lymphocyte),PLK3,1.0,3.0
+heart,Immune (myeloid),PLK3,1.0555556,2.8129395218002813
+heart,Fibroblast,PLK3,1.0271318,2.778076881662539
+skeletalmuscle,Fibroblast,PLK3,1.0124223,2.708613728129206
+breast,Fibroblast,PLK3,1.0909091,2.6862026862026864
+skin,Immune (lymphocyte),PLK3,1.0,2.666666666666667
+esophagusmucosa,Stromal,PLK3,1.1153846,2.62891809908999
+heart,Endothelial cell,PLK3,1.0108109,2.4230517354289454
+skin,Endothelial cell,PLK3,1.0416666,2.346041055718475
+lung,Epithelial cell,PLK3,1.0301418,2.3426791277258565
+prostate,Muscle,PLK3,1.0,2.229157378510923
+esophagusmucosa,Fibroblast,PLK3,1.05,2.131438721136768
+esophagusmucosa,Immune (lymphocyte),PLK3,1.2105263,2.0902090209020905
+lung,Immune (lymphocyte),PLK3,1.0714285,1.9310344827586208
+esophagusmucosa,Endothelial cell,PLK3,1.045977,1.8597691321077383
+heart,Muscle,PLK3,1.0094787,1.7490053050397878
+skin,Epithelial cell (keratinocyte),PLK3,1.060606,1.694915254237288
+esophagusmuscularis,Immune (lymphocyte),PLK3,1.0,1.6611295681063123
+prostate,Endothelial cell,PLK3,1.0454545,1.556970983722576
+prostate,Immune (lymphocyte),PLK3,1.0,1.466275659824047
+breast,Epithelial cell,PLK3,1.0235294,1.4657699603379892
+lung,Muscle,PLK3,1.0,1.2269938650306749
+prostate,Fibroblast,PLK3,1.0,1.2259194395796849
+prostate,Epithelial cell,PLK3,1.0107914,1.204871494820786
+esophagusmucosa,Muscle,PLK3,1.0,1.1976047904191618
+heart,Immune (lymphocyte),PLK3,1.0,1.146131805157593
+skin,Immune (myeloid),PLK3,1.0,1.11731843575419
+skin,Muscle,PLK3,1.0,1.0752688172043012
+skeletalmuscle,Muscle,PLK3,1.0128756,1.0322980816091445
+heart,Glia,PLK3,1.0,0.6711409395973155
+skin,Fibroblast,PLK3,1.0,0.5671077504725899
+heart,Adipocyte,PLK3,1.0,0.5181347150259068
+skin,Other,PLK3,1.0,0.4424778761061947
+breast,Adipocyte,PLK3,1.0,0.1135718341851221
+esophagusmucosa,Glia,PLK3,0.0,0.0
+prostate,Glia,PLK3,0.0,0.0
+skeletalmuscle,Adipocyte,PLK3,0.0,0.0
+skeletalmuscle,Glia,PLK3,0.0,0.0
+skin,Adipocyte,PLK3,0.0,0.0
+skin,Melanocyte,PLK3,0.0,0.0

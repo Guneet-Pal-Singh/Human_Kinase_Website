@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (suprabasal),EPHA1,0.5176767
+Epithelial cell (mature keratinocyte),EPHA1,0.44355494
+Epithelial cell (squamous),EPHA1,0.3265428
+Epithelial cell (suprabasal keratinocyte),EPHA1,0.3154018
+Sebaceous gland cell,EPHA1,0.24933337
+Epithelial cell (cornified keratinocyte),EPHA1,0.24866737
+Epithelial cell (Hillock),EPHA1,0.09931506
+Sweat gland cell,EPHA1,0.09441649
+Epithelial cell (basal),EPHA1,0.08988815
+Myofibroblast,EPHA1,0.08561185
+Mucous cell,EPHA1,0.08212451
+Myoepithelial (basal),EPHA1,0.08119572
+Epithelial cell (basal keratinocyte),EPHA1,0.06474326
+Epithelial cell (luminal),EPHA1,0.04722212
+Epithelial cell (alveolar type I),EPHA1,0.038591005
+Epithelial cell (ciliated),EPHA1,0.036162205
+Immune (T cell),EPHA1,0.035459436
+Immune (B cell),EPHA1,0.03242817
+Epithelial cell (alveolar type II),EPHA1,0.031816952
+Immune (NK cell),EPHA1,0.031362318
+Epithelial cell (club),EPHA1,0.02788238
+ICCs,EPHA1,0.027464472
+Immune (alveolar macrophage),EPHA1,0.017218417
+Satellite cell,EPHA1,0.017197855
+Myocyte (sk. muscle),EPHA1,0.016576912
+Myocyte (smooth muscle),EPHA1,0.01540076
+Myocyte (cardiac),EPHA1,0.012285236
+Fibroblast,EPHA1,0.0097963335
+Immune (DC/macrophage),EPHA1,0.009290622
+Adipocyte,EPHA1,0.009101274
+Schwann cell,EPHA1,0.008610193
+Endothelial cell (vascular),EPHA1,0.00844042
+Endothelial cell (lymphatic),EPHA1,0.0077884994
+Pericyte/SMC,EPHA1,0.006208439
+"Myocyte (sk. muscle, cytoplasmic)",EPHA1,0.0045611574
+Immune (mast cell),EPHA1,0.0037488183
+"Myocyte (cardiac, cytoplasmic)",EPHA1,0.0018117311
+Immune (DC),EPHA1,0.0
+Immune (Langerhans),EPHA1,0.0
+Melanocyte,EPHA1,0.0
+Myocyte (NMJ-rich),EPHA1,0.0
+Neuronal,EPHA1,0.0
+Neuroendocrine,EPHA1,0.0

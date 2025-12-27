@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Neuron,PANK3,1.0,28.000000000000004
+heart,Adipocyte,PANK3,1.2307693,13.471502590673577
+skin,Melanocyte,PANK3,1.0833334,8.823529411764707
+skin,Other,PANK3,1.1842105,8.4070796460177
+prostate,Epithelial cell,PANK3,1.1651163,7.454600615437958
+esophagusmucosa,Epithelial cell,PANK3,1.1587147,7.444186720788634
+esophagusmucosa,Stromal,PANK3,1.1527778,7.280080889787664
+skin,Epithelial cell,PANK3,1.1860465,7.142857142857142
+heart,Muscle,PANK3,1.0893081,6.589854111405835
+esophagusmucosa,Glia,PANK3,1.0,6.153846153846154
+prostate,Muscle,PANK3,1.0814815,6.018724921979492
+breast,Epithelial cell,PANK3,1.1011904,5.794102431453699
+skin,Epithelial cell (keratinocyte),PANK3,1.1568627,5.238828967642527
+esophagusmucosa,Endothelial cell,PANK3,1.1201717,4.980761008978195
+breast,Adipocyte,PANK3,1.0476191,4.770017035775128
+lung,Immune (myeloid),PANK3,1.0380623,4.738481718314478
+breast,Muscle,PANK3,1.0,4.605263157894736
+prostate,Immune (myeloid),PANK3,1.106383,4.571984435797665
+prostate,Glia,PANK3,1.0,4.477611940298507
+esophagusmucosa,Immune (myeloid),PANK3,1.0819672,4.363376251788269
+prostate,Endothelial cell,PANK3,1.0263158,4.033970276008493
+heart,Glia,PANK3,1.0833334,4.026845637583892
+lung,Epithelial cell,PANK3,1.040625,3.987538940809969
+esophagusmuscularis,Muscle,PANK3,1.0767918,3.9410854798574215
+heart,Fibroblast,PANK3,1.0409836,3.940992785614299
+skeletalmuscle,Endothelial cell,PANK3,1.04,3.756574004507888
+esophagusmucosa,Muscle,PANK3,1.1666666,3.592814371257485
+prostate,Fibroblast,PANK3,1.0256411,3.4150612959719786
+skin,Immune (myeloid),PANK3,1.0,3.35195530726257
+skin,Endothelial cell,PANK3,1.117647,3.3235581622678394
+esophagusmuscularis,Endothelial cell,PANK3,1.0410959,3.272808787267429
+skeletalmuscle,Adipocyte,PANK3,1.0,3.1446540880503147
+breast,Immune (myeloid),PANK3,1.0909091,3.072625698324022
+lung,Muscle,PANK3,1.0,3.067484662576687
+heart,Immune (myeloid),PANK3,1.0357143,3.06297859040475
+heart,Immune (lymphocyte),PANK3,1.0,3.0085959885386817
+skeletalmuscle,Fibroblast,PANK3,1.0285715,2.9441453566621805
+esophagusmuscularis,Immune (myeloid),PANK3,1.0,2.936213297333784
+skeletalmuscle,Immune (myeloid),PANK3,1.0,2.849389416553596
+heart,Endothelial cell,PANK3,1.0506912,2.842174197773412
+esophagusmucosa,Fibroblast,PANK3,1.125,2.841918294849023
+prostate,Immune (lymphocyte),PANK3,1.0,2.785923753665689
+lung,Fibroblast,PANK3,1.0243902,2.7777777777777777
+esophagusmuscularis,Fibroblast,PANK3,1.048951,2.7476222499759824
+breast,Fibroblast,PANK3,1.0454545,2.6862026862026864
+esophagusmuscularis,Glia,PANK3,1.0,2.6804123711340204
+lung,Immune (lymphocyte),PANK3,1.1052631,2.6206896551724137
+breast,Endothelial cell,PANK3,1.1818181,2.4971623155505105
+lung,Endothelial cell,PANK3,1.03125,2.3306627822286963
+esophagusmuscularis,Immune (lymphocyte),PANK3,1.0,2.3255813953488373
+esophagusmucosa,Immune (lymphocyte),PANK3,1.1190476,2.31023102310231
+skin,Fibroblast,PANK3,1.0833334,2.2684310018903595
+skeletalmuscle,Immune (lymphocyte),PANK3,1.0,2.0
+skeletalmuscle,Muscle,PANK3,1.0207373,1.9228213193921404
+skin,Adipocyte,PANK3,1.0,1.6129032258064515
+esophagusmuscularis,Adipocyte,PANK3,1.0,1.1428571428571428
+skin,Muscle,PANK3,1.0,1.0752688172043012
+skeletalmuscle,Glia,PANK3,0.0,0.0
+skin,Immune (lymphocyte),PANK3,0.0,0.0

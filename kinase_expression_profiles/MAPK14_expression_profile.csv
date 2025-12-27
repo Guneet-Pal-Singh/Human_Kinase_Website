@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (mature keratinocyte),MAPK14,0.90043133
+Immune (Langerhans),MAPK14,0.7598756
+ICCs,MAPK14,0.7126926
+Epithelial cell (suprabasal),MAPK14,0.65645933
+Myocyte (smooth muscle),MAPK14,0.63976306
+Sebaceous gland cell,MAPK14,0.6259791
+Adipocyte,MAPK14,0.5910657
+Endothelial cell (lymphatic),MAPK14,0.5349801
+Immune (alveolar macrophage),MAPK14,0.51811886
+Mucous cell,MAPK14,0.5101718
+Epithelial cell (suprabasal keratinocyte),MAPK14,0.49127147
+Immune (DC/macrophage),MAPK14,0.4731886
+Neuroendocrine,MAPK14,0.45792663
+Epithelial cell (basal),MAPK14,0.40551627
+Immune (B cell),MAPK14,0.39326385
+Epithelial cell (alveolar type II),MAPK14,0.39148432
+Myofibroblast,MAPK14,0.38406542
+Immune (mast cell),MAPK14,0.37918955
+Fibroblast,MAPK14,0.37023005
+Epithelial cell (basal keratinocyte),MAPK14,0.3671569
+Myocyte (cardiac),MAPK14,0.3593925
+Epithelial cell (squamous),MAPK14,0.35837877
+Immune (T cell),MAPK14,0.35017642
+Epithelial cell (cornified keratinocyte),MAPK14,0.34172985
+Immune (DC),MAPK14,0.3416361
+Epithelial cell (alveolar type I),MAPK14,0.33951324
+Endothelial cell (vascular),MAPK14,0.32011658
+Epithelial cell (club),MAPK14,0.31848335
+Immune (NK cell),MAPK14,0.30909118
+Epithelial cell (Hillock),MAPK14,0.30468318
+Epithelial cell (luminal),MAPK14,0.30215514
+Neuronal,MAPK14,0.2979719
+Sweat gland cell,MAPK14,0.29729763
+Epithelial cell (ciliated),MAPK14,0.29625177
+Satellite cell,MAPK14,0.2873288
+Melanocyte,MAPK14,0.27924496
+Myocyte (NMJ-rich),MAPK14,0.27488425
+Schwann cell,MAPK14,0.26245305
+Myoepithelial (basal),MAPK14,0.2502439
+Pericyte/SMC,MAPK14,0.24829315
+"Myocyte (sk. muscle, cytoplasmic)",MAPK14,0.1918064
+Myocyte (sk. muscle),MAPK14,0.17634788
+"Myocyte (cardiac, cytoplasmic)",MAPK14,0.1304433

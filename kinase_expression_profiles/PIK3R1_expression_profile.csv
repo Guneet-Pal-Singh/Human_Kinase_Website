@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (basal keratinocyte),PIK3R1,1.3661764
+Myoepithelial (basal),PIK3R1,1.3462942
+Adipocyte,PIK3R1,1.3101692
+Myocyte (cardiac),PIK3R1,1.167544
+Epithelial cell (Hillock),PIK3R1,1.075628
+Fibroblast,PIK3R1,0.9976965
+Epithelial cell (basal),PIK3R1,0.9381619
+Melanocyte,PIK3R1,0.9325271
+Epithelial cell (suprabasal keratinocyte),PIK3R1,0.9043301
+Satellite cell,PIK3R1,0.87030506
+Myofibroblast,PIK3R1,0.86306936
+Sebaceous gland cell,PIK3R1,0.77648014
+Schwann cell,PIK3R1,0.7479889
+Myocyte (smooth muscle),PIK3R1,0.6993845
+ICCs,PIK3R1,0.6817361
+Immune (mast cell),PIK3R1,0.63303757
+Immune (DC/macrophage),PIK3R1,0.61212766
+Mucous cell,PIK3R1,0.599701
+Immune (T cell),PIK3R1,0.5834471
+"Myocyte (cardiac, cytoplasmic)",PIK3R1,0.55328983
+Epithelial cell (club),PIK3R1,0.5272696
+Epithelial cell (luminal),PIK3R1,0.52326757
+Neuronal,PIK3R1,0.51827306
+Immune (NK cell),PIK3R1,0.46447593
+Myocyte (sk. muscle),PIK3R1,0.44035938
+Epithelial cell (cornified keratinocyte),PIK3R1,0.41943973
+"Myocyte (sk. muscle, cytoplasmic)",PIK3R1,0.41487414
+Immune (Langerhans),PIK3R1,0.3998249
+Immune (alveolar macrophage),PIK3R1,0.38497567
+Myocyte (NMJ-rich),PIK3R1,0.364295
+Pericyte/SMC,PIK3R1,0.35522822
+Epithelial cell (alveolar type I),PIK3R1,0.3041237
+Immune (B cell),PIK3R1,0.2893062
+Epithelial cell (suprabasal),PIK3R1,0.28203103
+Neuroendocrine,PIK3R1,0.26714715
+Epithelial cell (alveolar type II),PIK3R1,0.25188947
+Epithelial cell (mature keratinocyte),PIK3R1,0.23051158
+Endothelial cell (lymphatic),PIK3R1,0.21983233
+Sweat gland cell,PIK3R1,0.2134595
+Endothelial cell (vascular),PIK3R1,0.19840683
+Epithelial cell (ciliated),PIK3R1,0.16122924
+Epithelial cell (squamous),PIK3R1,0.15618016
+Immune (DC),PIK3R1,0.1138485

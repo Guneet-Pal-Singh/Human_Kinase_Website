@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+prostate,Glia,FAM20C,1.0,20.8955223880597
+esophagusmuscularis,Neuron,FAM20C,1.2,20.0
+prostate,Immune (myeloid),FAM20C,1.2971429,17.023346303501945
+prostate,Muscle,FAM20C,1.472973,16.495764600980827
+prostate,Fibroblast,FAM20C,1.255814,15.061295971978982
+breast,Immune (myeloid),FAM20C,1.4615384,14.52513966480447
+breast,Adipocyte,FAM20C,1.1193416,13.798977853492334
+breast,Epithelial cell,FAM20C,1.320059,11.691670977754786
+skin,Adipocyte,FAM20C,1.1428572,11.29032258064516
+esophagusmucosa,Glia,FAM20C,1.1428572,10.76923076923077
+esophagusmuscularis,Muscle,FAM20C,1.3322865,10.706839733674087
+esophagusmuscularis,Glia,FAM20C,1.1627907,8.8659793814433
+skeletalmuscle,Adipocyte,FAM20C,1.0909091,6.918238993710692
+esophagusmucosa,Fibroblast,FAM20C,1.1340206,6.891651865008881
+heart,Adipocyte,FAM20C,1.0769231,6.735751295336788
+heart,Glia,FAM20C,1.0526316,6.375838926174497
+prostate,Epithelial cell,FAM20C,1.2277228,6.128375157110042
+breast,Fibroblast,FAM20C,1.1224489,5.982905982905983
+esophagusmucosa,Stromal,FAM20C,1.1481482,5.460060667340748
+heart,Immune (myeloid),FAM20C,1.1641791,5.235192998906079
+esophagusmucosa,Muscle,FAM20C,1.1304348,4.590818363273453
+esophagusmuscularis,Adipocyte,FAM20C,1.125,4.571428571428571
+esophagusmuscularis,Fibroblast,FAM20C,1.1060948,4.255932366221539
+heart,Fibroblast,FAM20C,1.0594594,3.98406374501992
+skin,Muscle,FAM20C,1.2857143,3.763440860215054
+esophagusmucosa,Epithelial cell,FAM20C,1.5717055,3.740214554943462
+lung,Fibroblast,FAM20C,1.018868,3.590785907859079
+lung,Immune (myeloid),FAM20C,1.0707071,3.246433841613379
+esophagusmucosa,Immune (myeloid),FAM20C,1.2307693,2.7896995708154506
+skin,Immune (lymphocyte),FAM20C,1.0,2.666666666666667
+skin,Other,FAM20C,1.5,2.6548672566371683
+skeletalmuscle,Immune (myeloid),FAM20C,1.117647,2.3066485753052914
+skeletalmuscle,Fibroblast,FAM20C,1.0075188,2.237550471063257
+skin,Immune (myeloid),FAM20C,1.25,2.23463687150838
+heart,Muscle,FAM20C,1.0594796,2.229774535809019
+breast,Muscle,FAM20C,1.0,1.973684210526316
+lung,Muscle,FAM20C,1.0,1.8404907975460123
+prostate,Endothelial cell,FAM20C,1.0833334,1.6985138004246283
+esophagusmuscularis,Immune (myeloid),FAM20C,1.0888889,1.5187310158623015
+esophagusmucosa,Endothelial cell,FAM20C,1.0985916,1.5177426250534416
+skeletalmuscle,Endothelial cell,FAM20C,1.0,1.1269722013523666
+heart,Endothelial cell,FAM20C,1.0256411,1.0216110019646365
+skin,Epithelial cell,FAM20C,1.3333334,0.9966777408637874
+lung,Epithelial cell,FAM20C,1.0221239,0.9387331256490136
+breast,Endothelial cell,FAM20C,1.125,0.9080590238365494
+lung,Endothelial cell,FAM20C,1.0,0.8739985433357611
+skin,Epithelial cell (keratinocyte),FAM20C,1.0,0.8217770929635336
+skin,Endothelial cell,FAM20C,1.1428572,0.6842619745845552
+skin,Fibroblast,FAM20C,1.0,0.5671077504725899
+prostate,Immune (lymphocyte),FAM20C,1.0,0.4398826979472141
+skeletalmuscle,Muscle,FAM20C,1.0,0.3943112843914758
+skin,Melanocyte,FAM20C,1.0,0.3676470588235294
+esophagusmuscularis,Immune (lymphocyte),FAM20C,1.0,0.3322259136212624
+heart,Immune (lymphocyte),FAM20C,1.0,0.2865329512893982
+esophagusmuscularis,Endothelial cell,FAM20C,1.1666666,0.2689979825151311
+esophagusmucosa,Immune (lymphocyte),FAM20C,0.0,0.0
+lung,Immune (lymphocyte),FAM20C,0.0,0.0
+skeletalmuscle,Glia,FAM20C,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),FAM20C,0.0,0.0

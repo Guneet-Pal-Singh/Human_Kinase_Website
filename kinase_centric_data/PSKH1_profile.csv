@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+heart,Muscle,PSKH1,1.0552381,4.351790450928382
+prostate,Muscle,PSKH1,1.0394737,3.388319215336603
+skin,Muscle,PSKH1,1.0,3.225806451612903
+heart,Adipocyte,PSKH1,1.0,3.1088082901554404
+lung,Muscle,PSKH1,1.0,3.067484662576687
+skin,Immune (lymphocyte),PSKH1,1.0,2.666666666666667
+esophagusmucosa,Epithelial cell,PSKH1,1.0578512,2.6311974485358074
+esophagusmucosa,Stromal,PSKH1,1.04,2.527805864509605
+lung,Immune (myeloid),PSKH1,1.0072464,2.2626660108214462
+breast,Immune (myeloid),PSKH1,1.0,2.23463687150838
+lung,Epithelial cell,PSKH1,1.0152671,2.1765316718587746
+esophagusmuscularis,Muscle,PSKH1,1.0189873,2.125226982312193
+esophagusmucosa,Endothelial cell,PSKH1,1.0,1.8597691321077383
+prostate,Epithelial cell,PSKH1,1.0186915,1.85498201360898
+skin,Melanocyte,PSKH1,1.0,1.8382352941176472
+breast,Adipocyte,PSKH1,1.0645162,1.7603634298693924
+esophagusmucosa,Fibroblast,PSKH1,1.0408163,1.7406749555950267
+skeletalmuscle,Muscle,PSKH1,1.0388601,1.7101590536529174
+heart,Fibroblast,PSKH1,1.012987,1.6582319371163994
+skin,Adipocyte,PSKH1,1.0,1.6129032258064515
+esophagusmuscularis,Glia,PSKH1,1.0,1.5463917525773196
+prostate,Glia,PSKH1,1.0,1.4925373134328357
+prostate,Fibroblast,PSKH1,1.0,1.4010507880910683
+skin,Endothelial cell,PSKH1,1.0714285,1.3685239491691104
+skeletalmuscle,Immune (myeloid),PSKH1,1.0,1.35685210312076
+esophagusmuscularis,Immune (myeloid),PSKH1,1.0263158,1.282483968950388
+skeletalmuscle,Adipocyte,PSKH1,1.0,1.257861635220126
+breast,Endothelial cell,PSKH1,1.0,1.2485811577752552
+lung,Immune (lymphocyte),PSKH1,1.0,1.2413793103448276
+breast,Epithelial cell,PSKH1,1.0140845,1.2243490256940852
+lung,Fibroblast,PSKH1,1.0,1.2195121951219512
+heart,Endothelial cell,PSKH1,1.0215054,1.218074656188605
+skeletalmuscle,Fibroblast,PSKH1,1.0138888,1.2113055181695829
+esophagusmucosa,Muscle,PSKH1,1.0,1.1976047904191618
+esophagusmuscularis,Fibroblast,PSKH1,1.032258,1.1912767797098665
+prostate,Immune (myeloid),PSKH1,1.0,1.1673151750972763
+skin,Epithelial cell,PSKH1,1.0,1.162790697674419
+skin,Other,PSKH1,1.0,1.106194690265487
+breast,Fibroblast,PSKH1,1.0,1.098901098901099
+prostate,Endothelial cell,PSKH1,1.0,1.0969568294409058
+heart,Immune (myeloid),PSKH1,1.0142857,1.093920925144554
+esophagusmuscularis,Endothelial cell,PSKH1,1.0212766,1.053575431517597
+skin,Epithelial cell (keratinocyte),PSKH1,1.0,1.027221366204417
+heart,Glia,PSKH1,1.0,1.006711409395973
+heart,Immune (lymphocyte),PSKH1,1.0,1.002865329512894
+skeletalmuscle,Immune (lymphocyte),PSKH1,1.0,1.0
+lung,Endothelial cell,PSKH1,1.0,0.946831755280408
+esophagusmucosa,Immune (lymphocyte),PSKH1,1.0,0.88008800880088
+skin,Fibroblast,PSKH1,1.0,0.7561436672967864
+prostate,Immune (lymphocyte),PSKH1,1.2,0.7331378299120235
+esophagusmucosa,Immune (myeloid),PSKH1,1.0,0.7153075822603719
+esophagusmuscularis,Immune (lymphocyte),PSKH1,1.0,0.6644518272425249
+breast,Muscle,PSKH1,1.0,0.6578947368421052
+esophagusmuscularis,Adipocyte,PSKH1,1.0,0.5714285714285714
+skin,Immune (myeloid),PSKH1,1.0,0.5586592178770949
+skeletalmuscle,Endothelial cell,PSKH1,1.0,0.3005259203606311
+esophagusmucosa,Glia,PSKH1,0.0,0.0
+esophagusmuscularis,Neuron,PSKH1,0.0,0.0
+skeletalmuscle,Glia,PSKH1,0.0,0.0

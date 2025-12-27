@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (DC),PDPK1,0.80435205
+Immune (Langerhans),PDPK1,0.7548653
+Epithelial cell (mature keratinocyte),PDPK1,0.44188356
+Mucous cell,PDPK1,0.41260707
+Myofibroblast,PDPK1,0.41020188
+Epithelial cell (suprabasal),PDPK1,0.3846859
+Immune (DC/macrophage),PDPK1,0.38427943
+Immune (alveolar macrophage),PDPK1,0.38131273
+Myocyte (cardiac),PDPK1,0.3790101
+Melanocyte,PDPK1,0.36648124
+Epithelial cell (alveolar type II),PDPK1,0.36476934
+Epithelial cell (ciliated),PDPK1,0.35940614
+Sebaceous gland cell,PDPK1,0.3266846
+ICCs,PDPK1,0.32534483
+Epithelial cell (Hillock),PDPK1,0.32525414
+Epithelial cell (squamous),PDPK1,0.3186901
+Epithelial cell (suprabasal keratinocyte),PDPK1,0.31190944
+Adipocyte,PDPK1,0.30827612
+Epithelial cell (alveolar type I),PDPK1,0.30366954
+Epithelial cell (club),PDPK1,0.29987973
+Immune (T cell),PDPK1,0.29612935
+Epithelial cell (basal),PDPK1,0.29303697
+Epithelial cell (luminal),PDPK1,0.28875232
+Myocyte (NMJ-rich),PDPK1,0.28816414
+Immune (B cell),PDPK1,0.28438863
+Epithelial cell (basal keratinocyte),PDPK1,0.28076792
+Endothelial cell (lymphatic),PDPK1,0.26104137
+Immune (mast cell),PDPK1,0.24064869
+Myoepithelial (basal),PDPK1,0.23761071
+Myocyte (sk. muscle),PDPK1,0.22859648
+Myocyte (smooth muscle),PDPK1,0.22670926
+Pericyte/SMC,PDPK1,0.22587231
+Immune (NK cell),PDPK1,0.22523393
+"Myocyte (sk. muscle, cytoplasmic)",PDPK1,0.21691382
+Schwann cell,PDPK1,0.20909189
+Fibroblast,PDPK1,0.20015073
+Endothelial cell (vascular),PDPK1,0.19956677
+"Myocyte (cardiac, cytoplasmic)",PDPK1,0.18048422
+Satellite cell,PDPK1,0.16803454
+Sweat gland cell,PDPK1,0.15646102
+Epithelial cell (cornified keratinocyte),PDPK1,0.14619683
+Neuroendocrine,PDPK1,0.13128927
+Neuronal,PDPK1,0.1254636

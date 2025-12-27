@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+heart,Muscle,ALPK3,1.4150338,23.267572944297083
+skeletalmuscle,Muscle,ALPK3,1.2425184,22.79916707279252
+breast,Adipocyte,ALPK3,1.597561,18.625780806360023
+heart,Adipocyte,ALPK3,1.3333334,13.989637305699482
+skeletalmuscle,Adipocyte,ALPK3,1.125,10.062893081761008
+skin,Adipocyte,ALPK3,1.2,8.064516129032258
+esophagusmuscularis,Neuron,ALPK3,1.0,8.0
+lung,Immune (myeloid),ALPK3,1.1890244,5.377930808329234
+esophagusmucosa,Stromal,ALPK3,1.0697675,4.3478260869565215
+esophagusmucosa,Epithelial cell,ALPK3,1.4662447,3.435778486517832
+esophagusmuscularis,Adipocyte,ALPK3,1.1666666,3.428571428571429
+esophagusmucosa,Muscle,ALPK3,1.0625,3.1936127744510974
+heart,Fibroblast,ALPK3,1.0714285,2.562722084634435
+skeletalmuscle,Endothelial cell,ALPK3,1.030303,2.479338842975207
+prostate,Muscle,ALPK3,1.0181818,2.452073116362015
+esophagusmuscularis,Muscle,ALPK3,1.0282485,2.380792252337077
+lung,Epithelial cell,ALPK3,1.0390625,2.12668743509865
+breast,Muscle,ALPK3,1.0,1.973684210526316
+lung,Muscle,ALPK3,1.0,1.8404907975460123
+heart,Endothelial cell,ALPK3,1.1079136,1.820563195808776
+skeletalmuscle,Immune (myeloid),ALPK3,1.1666666,1.6282225237449115
+skin,Muscle,ALPK3,1.0,1.6129032258064515
+esophagusmucosa,Endothelial cell,ALPK3,1.0555556,1.539119281744335
+breast,Immune (myeloid),ALPK3,1.2,1.3966480446927374
+heart,Glia,ALPK3,1.0,1.342281879194631
+heart,Immune (myeloid),ALPK3,1.0,1.2033130176590092
+prostate,Immune (myeloid),ALPK3,1.0833334,1.1673151750972763
+esophagusmuscularis,Endothelial cell,ALPK3,1.0204082,1.098408428603452
+skeletalmuscle,Fibroblast,ALPK3,1.0307692,1.0935397039030954
+prostate,Endothelial cell,ALPK3,1.0333333,1.0615711252653928
+skeletalmuscle,Immune (lymphocyte),ALPK3,1.0,1.0
+lung,Endothelial cell,ALPK3,1.0,0.8739985433357611
+esophagusmucosa,Immune (myeloid),ALPK3,1.0,0.7868383404864091
+skin,Fibroblast,ALPK3,1.25,0.7561436672967864
+esophagusmuscularis,Glia,ALPK3,1.0,0.7216494845360825
+skin,Endothelial cell,ALPK3,1.1428572,0.6842619745845552
+skin,Epithelial cell,ALPK3,1.0,0.6644518272425249
+lung,Fibroblast,ALPK3,1.0,0.6097560975609756
+prostate,Immune (lymphocyte),ALPK3,1.0,0.5865102639296188
+esophagusmuscularis,Immune (myeloid),ALPK3,1.0,0.5737428282146473
+skin,Immune (myeloid),ALPK3,2.0,0.5586592178770949
+prostate,Fibroblast,ALPK3,1.0,0.5253940455341506
+prostate,Epithelial cell,ALPK3,1.054054,0.4810817839032635
+esophagusmucosa,Fibroblast,ALPK3,1.0,0.4262877442273534
+esophagusmuscularis,Immune (lymphocyte),ALPK3,1.0,0.3322259136212624
+esophagusmuscularis,Fibroblast,ALPK3,1.0,0.2593909117110193
+breast,Endothelial cell,ALPK3,1.5,0.2270147559591373
+skin,Other,ALPK3,1.0,0.2212389380530973
+breast,Epithelial cell,ALPK3,1.0909091,0.1896878772202103
+lung,Immune (lymphocyte),ALPK3,1.0,0.1379310344827586
+esophagusmucosa,Immune (lymphocyte),ALPK3,1.0,0.11001100110011
+skin,Epithelial cell (keratinocyte),ALPK3,1.0,0.0513610683102208
+heart,Immune (lymphocyte),ALPK3,0.0,0.0
+breast,Fibroblast,ALPK3,0.0,0.0
+esophagusmucosa,Glia,ALPK3,0.0,0.0
+prostate,Glia,ALPK3,0.0,0.0
+skeletalmuscle,Glia,ALPK3,0.0,0.0
+skin,Immune (lymphocyte),ALPK3,0.0,0.0
+skin,Melanocyte,ALPK3,0.0,0.0

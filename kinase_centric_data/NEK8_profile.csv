@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Neuron,NEK8,1.0,8.0
+lung,Epithelial cell,NEK8,1.0577916,4.024922118380062
+lung,Immune (myeloid),NEK8,1.0376569,3.918675192654533
+prostate,Epithelial cell,NEK8,1.05527,3.3719065574481
+heart,Adipocyte,NEK8,1.0,3.1088082901554404
+esophagusmucosa,Epithelial cell,NEK8,1.0607595,2.8631487387648598
+esophagusmuscularis,Adipocyte,NEK8,1.0,2.857142857142857
+skin,Epithelial cell,NEK8,1.0,2.6578073089701
+lung,Muscle,NEK8,1.0,2.4539877300613497
+esophagusmucosa,Stromal,NEK8,1.1363636,2.224469160768453
+skin,Other,NEK8,1.0,2.2123893805309733
+breast,Epithelial cell,NEK8,1.0416666,2.0693222969477496
+skeletalmuscle,Immune (lymphocyte),NEK8,1.0,2.0
+esophagusmucosa,Muscle,NEK8,1.0,1.996007984031936
+heart,Immune (myeloid),NEK8,1.0636364,1.7190185966557276
+breast,Endothelial cell,NEK8,1.0714285,1.5891032917139614
+heart,Fibroblast,NEK8,1.035461,1.5182513190481317
+lung,Immune (lymphocyte),NEK8,1.0,1.5172413793103448
+skeletalmuscle,Immune (myeloid),NEK8,1.0,1.4925373134328357
+breast,Adipocyte,NEK8,1.0384616,1.4764338444065872
+prostate,Muscle,NEK8,1.0666667,1.337494427106554
+heart,Muscle,NEK8,1.05,1.326259946949602
+skin,Fibroblast,NEK8,1.0,1.3232514177693762
+esophagusmucosa,Fibroblast,NEK8,1.0277778,1.2788632326820604
+esophagusmuscularis,Immune (myeloid),NEK8,1.027027,1.2487343908201147
+breast,Fibroblast,NEK8,1.1,1.221001221001221
+skin,Endothelial cell,NEK8,1.0833334,1.1730205278592376
+prostate,Immune (myeloid),NEK8,1.0833334,1.1673151750972763
+skeletalmuscle,Muscle,NEK8,1.045977,1.1563510699570243
+breast,Immune (myeloid),NEK8,1.0,1.11731843575419
+skin,Melanocyte,NEK8,1.0,1.1029411764705883
+esophagusmucosa,Endothelial cell,NEK8,1.0,1.0902094912355709
+heart,Immune (lymphocyte),NEK8,1.0,1.002865329512894
+esophagusmuscularis,Fibroblast,NEK8,1.0485437,0.9895282928235182
+esophagusmuscularis,Endothelial cell,NEK8,1.0227273,0.9863259358888142
+esophagusmuscularis,Muscle,NEK8,1.0214286,0.9415562579864148
+prostate,Endothelial cell,NEK8,1.0,0.813871196036801
+skeletalmuscle,Endothelial cell,NEK8,1.0,0.7513148009015778
+heart,Endothelial cell,NEK8,1.0,0.733464309102816
+lung,Endothelial cell,NEK8,1.05,0.7283321194464676
+lung,Fibroblast,NEK8,1.0,0.6775067750677507
+skin,Epithelial cell (keratinocyte),NEK8,1.0,0.667693888032871
+esophagusmuscularis,Immune (lymphocyte),NEK8,1.0,0.6644518272425249
+breast,Muscle,NEK8,1.0,0.6578947368421052
+skeletalmuscle,Fibroblast,NEK8,1.0,0.6561238223418573
+prostate,Fibroblast,NEK8,1.0,0.6129597197898424
+esophagusmucosa,Immune (lymphocyte),NEK8,1.0,0.605060506050605
+skin,Immune (myeloid),NEK8,1.0,0.5586592178770949
+skin,Muscle,NEK8,1.0,0.5376344086021506
+esophagusmucosa,Immune (myeloid),NEK8,1.0,0.4291845493562232
+heart,Glia,NEK8,1.0,0.3355704697986577
+esophagusmuscularis,Glia,NEK8,1.0,0.2061855670103093
+prostate,Immune (lymphocyte),NEK8,1.0,0.1466275659824047
+esophagusmucosa,Glia,NEK8,0.0,0.0
+prostate,Glia,NEK8,0.0,0.0
+skeletalmuscle,Adipocyte,NEK8,0.0,0.0
+skeletalmuscle,Glia,NEK8,0.0,0.0
+skin,Adipocyte,NEK8,0.0,0.0
+skin,Immune (lymphocyte),NEK8,0.0,0.0

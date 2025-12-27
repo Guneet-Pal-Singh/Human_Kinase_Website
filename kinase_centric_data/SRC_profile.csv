@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Neuron,SRC,1.0,12.0
+esophagusmucosa,Epithelial cell,SRC,1.2039434,11.764279501304726
+esophagusmucosa,Glia,SRC,1.4285715,10.76923076923077
+esophagusmucosa,Stromal,SRC,1.0481927,8.39231547017189
+prostate,Muscle,SRC,1.0955056,7.935800267498886
+prostate,Epithelial cell,SRC,1.1062394,7.710310752827981
+esophagusmucosa,Immune (myeloid),SRC,1.1195652,6.580829756795422
+skin,Adipocyte,SRC,1.0,6.451612903225806
+lung,Immune (myeloid),SRC,1.0494791,6.296114117068371
+prostate,Fibroblast,SRC,1.0597014,5.866900175131348
+lung,Epithelial cell,SRC,1.0562885,4.722741433021807
+esophagusmucosa,Fibroblast,SRC,1.0697675,4.58259325044405
+prostate,Glia,SRC,1.0,4.477611940298507
+lung,Muscle,SRC,1.0,4.294478527607362
+skin,Other,SRC,1.1111112,3.982300884955752
+esophagusmucosa,Muscle,SRC,1.0526316,3.792415169660679
+skin,Muscle,SRC,1.0,3.763440860215054
+skin,Epithelial cell (keratinocyte),SRC,1.0563381,3.64663585002568
+skin,Fibroblast,SRC,1.0,3.5916824196597354
+heart,Glia,SRC,1.0,3.355704697986577
+prostate,Immune (myeloid),SRC,1.125,3.11284046692607
+esophagusmuscularis,Muscle,SRC,1.0497738,2.9726276144999666
+esophagusmuscularis,Adipocyte,SRC,1.0,2.857142857142857
+heart,Adipocyte,SRC,1.0,2.5906735751295336
+esophagusmuscularis,Glia,SRC,1.04,2.5773195876288657
+breast,Epithelial cell,SRC,1.0616438,2.5176754612864287
+skin,Epithelial cell,SRC,1.0666667,2.491694352159469
+esophagusmuscularis,Fibroblast,SRC,1.0,2.382553559419733
+lung,Fibroblast,SRC,1.0285715,2.3712737127371275
+breast,Fibroblast,SRC,1.0,2.31990231990232
+skin,Immune (myeloid),SRC,1.0,2.23463687150838
+heart,Fibroblast,SRC,1.0106952,2.0135673522127706
+skeletalmuscle,Fibroblast,SRC,1.0105263,1.598250336473755
+skin,Melanocyte,SRC,1.0,1.4705882352941175
+breast,Immune (myeloid),SRC,1.0,1.3966480446927374
+heart,Muscle,SRC,1.0301205,1.3759946949602122
+skin,Immune (lymphocyte),SRC,1.0,1.3333333333333337
+breast,Muscle,SRC,1.0,1.3157894736842104
+skeletalmuscle,Adipocyte,SRC,1.0,1.257861635220126
+breast,Adipocyte,SRC,1.0,1.192504258943782
+skeletalmuscle,Immune (lymphocyte),SRC,1.0,1.0
+esophagusmuscularis,Immune (lymphocyte),SRC,1.0,0.9966777408637874
+esophagusmucosa,Immune (lymphocyte),SRC,1.0,0.99009900990099
+heart,Immune (myeloid),SRC,1.2419355,0.9689013908423192
+esophagusmuscularis,Immune (myeloid),SRC,1.0,0.8774890313871078
+prostate,Immune (lymphocyte),SRC,1.0,0.7331378299120235
+lung,Endothelial cell,SRC,1.0,0.6190823015294974
+heart,Immune (lymphocyte),SRC,1.0,0.5730659025787965
+esophagusmucosa,Endothelial cell,SRC,1.0,0.4275331338178709
+skeletalmuscle,Immune (myeloid),SRC,1.0,0.4070556309362279
+skeletalmuscle,Muscle,SRC,1.0113636,0.3898808205219086
+prostate,Endothelial cell,SRC,1.0,0.3538570417551309
+breast,Endothelial cell,SRC,1.0,0.340522133938706
+esophagusmuscularis,Endothelial cell,SRC,1.0,0.3138309796009863
+skeletalmuscle,Endothelial cell,SRC,1.0,0.3005259203606311
+heart,Endothelial cell,SRC,1.0,0.1964636542239685
+skin,Endothelial cell,SRC,1.0,0.1955034213098729
+lung,Immune (lymphocyte),SRC,1.0,0.1379310344827586
+skeletalmuscle,Glia,SRC,0.0,0.0

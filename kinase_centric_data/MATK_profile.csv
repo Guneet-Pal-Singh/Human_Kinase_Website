@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+breast,Immune (myeloid),MATK,1.3529412,9.497206703910614
+heart,Immune (lymphocyte),MATK,1.0212766,6.73352435530086
+skeletalmuscle,Immune (lymphocyte),MATK,1.1666666,6.0
+skeletalmuscle,Glia,MATK,1.0,5.714285714285714
+esophagusmuscularis,Immune (lymphocyte),MATK,1.0666667,4.983388704318937
+prostate,Immune (lymphocyte),MATK,1.0476191,3.0791788856304985
+lung,Endothelial cell,MATK,1.0172414,2.112163146394756
+lung,Immune (myeloid),MATK,1.0689656,1.9019511395310704
+esophagusmucosa,Immune (lymphocyte),MATK,1.0294118,1.87018701870187
+prostate,Immune (myeloid),MATK,1.0,1.8482490272373544
+lung,Epithelial cell,MATK,1.0221674,1.6863966770508827
+lung,Immune (lymphocyte),MATK,1.0,1.5172413793103448
+skin,Endothelial cell,MATK,1.0,1.3685239491691104
+heart,Muscle,MATK,1.0126582,1.309681697612732
+skeletalmuscle,Adipocyte,MATK,1.0,1.257861635220126
+esophagusmuscularis,Adipocyte,MATK,1.0,1.1428571428571428
+esophagusmuscularis,Glia,MATK,1.0,1.134020618556701
+esophagusmucosa,Stromal,MATK,1.0909091,1.1122345803842264
+skin,Other,MATK,1.0,1.106194690265487
+esophagusmucosa,Immune (myeloid),MATK,1.0,0.8583690987124464
+skin,Epithelial cell,MATK,1.0,0.8305647840531563
+heart,Immune (myeloid),MATK,1.0943396,0.828254414752305
+breast,Endothelial cell,MATK,1.0,0.7945516458569807
+esophagusmuscularis,Endothelial cell,MATK,1.030303,0.7397444519166106
+skeletalmuscle,Muscle,MATK,1.0,0.7354570023481458
+esophagusmuscularis,Immune (myeloid),MATK,1.0952381,0.7087411407357408
+skeletalmuscle,Immune (myeloid),MATK,1.0,0.6784260515603799
+heart,Fibroblast,MATK,1.0,0.678367610638527
+breast,Muscle,MATK,1.0,0.6578947368421052
+esophagusmucosa,Epithelial cell,MATK,1.0,0.6451145259495505
+skeletalmuscle,Fibroblast,MATK,1.0,0.639300134589502
+esophagusmuscularis,Muscle,MATK,1.0215054,0.6254623713766898
+esophagusmuscularis,Fibroblast,MATK,1.0,0.605245460659045
+esophagusmucosa,Muscle,MATK,1.0,0.5988023952095809
+prostate,Epithelial cell,MATK,1.0223881,0.58076539678412
+skin,Fibroblast,MATK,1.0,0.5671077504725899
+prostate,Endothelial cell,MATK,1.0,0.5661712668082095
+skin,Epithelial cell (keratinocyte),MATK,1.0909091,0.5649717514124294
+skin,Immune (myeloid),MATK,1.0,0.5586592178770949
+heart,Endothelial cell,MATK,1.0,0.550098231827112
+prostate,Muscle,MATK,1.0,0.490414623272403
+lung,Fibroblast,MATK,1.0,0.4742547425474254
+prostate,Fibroblast,MATK,1.0,0.4378283712784588
+esophagusmucosa,Endothelial cell,MATK,1.0,0.4275331338178709
+breast,Epithelial cell,MATK,1.0,0.3793757544404207
+skeletalmuscle,Endothelial cell,MATK,1.0,0.3756574004507889
+breast,Fibroblast,MATK,1.0,0.3663003663003663
+breast,Adipocyte,MATK,1.0,0.3407155025553662
+heart,Glia,MATK,1.0,0.3355704697986577
+esophagusmucosa,Fibroblast,MATK,1.0,0.2486678507992895
+esophagusmucosa,Glia,MATK,0.0,0.0
+esophagusmuscularis,Neuron,MATK,0.0,0.0
+heart,Adipocyte,MATK,0.0,0.0
+prostate,Glia,MATK,0.0,0.0
+lung,Muscle,MATK,0.0,0.0
+skin,Adipocyte,MATK,0.0,0.0
+skin,Immune (lymphocyte),MATK,0.0,0.0
+skin,Melanocyte,MATK,0.0,0.0
+skin,Muscle,MATK,0.0,0.0

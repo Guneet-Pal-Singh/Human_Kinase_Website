@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Adipocyte,TAF1,1.2222222,30.85714285714285
+heart,Adipocyte,TAF1,1.372549,26.42487046632124
+esophagusmucosa,Stromal,TAF1,1.3057852,24.469160768452983
+esophagusmuscularis,Neuron,TAF1,1.1666666,24.0
+skeletalmuscle,Muscle,TAF1,1.3111193,23.8669088653582
+heart,Muscle,TAF1,1.3938731,22.728779840848805
+skeletalmuscle,Adipocyte,TAF1,1.2121212,20.75471698113208
+skin,Epithelial cell (keratinocyte),TAF1,1.2561308,18.84951206985105
+lung,Immune (myeloid),TAF1,1.1887621,18.67519265453353
+prostate,Muscle,TAF1,1.2020725,17.209094962104324
+skin,Endothelial cell,TAF1,1.2183908,17.008797653958943
+esophagusmucosa,Muscle,TAF1,1.2,16.966067864271455
+esophagusmuscularis,Endothelial cell,TAF1,1.2079344,16.38646043488007
+esophagusmucosa,Epithelial cell,TAF1,1.2383488,16.330820527689184
+breast,Adipocyte,TAF1,1.2125436,16.297558205565018
+prostate,Endothelial cell,TAF1,1.190372,16.171266808209484
+skin,Immune (lymphocyte),TAF1,1.3333334,16.0
+lung,Epithelial cell,TAF1,1.137812,15.642782969885774
+esophagusmuscularis,Muscle,TAF1,1.2081721,15.636559284417244
+esophagusmucosa,Endothelial cell,TAF1,1.1950549,15.5622060709705
+lung,Muscle,TAF1,1.04,15.337423312883436
+skeletalmuscle,Endothelial cell,TAF1,1.132353,15.326821938392184
+prostate,Epithelial cell,TAF1,1.1794505,15.143241017639667
+breast,Muscle,TAF1,1.2173913,15.13157894736842
+skin,Fibroblast,TAF1,1.1125,15.122873345935728
+skin,Epithelial cell,TAF1,1.3076923,15.11627906976744
+skin,Muscle,TAF1,1.2857143,15.053763440860216
+esophagusmucosa,Immune (myeloid),TAF1,1.1407768,14.73533619456366
+skin,Immune (myeloid),TAF1,1.1538461,14.52513966480447
+breast,Epithelial cell,TAF1,1.1456548,14.088635971719263
+esophagusmucosa,Immune (lymphocyte),TAF1,1.1015625,14.08140814081408
+esophagusmuscularis,Immune (lymphocyte),TAF1,1.0714285,13.953488372093023
+prostate,Immune (myeloid),TAF1,1.1398602,13.910505836575876
+heart,Glia,TAF1,1.097561,13.758389261744966
+lung,Fibroblast,TAF1,1.0940593,13.685636856368562
+esophagusmucosa,Fibroblast,TAF1,1.1263441,13.214920071047958
+heart,Endothelial cell,TAF1,1.1509055,13.018991486574985
+prostate,Fibroblast,TAF1,1.1712328,12.784588441331
+breast,Endothelial cell,TAF1,1.1891892,12.599318955732125
+prostate,Immune (lymphocyte),TAF1,1.1058824,12.463343108504398
+skeletalmuscle,Fibroblast,TAF1,1.1227586,12.197173620457605
+esophagusmuscularis,Glia,TAF1,1.1623932,12.061855670103093
+heart,Fibroblast,TAF1,1.1447842,11.973726714762572
+skin,Other,TAF1,1.1666666,11.946902654867255
+skin,Melanocyte,TAF1,1.09375,11.76470588235294
+esophagusmuscularis,Immune (myeloid),TAF1,1.090379,11.576105298683768
+skeletalmuscle,Immune (myeloid),TAF1,1.0470588,11.533242876526458
+heart,Immune (lymphocyte),TAF1,1.15,11.461318051575931
+breast,Immune (myeloid),TAF1,1.1463414,11.452513966480447
+lung,Endothelial cell,TAF1,1.067742,11.289147851420248
+heart,Immune (myeloid),TAF1,1.1233672,10.767307391779966
+esophagusmuscularis,Fibroblast,TAF1,1.0992714,10.548563742914784
+skin,Adipocyte,TAF1,1.1666666,9.67741935483871
+lung,Immune (lymphocyte),TAF1,1.0441177,9.379310344827587
+skeletalmuscle,Immune (lymphocyte),TAF1,1.1111112,9.0
+skeletalmuscle,Glia,TAF1,1.0,8.571428571428571
+breast,Fibroblast,TAF1,1.0746269,8.18070818070818
+esophagusmucosa,Glia,TAF1,1.4,7.6923076923076925
+prostate,Glia,TAF1,1.0,5.970149253731343

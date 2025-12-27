@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+prostate,Epithelial cell,ALDH18A1,1.1155812,6.787153816148746
+heart,Adipocyte,ALDH18A1,1.0769231,6.735751295336788
+breast,Muscle,ALDH18A1,1.0,5.921052631578947
+esophagusmuscularis,Adipocyte,ALDH18A1,1.1,5.714285714285714
+esophagusmucosa,Epithelial cell,ALDH18A1,1.069863,5.291388808350246
+prostate,Muscle,ALDH18A1,1.0598291,5.21622826571556
+heart,Fibroblast,ALDH18A1,1.0898618,4.673199095509852
+skin,Epithelial cell,ALDH18A1,1.04,4.152823920265781
+esophagusmuscularis,Neuron,ALDH18A1,1.0,4.0
+esophagusmucosa,Stromal,ALDH18A1,1.0769231,3.9433771486349847
+heart,Muscle,ALDH18A1,1.0703624,3.887599469496021
+prostate,Fibroblast,ALDH18A1,1.0227273,3.852889667250438
+lung,Epithelial cell,ALDH18A1,1.0477387,3.3063343717549327
+breast,Fibroblast,ALDH18A1,1.037037,3.296703296703297
+skin,Adipocyte,ALDH18A1,1.0,3.225806451612903
+esophagusmucosa,Glia,ALDH18A1,1.0,3.076923076923077
+breast,Epithelial cell,ALDH18A1,1.0862069,3.0005173305742368
+skeletalmuscle,Glia,ALDH18A1,1.0,2.857142857142857
+skin,Epithelial cell (keratinocyte),ALDH18A1,1.0,2.722136620441705
+lung,Fibroblast,ALDH18A1,1.05,2.710027100271003
+esophagusmuscularis,Fibroblast,ALDH18A1,1.0269231,2.497838409069075
+esophagusmucosa,Fibroblast,ALDH18A1,1.1014493,2.4511545293072827
+breast,Adipocyte,ALDH18A1,1.0,2.328222600795003
+prostate,Endothelial cell,ALDH18A1,1.0625,2.264685067232838
+lung,Immune (myeloid),ALDH18A1,1.0441177,2.2298737497950483
+esophagusmucosa,Immune (lymphocyte),ALDH18A1,1.075,2.2002200220022003
+skin,Muscle,ALDH18A1,1.0,2.1505376344086025
+heart,Immune (lymphocyte),ALDH18A1,1.0,2.148997134670487
+esophagusmuscularis,Muscle,ALDH18A1,1.025974,2.071423767570112
+esophagusmuscularis,Endothelial cell,ALDH18A1,1.0329671,2.039901367406411
+skin,Melanocyte,ALDH18A1,1.0,1.8382352941176472
+esophagusmucosa,Endothelial cell,ALDH18A1,1.1058824,1.8170158187259515
+breast,Endothelial cell,ALDH18A1,1.0,1.8161180476730987
+lung,Immune (lymphocyte),ALDH18A1,1.0769231,1.793103448275862
+esophagusmucosa,Immune (myeloid),ALDH18A1,1.0,1.78826895565093
+skin,Other,ALDH18A1,1.375,1.7699115044247788
+heart,Glia,ALDH18A1,1.0,1.6778523489932886
+esophagusmuscularis,Glia,ALDH18A1,1.0,1.6494845360824744
+skeletalmuscle,Fibroblast,ALDH18A1,1.0212766,1.5814266487214
+heart,Endothelial cell,ALDH18A1,1.025,1.5717092337917484
+breast,Immune (myeloid),ALDH18A1,1.0,1.3966480446927374
+lung,Endothelial cell,ALDH18A1,1.027027,1.347414420975965
+skin,Immune (lymphocyte),ALDH18A1,1.0,1.3333333333333337
+skeletalmuscle,Endothelial cell,ALDH18A1,1.0588236,1.2772351615326822
+prostate,Immune (myeloid),ALDH18A1,1.0769231,1.264591439688716
+lung,Muscle,ALDH18A1,1.0,1.2269938650306749
+esophagusmucosa,Muscle,ALDH18A1,1.3333334,1.1976047904191618
+heart,Immune (myeloid),ALDH18A1,1.0447761,1.0470385997812155
+skeletalmuscle,Immune (lymphocyte),ALDH18A1,1.0,1.0
+skin,Fibroblast,ALDH18A1,1.0,0.945179584120983
+esophagusmuscularis,Immune (myeloid),ALDH18A1,1.074074,0.911238609517381
+prostate,Immune (lymphocyte),ALDH18A1,1.0,0.8797653958944283
+esophagusmuscularis,Immune (lymphocyte),ALDH18A1,1.0,0.6644518272425249
+skeletalmuscle,Adipocyte,ALDH18A1,1.0,0.628930817610063
+skeletalmuscle,Muscle,ALDH18A1,1.008,0.553807983695893
+skeletalmuscle,Immune (myeloid),ALDH18A1,1.0,0.5427408412483039
+skin,Endothelial cell,ALDH18A1,1.0,0.4887585532746823
+prostate,Glia,ALDH18A1,0.0,0.0
+skin,Immune (myeloid),ALDH18A1,0.0,0.0

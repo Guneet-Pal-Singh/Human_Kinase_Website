@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Melanocyte,PIKFYVE,0.706095
+Immune (DC),PIKFYVE,0.6830113
+Immune (Langerhans),PIKFYVE,0.551963
+Immune (B cell),PIKFYVE,0.5416754
+Immune (alveolar macrophage),PIKFYVE,0.4337343
+Immune (DC/macrophage),PIKFYVE,0.4228192
+Neuronal,PIKFYVE,0.4226143
+Epithelial cell (suprabasal keratinocyte),PIKFYVE,0.41520908
+Myocyte (cardiac),PIKFYVE,0.40692356
+Epithelial cell (luminal),PIKFYVE,0.3988144
+Mucous cell,PIKFYVE,0.39382604
+Immune (mast cell),PIKFYVE,0.38520363
+Myofibroblast,PIKFYVE,0.37041286
+Sebaceous gland cell,PIKFYVE,0.36594325
+Epithelial cell (basal),PIKFYVE,0.3500971
+Neuroendocrine,PIKFYVE,0.34969524
+Epithelial cell (club),PIKFYVE,0.33717325
+Epithelial cell (basal keratinocyte),PIKFYVE,0.32418165
+Adipocyte,PIKFYVE,0.32236376
+Epithelial cell (suprabasal),PIKFYVE,0.3173832
+ICCs,PIKFYVE,0.3157853
+Epithelial cell (Hillock),PIKFYVE,0.3078916
+Epithelial cell (alveolar type II),PIKFYVE,0.30745304
+Endothelial cell (vascular),PIKFYVE,0.30444252
+Pericyte/SMC,PIKFYVE,0.30182227
+Sweat gland cell,PIKFYVE,0.29779255
+Endothelial cell (lymphatic),PIKFYVE,0.2699686
+Myocyte (smooth muscle),PIKFYVE,0.26196563
+Immune (T cell),PIKFYVE,0.26162064
+Fibroblast,PIKFYVE,0.26146194
+Myoepithelial (basal),PIKFYVE,0.25752136
+Epithelial cell (mature keratinocyte),PIKFYVE,0.25333217
+Epithelial cell (alveolar type I),PIKFYVE,0.25141075
+Schwann cell,PIKFYVE,0.24195014
+Myocyte (NMJ-rich),PIKFYVE,0.23836552
+Satellite cell,PIKFYVE,0.2365779
+Epithelial cell (cornified keratinocyte),PIKFYVE,0.2313882
+Immune (NK cell),PIKFYVE,0.2235572
+Epithelial cell (ciliated),PIKFYVE,0.20342419
+Myocyte (sk. muscle),PIKFYVE,0.1650643
+Epithelial cell (squamous),PIKFYVE,0.1316711
+"Myocyte (cardiac, cytoplasmic)",PIKFYVE,0.12713711
+"Myocyte (sk. muscle, cytoplasmic)",PIKFYVE,0.09319751

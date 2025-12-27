@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+prostate,Endothelial cell,YES1,1.30602,21.16065109695683
+heart,Endothelial cell,YES1,1.1928825,18.40209561231172
+skeletalmuscle,Endothelial cell,YES1,1.2263374,18.25694966190834
+esophagusmuscularis,Endothelial cell,YES1,1.2689912,18.000448329970858
+esophagusmucosa,Endothelial cell,YES1,1.2036364,17.635741769987174
+skin,Endothelial cell,YES1,1.2012196,16.03128054740958
+breast,Endothelial cell,YES1,1.2061069,14.869466515323497
+heart,Immune (lymphocyte),YES1,1.2233009,14.756446991404012
+lung,Endothelial cell,YES1,1.1407036,14.493809176984705
+heart,Muscle,YES1,1.1823568,12.591180371352786
+esophagusmuscularis,Adipocyte,YES1,1.1428572,12.0
+esophagusmucosa,Epithelial cell,YES1,1.164143,11.967236880255149
+prostate,Epithelial cell,YES1,1.1542398,11.858015862696655
+heart,Adipocyte,YES1,1.1,10.362694300518134
+esophagusmucosa,Stromal,YES1,1.1515151,10.010111223458038
+lung,Epithelial cell,YES1,1.1135135,9.989615784008308
+esophagusmuscularis,Muscle,YES1,1.1033654,8.393301499764611
+prostate,Muscle,YES1,1.1270719,8.069549710209541
+heart,Fibroblast,YES1,1.0905173,7.494346936578013
+skin,Epithelial cell,YES1,1.1333333,7.475083056478406
+lung,Muscle,YES1,1.0833334,7.361963190184049
+lung,Immune (lymphocyte),YES1,1.1320754,7.310344827586207
+esophagusmuscularis,Immune (lymphocyte),YES1,1.3181819,7.308970099667775
+skeletalmuscle,Adipocyte,YES1,1.0,6.918238993710692
+breast,Epithelial cell,YES1,1.0904255,6.483876530436282
+prostate,Fibroblast,YES1,1.0746269,5.866900175131348
+esophagusmuscularis,Fibroblast,YES1,1.0840198,5.831491978095879
+skeletalmuscle,Glia,YES1,1.0,5.714285714285714
+lung,Immune (myeloid),YES1,1.1111112,5.607476635514018
+skin,Other,YES1,1.2,5.530973451327434
+esophagusmuscularis,Glia,YES1,1.1538461,5.360824742268041
+skeletalmuscle,Fibroblast,YES1,1.0788643,5.333109017496636
+skin,Epithelial cell (keratinocyte),YES1,1.127451,5.238828967642527
+esophagusmuscularis,Immune (myeloid),YES1,1.1419355,5.231184610192373
+esophagusmucosa,Fibroblast,YES1,1.0769231,5.079928952042629
+skeletalmuscle,Immune (lymphocyte),YES1,1.0,5.0
+esophagusmucosa,Muscle,YES1,1.04,4.990019960079841
+skin,Muscle,YES1,1.1111112,4.838709677419355
+lung,Fibroblast,YES1,1.112676,4.810298102981029
+skeletalmuscle,Muscle,YES1,1.0641547,4.350715519914935
+skin,Melanocyte,YES1,1.0909091,4.044117647058823
+skin,Immune (lymphocyte),YES1,1.0,4.0
+skin,Fibroblast,YES1,1.0,3.969754253308128
+breast,Adipocyte,YES1,1.0289855,3.918228279386713
+breast,Fibroblast,YES1,1.0967742,3.785103785103785
+breast,Immune (myeloid),YES1,1.0,3.35195530726257
+breast,Muscle,YES1,1.0,3.289473684210526
+esophagusmucosa,Glia,YES1,1.5,3.076923076923077
+prostate,Glia,YES1,1.0,2.985074626865672
+esophagusmucosa,Immune (myeloid),YES1,1.0487804,2.9327610872675254
+heart,Glia,YES1,1.125,2.684563758389262
+prostate,Immune (lymphocyte),YES1,1.0,2.346041055718475
+skin,Immune (myeloid),YES1,1.25,2.23463687150838
+esophagusmucosa,Immune (lymphocyte),YES1,1.117647,1.87018701870187
+skeletalmuscle,Immune (myeloid),YES1,1.0,1.2211668928086838
+heart,Immune (myeloid),YES1,1.2553191,0.734489764025629
+prostate,Immune (myeloid),YES1,1.0,0.4863813229571984
+esophagusmuscularis,Neuron,YES1,0.0,0.0
+skin,Adipocyte,YES1,0.0,0.0

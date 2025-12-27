@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Adipocyte,PDPK1,1.1515151,18.857142857142858
+esophagusmucosa,Stromal,PDPK1,1.1491712,18.301314459049543
+heart,Adipocyte,PDPK1,1.117647,17.616580310880828
+heart,Muscle,PDPK1,1.2065899,15.848806366047748
+esophagusmucosa,Immune (myeloid),PDPK1,1.1552511,15.665236051502148
+skin,Immune (myeloid),PDPK1,1.1071428,15.64245810055866
+lung,Immune (myeloid),PDPK1,1.1709497,14.674536809313002
+esophagusmucosa,Epithelial cell,PDPK1,1.1652436,14.431719338938825
+prostate,Immune (myeloid),PDPK1,1.119403,13.03501945525292
+heart,Immune (myeloid),PDPK1,1.1239048,12.486325988435691
+lung,Epithelial cell,PDPK1,1.1227648,12.078920041536865
+prostate,Muscle,PDPK1,1.141264,11.992866696388765
+skin,Muscle,PDPK1,1.0,11.29032258064516
+prostate,Epithelial cell,PDPK1,1.1330677,10.878516014389112
+skeletalmuscle,Immune (myeloid),PDPK1,1.0759493,10.719131614654003
+skin,Melanocyte,PDPK1,1.1724138,10.661764705882351
+esophagusmucosa,Immune (lymphocyte),PDPK1,1.1027027,10.176017601760176
+breast,Adipocyte,PDPK1,1.0960453,10.051107325383304
+esophagusmucosa,Muscle,PDPK1,1.0208334,9.580838323353294
+skin,Epithelial cell (keratinocyte),PDPK1,1.1358696,9.450436569080637
+esophagusmuscularis,Immune (myeloid),PDPK1,1.1304348,9.314883563955451
+lung,Fibroblast,PDPK1,1.0729927,9.281842818428183
+heart,Glia,PDPK1,1.074074,9.060402684563758
+esophagusmucosa,Endothelial cell,PDPK1,1.0864197,8.657545959811886
+breast,Endothelial cell,PDPK1,1.0821918,8.286038592508513
+breast,Epithelial cell,PDPK1,1.0772443,8.260044835316434
+breast,Immune (myeloid),PDPK1,1.0689656,8.100558659217876
+esophagusmuscularis,Neuron,PDPK1,1.5,8.0
+skin,Immune (lymphocyte),PDPK1,1.0,8.0
+skin,Other,PDPK1,1.1428572,7.7433628318584065
+lung,Immune (lymphocyte),PDPK1,1.0363636,7.586206896551724
+skin,Epithelial cell,PDPK1,1.1777778,7.475083056478406
+heart,Fibroblast,PDPK1,1.0612245,7.38666953806396
+esophagusmuscularis,Muscle,PDPK1,1.0811567,7.209630775438833
+prostate,Endothelial cell,PDPK1,1.0640393,7.183297947629158
+skeletalmuscle,Muscle,PDPK1,1.0860682,7.155199149350937
+esophagusmucosa,Fibroblast,PDPK1,1.06,7.104795737122557
+prostate,Fibroblast,PDPK1,1.0625,7.005253940455342
+esophagusmuscularis,Immune (lymphocyte),PDPK1,1.0476191,6.976744186046512
+lung,Muscle,PDPK1,1.0909091,6.748466257668712
+breast,Muscle,PDPK1,1.0,6.578947368421052
+skin,Endothelial cell,PDPK1,1.0298507,6.549364613880742
+skin,Adipocyte,PDPK1,1.0,6.451612903225806
+skin,Fibroblast,PDPK1,1.0294118,6.427221172022684
+esophagusmuscularis,Glia,PDPK1,1.0175439,5.876288659793814
+heart,Immune (lymphocyte),PDPK1,1.0487804,5.873925501432665
+esophagusmuscularis,Endothelial cell,PDPK1,1.0711462,5.671374131360682
+heart,Endothelial cell,PDPK1,1.0854503,5.671250818598559
+skeletalmuscle,Adipocyte,PDPK1,1.0,5.660377358490567
+skeletalmuscle,Endothelial cell,PDPK1,1.081081,5.559729526671676
+lung,Endothelial cell,PDPK1,1.0620689,5.28040786598689
+prostate,Immune (lymphocyte),PDPK1,1.0285715,5.131964809384164
+breast,Fibroblast,PDPK1,1.0952381,5.128205128205128
+skeletalmuscle,Immune (lymphocyte),PDPK1,1.0,5.0
+skeletalmuscle,Fibroblast,PDPK1,1.0471381,4.996635262449529
+esophagusmuscularis,Fibroblast,PDPK1,1.042885,4.928427322509367
+prostate,Glia,PDPK1,1.0,4.477611940298507
+esophagusmucosa,Glia,PDPK1,1.0,3.076923076923077
+skeletalmuscle,Glia,PDPK1,1.0,2.857142857142857

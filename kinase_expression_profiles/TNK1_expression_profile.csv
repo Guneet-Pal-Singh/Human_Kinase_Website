@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (DC),TNK1,0.09803241
+Melanocyte,TNK1,0.06790255
+Schwann cell,TNK1,0.06610595
+Epithelial cell (mature keratinocyte),TNK1,0.050497685
+Neuroendocrine,TNK1,0.0445969
+Epithelial cell (luminal),TNK1,0.04070844
+Mucous cell,TNK1,0.03618787
+Epithelial cell (Hillock),TNK1,0.03523741
+Epithelial cell (basal),TNK1,0.03483808
+Epithelial cell (club),TNK1,0.034748934
+Epithelial cell (basal keratinocyte),TNK1,0.033412416
+Epithelial cell (suprabasal),TNK1,0.03217137
+Sweat gland cell,TNK1,0.030450938
+Epithelial cell (squamous),TNK1,0.028204206
+Immune (NK cell),TNK1,0.026055822
+Epithelial cell (ciliated),TNK1,0.022443505
+Epithelial cell (suprabasal keratinocyte),TNK1,0.018360827
+Epithelial cell (alveolar type I),TNK1,0.018028473
+Myocyte (smooth muscle),TNK1,0.016382739
+Myoepithelial (basal),TNK1,0.015404844
+Epithelial cell (alveolar type II),TNK1,0.015314658
+Immune (T cell),TNK1,0.014556537
+Myocyte (cardiac),TNK1,0.013792736
+Myofibroblast,TNK1,0.013664801
+Endothelial cell (vascular),TNK1,0.01207087
+Endothelial cell (lymphatic),TNK1,0.0114600025
+Immune (mast cell),TNK1,0.009130499
+Immune (alveolar macrophage),TNK1,0.008764219
+Fibroblast,TNK1,0.008514965
+Myocyte (sk. muscle),TNK1,0.008303459
+Immune (DC/macrophage),TNK1,0.0051247412
+Pericyte/SMC,TNK1,0.004516754
+Adipocyte,TNK1,0.003976086
+"Myocyte (sk. muscle, cytoplasmic)",TNK1,0.0022455489
+"Myocyte (cardiac, cytoplasmic)",TNK1,0.0014769187
+Epithelial cell (cornified keratinocyte),TNK1,0.0
+Immune (Langerhans),TNK1,0.0
+ICCs,TNK1,0.0
+Immune (B cell),TNK1,0.0
+Myocyte (NMJ-rich),TNK1,0.0
+Neuronal,TNK1,0.0
+Satellite cell,TNK1,0.0
+Sebaceous gland cell,TNK1,0.0

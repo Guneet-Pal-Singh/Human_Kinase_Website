@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmucosa,Epithelial cell,CSNK1G1,1.0918196,4.341838213975065
+esophagusmucosa,Stromal,CSNK1G1,1.0,3.9433771486349847
+lung,Muscle,CSNK1G1,1.1666666,3.6809815950920246
+lung,Immune (myeloid),CSNK1G1,1.037037,3.0988686669945893
+skin,Other,CSNK1G1,1.0714285,3.0973451327433628
+prostate,Epithelial cell,CSNK1G1,1.0533708,3.0858579291812944
+prostate,Glia,CSNK1G1,1.5,2.985074626865672
+heart,Muscle,CSNK1G1,1.0461096,2.876326259946949
+breast,Muscle,CSNK1G1,1.5,2.631578947368421
+skin,Epithelial cell,CSNK1G1,1.0666667,2.491694352159469
+breast,Epithelial cell,CSNK1G1,1.0583942,2.362476289015348
+lung,Epithelial cell,CSNK1G1,1.037037,2.355140186915888
+prostate,Muscle,CSNK1G1,1.0196079,2.2737405260811414
+prostate,Fibroblast,CSNK1G1,1.0833334,2.1015761821366024
+heart,Adipocyte,CSNK1G1,1.25,2.072538860103627
+prostate,Endothelial cell,CSNK1G1,1.0862069,2.0523708421797595
+skeletalmuscle,Immune (myeloid),CSNK1G1,1.0,2.03527815468114
+heart,Immune (myeloid),CSNK1G1,1.0387597,2.0159399906235347
+breast,Immune (myeloid),CSNK1G1,1.0,1.9553072625698324
+skin,Endothelial cell,CSNK1G1,1.05,1.9550342130987293
+heart,Fibroblast,CSNK1G1,1.0276244,1.9489609131043395
+prostate,Immune (myeloid),CSNK1G1,1.0,1.9455252918287935
+esophagusmucosa,Immune (myeloid),CSNK1G1,1.037037,1.9313304721030045
+lung,Fibroblast,CSNK1G1,1.0,1.8970189701897016
+skin,Epithelial cell (keratinocyte),CSNK1G1,1.0277778,1.848998459167951
+skin,Melanocyte,CSNK1G1,1.2,1.8382352941176472
+breast,Adipocyte,CSNK1G1,1.03125,1.8171493469619533
+esophagusmucosa,Endothelial cell,CSNK1G1,1.0240964,1.774262505344164
+skin,Immune (myeloid),CSNK1G1,1.0,1.675977653631285
+esophagusmuscularis,Immune (lymphocyte),CSNK1G1,1.0,1.6611295681063123
+esophagusmucosa,Immune (lymphocyte),CSNK1G1,1.0,1.65016501650165
+skin,Adipocyte,CSNK1G1,1.0,1.6129032258064515
+breast,Endothelial cell,CSNK1G1,1.0,1.5891032917139614
+esophagusmucosa,Glia,CSNK1G1,1.0,1.5384615384615383
+lung,Endothelial cell,CSNK1G1,1.0243902,1.4930808448652586
+skeletalmuscle,Muscle,CSNK1G1,1.0327381,1.4886358601745604
+skeletalmuscle,Fibroblast,CSNK1G1,1.0113636,1.4804845222072678
+prostate,Immune (lymphocyte),CSNK1G1,1.0,1.466275659824047
+heart,Immune (lymphocyte),CSNK1G1,1.0,1.4326647564469914
+esophagusmuscularis,Muscle,CSNK1G1,1.0331753,1.4190597888223822
+esophagusmucosa,Muscle,CSNK1G1,1.0,1.3972055888223551
+skin,Immune (lymphocyte),CSNK1G1,1.0,1.3333333333333337
+skeletalmuscle,Adipocyte,CSNK1G1,1.0,1.257861635220126
+lung,Immune (lymphocyte),CSNK1G1,1.0,1.2413793103448276
+esophagusmuscularis,Glia,CSNK1G1,1.0,1.2371134020618555
+breast,Fibroblast,CSNK1G1,1.1,1.221001221001221
+heart,Endothelial cell,CSNK1G1,1.0114943,1.1394891944990178
+skeletalmuscle,Endothelial cell,CSNK1G1,1.0,1.1269722013523666
+skeletalmuscle,Immune (lymphocyte),CSNK1G1,1.0,1.0
+esophagusmucosa,Fibroblast,CSNK1G1,1.037037,0.9591474245115452
+esophagusmuscularis,Immune (myeloid),CSNK1G1,1.0,0.9449881876476544
+esophagusmuscularis,Endothelial cell,CSNK1G1,1.0243902,0.9190764402600312
+esophagusmuscularis,Fibroblast,CSNK1G1,1.0109891,0.8742434431741762
+esophagusmuscularis,Adipocyte,CSNK1G1,1.0,0.5714285714285714
+skin,Muscle,CSNK1G1,1.0,0.5376344086021506
+heart,Glia,CSNK1G1,0.0,0.0
+esophagusmuscularis,Neuron,CSNK1G1,0.0,0.0
+skeletalmuscle,Glia,CSNK1G1,0.0,0.0
+skin,Fibroblast,CSNK1G1,0.0,0.0

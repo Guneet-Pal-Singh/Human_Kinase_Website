@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Myofibroblast,TRIO,1.4273684
+Myocyte (smooth muscle),TRIO,1.2522388
+Immune (mast cell),TRIO,1.2353406
+Immune (alveolar macrophage),TRIO,1.2241725
+Adipocyte,TRIO,1.2114202
+Epithelial cell (luminal),TRIO,1.2094299
+Myocyte (cardiac),TRIO,1.1965747
+ICCs,TRIO,1.179271
+Endothelial cell (lymphatic),TRIO,1.1766851
+Neuroendocrine,TRIO,1.1361563
+Epithelial cell (alveolar type II),TRIO,1.1112325
+Immune (B cell),TRIO,1.0993247
+Epithelial cell (club),TRIO,1.0906521
+Endothelial cell (vascular),TRIO,1.040247
+Immune (DC),TRIO,1.0198774
+Epithelial cell (alveolar type I),TRIO,1.0034747
+Epithelial cell (basal),TRIO,0.9839376
+Immune (DC/macrophage),TRIO,0.95098424
+Myoepithelial (basal),TRIO,0.9465889
+Immune (Langerhans),TRIO,0.93770856
+Epithelial cell (Hillock),TRIO,0.9250389
+Fibroblast,TRIO,0.8968891
+Mucous cell,TRIO,0.89663553
+Epithelial cell (suprabasal),TRIO,0.8715312
+Neuronal,TRIO,0.8622855
+Schwann cell,TRIO,0.84025246
+Pericyte/SMC,TRIO,0.828228
+Melanocyte,TRIO,0.80743235
+Satellite cell,TRIO,0.7779449
+Epithelial cell (basal keratinocyte),TRIO,0.75564617
+Myocyte (NMJ-rich),TRIO,0.7174907
+Epithelial cell (ciliated),TRIO,0.6642556
+Sweat gland cell,TRIO,0.6605779
+Myocyte (sk. muscle),TRIO,0.64210105
+Epithelial cell (suprabasal keratinocyte),TRIO,0.61642295
+Sebaceous gland cell,TRIO,0.57793736
+Epithelial cell (mature keratinocyte),TRIO,0.44886547
+Immune (NK cell),TRIO,0.40372205
+"Myocyte (cardiac, cytoplasmic)",TRIO,0.33685002
+"Myocyte (sk. muscle, cytoplasmic)",TRIO,0.28916702
+Epithelial cell (cornified keratinocyte),TRIO,0.2705735
+Epithelial cell (squamous),TRIO,0.20489451
+Immune (T cell),TRIO,0.15974295

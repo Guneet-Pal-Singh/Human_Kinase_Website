@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (alveolar type II),BRAF,1.2145023
+Neuroendocrine,BRAF,1.186745
+Epithelial cell (mature keratinocyte),BRAF,1.181932
+Myocyte (cardiac),BRAF,1.1521521
+Epithelial cell (Hillock),BRAF,1.0659213
+Sebaceous gland cell,BRAF,1.0231407
+Epithelial cell (club),BRAF,1.0090592
+Epithelial cell (alveolar type I),BRAF,1.0003074
+Epithelial cell (luminal),BRAF,0.97820956
+ICCs,BRAF,0.9166075
+Epithelial cell (ciliated),BRAF,0.8870154
+Endothelial cell (vascular),BRAF,0.884687
+Endothelial cell (lymphatic),BRAF,0.88227165
+Neuronal,BRAF,0.8781822
+Epithelial cell (basal),BRAF,0.8700764
+Myocyte (NMJ-rich),BRAF,0.85551685
+Mucous cell,BRAF,0.8528028
+Myofibroblast,BRAF,0.8500203
+Satellite cell,BRAF,0.8434762
+Epithelial cell (suprabasal keratinocyte),BRAF,0.83745116
+Epithelial cell (suprabasal),BRAF,0.8306947
+Immune (B cell),BRAF,0.82843715
+Pericyte/SMC,BRAF,0.8252874
+Immune (DC),BRAF,0.80955875
+Immune (alveolar macrophage),BRAF,0.80514526
+Fibroblast,BRAF,0.8041144
+Melanocyte,BRAF,0.79836744
+Immune (T cell),BRAF,0.79554385
+Immune (NK cell),BRAF,0.7809879
+Myoepithelial (basal),BRAF,0.77310276
+Myocyte (smooth muscle),BRAF,0.76923877
+Schwann cell,BRAF,0.76669306
+Sweat gland cell,BRAF,0.7664074
+Immune (Langerhans),BRAF,0.7644408
+Immune (DC/macrophage),BRAF,0.7327007
+Adipocyte,BRAF,0.73101383
+Myocyte (sk. muscle),BRAF,0.7067232
+Epithelial cell (basal keratinocyte),BRAF,0.70440364
+Immune (mast cell),BRAF,0.69120085
+Epithelial cell (cornified keratinocyte),BRAF,0.5671738
+Epithelial cell (squamous),BRAF,0.5278675
+"Myocyte (sk. muscle, cytoplasmic)",BRAF,0.36080208
+"Myocyte (cardiac, cytoplasmic)",BRAF,0.31112242

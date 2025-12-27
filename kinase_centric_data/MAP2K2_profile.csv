@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmucosa,Epithelial cell,MAP2K2,1.5062166,16.32357204986953
+skin,Other,MAP2K2,1.359375,14.15929203539823
+prostate,Muscle,MAP2K2,1.1130742,12.617030762371822
+prostate,Epithelial cell,MAP2K2,1.2486296,11.069215099900315
+esophagusmucosa,Stromal,MAP2K2,1.1730769,10.51567239635996
+esophagusmucosa,Glia,MAP2K2,1.0,9.230769230769232
+breast,Muscle,MAP2K2,1.1428572,9.210526315789473
+heart,Muscle,MAP2K2,1.1651624,9.184350132625994
+prostate,Glia,MAP2K2,1.5,8.955223880597014
+skin,Melanocyte,MAP2K2,1.0454545,8.088235294117647
+esophagusmuscularis,Neuron,MAP2K2,1.0,8.0
+prostate,Immune (myeloid),MAP2K2,1.1234568,7.879377431906614
+breast,Adipocyte,MAP2K2,1.1029412,7.722884724588303
+skin,Immune (myeloid),MAP2K2,1.0,7.262569832402235
+heart,Adipocyte,MAP2K2,1.1428572,7.253886010362693
+prostate,Endothelial cell,MAP2K2,1.0643564,7.147912243453644
+skin,Muscle,MAP2K2,1.0769231,6.989247311827956
+breast,Epithelial cell,MAP2K2,1.107438,6.259699948266944
+esophagusmuscularis,Muscle,MAP2K2,1.1003271,6.167193489811016
+heart,Glia,MAP2K2,1.0,6.04026845637584
+prostate,Fibroblast,MAP2K2,1.0147059,5.954465849387041
+esophagusmucosa,Muscle,MAP2K2,1.137931,5.788423153692615
+skeletalmuscle,Glia,MAP2K2,1.0,5.714285714285714
+skeletalmuscle,Adipocyte,MAP2K2,1.0,5.660377358490567
+heart,Fibroblast,MAP2K2,1.0406189,5.566921503176483
+lung,Immune (myeloid),MAP2K2,1.0979228,5.525495982948024
+skin,Epithelial cell,MAP2K2,1.09375,5.3156146179402
+esophagusmucosa,Immune (myeloid),MAP2K2,1.0140845,5.078683834048641
+esophagusmucosa,Immune (lymphocyte),MAP2K2,1.0109891,5.005500550055006
+esophagusmucosa,Endothelial cell,MAP2K2,1.0484581,4.852501068832835
+skin,Endothelial cell,MAP2K2,1.0408163,4.789833822091887
+heart,Immune (lymphocyte),MAP2K2,1.0,4.584527220630372
+skeletalmuscle,Fibroblast,MAP2K2,1.0407407,4.542395693135935
+skin,Epithelial cell (keratinocyte),MAP2K2,1.045977,4.468412942989214
+esophagusmucosa,Fibroblast,MAP2K2,1.0406504,4.369449378330373
+lung,Epithelial cell,MAP2K2,1.0370731,4.257528556593977
+breast,Immune (myeloid),MAP2K2,1.0666667,4.189944134078212
+breast,Fibroblast,MAP2K2,1.0294118,4.151404151404151
+heart,Immune (myeloid),MAP2K2,1.018868,4.141272073761526
+skin,Immune (lymphocyte),MAP2K2,1.3333334,4.0
+esophagusmuscularis,Immune (lymphocyte),MAP2K2,1.0,3.986710963455149
+esophagusmuscularis,Adipocyte,MAP2K2,1.0,3.428571428571429
+heart,Endothelial cell,MAP2K2,1.0501931,3.392272429600524
+esophagusmuscularis,Fibroblast,MAP2K2,1.0175953,3.276011144202133
+skin,Adipocyte,MAP2K2,1.0,3.225806451612903
+lung,Fibroblast,MAP2K2,1.0638298,3.1842818428184283
+skeletalmuscle,Endothelial cell,MAP2K2,1.0238096,3.155522163786627
+lung,Muscle,MAP2K2,1.0,3.067484662576687
+skin,Fibroblast,MAP2K2,1.0,3.0245746691871456
+lung,Endothelial cell,MAP2K2,1.0,2.8040786598689005
+esophagusmuscularis,Immune (myeloid),MAP2K2,1.0121951,2.7674654066824163
+breast,Endothelial cell,MAP2K2,1.0833334,2.724177071509648
+lung,Immune (lymphocyte),MAP2K2,1.0526316,2.6206896551724137
+esophagusmuscularis,Glia,MAP2K2,1.04,2.5773195876288657
+esophagusmuscularis,Endothelial cell,MAP2K2,1.0614035,2.555480833893746
+prostate,Immune (lymphocyte),MAP2K2,1.0588236,2.49266862170088
+skeletalmuscle,Immune (lymphocyte),MAP2K2,1.0,2.0
+skeletalmuscle,Muscle,MAP2K2,1.0835215,1.9626954942182449
+skeletalmuscle,Immune (myeloid),MAP2K2,1.0,1.35685210312076

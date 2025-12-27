@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skin,Epithelial cell,PKLR,1.0,0.9966777408637874
+lung,Immune (myeloid),PKLR,1.0,0.8362026561731432
+skin,Melanocyte,PKLR,1.0,0.7352941176470588
+lung,Endothelial cell,PKLR,1.0,0.5826656955571741
+lung,Immune (lymphocyte),PKLR,1.0,0.5517241379310345
+heart,Adipocyte,PKLR,1.0,0.5181347150259068
+lung,Epithelial cell,PKLR,1.0,0.4652128764278297
+esophagusmucosa,Stromal,PKLR,1.0,0.3033367037411527
+esophagusmuscularis,Endothelial cell,PKLR,1.0,0.2689979825151311
+skeletalmuscle,Muscle,PKLR,1.0169492,0.2613973683044615
+skeletalmuscle,Fibroblast,PKLR,1.0,0.2523553162853297
+breast,Fibroblast,PKLR,1.0,0.2442002442002442
+heart,Muscle,PKLR,1.0,0.2403846153846154
+esophagusmuscularis,Immune (myeloid),PKLR,1.0,0.2362470469119136
+prostate,Muscle,PKLR,1.0,0.2229157378510923
+heart,Fibroblast,PKLR,1.0,0.2153547970281037
+heart,Endothelial cell,PKLR,1.0,0.2095612311722331
+lung,Fibroblast,PKLR,1.0,0.2032520325203252
+skin,Endothelial cell,PKLR,1.0,0.1955034213098729
+prostate,Immune (myeloid),PKLR,1.0,0.1945525291828793
+esophagusmuscularis,Muscle,PKLR,1.0,0.1815858497545228
+esophagusmucosa,Epithelial cell,PKLR,1.12,0.1812119454914467
+esophagusmuscularis,Fibroblast,PKLR,1.0,0.1729272744740128
+breast,Adipocyte,PKLR,1.0,0.1703577512776831
+prostate,Epithelial cell,PKLR,1.0,0.1603605946344211
+heart,Immune (myeloid),PKLR,1.0,0.1562744178777934
+prostate,Immune (lymphocyte),PKLR,1.0,0.1466275659824047
+heart,Immune (lymphocyte),PKLR,1.0,0.1432664756446991
+breast,Epithelial cell,PKLR,1.0,0.1379548197965166
+esophagusmucosa,Immune (lymphocyte),PKLR,1.0,0.11001100110011
+esophagusmucosa,Fibroblast,PKLR,1.0,0.1065719360568383
+prostate,Endothelial cell,PKLR,1.0,0.1061571125265392
+esophagusmuscularis,Glia,PKLR,1.0,0.1030927835051546
+prostate,Fibroblast,PKLR,1.0,0.0875656742556917
+skeletalmuscle,Endothelial cell,PKLR,1.0,0.0751314800901577
+esophagusmucosa,Immune (myeloid),PKLR,1.0,0.0715307582260371
+skin,Epithelial cell (keratinocyte),PKLR,1.0,0.0513610683102208
+esophagusmucosa,Endothelial cell,PKLR,1.0,0.042753313381787
+breast,Endothelial cell,PKLR,0.0,0.0
+esophagusmucosa,Muscle,PKLR,0.0,0.0
+breast,Immune (myeloid),PKLR,0.0,0.0
+breast,Muscle,PKLR,0.0,0.0
+esophagusmucosa,Glia,PKLR,0.0,0.0
+heart,Glia,PKLR,0.0,0.0
+esophagusmuscularis,Neuron,PKLR,0.0,0.0
+esophagusmuscularis,Adipocyte,PKLR,0.0,0.0
+esophagusmuscularis,Immune (lymphocyte),PKLR,0.0,0.0
+skeletalmuscle,Adipocyte,PKLR,0.0,0.0
+prostate,Glia,PKLR,0.0,0.0
+lung,Muscle,PKLR,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),PKLR,0.0,0.0
+skin,Adipocyte,PKLR,0.0,0.0
+skeletalmuscle,Immune (myeloid),PKLR,0.0,0.0
+skeletalmuscle,Glia,PKLR,0.0,0.0
+skin,Fibroblast,PKLR,0.0,0.0
+skin,Immune (lymphocyte),PKLR,0.0,0.0
+skin,Immune (myeloid),PKLR,0.0,0.0
+skin,Muscle,PKLR,0.0,0.0
+skin,Other,PKLR,0.0,0.0

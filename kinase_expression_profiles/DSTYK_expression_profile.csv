@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Melanocyte,DSTYK,0.779845
+Epithelial cell (mature keratinocyte),DSTYK,0.36528587
+Immune (alveolar macrophage),DSTYK,0.32017156
+Myofibroblast,DSTYK,0.31817508
+Neuroendocrine,DSTYK,0.30456772
+Epithelial cell (ciliated),DSTYK,0.29287416
+Mucous cell,DSTYK,0.2901201
+Schwann cell,DSTYK,0.28705794
+Epithelial cell (suprabasal),DSTYK,0.2841179
+Epithelial cell (alveolar type II),DSTYK,0.28311306
+Myocyte (smooth muscle),DSTYK,0.2638397
+Epithelial cell (alveolar type I),DSTYK,0.26323208
+ICCs,DSTYK,0.24595593
+Epithelial cell (suprabasal keratinocyte),DSTYK,0.24440521
+Endothelial cell (lymphatic),DSTYK,0.237638
+Immune (mast cell),DSTYK,0.22900154
+Epithelial cell (club),DSTYK,0.22384071
+Satellite cell,DSTYK,0.21254595
+Immune (B cell),DSTYK,0.21088088
+Neuronal,DSTYK,0.207142
+Epithelial cell (basal keratinocyte),DSTYK,0.20506357
+Epithelial cell (basal),DSTYK,0.20217659
+Myocyte (cardiac),DSTYK,0.19801782
+Fibroblast,DSTYK,0.19318226
+Endothelial cell (vascular),DSTYK,0.19289403
+Myoepithelial (basal),DSTYK,0.18854539
+Immune (DC/macrophage),DSTYK,0.18102333
+Immune (T cell),DSTYK,0.17899683
+Epithelial cell (squamous),DSTYK,0.17759079
+Immune (NK cell),DSTYK,0.17594542
+Pericyte/SMC,DSTYK,0.17464747
+Immune (DC),DSTYK,0.1660748
+Epithelial cell (Hillock),DSTYK,0.16124
+Epithelial cell (luminal),DSTYK,0.15868843
+Adipocyte,DSTYK,0.153083
+Sweat gland cell,DSTYK,0.13579851
+"Myocyte (sk. muscle, cytoplasmic)",DSTYK,0.13480826
+Myocyte (sk. muscle),DSTYK,0.13420601
+Myocyte (NMJ-rich),DSTYK,0.120740004
+Epithelial cell (cornified keratinocyte),DSTYK,0.11778655
+Sebaceous gland cell,DSTYK,0.09109394
+"Myocyte (cardiac, cytoplasmic)",DSTYK,0.07343342
+Immune (Langerhans),DSTYK,0.0

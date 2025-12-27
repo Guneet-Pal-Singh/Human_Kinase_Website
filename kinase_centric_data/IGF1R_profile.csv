@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmucosa,Stromal,IGF1R,2.0846846,56.117290192113245
+heart,Muscle,IGF1R,3.1517048,50.32327586206896
+prostate,Epithelial cell,IGF1R,1.9899148,49.85047458067872
+heart,Fibroblast,IGF1R,1.6325766,48.85323570582535
+esophagusmucosa,Epithelial cell,IGF1R,1.9380476,47.15134821687445
+breast,Epithelial cell,IGF1R,1.6376629,41.02431453698914
+prostate,Muscle,IGF1R,1.9291428,39.01025412394115
+esophagusmuscularis,Glia,IGF1R,1.5248619,37.31958762886598
+esophagusmucosa,Endothelial cell,IGF1R,1.5274212,36.63958956819153
+esophagusmucosa,Fibroblast,IGF1R,1.4574257,35.879218472468914
+heart,Glia,IGF1R,1.4215686,34.22818791946309
+skin,Fibroblast,IGF1R,1.5059524,31.758034026465022
+prostate,Glia,IGF1R,1.8571428,31.343283582089555
+esophagusmuscularis,Endothelial cell,IGF1R,1.6241033,31.24859896884107
+prostate,Endothelial cell,IGF1R,1.5409836,30.219391365888185
+skin,Endothelial cell,IGF1R,1.3672131,29.814271749755623
+esophagusmucosa,Muscle,IGF1R,1.4161074,29.740518962075846
+skin,Melanocyte,IGF1R,1.3797468,29.044117647058822
+breast,Muscle,IGF1R,1.6363636,28.947368421052637
+skeletalmuscle,Endothelial cell,IGF1R,1.6229947,28.09917355371901
+skin,Muscle,IGF1R,1.5384616,27.956989247311824
+skeletalmuscle,Fibroblast,IGF1R,1.3408126,27.742261103633915
+lung,Fibroblast,IGF1R,1.362745,27.64227642276423
+lung,Muscle,IGF1R,1.4666667,27.607361963190183
+heart,Endothelial cell,IGF1R,1.397632,26.548788474132284
+lung,Epithelial cell,IGF1R,1.3564931,26.48390446521288
+esophagusmuscularis,Muscle,IGF1R,1.424137,25.13282668639451
+prostate,Fibroblast,IGF1R,1.434629,24.78108581436077
+breast,Endothelial cell,IGF1R,1.4009217,24.6311010215664
+lung,Endothelial cell,IGF1R,1.3478916,24.18062636562272
+esophagusmuscularis,Neuron,IGF1R,2.5,24.0
+skin,Epithelial cell (keratinocyte),IGF1R,1.3002481,20.698510529019003
+heart,Adipocyte,IGF1R,1.3589743,20.207253886010363
+esophagusmucosa,Glia,IGF1R,1.3846154,20.0
+esophagusmuscularis,Adipocyte,IGF1R,1.4285715,20.0
+skin,Other,IGF1R,1.1685393,19.690265486725664
+breast,Fibroblast,IGF1R,1.2875,19.536019536019538
+skin,Epithelial cell,IGF1R,1.4310344,19.269102990033225
+esophagusmuscularis,Fibroblast,IGF1R,1.2980132,18.858679988471515
+skeletalmuscle,Muscle,IGF1R,1.4587724,14.292676443223606
+heart,Immune (myeloid),IGF1R,1.2755227,12.705110173464604
+skeletalmuscle,Adipocyte,IGF1R,1.35,12.57861635220126
+breast,Immune (myeloid),IGF1R,1.4318181,12.290502793296088
+esophagusmucosa,Immune (myeloid),IGF1R,1.2592592,11.587982832618025
+lung,Immune (myeloid),IGF1R,1.2144971,11.083784226922448
+prostate,Immune (myeloid),IGF1R,1.4455446,9.82490272373541
+esophagusmuscularis,Immune (myeloid),IGF1R,1.1862069,9.787377657779276
+skeletalmuscle,Immune (myeloid),IGF1R,1.1388888,9.76933514246947
+heart,Immune (lymphocyte),IGF1R,1.15,8.595988538681947
+skeletalmuscle,Glia,IGF1R,1.0,8.571428571428571
+skin,Immune (lymphocyte),IGF1R,1.1666666,8.0
+esophagusmuscularis,Immune (lymphocyte),IGF1R,1.2173913,7.641196013289036
+skeletalmuscle,Immune (lymphocyte),IGF1R,1.0,6.0
+skin,Immune (myeloid),IGF1R,1.2222222,5.027932960893855
+skin,Adipocyte,IGF1R,1.0,4.838709677419355
+prostate,Immune (lymphocyte),IGF1R,1.1612903,4.545454545454546
+lung,Immune (lymphocyte),IGF1R,1.0645162,4.275862068965517
+esophagusmucosa,Immune (lymphocyte),IGF1R,1.2391304,2.5302530253025304
+breast,Adipocyte,IGF1R,1.2894737,2.15786484951732

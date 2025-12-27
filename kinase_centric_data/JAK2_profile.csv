@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skin,Epithelial cell (keratinocyte),JAK2,1.7608696,47.25218284540318
+esophagusmuscularis,Adipocyte,JAK2,1.4142857,40.0
+skeletalmuscle,Adipocyte,JAK2,1.1929824,35.84905660377358
+heart,Adipocyte,JAK2,1.4655173,30.05181347150259
+lung,Muscle,JAK2,1.4375,29.4478527607362
+esophagusmuscularis,Neuron,JAK2,1.4285715,28.000000000000004
+heart,Immune (myeloid),JAK2,1.3073908,27.910611032973904
+esophagusmucosa,Immune (myeloid),JAK2,1.4750656,27.253218884120173
+prostate,Immune (myeloid),JAK2,1.3346153,25.29182879377432
+skin,Immune (myeloid),JAK2,1.2444445,25.13966480446928
+heart,Muscle,JAK2,1.480615,24.80106100795756
+lung,Immune (myeloid),JAK2,1.3630229,24.299065420560748
+skeletalmuscle,Immune (myeloid),JAK2,1.2363636,22.388059701492537
+esophagusmucosa,Muscle,JAK2,1.4770643,21.756487025948104
+skin,Fibroblast,JAK2,1.1603774,20.03780718336484
+skin,Other,JAK2,1.5517242,19.24778761061947
+breast,Adipocyte,JAK2,1.2360249,18.285065303804657
+esophagusmuscularis,Immune (myeloid),JAK2,1.2091255,17.752278096523792
+prostate,Fibroblast,JAK2,1.2487047,16.90017513134851
+esophagusmucosa,Epithelial cell,JAK2,1.2914389,15.917657291968688
+esophagusmucosa,Stromal,JAK2,1.2866242,15.874620829120325
+breast,Muscle,JAK2,1.3636364,14.473684210526317
+skeletalmuscle,Muscle,JAK2,1.1876733,14.37685525674538
+lung,Fibroblast,JAK2,1.0945274,13.617886178861788
+prostate,Muscle,JAK2,1.2517482,12.75078020508248
+esophagusmucosa,Fibroblast,JAK2,1.3361582,12.575488454706926
+skin,Muscle,JAK2,1.3478261,12.365591397849462
+skin,Epithelial cell,JAK2,1.3972603,12.12624584717608
+prostate,Endothelial cell,JAK2,1.124629,11.924982307147912
+esophagusmuscularis,Muscle,JAK2,1.1921005,11.238146479252135
+heart,Fibroblast,JAK2,1.2197483,11.123075266501562
+skeletalmuscle,Fibroblast,JAK2,1.1909091,11.103633916554507
+esophagusmucosa,Endothelial cell,JAK2,1.1268191,10.282171868319796
+skeletalmuscle,Immune (lymphocyte),JAK2,1.0,10.0
+breast,Immune (myeloid),JAK2,1.2,9.776536312849162
+lung,Epithelial cell,JAK2,1.1479113,9.744548286604362
+skin,Adipocyte,JAK2,1.8333334,9.67741935483871
+esophagusmuscularis,Endothelial cell,JAK2,1.1545668,9.571844877830085
+esophagusmuscularis,Fibroblast,JAK2,1.1574167,9.52060716687482
+skin,Immune (lymphocyte),JAK2,1.4285715,9.333333333333334
+esophagusmucosa,Glia,JAK2,1.1666666,9.230769230769232
+lung,Endothelial cell,JAK2,1.1434263,9.14056809905317
+heart,Immune (lymphocyte),JAK2,1.05,8.595988538681947
+heart,Endothelial cell,JAK2,1.0861539,8.513425016371972
+skin,Melanocyte,JAK2,1.3181819,8.088235294117647
+skeletalmuscle,Endothelial cell,JAK2,1.0943396,7.963936889556725
+lung,Immune (lymphocyte),JAK2,1.1052631,7.862068965517241
+prostate,Epithelial cell,JAK2,1.1301641,7.658301911324925
+esophagusmucosa,Immune (lymphocyte),JAK2,1.0647482,7.645764576457646
+prostate,Glia,JAK2,1.0,7.462686567164178
+prostate,Immune (lymphocyte),JAK2,1.08,7.331378299120235
+breast,Fibroblast,JAK2,1.1551725,7.0818070818070815
+esophagusmuscularis,Glia,JAK2,1.1384616,6.701030927835052
+breast,Epithelial cell,JAK2,1.121813,6.087256423521297
+skeletalmuscle,Glia,JAK2,1.5,5.714285714285714
+esophagusmuscularis,Immune (lymphocyte),JAK2,1.125,5.3156146179402
+heart,Glia,JAK2,1.1538461,4.362416107382551
+breast,Endothelial cell,JAK2,1.0833334,4.0862656072644725
+skin,Endothelial cell,JAK2,1.1071428,2.7370478983382207

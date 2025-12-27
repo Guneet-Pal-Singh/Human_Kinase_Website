@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (basal keratinocyte),EPHA8,0.004142441
+Immune (alveolar macrophage),EPHA8,0.0024086689
+Epithelial cell (alveolar type II),EPHA8,0.002345827
+Epithelial cell (Hillock),EPHA8,0.0020683277
+Myocyte (cardiac),EPHA8,0.0020664388
+Epithelial cell (luminal),EPHA8,0.0014432443
+Pericyte/SMC,EPHA8,0.0014317328
+Epithelial cell (alveolar type I),EPHA8,0.0014148952
+Fibroblast,EPHA8,0.0012880907
+Myocyte (sk. muscle),EPHA8,0.0010213873
+Endothelial cell (vascular),EPHA8,0.0010148565
+Myocyte (smooth muscle),EPHA8,0.0009029702
+Endothelial cell (lymphatic),EPHA8,0.0008084359
+Epithelial cell (club),EPHA8,0.00078609044
+"Myocyte (cardiac, cytoplasmic)",EPHA8,0.000699112
+Immune (DC/macrophage),EPHA8,0.00067143596
+Epithelial cell (basal),EPHA8,0.00038433002
+Adipocyte,EPHA8,0.0
+Epithelial cell (ciliated),EPHA8,0.0
+Epithelial cell (cornified keratinocyte),EPHA8,0.0
+Immune (B cell),EPHA8,0.0
+Immune (Langerhans),EPHA8,0.0
+ICCs,EPHA8,0.0
+Epithelial cell (suprabasal keratinocyte),EPHA8,0.0
+Epithelial cell (suprabasal),EPHA8,0.0
+Epithelial cell (squamous),EPHA8,0.0
+Epithelial cell (mature keratinocyte),EPHA8,0.0
+Melanocyte,EPHA8,0.0
+Immune (mast cell),EPHA8,0.0
+Immune (T cell),EPHA8,0.0
+Immune (NK cell),EPHA8,0.0
+Immune (DC),EPHA8,0.0
+Mucous cell,EPHA8,0.0
+"Myocyte (sk. muscle, cytoplasmic)",EPHA8,0.0
+Myocyte (NMJ-rich),EPHA8,0.0
+Myoepithelial (basal),EPHA8,0.0
+Myofibroblast,EPHA8,0.0
+Neuroendocrine,EPHA8,0.0
+Neuronal,EPHA8,0.0
+Satellite cell,EPHA8,0.0
+Schwann cell,EPHA8,0.0
+Sebaceous gland cell,EPHA8,0.0
+Sweat gland cell,EPHA8,0.0

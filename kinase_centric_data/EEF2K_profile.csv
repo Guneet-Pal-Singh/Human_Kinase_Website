@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skin,Epithelial cell (keratinocyte),EEF2K,1.6647059,43.65690806368773
+skeletalmuscle,Adipocyte,EEF2K,1.2391304,28.93081761006289
+skin,Other,EEF2K,1.5819672,26.991150442477878
+esophagusmucosa,Fibroblast,EEF2K,1.3328786,26.039076376554178
+esophagusmucosa,Stromal,EEF2K,1.468254,25.480283114256824
+esophagusmuscularis,Adipocyte,EEF2K,1.3255814,24.571428571428573
+prostate,Muscle,EEF2K,1.3555555,24.074899687917966
+esophagusmuscularis,Neuron,EEF2K,1.3333334,24.0
+skeletalmuscle,Muscle,EEF2K,1.27495,19.93265694918258
+prostate,Epithelial cell,EEF2K,1.332067,19.39496381051445
+breast,Muscle,EEF2K,1.4137931,19.07894736842105
+skeletalmuscle,Fibroblast,EEF2K,1.2079482,18.20323014804845
+lung,Fibroblast,EEF2K,1.2164179,18.15718157181572
+esophagusmucosa,Epithelial cell,EEF2K,1.2773312,18.034212815308784
+breast,Endothelial cell,EEF2K,1.1592357,17.82065834279228
+skin,Endothelial cell,EEF2K,1.2222222,16.715542521994134
+esophagusmucosa,Endothelial cell,EEF2K,1.2139108,16.28901239846088
+esophagusmucosa,Muscle,EEF2K,1.1710526,15.169660678642716
+skin,Epithelial cell,EEF2K,1.4444444,14.950166112956811
+heart,Adipocyte,EEF2K,1.2142857,14.507772020725389
+esophagusmucosa,Immune (myeloid),EEF2K,1.205,14.30615164520744
+heart,Muscle,EEF2K,1.2671801,13.992042440318302
+skin,Immune (lymphocyte),EEF2K,1.3,13.333333333333334
+heart,Fibroblast,EEF2K,1.1770492,13.136642618714331
+prostate,Fibroblast,EEF2K,1.2866666,13.134851138353763
+skin,Adipocyte,EEF2K,1.25,12.903225806451612
+heart,Immune (myeloid),EEF2K,1.1804878,12.814502265979058
+esophagusmuscularis,Fibroblast,EEF2K,1.155639,12.777404169468728
+lung,Immune (myeloid),EEF2K,1.1447903,12.116740449253976
+breast,Epithelial cell,EEF2K,1.137881,11.881358854974994
+breast,Adipocyte,EEF2K,1.2028985,11.754684838160136
+esophagusmuscularis,Immune (myeloid),EEF2K,1.1588235,11.474856564292946
+breast,Immune (myeloid),EEF2K,1.195122,11.452513966480447
+skeletalmuscle,Glia,EEF2K,1.0,11.428571428571429
+skeletalmuscle,Immune (myeloid),EEF2K,1.1975309,10.990502035278157
+prostate,Endothelial cell,EEF2K,1.1758958,10.86341118188252
+skin,Muscle,EEF2K,1.1,10.75268817204301
+esophagusmuscularis,Endothelial cell,EEF2K,1.1467506,10.692669804976465
+lung,Epithelial cell,EEF2K,1.1190199,10.6791277258567
+lung,Muscle,EEF2K,1.0,10.429447852760736
+skin,Fibroblast,EEF2K,1.1851852,10.207939508506616
+breast,Fibroblast,EEF2K,1.164557,9.645909645909647
+esophagusmucosa,Glia,EEF2K,1.0,9.230769230769232
+skeletalmuscle,Endothelial cell,EEF2K,1.090164,9.166040570999249
+lung,Endothelial cell,EEF2K,1.0894309,8.958485069191552
+skin,Immune (myeloid),EEF2K,1.1428572,7.82122905027933
+prostate,Immune (myeloid),EEF2K,1.0649351,7.490272373540856
+heart,Endothelial cell,EEF2K,1.0945455,7.203667321545513
+skin,Melanocyte,EEF2K,1.2105263,6.985294117647059
+esophagusmuscularis,Muscle,EEF2K,1.0960698,6.160468087968256
+esophagusmucosa,Immune (lymphocyte),EEF2K,1.09009,6.105610561056106
+heart,Immune (lymphocyte),EEF2K,1.0526316,5.444126074498568
+esophagusmuscularis,Glia,EEF2K,1.1590909,4.536082474226804
+prostate,Glia,EEF2K,1.0,4.477611940298507
+esophagusmuscularis,Immune (lymphocyte),EEF2K,1.0769231,4.318936877076411
+prostate,Immune (lymphocyte),EEF2K,1.0833334,3.519061583577713
+lung,Immune (lymphocyte),EEF2K,1.0,3.310344827586207
+skeletalmuscle,Immune (lymphocyte),EEF2K,1.3333334,3.0
+heart,Glia,EEF2K,1.0,2.013422818791946

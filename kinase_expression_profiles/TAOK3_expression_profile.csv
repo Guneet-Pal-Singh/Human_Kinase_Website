@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (DC),TAOK3,1.7035106
+Immune (alveolar macrophage),TAOK3,1.2164085
+Immune (DC/macrophage),TAOK3,1.1374468
+Immune (NK cell),TAOK3,1.1356765
+Epithelial cell (alveolar type II),TAOK3,1.0831865
+Immune (Langerhans),TAOK3,1.0526904
+Immune (T cell),TAOK3,0.9366721
+Immune (mast cell),TAOK3,0.9211902
+Immune (B cell),TAOK3,0.9158187
+Myocyte (cardiac),TAOK3,0.88136345
+Epithelial cell (suprabasal),TAOK3,0.87294924
+Epithelial cell (club),TAOK3,0.8456186
+Epithelial cell (mature keratinocyte),TAOK3,0.8002551
+Epithelial cell (alveolar type I),TAOK3,0.7987259
+Epithelial cell (luminal),TAOK3,0.78664446
+Mucous cell,TAOK3,0.7402039
+Epithelial cell (Hillock),TAOK3,0.72528034
+Epithelial cell (squamous),TAOK3,0.7099784
+Myofibroblast,TAOK3,0.6749149
+Neuronal,TAOK3,0.67486984
+Sweat gland cell,TAOK3,0.66807526
+Myocyte (NMJ-rich),TAOK3,0.6542805
+Melanocyte,TAOK3,0.62472075
+Adipocyte,TAOK3,0.6042831
+Myocyte (sk. muscle),TAOK3,0.59109086
+Pericyte/SMC,TAOK3,0.57781726
+Endothelial cell (vascular),TAOK3,0.57120675
+Epithelial cell (basal),TAOK3,0.5579681
+Endothelial cell (lymphatic),TAOK3,0.54583764
+Epithelial cell (basal keratinocyte),TAOK3,0.53656137
+Fibroblast,TAOK3,0.52461404
+ICCs,TAOK3,0.49183527
+Sebaceous gland cell,TAOK3,0.4816556
+Epithelial cell (suprabasal keratinocyte),TAOK3,0.46718982
+Myocyte (smooth muscle),TAOK3,0.46177644
+Epithelial cell (ciliated),TAOK3,0.45680133
+Epithelial cell (cornified keratinocyte),TAOK3,0.4423942
+Myoepithelial (basal),TAOK3,0.41337693
+Schwann cell,TAOK3,0.40305588
+Neuroendocrine,TAOK3,0.38428366
+"Myocyte (cardiac, cytoplasmic)",TAOK3,0.28461316
+Satellite cell,TAOK3,0.2511995
+"Myocyte (sk. muscle, cytoplasmic)",TAOK3,0.250538

@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Myocyte (sk. muscle),MAST2,1.4771582
+Myocyte (NMJ-rich),MAST2,1.3464347
+Myocyte (cardiac),MAST2,1.0080411
+"Myocyte (sk. muscle, cytoplasmic)",MAST2,0.7653411
+Myofibroblast,MAST2,0.75037926
+Neuronal,MAST2,0.67653006
+Immune (DC),MAST2,0.66414756
+Immune (alveolar macrophage),MAST2,0.60548484
+Myocyte (smooth muscle),MAST2,0.47513893
+Epithelial cell (luminal),MAST2,0.4320835
+Immune (DC/macrophage),MAST2,0.36972702
+Epithelial cell (alveolar type II),MAST2,0.36738262
+Epithelial cell (Hillock),MAST2,0.3640315
+Mucous cell,MAST2,0.36258718
+Epithelial cell (basal),MAST2,0.35513198
+Fibroblast,MAST2,0.35115346
+Immune (NK cell),MAST2,0.3506556
+Epithelial cell (suprabasal),MAST2,0.34678233
+Satellite cell,MAST2,0.34325635
+Epithelial cell (club),MAST2,0.32953906
+Neuroendocrine,MAST2,0.32703766
+Schwann cell,MAST2,0.32673904
+Endothelial cell (vascular),MAST2,0.32624403
+Epithelial cell (alveolar type I),MAST2,0.3232912
+Sweat gland cell,MAST2,0.30279243
+ICCs,MAST2,0.30190402
+Pericyte/SMC,MAST2,0.29728922
+"Myocyte (cardiac, cytoplasmic)",MAST2,0.29541275
+Adipocyte,MAST2,0.290605
+Epithelial cell (ciliated),MAST2,0.28699479
+Myoepithelial (basal),MAST2,0.2856037
+Endothelial cell (lymphatic),MAST2,0.28312594
+Immune (mast cell),MAST2,0.27892128
+Immune (T cell),MAST2,0.2475638
+Sebaceous gland cell,MAST2,0.24670857
+Immune (B cell),MAST2,0.18332872
+Melanocyte,MAST2,0.1821206
+Immune (Langerhans),MAST2,0.16016887
+Epithelial cell (basal keratinocyte),MAST2,0.1579521
+Epithelial cell (suprabasal keratinocyte),MAST2,0.1560624
+Epithelial cell (mature keratinocyte),MAST2,0.14781155
+Epithelial cell (cornified keratinocyte),MAST2,0.13863085
+Epithelial cell (squamous),MAST2,0.08850326

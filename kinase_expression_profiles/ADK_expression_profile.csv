@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (alveolar type II),ADK,1.7317573
+Epithelial cell (alveolar type I),ADK,1.603213
+Epithelial cell (suprabasal),ADK,1.5607351
+Epithelial cell (basal keratinocyte),ADK,1.5012865
+Epithelial cell (suprabasal keratinocyte),ADK,1.4402341
+Epithelial cell (basal),ADK,1.3902438
+Epithelial cell (ciliated),ADK,1.3900758
+Immune (Langerhans),ADK,1.3773509
+Epithelial cell (Hillock),ADK,1.3041956
+Epithelial cell (club),ADK,1.2601393
+Myocyte (cardiac),ADK,1.2369035
+Immune (B cell),ADK,1.1767956
+Myoepithelial (basal),ADK,1.1013699
+Adipocyte,ADK,1.0810621
+Immune (DC),ADK,1.0773233
+Neuroendocrine,ADK,1.0353703
+Mucous cell,ADK,1.0338734
+Neuronal,ADK,1.0311161
+Sebaceous gland cell,ADK,1.0271642
+Myocyte (NMJ-rich),ADK,1.0269234
+Schwann cell,ADK,1.0209409
+Epithelial cell (mature keratinocyte),ADK,1.0108374
+Epithelial cell (squamous),ADK,0.9666767
+Sweat gland cell,ADK,0.9104069
+Epithelial cell (cornified keratinocyte),ADK,0.89221317
+Epithelial cell (luminal),ADK,0.8884148
+Immune (T cell),ADK,0.87316287
+Myocyte (sk. muscle),ADK,0.864129
+Immune (alveolar macrophage),ADK,0.8576931
+Immune (DC/macrophage),ADK,0.8326382
+Melanocyte,ADK,0.82992864
+Myofibroblast,ADK,0.8261153
+Immune (NK cell),ADK,0.6535009
+Immune (mast cell),ADK,0.6445257
+Pericyte/SMC,ADK,0.5774113
+Myocyte (smooth muscle),ADK,0.5666401
+Fibroblast,ADK,0.56510377
+Endothelial cell (vascular),ADK,0.51681596
+Satellite cell,ADK,0.51411194
+Endothelial cell (lymphatic),ADK,0.47894338
+"Myocyte (sk. muscle, cytoplasmic)",ADK,0.362947
+ICCs,ADK,0.3455406
+"Myocyte (cardiac, cytoplasmic)",ADK,0.33513

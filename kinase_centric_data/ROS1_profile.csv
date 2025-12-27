@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+lung,Epithelial cell,ROS1,1.2702411,11.543094496365525
+esophagusmuscularis,Adipocyte,ROS1,1.0,4.0
+lung,Muscle,ROS1,1.0,3.067484662576687
+lung,Immune (myeloid),ROS1,1.0559006,2.6397770126250206
+skin,Epithelial cell,ROS1,1.1111112,1.495016611295681
+lung,Endothelial cell,ROS1,1.0769231,1.4202476329206115
+heart,Muscle,ROS1,1.0592593,1.1190318302387268
+esophagusmuscularis,Immune (myeloid),ROS1,1.1111112,0.911238609517381
+skeletalmuscle,Muscle,ROS1,1.0904523,0.8816623100438616
+lung,Fibroblast,ROS1,1.0,0.6097560975609756
+lung,Immune (lymphocyte),ROS1,1.0,0.5517241379310345
+skin,Muscle,ROS1,1.0,0.5376344086021506
+skin,Fibroblast,ROS1,1.0,0.3780718336483932
+skin,Melanocyte,ROS1,1.0,0.3676470588235294
+esophagusmuscularis,Endothelial cell,ROS1,1.0666667,0.3362474781439139
+esophagusmuscularis,Immune (lymphocyte),ROS1,1.0,0.3322259136212624
+esophagusmuscularis,Fibroblast,ROS1,1.0,0.2593909117110193
+skeletalmuscle,Endothelial cell,ROS1,1.0,0.2253944402704733
+breast,Epithelial cell,ROS1,1.0,0.2069322296947749
+esophagusmuscularis,Glia,ROS1,1.0,0.2061855670103093
+esophagusmucosa,Stromal,ROS1,1.0,0.2022244691607684
+skin,Endothelial cell,ROS1,1.0,0.1955034213098729
+prostate,Immune (myeloid),ROS1,1.0,0.1945525291828793
+heart,Fibroblast,ROS1,1.0,0.1615160977710778
+esophagusmuscularis,Muscle,ROS1,1.0,0.1479588405407223
+prostate,Immune (lymphocyte),ROS1,1.0,0.1466275659824047
+skeletalmuscle,Immune (myeloid),ROS1,1.0,0.1356852103120759
+heart,Immune (myeloid),ROS1,1.0,0.093764650726676
+heart,Endothelial cell,ROS1,1.0,0.091683038637852
+prostate,Epithelial cell,ROS1,1.0,0.0780132622545832
+esophagusmucosa,Immune (myeloid),ROS1,1.0,0.0715307582260371
+esophagusmucosa,Fibroblast,ROS1,1.0,0.0710479573712255
+skeletalmuscle,Fibroblast,ROS1,1.0,0.0672947510094212
+esophagusmucosa,Immune (lymphocyte),ROS1,1.0,0.055005500550055
+skin,Epithelial cell (keratinocyte),ROS1,1.0,0.0513610683102208
+prostate,Muscle,ROS1,1.0,0.0445831475702184
+esophagusmucosa,Epithelial cell,ROS1,1.0,0.0434908669179472
+prostate,Endothelial cell,ROS1,1.0,0.035385704175513
+esophagusmucosa,Endothelial cell,ROS1,1.0,0.0213766566908935
+breast,Muscle,ROS1,0.0,0.0
+breast,Adipocyte,ROS1,0.0,0.0
+breast,Endothelial cell,ROS1,0.0,0.0
+esophagusmucosa,Glia,ROS1,0.0,0.0
+heart,Immune (lymphocyte),ROS1,0.0,0.0
+heart,Glia,ROS1,0.0,0.0
+esophagusmuscularis,Neuron,ROS1,0.0,0.0
+heart,Adipocyte,ROS1,0.0,0.0
+esophagusmucosa,Muscle,ROS1,0.0,0.0
+breast,Immune (myeloid),ROS1,0.0,0.0
+breast,Fibroblast,ROS1,0.0,0.0
+prostate,Fibroblast,ROS1,0.0,0.0
+skeletalmuscle,Adipocyte,ROS1,0.0,0.0
+prostate,Glia,ROS1,0.0,0.0
+skeletalmuscle,Glia,ROS1,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),ROS1,0.0,0.0
+skin,Adipocyte,ROS1,0.0,0.0
+skin,Immune (lymphocyte),ROS1,0.0,0.0
+skin,Immune (myeloid),ROS1,0.0,0.0
+skin,Other,ROS1,0.0,0.0

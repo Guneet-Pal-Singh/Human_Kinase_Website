@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Endothelial cell (lymphatic),LIMK2,0.8734015
+Epithelial cell (club),LIMK2,0.59543264
+Epithelial cell (suprabasal),LIMK2,0.5615468
+Mucous cell,LIMK2,0.5590713
+Epithelial cell (Hillock),LIMK2,0.5581899
+Immune (alveolar macrophage),LIMK2,0.5546673
+Epithelial cell (ciliated),LIMK2,0.5304966
+Myoepithelial (basal),LIMK2,0.49266636
+Epithelial cell (basal),LIMK2,0.48194945
+Endothelial cell (vascular),LIMK2,0.4727839
+Epithelial cell (luminal),LIMK2,0.40639487
+Sweat gland cell,LIMK2,0.4036478
+Immune (Langerhans),LIMK2,0.37776592
+Neuronal,LIMK2,0.37342834
+Epithelial cell (basal keratinocyte),LIMK2,0.36792567
+Epithelial cell (mature keratinocyte),LIMK2,0.35952464
+Epithelial cell (alveolar type I),LIMK2,0.3563328
+Epithelial cell (cornified keratinocyte),LIMK2,0.35260412
+Epithelial cell (suprabasal keratinocyte),LIMK2,0.33995777
+Myocyte (NMJ-rich),LIMK2,0.32386565
+Epithelial cell (squamous),LIMK2,0.314309
+Myofibroblast,LIMK2,0.29832804
+Immune (DC/macrophage),LIMK2,0.27948883
+Epithelial cell (alveolar type II),LIMK2,0.26983193
+Melanocyte,LIMK2,0.25746062
+Adipocyte,LIMK2,0.24497813
+Myocyte (cardiac),LIMK2,0.24302387
+Immune (T cell),LIMK2,0.24272738
+Myocyte (sk. muscle),LIMK2,0.2423762
+Sebaceous gland cell,LIMK2,0.230237
+Immune (mast cell),LIMK2,0.21298937
+Myocyte (smooth muscle),LIMK2,0.20726475
+Immune (B cell),LIMK2,0.19861859
+Immune (NK cell),LIMK2,0.18009338
+ICCs,LIMK2,0.14297877
+Schwann cell,LIMK2,0.1310498
+Immune (DC),LIMK2,0.11744383
+Pericyte/SMC,LIMK2,0.11559728
+Fibroblast,LIMK2,0.11546123
+Satellite cell,LIMK2,0.108061776
+"Myocyte (sk. muscle, cytoplasmic)",LIMK2,0.08520418
+"Myocyte (cardiac, cytoplasmic)",LIMK2,0.072827555
+Neuroendocrine,LIMK2,0.05552258

@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Sebaceous gland cell,MTOR,0.54623574
+Myocyte (cardiac),MTOR,0.40661764
+Sweat gland cell,MTOR,0.40466928
+Immune (alveolar macrophage),MTOR,0.3800652
+Epithelial cell (suprabasal),MTOR,0.374019
+Myofibroblast,MTOR,0.372155
+Immune (DC),MTOR,0.37085342
+Myoepithelial (basal),MTOR,0.36121666
+Adipocyte,MTOR,0.33548087
+Myocyte (NMJ-rich),MTOR,0.333733
+Epithelial cell (alveolar type II),MTOR,0.32992375
+Myocyte (sk. muscle),MTOR,0.31990883
+Epithelial cell (alveolar type I),MTOR,0.31764472
+Epithelial cell (ciliated),MTOR,0.3117339
+Mucous cell,MTOR,0.30291122
+Melanocyte,MTOR,0.2944728
+Immune (Langerhans),MTOR,0.28969753
+Endothelial cell (vascular),MTOR,0.26943377
+Epithelial cell (mature keratinocyte),MTOR,0.268172
+Endothelial cell (lymphatic),MTOR,0.26525277
+Epithelial cell (basal),MTOR,0.26474968
+Epithelial cell (club),MTOR,0.26134503
+Immune (NK cell),MTOR,0.2602919
+Epithelial cell (luminal),MTOR,0.25428388
+Immune (T cell),MTOR,0.25349146
+Neuroendocrine,MTOR,0.2524525
+Myocyte (smooth muscle),MTOR,0.24847876
+Immune (DC/macrophage),MTOR,0.2481883
+Immune (B cell),MTOR,0.23586787
+Fibroblast,MTOR,0.22817296
+Epithelial cell (Hillock),MTOR,0.22807957
+ICCs,MTOR,0.21965982
+Pericyte/SMC,MTOR,0.21494871
+Immune (mast cell),MTOR,0.19524331
+Epithelial cell (basal keratinocyte),MTOR,0.19313504
+Schwann cell,MTOR,0.18970257
+Satellite cell,MTOR,0.1842001
+Epithelial cell (suprabasal keratinocyte),MTOR,0.17403449
+Epithelial cell (squamous),MTOR,0.1491044
+"Myocyte (cardiac, cytoplasmic)",MTOR,0.13666028
+"Myocyte (sk. muscle, cytoplasmic)",MTOR,0.12195017
+Neuronal,MTOR,0.10625653
+Epithelial cell (cornified keratinocyte),MTOR,0.05236473

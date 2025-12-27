@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (alveolar type II),ROS1,0.47837934
+Sebaceous gland cell,ROS1,0.1087315
+Epithelial cell (ciliated),ROS1,0.08400691
+Immune (alveolar macrophage),ROS1,0.07802552
+Immune (mast cell),ROS1,0.0694973
+Epithelial cell (club),ROS1,0.05456441
+Myocyte (cardiac),ROS1,0.03756304
+Myocyte (NMJ-rich),ROS1,0.033908565
+Myocyte (sk. muscle),ROS1,0.030982954
+Epithelial cell (alveolar type I),ROS1,0.02286744
+Melanocyte,ROS1,0.015260203
+Endothelial cell (lymphatic),ROS1,0.012895243
+Endothelial cell (vascular),ROS1,0.009234742
+Pericyte/SMC,ROS1,0.008965573
+Immune (DC/macrophage),ROS1,0.008500946
+Adipocyte,ROS1,0.0076814136
+Immune (T cell),ROS1,0.007517349
+Fibroblast,ROS1,0.0066595967
+"Myocyte (sk. muscle, cytoplasmic)",ROS1,0.006097126
+Myoepithelial (basal),ROS1,0.006065272
+Myofibroblast,ROS1,0.0053197504
+Schwann cell,ROS1,0.004728987
+Myocyte (smooth muscle),ROS1,0.0044512604
+Epithelial cell (basal),ROS1,0.0033864884
+"Myocyte (cardiac, cytoplasmic)",ROS1,0.003316139
+Epithelial cell (luminal),ROS1,0.0029222912
+Epithelial cell (suprabasal),ROS1,0.0023444532
+Epithelial cell (basal keratinocyte),ROS1,0.001991388
+Epithelial cell (Hillock),ROS1,0.0018620578
+Epithelial cell (squamous),ROS1,0.0016976733
+Epithelial cell (cornified keratinocyte),ROS1,0.0
+Epithelial cell (suprabasal keratinocyte),ROS1,0.0
+Epithelial cell (mature keratinocyte),ROS1,0.0
+ICCs,ROS1,0.0
+Immune (B cell),ROS1,0.0
+Immune (Langerhans),ROS1,0.0
+Immune (DC),ROS1,0.0
+Immune (NK cell),ROS1,0.0
+Mucous cell,ROS1,0.0
+Neuronal,ROS1,0.0
+Neuroendocrine,ROS1,0.0
+Satellite cell,ROS1,0.0
+Sweat gland cell,ROS1,0.0

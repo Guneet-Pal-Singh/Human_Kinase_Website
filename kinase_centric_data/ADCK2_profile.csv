@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Adipocyte,ADCK2,1.0,3.428571428571429
+skeletalmuscle,Adipocyte,ADCK2,1.0,1.8867924528301887
+skin,Immune (myeloid),ADCK2,1.0,1.675977653631285
+lung,Immune (myeloid),ADCK2,1.049505,1.656009181833087
+lung,Endothelial cell,ADCK2,1.0,1.2745812090313182
+esophagusmucosa,Stromal,ADCK2,1.0,1.2133468149646107
+lung,Epithelial cell,ADCK2,1.024735,1.1754932502596054
+esophagusmuscularis,Immune (lymphocyte),ADCK2,1.0,0.9966777408637874
+heart,Muscle,ADCK2,1.0206186,0.8040450928381963
+esophagusmucosa,Epithelial cell,ADCK2,1.02,0.7248477819657871
+prostate,Immune (myeloid),ADCK2,1.0,0.6809338521400778
+prostate,Muscle,ADCK2,1.0,0.6687472135532769
+skin,Epithelial cell,ADCK2,1.0,0.6644518272425249
+prostate,Epithelial cell,ADCK2,1.0202702,0.6414423785376847
+lung,Muscle,ADCK2,1.0,0.6134969325153374
+esophagusmucosa,Muscle,ADCK2,1.0,0.5988023952095809
+breast,Immune (myeloid),ADCK2,1.0,0.5586592178770949
+lung,Immune (lymphocyte),ADCK2,1.0,0.5517241379310345
+skeletalmuscle,Muscle,ADCK2,1.0241935,0.5493775198263259
+skin,Muscle,ADCK2,1.0,0.5376344086021506
+breast,Epithelial cell,ADCK2,1.032258,0.534574926711502
+skeletalmuscle,Endothelial cell,ADCK2,1.0,0.5259203606311045
+esophagusmuscularis,Glia,ADCK2,1.0,0.5154639175257731
+esophagusmucosa,Immune (myeloid),ADCK2,1.0,0.5007153075822603
+breast,Fibroblast,ADCK2,1.0,0.4884004884004884
+lung,Fibroblast,ADCK2,1.0,0.4742547425474254
+esophagusmuscularis,Muscle,ADCK2,1.0,0.4707781289932073
+heart,Immune (myeloid),ADCK2,1.0,0.4688232536333802
+heart,Fibroblast,ADCK2,1.0232558,0.4630128136104232
+skin,Epithelial cell (keratinocyte),ADCK2,1.0,0.4622496147919877
+esophagusmuscularis,Fibroblast,ADCK2,1.0,0.4611393985973677
+breast,Endothelial cell,ADCK2,1.0,0.4540295119182747
+skin,Endothelial cell,ADCK2,1.0,0.3910068426197458
+esophagusmucosa,Immune (lymphocyte),ADCK2,1.1428572,0.385038503850385
+skin,Melanocyte,ADCK2,1.0,0.3676470588235294
+heart,Endothelial cell,ADCK2,1.0,0.3536345776031434
+esophagusmuscularis,Immune (myeloid),ADCK2,1.0,0.3374957813027337
+esophagusmuscularis,Endothelial cell,ADCK2,1.0,0.3362474781439139
+heart,Glia,ADCK2,1.0,0.3355704697986577
+prostate,Immune (lymphocyte),ADCK2,1.0,0.2932551319648094
+skeletalmuscle,Fibroblast,ADCK2,1.0,0.2691790040376851
+prostate,Fibroblast,ADCK2,1.3333334,0.2626970227670753
+esophagusmucosa,Endothelial cell,ADCK2,1.0,0.235143223599829
+skin,Fibroblast,ADCK2,1.0,0.1890359168241966
+prostate,Endothelial cell,ADCK2,1.0,0.1769285208775654
+breast,Adipocyte,ADCK2,1.0,0.1703577512776831
+heart,Immune (lymphocyte),ADCK2,1.0,0.1432664756446991
+esophagusmucosa,Fibroblast,ADCK2,1.0,0.1420959147424511
+skeletalmuscle,Immune (myeloid),ADCK2,1.0,0.1356852103120759
+breast,Muscle,ADCK2,0.0,0.0
+esophagusmucosa,Glia,ADCK2,0.0,0.0
+esophagusmuscularis,Neuron,ADCK2,0.0,0.0
+heart,Adipocyte,ADCK2,0.0,0.0
+prostate,Glia,ADCK2,0.0,0.0
+skeletalmuscle,Glia,ADCK2,0.0,0.0
+skin,Adipocyte,ADCK2,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),ADCK2,0.0,0.0
+skin,Immune (lymphocyte),ADCK2,0.0,0.0
+skin,Other,ADCK2,0.0,0.0

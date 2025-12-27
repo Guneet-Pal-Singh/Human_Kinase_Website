@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+heart,Glia,NIM1K,1.1081082,12.416107382550337
+esophagusmucosa,Glia,NIM1K,1.0,12.307692307692308
+lung,Epithelial cell,NIM1K,1.2865613,10.508826583592938
+prostate,Glia,NIM1K,1.1666666,8.955223880597014
+esophagusmuscularis,Glia,NIM1K,1.1025641,8.041237113402062
+esophagusmuscularis,Neuron,NIM1K,1.5,8.0
+lung,Muscle,NIM1K,1.4,3.067484662576687
+esophagusmucosa,Stromal,NIM1K,1.0666667,3.0333670374115265
+skeletalmuscle,Glia,NIM1K,1.0,2.857142857142857
+esophagusmuscularis,Adipocyte,NIM1K,1.0,2.857142857142857
+lung,Immune (myeloid),NIM1K,1.034682,2.836530578783407
+skin,Epithelial cell,NIM1K,1.0714285,2.3255813953488373
+skin,Epithelial cell (keratinocyte),NIM1K,1.0454545,2.2598870056497176
+heart,Muscle,NIM1K,1.0980393,2.1137267904509285
+skeletalmuscle,Muscle,NIM1K,1.0884211,2.104470338044393
+skin,Melanocyte,NIM1K,1.0,1.8382352941176472
+breast,Fibroblast,NIM1K,1.0714285,1.7094017094017095
+esophagusmuscularis,Fibroblast,NIM1K,1.0238096,1.6139878950907869
+lung,Endothelial cell,NIM1K,1.0454545,1.602330662782229
+skeletalmuscle,Endothelial cell,NIM1K,1.0,1.5777610818933134
+esophagusmucosa,Immune (myeloid),NIM1K,1.0454545,1.5736766809728182
+lung,Fibroblast,NIM1K,1.0,1.5582655826558265
+prostate,Immune (myeloid),NIM1K,1.125,1.556420233463035
+heart,Adipocyte,NIM1K,1.0,1.5544041450777202
+breast,Adipocyte,NIM1K,1.037037,1.5332197614991483
+prostate,Muscle,NIM1K,1.0882353,1.5158270173874275
+esophagusmucosa,Fibroblast,NIM1K,1.0714285,1.492007104795737
+esophagusmuscularis,Immune (myeloid),NIM1K,1.0454545,1.4849814377320285
+esophagusmucosa,Epithelial cell,NIM1K,1.1034483,1.471440997390548
+heart,Fibroblast,NIM1K,1.0814815,1.4536448799397008
+prostate,Epithelial cell,NIM1K,1.038806,1.4519134919602998
+esophagusmuscularis,Muscle,NIM1K,1.0145631,1.3854327796085817
+esophagusmucosa,Immune (lymphocyte),NIM1K,1.04,1.3751375137513753
+esophagusmuscularis,Endothelial cell,NIM1K,1.0338984,1.322573414032728
+breast,Epithelial cell,NIM1K,1.0266666,1.2933264355923435
+skeletalmuscle,Adipocyte,NIM1K,1.0,1.257861635220126
+skeletalmuscle,Immune (myeloid),NIM1K,1.0,1.2211668928086838
+skeletalmuscle,Fibroblast,NIM1K,1.0,1.177658142664872
+esophagusmucosa,Endothelial cell,NIM1K,1.0909091,1.1757161179991449
+heart,Immune (lymphocyte),NIM1K,1.0,1.146131805157593
+breast,Immune (myeloid),NIM1K,1.0,1.11731843575419
+skin,Immune (myeloid),NIM1K,1.0,1.11731843575419
+skin,Other,NIM1K,1.0,1.106194690265487
+skin,Muscle,NIM1K,1.0,1.0752688172043012
+prostate,Fibroblast,NIM1K,1.3333334,1.0507880910683012
+heart,Immune (myeloid),NIM1K,1.0307692,1.015783716205657
+esophagusmuscularis,Immune (lymphocyte),NIM1K,1.0,0.9966777408637874
+skin,Endothelial cell,NIM1K,1.1,0.9775171065493646
+lung,Immune (lymphocyte),NIM1K,1.0,0.9655172413793104
+prostate,Endothelial cell,NIM1K,1.0,0.8492569002123143
+heart,Endothelial cell,NIM1K,1.0163934,0.7989521938441388
+esophagusmucosa,Muscle,NIM1K,1.25,0.7984031936127743
+prostate,Immune (lymphocyte),NIM1K,1.0,0.7331378299120235
+breast,Endothelial cell,NIM1K,1.0,0.681044267877412
+skin,Fibroblast,NIM1K,1.0,0.3780718336483932
+breast,Muscle,NIM1K,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),NIM1K,0.0,0.0
+skin,Adipocyte,NIM1K,0.0,0.0
+skin,Immune (lymphocyte),NIM1K,0.0,0.0

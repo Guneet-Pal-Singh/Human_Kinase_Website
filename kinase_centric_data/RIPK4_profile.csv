@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmucosa,Epithelial cell,RIPK4,1.489219,15.127573209625975
+skin,Other,RIPK4,1.2903225,6.8584070796460175
+prostate,Epithelial cell,RIPK4,1.119965,4.949508083040784
+esophagusmucosa,Stromal,RIPK4,1.2857143,4.246713852376137
+breast,Epithelial cell,RIPK4,1.0945274,3.4661148473874803
+skin,Melanocyte,RIPK4,1.0,3.308823529411765
+skin,Epithelial cell,RIPK4,1.0769231,2.1594684385382057
+skin,Epithelial cell (keratinocyte),RIPK4,1.025,2.054442732408834
+breast,Immune (myeloid),RIPK4,1.25,1.11731843575419
+lung,Epithelial cell,RIPK4,1.0339622,1.1007268951194185
+prostate,Muscle,RIPK4,1.0,0.6241640659830584
+esophagusmucosa,Muscle,RIPK4,2.0,0.5988023952095809
+esophagusmucosa,Immune (myeloid),RIPK4,1.1428572,0.5007153075822603
+breast,Endothelial cell,RIPK4,1.25,0.4540295119182747
+lung,Endothelial cell,RIPK4,1.0,0.4369992716678805
+heart,Glia,RIPK4,1.0,0.3355704697986577
+prostate,Endothelial cell,RIPK4,1.1111112,0.3184713375796179
+prostate,Fibroblast,RIPK4,1.0,0.2626970227670753
+breast,Fibroblast,RIPK4,1.0,0.2442002442002442
+esophagusmucosa,Endothelial cell,RIPK4,1.2222222,0.1923899102180419
+prostate,Immune (lymphocyte),RIPK4,1.0,0.1466275659824047
+esophagusmucosa,Fibroblast,RIPK4,1.0,0.1420959147424511
+esophagusmucosa,Immune (lymphocyte),RIPK4,1.5,0.11001100110011
+esophagusmuscularis,Glia,RIPK4,1.0,0.1030927835051546
+lung,Immune (myeloid),RIPK4,1.0,0.0983767830791933
+skin,Endothelial cell,RIPK4,1.0,0.0977517106549364
+lung,Fibroblast,RIPK4,1.0,0.067750677506775
+esophagusmuscularis,Immune (myeloid),RIPK4,1.0,0.0337495781302733
+heart,Muscle,RIPK4,1.0,0.03315649867374
+esophagusmuscularis,Fibroblast,RIPK4,1.3333334,0.0288212124123354
+esophagusmuscularis,Muscle,RIPK4,1.0,0.0269016073710404
+skeletalmuscle,Fibroblast,RIPK4,1.0,0.0168236877523553
+heart,Immune (lymphocyte),RIPK4,0.0,0.0
+heart,Endothelial cell,RIPK4,0.0,0.0
+heart,Fibroblast,RIPK4,0.0,0.0
+breast,Muscle,RIPK4,0.0,0.0
+breast,Adipocyte,RIPK4,0.0,0.0
+esophagusmucosa,Glia,RIPK4,0.0,0.0
+heart,Adipocyte,RIPK4,0.0,0.0
+esophagusmuscularis,Neuron,RIPK4,0.0,0.0
+esophagusmuscularis,Adipocyte,RIPK4,0.0,0.0
+esophagusmuscularis,Endothelial cell,RIPK4,0.0,0.0
+esophagusmuscularis,Immune (lymphocyte),RIPK4,0.0,0.0
+skeletalmuscle,Adipocyte,RIPK4,0.0,0.0
+prostate,Immune (myeloid),RIPK4,0.0,0.0
+prostate,Glia,RIPK4,0.0,0.0
+lung,Muscle,RIPK4,0.0,0.0
+lung,Immune (lymphocyte),RIPK4,0.0,0.0
+heart,Immune (myeloid),RIPK4,0.0,0.0
+skeletalmuscle,Glia,RIPK4,0.0,0.0
+skeletalmuscle,Endothelial cell,RIPK4,0.0,0.0
+skin,Adipocyte,RIPK4,0.0,0.0
+skeletalmuscle,Muscle,RIPK4,0.0,0.0
+skeletalmuscle,Immune (myeloid),RIPK4,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),RIPK4,0.0,0.0
+skin,Immune (lymphocyte),RIPK4,0.0,0.0
+skin,Fibroblast,RIPK4,0.0,0.0
+skin,Immune (myeloid),RIPK4,0.0,0.0
+skin,Muscle,RIPK4,0.0,0.0

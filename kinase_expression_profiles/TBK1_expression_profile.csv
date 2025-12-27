@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (Langerhans),TBK1,0.76109403
+Immune (DC),TBK1,0.5104387
+Immune (alveolar macrophage),TBK1,0.5091185
+Neuronal,TBK1,0.49300775
+Epithelial cell (club),TBK1,0.46582022
+ICCs,TBK1,0.443842
+Epithelial cell (suprabasal),TBK1,0.4395692
+Mucous cell,TBK1,0.42582762
+Immune (NK cell),TBK1,0.4197369
+Epithelial cell (basal),TBK1,0.3941909
+Epithelial cell (luminal),TBK1,0.38610432
+Immune (DC/macrophage),TBK1,0.37901884
+Epithelial cell (Hillock),TBK1,0.37731367
+Fibroblast,TBK1,0.37599394
+Immune (mast cell),TBK1,0.34435946
+Endothelial cell (vascular),TBK1,0.34226245
+Sebaceous gland cell,TBK1,0.33789313
+Immune (T cell),TBK1,0.33287218
+Epithelial cell (mature keratinocyte),TBK1,0.32260185
+Myocyte (smooth muscle),TBK1,0.31393576
+Myofibroblast,TBK1,0.30698675
+Myocyte (cardiac),TBK1,0.30676636
+Epithelial cell (ciliated),TBK1,0.30670893
+Endothelial cell (lymphatic),TBK1,0.30669546
+Epithelial cell (alveolar type II),TBK1,0.30540368
+Schwann cell,TBK1,0.30265382
+Satellite cell,TBK1,0.292751
+Melanocyte,TBK1,0.2865462
+Epithelial cell (suprabasal keratinocyte),TBK1,0.2849723
+Epithelial cell (alveolar type I),TBK1,0.26936656
+Myocyte (NMJ-rich),TBK1,0.2534648
+Immune (B cell),TBK1,0.2529713
+Pericyte/SMC,TBK1,0.23825224
+Adipocyte,TBK1,0.22783889
+Myoepithelial (basal),TBK1,0.17059076
+Epithelial cell (basal keratinocyte),TBK1,0.1674621
+Sweat gland cell,TBK1,0.14924769
+"Myocyte (sk. muscle, cytoplasmic)",TBK1,0.14383097
+Myocyte (sk. muscle),TBK1,0.1368153
+Epithelial cell (cornified keratinocyte),TBK1,0.12289085
+Neuroendocrine,TBK1,0.1223506
+Epithelial cell (squamous),TBK1,0.10409049
+"Myocyte (cardiac, cytoplasmic)",TBK1,0.10022585

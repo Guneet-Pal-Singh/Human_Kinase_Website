@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+prostate,Muscle,BCKDK,1.0847458,5.2608114132857775
+heart,Adipocyte,BCKDK,1.0,4.66321243523316
+prostate,Immune (myeloid),BCKDK,1.0212766,4.571984435797665
+heart,Muscle,BCKDK,1.0966543,4.459549071618038
+lung,Immune (myeloid),BCKDK,1.0739299,4.213805541892113
+esophagusmuscularis,Muscle,BCKDK,1.1182109,4.210101553567826
+prostate,Epithelial cell,BCKDK,1.0636462,4.017683006111039
+skin,Epithelial cell,BCKDK,1.1428572,3.488372093023256
+esophagusmucosa,Epithelial cell,BCKDK,1.0708154,3.3777906639605684
+skin,Immune (myeloid),BCKDK,1.0,3.35195530726257
+esophagusmucosa,Immune (myeloid),BCKDK,1.0217391,3.290414878397711
+heart,Immune (myeloid),BCKDK,1.0238096,3.281762775433662
+prostate,Endothelial cell,BCKDK,1.0123457,2.8662420382165608
+esophagusmucosa,Stromal,BCKDK,1.04,2.527805864509605
+esophagusmuscularis,Immune (myeloid),BCKDK,1.0410959,2.463719203509956
+esophagusmuscularis,Adipocyte,BCKDK,1.0,2.2857142857142856
+prostate,Fibroblast,BCKDK,1.0833334,2.1015761821366024
+skin,Epithelial cell (keratinocyte),BCKDK,1.0769231,2.0030816640986133
+skin,Other,BCKDK,1.0,1.991150442477876
+breast,Muscle,BCKDK,1.0,1.973684210526316
+skeletalmuscle,Immune (myeloid),BCKDK,1.0,1.899592944369064
+esophagusmucosa,Endothelial cell,BCKDK,1.037037,1.731509191962377
+breast,Endothelial cell,BCKDK,1.0,1.70261066969353
+heart,Fibroblast,BCKDK,1.0131578,1.636696457413589
+heart,Immune (lymphocyte),BCKDK,1.0,1.5759312320916905
+esophagusmucosa,Glia,BCKDK,1.0,1.5384615384615383
+prostate,Glia,BCKDK,2.0,1.4925373134328357
+skeletalmuscle,Fibroblast,BCKDK,1.0116279,1.4468371467025571
+heart,Glia,BCKDK,1.0,1.342281879194631
+breast,Adipocyte,BCKDK,1.0434783,1.306076093128904
+esophagusmuscularis,Endothelial cell,BCKDK,1.0175439,1.277740416946873
+lung,Muscle,BCKDK,1.0,1.2269938650306749
+breast,Immune (myeloid),BCKDK,1.25,1.11731843575419
+breast,Epithelial cell,BCKDK,1.03125,1.103638558372133
+esophagusmucosa,Fibroblast,BCKDK,1.0,1.1012433392539964
+heart,Endothelial cell,BCKDK,1.0119047,1.100196463654224
+skin,Muscle,BCKDK,1.0,1.0752688172043012
+skeletalmuscle,Immune (lymphocyte),BCKDK,1.0,1.0
+skeletalmuscle,Endothelial cell,BCKDK,1.0769231,0.9767092411720512
+esophagusmuscularis,Fibroblast,BCKDK,1.02,0.9607070804111826
+lung,Fibroblast,BCKDK,1.0,0.9485094850948508
+lung,Epithelial cell,BCKDK,1.018868,0.8805815160955348
+esophagusmucosa,Muscle,BCKDK,1.0,0.7984031936127743
+skin,Melanocyte,BCKDK,1.0,0.7352941176470588
+prostate,Immune (lymphocyte),BCKDK,1.0,0.7331378299120235
+esophagusmuscularis,Glia,BCKDK,1.0,0.7216494845360825
+esophagusmuscularis,Immune (lymphocyte),BCKDK,1.0,0.6644518272425249
+lung,Endothelial cell,BCKDK,1.0555556,0.6554989075018208
+esophagusmucosa,Immune (lymphocyte),BCKDK,1.0,0.44004400440044
+lung,Immune (lymphocyte),BCKDK,1.0,0.4137931034482758
+skin,Endothelial cell,BCKDK,1.0,0.3910068426197458
+skin,Fibroblast,BCKDK,1.0,0.3780718336483932
+skeletalmuscle,Muscle,BCKDK,1.0454545,0.2924106153914315
+esophagusmuscularis,Neuron,BCKDK,0.0,0.0
+breast,Fibroblast,BCKDK,0.0,0.0
+skeletalmuscle,Adipocyte,BCKDK,0.0,0.0
+skeletalmuscle,Glia,BCKDK,0.0,0.0
+skin,Adipocyte,BCKDK,0.0,0.0
+skin,Immune (lymphocyte),BCKDK,0.0,0.0

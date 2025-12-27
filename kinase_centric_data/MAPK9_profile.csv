@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Neuron,MAPK9,1.0,12.0
+heart,Muscle,MAPK9,1.0987654,7.385610079575597
+esophagusmucosa,Stromal,MAPK9,1.1428572,7.077856420626897
+esophagusmuscularis,Adipocyte,MAPK9,1.0,6.857142857142858
+lung,Immune (myeloid),MAPK9,1.0683545,6.47647155271356
+lung,Epithelial cell,MAPK9,1.0654805,5.835929387331257
+esophagusmucosa,Epithelial cell,MAPK9,1.0831025,5.233400985792983
+heart,Adipocyte,MAPK9,1.0,5.181347150259067
+prostate,Muscle,MAPK9,1.0892857,4.993312527864467
+prostate,Epithelial cell,MAPK9,1.0622262,4.945174012915529
+esophagusmucosa,Endothelial cell,MAPK9,1.0401785,4.7883710987601535
+lung,Fibroblast,MAPK9,1.0714285,4.742547425474255
+prostate,Endothelial cell,MAPK9,1.0687023,4.635527246992215
+prostate,Glia,MAPK9,1.3333334,4.477611940298507
+esophagusmucosa,Muscle,MAPK9,1.0909091,4.39121756487026
+esophagusmucosa,Immune (myeloid),MAPK9,1.0833334,4.291845493562231
+esophagusmucosa,Immune (lymphocyte),MAPK9,1.051282,4.29042904290429
+skin,Epithelial cell,MAPK9,1.0434783,3.820598006644518
+prostate,Immune (lymphocyte),MAPK9,1.0384616,3.812316715542522
+esophagusmuscularis,Muscle,MAPK9,1.0504504,3.732598022731858
+esophagusmuscularis,Immune (lymphocyte),MAPK9,1.0909091,3.654485049833888
+skin,Endothelial cell,MAPK9,1.0833334,3.519061583577713
+skin,Epithelial cell (keratinocyte),MAPK9,1.0147059,3.4925526450950177
+heart,Immune (lymphocyte),MAPK9,1.0833334,3.43839541547278
+lung,Endothelial cell,MAPK9,1.0,3.3867443554260745
+heart,Immune (myeloid),MAPK9,1.0325581,3.359899984372558
+breast,Muscle,MAPK9,1.0,3.289473684210526
+esophagusmuscularis,Immune (myeloid),MAPK9,1.0309278,3.273709078636517
+heart,Fibroblast,MAPK9,1.0462046,3.2626251749757724
+skin,Muscle,MAPK9,1.1666666,3.225806451612903
+breast,Epithelial cell,MAPK9,1.0698925,3.207449560269012
+esophagusmucosa,Fibroblast,MAPK9,1.0111111,3.197158081705151
+prostate,Fibroblast,MAPK9,1.0277778,3.1523642732049035
+esophagusmuscularis,Endothelial cell,MAPK9,1.109375,2.869311813494732
+skeletalmuscle,Immune (myeloid),MAPK9,1.0952381,2.849389416553596
+heart,Endothelial cell,MAPK9,1.0373832,2.802881466928618
+skin,Immune (myeloid),MAPK9,1.0,2.793296089385475
+heart,Glia,MAPK9,1.0,2.684563758389262
+skeletalmuscle,Endothelial cell,MAPK9,1.0857143,2.629601803155522
+skeletalmuscle,Adipocyte,MAPK9,1.0,2.515723270440252
+skeletalmuscle,Fibroblast,MAPK9,1.0204082,2.4730820995962315
+lung,Muscle,MAPK9,1.25,2.4539877300613497
+prostate,Immune (myeloid),MAPK9,1.04,2.4319066147859925
+skin,Other,MAPK9,1.1,2.2123893805309733
+lung,Immune (lymphocyte),MAPK9,1.0,2.0689655172413794
+skeletalmuscle,Immune (lymphocyte),MAPK9,1.0,2.0
+breast,Adipocyte,MAPK9,1.0,1.9875070982396368
+esophagusmuscularis,Fibroblast,MAPK9,1.053398,1.9790565856470363
+breast,Endothelial cell,MAPK9,1.0588236,1.9296254256526677
+esophagusmuscularis,Glia,MAPK9,1.0555556,1.855670103092784
+skeletalmuscle,Muscle,MAPK9,1.038961,1.7057285897833503
+breast,Fibroblast,MAPK9,1.0,1.5873015873015872
+skin,Fibroblast,MAPK9,1.0,1.5122873345935728
+breast,Immune (myeloid),MAPK9,1.0,1.3966480446927374
+skin,Immune (lymphocyte),MAPK9,1.0,1.3333333333333337
+skin,Melanocyte,MAPK9,1.0,1.1029411764705883
+esophagusmucosa,Glia,MAPK9,0.0,0.0
+skin,Adipocyte,MAPK9,0.0,0.0
+skeletalmuscle,Glia,MAPK9,0.0,0.0

@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+ICCs,NRK,0.27345002
+Fibroblast,NRK,0.22058202
+Endothelial cell (lymphatic),NRK,0.05046414
+Myocyte (cardiac),NRK,0.03636447
+Sebaceous gland cell,NRK,0.036111385
+Sweat gland cell,NRK,0.030987332
+Myocyte (smooth muscle),NRK,0.026198203
+Satellite cell,NRK,0.024165895
+Myoepithelial (basal),NRK,0.02394703
+Epithelial cell (ciliated),NRK,0.022856606
+Epithelial cell (luminal),NRK,0.022325309
+Immune (mast cell),NRK,0.021651171
+Melanocyte,NRK,0.021332964
+"Myocyte (cardiac, cytoplasmic)",NRK,0.021305513
+Pericyte/SMC,NRK,0.021141294
+Adipocyte,NRK,0.018746916
+Epithelial cell (suprabasal keratinocyte),NRK,0.018109659
+Epithelial cell (basal keratinocyte),NRK,0.017370338
+Immune (alveolar macrophage),NRK,0.016185649
+Epithelial cell (Hillock),NRK,0.016147044
+Epithelial cell (alveolar type I),NRK,0.015465758
+Endothelial cell (vascular),NRK,0.014809514
+Immune (B cell),NRK,0.014306068
+Epithelial cell (alveolar type II),NRK,0.013254682
+Schwann cell,NRK,0.012915015
+Epithelial cell (club),NRK,0.012897288
+Myocyte (sk. muscle),NRK,0.012576291
+Epithelial cell (suprabasal),NRK,0.010833172
+Epithelial cell (basal),NRK,0.009222268
+Immune (NK cell),NRK,0.008126296
+Immune (T cell),NRK,0.0076275254
+Epithelial cell (squamous),NRK,0.004582073
+Immune (DC/macrophage),NRK,0.0034465399
+Myofibroblast,NRK,0.0030631965
+Epithelial cell (cornified keratinocyte),NRK,0.0
+Immune (DC),NRK,0.0
+Immune (Langerhans),NRK,0.0
+Epithelial cell (mature keratinocyte),NRK,0.0
+Myocyte (NMJ-rich),NRK,0.0
+"Myocyte (sk. muscle, cytoplasmic)",NRK,0.0
+Mucous cell,NRK,0.0
+Neuronal,NRK,0.0
+Neuroendocrine,NRK,0.0

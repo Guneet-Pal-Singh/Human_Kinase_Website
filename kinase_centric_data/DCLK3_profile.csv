@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skeletalmuscle,Glia,DCLK3,2.0,2.857142857142857
+skin,Adipocyte,DCLK3,1.0,1.6129032258064515
+skin,Melanocyte,DCLK3,1.0,0.3676470588235294
+breast,Immune (myeloid),DCLK3,1.0,0.2793296089385474
+lung,Immune (myeloid),DCLK3,1.0,0.131169044105591
+prostate,Immune (myeloid),DCLK3,1.0,0.0972762645914396
+skeletalmuscle,Endothelial cell,DCLK3,1.0,0.0751314800901577
+lung,Epithelial cell,DCLK3,1.0,0.0581516095534787
+skin,Epithelial cell (keratinocyte),DCLK3,1.0,0.0513610683102208
+prostate,Muscle,DCLK3,1.0,0.0445831475702184
+heart,Endothelial cell,DCLK3,1.0,0.0392927308447937
+esophagusmucosa,Fibroblast,DCLK3,1.0,0.0355239786856127
+esophagusmuscularis,Immune (myeloid),DCLK3,1.0,0.0337495781302733
+heart,Muscle,DCLK3,1.0,0.03315649867374
+skeletalmuscle,Muscle,DCLK3,1.0,0.0265827832174028
+esophagusmucosa,Epithelial cell,DCLK3,1.0,0.0217454334589736
+esophagusmuscularis,Muscle,DCLK3,1.0,0.0201762055282803
+skeletalmuscle,Fibroblast,DCLK3,1.0,0.0168236877523553
+heart,Immune (myeloid),DCLK3,1.0,0.0156274417877793
+heart,Fibroblast,DCLK3,1.0,0.0107677398514051
+prostate,Epithelial cell,DCLK3,1.0,0.0086681402505092
+esophagusmucosa,Immune (lymphocyte),DCLK3,0.0,0.0
+esophagusmucosa,Glia,DCLK3,0.0,0.0
+breast,Epithelial cell,DCLK3,0.0,0.0
+breast,Endothelial cell,DCLK3,0.0,0.0
+breast,Adipocyte,DCLK3,0.0,0.0
+breast,Fibroblast,DCLK3,0.0,0.0
+heart,Immune (lymphocyte),DCLK3,0.0,0.0
+heart,Glia,DCLK3,0.0,0.0
+esophagusmuscularis,Neuron,DCLK3,0.0,0.0
+heart,Adipocyte,DCLK3,0.0,0.0
+esophagusmuscularis,Endothelial cell,DCLK3,0.0,0.0
+esophagusmuscularis,Fibroblast,DCLK3,0.0,0.0
+esophagusmuscularis,Glia,DCLK3,0.0,0.0
+esophagusmuscularis,Immune (lymphocyte),DCLK3,0.0,0.0
+esophagusmuscularis,Adipocyte,DCLK3,0.0,0.0
+esophagusmucosa,Stromal,DCLK3,0.0,0.0
+esophagusmucosa,Muscle,DCLK3,0.0,0.0
+esophagusmucosa,Immune (myeloid),DCLK3,0.0,0.0
+esophagusmucosa,Endothelial cell,DCLK3,0.0,0.0
+breast,Muscle,DCLK3,0.0,0.0
+lung,Muscle,DCLK3,0.0,0.0
+lung,Endothelial cell,DCLK3,0.0,0.0
+skeletalmuscle,Adipocyte,DCLK3,0.0,0.0
+prostate,Immune (lymphocyte),DCLK3,0.0,0.0
+prostate,Fibroblast,DCLK3,0.0,0.0
+prostate,Glia,DCLK3,0.0,0.0
+prostate,Endothelial cell,DCLK3,0.0,0.0
+lung,Fibroblast,DCLK3,0.0,0.0
+lung,Immune (lymphocyte),DCLK3,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),DCLK3,0.0,0.0
+skin,Endothelial cell,DCLK3,0.0,0.0
+skeletalmuscle,Immune (myeloid),DCLK3,0.0,0.0
+skin,Fibroblast,DCLK3,0.0,0.0
+skin,Epithelial cell,DCLK3,0.0,0.0
+skin,Immune (lymphocyte),DCLK3,0.0,0.0
+skin,Immune (myeloid),DCLK3,0.0,0.0
+skin,Muscle,DCLK3,0.0,0.0
+skin,Other,DCLK3,0.0,0.0

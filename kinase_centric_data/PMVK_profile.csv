@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skin,Other,PMVK,1.3090909,12.168141592920351
+prostate,Glia,PMVK,1.375,11.940298507462686
+skin,Epithelial cell,PMVK,1.45,9.966777408637874
+heart,Adipocyte,PMVK,1.1111112,9.32642487046632
+skeletalmuscle,Glia,PMVK,1.0,8.571428571428571
+prostate,Immune (myeloid),PMVK,1.0555556,7.003891050583658
+prostate,Epithelial cell,PMVK,1.1861241,6.496771117756685
+heart,Muscle,PMVK,1.1985916,5.88527851458886
+esophagusmucosa,Epithelial cell,PMVK,1.2066667,5.436358364743404
+prostate,Muscle,PMVK,1.0932204,5.2608114132857775
+esophagusmuscularis,Muscle,PMVK,1.1790322,4.169749142511265
+esophagusmuscularis,Neuron,PMVK,1.0,4.0
+heart,Immune (myeloid),PMVK,1.0711297,3.734958587279262
+heart,Glia,PMVK,1.0,3.691275167785235
+skeletalmuscle,Adipocyte,PMVK,1.0,3.1446540880503147
+prostate,Fibroblast,PMVK,1.030303,2.8896672504378285
+esophagusmucosa,Immune (myeloid),PMVK,1.0,2.28898426323319
+skeletalmuscle,Endothelial cell,PMVK,1.0333333,2.2539444027047333
+esophagusmucosa,Stromal,PMVK,1.1,2.0222446916076846
+lung,Immune (myeloid),PMVK,1.137931,1.9019511395310704
+heart,Immune (lymphocyte),PMVK,1.0,1.8624641833810889
+skin,Melanocyte,PMVK,1.0,1.8382352941176472
+skeletalmuscle,Fibroblast,PMVK,1.0458716,1.8337819650067293
+heart,Fibroblast,PMVK,1.0653595,1.6474641972649942
+skin,Epithelial cell (keratinocyte),PMVK,1.09375,1.6435541859270673
+prostate,Endothelial cell,PMVK,1.0227273,1.556970983722576
+lung,Epithelial cell,PMVK,1.0200573,1.4496365524402908
+prostate,Immune (lymphocyte),PMVK,1.0,1.1730205278592376
+esophagusmucosa,Fibroblast,PMVK,1.0625,1.1367673179396092
+breast,Immune (myeloid),PMVK,1.25,1.11731843575419
+esophagusmucosa,Endothelial cell,PMVK,1.0588236,1.0902094912355709
+esophagusmuscularis,Immune (lymphocyte),PMVK,1.0,0.9966777408637874
+skeletalmuscle,Immune (myeloid),PMVK,1.1428572,0.949796472184532
+heart,Endothelial cell,PMVK,1.0416666,0.9430255402750491
+esophagusmuscularis,Immune (myeloid),PMVK,1.037037,0.911238609517381
+lung,Fibroblast,PMVK,1.0,0.8807588075880758
+breast,Epithelial cell,PMVK,1.0612245,0.8449732712536644
+esophagusmucosa,Immune (lymphocyte),PMVK,1.0,0.825082508250825
+esophagusmuscularis,Endothelial cell,PMVK,1.0294118,0.7621609504595382
+breast,Muscle,PMVK,1.0,0.6578947368421052
+breast,Adipocyte,PMVK,1.0909091,0.6246450880181714
+esophagusmucosa,Muscle,PMVK,1.0,0.5988023952095809
+skin,Immune (myeloid),PMVK,1.0,0.5586592178770949
+esophagusmuscularis,Glia,PMVK,1.0,0.5154639175257731
+esophagusmuscularis,Fibroblast,PMVK,1.0192307,0.4995676818138149
+lung,Immune (lymphocyte),PMVK,1.0,0.4137931034482758
+breast,Fibroblast,PMVK,1.0,0.3663003663003663
+lung,Endothelial cell,PMVK,1.0,0.3277494537509104
+skeletalmuscle,Muscle,PMVK,1.0746269,0.2968410792609986
+breast,Endothelial cell,PMVK,1.0,0.1135073779795686
+skin,Endothelial cell,PMVK,1.0,0.0977517106549364
+esophagusmuscularis,Adipocyte,PMVK,0.0,0.0
+esophagusmucosa,Glia,PMVK,0.0,0.0
+lung,Muscle,PMVK,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),PMVK,0.0,0.0
+skin,Adipocyte,PMVK,0.0,0.0
+skin,Fibroblast,PMVK,0.0,0.0
+skin,Immune (lymphocyte),PMVK,0.0,0.0
+skin,Muscle,PMVK,0.0,0.0

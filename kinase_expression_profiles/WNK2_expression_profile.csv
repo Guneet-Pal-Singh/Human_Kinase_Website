@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Myocyte (cardiac),WNK2,1.0805134
+Sweat gland cell,WNK2,1.0748235
+Epithelial cell (club),WNK2,0.85576826
+Sebaceous gland cell,WNK2,0.7907682
+Neuronal,WNK2,0.5971353
+Epithelial cell (Hillock),WNK2,0.58331627
+Mucous cell,WNK2,0.54904574
+Epithelial cell (luminal),WNK2,0.5252801
+Neuroendocrine,WNK2,0.4399511
+"Myocyte (cardiac, cytoplasmic)",WNK2,0.40206602
+Myofibroblast,WNK2,0.39389122
+Epithelial cell (mature keratinocyte),WNK2,0.36474437
+Myocyte (smooth muscle),WNK2,0.32796127
+Epithelial cell (basal),WNK2,0.30139098
+Epithelial cell (cornified keratinocyte),WNK2,0.2614631
+ICCs,WNK2,0.25071114
+Myoepithelial (basal),WNK2,0.23958193
+Myocyte (sk. muscle),WNK2,0.17953284
+"Myocyte (sk. muscle, cytoplasmic)",WNK2,0.1342842
+Myocyte (NMJ-rich),WNK2,0.11713655
+Epithelial cell (ciliated),WNK2,0.094919644
+Pericyte/SMC,WNK2,0.0903995
+Immune (Langerhans),WNK2,0.06642232
+Epithelial cell (suprabasal),WNK2,0.063785926
+Schwann cell,WNK2,0.058498487
+Epithelial cell (suprabasal keratinocyte),WNK2,0.05025504
+Immune (mast cell),WNK2,0.047468267
+Immune (alveolar macrophage),WNK2,0.044391617
+Epithelial cell (alveolar type I),WNK2,0.035880234
+Epithelial cell (alveolar type II),WNK2,0.035786454
+Satellite cell,WNK2,0.03414709
+Endothelial cell (lymphatic),WNK2,0.03092084
+Epithelial cell (squamous),WNK2,0.025771359
+Fibroblast,WNK2,0.02500891
+Endothelial cell (vascular),WNK2,0.016152484
+Immune (NK cell),WNK2,0.015730996
+Immune (DC/macrophage),WNK2,0.0152996825
+Adipocyte,WNK2,0.014185841
+Immune (T cell),WNK2,0.013610454
+Immune (B cell),WNK2,0.011125886
+Epithelial cell (basal keratinocyte),WNK2,0.005989572
+Melanocyte,WNK2,0.0
+Immune (DC),WNK2,0.0

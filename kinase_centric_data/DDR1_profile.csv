@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmucosa,Epithelial cell,DDR1,1.158319,12.590605972745722
+prostate,Epithelial cell,DDR1,1.2026465,11.463615481298488
+skin,Other,DDR1,1.1914893,10.398230088495575
+skin,Epithelial cell (keratinocyte),DDR1,1.1118013,8.269131997945557
+breast,Adipocyte,DDR1,1.1203008,7.552526973310619
+skeletalmuscle,Adipocyte,DDR1,1.1666666,7.547169811320755
+breast,Epithelial cell,DDR1,1.0669975,6.949474047249526
+esophagusmucosa,Stromal,DDR1,1.1129032,6.268958543983821
+prostate,Glia,DDR1,1.0,5.970149253731343
+skin,Epithelial cell,DDR1,1.1470588,5.647840531561462
+esophagusmuscularis,Adipocyte,DDR1,1.0,4.571428571428571
+lung,Epithelial cell,DDR1,1.0523752,3.410176531671859
+heart,Glia,DDR1,1.0,2.684563758389262
+prostate,Muscle,DDR1,1.0892857,2.4966562639322336
+esophagusmuscularis,Glia,DDR1,1.1764706,1.7525773195876289
+heart,Muscle,DDR1,1.0308642,1.3428381962864722
+skin,Immune (lymphocyte),DDR1,1.0,1.3333333333333337
+breast,Muscle,DDR1,1.0,1.3157894736842104
+esophagusmuscularis,Muscle,DDR1,1.0235294,1.1433183132692175
+skin,Immune (myeloid),DDR1,1.0,1.11731843575419
+skeletalmuscle,Muscle,DDR1,1.0163934,1.081033184174383
+skin,Muscle,DDR1,1.0,1.0752688172043012
+esophagusmucosa,Muscle,DDR1,1.0,0.7984031936127743
+esophagusmucosa,Endothelial cell,DDR1,1.0,0.705429670799487
+lung,Immune (myeloid),DDR1,1.0238096,0.6886374815543532
+heart,Fibroblast,DDR1,1.0172414,0.624528911381501
+esophagusmucosa,Fibroblast,DDR1,1.0,0.6039076376554174
+breast,Immune (myeloid),DDR1,1.0,0.5586592178770949
+prostate,Endothelial cell,DDR1,1.0666667,0.5307855626326964
+prostate,Fibroblast,DDR1,1.0,0.5253940455341506
+heart,Adipocyte,DDR1,1.0,0.5181347150259068
+breast,Fibroblast,DDR1,1.5,0.4884004884004884
+lung,Fibroblast,DDR1,1.0,0.4742547425474254
+skeletalmuscle,Fibroblast,DDR1,1.0,0.4710632570659488
+skeletalmuscle,Endothelial cell,DDR1,1.0,0.4507888805409466
+esophagusmucosa,Immune (myeloid),DDR1,1.1666666,0.4291845493562232
+skeletalmuscle,Immune (myeloid),DDR1,1.0,0.4070556309362279
+skin,Endothelial cell,DDR1,1.0,0.3910068426197458
+prostate,Immune (myeloid),DDR1,1.0,0.3891050583657587
+skin,Fibroblast,DDR1,1.0,0.3780718336483932
+heart,Immune (myeloid),DDR1,1.0,0.3750586029067042
+skin,Melanocyte,DDR1,1.0,0.3676470588235294
+breast,Endothelial cell,DDR1,1.0,0.340522133938706
+esophagusmuscularis,Immune (lymphocyte),DDR1,1.0,0.3322259136212624
+lung,Endothelial cell,DDR1,1.0,0.3277494537509104
+esophagusmuscularis,Fibroblast,DDR1,1.0,0.2401767701027956
+esophagusmuscularis,Endothelial cell,DDR1,1.0,0.2241649854292759
+esophagusmuscularis,Immune (myeloid),DDR1,1.0,0.2024974687816402
+heart,Endothelial cell,DDR1,1.0,0.183366077275704
+prostate,Immune (lymphocyte),DDR1,1.0,0.1466275659824047
+esophagusmucosa,Immune (lymphocyte),DDR1,1.0,0.055005500550055
+heart,Immune (lymphocyte),DDR1,0.0,0.0
+esophagusmuscularis,Neuron,DDR1,0.0,0.0
+esophagusmucosa,Glia,DDR1,0.0,0.0
+lung,Muscle,DDR1,0.0,0.0
+lung,Immune (lymphocyte),DDR1,0.0,0.0
+skin,Adipocyte,DDR1,0.0,0.0
+skeletalmuscle,Glia,DDR1,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),DDR1,0.0,0.0

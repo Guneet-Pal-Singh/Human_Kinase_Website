@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (cornified keratinocyte),CDK1,0.11091814
+Epithelial cell (basal keratinocyte),CDK1,0.09375927
+Epithelial cell (basal),CDK1,0.058686413
+Sebaceous gland cell,CDK1,0.030839868
+Immune (DC/macrophage),CDK1,0.020412512
+Immune (NK cell),CDK1,0.018600745
+Myofibroblast,CDK1,0.015436832
+Epithelial cell (club),CDK1,0.014965944
+Epithelial cell (squamous),CDK1,0.014241358
+Epithelial cell (alveolar type II),CDK1,0.011538487
+Epithelial cell (suprabasal),CDK1,0.009893867
+Epithelial cell (mature keratinocyte),CDK1,0.009645492
+Endothelial cell (lymphatic),CDK1,0.009383064
+Sweat gland cell,CDK1,0.009282932
+Immune (T cell),CDK1,0.008874471
+Endothelial cell (vascular),CDK1,0.00804643
+"Myocyte (cardiac, cytoplasmic)",CDK1,0.0075898888
+Epithelial cell (suprabasal keratinocyte),CDK1,0.007345394
+Epithelial cell (ciliated),CDK1,0.0070835734
+Mucous cell,CDK1,0.0066792835
+Immune (alveolar macrophage),CDK1,0.0064212796
+Epithelial cell (Hillock),CDK1,0.0060697244
+Immune (mast cell),CDK1,0.003706963
+Myoepithelial (basal),CDK1,0.0031605004
+Epithelial cell (alveolar type I),CDK1,0.002681468
+Pericyte/SMC,CDK1,0.002473912
+Myocyte (smooth muscle),CDK1,0.001899673
+Myocyte (cardiac),CDK1,0.001845397
+Epithelial cell (luminal),CDK1,0.0016695011
+Fibroblast,CDK1,0.001415926
+Adipocyte,CDK1,0.0008117017
+Myocyte (sk. muscle),CDK1,0.00012313432
+ICCs,CDK1,0.0
+Immune (DC),CDK1,0.0
+Immune (B cell),CDK1,0.0
+Melanocyte,CDK1,0.0
+Immune (Langerhans),CDK1,0.0
+"Myocyte (sk. muscle, cytoplasmic)",CDK1,0.0
+Myocyte (NMJ-rich),CDK1,0.0
+Neuronal,CDK1,0.0
+Neuroendocrine,CDK1,0.0
+Schwann cell,CDK1,0.0
+Satellite cell,CDK1,0.0

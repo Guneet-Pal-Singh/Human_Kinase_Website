@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (Langerhans),PBK,0.12854111
+Epithelial cell (basal keratinocyte),PBK,0.06871564
+Epithelial cell (cornified keratinocyte),PBK,0.03666949
+Epithelial cell (basal),PBK,0.035342466
+Sebaceous gland cell,PBK,0.030839868
+Melanocyte,PBK,0.03040665
+Immune (alveolar macrophage),PBK,0.019185686
+Epithelial cell (ciliated),PBK,0.015712284
+Epithelial cell (alveolar type II),PBK,0.013996285
+Sweat gland cell,PBK,0.013468701
+Immune (NK cell),PBK,0.011752249
+Epithelial cell (alveolar type I),PBK,0.010908788
+Epithelial cell (club),PBK,0.010279498
+Epithelial cell (suprabasal keratinocyte),PBK,0.009691789
+Epithelial cell (squamous),PBK,0.009623112
+Epithelial cell (Hillock),PBK,0.009216971
+Immune (T cell),PBK,0.008935492
+Satellite cell,PBK,0.008924552
+Immune (mast cell),PBK,0.0082525015
+Endothelial cell (lymphatic),PBK,0.006846011
+Myocyte (sk. muscle),PBK,0.0063772756
+Pericyte/SMC,PBK,0.0054744706
+Immune (DC/macrophage),PBK,0.004489322
+Epithelial cell (suprabasal),PBK,0.004478521
+Myocyte (cardiac),PBK,0.003872491
+Adipocyte,PBK,0.003872148
+Endothelial cell (vascular),PBK,0.0037568808
+Fibroblast,PBK,0.0037045616
+Epithelial cell (luminal),PBK,0.0036278802
+Myofibroblast,PBK,0.0030717773
+Myocyte (smooth muscle),PBK,0.0028728598
+"Myocyte (cardiac, cytoplasmic)",PBK,0.0014130053
+Epithelial cell (mature keratinocyte),PBK,0.0
+ICCs,PBK,0.0
+Immune (B cell),PBK,0.0
+Immune (DC),PBK,0.0
+"Myocyte (sk. muscle, cytoplasmic)",PBK,0.0
+Myocyte (NMJ-rich),PBK,0.0
+Mucous cell,PBK,0.0
+Myoepithelial (basal),PBK,0.0
+Neuroendocrine,PBK,0.0
+Neuronal,PBK,0.0
+Schwann cell,PBK,0.0

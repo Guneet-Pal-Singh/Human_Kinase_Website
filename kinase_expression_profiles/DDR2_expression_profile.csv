@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Fibroblast,DDR2,0.9833986
+Myocyte (smooth muscle),DDR2,0.88251173
+Adipocyte,DDR2,0.80134857
+Neuronal,DDR2,0.6594505
+ICCs,DDR2,0.63620895
+Myofibroblast,DDR2,0.5897136
+Pericyte/SMC,DDR2,0.50508726
+Myocyte (cardiac),DDR2,0.44836414
+Satellite cell,DDR2,0.35687426
+Schwann cell,DDR2,0.31784728
+Myoepithelial (basal),DDR2,0.2627865
+Immune (mast cell),DDR2,0.23371944
+"Myocyte (cardiac, cytoplasmic)",DDR2,0.21816854
+Endothelial cell (lymphatic),DDR2,0.1950213
+Sweat gland cell,DDR2,0.13854289
+Neuroendocrine,DDR2,0.118389666
+Epithelial cell (luminal),DDR2,0.10420601
+Epithelial cell (club),DDR2,0.087057635
+Immune (DC),DDR2,0.08287816
+Endothelial cell (vascular),DDR2,0.07690137
+Melanocyte,DDR2,0.076448165
+Immune (alveolar macrophage),DDR2,0.072255954
+Mucous cell,DDR2,0.06821245
+Epithelial cell (alveolar type II),DDR2,0.067414016
+Myocyte (NMJ-rich),DDR2,0.053003117
+Epithelial cell (basal),DDR2,0.05061526
+Epithelial cell (squamous),DDR2,0.048576836
+Epithelial cell (ciliated),DDR2,0.046325367
+Sebaceous gland cell,DDR2,0.044308063
+"Myocyte (sk. muscle, cytoplasmic)",DDR2,0.040543575
+Epithelial cell (Hillock),DDR2,0.03616103
+Epithelial cell (suprabasal),DDR2,0.03604127
+Epithelial cell (alveolar type I),DDR2,0.035944145
+Epithelial cell (basal keratinocyte),DDR2,0.031485498
+Immune (NK cell),DDR2,0.025992481
+Myocyte (sk. muscle),DDR2,0.025354698
+Immune (DC/macrophage),DDR2,0.01879394
+Immune (T cell),DDR2,0.018224634
+Epithelial cell (suprabasal keratinocyte),DDR2,0.016044658
+Immune (B cell),DDR2,0.008208211
+Epithelial cell (cornified keratinocyte),DDR2,0.0
+Immune (Langerhans),DDR2,0.0
+Epithelial cell (mature keratinocyte),DDR2,0.0

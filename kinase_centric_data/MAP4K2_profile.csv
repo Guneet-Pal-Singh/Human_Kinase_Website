@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmucosa,Endothelial cell,MAP4K2,1.2164706,9.085079093629757
+esophagusmuscularis,Neuron,MAP4K2,1.0,8.0
+skin,Endothelial cell,MAP4K2,1.2837838,7.233626588465299
+skin,Immune (myeloid),MAP4K2,1.0833334,6.70391061452514
+lung,Endothelial cell,MAP4K2,1.0837989,6.518572469045885
+breast,Endothelial cell,MAP4K2,1.06,5.675368898978434
+esophagusmuscularis,Endothelial cell,MAP4K2,1.1829787,5.267877157587985
+esophagusmucosa,Immune (lymphocyte),MAP4K2,1.0967742,5.115511551155116
+lung,Immune (myeloid),MAP4K2,1.0352942,4.181013280865716
+heart,Endothelial cell,MAP4K2,1.0694007,4.151931892599869
+prostate,Immune (lymphocyte),MAP4K2,1.1071428,4.105571847507331
+skin,Immune (lymphocyte),MAP4K2,1.3333334,4.0
+breast,Immune (myeloid),MAP4K2,1.0,3.910614525139665
+skeletalmuscle,Endothelial cell,MAP4K2,1.0769231,3.9068369646882046
+breast,Muscle,MAP4K2,1.0,3.289473684210526
+esophagusmucosa,Stromal,MAP4K2,1.09375,3.235591506572296
+skin,Adipocyte,MAP4K2,1.0,3.225806451612903
+skeletalmuscle,Adipocyte,MAP4K2,1.0,3.1446540880503147
+prostate,Endothelial cell,MAP4K2,1.1363636,3.113941967445152
+lung,Immune (lymphocyte),MAP4K2,1.0909091,3.034482758620689
+prostate,Muscle,MAP4K2,1.031746,2.808738296923763
+esophagusmuscularis,Immune (lymphocyte),MAP4K2,1.125,2.6578073089701
+esophagusmucosa,Immune (myeloid),MAP4K2,1.0,2.6466380543633763
+heart,Adipocyte,MAP4K2,1.0,2.5906735751295336
+esophagusmuscularis,Muscle,MAP4K2,1.0217391,2.4749478781357186
+esophagusmuscularis,Adipocyte,MAP4K2,1.0,2.2857142857142856
+heart,Muscle,MAP4K2,1.0298507,2.2214854111405837
+prostate,Immune (myeloid),MAP4K2,1.0,2.140077821011673
+skeletalmuscle,Immune (lymphocyte),MAP4K2,1.0,2.0
+esophagusmuscularis,Glia,MAP4K2,1.0526316,1.958762886597938
+prostate,Fibroblast,MAP4K2,1.1363636,1.926444833625219
+breast,Epithelial cell,MAP4K2,1.0588236,1.758923952405587
+esophagusmuscularis,Immune (myeloid),MAP4K2,1.0,1.7549780627742155
+esophagusmucosa,Epithelial cell,MAP4K2,1.0414938,1.7468831545375472
+heart,Immune (lymphocyte),MAP4K2,1.0,1.7191977077363898
+lung,Fibroblast,MAP4K2,1.0,1.5582655826558265
+esophagusmucosa,Glia,MAP4K2,1.0,1.5384615384615383
+breast,Adipocyte,MAP4K2,1.0,1.419647927314026
+esophagusmucosa,Muscle,MAP4K2,1.1428572,1.3972055888223551
+prostate,Epithelial cell,MAP4K2,1.045016,1.3478958089541888
+lung,Epithelial cell,MAP4K2,1.0247678,1.3416407061266873
+heart,Immune (myeloid),MAP4K2,1.0361446,1.2970776683856853
+heart,Fibroblast,MAP4K2,1.0338984,1.2705933024658125
+lung,Muscle,MAP4K2,1.0,1.2269938650306749
+esophagusmucosa,Fibroblast,MAP4K2,1.0,1.2078152753108349
+skeletalmuscle,Immune (myeloid),MAP4K2,1.0,1.0854816824966078
+skin,Muscle,MAP4K2,1.0,1.0752688172043012
+heart,Glia,MAP4K2,1.0,1.006711409395973
+esophagusmuscularis,Fibroblast,MAP4K2,1.0,0.99913536362763
+breast,Fibroblast,MAP4K2,1.0,0.8547008547008548
+skin,Epithelial cell,MAP4K2,1.2,0.8305647840531563
+skin,Other,MAP4K2,1.0,0.6637168141592921
+skeletalmuscle,Muscle,MAP4K2,1.0134228,0.6601391165655044
+skeletalmuscle,Fibroblast,MAP4K2,1.0,0.5047106325706594
+skin,Melanocyte,MAP4K2,1.0,0.3676470588235294
+skin,Epithelial cell (keratinocyte),MAP4K2,1.0,0.2054442732408834
+prostate,Glia,MAP4K2,0.0,0.0
+skeletalmuscle,Glia,MAP4K2,0.0,0.0
+skin,Fibroblast,MAP4K2,0.0,0.0

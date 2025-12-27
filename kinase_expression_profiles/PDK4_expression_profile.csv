@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+"Myocyte (sk. muscle, cytoplasmic)",PDK4,2.1112852
+Myocyte (sk. muscle),PDK4,2.0781586
+Myocyte (cardiac),PDK4,1.7711041
+Myocyte (NMJ-rich),PDK4,1.5155588
+Immune (DC/macrophage),PDK4,1.0556535
+"Myocyte (cardiac, cytoplasmic)",PDK4,0.98925674
+Myocyte (smooth muscle),PDK4,0.95368564
+Schwann cell,PDK4,0.94496113
+Pericyte/SMC,PDK4,0.9287017
+Sweat gland cell,PDK4,0.8128512
+Myofibroblast,PDK4,0.8023408
+Fibroblast,PDK4,0.7821263
+Immune (alveolar macrophage),PDK4,0.75497246
+Epithelial cell (luminal),PDK4,0.709045
+Adipocyte,PDK4,0.70149726
+Satellite cell,PDK4,0.5650019
+Myoepithelial (basal),PDK4,0.5266657
+Neuroendocrine,PDK4,0.5125501
+Endothelial cell (vascular),PDK4,0.44695127
+Immune (mast cell),PDK4,0.3983061
+Endothelial cell (lymphatic),PDK4,0.3684837
+Epithelial cell (basal),PDK4,0.29220155
+Epithelial cell (ciliated),PDK4,0.27909464
+Immune (Langerhans),PDK4,0.19856119
+Sebaceous gland cell,PDK4,0.18620327
+ICCs,PDK4,0.15629189
+Epithelial cell (club),PDK4,0.13476595
+Epithelial cell (Hillock),PDK4,0.1336869
+Epithelial cell (alveolar type I),PDK4,0.08149206
+Melanocyte,PDK4,0.062020108
+Neuronal,PDK4,0.0611457
+Immune (NK cell),PDK4,0.05161571
+Mucous cell,PDK4,0.050703425
+Immune (T cell),PDK4,0.04297019
+Epithelial cell (basal keratinocyte),PDK4,0.042708915
+Immune (DC),PDK4,0.035466984
+Immune (B cell),PDK4,0.029226217
+Epithelial cell (squamous),PDK4,0.02785252
+Epithelial cell (alveolar type II),PDK4,0.010596227
+Epithelial cell (suprabasal keratinocyte),PDK4,0.0099838795
+Epithelial cell (suprabasal),PDK4,0.0074071633
+Epithelial cell (cornified keratinocyte),PDK4,0.0
+Epithelial cell (mature keratinocyte),PDK4,0.0

@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (DC),ADPGK,0.6169997
+Immune (alveolar macrophage),ADPGK,0.555623
+Immune (DC/macrophage),ADPGK,0.47446176
+Adipocyte,ADPGK,0.42705858
+Immune (B cell),ADPGK,0.3616365
+Epithelial cell (suprabasal),ADPGK,0.32978418
+Epithelial cell (mature keratinocyte),ADPGK,0.3015068
+Myofibroblast,ADPGK,0.29633355
+Immune (T cell),ADPGK,0.2803753
+Sweat gland cell,ADPGK,0.2743975
+Mucous cell,ADPGK,0.27299905
+Epithelial cell (luminal),ADPGK,0.27003404
+Immune (mast cell),ADPGK,0.26549616
+Epithelial cell (basal),ADPGK,0.25707328
+Immune (Langerhans),ADPGK,0.254486
+Immune (NK cell),ADPGK,0.24260384
+Epithelial cell (alveolar type II),ADPGK,0.24246764
+Melanocyte,ADPGK,0.22873871
+Epithelial cell (club),ADPGK,0.22723503
+ICCs,ADPGK,0.21791764
+Epithelial cell (basal keratinocyte),ADPGK,0.21757348
+Epithelial cell (Hillock),ADPGK,0.21537612
+Epithelial cell (suprabasal keratinocyte),ADPGK,0.20939595
+Fibroblast,ADPGK,0.20763697
+Sebaceous gland cell,ADPGK,0.20731644
+Satellite cell,ADPGK,0.19478661
+Myocyte (cardiac),ADPGK,0.19442564
+Epithelial cell (ciliated),ADPGK,0.19377545
+Myocyte (smooth muscle),ADPGK,0.16326255
+Endothelial cell (lymphatic),ADPGK,0.15775816
+Pericyte/SMC,ADPGK,0.15440187
+Endothelial cell (vascular),ADPGK,0.15305237
+Epithelial cell (alveolar type I),ADPGK,0.15282823
+Neuronal,ADPGK,0.13381904
+Myoepithelial (basal),ADPGK,0.12987632
+Schwann cell,ADPGK,0.12625058
+Myocyte (sk. muscle),ADPGK,0.11801651
+Epithelial cell (squamous),ADPGK,0.114139944
+Neuroendocrine,ADPGK,0.056850847
+"Myocyte (cardiac, cytoplasmic)",ADPGK,0.054880504
+Epithelial cell (cornified keratinocyte),ADPGK,0.050042756
+Myocyte (NMJ-rich),ADPGK,0.0454074
+"Myocyte (sk. muscle, cytoplasmic)",ADPGK,0.026524626

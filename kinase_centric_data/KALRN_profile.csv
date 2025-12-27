@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+breast,Endothelial cell,KALRN,2.2241716,58.22928490351873
+esophagusmucosa,Endothelial cell,KALRN,2.366797,54.72424112868748
+skin,Endothelial cell,KALRN,2.2830188,51.80840664711632
+heart,Endothelial cell,KALRN,1.8905149,48.33005893909627
+esophagusmucosa,Muscle,KALRN,1.9752066,48.30339321357285
+skin,Muscle,KALRN,1.8988764,47.8494623655914
+heart,Muscle,KALRN,2.1870682,46.792108753315645
+lung,Muscle,KALRN,1.6216216,45.39877300613497
+esophagusmuscularis,Endothelial cell,KALRN,2.069664,45.37099305088545
+esophagusmuscularis,Neuron,KALRN,2.5454545,44.0
+prostate,Endothelial cell,KALRN,1.7746365,43.80750176928521
+breast,Muscle,KALRN,1.5,40.78947368421053
+skeletalmuscle,Endothelial cell,KALRN,1.852071,38.09166040571
+lung,Endothelial cell,KALRN,1.6913979,33.867443554260745
+esophagusmuscularis,Muscle,KALRN,2.4432285,29.49761248234582
+heart,Adipocyte,KALRN,1.490566,27.46113989637305
+skeletalmuscle,Muscle,KALRN,1.3962634,24.899206946967347
+esophagusmucosa,Stromal,KALRN,1.5572916,19.41354903943377
+prostate,Muscle,KALRN,1.6256545,17.030762371823453
+esophagusmuscularis,Adipocyte,KALRN,1.6428572,16.0
+lung,Fibroblast,KALRN,1.2813853,15.65040650406504
+breast,Epithelial cell,KALRN,1.1947744,14.519744783583375
+skin,Epithelial cell,KALRN,1.2409638,13.78737541528239
+skeletalmuscle,Adipocyte,KALRN,1.2380953,13.20754716981132
+breast,Adipocyte,KALRN,1.3715596,12.379329926178308
+prostate,Epithelial cell,KALRN,1.2987013,11.680318987561218
+esophagusmuscularis,Glia,KALRN,1.98,10.309278350515465
+lung,Immune (myeloid),KALRN,1.1380043,7.722577471716676
+esophagusmucosa,Epithelial cell,KALRN,1.3415095,7.683386488837344
+skin,Melanocyte,KALRN,1.3,7.352941176470589
+heart,Fibroblast,KALRN,1.3144654,6.8482825454937
+prostate,Fibroblast,KALRN,1.1351352,6.47985989492119
+skin,Epithelial cell (keratinocyte),KALRN,1.184,6.4201335387776055
+skin,Fibroblast,KALRN,1.1666666,5.671077504725898
+breast,Fibroblast,KALRN,1.3695652,5.616605616605617
+lung,Epithelial cell,KALRN,1.1166419,5.590861889927311
+skin,Immune (lymphocyte),KALRN,1.0,5.333333333333334
+skin,Other,KALRN,1.0833334,5.3097345132743365
+esophagusmucosa,Fibroblast,KALRN,1.3741007,4.9378330373001775
+breast,Immune (myeloid),KALRN,1.0588236,4.748603351955307
+skeletalmuscle,Fibroblast,KALRN,1.1198347,4.071332436069987
+skeletalmuscle,Immune (lymphocyte),KALRN,1.75,4.0
+heart,Glia,KALRN,1.6363636,3.691275167785235
+esophagusmuscularis,Immune (lymphocyte),KALRN,1.6363636,3.654485049833888
+skeletalmuscle,Immune (myeloid),KALRN,1.1923077,3.5278154681139755
+skin,Immune (myeloid),KALRN,1.0,3.35195530726257
+esophagusmucosa,Glia,KALRN,1.0,3.076923076923077
+prostate,Glia,KALRN,1.0,2.985074626865672
+esophagusmuscularis,Immune (myeloid),KALRN,1.5454545,2.969962875464057
+esophagusmuscularis,Fibroblast,KALRN,1.173913,2.20962628494572
+esophagusmucosa,Immune (myeloid),KALRN,1.4074074,1.9313304721030045
+lung,Immune (lymphocyte),KALRN,1.0833334,1.6551724137931034
+skin,Adipocyte,KALRN,1.0,1.6129032258064515
+heart,Immune (lymphocyte),KALRN,1.0,1.5759312320916905
+prostate,Immune (myeloid),KALRN,1.1666666,1.1673151750972763
+heart,Immune (myeloid),KALRN,1.4054054,1.1564306922956713
+prostate,Immune (lymphocyte),KALRN,1.4285715,1.0263929618768328
+esophagusmucosa,Immune (lymphocyte),KALRN,1.1764706,0.935093509350935
+skeletalmuscle,Glia,KALRN,0.0,0.0

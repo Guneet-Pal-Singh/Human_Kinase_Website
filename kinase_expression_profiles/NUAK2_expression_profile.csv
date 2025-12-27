@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (squamous),NUAK2,0.65097207
+Immune (DC),NUAK2,0.3260015
+Epithelial cell (suprabasal),NUAK2,0.27816853
+Epithelial cell (mature keratinocyte),NUAK2,0.2325073
+Immune (Langerhans),NUAK2,0.07960344
+Epithelial cell (alveolar type II),NUAK2,0.050138105
+Epithelial cell (ciliated),NUAK2,0.048200477
+Epithelial cell (suprabasal keratinocyte),NUAK2,0.0458413
+Satellite cell,NUAK2,0.044515356
+Epithelial cell (cornified keratinocyte),NUAK2,0.043244444
+Mucous cell,NUAK2,0.03986853
+Epithelial cell (alveolar type I),NUAK2,0.039712604
+Epithelial cell (club),NUAK2,0.039607696
+Immune (B cell),NUAK2,0.038050063
+Immune (NK cell),NUAK2,0.03699221
+Immune (DC/macrophage),NUAK2,0.03608153
+Neuroendocrine,NUAK2,0.03605184
+Immune (alveolar macrophage),NUAK2,0.034084607
+Epithelial cell (basal),NUAK2,0.033554576
+Epithelial cell (Hillock),NUAK2,0.023006242
+Myoepithelial (basal),NUAK2,0.022773657
+Sweat gland cell,NUAK2,0.02150309
+Immune (mast cell),NUAK2,0.021403458
+Myofibroblast,NUAK2,0.018639285
+Epithelial cell (basal keratinocyte),NUAK2,0.017203461
+Myocyte (cardiac),NUAK2,0.016747091
+Endothelial cell (vascular),NUAK2,0.013259454
+Epithelial cell (luminal),NUAK2,0.012186499
+ICCs,NUAK2,0.01216774
+Schwann cell,NUAK2,0.01100164
+Myocyte (smooth muscle),NUAK2,0.010576252
+Endothelial cell (lymphatic),NUAK2,0.010574033
+"Myocyte (sk. muscle, cytoplasmic)",NUAK2,0.009878495
+Pericyte/SMC,NUAK2,0.009497882
+Fibroblast,NUAK2,0.008148529
+Adipocyte,NUAK2,0.0070940126
+Immune (T cell),NUAK2,0.006731666
+Myocyte (sk. muscle),NUAK2,0.006087364
+"Myocyte (cardiac, cytoplasmic)",NUAK2,0.0032495614
+Melanocyte,NUAK2,0.0
+Myocyte (NMJ-rich),NUAK2,0.0
+Neuronal,NUAK2,0.0
+Sebaceous gland cell,NUAK2,0.0

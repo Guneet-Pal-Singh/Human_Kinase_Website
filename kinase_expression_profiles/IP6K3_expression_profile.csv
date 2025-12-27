@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Myocyte (sk. muscle),IP6K3,0.8219176
+"Myocyte (sk. muscle, cytoplasmic)",IP6K3,0.7139935
+Myocyte (NMJ-rich),IP6K3,0.56516707
+Myocyte (cardiac),IP6K3,0.3847187
+Satellite cell,IP6K3,0.31054664
+"Myocyte (cardiac, cytoplasmic)",IP6K3,0.23139624
+Myofibroblast,IP6K3,0.19029883
+Schwann cell,IP6K3,0.13047676
+Pericyte/SMC,IP6K3,0.044456158
+Myocyte (smooth muscle),IP6K3,0.018028304
+Adipocyte,IP6K3,0.017812753
+Immune (alveolar macrophage),IP6K3,0.014204916
+Immune (B cell),IP6K3,0.014113973
+Epithelial cell (mature keratinocyte),IP6K3,0.013956259
+Epithelial cell (ciliated),IP6K3,0.012972456
+Immune (mast cell),IP6K3,0.011801718
+Epithelial cell (Hillock),IP6K3,0.011485425
+Epithelial cell (alveolar type II),IP6K3,0.0102905985
+Myoepithelial (basal),IP6K3,0.009104864
+Fibroblast,IP6K3,0.0089635225
+Epithelial cell (club),IP6K3,0.008067294
+Epithelial cell (alveolar type I),IP6K3,0.007965874
+Epithelial cell (luminal),IP6K3,0.0056067323
+Endothelial cell (vascular),IP6K3,0.0055227857
+Immune (DC/macrophage),IP6K3,0.0050640744
+Endothelial cell (lymphatic),IP6K3,0.0048323497
+Epithelial cell (squamous),IP6K3,0.0037308072
+Epithelial cell (suprabasal),IP6K3,0.002810553
+Epithelial cell (basal),IP6K3,0.002186821
+Epithelial cell (basal keratinocyte),IP6K3,0.0020551041
+Immune (T cell),IP6K3,0.00090675143
+Epithelial cell (cornified keratinocyte),IP6K3,0.0
+ICCs,IP6K3,0.0
+Epithelial cell (suprabasal keratinocyte),IP6K3,0.0
+Immune (NK cell),IP6K3,0.0
+Melanocyte,IP6K3,0.0
+Immune (DC),IP6K3,0.0
+Immune (Langerhans),IP6K3,0.0
+Mucous cell,IP6K3,0.0
+Neuronal,IP6K3,0.0
+Neuroendocrine,IP6K3,0.0
+Sebaceous gland cell,IP6K3,0.0
+Sweat gland cell,IP6K3,0.0

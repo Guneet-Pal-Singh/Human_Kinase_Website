@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Myocyte (sk. muscle),ALPK3,0.68226814
+Myocyte (cardiac),ALPK3,0.57652867
+"Myocyte (sk. muscle, cytoplasmic)",ALPK3,0.5041652
+Adipocyte,ALPK3,0.48341554
+"Myocyte (cardiac, cytoplasmic)",ALPK3,0.42334884
+Epithelial cell (squamous),ALPK3,0.3757531
+Myocyte (NMJ-rich),ALPK3,0.27071863
+Neuronal,ALPK3,0.17767638
+Immune (alveolar macrophage),ALPK3,0.16351193
+Immune (DC),ALPK3,0.15189698
+Myofibroblast,ALPK3,0.12011952
+Satellite cell,ALPK3,0.10055342
+Immune (Langerhans),ALPK3,0.098911725
+Pericyte/SMC,ALPK3,0.09873587
+Epithelial cell (alveolar type I),ALPK3,0.0973683
+Endothelial cell (lymphatic),ALPK3,0.0834196
+Myocyte (smooth muscle),ALPK3,0.06554712
+ICCs,ALPK3,0.05244716
+Epithelial cell (alveolar type II),ALPK3,0.049513903
+Sweat gland cell,ALPK3,0.044014998
+Endothelial cell (vascular),ALPK3,0.035688136
+Fibroblast,ALPK3,0.033175953
+Immune (DC/macrophage),ALPK3,0.03310385
+Immune (mast cell),ALPK3,0.028106384
+Schwann cell,ALPK3,0.02621053
+Epithelial cell (ciliated),ALPK3,0.022288222
+Neuroendocrine,ALPK3,0.018722301
+Epithelial cell (Hillock),ALPK3,0.015474777
+Epithelial cell (luminal),ALPK3,0.012322921
+Immune (B cell),ALPK3,0.012016976
+Epithelial cell (suprabasal),ALPK3,0.011711307
+Epithelial cell (club),ALPK3,0.011621061
+Immune (T cell),ALPK3,0.008503168
+Epithelial cell (basal),ALPK3,0.007531378
+Sebaceous gland cell,ALPK3,0.007073989
+Myoepithelial (basal),ALPK3,0.0063259075
+Epithelial cell (basal keratinocyte),ALPK3,0.00094714144
+Epithelial cell (cornified keratinocyte),ALPK3,0.0
+Epithelial cell (mature keratinocyte),ALPK3,0.0
+Melanocyte,ALPK3,0.0
+Immune (NK cell),ALPK3,0.0
+Epithelial cell (suprabasal keratinocyte),ALPK3,0.0
+Mucous cell,ALPK3,0.0

@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+lung,Immune (myeloid),BTK,1.0752896,8.493195605837023
+esophagusmucosa,Immune (myeloid),BTK,1.0392157,7.296137339055794
+skin,Immune (myeloid),BTK,1.0769231,7.262569832402235
+esophagusmuscularis,Immune (myeloid),BTK,1.0552486,6.108673641579481
+heart,Immune (myeloid),BTK,1.0673077,4.875761837787154
+breast,Immune (myeloid),BTK,1.0714285,3.910614525139665
+prostate,Immune (myeloid),BTK,1.025,3.891050583657588
+skeletalmuscle,Immune (myeloid),BTK,1.0,3.2564450474898234
+lung,Muscle,BTK,1.0,1.2269938650306749
+esophagusmucosa,Immune (lymphocyte),BTK,1.0454545,1.21012101210121
+heart,Immune (lymphocyte),BTK,1.0,1.146131805157593
+esophagusmuscularis,Adipocyte,BTK,1.0,1.1428571428571428
+skin,Other,BTK,1.0,1.106194690265487
+skeletalmuscle,Immune (lymphocyte),BTK,1.0,1.0
+skin,Epithelial cell,BTK,1.0,0.8305647840531563
+prostate,Immune (lymphocyte),BTK,1.0,0.7331378299120235
+breast,Muscle,BTK,1.0,0.6578947368421052
+skeletalmuscle,Adipocyte,BTK,1.0,0.628930817610063
+esophagusmuscularis,Glia,BTK,1.0,0.6185567010309279
+skin,Muscle,BTK,1.0,0.5376344086021506
+heart,Adipocyte,BTK,1.0,0.5181347150259068
+lung,Epithelial cell,BTK,1.0080645,0.5150571131879543
+lung,Fibroblast,BTK,1.0,0.4742547425474254
+skin,Epithelial cell (keratinocyte),BTK,1.0,0.4622496147919877
+heart,Muscle,BTK,1.02,0.4144562334217507
+esophagusmucosa,Stromal,BTK,1.0,0.4044489383215369
+skin,Melanocyte,BTK,1.0,0.3676470588235294
+esophagusmuscularis,Immune (lymphocyte),BTK,1.0,0.3322259136212624
+lung,Endothelial cell,BTK,1.0,0.3277494537509104
+breast,Epithelial cell,BTK,1.0,0.2931539920675978
+esophagusmuscularis,Muscle,BTK,1.0,0.2757414755531643
+esophagusmuscularis,Endothelial cell,BTK,1.0,0.2465814839722035
+skeletalmuscle,Muscle,BTK,1.0,0.2303841212174915
+heart,Fibroblast,BTK,1.0,0.2261225368795089
+esophagusmucosa,Epithelial cell,BTK,1.0645162,0.224702812409394
+esophagusmucosa,Muscle,BTK,1.0,0.1996007984031935
+prostate,Muscle,BTK,1.0,0.1783325902808738
+prostate,Fibroblast,BTK,1.0,0.1751313485113835
+skeletalmuscle,Fibroblast,BTK,1.0,0.1514131897711978
+skeletalmuscle,Endothelial cell,BTK,1.0,0.1502629601803155
+prostate,Epithelial cell,BTK,1.0,0.1473583842586573
+heart,Endothelial cell,BTK,1.0,0.1440733464309103
+prostate,Endothelial cell,BTK,1.0,0.1415428167020523
+lung,Immune (lymphocyte),BTK,1.0,0.1379310344827586
+esophagusmuscularis,Fibroblast,BTK,1.0,0.1248919204534537
+esophagusmucosa,Endothelial cell,BTK,1.0,0.1068832834544677
+esophagusmucosa,Fibroblast,BTK,1.0,0.0710479573712255
+breast,Endothelial cell,BTK,0.0,0.0
+breast,Adipocyte,BTK,0.0,0.0
+breast,Fibroblast,BTK,0.0,0.0
+esophagusmucosa,Glia,BTK,0.0,0.0
+heart,Glia,BTK,0.0,0.0
+esophagusmuscularis,Neuron,BTK,0.0,0.0
+prostate,Glia,BTK,0.0,0.0
+skeletalmuscle,Glia,BTK,0.0,0.0
+skin,Endothelial cell,BTK,0.0,0.0
+skin,Adipocyte,BTK,0.0,0.0
+skin,Immune (lymphocyte),BTK,0.0,0.0
+skin,Fibroblast,BTK,0.0,0.0

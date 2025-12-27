@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmucosa,Endothelial cell,SPHK1,1.1087533,8.058999572466865
+skin,Endothelial cell,SPHK1,1.084507,6.940371456500488
+heart,Glia,SPHK1,1.05,6.711409395973154
+esophagusmuscularis,Endothelial cell,SPHK1,1.0590278,6.455951580363148
+esophagusmucosa,Epithelial cell,SPHK1,1.3165138,6.320672658741665
+prostate,Glia,SPHK1,1.0,5.970149253731343
+prostate,Immune (myeloid),SPHK1,1.0714285,5.447470817120623
+breast,Endothelial cell,SPHK1,1.1219512,4.653802497162316
+esophagusmuscularis,Glia,SPHK1,1.0285715,3.608247422680412
+esophagusmucosa,Glia,SPHK1,1.0,3.076923076923077
+prostate,Endothelial cell,SPHK1,1.1084337,2.937013446567587
+skin,Other,SPHK1,1.2307693,2.8761061946902653
+skeletalmuscle,Glia,SPHK1,1.0,2.857142857142857
+esophagusmucosa,Immune (myeloid),SPHK1,1.0526316,2.718168812589413
+heart,Adipocyte,SPHK1,1.0,2.5906735751295336
+heart,Fibroblast,SPHK1,1.0379146,2.271993108646495
+esophagusmuscularis,Fibroblast,SPHK1,1.0353535,1.9022000192141413
+esophagusmucosa,Stromal,SPHK1,1.1111112,1.820020222446916
+heart,Endothelial cell,SPHK1,1.0692308,1.7026850032743943
+breast,Epithelial cell,SPHK1,1.0625,1.6554578375581996
+skeletalmuscle,Endothelial cell,SPHK1,1.0,1.6528925619834711
+esophagusmucosa,Fibroblast,SPHK1,1.0238096,1.492007104795737
+breast,Muscle,SPHK1,1.0,1.3157894736842104
+prostate,Fibroblast,SPHK1,1.0,1.3134851138353765
+breast,Fibroblast,SPHK1,1.0,1.221001221001221
+lung,Endothelial cell,SPHK1,1.030303,1.2017479970866711
+prostate,Muscle,SPHK1,1.0384616,1.15916183682568
+prostate,Epithelial cell,SPHK1,1.0487804,1.066181250812638
+skin,Epithelial cell,SPHK1,1.3333334,0.9966777408637874
+lung,Immune (myeloid),SPHK1,1.0,0.8362026561731432
+esophagusmucosa,Muscle,SPHK1,1.0,0.7984031936127743
+heart,Muscle,SPHK1,1.0434783,0.7625994694960212
+skin,Epithelial cell (keratinocyte),SPHK1,1.0,0.667693888032871
+lung,Muscle,SPHK1,1.0,0.6134969325153374
+esophagusmuscularis,Adipocyte,SPHK1,1.0,0.5714285714285714
+skin,Muscle,SPHK1,1.0,0.5376344086021506
+heart,Immune (myeloid),SPHK1,1.0882353,0.5313330207844975
+lung,Fibroblast,SPHK1,1.0,0.4742547425474254
+skeletalmuscle,Fibroblast,SPHK1,1.0,0.4710632570659488
+esophagusmuscularis,Muscle,SPHK1,1.0833334,0.4035241105656063
+esophagusmuscularis,Immune (myeloid),SPHK1,1.0909091,0.371245359433007
+heart,Immune (lymphocyte),SPHK1,1.0,0.2865329512893982
+breast,Immune (myeloid),SPHK1,1.0,0.2793296089385474
+skeletalmuscle,Immune (myeloid),SPHK1,1.0,0.2713704206241519
+lung,Epithelial cell,SPHK1,1.0,0.166147455867082
+prostate,Immune (lymphocyte),SPHK1,1.0,0.1466275659824047
+lung,Immune (lymphocyte),SPHK1,1.0,0.1379310344827586
+breast,Adipocyte,SPHK1,1.0,0.1135718341851221
+skeletalmuscle,Muscle,SPHK1,1.0,0.0753178857826414
+esophagusmucosa,Immune (lymphocyte),SPHK1,1.0,0.055005500550055
+esophagusmuscularis,Immune (lymphocyte),SPHK1,0.0,0.0
+esophagusmuscularis,Neuron,SPHK1,0.0,0.0
+skeletalmuscle,Adipocyte,SPHK1,0.0,0.0
+skin,Adipocyte,SPHK1,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),SPHK1,0.0,0.0
+skin,Immune (lymphocyte),SPHK1,0.0,0.0
+skin,Fibroblast,SPHK1,0.0,0.0
+skin,Melanocyte,SPHK1,0.0,0.0
+skin,Immune (myeloid),SPHK1,0.0,0.0

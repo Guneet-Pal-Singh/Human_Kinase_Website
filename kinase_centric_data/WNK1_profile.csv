@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skin,Endothelial cell,WNK1,2.1741378,56.695992179863154
+heart,Muscle,WNK1,2.0905554,46.86671087533156
+skeletalmuscle,Endothelial cell,WNK1,1.9688524,45.83020285499624
+esophagusmuscularis,Neuron,WNK1,1.1818181,44.0
+esophagusmucosa,Epithelial cell,WNK1,1.8079789,43.7880545085532
+skin,Epithelial cell (keratinocyte),WNK1,1.6343195,43.400102722136616
+breast,Endothelial cell,WNK1,1.5477529,40.40862656072645
+esophagusmucosa,Immune (lymphocyte),WNK1,1.4476584,39.93399339933993
+esophagusmucosa,Endothelial cell,WNK1,1.6489595,39.033775117571615
+lung,Epithelial cell,WNK1,1.5219533,38.7871235721703
+heart,Endothelial cell,WNK1,1.5660702,38.06155861165684
+skin,Immune (lymphocyte),WNK1,1.3333334,36.0
+skin,Other,WNK1,1.6012658,34.95575221238938
+esophagusmuscularis,Endothelial cell,WNK1,1.5733678,34.678323245908985
+esophagusmuscularis,Adipocyte,WNK1,1.3728814,33.714285714285715
+heart,Adipocyte,WNK1,1.4603175,32.64248704663213
+esophagusmucosa,Stromal,WNK1,1.6100628,32.153690596562186
+lung,Immune (myeloid),WNK1,1.3760859,32.087227414330215
+prostate,Immune (myeloid),WNK1,1.3071896,29.766536964980546
+esophagusmucosa,Immune (myeloid),WNK1,1.3545232,29.25608011444921
+prostate,Immune (lymphocyte),WNK1,1.3248731,28.885630498533725
+prostate,Endothelial cell,WNK1,1.4660075,28.627034677990093
+skeletalmuscle,Immune (lymphocyte),WNK1,1.1481482,27.0
+skeletalmuscle,Muscle,WNK1,1.2890785,25.96251827566346
+prostate,Muscle,WNK1,1.3655536,25.3678109674543
+lung,Immune (lymphocyte),WNK1,1.264045,24.55172413793104
+breast,Adipocyte,WNK1,1.2329412,24.13401476433844
+skin,Epithelial cell,WNK1,1.6643356,23.754152823920265
+heart,Immune (myeloid),WNK1,1.2192053,23.5974370995468
+heart,Immune (lymphocyte),WNK1,1.23125,22.922636103151863
+skeletalmuscle,Adipocyte,WNK1,1.1944444,22.641509433962263
+esophagusmucosa,Fibroblast,WNK1,1.2213247,21.989342806394315
+prostate,Epithelial cell,WNK1,1.3040127,21.926060763663155
+prostate,Fibroblast,WNK1,1.224,21.891418563922944
+lung,Endothelial cell,WNK1,1.3161398,21.88638018936635
+esophagusmucosa,Glia,WNK1,1.2142857,21.53846153846154
+esophagusmuscularis,Immune (lymphocyte),WNK1,1.2063493,20.930232558139537
+skin,Immune (myeloid),WNK1,1.3333334,20.11173184357542
+heart,Fibroblast,WNK1,1.2139331,19.629589749111663
+prostate,Glia,WNK1,1.0769231,19.402985074626866
+esophagusmuscularis,Immune (myeloid),WNK1,1.1926445,19.271009112386096
+lung,Muscle,WNK1,1.1,18.404907975460123
+skeletalmuscle,Immune (myeloid),WNK1,1.2014925,18.181818181818183
+breast,Immune (myeloid),WNK1,1.25,17.877094972067038
+breast,Muscle,WNK1,1.3461539,17.105263157894736
+esophagusmuscularis,Fibroblast,WNK1,1.1731135,15.15035065808435
+skin,Adipocyte,WNK1,1.2222222,14.516129032258066
+esophagusmuscularis,Muscle,WNK1,1.1597384,14.399085345349386
+esophagusmucosa,Muscle,WNK1,1.1805556,14.37125748502994
+lung,Fibroblast,WNK1,1.1753554,14.29539295392954
+heart,Glia,WNK1,1.1190476,14.093959731543624
+breast,Epithelial cell,WNK1,1.118984,12.898775650974306
+esophagusmuscularis,Glia,WNK1,1.152,12.886597938144329
+skeletalmuscle,Fibroblast,WNK1,1.1358696,12.382234185733513
+breast,Fibroblast,WNK1,1.1318681,11.11111111111111
+skin,Melanocyte,WNK1,1.3793104,10.661764705882351
+skin,Muscle,WNK1,1.1875,8.60215053763441
+skin,Fibroblast,WNK1,1.1428572,6.61625708884688
+skeletalmuscle,Glia,WNK1,1.0,5.714285714285714

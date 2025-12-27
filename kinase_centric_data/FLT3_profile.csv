@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skin,Immune (myeloid),FLT3,1.4634147,22.90502793296089
+skin,Adipocyte,FLT3,2.090909,17.741935483870968
+breast,Adipocyte,FLT3,4.327922,17.490062464508803
+esophagusmucosa,Immune (myeloid),FLT3,1.8418803,16.738197424892704
+heart,Immune (myeloid),FLT3,1.3206106,12.28316924519456
+prostate,Immune (myeloid),FLT3,1.3809524,12.2568093385214
+skeletalmuscle,Immune (myeloid),FLT3,1.6071428,11.397557666214382
+esophagusmuscularis,Adipocyte,FLT3,1.4117647,9.714285714285714
+lung,Immune (myeloid),FLT3,1.1561866,8.08329234300705
+esophagusmuscularis,Neuron,FLT3,1.0,8.0
+skin,Melanocyte,FLT3,1.2,7.352941176470589
+esophagusmuscularis,Immune (myeloid),FLT3,1.2380953,5.669929125885926
+heart,Adipocyte,FLT3,1.2,5.181347150259067
+lung,Epithelial cell,FLT3,1.1352494,4.913811007268952
+lung,Endothelial cell,FLT3,1.0176991,4.115076474872542
+skin,Epithelial cell,FLT3,2.047619,3.488372093023256
+skeletalmuscle,Muscle,FLT3,1.0863698,3.282973727349253
+heart,Muscle,FLT3,1.2581521,3.050397877984085
+lung,Fibroblast,FLT3,1.0227273,2.9810298102981028
+skin,Endothelial cell,FLT3,1.0666667,2.932551319648094
+skeletalmuscle,Glia,FLT3,1.0,2.857142857142857
+esophagusmuscularis,Endothelial cell,FLT3,1.107438,2.712396323694239
+skin,Other,FLT3,1.0833334,2.6548672566371683
+breast,Muscle,FLT3,1.25,2.631578947368421
+esophagusmucosa,Stromal,FLT3,1.28,2.527805864509605
+skeletalmuscle,Adipocyte,FLT3,1.0,2.515723270440252
+breast,Immune (myeloid),FLT3,1.1111112,2.5139664804469275
+skeletalmuscle,Endothelial cell,FLT3,1.0,2.479338842975207
+lung,Muscle,FLT3,1.25,2.4539877300613497
+esophagusmuscularis,Immune (lymphocyte),FLT3,1.0,2.3255813953488373
+esophagusmuscularis,Muscle,FLT3,1.0654205,2.158853991525994
+skin,Muscle,FLT3,1.0,2.1505376344086025
+skeletalmuscle,Immune (lymphocyte),FLT3,1.0,2.0
+esophagusmuscularis,Fibroblast,FLT3,1.127451,1.9598424440388125
+lung,Immune (lymphocyte),FLT3,1.2142857,1.9310344827586208
+skin,Epithelial cell (keratinocyte),FLT3,1.0588236,1.7462763225475089
+breast,Fibroblast,FLT3,1.0714285,1.7094017094017095
+esophagusmucosa,Endothelial cell,FLT3,1.1282052,1.6673792218896963
+esophagusmuscularis,Glia,FLT3,1.125,1.6494845360824744
+esophagusmucosa,Muscle,FLT3,1.0,1.596806387225549
+prostate,Fibroblast,FLT3,1.0555556,1.5761821366024518
+skeletalmuscle,Fibroblast,FLT3,1.0326087,1.547779273216689
+esophagusmucosa,Immune (lymphocyte),FLT3,1.5,1.54015401540154
+prostate,Glia,FLT3,1.0,1.4925373134328357
+esophagusmucosa,Epithelial cell,FLT3,1.0773196,1.406204697013627
+prostate,Epithelial cell,FLT3,1.0255591,1.356563949204698
+heart,Endothelial cell,FLT3,1.0588236,1.3359528487229864
+skin,Immune (lymphocyte),FLT3,1.0,1.3333333333333337
+prostate,Endothelial cell,FLT3,1.0,1.3092710544939845
+heart,Fibroblast,FLT3,1.0578512,1.302896522020028
+prostate,Muscle,FLT3,1.0,1.2929112795363351
+prostate,Immune (lymphocyte),FLT3,1.625,1.1730205278592376
+esophagusmucosa,Fibroblast,FLT3,1.0689656,1.0301953818827707
+heart,Glia,FLT3,1.0,1.006711409395973
+breast,Epithelial cell,FLT3,1.0178572,0.9656837385756164
+skin,Fibroblast,FLT3,1.2,0.945179584120983
+heart,Immune (lymphocyte),FLT3,1.0,0.8595988538681949
+breast,Endothelial cell,FLT3,1.0,0.7945516458569807
+esophagusmucosa,Glia,FLT3,0.0,0.0

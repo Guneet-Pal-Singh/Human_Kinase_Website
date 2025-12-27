@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (suprabasal),MINK1,1.0911376
+Epithelial cell (mature keratinocyte),MINK1,0.8355524
+Immune (DC),MINK1,0.7714355
+Epithelial cell (basal),MINK1,0.7075691
+Immune (alveolar macrophage),MINK1,0.6406001
+Epithelial cell (Hillock),MINK1,0.63087887
+Epithelial cell (basal keratinocyte),MINK1,0.6112672
+Epithelial cell (suprabasal keratinocyte),MINK1,0.5962065
+Epithelial cell (squamous),MINK1,0.56089956
+Myoepithelial (basal),MINK1,0.42455155
+Mucous cell,MINK1,0.41738695
+Myofibroblast,MINK1,0.41480768
+Epithelial cell (cornified keratinocyte),MINK1,0.37986222
+Immune (mast cell),MINK1,0.36532885
+Sweat gland cell,MINK1,0.3537008
+Myocyte (cardiac),MINK1,0.34913868
+Epithelial cell (club),MINK1,0.3293491
+Endothelial cell (vascular),MINK1,0.31925437
+Epithelial cell (ciliated),MINK1,0.30911934
+Adipocyte,MINK1,0.2964295
+Endothelial cell (lymphatic),MINK1,0.27962205
+Immune (T cell),MINK1,0.26776794
+Immune (DC/macrophage),MINK1,0.26368755
+Immune (NK cell),MINK1,0.26350302
+Epithelial cell (luminal),MINK1,0.2600058
+Neuroendocrine,MINK1,0.25998282
+Epithelial cell (alveolar type I),MINK1,0.24662898
+Neuronal,MINK1,0.24279135
+Melanocyte,MINK1,0.23723783
+Epithelial cell (alveolar type II),MINK1,0.23625556
+Immune (B cell),MINK1,0.21491167
+Schwann cell,MINK1,0.21461067
+Sebaceous gland cell,MINK1,0.21313834
+Myocyte (smooth muscle),MINK1,0.20825729
+Pericyte/SMC,MINK1,0.17832656
+Fibroblast,MINK1,0.17737848
+Immune (Langerhans),MINK1,0.16770525
+Myocyte (sk. muscle),MINK1,0.16570748
+ICCs,MINK1,0.15922818
+Satellite cell,MINK1,0.15698202
+Myocyte (NMJ-rich),MINK1,0.14019835
+"Myocyte (cardiac, cytoplasmic)",MINK1,0.08259932
+"Myocyte (sk. muscle, cytoplasmic)",MINK1,0.069155045

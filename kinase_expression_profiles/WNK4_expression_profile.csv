@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (suprabasal),WNK4,0.15274145
+Epithelial cell (luminal),WNK4,0.10894616
+Epithelial cell (club),WNK4,0.08538784
+Neuroendocrine,WNK4,0.076079
+Immune (Langerhans),WNK4,0.06027736
+Myocyte (NMJ-rich),WNK4,0.055154815
+Epithelial cell (squamous),WNK4,0.046283066
+Epithelial cell (ciliated),WNK4,0.03701836
+Myofibroblast,WNK4,0.031434678
+Sweat gland cell,WNK4,0.02874683
+Melanocyte,WNK4,0.025972042
+Myoepithelial (basal),WNK4,0.024514591
+Epithelial cell (Hillock),WNK4,0.020836366
+Immune (alveolar macrophage),WNK4,0.020368593
+Epithelial cell (basal),WNK4,0.019365909
+Satellite cell,WNK4,0.01880209
+Myocyte (smooth muscle),WNK4,0.018302241
+Epithelial cell (mature keratinocyte),WNK4,0.01750746
+Myocyte (sk. muscle),WNK4,0.017162334
+ICCs,WNK4,0.01457288
+Schwann cell,WNK4,0.0143861
+Epithelial cell (alveolar type I),WNK4,0.012861322
+Epithelial cell (alveolar type II),WNK4,0.012766546
+Endothelial cell (lymphatic),WNK4,0.012636302
+Endothelial cell (vascular),WNK4,0.01212084
+Myocyte (cardiac),WNK4,0.0111216195
+Fibroblast,WNK4,0.009103326
+Immune (NK cell),WNK4,0.007351383
+Pericyte/SMC,WNK4,0.0067140344
+Immune (DC/macrophage),WNK4,0.005103491
+Adipocyte,WNK4,0.0031258354
+Immune (T cell),WNK4,0.0022034778
+"Myocyte (cardiac, cytoplasmic)",WNK4,0.0012863724
+Epithelial cell (cornified keratinocyte),WNK4,0.0
+Epithelial cell (basal keratinocyte),WNK4,0.0
+Immune (mast cell),WNK4,0.0
+Immune (DC),WNK4,0.0
+Epithelial cell (suprabasal keratinocyte),WNK4,0.0
+Immune (B cell),WNK4,0.0
+"Myocyte (sk. muscle, cytoplasmic)",WNK4,0.0
+Mucous cell,WNK4,0.0
+Neuronal,WNK4,0.0
+Sebaceous gland cell,WNK4,0.0

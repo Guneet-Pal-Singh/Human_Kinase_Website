@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Myocyte (sk. muscle),PHKA1,0.8430922
+Myocyte (NMJ-rich),PHKA1,0.77484703
+Neuronal,PHKA1,0.44701198
+"Myocyte (sk. muscle, cytoplasmic)",PHKA1,0.42535797
+Neuroendocrine,PHKA1,0.25667143
+Epithelial cell (suprabasal),PHKA1,0.22897175
+Epithelial cell (Hillock),PHKA1,0.22475834
+ICCs,PHKA1,0.20206492
+Epithelial cell (luminal),PHKA1,0.19875121
+Endothelial cell (lymphatic),PHKA1,0.19067831
+Myocyte (cardiac),PHKA1,0.19001679
+Myofibroblast,PHKA1,0.17063569
+Epithelial cell (basal),PHKA1,0.16655004
+Satellite cell,PHKA1,0.1575235
+Mucous cell,PHKA1,0.15616643
+Epithelial cell (club),PHKA1,0.15348354
+Epithelial cell (ciliated),PHKA1,0.15097441
+Immune (mast cell),PHKA1,0.14809948
+Sweat gland cell,PHKA1,0.13639884
+Endothelial cell (vascular),PHKA1,0.13367483
+Myoepithelial (basal),PHKA1,0.123281226
+Myocyte (smooth muscle),PHKA1,0.11548155
+Fibroblast,PHKA1,0.10725428
+Epithelial cell (alveolar type II),PHKA1,0.102799416
+Immune (DC),PHKA1,0.09901418
+Schwann cell,PHKA1,0.09135903
+Epithelial cell (alveolar type I),PHKA1,0.09109458
+Epithelial cell (suprabasal keratinocyte),PHKA1,0.08863492
+"Myocyte (cardiac, cytoplasmic)",PHKA1,0.08813216
+Adipocyte,PHKA1,0.083414726
+Pericyte/SMC,PHKA1,0.07789403
+Epithelial cell (basal keratinocyte),PHKA1,0.07070633
+Immune (alveolar macrophage),PHKA1,0.05996162
+Epithelial cell (cornified keratinocyte),PHKA1,0.051547013
+Melanocyte,PHKA1,0.048144426
+Epithelial cell (squamous),PHKA1,0.043358766
+Immune (NK cell),PHKA1,0.039955523
+Sebaceous gland cell,PHKA1,0.037228044
+Epithelial cell (mature keratinocyte),PHKA1,0.03381449
+Immune (DC/macrophage),PHKA1,0.033591706
+Immune (T cell),PHKA1,0.02095909
+Immune (B cell),PHKA1,0.01387467
+Immune (Langerhans),PHKA1,0.0

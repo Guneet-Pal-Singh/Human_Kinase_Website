@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (DC),MAP3K14,1.2819223
+Immune (Langerhans),MAP3K14,0.6607451
+Myocyte (sk. muscle),MAP3K14,0.5303762
+Myocyte (cardiac),MAP3K14,0.47077966
+Epithelial cell (basal),MAP3K14,0.46515584
+ICCs,MAP3K14,0.42773283
+Epithelial cell (suprabasal),MAP3K14,0.42137018
+Myofibroblast,MAP3K14,0.3914534
+Immune (DC/macrophage),MAP3K14,0.3875525
+Immune (B cell),MAP3K14,0.37195304
+Immune (T cell),MAP3K14,0.34226257
+Melanocyte,MAP3K14,0.3370438
+Schwann cell,MAP3K14,0.3335231
+Mucous cell,MAP3K14,0.3331952
+Satellite cell,MAP3K14,0.3182043
+Myocyte (smooth muscle),MAP3K14,0.30679542
+Epithelial cell (club),MAP3K14,0.3012222
+Epithelial cell (alveolar type II),MAP3K14,0.27220717
+Immune (NK cell),MAP3K14,0.27146745
+Epithelial cell (basal keratinocyte),MAP3K14,0.25522888
+Epithelial cell (Hillock),MAP3K14,0.2473139
+Myocyte (NMJ-rich),MAP3K14,0.24603134
+Epithelial cell (alveolar type I),MAP3K14,0.24378385
+Endothelial cell (vascular),MAP3K14,0.23642375
+Epithelial cell (ciliated),MAP3K14,0.23360755
+Immune (mast cell),MAP3K14,0.2286759
+Fibroblast,MAP3K14,0.21390724
+Neuroendocrine,MAP3K14,0.2108128
+Endothelial cell (lymphatic),MAP3K14,0.20960864
+Immune (alveolar macrophage),MAP3K14,0.2070827
+Sebaceous gland cell,MAP3K14,0.19805455
+"Myocyte (sk. muscle, cytoplasmic)",MAP3K14,0.18264835
+Myoepithelial (basal),MAP3K14,0.1576914
+Epithelial cell (luminal),MAP3K14,0.15098865
+Sweat gland cell,MAP3K14,0.14021848
+Epithelial cell (suprabasal keratinocyte),MAP3K14,0.113025464
+Pericyte/SMC,MAP3K14,0.10786693
+Epithelial cell (squamous),MAP3K14,0.10566606
+Epithelial cell (cornified keratinocyte),MAP3K14,0.100710616
+"Myocyte (cardiac, cytoplasmic)",MAP3K14,0.096641496
+Adipocyte,MAP3K14,0.09449639
+Epithelial cell (mature keratinocyte),MAP3K14,0.0
+Neuronal,MAP3K14,0.0

@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skin,Fibroblast,STK24,1.3289474,43.10018903591683
+esophagusmucosa,Epithelial cell,STK24,2.356192,35.93795302986373
+esophagusmucosa,Stromal,STK24,1.3741007,28.10920121334681
+skeletalmuscle,Adipocyte,STK24,1.15,25.15723270440252
+skin,Melanocyte,STK24,1.3846154,23.897058823529413
+esophagusmucosa,Immune (lymphocyte),STK24,1.2230393,22.44224422442244
+skin,Muscle,STK24,1.3414634,22.04301075268817
+skin,Adipocyte,STK24,1.3076923,20.967741935483872
+breast,Adipocyte,STK24,1.2663044,20.897217490062463
+esophagusmucosa,Fibroblast,STK24,1.2469136,20.14209591474245
+lung,Immune (myeloid),STK24,1.249789,19.42941465814068
+esophagusmuscularis,Adipocyte,STK24,1.4117647,19.428571428571427
+skeletalmuscle,Fibroblast,STK24,1.202785,19.33041722745626
+heart,Adipocyte,STK24,1.1666666,18.65284974093264
+prostate,Muscle,STK24,1.233244,16.629514043691486
+skin,Other,STK24,1.1944444,15.929203539823009
+prostate,Epithelial cell,STK24,1.1833141,15.013218913882026
+skin,Epithelial cell (keratinocyte),STK24,1.1780822,14.997431946584488
+skin,Immune (lymphocyte),STK24,1.0909091,14.666666666666666
+prostate,Fibroblast,STK24,1.2168674,14.535901926444833
+esophagusmucosa,Endothelial cell,STK24,1.1696428,14.365113296280462
+esophagusmuscularis,Endothelial cell,STK24,1.4241002,14.324142568930734
+prostate,Immune (myeloid),STK24,1.0821918,14.202334630350194
+skin,Epithelial cell,STK24,1.4698795,13.78737541528239
+prostate,Glia,STK24,1.3333334,13.432835820895525
+heart,Muscle,STK24,1.1672885,13.328912466843502
+prostate,Endothelial cell,STK24,1.1775956,12.951167728237792
+breast,Fibroblast,STK24,1.1238096,12.82051282051282
+esophagusmucosa,Muscle,STK24,1.15625,12.77445109780439
+breast,Muscle,STK24,1.0526316,12.5
+skeletalmuscle,Endothelial cell,STK24,1.3454546,12.396694214876034
+esophagusmucosa,Immune (myeloid),STK24,1.1046512,12.3032904148784
+prostate,Immune (lymphocyte),STK24,1.0487804,12.023460410557185
+heart,Endothelial cell,STK24,1.1292683,10.740013097576949
+heart,Fibroblast,STK24,1.1213641,10.735436631850972
+lung,Epithelial cell,STK24,1.0989867,10.658359293873312
+skin,Immune (myeloid),STK24,1.1052631,10.614525139664805
+skin,Endothelial cell,STK24,1.1018518,10.557184750733136
+esophagusmuscularis,Fibroblast,STK24,1.1400743,10.356422326832549
+breast,Endothelial cell,STK24,1.1318681,10.32917139614075
+esophagusmuscularis,Muscle,STK24,1.1361842,10.222610800995358
+lung,Immune (lymphocyte),STK24,1.081081,10.20689655172414
+esophagusmuscularis,Immune (myeloid),STK24,1.0750853,9.888626392170098
+lung,Muscle,STK24,1.0,9.8159509202454
+lung,Endothelial cell,STK24,1.1011236,9.723233794610342
+heart,Immune (myeloid),STK24,1.0816667,9.376465072667605
+breast,Immune (myeloid),STK24,1.1818181,9.217877094972067
+esophagusmuscularis,Immune (lymphocyte),STK24,1.0384616,8.637873754152823
+heart,Immune (lymphocyte),STK24,1.101695,8.45272206303725
+breast,Epithelial cell,STK24,1.0985626,8.397999655112951
+lung,Fibroblast,STK24,1.0862069,7.8590785907859075
+heart,Glia,STK24,1.0434783,7.718120805369128
+esophagusmucosa,Glia,STK24,1.0,7.6923076923076925
+skeletalmuscle,Immune (myeloid),STK24,1.0980393,6.919945725915875
+esophagusmuscularis,Glia,STK24,1.04,5.154639175257731
+esophagusmuscularis,Neuron,STK24,1.0,4.0
+skeletalmuscle,Immune (lymphocyte),STK24,1.0,4.0
+skeletalmuscle,Muscle,STK24,1.1337423,3.6108280536972224
+skeletalmuscle,Glia,STK24,0.0,0.0

@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (squamous),CSK,0.9921881
+Epithelial cell (suprabasal),CSK,0.4648486
+Epithelial cell (cornified keratinocyte),CSK,0.3737423
+Epithelial cell (mature keratinocyte),CSK,0.33655888
+Immune (NK cell),CSK,0.32897097
+Immune (B cell),CSK,0.29121146
+Immune (T cell),CSK,0.22057436
+Neuroendocrine,CSK,0.2073078
+Immune (Langerhans),CSK,0.2013851
+Epithelial cell (Hillock),CSK,0.18749404
+Immune (DC/macrophage),CSK,0.18203013
+Immune (DC),CSK,0.17959328
+Epithelial cell (luminal),CSK,0.17711596
+Immune (alveolar macrophage),CSK,0.14493172
+Epithelial cell (basal),CSK,0.14221147
+Sweat gland cell,CSK,0.1307465
+Melanocyte,CSK,0.12121319
+Endothelial cell (lymphatic),CSK,0.11570744
+Myofibroblast,CSK,0.110271424
+Immune (mast cell),CSK,0.10890199
+Mucous cell,CSK,0.10434792
+Myocyte (cardiac),CSK,0.1016428
+Myocyte (NMJ-rich),CSK,0.09738229
+Epithelial cell (club),CSK,0.09327377
+Adipocyte,CSK,0.0822574
+Epithelial cell (suprabasal keratinocyte),CSK,0.08175047
+"Myocyte (cardiac, cytoplasmic)",CSK,0.080665156
+Sebaceous gland cell,CSK,0.08046363
+Endothelial cell (vascular),CSK,0.057424456
+Pericyte/SMC,CSK,0.04303713
+Myocyte (smooth muscle),CSK,0.038751073
+Myoepithelial (basal),CSK,0.038662836
+Epithelial cell (alveolar type I),CSK,0.0365553
+Epithelial cell (ciliated),CSK,0.03362884
+Schwann cell,CSK,0.033356454
+"Myocyte (sk. muscle, cytoplasmic)",CSK,0.030427363
+Fibroblast,CSK,0.030325651
+Epithelial cell (alveolar type II),CSK,0.028857589
+ICCs,CSK,0.02788879
+Epithelial cell (basal keratinocyte),CSK,0.022065008
+Satellite cell,CSK,0.018738938
+Myocyte (sk. muscle),CSK,0.018390542
+Neuronal,CSK,0.0

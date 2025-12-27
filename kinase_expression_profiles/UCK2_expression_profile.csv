@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Myocyte (NMJ-rich),UCK2,0.63620174
+Epithelial cell (suprabasal),UCK2,0.44428724
+Myocyte (sk. muscle),UCK2,0.377952
+Mucous cell,UCK2,0.37583718
+Epithelial cell (basal),UCK2,0.3673249
+Neuroendocrine,UCK2,0.2918766
+Immune (Langerhans),UCK2,0.27545047
+Myofibroblast,UCK2,0.26640198
+Sweat gland cell,UCK2,0.2639941
+Epithelial cell (Hillock),UCK2,0.23987904
+Immune (DC),UCK2,0.22420633
+Epithelial cell (suprabasal keratinocyte),UCK2,0.21343888
+Endothelial cell (vascular),UCK2,0.20647605
+Myoepithelial (basal),UCK2,0.20163816
+Myocyte (cardiac),UCK2,0.19937849
+Immune (NK cell),UCK2,0.1957852
+Epithelial cell (luminal),UCK2,0.187713
+Endothelial cell (lymphatic),UCK2,0.18742427
+Epithelial cell (club),UCK2,0.1805522
+Myocyte (smooth muscle),UCK2,0.14777291
+Satellite cell,UCK2,0.13765146
+Epithelial cell (mature keratinocyte),UCK2,0.13522564
+"Myocyte (sk. muscle, cytoplasmic)",UCK2,0.1323276
+Fibroblast,UCK2,0.116513714
+Immune (T cell),UCK2,0.110665224
+ICCs,UCK2,0.10933969
+Schwann cell,UCK2,0.1041865
+Immune (DC/macrophage),UCK2,0.10035098
+Adipocyte,UCK2,0.09941635
+Immune (B cell),UCK2,0.09379681
+Pericyte/SMC,UCK2,0.09246198
+Epithelial cell (cornified keratinocyte),UCK2,0.09230535
+Immune (mast cell),UCK2,0.08707431
+Epithelial cell (alveolar type I),UCK2,0.07950237
+Melanocyte,UCK2,0.0776742
+Epithelial cell (basal keratinocyte),UCK2,0.07608782
+Immune (alveolar macrophage),UCK2,0.07581942
+Epithelial cell (squamous),UCK2,0.07421547
+"Myocyte (cardiac, cytoplasmic)",UCK2,0.067690216
+Epithelial cell (ciliated),UCK2,0.060664766
+Sebaceous gland cell,UCK2,0.056132115
+Epithelial cell (alveolar type II),UCK2,0.0386404
+Neuronal,UCK2,0.0

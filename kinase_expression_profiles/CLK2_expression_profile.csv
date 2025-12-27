@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (suprabasal),CLK2,0.22812656
+Myofibroblast,CLK2,0.22376074
+Epithelial cell (mature keratinocyte),CLK2,0.1739598
+Immune (DC),CLK2,0.16240239
+Epithelial cell (basal),CLK2,0.1559883
+Epithelial cell (squamous),CLK2,0.14149147
+Adipocyte,CLK2,0.139188
+Neuroendocrine,CLK2,0.13409318
+Epithelial cell (suprabasal keratinocyte),CLK2,0.13236809
+Mucous cell,CLK2,0.12805602
+Epithelial cell (basal keratinocyte),CLK2,0.1273223
+Epithelial cell (Hillock),CLK2,0.11989511
+Epithelial cell (luminal),CLK2,0.11465358
+Epithelial cell (club),CLK2,0.10769215
+Epithelial cell (alveolar type II),CLK2,0.103158765
+Epithelial cell (cornified keratinocyte),CLK2,0.10267946
+Epithelial cell (alveolar type I),CLK2,0.10039478
+Endothelial cell (lymphatic),CLK2,0.09464699
+Myoepithelial (basal),CLK2,0.0911879
+Myocyte (cardiac),CLK2,0.0872524
+Schwann cell,CLK2,0.08671774
+Immune (DC/macrophage),CLK2,0.084326684
+ICCs,CLK2,0.08416348
+Immune (alveolar macrophage),CLK2,0.08291794
+Immune (T cell),CLK2,0.08124188
+Immune (B cell),CLK2,0.07878408
+Pericyte/SMC,CLK2,0.075203456
+Myocyte (smooth muscle),CLK2,0.07483757
+Endothelial cell (vascular),CLK2,0.07459343
+Fibroblast,CLK2,0.073439464
+Satellite cell,CLK2,0.07160508
+Epithelial cell (ciliated),CLK2,0.071272
+Sweat gland cell,CLK2,0.06826592
+Sebaceous gland cell,CLK2,0.067034
+Myocyte (NMJ-rich),CLK2,0.0618654
+Melanocyte,CLK2,0.055729095
+Immune (mast cell),CLK2,0.0510964
+Immune (NK cell),CLK2,0.050626546
+Neuronal,CLK2,0.04437794
+"Myocyte (cardiac, cytoplasmic)",CLK2,0.025708176
+"Myocyte (sk. muscle, cytoplasmic)",CLK2,0.020876372
+Myocyte (sk. muscle),CLK2,0.016753381
+Immune (Langerhans),CLK2,0.0

@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Pericyte/SMC,GRK5,1.2457892
+Epithelial cell (alveolar type I),GRK5,1.0723759
+Fibroblast,GRK5,1.0015254
+Endothelial cell (vascular),GRK5,0.8360902
+Endothelial cell (lymphatic),GRK5,0.7797813
+Immune (NK cell),GRK5,0.58659285
+Immune (B cell),GRK5,0.50762045
+Myofibroblast,GRK5,0.49841535
+Myocyte (cardiac),GRK5,0.48567802
+Melanocyte,GRK5,0.41582003
+Immune (T cell),GRK5,0.3882043
+Immune (mast cell),GRK5,0.38125345
+Myocyte (smooth muscle),GRK5,0.32123104
+Schwann cell,GRK5,0.296462
+Immune (DC/macrophage),GRK5,0.28967556
+Myoepithelial (basal),GRK5,0.28607318
+"Myocyte (cardiac, cytoplasmic)",GRK5,0.24437311
+ICCs,GRK5,0.21698365
+Epithelial cell (suprabasal),GRK5,0.20632759
+Neuronal,GRK5,0.20026104
+Epithelial cell (cornified keratinocyte),GRK5,0.19590652
+Immune (alveolar macrophage),GRK5,0.18785948
+Epithelial cell (squamous),GRK5,0.17664964
+Epithelial cell (ciliated),GRK5,0.15987858
+Sweat gland cell,GRK5,0.15752073
+Myocyte (NMJ-rich),GRK5,0.13894998
+Immune (DC),GRK5,0.12467778
+"Myocyte (sk. muscle, cytoplasmic)",GRK5,0.107714504
+Satellite cell,GRK5,0.10588853
+Epithelial cell (alveolar type II),GRK5,0.10470911
+Adipocyte,GRK5,0.09934701
+Epithelial cell (club),GRK5,0.096373186
+Epithelial cell (basal),GRK5,0.09146041
+Epithelial cell (luminal),GRK5,0.08830705
+Sebaceous gland cell,GRK5,0.087418005
+Epithelial cell (Hillock),GRK5,0.07703393
+Mucous cell,GRK5,0.071188845
+Myocyte (sk. muscle),GRK5,0.063576944
+Epithelial cell (mature keratinocyte),GRK5,0.040257275
+Neuroendocrine,GRK5,0.037259385
+Epithelial cell (basal keratinocyte),GRK5,0.02841096
+Epithelial cell (suprabasal keratinocyte),GRK5,0.009977902
+Immune (Langerhans),GRK5,0.0

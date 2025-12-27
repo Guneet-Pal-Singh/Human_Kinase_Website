@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+"Myocyte (cardiac, cytoplasmic)",DMPK,0.90123844
+Myofibroblast,DMPK,0.6619755
+Myocyte (cardiac),DMPK,0.5388899
+Myocyte (NMJ-rich),DMPK,0.44053453
+Myocyte (smooth muscle),DMPK,0.38786787
+"Myocyte (sk. muscle, cytoplasmic)",DMPK,0.340294
+Pericyte/SMC,DMPK,0.32979482
+Epithelial cell (suprabasal),DMPK,0.2971295
+Neuroendocrine,DMPK,0.28439134
+Myocyte (sk. muscle),DMPK,0.23935321
+Epithelial cell (squamous),DMPK,0.23488216
+Epithelial cell (ciliated),DMPK,0.20761181
+Adipocyte,DMPK,0.19893357
+ICCs,DMPK,0.1823657
+Neuronal,DMPK,0.17504877
+Satellite cell,DMPK,0.16227898
+Endothelial cell (lymphatic),DMPK,0.15871723
+Mucous cell,DMPK,0.15770143
+Epithelial cell (basal),DMPK,0.14301476
+Sebaceous gland cell,DMPK,0.13504101
+Epithelial cell (alveolar type I),DMPK,0.123802185
+Schwann cell,DMPK,0.1173032
+Epithelial cell (club),DMPK,0.097709395
+Fibroblast,DMPK,0.0951499
+Epithelial cell (alveolar type II),DMPK,0.08812601
+Immune (mast cell),DMPK,0.087385625
+Myoepithelial (basal),DMPK,0.08593904
+Epithelial cell (luminal),DMPK,0.08411562
+Endothelial cell (vascular),DMPK,0.08397203
+Epithelial cell (Hillock),DMPK,0.08272681
+Melanocyte,DMPK,0.082476854
+Immune (DC),DMPK,0.07864029
+Immune (T cell),DMPK,0.07753552
+Epithelial cell (basal keratinocyte),DMPK,0.07241936
+Epithelial cell (suprabasal keratinocyte),DMPK,0.055854514
+Sweat gland cell,DMPK,0.05459869
+Immune (NK cell),DMPK,0.05340027
+Immune (B cell),DMPK,0.040736534
+Epithelial cell (mature keratinocyte),DMPK,0.02235647
+Immune (alveolar macrophage),DMPK,0.01850974
+Immune (DC/macrophage),DMPK,0.013586773
+Epithelial cell (cornified keratinocyte),DMPK,0.0
+Immune (Langerhans),DMPK,0.0

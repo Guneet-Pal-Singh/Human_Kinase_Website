@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+breast,Adipocyte,COASY,1.0638298,10.675752413401476
+esophagusmucosa,Epithelial cell,COASY,1.1278735,10.08988112496376
+esophagusmuscularis,Neuron,COASY,1.0,8.0
+prostate,Epithelial cell,COASY,1.1393172,7.870671347462402
+heart,Adipocyte,COASY,1.1333333,7.772020725388601
+esophagusmucosa,Stromal,COASY,1.1466666,7.583417593528817
+esophagusmuscularis,Adipocyte,COASY,1.0,7.428571428571429
+skin,Epithelial cell,COASY,1.1621622,6.146179401993355
+prostate,Muscle,COASY,1.0681819,5.884975479268836
+breast,Epithelial cell,COASY,1.147929,5.828591136402828
+prostate,Immune (myeloid),COASY,1.0754716,5.155642023346303
+skin,Adipocyte,COASY,1.3333334,4.838709677419355
+skin,Other,COASY,1.2380953,4.646017699115045
+breast,Immune (myeloid),COASY,1.0,3.910614525139665
+skin,Immune (myeloid),COASY,1.1428572,3.910614525139665
+heart,Muscle,COASY,1.0501089,3.804708222811671
+esophagusmucosa,Immune (myeloid),COASY,1.0576923,3.719599427753934
+skin,Epithelial cell (keratinocyte),COASY,1.0428572,3.5952747817154598
+prostate,Fibroblast,COASY,1.025,3.502626970227671
+esophagusmuscularis,Muscle,COASY,1.0327199,3.2887215011096917
+lung,Immune (myeloid),COASY,1.0358975,3.1972454500737824
+lung,Epithelial cell,COASY,1.0445026,3.173416407061267
+skeletalmuscle,Adipocyte,COASY,1.0,3.1446540880503147
+esophagusmucosa,Endothelial cell,COASY,1.0681819,2.821718683197948
+esophagusmucosa,Immune (lymphocyte),COASY,1.0196079,2.8052805280528053
+prostate,Endothelial cell,COASY,1.0759493,2.7954706298655343
+esophagusmucosa,Muscle,COASY,1.0,2.5948103792415167
+esophagusmuscularis,Immune (myeloid),COASY,1.0277778,2.4299696253796825
+heart,Fibroblast,COASY,1.044335,2.1858511898352537
+esophagusmuscularis,Fibroblast,COASY,1.0221239,2.1711980017292727
+esophagusmucosa,Fibroblast,COASY,1.0166667,2.131438721136768
+heart,Immune (myeloid),COASY,1.007752,2.0159399906235347
+breast,Muscle,COASY,1.3333334,1.973684210526316
+breast,Fibroblast,COASY,1.1875,1.953601953601953
+lung,Muscle,COASY,1.0,1.8404907975460123
+skin,Melanocyte,COASY,1.0,1.8382352941176472
+skeletalmuscle,Fibroblast,COASY,1.020202,1.6655450874831763
+esophagusmuscularis,Glia,COASY,1.0,1.6494845360824744
+skeletalmuscle,Immune (myeloid),COASY,1.0,1.6282225237449115
+heart,Endothelial cell,COASY,1.0241935,1.624099541584807
+skin,Muscle,COASY,1.0,1.6129032258064515
+esophagusmuscularis,Endothelial cell,COASY,1.0285715,1.5691548980049317
+prostate,Glia,COASY,2.0,1.4925373134328357
+heart,Immune (lymphocyte),COASY,1.0,1.2893982808022924
+lung,Fibroblast,COASY,1.0,1.151761517615176
+heart,Glia,COASY,1.0,1.006711409395973
+esophagusmuscularis,Immune (lymphocyte),COASY,1.0,0.9966777408637874
+skin,Fibroblast,COASY,1.0,0.945179584120983
+breast,Endothelial cell,COASY,1.0,0.9080590238365494
+lung,Immune (lymphocyte),COASY,1.0,0.8275862068965517
+skeletalmuscle,Endothelial cell,COASY,1.0,0.8264462809917356
+skeletalmuscle,Muscle,COASY,1.0129032,0.6867218997829072
+prostate,Immune (lymphocyte),COASY,1.0,0.4398826979472141
+lung,Endothelial cell,COASY,1.0833334,0.4369992716678805
+skin,Endothelial cell,COASY,1.0,0.2932551319648094
+esophagusmucosa,Glia,COASY,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),COASY,0.0,0.0
+skeletalmuscle,Glia,COASY,0.0,0.0
+skin,Immune (lymphocyte),COASY,0.0,0.0

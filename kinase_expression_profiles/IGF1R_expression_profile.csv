@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Myocyte (cardiac),IGF1R,1.37518
+Epithelial cell (basal),IGF1R,1.2510602
+Myofibroblast,IGF1R,1.2284681
+Epithelial cell (ciliated),IGF1R,1.2223492
+Mucous cell,IGF1R,1.1896269
+Epithelial cell (Hillock),IGF1R,1.1342176
+Epithelial cell (luminal),IGF1R,1.1324466
+Epithelial cell (club),IGF1R,1.1041418
+Epithelial cell (suprabasal),IGF1R,1.0516694
+Myoepithelial (basal),IGF1R,1.0486169
+Schwann cell,IGF1R,0.99158466
+Fibroblast,IGF1R,0.87954473
+Endothelial cell (lymphatic),IGF1R,0.859556
+Endothelial cell (vascular),IGF1R,0.8393149
+Melanocyte,IGF1R,0.82850355
+Neuroendocrine,IGF1R,0.8052501
+Epithelial cell (alveolar type I),IGF1R,0.7978046
+Sweat gland cell,IGF1R,0.7555776
+Myocyte (smooth muscle),IGF1R,0.723213
+Pericyte/SMC,IGF1R,0.69375366
+Epithelial cell (basal keratinocyte),IGF1R,0.674783
+Satellite cell,IGF1R,0.64736
+Epithelial cell (alveolar type II),IGF1R,0.60018116
+Epithelial cell (squamous),IGF1R,0.5963465
+Neuronal,IGF1R,0.59403884
+Epithelial cell (suprabasal keratinocyte),IGF1R,0.5350563
+Myocyte (NMJ-rich),IGF1R,0.4827132
+Immune (DC),IGF1R,0.4608658
+Myocyte (sk. muscle),IGF1R,0.4528949
+Epithelial cell (cornified keratinocyte),IGF1R,0.44998866
+"Myocyte (cardiac, cytoplasmic)",IGF1R,0.3953796
+Sebaceous gland cell,IGF1R,0.374105
+Immune (DC/macrophage),IGF1R,0.35782608
+Epithelial cell (mature keratinocyte),IGF1R,0.34623212
+Immune (mast cell),IGF1R,0.33758995
+Immune (NK cell),IGF1R,0.33547568
+Immune (alveolar macrophage),IGF1R,0.31262845
+Immune (B cell),IGF1R,0.30403683
+ICCs,IGF1R,0.26062754
+"Myocyte (sk. muscle, cytoplasmic)",IGF1R,0.24446271
+Adipocyte,IGF1R,0.16340737
+Immune (T cell),IGF1R,0.13974681
+Immune (Langerhans),IGF1R,0.11046006

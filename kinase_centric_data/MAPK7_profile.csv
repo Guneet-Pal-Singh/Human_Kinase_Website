@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmucosa,Epithelial cell,MAPK7,1.1114864,4.29109886923746
+esophagusmuscularis,Neuron,MAPK7,1.0,4.0
+breast,Endothelial cell,MAPK7,1.074074,3.064699205448354
+esophagusmuscularis,Endothelial cell,MAPK7,1.0476191,2.824478816408877
+breast,Immune (myeloid),MAPK7,1.0,2.793296089385475
+heart,Adipocyte,MAPK7,1.0,2.5906735751295336
+skin,Endothelial cell,MAPK7,1.0833334,2.346041055718475
+esophagusmucosa,Stromal,MAPK7,1.0434783,2.3255813953488373
+esophagusmuscularis,Adipocyte,MAPK7,1.0,2.2857142857142856
+esophagusmucosa,Endothelial cell,MAPK7,1.049505,2.159042325780248
+esophagusmucosa,Fibroblast,MAPK7,1.0166667,2.131438721136768
+esophagusmuscularis,Immune (myeloid),MAPK7,1.0,2.0249746878164023
+prostate,Muscle,MAPK7,1.0227273,1.961658493089612
+esophagusmuscularis,Muscle,MAPK7,1.0107527,1.8763871141300688
+heart,Fibroblast,MAPK7,1.0251572,1.712070636373425
+skeletalmuscle,Fibroblast,MAPK7,1.039604,1.699192462987887
+heart,Immune (myeloid),MAPK7,1.0373832,1.6721362712923893
+prostate,Endothelial cell,MAPK7,1.0434783,1.627742392073602
+skin,Adipocyte,MAPK7,1.0,1.6129032258064515
+skin,Muscle,MAPK7,1.0,1.6129032258064515
+esophagusmucosa,Muscle,MAPK7,1.0,1.596806387225549
+skin,Epithelial cell (keratinocyte),MAPK7,1.0645162,1.5921931176168465
+lung,Immune (myeloid),MAPK7,1.0208334,1.5740285292670928
+skin,Other,MAPK7,1.0,1.5486725663716814
+prostate,Glia,MAPK7,1.0,1.4925373134328357
+skeletalmuscle,Immune (myeloid),MAPK7,1.0,1.4925373134328357
+esophagusmuscularis,Fibroblast,MAPK7,1.020979,1.3738111249879912
+breast,Muscle,MAPK7,1.0,1.3157894736842104
+skeletalmuscle,Adipocyte,MAPK7,1.0,1.257861635220126
+prostate,Fibroblast,MAPK7,1.0,1.2259194395796849
+heart,Endothelial cell,MAPK7,1.0227273,1.1525867714472824
+skin,Immune (myeloid),MAPK7,1.0,1.11731843575419
+heart,Muscle,MAPK7,1.0223881,1.1107427055702916
+prostate,Immune (myeloid),MAPK7,1.0,1.0700389105058363
+esophagusmucosa,Immune (myeloid),MAPK7,1.0,1.0014306151645207
+skeletalmuscle,Immune (lymphocyte),MAPK7,1.0,1.0
+lung,Fibroblast,MAPK7,1.0,0.8807588075880758
+skeletalmuscle,Endothelial cell,MAPK7,1.0909091,0.8264462809917356
+esophagusmuscularis,Glia,MAPK7,1.0,0.8247422680412372
+prostate,Epithelial cell,MAPK7,1.0114943,0.7541282017943051
+prostate,Immune (lymphocyte),MAPK7,1.0,0.7331378299120235
+esophagusmuscularis,Immune (lymphocyte),MAPK7,1.0,0.6644518272425249
+breast,Epithelial cell,MAPK7,1.027027,0.6380410415588894
+skin,Fibroblast,MAPK7,1.0,0.5671077504725899
+lung,Endothelial cell,MAPK7,1.0,0.5462490895848506
+lung,Epithelial cell,MAPK7,1.0093458,0.4444444444444444
+skin,Melanocyte,MAPK7,1.0,0.3676470588235294
+breast,Fibroblast,MAPK7,1.0,0.3663003663003663
+heart,Glia,MAPK7,1.0,0.3355704697986577
+skin,Epithelial cell,MAPK7,1.0,0.3322259136212624
+esophagusmucosa,Immune (lymphocyte),MAPK7,1.0,0.22002200220022
+breast,Adipocyte,MAPK7,1.0,0.1703577512776831
+heart,Immune (lymphocyte),MAPK7,1.0,0.1432664756446991
+skeletalmuscle,Muscle,MAPK7,1.0,0.0708874219130743
+esophagusmucosa,Glia,MAPK7,0.0,0.0
+lung,Immune (lymphocyte),MAPK7,0.0,0.0
+lung,Muscle,MAPK7,0.0,0.0
+skeletalmuscle,Glia,MAPK7,0.0,0.0
+skin,Immune (lymphocyte),MAPK7,0.0,0.0

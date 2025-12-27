@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Neuron,MAST3,1.0,12.0
+lung,Immune (myeloid),MAST3,1.059322,7.738973602229874
+esophagusmucosa,Glia,MAST3,1.0,6.153846153846154
+prostate,Endothelial cell,MAST3,1.0880504,5.626326963906582
+esophagusmucosa,Immune (myeloid),MAST3,1.0131578,5.436337625178827
+prostate,Immune (myeloid),MAST3,1.0377358,5.155642023346303
+breast,Immune (myeloid),MAST3,1.0555556,5.027932960893855
+breast,Adipocyte,MAST3,1.0574713,4.940374787052811
+heart,Adipocyte,MAST3,1.0,4.66321243523316
+prostate,Glia,MAST3,1.0,4.477611940298507
+esophagusmucosa,Immune (lymphocyte),MAST3,1.0266666,4.125412541254125
+esophagusmuscularis,Adipocyte,MAST3,1.0,4.0
+skin,Immune (myeloid),MAST3,1.0,3.910614525139665
+esophagusmucosa,Stromal,MAST3,1.09375,3.235591506572296
+skin,Adipocyte,MAST3,1.0,3.225806451612903
+lung,Epithelial cell,MAST3,1.0374193,3.219106957424714
+heart,Glia,MAST3,1.1111112,3.02013422818792
+esophagusmucosa,Muscle,MAST3,1.0666667,2.9940119760479043
+heart,Immune (myeloid),MAST3,1.053476,2.9223316143147366
+skeletalmuscle,Glia,MAST3,1.0,2.857142857142857
+skeletalmuscle,Immune (myeloid),MAST3,1.0,2.849389416553596
+esophagusmucosa,Endothelial cell,MAST3,1.0393701,2.71483539974348
+skin,Immune (lymphocyte),MAST3,1.0,2.666666666666667
+skin,Other,MAST3,1.0,2.6548672566371683
+lung,Fibroblast,MAST3,1.0256411,2.642276422764228
+lung,Immune (lymphocyte),MAST3,1.0,2.6206896551724137
+skin,Fibroblast,MAST3,1.0,2.457466918714556
+prostate,Muscle,MAST3,1.0566038,2.3629068212215785
+esophagusmuscularis,Immune (lymphocyte),MAST3,1.0,2.3255813953488373
+heart,Immune (lymphocyte),MAST3,1.0625,2.292263610315186
+esophagusmucosa,Epithelial cell,MAST3,1.0541401,2.276022035372572
+esophagusmuscularis,Immune (myeloid),MAST3,1.0746269,2.261221734728316
+prostate,Immune (lymphocyte),MAST3,1.1333333,2.19941348973607
+skin,Epithelial cell,MAST3,1.1538461,2.1594684385382057
+skin,Muscle,MAST3,1.0,2.1505376344086025
+heart,Muscle,MAST3,1.0316205,2.0971485411140587
+lung,Endothelial cell,MAST3,1.0,2.039329934450109
+skeletalmuscle,Immune (lymphocyte),MAST3,1.0,2.0
+prostate,Epithelial cell,MAST3,1.0326087,1.993672257617128
+prostate,Fibroblast,MAST3,1.0,1.926444833625219
+lung,Muscle,MAST3,1.0,1.8404907975460123
+heart,Fibroblast,MAST3,1.0060241,1.7874448153332616
+esophagusmucosa,Fibroblast,MAST3,1.0212766,1.669626998223801
+breast,Epithelial cell,MAST3,1.0229886,1.5002586652871184
+esophagusmuscularis,Glia,MAST3,1.0714285,1.443298969072165
+heart,Endothelial cell,MAST3,1.0366973,1.4276358873608384
+skin,Epithelial cell (keratinocyte),MAST3,1.037037,1.386748844375963
+breast,Muscle,MAST3,1.0,1.3157894736842104
+esophagusmuscularis,Muscle,MAST3,1.026178,1.28455175196718
+skin,Endothelial cell,MAST3,1.0,1.270772238514174
+skeletalmuscle,Adipocyte,MAST3,1.0,1.257861635220126
+esophagusmuscularis,Endothelial cell,MAST3,1.0425532,1.053575431517597
+breast,Endothelial cell,MAST3,1.0,1.021566401816118
+esophagusmuscularis,Fibroblast,MAST3,1.0,1.0183495052358538
+skeletalmuscle,Muscle,MAST3,1.0167598,0.7930530326525187
+skeletalmuscle,Fibroblast,MAST3,1.0285715,0.588829071332436
+breast,Fibroblast,MAST3,1.0,0.4884004884004884
+skeletalmuscle,Endothelial cell,MAST3,1.0,0.4507888805409466
+skin,Melanocyte,MAST3,1.0,0.3676470588235294

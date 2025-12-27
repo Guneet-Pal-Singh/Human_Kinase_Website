@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+heart,Muscle,TRPM7,2.766296,48.44993368700265
+heart,Adipocyte,TRPM7,1.4166666,37.30569948186528
+esophagusmuscularis,Adipocyte,TRPM7,1.3103448,33.14285714285714
+lung,Immune (myeloid),TRPM7,1.3916409,31.77570093457944
+prostate,Immune (myeloid),TRPM7,1.3284132,26.36186770428016
+esophagusmucosa,Stromal,TRPM7,1.3306123,24.772497472194136
+skin,Epithelial cell (keratinocyte),TRPM7,1.3957447,24.1397021058038
+esophagusmuscularis,Neuron,TRPM7,1.1666666,24.0
+lung,Epithelial cell,TRPM7,1.2544112,23.069574247144335
+heart,Immune (myeloid),TRPM7,1.2076242,22.956711986247853
+heart,Fibroblast,TRPM7,1.2514591,22.13847313448907
+prostate,Epithelial cell,TRPM7,1.2464818,20.942226845230355
+prostate,Fibroblast,TRPM7,1.2970711,20.92819614711033
+prostate,Muscle,TRPM7,1.3836207,20.686580472581365
+skin,Melanocyte,TRPM7,1.3035715,20.588235294117645
+esophagusmucosa,Immune (myeloid),TRPM7,1.4295775,20.314735336194563
+skeletalmuscle,Adipocyte,TRPM7,1.125,20.12578616352201
+prostate,Endothelial cell,TRPM7,1.2358156,19.957537154989385
+esophagusmucosa,Epithelial cell,TRPM7,1.2955223,19.425920556683096
+lung,Fibroblast,TRPM7,1.2167832,19.37669376693767
+lung,Immune (lymphocyte),TRPM7,1.1079136,19.17241379310345
+skin,Epithelial cell,TRPM7,1.1754386,18.93687707641196
+skeletalmuscle,Muscle,TRPM7,1.2324983,18.92251118692127
+skeletalmuscle,Immune (myeloid),TRPM7,1.2230216,18.86024423337856
+skeletalmuscle,Fibroblast,TRPM7,1.1672968,17.799461641991922
+esophagusmucosa,Immune (lymphocyte),TRPM7,1.2204969,17.71177117711771
+esophagusmucosa,Fibroblast,TRPM7,1.2012073,17.655417406749557
+breast,Immune (myeloid),TRPM7,1.1587301,17.59776536312849
+esophagusmucosa,Glia,TRPM7,1.3636364,16.923076923076923
+heart,Glia,TRPM7,1.18,16.778523489932887
+heart,Immune (lymphocyte),TRPM7,1.1709402,16.7621776504298
+skin,Immune (myeloid),TRPM7,1.0666667,16.75977653631285
+prostate,Immune (lymphocyte),TRPM7,1.1754386,16.715542521994134
+skin,Adipocyte,TRPM7,1.1,16.129032258064516
+skin,Endothelial cell,TRPM7,1.154321,15.835777126099709
+skin,Muscle,TRPM7,1.3103448,15.591397849462366
+esophagusmuscularis,Immune (myeloid),TRPM7,1.1366594,15.558555518056025
+breast,Adipocyte,TRPM7,1.1580882,15.445769449176606
+esophagusmucosa,Endothelial cell,TRPM7,1.1678225,15.412569474134246
+esophagusmuscularis,Fibroblast,TRPM7,1.1352535,15.342492074166586
+skeletalmuscle,Immune (lymphocyte),TRPM7,1.2666667,15.0
+esophagusmucosa,Muscle,TRPM7,1.12,14.97005988023952
+prostate,Glia,TRPM7,1.0,14.925373134328357
+esophagusmuscularis,Muscle,TRPM7,1.1553531,14.76225704485843
+heart,Endothelial cell,TRPM7,1.1465365,14.747871643745908
+esophagusmuscularis,Endothelial cell,TRPM7,1.1996951,14.7052230441605
+lung,Muscle,TRPM7,1.0434783,14.11042944785276
+breast,Fibroblast,TRPM7,1.1130434,14.04151404151404
+skeletalmuscle,Endothelial cell,TRPM7,1.1827956,13.974455296769348
+skin,Fibroblast,TRPM7,1.0958904,13.799621928166353
+skin,Other,TRPM7,1.1311475,13.495575221238935
+esophagusmuscularis,Glia,TRPM7,1.1395348,13.29896907216495
+breast,Epithelial cell,TRPM7,1.1465517,12.002069322296949
+breast,Muscle,TRPM7,1.1764706,11.18421052631579
+lung,Endothelial cell,TRPM7,1.0950819,11.10706482155863
+breast,Endothelial cell,TRPM7,1.1752577,11.01021566401816
+esophagusmuscularis,Immune (lymphocyte),TRPM7,1.1818181,10.96345514950166
+skin,Immune (lymphocyte),TRPM7,1.0,10.666666666666668
+skeletalmuscle,Glia,TRPM7,1.0,8.571428571428571

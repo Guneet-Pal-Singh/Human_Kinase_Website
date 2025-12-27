@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Myocyte (cardiac),GRK4,0.54863167
+Neuronal,GRK4,0.47713062
+Myocyte (NMJ-rich),GRK4,0.31171864
+Schwann cell,GRK4,0.21554959
+Satellite cell,GRK4,0.2094657
+Sebaceous gland cell,GRK4,0.20719026
+Melanocyte,GRK4,0.19283399
+Sweat gland cell,GRK4,0.19104445
+Adipocyte,GRK4,0.17205922
+Neuroendocrine,GRK4,0.17084561
+Immune (alveolar macrophage),GRK4,0.16249536
+Myofibroblast,GRK4,0.16223441
+Epithelial cell (ciliated),GRK4,0.15632337
+Epithelial cell (alveolar type I),GRK4,0.15461402
+Myoepithelial (basal),GRK4,0.14454186
+Fibroblast,GRK4,0.14312735
+Epithelial cell (basal keratinocyte),GRK4,0.13443102
+Pericyte/SMC,GRK4,0.12912434
+Epithelial cell (alveolar type II),GRK4,0.12260559
+Myocyte (sk. muscle),GRK4,0.12150632
+Epithelial cell (suprabasal keratinocyte),GRK4,0.11363487
+"Myocyte (cardiac, cytoplasmic)",GRK4,0.11124044
+Endothelial cell (vascular),GRK4,0.1092976
+Immune (mast cell),GRK4,0.1064131
+ICCs,GRK4,0.094364144
+Myocyte (smooth muscle),GRK4,0.09322025
+Epithelial cell (suprabasal),GRK4,0.090645336
+Epithelial cell (basal),GRK4,0.08543583
+Endothelial cell (lymphatic),GRK4,0.0851416
+Epithelial cell (luminal),GRK4,0.07816759
+Epithelial cell (club),GRK4,0.07742387
+Immune (NK cell),GRK4,0.07622241
+Epithelial cell (Hillock),GRK4,0.07428784
+Immune (B cell),GRK4,0.071981765
+Immune (DC/macrophage),GRK4,0.065940015
+Mucous cell,GRK4,0.061466787
+Epithelial cell (mature keratinocyte),GRK4,0.05668286
+"Myocyte (sk. muscle, cytoplasmic)",GRK4,0.049171526
+Immune (T cell),GRK4,0.040077303
+Epithelial cell (squamous),GRK4,0.031166926
+Epithelial cell (cornified keratinocyte),GRK4,0.0
+Immune (DC),GRK4,0.0
+Immune (Langerhans),GRK4,0.0

@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (squamous),ITPKC,1.4689835
+Epithelial cell (suprabasal),ITPKC,0.588124
+Epithelial cell (cornified keratinocyte),ITPKC,0.57626337
+Epithelial cell (mature keratinocyte),ITPKC,0.38738185
+Adipocyte,ITPKC,0.30605334
+Epithelial cell (alveolar type II),ITPKC,0.29703784
+Epithelial cell (alveolar type I),ITPKC,0.28215832
+Epithelial cell (Hillock),ITPKC,0.2715915
+Epithelial cell (luminal),ITPKC,0.26473364
+ICCs,ITPKC,0.26104584
+Endothelial cell (vascular),ITPKC,0.23985662
+Fibroblast,ITPKC,0.23938687
+Sweat gland cell,ITPKC,0.23759234
+Myocyte (NMJ-rich),ITPKC,0.22768645
+Epithelial cell (club),ITPKC,0.22494774
+Schwann cell,ITPKC,0.2232265
+Epithelial cell (suprabasal keratinocyte),ITPKC,0.20982383
+Epithelial cell (basal),ITPKC,0.20721216
+Epithelial cell (ciliated),ITPKC,0.20072997
+Immune (DC/macrophage),ITPKC,0.1928394
+Myocyte (sk. muscle),ITPKC,0.18005924
+Immune (alveolar macrophage),ITPKC,0.17956716
+Epithelial cell (basal keratinocyte),ITPKC,0.16541016
+Myocyte (smooth muscle),ITPKC,0.16059084
+Pericyte/SMC,ITPKC,0.14551567
+Endothelial cell (lymphatic),ITPKC,0.13405493
+Mucous cell,ITPKC,0.13291873
+Neuroendocrine,ITPKC,0.13253503
+Myofibroblast,ITPKC,0.12494545
+Satellite cell,ITPKC,0.12250053
+Myoepithelial (basal),ITPKC,0.114635
+Myocyte (cardiac),ITPKC,0.11293308
+Immune (Langerhans),ITPKC,0.10786309
+Melanocyte,ITPKC,0.10401832
+Immune (mast cell),ITPKC,0.09910698
+Sebaceous gland cell,ITPKC,0.09819501
+"Myocyte (sk. muscle, cytoplasmic)",ITPKC,0.09467324
+"Myocyte (cardiac, cytoplasmic)",ITPKC,0.07563681
+Immune (DC),ITPKC,0.054957986
+Immune (B cell),ITPKC,0.05153374
+Immune (T cell),ITPKC,0.023727454
+Immune (NK cell),ITPKC,0.023392444
+Neuronal,ITPKC,0.0

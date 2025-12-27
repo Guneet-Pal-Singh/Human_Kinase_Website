@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+lung,Muscle,CHKB,1.0,1.8404907975460123
+prostate,Glia,CHKB,1.0,1.4925373134328357
+lung,Endothelial cell,CHKB,1.0,1.0196649672250546
+lung,Epithelial cell,CHKB,1.0223215,0.9304257528556594
+breast,Muscle,CHKB,1.0,0.6578947368421052
+esophagusmuscularis,Adipocyte,CHKB,1.0,0.5714285714285714
+skin,Immune (myeloid),CHKB,1.0,0.5586592178770949
+lung,Immune (myeloid),CHKB,1.032258,0.5082800459091654
+lung,Fibroblast,CHKB,1.0,0.4742547425474254
+lung,Immune (lymphocyte),CHKB,1.0,0.4137931034482758
+skin,Fibroblast,CHKB,1.0,0.3780718336483932
+skin,Melanocyte,CHKB,1.0,0.3676470588235294
+heart,Glia,CHKB,1.0,0.3355704697986577
+esophagusmuscularis,Immune (lymphocyte),CHKB,1.0,0.3322259136212624
+skin,Epithelial cell,CHKB,1.0,0.3322259136212624
+heart,Muscle,CHKB,1.0,0.3232758620689655
+heart,Fibroblast,CHKB,1.0357143,0.3014967158393453
+skin,Endothelial cell,CHKB,1.0,0.2932551319648094
+breast,Fibroblast,CHKB,1.0,0.2442002442002442
+esophagusmucosa,Epithelial cell,CHKB,1.0,0.2319512902290519
+skin,Other,CHKB,1.0,0.2212389380530973
+esophagusmuscularis,Muscle,CHKB,1.0,0.2084874571255632
+breast,Epithelial cell,CHKB,1.0,0.2069322296947749
+esophagusmuscularis,Glia,CHKB,1.0,0.2061855670103093
+prostate,Epithelial cell,CHKB,1.0212766,0.2037012958869674
+skeletalmuscle,Fibroblast,CHKB,1.0,0.2018842530282638
+esophagusmuscularis,Endothelial cell,CHKB,1.0,0.2017484868863483
+esophagusmucosa,Muscle,CHKB,1.0,0.1996007984031935
+prostate,Endothelial cell,CHKB,1.2,0.1769285208775654
+prostate,Fibroblast,CHKB,1.0,0.1751313485113835
+heart,Immune (myeloid),CHKB,1.0,0.1562744178777934
+prostate,Immune (lymphocyte),CHKB,1.0,0.1466275659824047
+heart,Endothelial cell,CHKB,1.0,0.1440733464309103
+skeletalmuscle,Immune (myeloid),CHKB,1.0,0.1356852103120759
+prostate,Muscle,CHKB,1.0,0.1337494427106553
+esophagusmucosa,Endothelial cell,CHKB,1.0,0.1282599401453612
+esophagusmuscularis,Fibroblast,CHKB,1.0,0.1248919204534537
+skeletalmuscle,Muscle,CHKB,1.0,0.12405298834788
+breast,Endothelial cell,CHKB,1.0,0.1135073779795686
+esophagusmucosa,Immune (lymphocyte),CHKB,1.0,0.11001100110011
+prostate,Immune (myeloid),CHKB,1.0,0.0972762645914396
+skeletalmuscle,Endothelial cell,CHKB,1.0,0.0751314800901577
+breast,Adipocyte,CHKB,1.0,0.056785917092561
+skin,Epithelial cell (keratinocyte),CHKB,1.0,0.0513610683102208
+esophagusmuscularis,Immune (myeloid),CHKB,1.0,0.0337495781302733
+esophagusmuscularis,Neuron,CHKB,0.0,0.0
+esophagusmucosa,Immune (myeloid),CHKB,0.0,0.0
+esophagusmucosa,Stromal,CHKB,0.0,0.0
+breast,Immune (myeloid),CHKB,0.0,0.0
+esophagusmucosa,Fibroblast,CHKB,0.0,0.0
+esophagusmucosa,Glia,CHKB,0.0,0.0
+heart,Immune (lymphocyte),CHKB,0.0,0.0
+heart,Adipocyte,CHKB,0.0,0.0
+skeletalmuscle,Adipocyte,CHKB,0.0,0.0
+skeletalmuscle,Glia,CHKB,0.0,0.0
+skin,Adipocyte,CHKB,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),CHKB,0.0,0.0
+skin,Immune (lymphocyte),CHKB,0.0,0.0
+skin,Muscle,CHKB,0.0,0.0

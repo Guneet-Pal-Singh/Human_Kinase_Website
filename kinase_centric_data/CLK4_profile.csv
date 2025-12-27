@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+heart,Muscle,CLK4,1.1824561,14.174403183023871
+skin,Epithelial cell,CLK4,1.2619047,13.953488372093023
+heart,Adipocyte,CLK4,1.0,13.471502590673577
+esophagusmucosa,Stromal,CLK4,1.1034483,11.729019211324571
+skeletalmuscle,Adipocyte,CLK4,1.0555556,11.320754716981131
+skin,Fibroblast,CLK4,1.0677966,11.153119092627598
+skin,Adipocyte,CLK4,1.0,9.67741935483871
+esophagusmuscularis,Adipocyte,CLK4,1.125,9.142857142857142
+skin,Immune (myeloid),CLK4,1.125,8.938547486033519
+breast,Adipocyte,CLK4,1.0774194,8.801817149346961
+heart,Glia,CLK4,1.0,8.389261744966444
+skin,Epithelial cell (keratinocyte),CLK4,1.0807453,8.269131997945557
+esophagusmuscularis,Neuron,CLK4,1.0,8.0
+esophagusmucosa,Epithelial cell,CLK4,1.1155268,7.842853000869818
+esophagusmuscularis,Glia,CLK4,1.0135136,7.628865979381444
+skin,Endothelial cell,CLK4,1.025974,7.526881720430108
+skeletalmuscle,Muscle,CLK4,1.0595592,7.438748837003234
+esophagusmucosa,Endothelial cell,CLK4,1.039039,7.118426678067551
+heart,Fibroblast,CLK4,1.0412214,7.052869602670399
+skeletalmuscle,Fibroblast,CLK4,1.0408654,6.998654104979811
+esophagusmucosa,Muscle,CLK4,1.0588236,6.786427145708583
+prostate,Muscle,CLK4,1.1013514,6.5983058403923325
+prostate,Epithelial cell,CLK4,1.0735874,6.596454730637542
+esophagusmucosa,Fibroblast,CLK4,1.0702703,6.571936056838366
+breast,Epithelial cell,CLK4,1.088,6.466632177961717
+lung,Epithelial cell,CLK4,1.0592937,6.234683281412253
+esophagusmucosa,Immune (myeloid),CLK4,1.0813954,6.151645207439199
+esophagusmucosa,Immune (lymphocyte),CLK4,1.0769231,5.720572057205721
+breast,Endothelial cell,CLK4,1.1020408,5.561861520998865
+esophagusmuscularis,Muscle,CLK4,1.0477356,5.494653305535006
+prostate,Fibroblast,CLK4,1.0327868,5.341506129597198
+lung,Immune (myeloid),CLK4,1.0440252,5.213969503197245
+skin,Melanocyte,CLK4,1.0,5.147058823529411
+esophagusmuscularis,Immune (myeloid),CLK4,1.0328947,5.129935875801552
+prostate,Endothelial cell,CLK4,1.0428572,4.953998584571833
+lung,Muscle,CLK4,1.125,4.9079754601227
+esophagusmuscularis,Endothelial cell,CLK4,1.0504587,4.886796682358216
+lung,Fibroblast,CLK4,1.0277778,4.878048780487805
+skeletalmuscle,Endothelial cell,CLK4,1.031746,4.7332832456799405
+esophagusmuscularis,Fibroblast,CLK4,1.0244898,4.707464694014795
+heart,Immune (myeloid),CLK4,1.0309278,4.547585560243788
+heart,Endothelial cell,CLK4,1.0366973,4.282907662082515
+skin,Other,CLK4,1.0526316,4.20353982300885
+prostate,Immune (lymphocyte),CLK4,1.0714285,4.105571847507331
+prostate,Immune (myeloid),CLK4,1.0,4.085603112840467
+skin,Immune (lymphocyte),CLK4,1.0,4.0
+esophagusmuscularis,Immune (lymphocyte),CLK4,1.0,3.986710963455149
+breast,Muscle,CLK4,1.0,3.947368421052632
+skeletalmuscle,Immune (myeloid),CLK4,1.0689656,3.934871099050204
+lung,Immune (lymphocyte),CLK4,1.0,3.586206896551724
+breast,Fibroblast,CLK4,1.0,3.5409035409035408
+breast,Immune (myeloid),CLK4,1.0833334,3.35195530726257
+esophagusmucosa,Glia,CLK4,1.0,3.076923076923077
+prostate,Glia,CLK4,1.0,2.985074626865672
+lung,Endothelial cell,CLK4,1.0588236,2.4763292061179896
+heart,Immune (lymphocyte),CLK4,1.0714285,2.005730659025788
+skin,Muscle,CLK4,1.0,1.6129032258064515
+skeletalmuscle,Immune (lymphocyte),CLK4,1.0,1.0
+skeletalmuscle,Glia,CLK4,0.0,0.0

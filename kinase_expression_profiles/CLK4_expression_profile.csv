@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Sebaceous gland cell,CLK4,0.6638709
+Immune (DC),CLK4,0.36484414
+Myocyte (cardiac),CLK4,0.36433935
+Epithelial cell (cornified keratinocyte),CLK4,0.31333753
+Immune (B cell),CLK4,0.30738452
+Satellite cell,CLK4,0.2858805
+Myofibroblast,CLK4,0.27822128
+Adipocyte,CLK4,0.2749566
+Epithelial cell (suprabasal keratinocyte),CLK4,0.27001807
+Epithelial cell (basal keratinocyte),CLK4,0.2669779
+Myocyte (NMJ-rich),CLK4,0.2534808
+Myocyte (sk. muscle),CLK4,0.23947063
+Schwann cell,CLK4,0.23501384
+Mucous cell,CLK4,0.23335652
+Epithelial cell (mature keratinocyte),CLK4,0.21885172
+Epithelial cell (suprabasal),CLK4,0.20680645
+Fibroblast,CLK4,0.1990672
+ICCs,CLK4,0.19870941
+Epithelial cell (luminal),CLK4,0.19774118
+"Myocyte (sk. muscle, cytoplasmic)",CLK4,0.19748294
+Epithelial cell (basal),CLK4,0.19616446
+Immune (Langerhans),CLK4,0.19269751
+Endothelial cell (lymphatic),CLK4,0.18811326
+Epithelial cell (alveolar type II),CLK4,0.18463309
+Epithelial cell (club),CLK4,0.1844338
+Epithelial cell (alveolar type I),CLK4,0.18149261
+Sweat gland cell,CLK4,0.18075341
+Myoepithelial (basal),CLK4,0.17263885
+Epithelial cell (ciliated),CLK4,0.1691667
+Epithelial cell (Hillock),CLK4,0.16768734
+Myocyte (smooth muscle),CLK4,0.16511416
+Melanocyte,CLK4,0.16351533
+Pericyte/SMC,CLK4,0.16336268
+Immune (T cell),CLK4,0.16068023
+Endothelial cell (vascular),CLK4,0.15752643
+Immune (mast cell),CLK4,0.15727198
+Immune (DC/macrophage),CLK4,0.15586558
+Neuronal,CLK4,0.14946525
+Immune (alveolar macrophage),CLK4,0.14716284
+Immune (NK cell),CLK4,0.10104049
+Neuroendocrine,CLK4,0.09613347
+Epithelial cell (squamous),CLK4,0.09125281
+"Myocyte (cardiac, cytoplasmic)",CLK4,0.090865456

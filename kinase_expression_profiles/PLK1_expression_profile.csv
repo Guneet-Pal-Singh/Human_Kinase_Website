@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (basal keratinocyte),PLK1,0.08701553
+Sebaceous gland cell,PLK1,0.06484718
+Epithelial cell (basal),PLK1,0.046792626
+Epithelial cell (suprabasal keratinocyte),PLK1,0.045006372
+Neuronal,PLK1,0.04437794
+Immune (DC),PLK1,0.033116624
+Epithelial cell (squamous),PLK1,0.024782397
+Myoepithelial (basal),PLK1,0.020039588
+Epithelial cell (suprabasal),PLK1,0.01969405
+Immune (NK cell),PLK1,0.019341301
+Myocyte (sk. muscle),PLK1,0.017687893
+Immune (DC/macrophage),PLK1,0.017296419
+Epithelial cell (Hillock),PLK1,0.016914358
+Epithelial cell (club),PLK1,0.01579768
+Sweat gland cell,PLK1,0.0152959395
+Myofibroblast,PLK1,0.014848326
+Myocyte (cardiac),PLK1,0.013483183
+Adipocyte,PLK1,0.012163306
+Endothelial cell (lymphatic),PLK1,0.011741842
+Immune (alveolar macrophage),PLK1,0.011530468
+Epithelial cell (luminal),PLK1,0.011348241
+Immune (T cell),PLK1,0.010855875
+Epithelial cell (alveolar type II),PLK1,0.009802141
+Epithelial cell (alveolar type I),PLK1,0.009758069
+Epithelial cell (ciliated),PLK1,0.008314573
+Mucous cell,PLK1,0.007940047
+Endothelial cell (vascular),PLK1,0.007843065
+Schwann cell,PLK1,0.0076519893
+Myocyte (smooth muscle),PLK1,0.007492712
+Fibroblast,PLK1,0.007293376
+Pericyte/SMC,PLK1,0.0061116824
+Immune (mast cell),PLK1,0.0049218214
+"Myocyte (cardiac, cytoplasmic)",PLK1,0.00045103996
+Epithelial cell (cornified keratinocyte),PLK1,0.0
+Epithelial cell (mature keratinocyte),PLK1,0.0
+Melanocyte,PLK1,0.0
+Immune (Langerhans),PLK1,0.0
+ICCs,PLK1,0.0
+Immune (B cell),PLK1,0.0
+"Myocyte (sk. muscle, cytoplasmic)",PLK1,0.0
+Myocyte (NMJ-rich),PLK1,0.0
+Neuroendocrine,PLK1,0.0
+Satellite cell,PLK1,0.0

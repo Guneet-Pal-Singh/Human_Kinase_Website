@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (ciliated),HIPK3,1.2189088
+Endothelial cell (vascular),HIPK3,1.077244
+Myocyte (cardiac),HIPK3,0.9991275
+ICCs,HIPK3,0.86804944
+Endothelial cell (lymphatic),HIPK3,0.8562329
+Schwann cell,HIPK3,0.83939457
+"Myocyte (cardiac, cytoplasmic)",HIPK3,0.80128723
+Immune (DC),HIPK3,0.75432706
+Myocyte (smooth muscle),HIPK3,0.7351862
+Immune (Langerhans),HIPK3,0.6795776
+Fibroblast,HIPK3,0.6549005
+Immune (DC/macrophage),HIPK3,0.6506279
+Myofibroblast,HIPK3,0.63390803
+Adipocyte,HIPK3,0.63111866
+Epithelial cell (alveolar type II),HIPK3,0.5996872
+Pericyte/SMC,HIPK3,0.563511
+Immune (alveolar macrophage),HIPK3,0.5509053
+Epithelial cell (basal),HIPK3,0.5446551
+Epithelial cell (squamous),HIPK3,0.53954136
+Epithelial cell (alveolar type I),HIPK3,0.49775013
+Epithelial cell (club),HIPK3,0.4952351
+Mucous cell,HIPK3,0.4790633
+Epithelial cell (suprabasal),HIPK3,0.46592692
+Epithelial cell (luminal),HIPK3,0.45195046
+Neuronal,HIPK3,0.43725643
+Epithelial cell (basal keratinocyte),HIPK3,0.43567562
+Neuroendocrine,HIPK3,0.42547372
+"Myocyte (sk. muscle, cytoplasmic)",HIPK3,0.41188014
+Immune (mast cell),HIPK3,0.35762691
+Myoepithelial (basal),HIPK3,0.3575605
+Epithelial cell (Hillock),HIPK3,0.35623235
+Immune (T cell),HIPK3,0.33766165
+Myocyte (NMJ-rich),HIPK3,0.32767615
+Immune (B cell),HIPK3,0.31031156
+Immune (NK cell),HIPK3,0.29184154
+Satellite cell,HIPK3,0.29038438
+Sweat gland cell,HIPK3,0.24652404
+Myocyte (sk. muscle),HIPK3,0.23801485
+Melanocyte,HIPK3,0.2246646
+Epithelial cell (mature keratinocyte),HIPK3,0.20646517
+Epithelial cell (suprabasal keratinocyte),HIPK3,0.16229528
+Sebaceous gland cell,HIPK3,0.15497212
+Epithelial cell (cornified keratinocyte),HIPK3,0.12138064

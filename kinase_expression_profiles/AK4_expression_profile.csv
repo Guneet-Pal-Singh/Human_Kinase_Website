@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+"Myocyte (cardiac, cytoplasmic)",AK4,0.52502227
+Adipocyte,AK4,0.48272797
+Epithelial cell (suprabasal keratinocyte),AK4,0.3973357
+Myocyte (cardiac),AK4,0.37726974
+Myocyte (smooth muscle),AK4,0.32255423
+Epithelial cell (luminal),AK4,0.24931775
+Epithelial cell (suprabasal),AK4,0.24917726
+Epithelial cell (squamous),AK4,0.22903617
+Neuronal,AK4,0.20870455
+Myoepithelial (basal),AK4,0.20152704
+Epithelial cell (basal keratinocyte),AK4,0.20072637
+Epithelial cell (cornified keratinocyte),AK4,0.18354422
+Myofibroblast,AK4,0.18194537
+Mucous cell,AK4,0.17257507
+Epithelial cell (basal),AK4,0.16532136
+Sweat gland cell,AK4,0.14948526
+Epithelial cell (Hillock),AK4,0.13297252
+Endothelial cell (lymphatic),AK4,0.12450489
+Epithelial cell (mature keratinocyte),AK4,0.109314665
+Neuroendocrine,AK4,0.09548282
+Epithelial cell (club),AK4,0.09145475
+Immune (Langerhans),AK4,0.08539076
+Pericyte/SMC,AK4,0.08399734
+Epithelial cell (ciliated),AK4,0.07514191
+Sebaceous gland cell,AK4,0.06789483
+ICCs,AK4,0.06309929
+Schwann cell,AK4,0.06280639
+Fibroblast,AK4,0.05567118
+Endothelial cell (vascular),AK4,0.05422522
+Immune (alveolar macrophage),AK4,0.051147524
+Immune (mast cell),AK4,0.037200224
+Epithelial cell (alveolar type II),AK4,0.03624741
+Myocyte (NMJ-rich),AK4,0.028388701
+Satellite cell,AK4,0.02608859
+Epithelial cell (alveolar type I),AK4,0.024048347
+Immune (DC/macrophage),AK4,0.022618411
+Myocyte (sk. muscle),AK4,0.0192422
+Immune (DC),AK4,0.01864947
+"Myocyte (sk. muscle, cytoplasmic)",AK4,0.016187008
+Immune (T cell),AK4,0.012896095
+Immune (B cell),AK4,0.0094942935
+Melanocyte,AK4,0.008732423
+Immune (NK cell),AK4,0.008599935

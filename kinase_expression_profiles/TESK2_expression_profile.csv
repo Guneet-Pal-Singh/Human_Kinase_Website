@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (luminal),TESK2,0.7181463
+Epithelial cell (basal keratinocyte),TESK2,0.70646924
+Epithelial cell (Hillock),TESK2,0.6382777
+Epithelial cell (suprabasal keratinocyte),TESK2,0.61612636
+Neuroendocrine,TESK2,0.5713216
+Epithelial cell (club),TESK2,0.5484252
+Epithelial cell (suprabasal),TESK2,0.5409884
+Mucous cell,TESK2,0.50676847
+Immune (B cell),TESK2,0.49345213
+Melanocyte,TESK2,0.4885268
+Epithelial cell (mature keratinocyte),TESK2,0.46145296
+Epithelial cell (basal),TESK2,0.4457556
+Immune (mast cell),TESK2,0.44284874
+Immune (alveolar macrophage),TESK2,0.3978972
+Immune (DC/macrophage),TESK2,0.3606786
+Sebaceous gland cell,TESK2,0.34303996
+Myocyte (NMJ-rich),TESK2,0.316393
+ICCs,TESK2,0.29326296
+Epithelial cell (squamous),TESK2,0.29075894
+Myofibroblast,TESK2,0.2794792
+Epithelial cell (ciliated),TESK2,0.26915976
+Schwann cell,TESK2,0.2561413
+Sweat gland cell,TESK2,0.25375503
+Pericyte/SMC,TESK2,0.25228342
+Myocyte (sk. muscle),TESK2,0.25083748
+Epithelial cell (alveolar type II),TESK2,0.24805552
+Endothelial cell (lymphatic),TESK2,0.24772778
+Epithelial cell (alveolar type I),TESK2,0.24254555
+Immune (DC),TESK2,0.2351021
+Myocyte (cardiac),TESK2,0.21926071
+Myoepithelial (basal),TESK2,0.21844913
+Endothelial cell (vascular),TESK2,0.21047634
+Immune (NK cell),TESK2,0.20984897
+Epithelial cell (cornified keratinocyte),TESK2,0.20973803
+Fibroblast,TESK2,0.1957909
+Immune (T cell),TESK2,0.16871923
+Myocyte (smooth muscle),TESK2,0.167789
+Immune (Langerhans),TESK2,0.16210316
+Satellite cell,TESK2,0.16047251
+Neuronal,TESK2,0.10973981
+Adipocyte,TESK2,0.09999254
+"Myocyte (sk. muscle, cytoplasmic)",TESK2,0.059543665
+"Myocyte (cardiac, cytoplasmic)",TESK2,0.036234494

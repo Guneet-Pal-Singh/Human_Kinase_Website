@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Schwann cell,AATK,0.41812205
+Neuronal,AATK,0.29661015
+Epithelial cell (alveolar type I),AATK,0.22339825
+Neuroendocrine,AATK,0.14647593
+Epithelial cell (alveolar type II),AATK,0.09618689
+Immune (Langerhans),AATK,0.09272698
+Myocyte (cardiac),AATK,0.06082207
+Immune (DC),AATK,0.05300942
+Epithelial cell (ciliated),AATK,0.052918404
+Melanocyte,AATK,0.043079864
+Immune (alveolar macrophage),AATK,0.04125006
+Endothelial cell (vascular),AATK,0.0385396
+Immune (NK cell),AATK,0.037979875
+Immune (DC/macrophage),AATK,0.03645855
+Epithelial cell (club),AATK,0.033892438
+Myofibroblast,AATK,0.03373435
+Mucous cell,AATK,0.030641712
+Myocyte (smooth muscle),AATK,0.028171826
+Immune (mast cell),AATK,0.019372866
+Myoepithelial (basal),AATK,0.019301593
+Sweat gland cell,AATK,0.018474594
+Immune (T cell),AATK,0.01758086
+Epithelial cell (squamous),AATK,0.017189017
+"Myocyte (cardiac, cytoplasmic)",AATK,0.016266087
+Epithelial cell (luminal),AATK,0.014350343
+Pericyte/SMC,AATK,0.009892501
+Sebaceous gland cell,AATK,0.0097548235
+Epithelial cell (basal keratinocyte),AATK,0.009069316
+Epithelial cell (suprabasal keratinocyte),AATK,0.008999414
+ICCs,AATK,0.008550698
+Epithelial cell (basal),AATK,0.008430845
+Fibroblast,AATK,0.0075650816
+Adipocyte,AATK,0.005490062
+Myocyte (sk. muscle),AATK,0.004221152
+Epithelial cell (Hillock),AATK,0.0030872228
+Epithelial cell (suprabasal),AATK,0.00282068
+Endothelial cell (lymphatic),AATK,0.002810553
+Epithelial cell (cornified keratinocyte),AATK,0.0
+Immune (B cell),AATK,0.0
+Epithelial cell (mature keratinocyte),AATK,0.0
+Myocyte (NMJ-rich),AATK,0.0
+"Myocyte (sk. muscle, cytoplasmic)",AATK,0.0
+Satellite cell,AATK,0.0

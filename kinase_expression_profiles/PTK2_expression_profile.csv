@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (Hillock),PTK2,1.382194
+Mucous cell,PTK2,1.3558028
+Endothelial cell (vascular),PTK2,1.3216769
+Epithelial cell (club),PTK2,1.2823184
+Epithelial cell (basal),PTK2,1.2803802
+Pericyte/SMC,PTK2,1.231982
+Schwann cell,PTK2,1.2311095
+Myocyte (NMJ-rich),PTK2,1.1923455
+Myofibroblast,PTK2,1.1727046
+ICCs,PTK2,1.1427897
+Epithelial cell (alveolar type II),PTK2,1.1410892
+Epithelial cell (ciliated),PTK2,1.0962373
+Myocyte (cardiac),PTK2,1.0734192
+Epithelial cell (alveolar type I),PTK2,1.0732567
+Endothelial cell (lymphatic),PTK2,1.0575703
+Sweat gland cell,PTK2,1.0083869
+Epithelial cell (suprabasal),PTK2,0.99474496
+Myoepithelial (basal),PTK2,0.9865995
+Epithelial cell (luminal),PTK2,0.9668497
+Fibroblast,PTK2,0.93331724
+Myocyte (sk. muscle),PTK2,0.9176396
+Neuroendocrine,PTK2,0.91714585
+Epithelial cell (basal keratinocyte),PTK2,0.89813083
+Neuronal,PTK2,0.88229865
+Satellite cell,PTK2,0.8783155
+Adipocyte,PTK2,0.85009503
+Myocyte (smooth muscle),PTK2,0.77597755
+Epithelial cell (suprabasal keratinocyte),PTK2,0.7751527
+Sebaceous gland cell,PTK2,0.7484091
+Immune (mast cell),PTK2,0.71986693
+Melanocyte,PTK2,0.6984739
+Immune (DC/macrophage),PTK2,0.5458685
+Epithelial cell (mature keratinocyte),PTK2,0.52713835
+Epithelial cell (squamous),PTK2,0.5225397
+Epithelial cell (cornified keratinocyte),PTK2,0.41382468
+"Myocyte (sk. muscle, cytoplasmic)",PTK2,0.40417764
+"Myocyte (cardiac, cytoplasmic)",PTK2,0.37495482
+Immune (alveolar macrophage),PTK2,0.36599398
+Immune (B cell),PTK2,0.338418
+Immune (Langerhans),PTK2,0.2464743
+Immune (DC),PTK2,0.23906939
+Immune (T cell),PTK2,0.0902764
+Immune (NK cell),PTK2,0.08103184

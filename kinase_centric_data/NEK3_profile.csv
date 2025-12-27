@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skin,Immune (myeloid),NEK3,1.1111112,10.05586592178771
+skin,Endothelial cell,NEK3,1.0957447,9.188660801564028
+skin,Melanocyte,NEK3,1.1818181,8.088235294117647
+esophagusmucosa,Endothelial cell,NEK3,1.0843374,7.097050021376656
+skin,Muscle,NEK3,1.0769231,6.989247311827956
+lung,Endothelial cell,NEK3,1.0357143,5.098324836125273
+prostate,Endothelial cell,NEK3,1.0652174,4.883227176220808
+heart,Endothelial cell,NEK3,1.0455927,4.3091028159790445
+heart,Muscle,NEK3,1.0755467,4.169429708222812
+heart,Adipocyte,NEK3,1.0,4.145077720207254
+esophagusmuscularis,Neuron,NEK3,1.0,4.0
+esophagusmuscularis,Endothelial cell,NEK3,1.0409356,3.833221250840619
+esophagusmucosa,Immune (myeloid),NEK3,1.0754716,3.7911301859799713
+esophagusmucosa,Stromal,NEK3,1.0277778,3.640040444893832
+breast,Endothelial cell,NEK3,1.09375,3.632236095346197
+breast,Immune (myeloid),NEK3,1.0769231,3.6312849162011176
+esophagusmucosa,Fibroblast,NEK3,1.0412371,3.4458259325044405
+skin,Epithelial cell (keratinocyte),NEK3,1.0746269,3.4411915767847976
+prostate,Immune (myeloid),NEK3,1.1142857,3.404669260700389
+skin,Other,NEK3,1.0,3.3185840707964607
+breast,Muscle,NEK3,1.0,3.289473684210526
+heart,Fibroblast,NEK3,1.027027,3.187250996015936
+breast,Fibroblast,NEK3,1.0,3.1746031746031744
+lung,Muscle,NEK3,1.0,3.067484662576687
+lung,Fibroblast,NEK3,1.0,3.048780487804878
+esophagusmuscularis,Glia,NEK3,1.0344827,2.989690721649485
+esophagusmuscularis,Immune (myeloid),NEK3,1.0232558,2.9024637192035097
+skeletalmuscle,Glia,NEK3,1.0,2.857142857142857
+skin,Fibroblast,NEK3,1.0,2.835538752362949
+skin,Epithelial cell,NEK3,1.0588236,2.823920265780731
+esophagusmucosa,Muscle,NEK3,1.1428572,2.7944111776447107
+lung,Immune (myeloid),NEK3,1.0473373,2.770946056730612
+skeletalmuscle,Endothelial cell,NEK3,1.0555556,2.70473328324568
+breast,Epithelial cell,NEK3,1.0394737,2.621141576133816
+skeletalmuscle,Immune (myeloid),NEK3,1.1052631,2.578018995929444
+prostate,Muscle,NEK3,1.0877193,2.541239411502452
+heart,Immune (myeloid),NEK3,1.0641025,2.437880918893577
+breast,Adipocyte,NEK3,1.0,2.385008517887564
+prostate,Fibroblast,NEK3,1.0,2.276707530647986
+prostate,Epithelial cell,NEK3,1.0630975,2.26671867550817
+lung,Epithelial cell,NEK3,1.0206379,2.213914849428868
+skeletalmuscle,Immune (lymphocyte),NEK3,1.0,2.0
+esophagusmucosa,Epithelial cell,NEK3,1.051282,1.978834444766599
+esophagusmuscularis,Fibroblast,NEK3,1.0103627,1.8541646651935824
+esophagusmuscularis,Adipocyte,NEK3,1.0,1.7142857142857144
+heart,Glia,NEK3,1.0,1.6778523489932886
+esophagusmuscularis,Muscle,NEK3,1.0286885,1.6409980496334655
+prostate,Glia,NEK3,1.0,1.4925373134328357
+skin,Immune (lymphocyte),NEK3,1.0,1.3333333333333337
+esophagusmuscularis,Immune (lymphocyte),NEK3,1.0,1.32890365448505
+skeletalmuscle,Fibroblast,NEK3,1.0384616,1.3122476446837146
+heart,Immune (lymphocyte),NEK3,1.0,0.7163323782234957
+lung,Immune (lymphocyte),NEK3,1.0,0.6896551724137931
+prostate,Immune (lymphocyte),NEK3,1.0,0.5865102639296188
+esophagusmucosa,Immune (lymphocyte),NEK3,1.0,0.5500550055005501
+skeletalmuscle,Muscle,NEK3,1.0086956,0.5095033450002215
+esophagusmucosa,Glia,NEK3,0.0,0.0
+skeletalmuscle,Adipocyte,NEK3,0.0,0.0
+skin,Adipocyte,NEK3,0.0,0.0

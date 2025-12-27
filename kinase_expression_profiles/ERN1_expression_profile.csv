@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (T cell),ERN1,0.8417256
+Epithelial cell (cornified keratinocyte),ERN1,0.7169588
+Immune (NK cell),ERN1,0.5269109
+Mucous cell,ERN1,0.52428174
+Epithelial cell (alveolar type II),ERN1,0.47734955
+Neuroendocrine,ERN1,0.45949075
+Epithelial cell (club),ERN1,0.45158568
+Immune (DC),ERN1,0.36982203
+Epithelial cell (suprabasal),ERN1,0.3644176
+Immune (B cell),ERN1,0.3586708
+Epithelial cell (Hillock),ERN1,0.35014713
+Epithelial cell (luminal),ERN1,0.30374464
+Sweat gland cell,ERN1,0.2992221
+Immune (mast cell),ERN1,0.24144106
+Epithelial cell (suprabasal keratinocyte),ERN1,0.22661358
+Epithelial cell (basal),ERN1,0.22649172
+Immune (DC/macrophage),ERN1,0.22266506
+Epithelial cell (squamous),ERN1,0.22254436
+Myofibroblast,ERN1,0.22175732
+Immune (alveolar macrophage),ERN1,0.21810244
+Epithelial cell (ciliated),ERN1,0.21384066
+Myocyte (NMJ-rich),ERN1,0.20942718
+Myocyte (cardiac),ERN1,0.20868044
+Sebaceous gland cell,ERN1,0.1962341
+Epithelial cell (basal keratinocyte),ERN1,0.19267419
+Myocyte (sk. muscle),ERN1,0.18662268
+Endothelial cell (lymphatic),ERN1,0.1519691
+Fibroblast,ERN1,0.14669235
+Endothelial cell (vascular),ERN1,0.14143814
+Myocyte (smooth muscle),ERN1,0.14052588
+Pericyte/SMC,ERN1,0.13594657
+Adipocyte,ERN1,0.12429599
+Immune (Langerhans),ERN1,0.12395544
+Epithelial cell (alveolar type I),ERN1,0.12227981
+Epithelial cell (mature keratinocyte),ERN1,0.1200502
+Myoepithelial (basal),ERN1,0.10435912
+Satellite cell,ERN1,0.10318774
+"Myocyte (sk. muscle, cytoplasmic)",ERN1,0.098231316
+Schwann cell,ERN1,0.098228745
+ICCs,ERN1,0.08379548
+"Myocyte (cardiac, cytoplasmic)",ERN1,0.05602244
+Melanocyte,ERN1,0.05165454
+Neuronal,ERN1,0.0

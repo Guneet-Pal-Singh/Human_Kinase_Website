@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skin,Epithelial cell (keratinocyte),FGFR3,1.6724352,41.55110426296867
+esophagusmucosa,Epithelial cell,FGFR3,1.5945406,32.66164105537837
+skin,Other,FGFR3,2.3357143,30.973451327433622
+esophagusmucosa,Stromal,FGFR3,1.8214285,14.155712841253791
+skin,Epithelial cell,FGFR3,1.3913044,3.820598006644518
+prostate,Epithelial cell,FGFR3,1.201031,2.522428812898193
+lung,Epithelial cell,FGFR3,1.0201207,2.064382139148494
+lung,Endothelial cell,FGFR3,1.0,1.7479970866715222
+skin,Immune (myeloid),FGFR3,1.3333334,1.675977653631285
+skin,Muscle,FGFR3,1.3333334,1.6129032258064515
+esophagusmucosa,Glia,FGFR3,1.0,1.5384615384615383
+prostate,Endothelial cell,FGFR3,1.0238096,1.48619957537155
+skin,Immune (lymphocyte),FGFR3,1.0,1.3333333333333337
+esophagusmucosa,Muscle,FGFR3,1.3333334,1.1976047904191618
+esophagusmucosa,Immune (myeloid),FGFR3,1.4375,1.144492131616595
+heart,Endothelial cell,FGFR3,1.0581396,1.1263916175507531
+esophagusmucosa,Endothelial cell,FGFR3,1.3255814,0.9191962377084224
+skin,Fibroblast,FGFR3,1.0,0.7561436672967864
+skin,Melanocyte,FGFR3,2.0,0.7352941176470588
+esophagusmucosa,Fibroblast,FGFR3,1.2352941,0.6039076376554174
+esophagusmuscularis,Adipocyte,FGFR3,1.0,0.5714285714285714
+lung,Fibroblast,FGFR3,1.0,0.5420054200542005
+esophagusmuscularis,Endothelial cell,FGFR3,1.0434783,0.5155794664873347
+prostate,Muscle,FGFR3,1.0,0.4458314757021846
+skin,Endothelial cell,FGFR3,1.25,0.3910068426197458
+esophagusmuscularis,Immune (lymphocyte),FGFR3,1.0,0.3322259136212624
+lung,Immune (lymphocyte),FGFR3,1.0,0.2758620689655172
+esophagusmucosa,Immune (lymphocyte),FGFR3,1.2,0.275027502750275
+prostate,Fibroblast,FGFR3,1.3333334,0.2626970227670753
+breast,Endothelial cell,FGFR3,1.0,0.2270147559591373
+skeletalmuscle,Endothelial cell,FGFR3,1.0,0.2253944402704733
+breast,Epithelial cell,FGFR3,1.0,0.2069322296947749
+lung,Immune (myeloid),FGFR3,1.0,0.131169044105591
+heart,Muscle,FGFR3,1.0,0.1077586206896551
+esophagusmuscularis,Glia,FGFR3,1.0,0.1030927835051546
+prostate,Immune (myeloid),FGFR3,1.0,0.0972762645914396
+esophagusmuscularis,Immune (myeloid),FGFR3,1.0,0.0674991562605467
+heart,Fibroblast,FGFR3,1.1666666,0.0646064391084311
+esophagusmuscularis,Fibroblast,FGFR3,1.0,0.0480353540205591
+esophagusmuscularis,Muscle,FGFR3,1.0,0.0269016073710404
+skeletalmuscle,Fibroblast,FGFR3,1.0,0.0168236877523553
+heart,Immune (myeloid),FGFR3,1.0,0.0156274417877793
+skeletalmuscle,Muscle,FGFR3,1.3333334,0.0132913916087014
+heart,Immune (lymphocyte),FGFR3,0.0,0.0
+heart,Glia,FGFR3,0.0,0.0
+esophagusmuscularis,Neuron,FGFR3,0.0,0.0
+heart,Adipocyte,FGFR3,0.0,0.0
+breast,Adipocyte,FGFR3,0.0,0.0
+breast,Muscle,FGFR3,0.0,0.0
+breast,Fibroblast,FGFR3,0.0,0.0
+breast,Immune (myeloid),FGFR3,0.0,0.0
+skeletalmuscle,Adipocyte,FGFR3,0.0,0.0
+prostate,Immune (lymphocyte),FGFR3,0.0,0.0
+prostate,Glia,FGFR3,0.0,0.0
+lung,Muscle,FGFR3,0.0,0.0
+skin,Adipocyte,FGFR3,0.0,0.0
+skeletalmuscle,Immune (myeloid),FGFR3,0.0,0.0
+skeletalmuscle,Glia,FGFR3,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),FGFR3,0.0,0.0

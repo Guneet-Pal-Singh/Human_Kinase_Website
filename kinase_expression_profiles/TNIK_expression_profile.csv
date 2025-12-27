@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (mast cell),TNIK,1.5125005
+ICCs,TNIK,1.3977225
+Myocyte (cardiac),TNIK,1.3087631
+Epithelial cell (alveolar type II),TNIK,1.2583052
+Immune (NK cell),TNIK,0.9919393
+Immune (alveolar macrophage),TNIK,0.9185941
+Immune (T cell),TNIK,0.8311043
+Myocyte (NMJ-rich),TNIK,0.79925483
+Myofibroblast,TNIK,0.75874454
+Myocyte (sk. muscle),TNIK,0.7103663
+Myocyte (smooth muscle),TNIK,0.58077854
+Neuroendocrine,TNIK,0.51537573
+Neuronal,TNIK,0.4434161
+Myoepithelial (basal),TNIK,0.4298557
+Fibroblast,TNIK,0.39051983
+Epithelial cell (club),TNIK,0.36367133
+Satellite cell,TNIK,0.3394643
+Epithelial cell (Hillock),TNIK,0.3168607
+Pericyte/SMC,TNIK,0.31643277
+Immune (DC/macrophage),TNIK,0.29905033
+Epithelial cell (ciliated),TNIK,0.27738005
+"Myocyte (cardiac, cytoplasmic)",TNIK,0.2646599
+"Myocyte (sk. muscle, cytoplasmic)",TNIK,0.25105298
+Epithelial cell (suprabasal),TNIK,0.24550107
+Sweat gland cell,TNIK,0.23239033
+Melanocyte,TNIK,0.21083465
+Epithelial cell (luminal),TNIK,0.19660977
+Immune (B cell),TNIK,0.19323689
+Schwann cell,TNIK,0.19111691
+Epithelial cell (basal),TNIK,0.18450643
+Epithelial cell (alveolar type I),TNIK,0.15009278
+Mucous cell,TNIK,0.14352912
+Immune (DC),TNIK,0.09757165
+Endothelial cell (lymphatic),TNIK,0.09420642
+Epithelial cell (basal keratinocyte),TNIK,0.09127347
+Epithelial cell (squamous),TNIK,0.08103558
+Adipocyte,TNIK,0.067395136
+Epithelial cell (cornified keratinocyte),TNIK,0.06339492
+Epithelial cell (mature keratinocyte),TNIK,0.0630015
+Endothelial cell (vascular),TNIK,0.059546802
+Sebaceous gland cell,TNIK,0.030208774
+Epithelial cell (suprabasal keratinocyte),TNIK,0.027599964
+Immune (Langerhans),TNIK,0.0

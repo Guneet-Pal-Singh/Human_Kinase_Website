@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Endothelial cell (lymphatic),KDR,0.5814793
+Endothelial cell (vascular),KDR,0.36635372
+Immune (Langerhans),KDR,0.075336166
+Neuronal,KDR,0.06475707
+Sweat gland cell,KDR,0.061043493
+Myocyte (smooth muscle),KDR,0.055660922
+ICCs,KDR,0.0526629
+"Myocyte (cardiac, cytoplasmic)",KDR,0.05226306
+Myofibroblast,KDR,0.040913917
+Neuroendocrine,KDR,0.034575492
+Fibroblast,KDR,0.030454645
+"Myocyte (sk. muscle, cytoplasmic)",KDR,0.029453551
+Myoepithelial (basal),KDR,0.028137587
+Immune (mast cell),KDR,0.028099975
+Schwann cell,KDR,0.02736255
+Mucous cell,KDR,0.019795837
+Myocyte (NMJ-rich),KDR,0.018482912
+Epithelial cell (club),KDR,0.017045235
+Immune (alveolar macrophage),KDR,0.016747601
+Melanocyte,KDR,0.016400084
+Epithelial cell (ciliated),KDR,0.016361823
+Epithelial cell (squamous),KDR,0.015904164
+Pericyte/SMC,KDR,0.015857898
+Sebaceous gland cell,KDR,0.015418115
+Immune (B cell),KDR,0.014459658
+Epithelial cell (luminal),KDR,0.014195548
+Myocyte (cardiac),KDR,0.013709434
+Epithelial cell (basal),KDR,0.010534082
+Adipocyte,KDR,0.007397924
+Epithelial cell (alveolar type I),KDR,0.005267659
+Epithelial cell (suprabasal),KDR,0.00453527
+Epithelial cell (alveolar type II),KDR,0.004225268
+Immune (T cell),KDR,0.0040587517
+Immune (DC/macrophage),KDR,0.0033633248
+Epithelial cell (Hillock),KDR,0.002982877
+Myocyte (sk. muscle),KDR,0.0020836124
+Epithelial cell (basal keratinocyte),KDR,0.0
+Epithelial cell (cornified keratinocyte),KDR,0.0
+Epithelial cell (mature keratinocyte),KDR,0.0
+Immune (DC),KDR,0.0
+Immune (NK cell),KDR,0.0
+Epithelial cell (suprabasal keratinocyte),KDR,0.0
+Satellite cell,KDR,0.0

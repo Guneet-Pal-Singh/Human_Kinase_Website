@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (squamous),IRAK4,0.36921513
+Immune (DC),IRAK4,0.2615753
+Immune (T cell),IRAK4,0.244698
+Mucous cell,IRAK4,0.23222387
+Immune (NK cell),IRAK4,0.2113661
+Immune (DC/macrophage),IRAK4,0.20920466
+Epithelial cell (suprabasal),IRAK4,0.20098943
+Epithelial cell (Hillock),IRAK4,0.19820072
+Epithelial cell (club),IRAK4,0.19351062
+Neuroendocrine,IRAK4,0.19270639
+Epithelial cell (basal keratinocyte),IRAK4,0.18659593
+Immune (mast cell),IRAK4,0.184183
+Immune (alveolar macrophage),IRAK4,0.17996116
+Immune (Langerhans),IRAK4,0.1782308
+Melanocyte,IRAK4,0.17675799
+Myofibroblast,IRAK4,0.17346929
+Epithelial cell (luminal),IRAK4,0.16271247
+Epithelial cell (basal),IRAK4,0.16105144
+Endothelial cell (vascular),IRAK4,0.15761046
+Endothelial cell (lymphatic),IRAK4,0.13661084
+Epithelial cell (mature keratinocyte),IRAK4,0.12410931
+Fibroblast,IRAK4,0.123475745
+Immune (B cell),IRAK4,0.122072965
+Epithelial cell (cornified keratinocyte),IRAK4,0.12109728
+Myocyte (smooth muscle),IRAK4,0.11836781
+Epithelial cell (suprabasal keratinocyte),IRAK4,0.11414407
+Epithelial cell (alveolar type II),IRAK4,0.11332615
+Schwann cell,IRAK4,0.10522612
+Satellite cell,IRAK4,0.10433896
+Myoepithelial (basal),IRAK4,0.09975424
+Pericyte/SMC,IRAK4,0.09727779
+ICCs,IRAK4,0.093841136
+Epithelial cell (alveolar type I),IRAK4,0.09316446
+Myocyte (cardiac),IRAK4,0.065786384
+Adipocyte,IRAK4,0.055170707
+Sebaceous gland cell,IRAK4,0.054204684
+Epithelial cell (ciliated),IRAK4,0.039768822
+Sweat gland cell,IRAK4,0.030264182
+"Myocyte (cardiac, cytoplasmic)",IRAK4,0.029585319
+Myocyte (NMJ-rich),IRAK4,0.023061758
+Myocyte (sk. muscle),IRAK4,0.013818969
+"Myocyte (sk. muscle, cytoplasmic)",IRAK4,0.0036544704
+Neuronal,IRAK4,0.0

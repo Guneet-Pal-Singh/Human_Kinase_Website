@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Sebaceous gland cell,PI4KA,0.90129876
+Neuroendocrine,PI4KA,0.85406977
+Epithelial cell (cornified keratinocyte),PI4KA,0.7668801
+Immune (alveolar macrophage),PI4KA,0.69395787
+Sweat gland cell,PI4KA,0.67335564
+Immune (Langerhans),PI4KA,0.66518366
+Neuronal,PI4KA,0.64794606
+Myofibroblast,PI4KA,0.6069707
+Immune (DC/macrophage),PI4KA,0.5577632
+ICCs,PI4KA,0.5532738
+Epithelial cell (alveolar type II),PI4KA,0.54741824
+Epithelial cell (suprabasal keratinocyte),PI4KA,0.5409063
+Melanocyte,PI4KA,0.5406732
+Immune (DC),PI4KA,0.5310217
+Myocyte (NMJ-rich),PI4KA,0.52957284
+Myocyte (cardiac),PI4KA,0.5075517
+Epithelial cell (mature keratinocyte),PI4KA,0.5059975
+Immune (B cell),PI4KA,0.50501484
+Mucous cell,PI4KA,0.50189155
+Immune (T cell),PI4KA,0.49957594
+Epithelial cell (suprabasal),PI4KA,0.49404484
+Immune (NK cell),PI4KA,0.4936852
+Epithelial cell (alveolar type I),PI4KA,0.4845498
+Myoepithelial (basal),PI4KA,0.48206604
+Epithelial cell (luminal),PI4KA,0.47465512
+Epithelial cell (basal keratinocyte),PI4KA,0.46942943
+Epithelial cell (club),PI4KA,0.44368583
+Immune (mast cell),PI4KA,0.44167653
+Myocyte (smooth muscle),PI4KA,0.4407942
+Epithelial cell (basal),PI4KA,0.43961737
+Epithelial cell (Hillock),PI4KA,0.42615995
+Epithelial cell (squamous),PI4KA,0.4121354
+Endothelial cell (vascular),PI4KA,0.41043842
+Endothelial cell (lymphatic),PI4KA,0.4063269
+Pericyte/SMC,PI4KA,0.40319532
+Epithelial cell (ciliated),PI4KA,0.4027515
+Adipocyte,PI4KA,0.39680415
+Fibroblast,PI4KA,0.39331964
+Satellite cell,PI4KA,0.39106315
+Schwann cell,PI4KA,0.37943786
+Myocyte (sk. muscle),PI4KA,0.322494
+"Myocyte (cardiac, cytoplasmic)",PI4KA,0.1460097
+"Myocyte (sk. muscle, cytoplasmic)",PI4KA,0.13831837

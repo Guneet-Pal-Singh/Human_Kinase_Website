@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+lung,Immune (myeloid),RIPK2,1.2806236,14.7237252008526
+skeletalmuscle,Glia,RIPK2,1.0,11.428571428571429
+skin,Immune (lymphocyte),RIPK2,1.125,10.666666666666668
+prostate,Glia,RIPK2,1.0,8.955223880597014
+esophagusmuscularis,Neuron,RIPK2,2.0,8.0
+heart,Adipocyte,RIPK2,1.0,5.181347150259067
+skeletalmuscle,Immune (lymphocyte),RIPK2,1.2,5.0
+prostate,Epithelial cell,RIPK2,1.1712028,4.93650587266502
+esophagusmucosa,Immune (myeloid),RIPK2,1.4927536,4.935622317596566
+prostate,Immune (myeloid),RIPK2,1.1276596,4.571984435797665
+skin,Muscle,RIPK2,1.125,4.301075268817205
+breast,Immune (myeloid),RIPK2,1.2666667,4.189944134078212
+esophagusmuscularis,Immune (myeloid),RIPK2,1.2268908,4.016199797502532
+heart,Immune (myeloid),RIPK2,1.0696721,3.813095796218159
+breast,Epithelial cell,RIPK2,1.119266,3.759268839455079
+lung,Epithelial cell,RIPK2,1.079955,3.688473520249221
+lung,Muscle,RIPK2,1.0,3.6809815950920246
+skin,Immune (myeloid),RIPK2,1.0,3.35195530726257
+heart,Muscle,RIPK2,1.0897756,3.3239389920424403
+skin,Epithelial cell,RIPK2,1.25,3.322259136212625
+heart,Fibroblast,RIPK2,1.0608108,3.187250996015936
+prostate,Fibroblast,RIPK2,1.0555556,3.1523642732049035
+esophagusmuscularis,Fibroblast,RIPK2,1.0672783,3.1415121529445678
+esophagusmuscularis,Glia,RIPK2,1.1034483,2.989690721649485
+lung,Fibroblast,RIPK2,1.0465117,2.913279132791328
+esophagusmucosa,Stromal,RIPK2,1.25,2.8311425682507583
+skeletalmuscle,Fibroblast,RIPK2,1.0595238,2.826379542395693
+skeletalmuscle,Immune (myeloid),RIPK2,1.15,2.71370420624152
+skin,Epithelial cell (keratinocyte),RIPK2,1.0392157,2.6194144838212634
+lung,Endothelial cell,RIPK2,1.0704225,2.58557902403496
+heart,Immune (lymphocyte),RIPK2,1.0,2.5787965616045847
+skin,Melanocyte,RIPK2,1.0,2.5735294117647056
+skin,Other,RIPK2,1.1818181,2.433628318584071
+esophagusmucosa,Immune (lymphocyte),RIPK2,1.1136364,2.42024202420242
+heart,Glia,RIPK2,1.0,2.348993288590604
+esophagusmucosa,Muscle,RIPK2,1.0,2.19560878243513
+esophagusmucosa,Fibroblast,RIPK2,1.0169492,2.0959147424511544
+esophagusmucosa,Epithelial cell,RIPK2,1.1041666,2.0875616120614677
+prostate,Endothelial cell,RIPK2,1.0350877,2.0169851380042463
+prostate,Muscle,RIPK2,1.0681819,1.961658493089612
+skeletalmuscle,Adipocyte,RIPK2,1.0,1.8867924528301887
+heart,Endothelial cell,RIPK2,1.0704225,1.859855926653569
+esophagusmuscularis,Muscle,RIPK2,1.0402931,1.8360347030735087
+esophagusmuscularis,Endothelial cell,RIPK2,1.0375,1.7933198834342077
+skin,Fibroblast,RIPK2,1.0,1.7013232514177694
+esophagusmucosa,Endothelial cell,RIPK2,1.0789474,1.6246259085079091
+skin,Adipocyte,RIPK2,1.0,1.6129032258064515
+breast,Adipocyte,RIPK2,1.0714285,1.5900056785917092
+breast,Endothelial cell,RIPK2,1.0,1.5891032917139614
+esophagusmucosa,Glia,RIPK2,1.0,1.5384615384615383
+skeletalmuscle,Endothelial cell,RIPK2,1.15,1.5026296018031555
+skin,Endothelial cell,RIPK2,1.0714285,1.3685239491691104
+esophagusmuscularis,Immune (lymphocyte),RIPK2,1.0,1.32890365448505
+breast,Muscle,RIPK2,1.0,1.3157894736842104
+lung,Immune (lymphocyte),RIPK2,1.3333334,1.2413793103448276
+esophagusmuscularis,Adipocyte,RIPK2,1.0,1.1428571428571428
+prostate,Immune (lymphocyte),RIPK2,1.0,1.0263929618768328
+breast,Fibroblast,RIPK2,1.125,0.9768009768009768
+skeletalmuscle,Muscle,RIPK2,1.0571429,0.15506623543485

@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Myocyte (cardiac),PIK3C3,0.3440407
+Epithelial cell (club),PIK3C3,0.34344858
+Mucous cell,PIK3C3,0.34265134
+Epithelial cell (Hillock),PIK3C3,0.33441815
+Immune (alveolar macrophage),PIK3C3,0.33277416
+Immune (DC),PIK3C3,0.32836062
+Epithelial cell (luminal),PIK3C3,0.32743356
+Melanocyte,PIK3C3,0.32287976
+Myofibroblast,PIK3C3,0.30929258
+Myocyte (NMJ-rich),PIK3C3,0.30725265
+Epithelial cell (basal keratinocyte),PIK3C3,0.3019215
+Epithelial cell (basal),PIK3C3,0.3015816
+Immune (DC/macrophage),PIK3C3,0.29961914
+Endothelial cell (lymphatic),PIK3C3,0.29602376
+Epithelial cell (suprabasal),PIK3C3,0.29529306
+Endothelial cell (vascular),PIK3C3,0.29298982
+Epithelial cell (mature keratinocyte),PIK3C3,0.29058504
+Neuroendocrine,PIK3C3,0.29051164
+Epithelial cell (alveolar type I),PIK3C3,0.28853366
+Epithelial cell (alveolar type II),PIK3C3,0.28765208
+Fibroblast,PIK3C3,0.28113115
+Sweat gland cell,PIK3C3,0.27898237
+Immune (T cell),PIK3C3,0.2715462
+Epithelial cell (suprabasal keratinocyte),PIK3C3,0.27111304
+ICCs,PIK3C3,0.27061984
+Satellite cell,PIK3C3,0.26573363
+Sebaceous gland cell,PIK3C3,0.2566766
+Epithelial cell (ciliated),PIK3C3,0.25563112
+Myoepithelial (basal),PIK3C3,0.25542757
+Pericyte/SMC,PIK3C3,0.25459614
+Myocyte (smooth muscle),PIK3C3,0.24700046
+Adipocyte,PIK3C3,0.23494531
+Epithelial cell (cornified keratinocyte),PIK3C3,0.22965643
+Immune (NK cell),PIK3C3,0.22912773
+Schwann cell,PIK3C3,0.21658246
+Immune (mast cell),PIK3C3,0.19867644
+Myocyte (sk. muscle),PIK3C3,0.19331479
+Immune (B cell),PIK3C3,0.18249862
+Epithelial cell (squamous),PIK3C3,0.14892152
+"Myocyte (cardiac, cytoplasmic)",PIK3C3,0.10912748
+"Myocyte (sk. muscle, cytoplasmic)",PIK3C3,0.10196638
+Immune (Langerhans),PIK3C3,0.066801175
+Neuronal,PIK3C3,0.0611457

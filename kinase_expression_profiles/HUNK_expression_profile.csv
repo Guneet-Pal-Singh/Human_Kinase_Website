@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+ICCs,HUNK,0.5147125
+Neuronal,HUNK,0.4235072
+Epithelial cell (alveolar type II),HUNK,0.25536606
+Immune (alveolar macrophage),HUNK,0.14575276
+Epithelial cell (club),HUNK,0.1448863
+Myoepithelial (basal),HUNK,0.1179154
+Epithelial cell (ciliated),HUNK,0.11201213
+Epithelial cell (alveolar type I),HUNK,0.1104489
+Epithelial cell (mature keratinocyte),HUNK,0.10631964
+Mucous cell,HUNK,0.10160097
+Epithelial cell (Hillock),HUNK,0.100191675
+Schwann cell,HUNK,0.08605521
+Epithelial cell (basal),HUNK,0.07880737
+Epithelial cell (suprabasal keratinocyte),HUNK,0.07467182
+Melanocyte,HUNK,0.0688337
+Immune (Langerhans),HUNK,0.06881599
+Epithelial cell (suprabasal),HUNK,0.067631796
+Fibroblast,HUNK,0.062291913
+Myocyte (cardiac),HUNK,0.061998196
+Sebaceous gland cell,HUNK,0.061423272
+Epithelial cell (luminal),HUNK,0.055704113
+Myofibroblast,HUNK,0.050384257
+Epithelial cell (cornified keratinocyte),HUNK,0.050126314
+Endothelial cell (vascular),HUNK,0.04891237
+Epithelial cell (basal keratinocyte),HUNK,0.046448275
+Myocyte (smooth muscle),HUNK,0.044033516
+Pericyte/SMC,HUNK,0.042961013
+Satellite cell,HUNK,0.04234288
+Myocyte (sk. muscle),HUNK,0.03926347
+Endothelial cell (lymphatic),HUNK,0.03143737
+Immune (T cell),HUNK,0.03046441
+Immune (B cell),HUNK,0.030269908
+Immune (mast cell),HUNK,0.02660854
+Sweat gland cell,HUNK,0.025608156
+Immune (DC/macrophage),HUNK,0.025040012
+Adipocyte,HUNK,0.023635589
+Epithelial cell (squamous),HUNK,0.017118318
+Myocyte (NMJ-rich),HUNK,0.015187027
+"Myocyte (sk. muscle, cytoplasmic)",HUNK,0.012352079
+"Myocyte (cardiac, cytoplasmic)",HUNK,0.0076776505
+Immune (NK cell),HUNK,0.0
+Immune (DC),HUNK,0.0
+Neuroendocrine,HUNK,0.0

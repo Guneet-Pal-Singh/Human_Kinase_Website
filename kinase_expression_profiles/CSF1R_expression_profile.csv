@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (DC/macrophage),CSF1R,0.8100054
+Immune (Langerhans),CSF1R,0.6608015
+Myocyte (NMJ-rich),CSF1R,0.23352869
+Immune (alveolar macrophage),CSF1R,0.21123955
+Myocyte (sk. muscle),CSF1R,0.15121526
+Neuronal,CSF1R,0.093186066
+Pericyte/SMC,CSF1R,0.079753324
+"Myocyte (sk. muscle, cytoplasmic)",CSF1R,0.05434365
+Myofibroblast,CSF1R,0.04722794
+Myocyte (cardiac),CSF1R,0.036422156
+"Myocyte (cardiac, cytoplasmic)",CSF1R,0.03108075
+Immune (DC),CSF1R,0.028918106
+Epithelial cell (ciliated),CSF1R,0.027642146
+Immune (mast cell),CSF1R,0.026136894
+Melanocyte,CSF1R,0.024616376
+Schwann cell,CSF1R,0.0217535
+Immune (NK cell),CSF1R,0.021710467
+Adipocyte,CSF1R,0.018235333
+Myocyte (smooth muscle),CSF1R,0.016533727
+Myoepithelial (basal),CSF1R,0.014777853
+Epithelial cell (alveolar type II),CSF1R,0.014139008
+Sebaceous gland cell,CSF1R,0.013938204
+Endothelial cell (vascular),CSF1R,0.012812059
+Epithelial cell (alveolar type I),CSF1R,0.012609366
+Fibroblast,CSF1R,0.010491056
+Epithelial cell (basal),CSF1R,0.010139467
+Epithelial cell (squamous),CSF1R,0.009991395
+Satellite cell,CSF1R,0.009495319
+Epithelial cell (suprabasal keratinocyte),CSF1R,0.009455851
+Immune (T cell),CSF1R,0.009451067
+Endothelial cell (lymphatic),CSF1R,0.0077216146
+Epithelial cell (luminal),CSF1R,0.0074856966
+Epithelial cell (club),CSF1R,0.007153397
+Epithelial cell (basal keratinocyte),CSF1R,0.0064442223
+Epithelial cell (suprabasal),CSF1R,0.0035669785
+Mucous cell,CSF1R,0.0032928027
+Epithelial cell (Hillock),CSF1R,0.0
+Epithelial cell (cornified keratinocyte),CSF1R,0.0
+Immune (B cell),CSF1R,0.0
+ICCs,CSF1R,0.0
+Epithelial cell (mature keratinocyte),CSF1R,0.0
+Neuroendocrine,CSF1R,0.0
+Sweat gland cell,CSF1R,0.0

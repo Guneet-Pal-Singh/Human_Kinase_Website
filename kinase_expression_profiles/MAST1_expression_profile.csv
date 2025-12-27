@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Neuronal,MAST1,0.83389246
+Neuroendocrine,MAST1,0.27746874
+Epithelial cell (cornified keratinocyte),MAST1,0.22560948
+Epithelial cell (mature keratinocyte),MAST1,0.15661286
+Immune (alveolar macrophage),MAST1,0.08412925
+Epithelial cell (suprabasal keratinocyte),MAST1,0.07027804
+ICCs,MAST1,0.06934094
+Myofibroblast,MAST1,0.05462866
+Myocyte (smooth muscle),MAST1,0.051884506
+Epithelial cell (alveolar type II),MAST1,0.043174505
+Immune (Langerhans),MAST1,0.040927958
+Myocyte (cardiac),MAST1,0.03973235
+Epithelial cell (ciliated),MAST1,0.038769487
+Epithelial cell (alveolar type I),MAST1,0.03545121
+Sweat gland cell,MAST1,0.0341093
+Schwann cell,MAST1,0.026797965
+Epithelial cell (club),MAST1,0.026680803
+Immune (B cell),MAST1,0.026189925
+Fibroblast,MAST1,0.022232339
+Immune (T cell),MAST1,0.021786025
+Myocyte (sk. muscle),MAST1,0.021547312
+Epithelial cell (basal keratinocyte),MAST1,0.020308224
+Immune (mast cell),MAST1,0.020251077
+Endothelial cell (vascular),MAST1,0.019368794
+Pericyte/SMC,MAST1,0.019185517
+Immune (DC/macrophage),MAST1,0.016896
+Endothelial cell (lymphatic),MAST1,0.016119832
+Epithelial cell (basal),MAST1,0.015469502
+Epithelial cell (luminal),MAST1,0.014810367
+Epithelial cell (Hillock),MAST1,0.014682862
+Myoepithelial (basal),MAST1,0.012652669
+Immune (NK cell),MAST1,0.008868318
+Satellite cell,MAST1,0.008500774
+Adipocyte,MAST1,0.007775328
+Epithelial cell (suprabasal),MAST1,0.0076429225
+Melanocyte,MAST1,0.007179409
+Epithelial cell (squamous),MAST1,0.0067357747
+"Myocyte (sk. muscle, cytoplasmic)",MAST1,0.0032692947
+Mucous cell,MAST1,0.0029627965
+"Myocyte (cardiac, cytoplasmic)",MAST1,0.0024275554
+Immune (DC),MAST1,0.0
+Myocyte (NMJ-rich),MAST1,0.0
+Sebaceous gland cell,MAST1,0.0

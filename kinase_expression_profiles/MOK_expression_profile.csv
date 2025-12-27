@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (ciliated),MOK,1.1145567
+Melanocyte,MOK,0.2731072
+Myoepithelial (basal),MOK,0.24539952
+Myocyte (cardiac),MOK,0.2356628
+ICCs,MOK,0.22700685
+Epithelial cell (alveolar type I),MOK,0.21717735
+Immune (Langerhans),MOK,0.2078194
+Sweat gland cell,MOK,0.19481845
+Epithelial cell (luminal),MOK,0.19344506
+Mucous cell,MOK,0.18114102
+Adipocyte,MOK,0.16330063
+Epithelial cell (club),MOK,0.15939942
+Epithelial cell (alveolar type II),MOK,0.15783432
+Neuroendocrine,MOK,0.15542355
+Sebaceous gland cell,MOK,0.14825717
+Neuronal,MOK,0.13282007
+Fibroblast,MOK,0.12702012
+Myofibroblast,MOK,0.12607834
+Epithelial cell (suprabasal),MOK,0.113449045
+Epithelial cell (basal),MOK,0.10680221
+Pericyte/SMC,MOK,0.10227674
+Immune (alveolar macrophage),MOK,0.09578799
+Satellite cell,MOK,0.091513194
+Myocyte (smooth muscle),MOK,0.0818647
+Epithelial cell (basal keratinocyte),MOK,0.080959156
+Epithelial cell (Hillock),MOK,0.07887804
+Schwann cell,MOK,0.077479124
+Myocyte (NMJ-rich),MOK,0.07721733
+Epithelial cell (cornified keratinocyte),MOK,0.07637362
+Endothelial cell (lymphatic),MOK,0.07131194
+Myocyte (sk. muscle),MOK,0.06502754
+Endothelial cell (vascular),MOK,0.061895225
+Epithelial cell (suprabasal keratinocyte),MOK,0.057859056
+Immune (mast cell),MOK,0.046185628
+Epithelial cell (squamous),MOK,0.040926956
+Epithelial cell (mature keratinocyte),MOK,0.036751807
+"Myocyte (cardiac, cytoplasmic)",MOK,0.03530387
+Immune (NK cell),MOK,0.034957435
+Immune (DC/macrophage),MOK,0.029358344
+Immune (DC),MOK,0.027124085
+Immune (T cell),MOK,0.024603019
+"Myocyte (sk. muscle, cytoplasmic)",MOK,0.017909406
+Immune (B cell),MOK,0.014758276

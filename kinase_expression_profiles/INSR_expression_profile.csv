@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Myocyte (cardiac),INSR,1.5330515
+Mucous cell,INSR,1.5242856
+Epithelial cell (club),INSR,1.2343181
+Neuroendocrine,INSR,1.1853074
+Epithelial cell (basal keratinocyte),INSR,1.132443
+Sebaceous gland cell,INSR,1.102414
+Adipocyte,INSR,1.0577383
+Myocyte (NMJ-rich),INSR,1.049242
+Epithelial cell (Hillock),INSR,1.0362004
+Endothelial cell (vascular),INSR,1.0183938
+Myoepithelial (basal),INSR,0.95419043
+Myocyte (sk. muscle),INSR,0.9221987
+Epithelial cell (luminal),INSR,0.9203436
+Sweat gland cell,INSR,0.890622
+Fibroblast,INSR,0.8760298
+Epithelial cell (suprabasal keratinocyte),INSR,0.85813016
+Pericyte/SMC,INSR,0.80797666
+Myofibroblast,INSR,0.80119276
+Myocyte (smooth muscle),INSR,0.793387
+Epithelial cell (alveolar type II),INSR,0.7482866
+Satellite cell,INSR,0.7454498
+"Myocyte (cardiac, cytoplasmic)",INSR,0.7453714
+Epithelial cell (ciliated),INSR,0.7235783
+Epithelial cell (basal),INSR,0.6870769
+Neuronal,INSR,0.68170017
+Immune (DC/macrophage),INSR,0.66920376
+Schwann cell,INSR,0.64875627
+Immune (alveolar macrophage),INSR,0.6228957
+ICCs,INSR,0.61662513
+"Myocyte (sk. muscle, cytoplasmic)",INSR,0.61070496
+Epithelial cell (alveolar type I),INSR,0.6073583
+Endothelial cell (lymphatic),INSR,0.6048638
+Melanocyte,INSR,0.60035783
+Epithelial cell (cornified keratinocyte),INSR,0.55301213
+Immune (mast cell),INSR,0.49043164
+Immune (DC),INSR,0.42399862
+Immune (B cell),INSR,0.3572902
+Epithelial cell (mature keratinocyte),INSR,0.3558018
+Immune (Langerhans),INSR,0.32220653
+Epithelial cell (suprabasal),INSR,0.21513584
+Epithelial cell (squamous),INSR,0.2146581
+Immune (T cell),INSR,0.091445394
+Immune (NK cell),INSR,0.058132965

@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (DC),HCK,0.94195276
+Immune (DC/macrophage),HCK,0.79658604
+Immune (Langerhans),HCK,0.6900082
+Immune (alveolar macrophage),HCK,0.6528816
+Immune (mast cell),HCK,0.09281971
+Epithelial cell (ciliated),HCK,0.092033006
+Immune (B cell),HCK,0.08881476
+Myocyte (cardiac),HCK,0.0701578
+Epithelial cell (Hillock),HCK,0.05668947
+ICCs,HCK,0.05503546
+Epithelial cell (alveolar type I),HCK,0.05325508
+Epithelial cell (alveolar type II),HCK,0.051809516
+Myofibroblast,HCK,0.049429312
+Melanocyte,HCK,0.04822526
+Endothelial cell (vascular),HCK,0.03987138
+Sweat gland cell,HCK,0.036423165
+Adipocyte,HCK,0.03580105
+Satellite cell,HCK,0.034450393
+Schwann cell,HCK,0.033866066
+Myocyte (smooth muscle),HCK,0.031830743
+Immune (T cell),HCK,0.0313019
+Myocyte (sk. muscle),HCK,0.030333398
+Epithelial cell (basal),HCK,0.030257277
+Endothelial cell (lymphatic),HCK,0.028582446
+Pericyte/SMC,HCK,0.028330691
+Epithelial cell (club),HCK,0.028112117
+Myocyte (NMJ-rich),HCK,0.026312027
+Epithelial cell (suprabasal keratinocyte),HCK,0.025689423
+"Myocyte (cardiac, cytoplasmic)",HCK,0.02465408
+Epithelial cell (suprabasal),HCK,0.024125474
+Fibroblast,HCK,0.021059433
+Epithelial cell (luminal),HCK,0.019960547
+Epithelial cell (squamous),HCK,0.019756818
+Myoepithelial (basal),HCK,0.019018173
+Sebaceous gland cell,HCK,0.017241018
+"Myocyte (sk. muscle, cytoplasmic)",HCK,0.01576876
+Epithelial cell (basal keratinocyte),HCK,0.014834197
+Epithelial cell (mature keratinocyte),HCK,0.011393118
+Mucous cell,HCK,0.009394852
+Immune (NK cell),HCK,0.006267174
+Epithelial cell (cornified keratinocyte),HCK,0.0
+Neuronal,HCK,0.0
+Neuroendocrine,HCK,0.0

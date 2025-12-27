@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Neuronal,CAMK2A,0.34578192
+Immune (Langerhans),CAMK2A,0.1546236
+Myocyte (cardiac),CAMK2A,0.13261911
+Schwann cell,CAMK2A,0.11249392
+"Myocyte (sk. muscle, cytoplasmic)",CAMK2A,0.10621307
+Melanocyte,CAMK2A,0.106056325
+"Myocyte (cardiac, cytoplasmic)",CAMK2A,0.08956217
+Myocyte (sk. muscle),CAMK2A,0.06462354
+Myocyte (NMJ-rich),CAMK2A,0.046513725
+ICCs,CAMK2A,0.039050397
+Immune (alveolar macrophage),CAMK2A,0.023306312
+Myocyte (smooth muscle),CAMK2A,0.02299998
+Sweat gland cell,CAMK2A,0.019457877
+Immune (mast cell),CAMK2A,0.017557072
+Epithelial cell (alveolar type II),CAMK2A,0.017299138
+Satellite cell,CAMK2A,0.017052203
+Epithelial cell (ciliated),CAMK2A,0.014875051
+Epithelial cell (suprabasal keratinocyte),CAMK2A,0.014440587
+Epithelial cell (alveolar type I),CAMK2A,0.014201168
+Fibroblast,CAMK2A,0.010643688
+Immune (B cell),CAMK2A,0.010138613
+Myofibroblast,CAMK2A,0.008270286
+Epithelial cell (club),CAMK2A,0.006891541
+Pericyte/SMC,CAMK2A,0.0067136916
+Immune (NK cell),CAMK2A,0.006283613
+Endothelial cell (vascular),CAMK2A,0.0049818093
+Epithelial cell (basal),CAMK2A,0.0049778675
+Myoepithelial (basal),CAMK2A,0.004889256
+Endothelial cell (lymphatic),CAMK2A,0.004431886
+Epithelial cell (Hillock),CAMK2A,0.00441234
+Epithelial cell (suprabasal),CAMK2A,0.0037366392
+Adipocyte,CAMK2A,0.0031853833
+Epithelial cell (luminal),CAMK2A,0.0026733996
+Epithelial cell (basal keratinocyte),CAMK2A,0.0024862734
+Immune (T cell),CAMK2A,0.0018254723
+Immune (DC/macrophage),CAMK2A,0.0017663839
+Epithelial cell (cornified keratinocyte),CAMK2A,0.0
+Epithelial cell (squamous),CAMK2A,0.0
+Epithelial cell (mature keratinocyte),CAMK2A,0.0
+Immune (DC),CAMK2A,0.0
+Mucous cell,CAMK2A,0.0
+Neuroendocrine,CAMK2A,0.0
+Sebaceous gland cell,CAMK2A,0.0

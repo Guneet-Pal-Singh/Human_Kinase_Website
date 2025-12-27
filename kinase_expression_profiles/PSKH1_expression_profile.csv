@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Myocyte (cardiac),PSKH1,0.104079604
+Myocyte (NMJ-rich),PSKH1,0.09072916
+Immune (Langerhans),PSKH1,0.08797877
+"Myocyte (cardiac, cytoplasmic)",PSKH1,0.07541272
+Melanocyte,PSKH1,0.07185267
+Myocyte (smooth muscle),PSKH1,0.06979244
+Epithelial cell (alveolar type I),PSKH1,0.06947173
+Immune (alveolar macrophage),PSKH1,0.06808695
+Epithelial cell (suprabasal),PSKH1,0.06791912
+Epithelial cell (ciliated),PSKH1,0.06442603
+Epithelial cell (squamous),PSKH1,0.06329024
+Myofibroblast,PSKH1,0.06204136
+Epithelial cell (alveolar type II),PSKH1,0.060293693
+Myocyte (sk. muscle),PSKH1,0.05947848
+Epithelial cell (club),PSKH1,0.056125995
+Epithelial cell (basal),PSKH1,0.055225663
+Endothelial cell (lymphatic),PSKH1,0.05435789
+Epithelial cell (mature keratinocyte),PSKH1,0.05330265
+Adipocyte,PSKH1,0.052355275
+Pericyte/SMC,PSKH1,0.05179027
+Epithelial cell (luminal),PSKH1,0.04991733
+Immune (mast cell),PSKH1,0.049875297
+Immune (B cell),PSKH1,0.048406716
+Epithelial cell (Hillock),PSKH1,0.047552638
+Fibroblast,PSKH1,0.045939926
+Schwann cell,PSKH1,0.04405904
+Sweat gland cell,PSKH1,0.043731384
+Satellite cell,PSKH1,0.04221244
+Mucous cell,PSKH1,0.040466655
+Immune (T cell),PSKH1,0.040186524
+Immune (DC/macrophage),PSKH1,0.038770158
+Endothelial cell (vascular),PSKH1,0.037577283
+Epithelial cell (cornified keratinocyte),PSKH1,0.03711055
+Epithelial cell (basal keratinocyte),PSKH1,0.034549296
+Myoepithelial (basal),PSKH1,0.032173388
+Neuroendocrine,PSKH1,0.031263195
+Epithelial cell (suprabasal keratinocyte),PSKH1,0.027420938
+"Myocyte (sk. muscle, cytoplasmic)",PSKH1,0.022704415
+Immune (NK cell),PSKH1,0.0200384
+Sebaceous gland cell,PSKH1,0.01918908
+ICCs,PSKH1,0.012974161
+Immune (DC),PSKH1,0.0
+Neuronal,PSKH1,0.0

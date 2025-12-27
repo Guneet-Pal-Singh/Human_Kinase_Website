@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Adipocyte,BRAF,1.5813954,49.142857142857146
+lung,Epithelial cell,BRAF,1.6309617,47.81308411214953
+heart,Muscle,BRAF,2.1022387,47.02420424403183
+prostate,Epithelial cell,BRAF,1.679496,44.02981840246175
+heart,Adipocyte,BRAF,1.5641025,40.41450777202073
+esophagusmucosa,Stromal,BRAF,1.624,37.917087967644086
+prostate,Glia,BRAF,1.44,37.3134328358209
+esophagusmuscularis,Neuron,BRAF,1.7777778,36.0
+lung,Muscle,BRAF,1.2931035,35.58282208588957
+skin,Endothelial cell,BRAF,1.3767313,35.28836754643206
+prostate,Endothelial cell,BRAF,1.4501019,34.74876150035386
+esophagusmuscularis,Endothelial cell,BRAF,1.3926128,32.77292086976014
+heart,Fibroblast,BRAF,1.3582729,32.669322709163346
+lung,Immune (myeloid),BRAF,1.4051205,32.66109198229218
+esophagusmucosa,Endothelial cell,BRAF,1.4097594,31.979478409576743
+prostate,Fibroblast,BRAF,1.3863014,31.961471103327494
+prostate,Muscle,BRAF,1.549435,31.56486847971467
+skeletalmuscle,Adipocyte,BRAF,1.14,31.446540880503143
+skin,Epithelial cell,BRAF,1.6243386,31.3953488372093
+heart,Endothelial cell,BRAF,1.2995816,31.303208906352324
+lung,Endothelial cell,BRAF,1.2877698,30.3714493809177
+skeletalmuscle,Endothelial cell,BRAF,1.3955224,30.202854996243428
+esophagusmucosa,Epithelial cell,BRAF,1.4521017,29.660771238040013
+esophagusmuscularis,Muscle,BRAF,1.370328,29.329477436276814
+esophagusmucosa,Muscle,BRAF,1.3517241,28.942115768463072
+breast,Epithelial cell,BRAF,1.3672858,28.78082428004828
+breast,Endothelial cell,BRAF,1.2134387,28.71736662883088
+lung,Fibroblast,BRAF,1.2452381,28.455284552845526
+skeletalmuscle,Fibroblast,BRAF,1.2940825,28.146029609690444
+skin,Epithelial cell (keratinocyte),BRAF,1.3510054,28.09450436569081
+esophagusmuscularis,Immune (lymphocyte),BRAF,1.2380953,27.906976744186046
+esophagusmuscularis,Glia,BRAF,1.391791,27.628865979381445
+prostate,Immune (myeloid),BRAF,1.3204225,27.626459143968876
+skin,Melanocyte,BRAF,1.581081,27.20588235294117
+esophagusmuscularis,Fibroblast,BRAF,1.2533904,26.91901239312134
+skin,Immune (myeloid),BRAF,1.1041666,26.81564245810056
+skin,Muscle,BRAF,1.4489796,26.344086021505376
+breast,Muscle,BRAF,1.25,26.31578947368421
+breast,Adipocyte,BRAF,1.2450765,25.9511641113004
+heart,Immune (myeloid),BRAF,1.2571429,25.70714174089701
+esophagusmucosa,Immune (lymphocyte),BRAF,1.2359307,25.41254125412541
+prostate,Immune (lymphocyte),BRAF,1.3294798,25.36656891495601
+esophagusmuscularis,Immune (myeloid),BRAF,1.302139,25.24468444144448
+lung,Immune (lymphocyte),BRAF,1.3425415,24.96551724137931
+esophagusmucosa,Fibroblast,BRAF,1.2603719,24.831261101243346
+esophagusmucosa,Immune (myeloid),BRAF,1.300578,24.74964234620887
+esophagusmucosa,Glia,BRAF,1.375,24.615384615384617
+skeletalmuscle,Muscle,BRAF,1.2859997,24.39856452970626
+skeletalmuscle,Immune (myeloid),BRAF,1.2960894,24.2876526458616
+heart,Immune (lymphocyte),BRAF,1.230303,23.63896848137536
+skin,Fibroblast,BRAF,1.3474576,22.3062381852552
+breast,Fibroblast,BRAF,1.2375691,22.1001221001221
+heart,Glia,BRAF,1.1290323,20.80536912751678
+skin,Immune (lymphocyte),BRAF,1.2,20.0
+breast,Immune (myeloid),BRAF,1.2957747,19.832402234636877
+skin,Other,BRAF,1.25,19.469026548672566
+skeletalmuscle,Glia,BRAF,1.0,17.142857142857142
+skeletalmuscle,Immune (lymphocyte),BRAF,1.1764706,17.0
+skin,Adipocyte,BRAF,1.1666666,9.67741935483871

@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skin,Epithelial cell,SEPHS2,1.0,0.1661129568106312
+skeletalmuscle,Immune (myeloid),SEPHS2,1.0,0.1356852103120759
+heart,Muscle,SEPHS2,1.0,0.0994694960212201
+skin,Endothelial cell,SEPHS2,1.0,0.0977517106549364
+esophagusmucosa,Immune (myeloid),SEPHS2,1.0,0.0715307582260371
+esophagusmuscularis,Immune (myeloid),SEPHS2,1.0,0.0674991562605467
+esophagusmuscularis,Fibroblast,SEPHS2,1.0,0.0384282832164473
+prostate,Epithelial cell,SEPHS2,1.125,0.034672561002037
+esophagusmuscularis,Muscle,SEPHS2,1.0,0.0336270092138005
+heart,Immune (myeloid),SEPHS2,1.0,0.0312548835755586
+esophagusmucosa,Epithelial cell,SEPHS2,1.0,0.0289939112786314
+heart,Endothelial cell,SEPHS2,1.0,0.0261951538965291
+heart,Fibroblast,SEPHS2,1.0,0.0215354797028103
+skeletalmuscle,Muscle,SEPHS2,1.0,0.0177218554782685
+skeletalmuscle,Fibroblast,SEPHS2,1.0,0.0168236877523553
+lung,Epithelial cell,SEPHS2,1.0,0.0083073727933541
+breast,Immune (myeloid),SEPHS2,0.0,0.0
+esophagusmucosa,Stromal,SEPHS2,0.0,0.0
+breast,Muscle,SEPHS2,0.0,0.0
+esophagusmucosa,Immune (lymphocyte),SEPHS2,0.0,0.0
+esophagusmucosa,Glia,SEPHS2,0.0,0.0
+esophagusmucosa,Fibroblast,SEPHS2,0.0,0.0
+esophagusmucosa,Endothelial cell,SEPHS2,0.0,0.0
+breast,Epithelial cell,SEPHS2,0.0,0.0
+breast,Fibroblast,SEPHS2,0.0,0.0
+breast,Endothelial cell,SEPHS2,0.0,0.0
+breast,Adipocyte,SEPHS2,0.0,0.0
+heart,Immune (lymphocyte),SEPHS2,0.0,0.0
+heart,Glia,SEPHS2,0.0,0.0
+esophagusmuscularis,Neuron,SEPHS2,0.0,0.0
+heart,Adipocyte,SEPHS2,0.0,0.0
+esophagusmuscularis,Adipocyte,SEPHS2,0.0,0.0
+esophagusmuscularis,Endothelial cell,SEPHS2,0.0,0.0
+esophagusmuscularis,Glia,SEPHS2,0.0,0.0
+esophagusmuscularis,Immune (lymphocyte),SEPHS2,0.0,0.0
+esophagusmucosa,Muscle,SEPHS2,0.0,0.0
+lung,Muscle,SEPHS2,0.0,0.0
+prostate,Fibroblast,SEPHS2,0.0,0.0
+prostate,Endothelial cell,SEPHS2,0.0,0.0
+lung,Fibroblast,SEPHS2,0.0,0.0
+lung,Immune (lymphocyte),SEPHS2,0.0,0.0
+lung,Immune (myeloid),SEPHS2,0.0,0.0
+lung,Endothelial cell,SEPHS2,0.0,0.0
+skeletalmuscle,Adipocyte,SEPHS2,0.0,0.0
+prostate,Muscle,SEPHS2,0.0,0.0
+prostate,Immune (myeloid),SEPHS2,0.0,0.0
+prostate,Immune (lymphocyte),SEPHS2,0.0,0.0
+prostate,Glia,SEPHS2,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),SEPHS2,0.0,0.0
+skeletalmuscle,Endothelial cell,SEPHS2,0.0,0.0
+skeletalmuscle,Glia,SEPHS2,0.0,0.0
+skin,Adipocyte,SEPHS2,0.0,0.0
+skin,Epithelial cell (keratinocyte),SEPHS2,0.0,0.0
+skin,Fibroblast,SEPHS2,0.0,0.0
+skin,Immune (lymphocyte),SEPHS2,0.0,0.0
+skin,Immune (myeloid),SEPHS2,0.0,0.0
+skin,Melanocyte,SEPHS2,0.0,0.0
+skin,Muscle,SEPHS2,0.0,0.0
+skin,Other,SEPHS2,0.0,0.0

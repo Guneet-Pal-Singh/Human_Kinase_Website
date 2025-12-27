@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (basal keratinocyte),CIT,0.33412966
+Epithelial cell (alveolar type II),CIT,0.31790772
+Immune (Langerhans),CIT,0.2946387
+Schwann cell,CIT,0.2615746
+Epithelial cell (alveolar type I),CIT,0.23498988
+ICCs,CIT,0.22128472
+Epithelial cell (club),CIT,0.19266365
+Epithelial cell (ciliated),CIT,0.1864173
+Epithelial cell (basal),CIT,0.17472214
+Immune (alveolar macrophage),CIT,0.16095454
+Myocyte (NMJ-rich),CIT,0.15051073
+Immune (DC),CIT,0.123217754
+Epithelial cell (suprabasal keratinocyte),CIT,0.10775089
+Myofibroblast,CIT,0.09053841
+Immune (NK cell),CIT,0.07436135
+Melanocyte,CIT,0.07336477
+Epithelial cell (Hillock),CIT,0.07188932
+Immune (DC/macrophage),CIT,0.070806876
+Sebaceous gland cell,CIT,0.07071043
+Endothelial cell (vascular),CIT,0.06834646
+Epithelial cell (cornified keratinocyte),CIT,0.06776422
+Immune (mast cell),CIT,0.0672369
+Myocyte (sk. muscle),CIT,0.060102675
+Satellite cell,CIT,0.056894004
+Endothelial cell (lymphatic),CIT,0.056826547
+Pericyte/SMC,CIT,0.055552535
+Sweat gland cell,CIT,0.05456126
+Epithelial cell (suprabasal),CIT,0.05264549
+Myocyte (smooth muscle),CIT,0.04754082
+Immune (T cell),CIT,0.046428293
+Myoepithelial (basal),CIT,0.044843663
+Neuronal,CIT,0.04437794
+Myocyte (cardiac),CIT,0.043565862
+Fibroblast,CIT,0.040807586
+Epithelial cell (squamous),CIT,0.036431715
+Epithelial cell (luminal),CIT,0.03605905
+Adipocyte,CIT,0.030179637
+Mucous cell,CIT,0.027296904
+Immune (B cell),CIT,0.02634749
+"Myocyte (sk. muscle, cytoplasmic)",CIT,0.025378525
+Epithelial cell (mature keratinocyte),CIT,0.015181412
+"Myocyte (cardiac, cytoplasmic)",CIT,0.006874082
+Neuroendocrine,CIT,0.0

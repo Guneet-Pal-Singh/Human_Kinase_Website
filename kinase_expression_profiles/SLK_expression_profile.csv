@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (squamous),SLK,0.9769764
+Epithelial cell (mature keratinocyte),SLK,0.6123406
+Epithelial cell (suprabasal),SLK,0.5432948
+Epithelial cell (Hillock),SLK,0.49872154
+Epithelial cell (basal keratinocyte),SLK,0.43219042
+Immune (Langerhans),SLK,0.4265613
+Immune (DC),SLK,0.37749982
+Epithelial cell (suprabasal keratinocyte),SLK,0.37239417
+Melanocyte,SLK,0.36323297
+Mucous cell,SLK,0.34224805
+Epithelial cell (club),SLK,0.32129973
+"Myocyte (cardiac, cytoplasmic)",SLK,0.3167769
+Endothelial cell (lymphatic),SLK,0.30966592
+ICCs,SLK,0.2921691
+Endothelial cell (vascular),SLK,0.2908817
+Sebaceous gland cell,SLK,0.28775844
+Epithelial cell (basal),SLK,0.28551185
+Epithelial cell (alveolar type I),SLK,0.28522748
+Epithelial cell (alveolar type II),SLK,0.28309694
+Myofibroblast,SLK,0.2788657
+Myocyte (smooth muscle),SLK,0.25812662
+Myoepithelial (basal),SLK,0.2537605
+Neuroendocrine,SLK,0.24505852
+Immune (alveolar macrophage),SLK,0.23721026
+Myocyte (cardiac),SLK,0.23690878
+Immune (T cell),SLK,0.2345596
+Sweat gland cell,SLK,0.21438196
+Epithelial cell (luminal),SLK,0.2125979
+Epithelial cell (ciliated),SLK,0.20391685
+Schwann cell,SLK,0.19953337
+Neuronal,SLK,0.19948722
+Pericyte/SMC,SLK,0.18830495
+Immune (NK cell),SLK,0.18506779
+Fibroblast,SLK,0.18466291
+Epithelial cell (cornified keratinocyte),SLK,0.1801617
+Immune (B cell),SLK,0.17668739
+Immune (DC/macrophage),SLK,0.17031813
+Immune (mast cell),SLK,0.16851757
+"Myocyte (sk. muscle, cytoplasmic)",SLK,0.15166353
+Adipocyte,SLK,0.13952887
+Myocyte (NMJ-rich),SLK,0.13729091
+Satellite cell,SLK,0.1216467
+Myocyte (sk. muscle),SLK,0.054526154

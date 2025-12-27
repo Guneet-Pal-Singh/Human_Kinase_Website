@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmucosa,Epithelial cell,CSK,1.7443299,17.57755871267034
+esophagusmucosa,Immune (myeloid),CSK,1.0833334,10.300429184549357
+prostate,Immune (myeloid),CSK,1.1235955,8.657587548638132
+esophagusmucosa,Immune (lymphocyte),CSK,1.0743244,8.14081408140814
+heart,Immune (lymphocyte),CSK,1.0178572,8.022922636103152
+skin,Other,CSK,1.2,6.637168141592921
+prostate,Epithelial cell,CSK,1.1894518,6.245395050491917
+lung,Immune (myeloid),CSK,1.0773638,5.722249549106411
+esophagusmucosa,Stromal,CSK,1.1923077,5.25783619817998
+skin,Immune (myeloid),CSK,1.0,5.027932960893855
+skeletalmuscle,Immune (lymphocyte),CSK,1.0,5.0
+heart,Immune (myeloid),CSK,1.0886075,4.938271604938271
+breast,Muscle,CSK,1.1428572,4.605263157894736
+breast,Immune (myeloid),CSK,1.0625,4.46927374301676
+lung,Immune (lymphocyte),CSK,1.0,4.413793103448276
+heart,Muscle,CSK,1.0508474,4.401525198938992
+skin,Epithelial cell,CSK,1.1153846,4.318936877076411
+skin,Immune (lymphocyte),CSK,1.0,4.0
+skin,Melanocyte,CSK,1.0,3.6764705882352944
+prostate,Immune (lymphocyte),CSK,1.16,3.6656891495601176
+esophagusmuscularis,Immune (lymphocyte),CSK,1.0909091,3.654485049833888
+skeletalmuscle,Immune (myeloid),CSK,1.04,3.3921302578018997
+prostate,Endothelial cell,CSK,1.0113636,3.113941967445152
+esophagusmucosa,Glia,CSK,1.0,3.076923076923077
+prostate,Muscle,CSK,1.0307692,2.8979045920642
+esophagusmuscularis,Immune (myeloid),CSK,1.0705882,2.8687141410732364
+skeletalmuscle,Glia,CSK,1.0,2.857142857142857
+breast,Adipocyte,CSK,1.06,2.839295854628052
+breast,Endothelial cell,CSK,1.16,2.837684449489217
+heart,Adipocyte,CSK,1.0,2.5906735751295336
+esophagusmucosa,Endothelial cell,CSK,1.0677966,2.5224454895254382
+esophagusmuscularis,Adipocyte,CSK,1.0,2.2857142857142856
+prostate,Fibroblast,CSK,1.0384616,2.276707530647986
+heart,Endothelial cell,CSK,1.0254776,2.0563195808775374
+skin,Epithelial cell (keratinocyte),CSK,1.1282052,2.0030816640986133
+skeletalmuscle,Adipocyte,CSK,1.0,1.8867924528301887
+skin,Endothelial cell,CSK,1.0555556,1.7595307917888563
+skin,Adipocyte,CSK,1.0,1.6129032258064515
+esophagusmuscularis,Endothelial cell,CSK,1.0434783,1.546738399462004
+skeletalmuscle,Endothelial cell,CSK,1.05,1.5026296018031555
+heart,Fibroblast,CSK,1.0300752,1.4321094002368904
+breast,Epithelial cell,CSK,1.0769231,1.345059493016037
+lung,Endothelial cell,CSK,1.0294118,1.2381646030589948
+lung,Muscle,CSK,1.0,1.2269938650306749
+esophagusmuscularis,Muscle,CSK,1.0308642,1.0895150985271371
+skin,Muscle,CSK,1.0,1.0752688172043012
+lung,Epithelial cell,CSK,1.0040984,1.0134994807892004
+skeletalmuscle,Fibroblast,CSK,1.0,0.9757738896366084
+esophagusmuscularis,Glia,CSK,1.0,0.9278350515463918
+lung,Fibroblast,CSK,1.0,0.6775067750677507
+heart,Glia,CSK,1.5,0.6711409395973155
+esophagusmucosa,Muscle,CSK,1.0,0.5988023952095809
+skeletalmuscle,Muscle,CSK,1.0076923,0.5759603030437287
+esophagusmuscularis,Fibroblast,CSK,1.0,0.5668171774425977
+esophagusmucosa,Fibroblast,CSK,1.0,0.497335701598579
+breast,Fibroblast,CSK,1.0,0.4884004884004884
+skin,Fibroblast,CSK,1.0,0.1890359168241966
+esophagusmuscularis,Neuron,CSK,0.0,0.0
+prostate,Glia,CSK,0.0,0.0

@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skeletalmuscle,Glia,ETNK2,1.0,2.857142857142857
+skin,Other,ETNK2,1.0,2.2123893805309733
+prostate,Muscle,ETNK2,1.0465117,1.9170753455193936
+esophagusmucosa,Stromal,ETNK2,1.0,1.820020222446916
+esophagusmucosa,Epithelial cell,ETNK2,1.089796,1.7758770658161789
+prostate,Epithelial cell,ETNK2,1.0517242,1.7596324708533784
+skin,Fibroblast,ETNK2,1.1111112,1.7013232514177694
+skeletalmuscle,Fibroblast,ETNK2,1.0215054,1.5646029609690442
+prostate,Glia,ETNK2,1.0,1.4925373134328357
+skin,Epithelial cell (keratinocyte),ETNK2,1.0344827,1.4894709809964048
+skin,Immune (lymphocyte),ETNK2,1.0,1.3333333333333337
+skin,Melanocyte,ETNK2,1.0,1.1029411764705883
+heart,Adipocyte,ETNK2,1.0,1.0362694300518136
+prostate,Fibroblast,ETNK2,1.0,0.9632224168126094
+esophagusmuscularis,Fibroblast,ETNK2,1.0204082,0.941492938802959
+skeletalmuscle,Endothelial cell,ETNK2,1.0,0.9015777610818932
+heart,Fibroblast,ETNK2,1.037037,0.8721869279638204
+heart,Muscle,ETNK2,1.0476191,0.8703580901856763
+esophagusmucosa,Fibroblast,ETNK2,1.0,0.7460035523978685
+lung,Fibroblast,ETNK2,1.0,0.7452574525745257
+prostate,Endothelial cell,ETNK2,1.0,0.7077140835102618
+breast,Muscle,ETNK2,1.0,0.6578947368421052
+esophagusmucosa,Muscle,ETNK2,1.0,0.5988023952095809
+skin,Immune (myeloid),ETNK2,1.0,0.5586592178770949
+breast,Epithelial cell,ETNK2,1.0344827,0.5000862217623728
+skin,Epithelial cell,ETNK2,1.0,0.4983388704318937
+heart,Endothelial cell,ETNK2,1.0,0.4846103470857891
+esophagusmuscularis,Glia,ETNK2,1.0,0.4123711340206186
+breast,Adipocyte,ETNK2,1.0,0.3975014196479273
+skeletalmuscle,Muscle,ETNK2,1.0,0.3854503566523415
+esophagusmucosa,Endothelial cell,ETNK2,1.0,0.3420265070542967
+heart,Glia,ETNK2,1.0,0.3355704697986577
+lung,Endothelial cell,ETNK2,1.0,0.3277494537509104
+lung,Epithelial cell,ETNK2,1.0131578,0.3156801661474558
+prostate,Immune (lymphocyte),ETNK2,1.0,0.2932551319648094
+lung,Immune (myeloid),ETNK2,1.0,0.2623380882111821
+breast,Fibroblast,ETNK2,1.0,0.2442002442002442
+prostate,Immune (myeloid),ETNK2,1.0,0.1945525291828793
+esophagusmuscularis,Endothelial cell,ETNK2,1.125,0.1793319883434207
+esophagusmuscularis,Muscle,ETNK2,1.0,0.1681350460690026
+heart,Immune (lymphocyte),ETNK2,1.0,0.1432664756446991
+esophagusmucosa,Immune (myeloid),ETNK2,1.0,0.1430615164520743
+skeletalmuscle,Immune (myeloid),ETNK2,1.0,0.1356852103120759
+heart,Immune (myeloid),ETNK2,1.0,0.0781372089388967
+esophagusmuscularis,Immune (myeloid),ETNK2,1.0,0.0674991562605467
+esophagusmucosa,Immune (lymphocyte),ETNK2,1.0,0.055005500550055
+esophagusmuscularis,Immune (lymphocyte),ETNK2,0.0,0.0
+breast,Immune (myeloid),ETNK2,0.0,0.0
+breast,Endothelial cell,ETNK2,0.0,0.0
+esophagusmuscularis,Adipocyte,ETNK2,0.0,0.0
+esophagusmucosa,Glia,ETNK2,0.0,0.0
+esophagusmuscularis,Neuron,ETNK2,0.0,0.0
+skeletalmuscle,Adipocyte,ETNK2,0.0,0.0
+lung,Immune (lymphocyte),ETNK2,0.0,0.0
+lung,Muscle,ETNK2,0.0,0.0
+skin,Endothelial cell,ETNK2,0.0,0.0
+skin,Adipocyte,ETNK2,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),ETNK2,0.0,0.0
+skin,Muscle,ETNK2,0.0,0.0

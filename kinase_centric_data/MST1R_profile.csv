@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skin,Epithelial cell (keratinocyte),MST1R,1.0705128,8.012326656394453
+esophagusmucosa,Epithelial cell,MST1R,1.1054945,6.596114815888663
+skin,Other,MST1R,1.0769231,5.752212389380531
+esophagusmucosa,Stromal,MST1R,1.1489362,4.752275025278059
+lung,Epithelial cell,MST1R,1.0337769,4.058151609553478
+skeletalmuscle,Muscle,MST1R,1.0572687,4.022861193566967
+esophagusmuscularis,Neuron,MST1R,1.0,4.0
+skin,Immune (lymphocyte),MST1R,1.0,2.666666666666667
+esophagusmuscularis,Fibroblast,MST1R,1.0309734,2.1711980017292727
+breast,Epithelial cell,MST1R,1.0333333,2.0693222969477496
+skeletalmuscle,Immune (lymphocyte),MST1R,1.0,2.0
+prostate,Epithelial cell,MST1R,1.0243309,1.7813028214796516
+prostate,Immune (lymphocyte),MST1R,1.0833334,1.7595307917888563
+lung,Immune (myeloid),MST1R,1.0291262,1.688801442859485
+esophagusmuscularis,Muscle,MST1R,1.0406504,1.6544488533189856
+prostate,Muscle,MST1R,1.0,1.560410164957646
+esophagusmucosa,Glia,MST1R,1.0,1.5384615384615383
+esophagusmuscularis,Immune (lymphocyte),MST1R,1.0,1.32890365448505
+esophagusmucosa,Immune (lymphocyte),MST1R,1.0,1.21012101210121
+heart,Muscle,MST1R,1.0211267,1.177055702917772
+esophagusmuscularis,Adipocyte,MST1R,1.0,1.1428571428571428
+prostate,Fibroblast,MST1R,1.0,1.138353765323993
+breast,Fibroblast,MST1R,1.0,1.098901098901099
+breast,Adipocyte,MST1R,1.0,1.0221465076660987
+heart,Fibroblast,MST1R,1.0212766,1.0121675460320878
+heart,Immune (lymphocyte),MST1R,1.0,1.002865329512894
+skin,Epithelial cell,MST1R,1.0,0.9966777408637874
+lung,Fibroblast,MST1R,1.0,0.9485094850948508
+prostate,Endothelial cell,MST1R,1.0,0.8492569002123143
+heart,Endothelial cell,MST1R,1.0,0.8382449246889325
+breast,Immune (myeloid),MST1R,1.0,0.8379888268156425
+esophagusmuscularis,Endothelial cell,MST1R,1.0,0.7397444519166106
+esophagusmucosa,Endothelial cell,MST1R,1.03125,0.6840530141085934
+breast,Endothelial cell,MST1R,1.0,0.681044267877412
+skeletalmuscle,Endothelial cell,MST1R,1.0,0.67618332081142
+heart,Glia,MST1R,1.0,0.6711409395973155
+lung,Endothelial cell,MST1R,1.0,0.6554989075018208
+esophagusmucosa,Immune (myeloid),MST1R,1.2222222,0.6437768240343348
+esophagusmucosa,Fibroblast,MST1R,1.1111112,0.6394316163410302
+skeletalmuscle,Adipocyte,MST1R,1.0,0.628930817610063
+esophagusmuscularis,Glia,MST1R,1.0,0.6185567010309279
+lung,Muscle,MST1R,1.0,0.6134969325153374
+skin,Immune (myeloid),MST1R,1.0,0.5586592178770949
+heart,Adipocyte,MST1R,1.0,0.5181347150259068
+prostate,Immune (myeloid),MST1R,1.0,0.4863813229571984
+esophagusmuscularis,Immune (myeloid),MST1R,1.0,0.4724940938238272
+skeletalmuscle,Immune (myeloid),MST1R,1.0,0.4070556309362279
+skin,Melanocyte,MST1R,1.0,0.3676470588235294
+skeletalmuscle,Fibroblast,MST1R,1.0,0.319650067294751
+lung,Immune (lymphocyte),MST1R,1.0,0.2758620689655172
+esophagusmucosa,Muscle,MST1R,1.0,0.1996007984031935
+skin,Fibroblast,MST1R,1.0,0.1890359168241966
+heart,Immune (myeloid),MST1R,1.0,0.1875293014533521
+breast,Muscle,MST1R,0.0,0.0
+prostate,Glia,MST1R,0.0,0.0
+skin,Endothelial cell,MST1R,0.0,0.0
+skin,Adipocyte,MST1R,0.0,0.0
+skeletalmuscle,Glia,MST1R,0.0,0.0
+skin,Muscle,MST1R,0.0,0.0

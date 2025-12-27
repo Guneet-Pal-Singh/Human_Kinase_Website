@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Endothelial cell (lymphatic),TIE1,0.6200606
+Endothelial cell (vascular),TIE1,0.5464786
+Immune (mast cell),TIE1,0.09846217
+Immune (Langerhans),TIE1,0.07019925
+"Myocyte (cardiac, cytoplasmic)",TIE1,0.062700845
+"Myocyte (sk. muscle, cytoplasmic)",TIE1,0.06087731
+Myofibroblast,TIE1,0.046914496
+Neuroendocrine,TIE1,0.03488005
+Myocyte (NMJ-rich),TIE1,0.029113129
+ICCs,TIE1,0.027660534
+Pericyte/SMC,TIE1,0.02535132
+Melanocyte,TIE1,0.02129365
+Epithelial cell (ciliated),TIE1,0.020764658
+Schwann cell,TIE1,0.019867761
+Immune (alveolar macrophage),TIE1,0.018858107
+Epithelial cell (squamous),TIE1,0.018593954
+Adipocyte,TIE1,0.017166754
+Myocyte (smooth muscle),TIE1,0.016871523
+Epithelial cell (basal keratinocyte),TIE1,0.014063901
+Sweat gland cell,TIE1,0.013955236
+Epithelial cell (alveolar type I),TIE1,0.0137596885
+Myocyte (cardiac),TIE1,0.013551676
+Epithelial cell (alveolar type II),TIE1,0.0132562155
+Immune (DC/macrophage),TIE1,0.011447377
+Fibroblast,TIE1,0.008402804
+Satellite cell,TIE1,0.008377669
+Myoepithelial (basal),TIE1,0.0076812427
+Myocyte (sk. muscle),TIE1,0.007094697
+Epithelial cell (luminal),TIE1,0.006947852
+Immune (T cell),TIE1,0.0064329226
+Epithelial cell (basal),TIE1,0.0042019463
+Mucous cell,TIE1,0.0041074567
+Epithelial cell (suprabasal),TIE1,0.0035630327
+Epithelial cell (Hillock),TIE1,0.0029597073
+Epithelial cell (club),TIE1,0.0024090125
+Epithelial cell (cornified keratinocyte),TIE1,0.0
+Immune (DC),TIE1,0.0
+Epithelial cell (suprabasal keratinocyte),TIE1,0.0
+Immune (B cell),TIE1,0.0
+Epithelial cell (mature keratinocyte),TIE1,0.0
+Immune (NK cell),TIE1,0.0
+Neuronal,TIE1,0.0
+Sebaceous gland cell,TIE1,0.0

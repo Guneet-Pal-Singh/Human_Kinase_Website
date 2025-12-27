@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+prostate,Fibroblast,CAMK1G,1.0,0.8756567425569177
+lung,Muscle,CAMK1G,1.0,0.6134969325153374
+prostate,Muscle,CAMK1G,1.0,0.3120820329915292
+lung,Fibroblast,CAMK1G,1.0,0.2032520325203252
+skin,Epithelial cell,CAMK1G,1.0,0.1661129568106312
+lung,Immune (myeloid),CAMK1G,1.0,0.0983767830791933
+skeletalmuscle,Muscle,CAMK1G,1.0,0.0797483496522085
+esophagusmucosa,Immune (myeloid),CAMK1G,1.0,0.0715307582260371
+lung,Epithelial cell,CAMK1G,1.0,0.0623052959501557
+esophagusmuscularis,Fibroblast,CAMK1G,1.0,0.0384282832164473
+lung,Endothelial cell,CAMK1G,1.0,0.0364166059723233
+esophagusmucosa,Epithelial cell,CAMK1G,1.0,0.0362423890982893
+esophagusmuscularis,Immune (myeloid),CAMK1G,1.0,0.0337495781302733
+skeletalmuscle,Fibroblast,CAMK1G,1.0,0.0168236877523553
+heart,Endothelial cell,CAMK1G,1.0,0.0130975769482645
+prostate,Epithelial cell,CAMK1G,1.0,0.0130022103757638
+heart,Fibroblast,CAMK1G,1.0,0.0107677398514051
+esophagusmuscularis,Muscle,CAMK1G,1.0,0.0067254018427601
+breast,Immune (myeloid),CAMK1G,0.0,0.0
+esophagusmucosa,Immune (lymphocyte),CAMK1G,0.0,0.0
+esophagusmucosa,Glia,CAMK1G,0.0,0.0
+esophagusmucosa,Fibroblast,CAMK1G,0.0,0.0
+esophagusmucosa,Endothelial cell,CAMK1G,0.0,0.0
+breast,Epithelial cell,CAMK1G,0.0,0.0
+breast,Fibroblast,CAMK1G,0.0,0.0
+breast,Endothelial cell,CAMK1G,0.0,0.0
+breast,Adipocyte,CAMK1G,0.0,0.0
+heart,Immune (lymphocyte),CAMK1G,0.0,0.0
+heart,Glia,CAMK1G,0.0,0.0
+esophagusmuscularis,Neuron,CAMK1G,0.0,0.0
+heart,Adipocyte,CAMK1G,0.0,0.0
+esophagusmuscularis,Adipocyte,CAMK1G,0.0,0.0
+esophagusmuscularis,Endothelial cell,CAMK1G,0.0,0.0
+esophagusmuscularis,Glia,CAMK1G,0.0,0.0
+esophagusmuscularis,Immune (lymphocyte),CAMK1G,0.0,0.0
+esophagusmucosa,Muscle,CAMK1G,0.0,0.0
+esophagusmucosa,Stromal,CAMK1G,0.0,0.0
+breast,Muscle,CAMK1G,0.0,0.0
+lung,Immune (lymphocyte),CAMK1G,0.0,0.0
+prostate,Glia,CAMK1G,0.0,0.0
+heart,Immune (myeloid),CAMK1G,0.0,0.0
+heart,Muscle,CAMK1G,0.0,0.0
+prostate,Endothelial cell,CAMK1G,0.0,0.0
+skeletalmuscle,Adipocyte,CAMK1G,0.0,0.0
+prostate,Immune (myeloid),CAMK1G,0.0,0.0
+prostate,Immune (lymphocyte),CAMK1G,0.0,0.0
+skeletalmuscle,Glia,CAMK1G,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),CAMK1G,0.0,0.0
+skeletalmuscle,Immune (myeloid),CAMK1G,0.0,0.0
+skin,Adipocyte,CAMK1G,0.0,0.0
+skeletalmuscle,Endothelial cell,CAMK1G,0.0,0.0
+skin,Endothelial cell,CAMK1G,0.0,0.0
+skin,Epithelial cell (keratinocyte),CAMK1G,0.0,0.0
+skin,Fibroblast,CAMK1G,0.0,0.0
+skin,Immune (lymphocyte),CAMK1G,0.0,0.0
+skin,Immune (myeloid),CAMK1G,0.0,0.0
+skin,Melanocyte,CAMK1G,0.0,0.0
+skin,Muscle,CAMK1G,0.0,0.0
+skin,Other,CAMK1G,0.0,0.0

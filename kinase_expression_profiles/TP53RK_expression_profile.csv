@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (mature keratinocyte),TP53RK,0.08106777
+Epithelial cell (luminal),TP53RK,0.06997907
+Immune (NK cell),TP53RK,0.046481248
+"Myocyte (sk. muscle, cytoplasmic)",TP53RK,0.044879675
+"Myocyte (cardiac, cytoplasmic)",TP53RK,0.04430239
+Myocyte (smooth muscle),TP53RK,0.03825893
+Satellite cell,TP53RK,0.03463829
+Epithelial cell (club),TP53RK,0.03138672
+Epithelial cell (Hillock),TP53RK,0.03123812
+Fibroblast,TP53RK,0.029856397
+Neuroendocrine,TP53RK,0.027318336
+Adipocyte,TP53RK,0.023863805
+Epithelial cell (basal),TP53RK,0.023619346
+Immune (DC),TP53RK,0.023239635
+Immune (mast cell),TP53RK,0.02273675
+Myocyte (cardiac),TP53RK,0.019631956
+Immune (alveolar macrophage),TP53RK,0.018260635
+Epithelial cell (suprabasal),TP53RK,0.017947454
+Pericyte/SMC,TP53RK,0.017887326
+Epithelial cell (ciliated),TP53RK,0.01669082
+Immune (DC/macrophage),TP53RK,0.014333143
+Endothelial cell (lymphatic),TP53RK,0.012861322
+Epithelial cell (suprabasal keratinocyte),TP53RK,0.012769614
+Sebaceous gland cell,TP53RK,0.012616868
+Sweat gland cell,TP53RK,0.0114942975
+Epithelial cell (squamous),TP53RK,0.010287182
+Schwann cell,TP53RK,0.01003324
+Myofibroblast,TP53RK,0.009933664
+Immune (T cell),TP53RK,0.009886181
+Endothelial cell (vascular),TP53RK,0.0086240405
+Epithelial cell (alveolar type II),TP53RK,0.007894379
+Epithelial cell (alveolar type I),TP53RK,0.0068614157
+Mucous cell,TP53RK,0.0032789041
+Myocyte (sk. muscle),TP53RK,0.0017863093
+Epithelial cell (basal keratinocyte),TP53RK,0.0
+Epithelial cell (cornified keratinocyte),TP53RK,0.0
+Immune (Langerhans),TP53RK,0.0
+ICCs,TP53RK,0.0
+Immune (B cell),TP53RK,0.0
+Melanocyte,TP53RK,0.0
+Myocyte (NMJ-rich),TP53RK,0.0
+Myoepithelial (basal),TP53RK,0.0
+Neuronal,TP53RK,0.0

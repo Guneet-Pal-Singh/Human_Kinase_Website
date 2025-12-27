@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (DC),JAK1,1.0791802
+Myocyte (NMJ-rich),JAK1,0.9409436
+Immune (NK cell),JAK1,0.8125627
+Immune (T cell),JAK1,0.7197014
+Immune (B cell),JAK1,0.6860288
+Myocyte (cardiac),JAK1,0.6707254
+Epithelial cell (mature keratinocyte),JAK1,0.5342653
+Endothelial cell (lymphatic),JAK1,0.5011497
+Neuronal,JAK1,0.49849328
+"Myocyte (cardiac, cytoplasmic)",JAK1,0.48936558
+Mucous cell,JAK1,0.4823566
+Epithelial cell (alveolar type II),JAK1,0.46793234
+Epithelial cell (cornified keratinocyte),JAK1,0.45673516
+Myofibroblast,JAK1,0.45271796
+Fibroblast,JAK1,0.45002633
+Pericyte/SMC,JAK1,0.44745836
+Endothelial cell (vascular),JAK1,0.4446914
+Adipocyte,JAK1,0.43307233
+Immune (DC/macrophage),JAK1,0.4260513
+Immune (Langerhans),JAK1,0.41994977
+"Myocyte (sk. muscle, cytoplasmic)",JAK1,0.41438848
+Myocyte (sk. muscle),JAK1,0.40564257
+Epithelial cell (club),JAK1,0.40063062
+Epithelial cell (suprabasal),JAK1,0.37749615
+Epithelial cell (basal),JAK1,0.3720568
+Neuroendocrine,JAK1,0.37040272
+ICCs,JAK1,0.365143
+Epithelial cell (Hillock),JAK1,0.36501333
+Immune (alveolar macrophage),JAK1,0.35736352
+Myocyte (smooth muscle),JAK1,0.3317332
+Epithelial cell (basal keratinocyte),JAK1,0.33140478
+Epithelial cell (squamous),JAK1,0.32587817
+Epithelial cell (suprabasal keratinocyte),JAK1,0.3160731
+Epithelial cell (luminal),JAK1,0.3154195
+Sweat gland cell,JAK1,0.31394723
+Immune (mast cell),JAK1,0.2826733
+Satellite cell,JAK1,0.27658206
+Myoepithelial (basal),JAK1,0.2666217
+Epithelial cell (ciliated),JAK1,0.23741655
+Schwann cell,JAK1,0.2164078
+Melanocyte,JAK1,0.17852962
+Sebaceous gland cell,JAK1,0.1766358
+Epithelial cell (alveolar type I),JAK1,0.1664699

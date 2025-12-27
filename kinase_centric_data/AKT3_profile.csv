@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+prostate,Endothelial cell,AKT3,2.5668094,74.41613588110403
+heart,Fibroblast,AKT3,2.4639175,73.11295359104125
+skin,Endothelial cell,AKT3,2.5060241,73.02052785923753
+skin,Fibroblast,AKT3,2.301047,72.2117202268431
+skeletalmuscle,Endothelial cell,AKT3,2.7669902,69.64688204357627
+skeletalmuscle,Fibroblast,AKT3,2.0310173,67.79946164199193
+esophagusmucosa,Glia,AKT3,1.7619047,64.61538461538461
+esophagusmuscularis,Neuron,AKT3,2.875,64.0
+esophagusmucosa,Endothelial cell,AKT3,2.102466,61.54339461308251
+skin,Immune (lymphocyte),AKT3,1.9565217,61.33333333333333
+skin,Muscle,AKT3,1.8440367,58.602150537634415
+esophagusmucosa,Muscle,AKT3,1.7137932,57.884231536926144
+esophagusmucosa,Stromal,AKT3,2.066784,57.53286147623863
+prostate,Muscle,AKT3,2.4488373,57.51226036558181
+heart,Endothelial cell,AKT3,1.8381213,57.445972495088405
+prostate,Glia,AKT3,2.162162,55.223880597014926
+esophagusmuscularis,Immune (lymphocyte),AKT3,1.652439,54.48504983388705
+prostate,Immune (lymphocyte),AKT3,1.7108108,54.25219941348973
+esophagusmuscularis,Endothelial cell,AKT3,1.9817276,53.97892849136965
+prostate,Fibroblast,AKT3,2.0398672,52.71453590192644
+esophagusmuscularis,Glia,AKT3,1.6699605,52.164948453608254
+lung,Muscle,AKT3,1.8941176,52.14723926380368
+heart,Glia,AKT3,1.7368422,51.006711409395976
+skeletalmuscle,Immune (lymphocyte),AKT3,1.7843137,51.0
+esophagusmucosa,Fibroblast,AKT3,1.6886058,50.19538188277088
+lung,Fibroblast,AKT3,1.7703804,49.86449864498645
+lung,Endothelial cell,AKT3,1.7163174,48.652585579024034
+breast,Endothelial cell,AKT3,1.748731,44.72190692395006
+skin,Melanocyte,AKT3,1.7024794,44.48529411764706
+esophagusmucosa,Immune (lymphocyte),AKT3,1.5724907,44.38943894389439
+lung,Immune (lymphocyte),AKT3,1.503125,44.13793103448276
+skeletalmuscle,Glia,AKT3,1.5333333,42.85714285714285
+lung,Immune (myeloid),AKT3,1.5857657,41.00672241351041
+breast,Muscle,AKT3,1.7868853,40.131578947368425
+esophagusmuscularis,Fibroblast,AKT3,1.4689388,39.74445191661062
+esophagusmuscularis,Muscle,AKT3,1.5269679,36.90900531306745
+breast,Fibroblast,AKT3,1.4607508,35.775335775335776
+heart,Immune (lymphocyte),AKT3,1.3688525,34.95702005730659
+prostate,Epithelial cell,AKT3,1.6705986,34.538204828154115
+esophagusmuscularis,Adipocyte,AKT3,1.6833333,34.285714285714285
+heart,Adipocyte,AKT3,1.5396825,32.64248704663213
+skin,Immune (myeloid),AKT3,1.3061224,27.37430167597765
+esophagusmuscularis,Immune (myeloid),AKT3,1.3576733,27.269659129260887
+prostate,Immune (myeloid),AKT3,1.5762082,26.16731517509728
+heart,Immune (myeloid),AKT3,1.3287128,23.6755743084857
+heart,Muscle,AKT3,1.7171533,22.71220159151193
+esophagusmucosa,Immune (myeloid),AKT3,1.392405,22.603719599427755
+skeletalmuscle,Immune (myeloid),AKT3,1.2682927,22.25237449118046
+breast,Epithelial cell,AKT3,1.397238,21.227797896189
+skeletalmuscle,Adipocyte,AKT3,1.4285715,17.61006289308176
+breast,Immune (myeloid),AKT3,1.4576272,16.480446927374302
+lung,Epithelial cell,AKT3,1.2629553,16.191069574247145
+skeletalmuscle,Muscle,AKT3,1.3327636,15.550928182180671
+esophagusmucosa,Epithelial cell,AKT3,1.3814561,11.6483038561902
+skin,Adipocyte,AKT3,1.1666666,9.67741935483871
+skin,Other,AKT3,1.5217391,5.08849557522124
+breast,Adipocyte,AKT3,1.25,3.634298693923907
+skin,Epithelial cell,AKT3,1.5882353,2.823920265780731
+skin,Epithelial cell (keratinocyte),AKT3,1.2666667,0.7704160246533128

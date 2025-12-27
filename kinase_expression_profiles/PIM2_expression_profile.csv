@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (B cell),PIM2,0.3152698
+Immune (T cell),PIM2,0.11230793
+Immune (DC),PIM2,0.087868094
+Immune (NK cell),PIM2,0.08341002
+Immune (Langerhans),PIM2,0.068308085
+Epithelial cell (ciliated),PIM2,0.052961674
+Immune (mast cell),PIM2,0.04600906
+Neuroendocrine,PIM2,0.04413977
+Epithelial cell (alveolar type II),PIM2,0.02797735
+Immune (DC/macrophage),PIM2,0.014028476
+Epithelial cell (basal),PIM2,0.013859681
+Myofibroblast,PIM2,0.0125616295
+Adipocyte,PIM2,0.011938007
+Epithelial cell (Hillock),PIM2,0.011080148
+Epithelial cell (club),PIM2,0.010490374
+Epithelial cell (luminal),PIM2,0.010350534
+"Myocyte (cardiac, cytoplasmic)",PIM2,0.010258666
+Sweat gland cell,PIM2,0.009503008
+Immune (alveolar macrophage),PIM2,0.009358116
+Epithelial cell (suprabasal keratinocyte),PIM2,0.0093324855
+Satellite cell,PIM2,0.00924978
+Epithelial cell (squamous),PIM2,0.009241919
+Myocyte (smooth muscle),PIM2,0.009163482
+Epithelial cell (basal keratinocyte),PIM2,0.008412379
+Epithelial cell (suprabasal),PIM2,0.007628723
+Myocyte (cardiac),PIM2,0.0068068127
+Endothelial cell (vascular),PIM2,0.00610175
+Pericyte/SMC,PIM2,0.005250695
+Fibroblast,PIM2,0.004647903
+Myoepithelial (basal),PIM2,0.0038297814
+"Myocyte (sk. muscle, cytoplasmic)",PIM2,0.0027185464
+Schwann cell,PIM2,0.0026843862
+Endothelial cell (lymphatic),PIM2,0.0020533868
+Epithelial cell (alveolar type I),PIM2,0.0018459122
+Myocyte (sk. muscle),PIM2,0.00032793364
+Epithelial cell (cornified keratinocyte),PIM2,0.0
+Melanocyte,PIM2,0.0
+Epithelial cell (mature keratinocyte),PIM2,0.0
+ICCs,PIM2,0.0
+Myocyte (NMJ-rich),PIM2,0.0
+Mucous cell,PIM2,0.0
+Neuronal,PIM2,0.0
+Sebaceous gland cell,PIM2,0.0

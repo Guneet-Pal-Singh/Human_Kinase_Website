@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Neuronal,NEK1,0.91830003
+Epithelial cell (ciliated),NEK1,0.8440667
+Myocyte (cardiac),NEK1,0.68158484
+Melanocyte,NEK1,0.5611712
+Schwann cell,NEK1,0.48967552
+ICCs,NEK1,0.4417597
+Epithelial cell (Hillock),NEK1,0.42656204
+Epithelial cell (alveolar type I),NEK1,0.41065463
+Pericyte/SMC,NEK1,0.38420895
+Epithelial cell (suprabasal),NEK1,0.3725702
+Epithelial cell (club),NEK1,0.37143528
+Myoepithelial (basal),NEK1,0.3613819
+Fibroblast,NEK1,0.36093494
+Satellite cell,NEK1,0.3534503
+Epithelial cell (luminal),NEK1,0.35316458
+Epithelial cell (basal),NEK1,0.35272536
+Myofibroblast,NEK1,0.34694004
+Immune (mast cell),NEK1,0.34654132
+Immune (alveolar macrophage),NEK1,0.3332553
+Epithelial cell (alveolar type II),NEK1,0.33151865
+Endothelial cell (vascular),NEK1,0.32225457
+Immune (B cell),NEK1,0.31717533
+Myocyte (sk. muscle),NEK1,0.31097355
+Myocyte (smooth muscle),NEK1,0.30945748
+Neuroendocrine,NEK1,0.30673715
+Endothelial cell (lymphatic),NEK1,0.30560866
+Immune (NK cell),NEK1,0.2940414
+Immune (T cell),NEK1,0.29388273
+Myocyte (NMJ-rich),NEK1,0.2906539
+Mucous cell,NEK1,0.28320888
+Sebaceous gland cell,NEK1,0.2725966
+Immune (DC/macrophage),NEK1,0.25237265
+Immune (Langerhans),NEK1,0.2513466
+Sweat gland cell,NEK1,0.24441029
+Immune (DC),NEK1,0.23453681
+Adipocyte,NEK1,0.22663532
+Epithelial cell (suprabasal keratinocyte),NEK1,0.22274156
+Epithelial cell (basal keratinocyte),NEK1,0.22143461
+"Myocyte (cardiac, cytoplasmic)",NEK1,0.169803
+Epithelial cell (mature keratinocyte),NEK1,0.11517132
+Epithelial cell (squamous),NEK1,0.09425008
+"Myocyte (sk. muscle, cytoplasmic)",NEK1,0.093418695
+Epithelial cell (cornified keratinocyte),NEK1,0.055710897

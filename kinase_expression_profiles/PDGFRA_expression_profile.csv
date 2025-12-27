@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Fibroblast,PDGFRA,0.49692324
+ICCs,PDGFRA,0.11030408
+Epithelial cell (suprabasal),PDGFRA,0.04669872
+"Myocyte (cardiac, cytoplasmic)",PDGFRA,0.045217562
+"Myocyte (sk. muscle, cytoplasmic)",PDGFRA,0.042392645
+Immune (mast cell),PDGFRA,0.0350887
+Myocyte (smooth muscle),PDGFRA,0.026694478
+Myocyte (cardiac),PDGFRA,0.02057783
+Epithelial cell (squamous),PDGFRA,0.019388137
+Myoepithelial (basal),PDGFRA,0.017825153
+Sweat gland cell,PDGFRA,0.017062232
+Satellite cell,PDGFRA,0.016428309
+Myofibroblast,PDGFRA,0.015867934
+Endothelial cell (lymphatic),PDGFRA,0.009713825
+Immune (NK cell),PDGFRA,0.0074468586
+Pericyte/SMC,PDGFRA,0.006785074
+Immune (T cell),PDGFRA,0.00658564
+Adipocyte,PDGFRA,0.0065176724
+Schwann cell,PDGFRA,0.005607589
+Epithelial cell (basal),PDGFRA,0.0052967896
+Immune (DC/macrophage),PDGFRA,0.0052827382
+Endothelial cell (vascular),PDGFRA,0.004755557
+Mucous cell,PDGFRA,0.004628189
+Epithelial cell (luminal),PDGFRA,0.0033820274
+Epithelial cell (ciliated),PDGFRA,0.002776051
+Epithelial cell (club),PDGFRA,0.0013516662
+Immune (alveolar macrophage),PDGFRA,0.0005002108
+Epithelial cell (alveolar type I),PDGFRA,0.0003406574
+Myocyte (sk. muscle),PDGFRA,0.00014824142
+Epithelial cell (alveolar type II),PDGFRA,0.0
+Epithelial cell (basal keratinocyte),PDGFRA,0.0
+Epithelial cell (cornified keratinocyte),PDGFRA,0.0
+Epithelial cell (Hillock),PDGFRA,0.0
+Epithelial cell (suprabasal keratinocyte),PDGFRA,0.0
+Epithelial cell (mature keratinocyte),PDGFRA,0.0
+Melanocyte,PDGFRA,0.0
+Immune (Langerhans),PDGFRA,0.0
+Immune (DC),PDGFRA,0.0
+Immune (B cell),PDGFRA,0.0
+Myocyte (NMJ-rich),PDGFRA,0.0
+Neuroendocrine,PDGFRA,0.0
+Neuronal,PDGFRA,0.0
+Sebaceous gland cell,PDGFRA,0.0

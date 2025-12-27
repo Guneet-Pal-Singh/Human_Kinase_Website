@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (DC),PKN2,1.0805355
+Epithelial cell (squamous),PKN2,0.94129086
+Immune (Langerhans),PKN2,0.9376488
+Epithelial cell (suprabasal),PKN2,0.9113397
+Immune (alveolar macrophage),PKN2,0.90786386
+Epithelial cell (Hillock),PKN2,0.8798167
+Epithelial cell (club),PKN2,0.81589025
+Mucous cell,PKN2,0.8080524
+Sebaceous gland cell,PKN2,0.7320261
+Epithelial cell (basal),PKN2,0.71869403
+Myocyte (cardiac),PKN2,0.71722394
+Adipocyte,PKN2,0.7037774
+Epithelial cell (basal keratinocyte),PKN2,0.69312406
+Epithelial cell (alveolar type I),PKN2,0.68773884
+Epithelial cell (alveolar type II),PKN2,0.6780671
+Neuroendocrine,PKN2,0.6668305
+Immune (DC/macrophage),PKN2,0.6646887
+Epithelial cell (luminal),PKN2,0.65651935
+Melanocyte,PKN2,0.64804506
+Sweat gland cell,PKN2,0.6373671
+Myofibroblast,PKN2,0.626416
+Satellite cell,PKN2,0.62161356
+Epithelial cell (suprabasal keratinocyte),PKN2,0.61355525
+Myoepithelial (basal),PKN2,0.60510486
+ICCs,PKN2,0.593748
+Epithelial cell (ciliated),PKN2,0.59159184
+Immune (B cell),PKN2,0.58522135
+Endothelial cell (vascular),PKN2,0.57491064
+Endothelial cell (lymphatic),PKN2,0.5204573
+Fibroblast,PKN2,0.5180989
+Schwann cell,PKN2,0.5138819
+Immune (T cell),PKN2,0.506211
+Pericyte/SMC,PKN2,0.49756974
+Myocyte (NMJ-rich),PKN2,0.4902104
+Immune (NK cell),PKN2,0.46383142
+Immune (mast cell),PKN2,0.4571201
+Epithelial cell (mature keratinocyte),PKN2,0.42632055
+Myocyte (sk. muscle),PKN2,0.40250158
+Epithelial cell (cornified keratinocyte),PKN2,0.40230483
+Myocyte (smooth muscle),PKN2,0.38590005
+Neuronal,PKN2,0.37428483
+"Myocyte (cardiac, cytoplasmic)",PKN2,0.24414168
+"Myocyte (sk. muscle, cytoplasmic)",PKN2,0.15552391

@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (Langerhans),CLP1,0.055408884
+ICCs,CLP1,0.0497791
+"Myocyte (sk. muscle, cytoplasmic)",CLP1,0.047612708
+Epithelial cell (cornified keratinocyte),CLP1,0.03666949
+Fibroblast,CLP1,0.034841605
+Myoepithelial (basal),CLP1,0.02943923
+Epithelial cell (ciliated),CLP1,0.029089533
+Myofibroblast,CLP1,0.029047392
+"Myocyte (cardiac, cytoplasmic)",CLP1,0.028028965
+Immune (alveolar macrophage),CLP1,0.026493726
+Myocyte (NMJ-rich),CLP1,0.026435468
+Myocyte (smooth muscle),CLP1,0.024392845
+Epithelial cell (basal),CLP1,0.023509199
+Adipocyte,CLP1,0.022957493
+Immune (NK cell),CLP1,0.022519702
+Myocyte (cardiac),CLP1,0.021119092
+Schwann cell,CLP1,0.020942649
+Epithelial cell (alveolar type I),CLP1,0.018497346
+Pericyte/SMC,CLP1,0.018285261
+Satellite cell,CLP1,0.0166983
+Epithelial cell (suprabasal),CLP1,0.016433239
+Endothelial cell (vascular),CLP1,0.0149278175
+Epithelial cell (luminal),CLP1,0.014766107
+Melanocyte,CLP1,0.013931561
+Immune (DC/macrophage),CLP1,0.013579957
+Epithelial cell (club),CLP1,0.01346836
+Epithelial cell (alveolar type II),CLP1,0.013331194
+Immune (T cell),CLP1,0.012308768
+Sebaceous gland cell,CLP1,0.012163134
+Endothelial cell (lymphatic),CLP1,0.011341415
+Immune (mast cell),CLP1,0.01131855
+Mucous cell,CLP1,0.011180156
+Epithelial cell (suprabasal keratinocyte),CLP1,0.0100878915
+Epithelial cell (Hillock),CLP1,0.008518898
+Myocyte (sk. muscle),CLP1,0.0064687063
+Epithelial cell (basal keratinocyte),CLP1,0.005733158
+Epithelial cell (squamous),CLP1,0.0041619902
+Epithelial cell (mature keratinocyte),CLP1,0.0
+Immune (B cell),CLP1,0.0
+Immune (DC),CLP1,0.0
+Neuroendocrine,CLP1,0.0
+Neuronal,CLP1,0.0
+Sweat gland cell,CLP1,0.0

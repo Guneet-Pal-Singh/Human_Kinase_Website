@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (squamous),PRKAB1,0.26334083
+Epithelial cell (suprabasal),PRKAB1,0.124575086
+Epithelial cell (alveolar type II),PRKAB1,0.11761013
+Mucous cell,PRKAB1,0.106407344
+Epithelial cell (alveolar type I),PRKAB1,0.10152611
+Epithelial cell (ciliated),PRKAB1,0.08596885
+Endothelial cell (lymphatic),PRKAB1,0.08488363
+Epithelial cell (club),PRKAB1,0.0736668
+Epithelial cell (Hillock),PRKAB1,0.072767384
+Immune (DC),PRKAB1,0.07029033
+Immune (B cell),PRKAB1,0.06567218
+Epithelial cell (basal keratinocyte),PRKAB1,0.065392144
+Neuroendocrine,PRKAB1,0.060774587
+Myofibroblast,PRKAB1,0.060690325
+Endothelial cell (vascular),PRKAB1,0.0563789
+Immune (NK cell),PRKAB1,0.05309297
+Immune (alveolar macrophage),PRKAB1,0.05177517
+Immune (DC/macrophage),PRKAB1,0.05177451
+Sebaceous gland cell,PRKAB1,0.050002884
+Myocyte (smooth muscle),PRKAB1,0.04900031
+Epithelial cell (basal),PRKAB1,0.046539366
+Epithelial cell (luminal),PRKAB1,0.045394566
+Adipocyte,PRKAB1,0.043832492
+Myocyte (cardiac),PRKAB1,0.038231626
+Myocyte (sk. muscle),PRKAB1,0.034098882
+Sweat gland cell,PRKAB1,0.030950973
+"Myocyte (sk. muscle, cytoplasmic)",PRKAB1,0.030377854
+Epithelial cell (suprabasal keratinocyte),PRKAB1,0.029789684
+Immune (mast cell),PRKAB1,0.029050428
+Myocyte (NMJ-rich),PRKAB1,0.028866356
+Immune (T cell),PRKAB1,0.026553497
+"Myocyte (cardiac, cytoplasmic)",PRKAB1,0.02644425
+Schwann cell,PRKAB1,0.0240656
+ICCs,PRKAB1,0.023309357
+Fibroblast,PRKAB1,0.022662768
+Pericyte/SMC,PRKAB1,0.020676164
+Satellite cell,PRKAB1,0.016950732
+Myoepithelial (basal),PRKAB1,0.012079739
+Epithelial cell (mature keratinocyte),PRKAB1,0.010819347
+Epithelial cell (cornified keratinocyte),PRKAB1,0.0
+Immune (Langerhans),PRKAB1,0.0
+Melanocyte,PRKAB1,0.0
+Neuronal,PRKAB1,0.0

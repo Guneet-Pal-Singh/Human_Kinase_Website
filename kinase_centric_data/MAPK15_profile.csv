@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+lung,Epithelial cell,MAPK15,1.2982107,2.0893042575285565
+esophagusmucosa,Glia,MAPK15,1.0,1.5384615384615383
+prostate,Glia,MAPK15,1.0,1.4925373134328357
+breast,Epithelial cell,MAPK15,1.0,1.2243490256940852
+skin,Melanocyte,MAPK15,1.0,0.7352941176470588
+skin,Fibroblast,MAPK15,1.0,0.5671077504725899
+skin,Epithelial cell (keratinocyte),MAPK15,1.0,0.5649717514124294
+skin,Immune (myeloid),MAPK15,1.0,0.5586592178770949
+breast,Immune (myeloid),MAPK15,1.0,0.5586592178770949
+skin,Muscle,MAPK15,1.0,0.5376344086021506
+esophagusmucosa,Stromal,MAPK15,1.0,0.5055611729019212
+lung,Fibroblast,MAPK15,1.0,0.4742547425474254
+skin,Other,MAPK15,1.0,0.4424778761061947
+skin,Epithelial cell,MAPK15,1.0,0.3322259136212624
+esophagusmucosa,Fibroblast,MAPK15,1.0,0.3197158081705151
+breast,Fibroblast,MAPK15,1.0,0.2442002442002442
+prostate,Epithelial cell,MAPK15,1.0181818,0.2383738568890044
+esophagusmucosa,Epithelial cell,MAPK15,1.0,0.2319512902290519
+esophagusmuscularis,Glia,MAPK15,1.0,0.2061855670103093
+lung,Immune (myeloid),MAPK15,1.0,0.1639613051319888
+heart,Immune (lymphocyte),MAPK15,1.0,0.1432664756446991
+esophagusmucosa,Immune (myeloid),MAPK15,1.0,0.1430615164520743
+lung,Immune (lymphocyte),MAPK15,1.0,0.1379310344827586
+skin,Endothelial cell,MAPK15,1.0,0.0977517106549364
+prostate,Immune (myeloid),MAPK15,1.0,0.0972762645914396
+esophagusmuscularis,Fibroblast,MAPK15,1.0,0.0960707080411182
+prostate,Fibroblast,MAPK15,1.0,0.0875656742556917
+skeletalmuscle,Endothelial cell,MAPK15,1.0,0.0751314800901577
+esophagusmucosa,Endothelial cell,MAPK15,1.0,0.0641299700726806
+breast,Adipocyte,MAPK15,1.0,0.056785917092561
+heart,Fibroblast,MAPK15,1.0,0.0538386992570259
+prostate,Muscle,MAPK15,1.0,0.0445831475702184
+heart,Endothelial cell,MAPK15,1.0,0.0392927308447937
+lung,Endothelial cell,MAPK15,1.0,0.0364166059723233
+prostate,Endothelial cell,MAPK15,1.0,0.035385704175513
+esophagusmuscularis,Endothelial cell,MAPK15,1.0,0.0224164985429275
+esophagusmuscularis,Muscle,MAPK15,1.0,0.0201762055282803
+heart,Muscle,MAPK15,1.0,0.008289124668435
+skeletalmuscle,Muscle,MAPK15,1.0,0.0044304638695671
+breast,Muscle,MAPK15,0.0,0.0
+breast,Endothelial cell,MAPK15,0.0,0.0
+esophagusmuscularis,Immune (lymphocyte),MAPK15,0.0,0.0
+esophagusmucosa,Immune (lymphocyte),MAPK15,0.0,0.0
+heart,Glia,MAPK15,0.0,0.0
+esophagusmuscularis,Immune (myeloid),MAPK15,0.0,0.0
+esophagusmuscularis,Neuron,MAPK15,0.0,0.0
+heart,Adipocyte,MAPK15,0.0,0.0
+esophagusmuscularis,Adipocyte,MAPK15,0.0,0.0
+esophagusmucosa,Muscle,MAPK15,0.0,0.0
+heart,Immune (myeloid),MAPK15,0.0,0.0
+lung,Muscle,MAPK15,0.0,0.0
+skeletalmuscle,Adipocyte,MAPK15,0.0,0.0
+prostate,Immune (lymphocyte),MAPK15,0.0,0.0
+skin,Adipocyte,MAPK15,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),MAPK15,0.0,0.0
+skeletalmuscle,Fibroblast,MAPK15,0.0,0.0
+skeletalmuscle,Immune (myeloid),MAPK15,0.0,0.0
+skeletalmuscle,Glia,MAPK15,0.0,0.0
+skin,Immune (lymphocyte),MAPK15,0.0,0.0

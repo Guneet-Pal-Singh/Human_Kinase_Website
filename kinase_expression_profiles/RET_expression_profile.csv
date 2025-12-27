@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Neuronal,RET,0.9181761
+Neuroendocrine,RET,0.32701805
+Satellite cell,RET,0.07668498
+Epithelial cell (cornified keratinocyte),RET,0.050529238
+Epithelial cell (club),RET,0.029279811
+Immune (alveolar macrophage),RET,0.020242257
+Endothelial cell (lymphatic),RET,0.019835023
+Adipocyte,RET,0.01803272
+Fibroblast,RET,0.015473925
+Sebaceous gland cell,RET,0.015217659
+Epithelial cell (luminal),RET,0.0089479685
+Immune (mast cell),RET,0.00886883
+Epithelial cell (alveolar type I),RET,0.008203594
+Myoepithelial (basal),RET,0.007614695
+Epithelial cell (alveolar type II),RET,0.0069023245
+Schwann cell,RET,0.006843615
+Epithelial cell (ciliated),RET,0.006125383
+Mucous cell,RET,0.005678341
+Immune (DC/macrophage),RET,0.0055113067
+Pericyte/SMC,RET,0.0053793793
+Epithelial cell (basal keratinocyte),RET,0.0045969877
+Epithelial cell (suprabasal),RET,0.004596645
+Myocyte (cardiac),RET,0.004192858
+Endothelial cell (vascular),RET,0.003950531
+Epithelial cell (basal),RET,0.0036446922
+Myocyte (sk. muscle),RET,0.0028519193
+"Myocyte (sk. muscle, cytoplasmic)",RET,0.0023449685
+Epithelial cell (squamous),RET,0.0017121028
+Immune (T cell),RET,0.0011354984
+Myocyte (smooth muscle),RET,0.0009180952
+Epithelial cell (Hillock),RET,0.0
+Epithelial cell (suprabasal keratinocyte),RET,0.0
+Epithelial cell (mature keratinocyte),RET,0.0
+ICCs,RET,0.0
+Immune (B cell),RET,0.0
+Melanocyte,RET,0.0
+Immune (DC),RET,0.0
+Immune (Langerhans),RET,0.0
+Immune (NK cell),RET,0.0
+Myocyte (NMJ-rich),RET,0.0
+"Myocyte (cardiac, cytoplasmic)",RET,0.0
+Myofibroblast,RET,0.0
+Sweat gland cell,RET,0.0

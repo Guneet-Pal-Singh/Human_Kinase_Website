@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Neuron,GRK6,1.0,8.0
+lung,Immune (myeloid),GRK6,1.0813397,6.853582554517133
+heart,Immune (lymphocyte),GRK6,1.0243902,5.873925501432665
+esophagusmuscularis,Adipocyte,GRK6,1.0,4.571428571428571
+lung,Immune (lymphocyte),GRK6,1.0,3.8620689655172415
+skin,Other,GRK6,1.9411764,3.761061946902655
+prostate,Muscle,GRK6,1.1038961,3.4329023629068214
+prostate,Immune (myeloid),GRK6,1.0882353,3.3073929961089497
+esophagusmucosa,Immune (lymphocyte),GRK6,1.0666667,3.3003300330033
+esophagusmucosa,Glia,GRK6,1.0,3.076923076923077
+esophagusmucosa,Epithelial cell,GRK6,1.0558252,2.9863728616990435
+prostate,Glia,GRK6,1.0,2.985074626865672
+esophagusmucosa,Stromal,GRK6,1.037037,2.730030333670374
+prostate,Epithelial cell,GRK6,1.0340357,2.6741212672821044
+heart,Muscle,GRK6,1.0361842,2.519893899204244
+esophagusmuscularis,Immune (myeloid),GRK6,1.027027,2.497468781640229
+lung,Muscle,GRK6,1.0,2.4539877300613497
+lung,Epithelial cell,GRK6,1.0573913,2.388369678089304
+skin,Epithelial cell (keratinocyte),GRK6,1.6086956,2.362609142270159
+esophagusmucosa,Immune (myeloid),GRK6,1.030303,2.360515021459228
+esophagusmuscularis,Immune (lymphocyte),GRK6,1.0,2.3255813953488373
+esophagusmuscularis,Muscle,GRK6,1.0325444,2.273185822852916
+heart,Immune (myeloid),GRK6,1.0296296,2.109704641350211
+breast,Immune (myeloid),GRK6,1.1428572,1.9553072625698324
+skin,Melanocyte,GRK6,2.0,1.8382352941176472
+lung,Fibroblast,GRK6,1.0384616,1.7615176151761516
+prostate,Immune (lymphocyte),GRK6,1.0833334,1.7595307917888563
+skin,Adipocyte,GRK6,3.0,1.6129032258064515
+skeletalmuscle,Immune (myeloid),GRK6,1.0,1.4925373134328357
+prostate,Fibroblast,GRK6,1.0625,1.4010507880910683
+breast,Epithelial cell,GRK6,1.0256411,1.345059493016037
+skin,Immune (lymphocyte),GRK6,1.0,1.3333333333333337
+skin,Endothelial cell,GRK6,1.0,1.270772238514174
+prostate,Endothelial cell,GRK6,1.0,1.203113941967445
+skeletalmuscle,Fibroblast,GRK6,1.0298507,1.1271870794078065
+heart,Adipocyte,GRK6,1.0,1.0362694300518136
+breast,Adipocyte,GRK6,1.0555556,1.0221465076660987
+lung,Endothelial cell,GRK6,1.0,1.0196649672250546
+skeletalmuscle,Immune (lymphocyte),GRK6,1.0,1.0
+heart,Endothelial cell,GRK6,1.0135136,0.9692206941715782
+esophagusmucosa,Endothelial cell,GRK6,1.0666667,0.9619495510902096
+esophagusmuscularis,Endothelial cell,GRK6,1.0487804,0.9190764402600312
+breast,Fibroblast,GRK6,1.0,0.8547008547008548
+skin,Epithelial cell,GRK6,1.0,0.8305647840531563
+skeletalmuscle,Endothelial cell,GRK6,1.0,0.8264462809917356
+esophagusmucosa,Muscle,GRK6,1.0,0.7984031936127743
+breast,Endothelial cell,GRK6,1.0,0.7945516458569807
+heart,Fibroblast,GRK6,1.0273973,0.7860450091525788
+breast,Muscle,GRK6,1.0,0.6578947368421052
+skeletalmuscle,Adipocyte,GRK6,1.0,0.628930817610063
+skin,Fibroblast,GRK6,1.0,0.5671077504725899
+skin,Immune (myeloid),GRK6,1.0,0.5586592178770949
+skin,Muscle,GRK6,1.0,0.5376344086021506
+esophagusmuscularis,Fibroblast,GRK6,1.0192307,0.4995676818138149
+esophagusmucosa,Fibroblast,GRK6,1.0,0.4618117229129663
+esophagusmuscularis,Glia,GRK6,1.0,0.4123711340206186
+skeletalmuscle,Muscle,GRK6,1.0108696,0.4076026760001772
+heart,Glia,GRK6,0.0,0.0
+skeletalmuscle,Glia,GRK6,0.0,0.0

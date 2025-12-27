@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Neuron,LATS1,1.6,20.0
+heart,Muscle,LATS1,1.3164179,19.437997347480103
+heart,Adipocyte,LATS1,1.09375,16.580310880829018
+lung,Immune (myeloid),LATS1,1.1480144,13.625184456468272
+esophagusmuscularis,Adipocyte,LATS1,1.0,13.142857142857142
+esophagusmucosa,Stromal,LATS1,1.0787401,12.841253791708796
+heart,Fibroblast,LATS1,1.116426,11.93065575535695
+lung,Epithelial cell,LATS1,1.1169311,11.260643821391485
+esophagusmucosa,Immune (myeloid),LATS1,1.1013514,10.586552217453503
+esophagusmucosa,Immune (lymphocyte),LATS1,1.1210526,10.45104510451045
+prostate,Glia,LATS1,1.1428572,10.44776119402985
+heart,Immune (myeloid),LATS1,1.1037152,10.095327394905452
+prostate,Epithelial cell,LATS1,1.1222463,10.03337233996446
+esophagusmucosa,Epithelial cell,LATS1,1.1365287,9.981153957668887
+prostate,Fibroblast,LATS1,1.1428572,9.80735551663748
+heart,Immune (lymphocyte),LATS1,1.060606,9.455587392550145
+skin,Immune (lymphocyte),LATS1,1.1428572,9.333333333333334
+prostate,Muscle,LATS1,1.1407768,9.184128399465004
+esophagusmuscularis,Muscle,LATS1,1.117827,8.790100208487457
+prostate,Immune (myeloid),LATS1,1.0888889,8.754863813229571
+heart,Glia,LATS1,1.1538461,8.724832214765101
+breast,Adipocyte,LATS1,1.1059602,8.574673480976717
+esophagusmucosa,Fibroblast,LATS1,1.1355932,8.383658969804618
+esophagusmuscularis,Immune (myeloid),LATS1,1.0728745,8.336145798177522
+esophagusmuscularis,Fibroblast,LATS1,1.0977354,8.060332404649822
+skeletalmuscle,Immune (myeloid),LATS1,1.0344827,7.869742198100408
+skin,Immune (myeloid),LATS1,1.0714285,7.82122905027933
+esophagusmucosa,Glia,LATS1,1.0,7.6923076923076925
+esophagusmucosa,Endothelial cell,LATS1,1.1066283,7.41769987174006
+lung,Muscle,LATS1,1.0833334,7.361963190184049
+heart,Endothelial cell,LATS1,1.0980393,7.347740667976424
+breast,Muscle,LATS1,1.0,7.236842105263158
+lung,Fibroblast,LATS1,1.0566038,7.181571815718158
+esophagusmuscularis,Glia,LATS1,1.0441177,7.010309278350515
+prostate,Endothelial cell,LATS1,1.0757576,7.006369426751593
+skeletalmuscle,Immune (lymphocyte),LATS1,1.1428572,7.000000000000001
+esophagusmucosa,Muscle,LATS1,1.0857143,6.986027944111776
+breast,Epithelial cell,LATS1,1.0810126,6.81151922745301
+esophagusmuscularis,Endothelial cell,LATS1,1.0759076,6.7921990585070615
+breast,Immune (myeloid),LATS1,1.0833334,6.70391061452514
+prostate,Immune (lymphocyte),LATS1,1.0909091,6.451612903225806
+skeletalmuscle,Adipocyte,LATS1,1.1,6.289308176100629
+breast,Fibroblast,LATS1,1.0784314,6.227106227106227
+lung,Endothelial cell,LATS1,1.0654762,6.117989803350328
+lung,Immune (lymphocyte),LATS1,1.0465117,5.931034482758621
+skin,Muscle,LATS1,1.0,5.913978494623656
+skin,Melanocyte,LATS1,1.0,5.88235294117647
+skin,Fibroblast,LATS1,1.0,5.671077504725898
+breast,Endothelial cell,LATS1,1.0625,5.448354143019296
+skeletalmuscle,Muscle,LATS1,1.0885246,5.405165920871916
+skeletalmuscle,Fibroblast,LATS1,1.0643086,5.232166890982503
+skin,Epithelial cell (keratinocyte),LATS1,1.049505,5.187467899332306
+skin,Epithelial cell,LATS1,1.032258,5.149501661129568
+skin,Other,LATS1,1.1363636,4.867256637168142
+skin,Adipocyte,LATS1,1.0,4.838709677419355
+esophagusmuscularis,Immune (lymphocyte),LATS1,1.0714285,4.651162790697675
+skin,Endothelial cell,LATS1,1.1489362,4.594330400782014
+skeletalmuscle,Endothelial cell,LATS1,1.0333333,4.507888805409467
+skeletalmuscle,Glia,LATS1,0.0,0.0

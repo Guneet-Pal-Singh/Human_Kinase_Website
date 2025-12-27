@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (ciliated),AK8,0.89851284
+Epithelial cell (alveolar type I),AK8,0.1141784
+Immune (alveolar macrophage),AK8,0.11342964
+Satellite cell,AK8,0.101977915
+Epithelial cell (alveolar type II),AK8,0.09454536
+Sebaceous gland cell,AK8,0.08397024
+Melanocyte,AK8,0.07727569
+Epithelial cell (mature keratinocyte),AK8,0.07638537
+Immune (Langerhans),AK8,0.07452027
+Sweat gland cell,AK8,0.07154731
+Myocyte (NMJ-rich),AK8,0.07088252
+Neuronal,AK8,0.063769475
+Epithelial cell (club),AK8,0.06099552
+Epithelial cell (suprabasal),AK8,0.05978492
+Neuroendocrine,AK8,0.056630272
+Myocyte (smooth muscle),AK8,0.056361534
+ICCs,AK8,0.05488547
+Epithelial cell (luminal),AK8,0.054812122
+Myofibroblast,AK8,0.054762285
+Epithelial cell (cornified keratinocyte),AK8,0.05236473
+Fibroblast,AK8,0.05227268
+Mucous cell,AK8,0.051042285
+Myocyte (cardiac),AK8,0.05028178
+Epithelial cell (suprabasal keratinocyte),AK8,0.04495286
+Schwann cell,AK8,0.04445799
+Immune (B cell),AK8,0.044021502
+Adipocyte,AK8,0.04366715
+Pericyte/SMC,AK8,0.04333373
+Epithelial cell (basal),AK8,0.03708172
+Epithelial cell (basal keratinocyte),AK8,0.0362937
+Immune (mast cell),AK8,0.036069788
+Myoepithelial (basal),AK8,0.034903217
+Endothelial cell (vascular),AK8,0.032478284
+Myocyte (sk. muscle),AK8,0.031669237
+Epithelial cell (Hillock),AK8,0.030570658
+Endothelial cell (lymphatic),AK8,0.029336773
+Immune (T cell),AK8,0.02480843
+Immune (DC/macrophage),AK8,0.022685794
+Epithelial cell (squamous),AK8,0.017661218
+Immune (NK cell),AK8,0.01562705
+"Myocyte (sk. muscle, cytoplasmic)",AK8,0.012653351
+"Myocyte (cardiac, cytoplasmic)",AK8,0.008601815
+Immune (DC),AK8,0.0

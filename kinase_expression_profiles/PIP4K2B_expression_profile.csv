@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Myocyte (NMJ-rich),PIP4K2B,0.22514889
+Myofibroblast,PIP4K2B,0.21120402
+Neuronal,PIP4K2B,0.20566186
+Mucous cell,PIP4K2B,0.20420724
+Epithelial cell (Hillock),PIP4K2B,0.1743212
+Epithelial cell (basal),PIP4K2B,0.16383421
+Immune (Langerhans),PIP4K2B,0.16167441
+Melanocyte,PIP4K2B,0.15689085
+Endothelial cell (lymphatic),PIP4K2B,0.15025087
+Epithelial cell (club),PIP4K2B,0.14970882
+Epithelial cell (luminal),PIP4K2B,0.13943815
+Immune (alveolar macrophage),PIP4K2B,0.13922438
+Myocyte (cardiac),PIP4K2B,0.13625254
+Epithelial cell (ciliated),PIP4K2B,0.13433999
+"Myocyte (cardiac, cytoplasmic)",PIP4K2B,0.13267763
+Myoepithelial (basal),PIP4K2B,0.13013564
+Epithelial cell (suprabasal),PIP4K2B,0.12832367
+Adipocyte,PIP4K2B,0.12801746
+Immune (B cell),PIP4K2B,0.12371964
+Epithelial cell (alveolar type I),PIP4K2B,0.119607344
+Pericyte/SMC,PIP4K2B,0.11841914
+Epithelial cell (alveolar type II),PIP4K2B,0.11804345
+Neuroendocrine,PIP4K2B,0.116658695
+"Myocyte (sk. muscle, cytoplasmic)",PIP4K2B,0.11450633
+Endothelial cell (vascular),PIP4K2B,0.11434381
+Sweat gland cell,PIP4K2B,0.112932436
+Immune (DC/macrophage),PIP4K2B,0.10025039
+Epithelial cell (basal keratinocyte),PIP4K2B,0.0981828
+ICCs,PIP4K2B,0.095143944
+Fibroblast,PIP4K2B,0.09293227
+Myocyte (smooth muscle),PIP4K2B,0.0923781
+Epithelial cell (suprabasal keratinocyte),PIP4K2B,0.08497346
+Immune (T cell),PIP4K2B,0.08355269
+Satellite cell,PIP4K2B,0.08167977
+Schwann cell,PIP4K2B,0.08143338
+Immune (mast cell),PIP4K2B,0.07474057
+Myocyte (sk. muscle),PIP4K2B,0.062506855
+Sebaceous gland cell,PIP4K2B,0.059744164
+Epithelial cell (cornified keratinocyte),PIP4K2B,0.057388593
+Epithelial cell (squamous),PIP4K2B,0.057318185
+Immune (NK cell),PIP4K2B,0.054803345
+Immune (DC),PIP4K2B,0.05448724
+Epithelial cell (mature keratinocyte),PIP4K2B,0.006466652

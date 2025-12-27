@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (Langerhans),CIITA,1.3505046
+Immune (DC),CIITA,1.2914765
+Immune (alveolar macrophage),CIITA,0.65369475
+Immune (B cell),CIITA,0.45336813
+Immune (DC/macrophage),CIITA,0.37392217
+Myocyte (NMJ-rich),CIITA,0.24367245
+Myocyte (sk. muscle),CIITA,0.17163189
+Mucous cell,CIITA,0.14632922
+Epithelial cell (ciliated),CIITA,0.13717502
+Endothelial cell (vascular),CIITA,0.11839125
+Epithelial cell (alveolar type II),CIITA,0.110501945
+Epithelial cell (club),CIITA,0.07868669
+Myofibroblast,CIITA,0.061265867
+Epithelial cell (suprabasal),CIITA,0.054769903
+Immune (T cell),CIITA,0.04999508
+Epithelial cell (basal),CIITA,0.04816671
+Neuronal,CIITA,0.04330386
+Myocyte (cardiac),CIITA,0.04303396
+"Myocyte (sk. muscle, cytoplasmic)",CIITA,0.041779615
+Immune (mast cell),CIITA,0.041244213
+Epithelial cell (luminal),CIITA,0.035233717
+Epithelial cell (Hillock),CIITA,0.03451202
+Epithelial cell (squamous),CIITA,0.03242834
+Schwann cell,CIITA,0.027857076
+Epithelial cell (alveolar type I),CIITA,0.027843244
+Pericyte/SMC,CIITA,0.023294972
+Immune (NK cell),CIITA,0.023188863
+Fibroblast,CIITA,0.018969458
+Sweat gland cell,CIITA,0.01891701
+Myoepithelial (basal),CIITA,0.018562036
+Myocyte (smooth muscle),CIITA,0.01744714
+Satellite cell,CIITA,0.016232586
+Adipocyte,CIITA,0.014677413
+"Myocyte (cardiac, cytoplasmic)",CIITA,0.014597397
+Endothelial cell (lymphatic),CIITA,0.014166768
+Melanocyte,CIITA,0.013200832
+Epithelial cell (basal keratinocyte),CIITA,0.0056067323
+Epithelial cell (cornified keratinocyte),CIITA,0.0
+ICCs,CIITA,0.0
+Epithelial cell (suprabasal keratinocyte),CIITA,0.0
+Epithelial cell (mature keratinocyte),CIITA,0.0
+Neuroendocrine,CIITA,0.0
+Sebaceous gland cell,CIITA,0.0

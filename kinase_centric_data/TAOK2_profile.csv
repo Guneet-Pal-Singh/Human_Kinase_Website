@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmucosa,Endothelial cell,TAOK2,1.1195652,13.766566908935443
+esophagusmucosa,Stromal,TAOK2,1.1531532,11.223458038422647
+breast,Endothelial cell,TAOK2,1.1145834,10.896708286038592
+skin,Endothelial cell,TAOK2,1.0659341,8.895405669599219
+prostate,Endothelial cell,TAOK2,1.0530974,7.997169143665959
+esophagusmucosa,Epithelial cell,TAOK2,1.0685072,7.089011307625398
+skin,Immune (lymphocyte),TAOK2,1.0,6.666666666666667
+heart,Endothelial cell,TAOK2,1.0588236,5.3438113948919455
+skin,Other,TAOK2,1.1904762,4.646017699115045
+esophagusmuscularis,Endothelial cell,TAOK2,1.1067961,4.617798699843084
+esophagusmucosa,Immune (myeloid),TAOK2,1.0,4.57796852646638
+prostate,Muscle,TAOK2,1.069307,4.502897904592064
+prostate,Glia,TAOK2,1.0,4.477611940298507
+skeletalmuscle,Endothelial cell,TAOK2,1.0363636,4.132231404958678
+esophagusmucosa,Immune (lymphocyte),TAOK2,1.0547945,4.015401540154016
+esophagusmuscularis,Neuron,TAOK2,1.0,4.0
+esophagusmucosa,Muscle,TAOK2,1.15,3.992015968063872
+breast,Muscle,TAOK2,1.0,3.947368421052632
+lung,Endothelial cell,TAOK2,1.037037,3.932993445010925
+lung,Epithelial cell,TAOK2,1.027027,3.688473520249221
+prostate,Epithelial cell,TAOK2,1.0535077,3.644952975339141
+esophagusmucosa,Fibroblast,TAOK2,1.0208334,3.4103019538188275
+prostate,Immune (myeloid),TAOK2,1.0,2.723735408560312
+skin,Epithelial cell (keratinocyte),TAOK2,1.0,2.722136620441705
+heart,Adipocyte,TAOK2,1.0,2.5906735751295336
+heart,Muscle,TAOK2,1.0357143,2.553050397877984
+prostate,Fibroblast,TAOK2,1.0689656,2.539404553415061
+skeletalmuscle,Adipocyte,TAOK2,1.0,2.515723270440252
+lung,Immune (myeloid),TAOK2,1.0544218,2.410231185440236
+skin,Epithelial cell,TAOK2,1.0,2.3255813953488373
+skin,Immune (myeloid),TAOK2,1.0,2.23463687150838
+breast,Immune (myeloid),TAOK2,1.0,2.23463687150838
+esophagusmuscularis,Muscle,TAOK2,1.0241692,2.226108009953595
+heart,Fibroblast,TAOK2,1.0153061,2.1104770108754174
+lung,Fibroblast,TAOK2,1.0,1.8970189701897016
+skeletalmuscle,Immune (myeloid),TAOK2,1.0,1.7639077340569878
+heart,Immune (myeloid),TAOK2,1.018018,1.7346460384435067
+esophagusmuscularis,Immune (lymphocyte),TAOK2,1.0,1.6611295681063123
+skin,Adipocyte,TAOK2,1.0,1.6129032258064515
+skin,Muscle,TAOK2,1.0,1.6129032258064515
+esophagusmucosa,Glia,TAOK2,1.0,1.5384615384615383
+lung,Immune (lymphocyte),TAOK2,1.0,1.5172413793103448
+prostate,Immune (lymphocyte),TAOK2,1.0,1.466275659824047
+skeletalmuscle,Fibroblast,TAOK2,1.0238096,1.4131897711978465
+esophagusmuscularis,Fibroblast,TAOK2,1.0069444,1.383418195792103
+heart,Immune (lymphocyte),TAOK2,1.0,1.2893982808022924
+breast,Adipocyte,TAOK2,1.0454545,1.2492901760363428
+esophagusmuscularis,Immune (myeloid),TAOK2,1.0,1.2487343908201147
+breast,Epithelial cell,TAOK2,1.0714285,1.2071046732195203
+esophagusmuscularis,Glia,TAOK2,1.0,1.134020618556701
+breast,Fibroblast,TAOK2,1.0,1.098901098901099
+heart,Glia,TAOK2,1.0,0.6711409395973155
+lung,Muscle,TAOK2,1.0,0.6134969325153374
+skin,Fibroblast,TAOK2,1.0,0.5671077504725899
+skeletalmuscle,Muscle,TAOK2,1.0120482,0.3677285011740729
+esophagusmuscularis,Adipocyte,TAOK2,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),TAOK2,0.0,0.0
+skeletalmuscle,Glia,TAOK2,0.0,0.0
+skin,Melanocyte,TAOK2,0.0,0.0

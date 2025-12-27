@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Myofibroblast,PNCK,0.39569443
+Myocyte (smooth muscle),PNCK,0.23762225
+Neuronal,PNCK,0.11928897
+Myocyte (cardiac),PNCK,0.06994859
+Immune (Langerhans),PNCK,0.06648867
+ICCs,PNCK,0.036045298
+Immune (mast cell),PNCK,0.03473315
+Melanocyte,PNCK,0.033360485
+Myocyte (sk. muscle),PNCK,0.030297527
+Myoepithelial (basal),PNCK,0.0230929
+Immune (alveolar macrophage),PNCK,0.020650564
+Epithelial cell (ciliated),PNCK,0.019553063
+Schwann cell,PNCK,0.019256964
+Epithelial cell (basal),PNCK,0.01648306
+Epithelial cell (Hillock),PNCK,0.01624874
+Pericyte/SMC,PNCK,0.015750049
+Epithelial cell (alveolar type II),PNCK,0.015258161
+"Myocyte (cardiac, cytoplasmic)",PNCK,0.014886965
+Epithelial cell (squamous),PNCK,0.014735124
+Mucous cell,PNCK,0.012092189
+Epithelial cell (club),PNCK,0.01195711
+"Myocyte (sk. muscle, cytoplasmic)",PNCK,0.011314796
+Adipocyte,PNCK,0.010425322
+Sweat gland cell,PNCK,0.009503008
+Epithelial cell (luminal),PNCK,0.009381868
+Epithelial cell (alveolar type I),PNCK,0.008446404
+Sebaceous gland cell,PNCK,0.008212658
+Epithelial cell (suprabasal),PNCK,0.005007346
+Epithelial cell (basal keratinocyte),PNCK,0.0045500137
+Fibroblast,PNCK,0.004120833
+Immune (DC/macrophage),PNCK,0.003987234
+Immune (T cell),PNCK,0.0034709028
+Endothelial cell (vascular),PNCK,0.0033489119
+Endothelial cell (lymphatic),PNCK,0.0028622178
+Epithelial cell (cornified keratinocyte),PNCK,0.0
+Immune (DC),PNCK,0.0
+Immune (NK cell),PNCK,0.0
+Epithelial cell (suprabasal keratinocyte),PNCK,0.0
+Immune (B cell),PNCK,0.0
+Epithelial cell (mature keratinocyte),PNCK,0.0
+Myocyte (NMJ-rich),PNCK,0.0
+Neuroendocrine,PNCK,0.0
+Satellite cell,PNCK,0.0

@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Immune (lymphocyte),HKDC1,1.1428572,6.976744186046512
+lung,Epithelial cell,HKDC1,1.1261262,6.915887850467289
+skeletalmuscle,Immune (lymphocyte),HKDC1,1.3333334,3.0
+skeletalmuscle,Glia,HKDC1,1.0,2.857142857142857
+heart,Immune (lymphocyte),HKDC1,1.1333333,2.148997134670487
+lung,Immune (myeloid),HKDC1,1.048387,2.0331201836366617
+breast,Muscle,HKDC1,1.0,1.973684210526316
+lung,Immune (lymphocyte),HKDC1,1.0,1.9310344827586208
+lung,Muscle,HKDC1,1.0,1.8404907975460123
+esophagusmucosa,Immune (lymphocyte),HKDC1,1.1034483,1.5951595159515952
+skin,Melanocyte,HKDC1,1.0,1.4705882352941175
+lung,Endothelial cell,HKDC1,1.051282,1.4202476329206115
+lung,Fibroblast,HKDC1,1.0,1.3550135501355014
+skin,Other,HKDC1,1.0,1.327433628318584
+esophagusmuscularis,Adipocyte,HKDC1,1.0,1.1428571428571428
+skeletalmuscle,Endothelial cell,HKDC1,1.0,1.1269722013523666
+prostate,Immune (lymphocyte),HKDC1,1.0,1.0263929618768328
+esophagusmucosa,Stromal,HKDC1,1.0,1.0111223458038423
+skin,Epithelial cell,HKDC1,1.0,0.9966777408637874
+prostate,Endothelial cell,HKDC1,1.0,0.813871196036801
+skin,Fibroblast,HKDC1,1.0,0.7561436672967864
+heart,Muscle,HKDC1,1.0113636,0.7294429708222812
+esophagusmuscularis,Glia,HKDC1,1.0,0.6185567010309279
+esophagusmuscularis,Fibroblast,HKDC1,1.0,0.6148525314631569
+breast,Fibroblast,HKDC1,1.0,0.6105006105006106
+skeletalmuscle,Muscle,HKDC1,1.007353,0.6025430862611316
+prostate,Immune (myeloid),HKDC1,1.0,0.5836575875486382
+breast,Epithelial cell,HKDC1,1.0,0.5690636316606311
+breast,Immune (myeloid),HKDC1,1.0,0.5586592178770949
+skin,Immune (myeloid),HKDC1,1.0,0.5586592178770949
+skeletalmuscle,Fibroblast,HKDC1,1.0,0.5551816958277255
+skeletalmuscle,Immune (myeloid),HKDC1,1.0,0.5427408412483039
+esophagusmuscularis,Muscle,HKDC1,1.0,0.5380321474208084
+prostate,Muscle,HKDC1,1.0,0.5349977708426215
+prostate,Epithelial cell,HKDC1,1.0166667,0.5200884150305553
+esophagusmuscularis,Endothelial cell,HKDC1,1.0,0.4707464694014795
+heart,Fibroblast,HKDC1,1.0,0.4307095940562075
+esophagusmuscularis,Immune (myeloid),HKDC1,1.0,0.4049949375632805
+esophagusmucosa,Endothelial cell,HKDC1,1.0555556,0.3847798204360838
+skin,Epithelial cell (keratinocyte),HKDC1,1.0,0.3595274781715459
+esophagusmucosa,Immune (myeloid),HKDC1,1.0,0.3576537911301859
+heart,Immune (myeloid),HKDC1,1.0,0.3438037193311455
+heart,Glia,HKDC1,1.0,0.3355704697986577
+esophagusmucosa,Fibroblast,HKDC1,1.0,0.3197158081705151
+heart,Endothelial cell,HKDC1,1.0,0.3143418467583497
+esophagusmucosa,Epithelial cell,HKDC1,1.0,0.2971875906059727
+prostate,Fibroblast,HKDC1,1.0,0.2626970227670753
+breast,Adipocyte,HKDC1,1.0,0.2271436683702442
+esophagusmucosa,Muscle,HKDC1,1.0,0.1996007984031935
+breast,Endothelial cell,HKDC1,1.0,0.1135073779795686
+skin,Endothelial cell,HKDC1,1.0,0.0977517106549364
+esophagusmuscularis,Neuron,HKDC1,0.0,0.0
+heart,Adipocyte,HKDC1,0.0,0.0
+esophagusmucosa,Glia,HKDC1,0.0,0.0
+prostate,Glia,HKDC1,0.0,0.0
+skeletalmuscle,Adipocyte,HKDC1,0.0,0.0
+skin,Adipocyte,HKDC1,0.0,0.0
+skin,Immune (lymphocyte),HKDC1,0.0,0.0
+skin,Muscle,HKDC1,0.0,0.0

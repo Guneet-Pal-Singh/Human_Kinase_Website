@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Neuronal,DOLK,0.16358826
+Epithelial cell (cornified keratinocyte),DOLK,0.060307875
+Epithelial cell (luminal),DOLK,0.036756504
+"Myocyte (cardiac, cytoplasmic)",DOLK,0.03015909
+Sweat gland cell,DOLK,0.02747291
+Neuroendocrine,DOLK,0.025840117
+Mucous cell,DOLK,0.021378549
+Epithelial cell (club),DOLK,0.021150615
+Schwann cell,DOLK,0.021052144
+Myocyte (smooth muscle),DOLK,0.020887218
+Epithelial cell (ciliated),DOLK,0.01679401
+Endothelial cell (vascular),DOLK,0.015804144
+Melanocyte,DOLK,0.015397186
+Adipocyte,DOLK,0.015123038
+Satellite cell,DOLK,0.015010027
+Endothelial cell (lymphatic),DOLK,0.014910797
+Fibroblast,DOLK,0.01430113
+Epithelial cell (Hillock),DOLK,0.013546053
+"Myocyte (sk. muscle, cytoplasmic)",DOLK,0.011342781
+ICCs,DOLK,0.011162919
+Epithelial cell (basal),DOLK,0.010296063
+Myocyte (cardiac),DOLK,0.010014111
+Myofibroblast,DOLK,0.009952111
+Immune (DC/macrophage),DOLK,0.008344326
+Pericyte/SMC,DOLK,0.007055506
+Immune (alveolar macrophage),DOLK,0.0070395893
+Immune (mast cell),DOLK,0.006039753
+Epithelial cell (suprabasal),DOLK,0.0057674176
+Myocyte (sk. muscle),DOLK,0.003721544
+Epithelial cell (squamous),DOLK,0.0036275373
+Epithelial cell (alveolar type I),DOLK,0.0035853353
+Epithelial cell (alveolar type II),DOLK,0.0029590204
+Epithelial cell (basal keratinocyte),DOLK,0.0
+Immune (B cell),DOLK,0.0
+Epithelial cell (mature keratinocyte),DOLK,0.0
+Immune (T cell),DOLK,0.0
+Immune (DC),DOLK,0.0
+Immune (Langerhans),DOLK,0.0
+Immune (NK cell),DOLK,0.0
+Epithelial cell (suprabasal keratinocyte),DOLK,0.0
+Myocyte (NMJ-rich),DOLK,0.0
+Myoepithelial (basal),DOLK,0.0
+Sebaceous gland cell,DOLK,0.0

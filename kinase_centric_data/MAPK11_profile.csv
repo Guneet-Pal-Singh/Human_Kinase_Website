@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Neuron,MAPK11,1.3333334,24.0
+breast,Endothelial cell,MAPK11,1.279661,13.393870601589104
+esophagusmucosa,Endothelial cell,MAPK11,1.1064639,11.244121419410003
+prostate,Endothelial cell,MAPK11,1.1310345,10.261854210898797
+skin,Endothelial cell,MAPK11,1.050633,7.722385141739981
+esophagusmuscularis,Endothelial cell,MAPK11,1.0326531,5.492042143017261
+breast,Muscle,MAPK11,2.0,4.605263157894736
+heart,Endothelial cell,MAPK11,1.0465117,3.942370661427636
+breast,Adipocyte,MAPK11,1.1044776,3.8046564452015903
+heart,Adipocyte,MAPK11,1.0,3.6269430051813463
+esophagusmucosa,Stromal,MAPK11,1.0588236,3.4378159757330637
+skeletalmuscle,Adipocyte,MAPK11,1.0,3.1446540880503147
+prostate,Muscle,MAPK11,1.1212121,2.942487739634418
+lung,Endothelial cell,MAPK11,1.0,2.7676620538965766
+skin,Immune (lymphocyte),MAPK11,1.0,2.666666666666667
+esophagusmuscularis,Muscle,MAPK11,1.0846995,2.4614970744501985
+skeletalmuscle,Endothelial cell,MAPK11,1.09375,2.404207362885049
+skin,Epithelial cell,MAPK11,1.0714285,2.3255813953488373
+esophagusmuscularis,Adipocyte,MAPK11,1.0,2.2857142857142856
+prostate,Epithelial cell,MAPK11,1.1064639,2.279720885883933
+esophagusmucosa,Immune (lymphocyte),MAPK11,1.03125,1.76017601760176
+esophagusmucosa,Epithelial cell,MAPK11,1.0427351,1.696143809799942
+skin,Adipocyte,MAPK11,1.0,1.6129032258064515
+skin,Muscle,MAPK11,1.0,1.6129032258064515
+skin,Other,MAPK11,1.0,1.5486725663716814
+prostate,Glia,MAPK11,1.0,1.4925373134328357
+esophagusmucosa,Immune (myeloid),MAPK11,1.2105263,1.3590844062947067
+prostate,Fibroblast,MAPK11,1.0,0.7880910683012259
+skin,Epithelial cell (keratinocyte),MAPK11,1.0,0.667693888032871
+esophagusmuscularis,Glia,MAPK11,1.0,0.6185567010309279
+lung,Fibroblast,MAPK11,1.0,0.5420054200542005
+esophagusmucosa,Fibroblast,MAPK11,1.0,0.497335701598579
+breast,Fibroblast,MAPK11,1.0,0.4884004884004884
+heart,Muscle,MAPK11,1.0526316,0.4724801061007957
+prostate,Immune (lymphocyte),MAPK11,1.0,0.4398826979472141
+esophagusmucosa,Muscle,MAPK11,1.0,0.3992015968063871
+prostate,Immune (myeloid),MAPK11,1.0,0.3891050583657587
+heart,Fibroblast,MAPK11,1.0,0.3768708947991817
+skin,Melanocyte,MAPK11,2.0,0.3676470588235294
+esophagusmuscularis,Immune (lymphocyte),MAPK11,1.0,0.3322259136212624
+esophagusmuscularis,Fibroblast,MAPK11,1.060606,0.3170333365356902
+breast,Epithelial cell,MAPK11,1.0588236,0.2931539920675978
+breast,Immune (myeloid),MAPK11,2.0,0.2793296089385474
+esophagusmuscularis,Immune (myeloid),MAPK11,1.0,0.2699966250421869
+lung,Epithelial cell,MAPK11,1.0,0.1910695742471443
+heart,Immune (myeloid),MAPK11,1.0,0.1250195343022347
+skeletalmuscle,Fibroblast,MAPK11,1.0,0.0672947510094212
+skeletalmuscle,Muscle,MAPK11,1.0,0.0575960303043728
+lung,Immune (myeloid),MAPK11,1.0,0.0327922610263977
+esophagusmucosa,Glia,MAPK11,0.0,0.0
+heart,Glia,MAPK11,0.0,0.0
+heart,Immune (lymphocyte),MAPK11,0.0,0.0
+lung,Muscle,MAPK11,0.0,0.0
+lung,Immune (lymphocyte),MAPK11,0.0,0.0
+skeletalmuscle,Glia,MAPK11,0.0,0.0
+skeletalmuscle,Immune (myeloid),MAPK11,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),MAPK11,0.0,0.0
+skin,Fibroblast,MAPK11,0.0,0.0
+skin,Immune (myeloid),MAPK11,0.0,0.0

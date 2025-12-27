@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (DC/macrophage),EPHB2,0.12600853
+Endothelial cell (lymphatic),EPHB2,0.123440854
+Immune (alveolar macrophage),EPHB2,0.11741513
+Adipocyte,EPHB2,0.11373501
+Sebaceous gland cell,EPHB2,0.097054794
+Epithelial cell (alveolar type I),EPHB2,0.0943643
+Schwann cell,EPHB2,0.088629745
+Epithelial cell (alveolar type II),EPHB2,0.07522337
+Epithelial cell (club),EPHB2,0.07462528
+Epithelial cell (ciliated),EPHB2,0.07462071
+Neuroendocrine,EPHB2,0.065262616
+Neuronal,EPHB2,0.06475707
+Epithelial cell (Hillock),EPHB2,0.0643229
+Myocyte (cardiac),EPHB2,0.061455905
+Myoepithelial (basal),EPHB2,0.053945262
+Epithelial cell (basal),EPHB2,0.05169254
+Fibroblast,EPHB2,0.05096459
+Immune (DC),EPHB2,0.047390383
+Mucous cell,EPHB2,0.046349183
+ICCs,EPHB2,0.0453674
+Satellite cell,EPHB2,0.043976296
+Myocyte (sk. muscle),EPHB2,0.04114209
+Immune (NK cell),EPHB2,0.04085156
+Endothelial cell (vascular),EPHB2,0.037970327
+Epithelial cell (luminal),EPHB2,0.034380533
+Myocyte (smooth muscle),EPHB2,0.03345342
+Epithelial cell (basal keratinocyte),EPHB2,0.03222906
+Melanocyte,EPHB2,0.030235888
+Pericyte/SMC,EPHB2,0.028642133
+Myofibroblast,EPHB2,0.026493726
+Immune (B cell),EPHB2,0.024368493
+Immune (mast cell),EPHB2,0.020719394
+Epithelial cell (suprabasal),EPHB2,0.019716274
+Immune (T cell),EPHB2,0.019174995
+Epithelial cell (suprabasal keratinocyte),EPHB2,0.019156665
+Epithelial cell (mature keratinocyte),EPHB2,0.01711475
+Sweat gland cell,EPHB2,0.01598615
+Epithelial cell (squamous),EPHB2,0.015816733
+"Myocyte (sk. muscle, cytoplasmic)",EPHB2,0.009929394
+"Myocyte (cardiac, cytoplasmic)",EPHB2,0.008056862
+Epithelial cell (cornified keratinocyte),EPHB2,0.0
+Immune (Langerhans),EPHB2,0.0
+Myocyte (NMJ-rich),EPHB2,0.0

@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Adipocyte,STK35,1.3157895,10.857142857142858
+heart,Muscle,STK35,1.1825193,9.67340848806366
+esophagusmucosa,Epithelial cell,STK35,1.1778115,9.538996810669758
+esophagusmucosa,Stromal,STK35,1.0909091,8.897876643073811
+esophagusmuscularis,Neuron,STK35,1.0,8.0
+breast,Adipocyte,STK35,1.132353,7.722884724588303
+heart,Adipocyte,STK35,1.0,7.253886010362693
+lung,Immune (myeloid),STK35,1.0762712,5.8042302016724046
+skin,Muscle,STK35,1.1,5.376344086021505
+skeletalmuscle,Adipocyte,STK35,1.1428572,4.40251572327044
+skin,Epithelial cell (keratinocyte),STK35,1.0121951,4.21160760143811
+skin,Melanocyte,STK35,1.0,3.6764705882352944
+lung,Epithelial cell,STK35,1.0266204,3.588785046728972
+skin,Other,STK35,1.0625,3.5398230088495577
+esophagusmucosa,Endothelial cell,STK35,1.0429448,3.4843950406156474
+skin,Adipocyte,STK35,1.0,3.225806451612903
+esophagusmucosa,Immune (lymphocyte),STK35,1.0175439,3.1353135313531357
+prostate,Muscle,STK35,1.0144928,3.0762371823450736
+esophagusmucosa,Muscle,STK35,1.0666667,2.9940119760479043
+esophagusmucosa,Fibroblast,STK35,1.0357143,2.984014209591474
+lung,Fibroblast,STK35,1.0227273,2.9810298102981028
+prostate,Epithelial cell,STK35,1.0517751,2.9298314046721274
+esophagusmuscularis,Fibroblast,STK35,1.0702341,2.872514170429436
+skin,Endothelial cell,STK35,1.0,2.7370478983382207
+heart,Glia,STK35,1.0,2.684563758389262
+esophagusmuscularis,Muscle,STK35,1.0394737,2.55565270024884
+esophagusmucosa,Immune (myeloid),STK35,1.1142857,2.503576537911302
+skin,Epithelial cell,STK35,1.0666667,2.491694352159469
+lung,Endothelial cell,STK35,1.0,2.4763292061179896
+heart,Fibroblast,STK35,1.0446428,2.4119737267147627
+heart,Endothelial cell,STK35,1.0284091,2.3051735428945648
+skeletalmuscle,Muscle,STK35,1.0487288,2.091178946435692
+esophagusmuscularis,Endothelial cell,STK35,1.0326087,2.062317865949338
+breast,Muscle,STK35,1.0,1.973684210526316
+esophagusmuscularis,Immune (myeloid),STK35,1.0377358,1.7887276409044883
+prostate,Endothelial cell,STK35,1.0425532,1.6631280962491155
+prostate,Fibroblast,STK35,1.0,1.5761821366024518
+prostate,Immune (lymphocyte),STK35,1.0,1.466275659824047
+prostate,Immune (myeloid),STK35,1.0,1.4591439688715953
+breast,Epithelial cell,STK35,1.0,1.4140369029142956
+breast,Endothelial cell,STK35,1.0,1.362088535754824
+skin,Immune (lymphocyte),STK35,1.0,1.3333333333333337
+heart,Immune (myeloid),STK35,1.0,1.2970776683856853
+skeletalmuscle,Endothelial cell,STK35,1.0,1.2772351615326822
+lung,Immune (lymphocyte),STK35,1.2222222,1.2413793103448276
+breast,Fibroblast,STK35,1.1,1.221001221001221
+skeletalmuscle,Fibroblast,STK35,1.0,1.177658142664872
+esophagusmuscularis,Glia,STK35,1.0,1.134020618556701
+skin,Immune (myeloid),STK35,1.0,1.11731843575419
+heart,Immune (lymphocyte),STK35,1.0,1.002865329512894
+skeletalmuscle,Immune (lymphocyte),STK35,1.0,1.0
+skeletalmuscle,Immune (myeloid),STK35,1.0,0.8141112618724559
+skin,Fibroblast,STK35,1.0,0.7561436672967864
+esophagusmuscularis,Immune (lymphocyte),STK35,1.0,0.6644518272425249
+lung,Muscle,STK35,1.0,0.6134969325153374
+breast,Immune (myeloid),STK35,1.0,0.2793296089385474
+esophagusmucosa,Glia,STK35,0.0,0.0
+prostate,Glia,STK35,0.0,0.0
+skeletalmuscle,Glia,STK35,0.0,0.0

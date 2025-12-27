@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+prostate,Epithelial cell,ENPP3,1.5856209,6.6311272916395785
+breast,Adipocyte,ENPP3,1.1216216,4.202157864849517
+lung,Immune (myeloid),ENPP3,1.0809717,4.049844236760125
+esophagusmuscularis,Immune (myeloid),ENPP3,1.254717,3.577455281808977
+breast,Epithelial cell,ENPP3,1.0862944,3.397137437489222
+esophagusmucosa,Endothelial cell,ENPP3,1.18,3.206498503634032
+esophagusmuscularis,Endothelial cell,ENPP3,1.1832061,2.936561309123515
+skeletalmuscle,Glia,ENPP3,1.0,2.857142857142857
+skeletalmuscle,Adipocyte,ENPP3,1.0,2.515723270440252
+skin,Endothelial cell,ENPP3,1.2272727,2.1505376344086025
+lung,Endothelial cell,ENPP3,1.0877193,2.0757465404224327
+heart,Adipocyte,ENPP3,1.25,2.072538860103627
+breast,Endothelial cell,ENPP3,1.0555556,2.0431328036322363
+breast,Muscle,ENPP3,1.3333334,1.973684210526316
+lung,Immune (lymphocyte),ENPP3,1.0769231,1.793103448275862
+esophagusmuscularis,Adipocyte,ENPP3,1.0,1.7142857142857144
+prostate,Endothelial cell,ENPP3,1.0833334,1.6985138004246283
+skin,Immune (myeloid),ENPP3,1.0,1.675977653631285
+esophagusmucosa,Stromal,ENPP3,1.0625,1.6177957532861478
+lung,Epithelial cell,ENPP3,1.0155039,1.6074766355140184
+skeletalmuscle,Endothelial cell,ENPP3,1.1428572,1.5777610818933134
+lung,Fibroblast,ENPP3,1.05,1.3550135501355014
+breast,Fibroblast,ENPP3,1.0,1.3431013431013432
+esophagusmuscularis,Glia,ENPP3,1.0769231,1.3402061855670102
+esophagusmucosa,Epithelial cell,ENPP3,1.0271739,1.3337199188170483
+lung,Muscle,ENPP3,1.0,1.2269938650306749
+heart,Endothelial cell,ENPP3,1.1195652,1.2049770792403405
+prostate,Muscle,ENPP3,1.2307693,1.15916183682568
+esophagusmucosa,Immune (myeloid),ENPP3,1.125,1.144492131616595
+prostate,Fibroblast,ENPP3,1.2307693,1.138353765323993
+skeletalmuscle,Fibroblast,ENPP3,1.02,0.8411843876177658
+skin,Epithelial cell,ENPP3,1.0,0.8305647840531563
+skeletalmuscle,Immune (myeloid),ENPP3,1.0,0.8141112618724559
+esophagusmucosa,Muscle,ENPP3,1.0,0.7984031936127743
+esophagusmucosa,Fibroblast,ENPP3,1.0454545,0.7815275310834813
+heart,Muscle,ENPP3,1.0549451,0.7543103448275862
+skin,Epithelial cell (keratinocyte),ENPP3,1.0714285,0.7190549563430919
+heart,Immune (lymphocyte),ENPP3,1.2,0.7163323782234957
+heart,Glia,ENPP3,1.0,0.6711409395973155
+esophagusmuscularis,Immune (lymphocyte),ENPP3,1.0,0.6644518272425249
+heart,Fibroblast,ENPP3,1.0327868,0.6568321309357166
+esophagusmuscularis,Fibroblast,ENPP3,1.03125,0.6148525314631569
+esophagusmuscularis,Muscle,ENPP3,1.0581396,0.578384558477369
+skin,Fibroblast,ENPP3,1.0,0.5671077504725899
+skin,Muscle,ENPP3,1.0,0.5376344086021506
+prostate,Immune (myeloid),ENPP3,1.6,0.4863813229571984
+skeletalmuscle,Muscle,ENPP3,1.0,0.4740596340436843
+heart,Immune (myeloid),ENPP3,1.1666666,0.4688232536333802
+prostate,Immune (lymphocyte),ENPP3,1.3333334,0.4398826979472141
+skin,Melanocyte,ENPP3,1.0,0.3676470588235294
+breast,Immune (myeloid),ENPP3,1.0,0.2793296089385474
+esophagusmucosa,Immune (lymphocyte),ENPP3,1.0,0.165016501650165
+esophagusmucosa,Glia,ENPP3,0.0,0.0
+esophagusmuscularis,Neuron,ENPP3,0.0,0.0
+prostate,Glia,ENPP3,0.0,0.0
+skin,Adipocyte,ENPP3,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),ENPP3,0.0,0.0
+skin,Immune (lymphocyte),ENPP3,0.0,0.0
+skin,Other,ENPP3,0.0,0.0

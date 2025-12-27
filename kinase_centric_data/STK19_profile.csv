@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Neuron,STK19,1.0,16.0
+esophagusmucosa,Stromal,STK19,1.1,5.055611729019211
+skin,Other,STK19,1.0909091,4.867256637168142
+esophagusmucosa,Epithelial cell,STK19,1.0606557,4.421571469991302
+esophagusmucosa,Muscle,STK19,1.0,3.992015968063872
+esophagusmuscularis,Muscle,STK19,1.0404412,3.658618602461497
+esophagusmuscularis,Adipocyte,STK19,1.1666666,3.428571428571429
+prostate,Epithelial cell,STK19,1.0612516,3.2548866640662246
+prostate,Muscle,STK19,1.0555556,3.2099866250557287
+skeletalmuscle,Adipocyte,STK19,1.0,3.1446540880503147
+heart,Adipocyte,STK19,1.0,3.1088082901554404
+skin,Epithelial cell (keratinocyte),STK19,1.0344827,2.9789419619928097
+skeletalmuscle,Glia,STK19,1.0,2.857142857142857
+esophagusmucosa,Fibroblast,STK19,1.0519481,2.7353463587921847
+esophagusmucosa,Endothelial cell,STK19,1.031496,2.71483539974348
+prostate,Fibroblast,STK19,1.0,2.714535901926445
+heart,Muscle,STK19,1.0615385,2.693965517241379
+heart,Fibroblast,STK19,1.036,2.6919349628512976
+skin,Muscle,STK19,1.0,2.6881720430107525
+esophagusmuscularis,Fibroblast,STK19,1.0505836,2.46901719665674
+lung,Epithelial cell,STK19,1.0275862,2.409138110072689
+lung,Immune (myeloid),STK19,1.0078125,2.098704705689457
+breast,Epithelial cell,STK19,1.05,2.0693222969477496
+esophagusmuscularis,Glia,STK19,1.0,2.061855670103093
+esophagusmuscularis,Immune (lymphocyte),STK19,1.0,1.9933554817275747
+breast,Muscle,STK19,1.0,1.973684210526316
+prostate,Endothelial cell,STK19,1.0,1.9462137296532205
+heart,Endothelial cell,STK19,1.0068965,1.899148657498363
+breast,Adipocyte,STK19,1.060606,1.8739352640545144
+esophagusmucosa,Immune (lymphocyte),STK19,1.0882353,1.87018701870187
+esophagusmuscularis,Endothelial cell,STK19,1.0361446,1.8605693790629905
+lung,Fibroblast,STK19,1.0,1.7615176151761516
+skin,Immune (myeloid),STK19,1.0,1.675977653631285
+esophagusmucosa,Glia,STK19,1.0,1.5384615384615383
+lung,Immune (lymphocyte),STK19,1.0,1.5172413793103448
+skin,Endothelial cell,STK19,1.0,1.466275659824047
+skeletalmuscle,Fibroblast,STK19,1.0120482,1.3963660834454912
+lung,Endothelial cell,STK19,1.0526316,1.3838310269482883
+skin,Fibroblast,STK19,1.0,1.3232514177693762
+esophagusmucosa,Immune (myeloid),STK19,1.0,1.2875536480686696
+lung,Muscle,STK19,1.0,1.2269938650306749
+heart,Immune (myeloid),STK19,1.0135136,1.1564306922956713
+esophagusmuscularis,Immune (myeloid),STK19,1.0,1.113736078299021
+breast,Endothelial cell,STK19,1.1111112,1.021566401816118
+skeletalmuscle,Immune (lymphocyte),STK19,1.0,1.0
+skin,Epithelial cell,STK19,1.0,0.9966777408637874
+skeletalmuscle,Endothelial cell,STK19,1.0,0.9767092411720512
+prostate,Immune (myeloid),STK19,1.0,0.9727626459143968
+heart,Immune (lymphocyte),STK19,1.0,0.8595988538681949
+skeletalmuscle,Immune (myeloid),STK19,1.0,0.8141112618724559
+skin,Melanocyte,STK19,1.0,0.7352941176470588
+prostate,Immune (lymphocyte),STK19,1.0,0.7331378299120235
+breast,Fibroblast,STK19,1.0,0.7326007326007326
+heart,Glia,STK19,1.0,0.6711409395973155
+breast,Immune (myeloid),STK19,1.0,0.5586592178770949
+skeletalmuscle,Muscle,STK19,1.0106384,0.4164636037393114
+prostate,Glia,STK19,0.0,0.0
+skin,Adipocyte,STK19,0.0,0.0
+skin,Immune (lymphocyte),STK19,0.0,0.0

@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (DC),PIK3CG,0.36280626
+Immune (alveolar macrophage),PIK3CG,0.13660724
+Immune (NK cell),PIK3CG,0.12520692
+Immune (DC/macrophage),PIK3CG,0.12290301
+Immune (T cell),PIK3CG,0.11878997
+Immune (mast cell),PIK3CG,0.10872735
+Immune (B cell),PIK3CG,0.08704079
+Immune (Langerhans),PIK3CG,0.06648867
+Endothelial cell (lymphatic),PIK3CG,0.02865798
+Myofibroblast,PIK3CG,0.021354316
+Endothelial cell (vascular),PIK3CG,0.014894625
+Melanocyte,PIK3CG,0.013548608
+Epithelial cell (ciliated),PIK3CG,0.009410573
+Satellite cell,PIK3CG,0.008338
+Myocyte (cardiac),PIK3CG,0.008308075
+Epithelial cell (alveolar type II),PIK3CG,0.008024709
+Epithelial cell (alveolar type I),PIK3CG,0.007177184
+Mucous cell,PIK3CG,0.0070055313
+"Myocyte (cardiac, cytoplasmic)",PIK3CG,0.00678747
+Myocyte (sk. muscle),PIK3CG,0.004612417
+Fibroblast,PIK3CG,0.00365996
+Epithelial cell (basal keratinocyte),PIK3CG,0.0033602365
+Myocyte (smooth muscle),PIK3CG,0.0029622817
+Pericyte/SMC,PIK3CG,0.0029512972
+Epithelial cell (basal),PIK3CG,0.0028047166
+Adipocyte,PIK3CG,0.0025453323
+Epithelial cell (squamous),PIK3CG,0.0022374783
+Epithelial cell (club),PIK3CG,0.0021789216
+Epithelial cell (luminal),PIK3CG,0.0020326064
+Schwann cell,PIK3CG,0.0016748265
+Epithelial cell (Hillock),PIK3CG,0.0
+Epithelial cell (cornified keratinocyte),PIK3CG,0.0
+Epithelial cell (mature keratinocyte),PIK3CG,0.0
+Epithelial cell (suprabasal),PIK3CG,0.0
+ICCs,PIK3CG,0.0
+Epithelial cell (suprabasal keratinocyte),PIK3CG,0.0
+Myoepithelial (basal),PIK3CG,0.0
+Myocyte (NMJ-rich),PIK3CG,0.0
+"Myocyte (sk. muscle, cytoplasmic)",PIK3CG,0.0
+Neuronal,PIK3CG,0.0
+Neuroendocrine,PIK3CG,0.0
+Sebaceous gland cell,PIK3CG,0.0
+Sweat gland cell,PIK3CG,0.0

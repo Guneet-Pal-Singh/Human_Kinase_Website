@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (basal keratinocyte),RIPK3,0.0033924936
+Epithelial cell (suprabasal),RIPK3,0.0022009022
+Adipocyte,RIPK3,0.0013417004
+Epithelial cell (alveolar type I),RIPK3,0.0010024825
+Fibroblast,RIPK3,0.00097189046
+Epithelial cell (basal),RIPK3,0.00095040695
+Endothelial cell (lymphatic),RIPK3,0.00092084514
+Epithelial cell (squamous),RIPK3,0.00082682754
+Epithelial cell (club),RIPK3,0.00075154036
+Myocyte (smooth muscle),RIPK3,0.0004904111
+Immune (DC/macrophage),RIPK3,0.0004493207
+Endothelial cell (vascular),RIPK3,0.00031520976
+Myocyte (sk. muscle),RIPK3,9.8542696e-05
+Epithelial cell (Hillock),RIPK3,0.0
+Epithelial cell (alveolar type II),RIPK3,0.0
+Epithelial cell (cornified keratinocyte),RIPK3,0.0
+Epithelial cell (ciliated),RIPK3,0.0
+Epithelial cell (suprabasal keratinocyte),RIPK3,0.0
+Epithelial cell (mature keratinocyte),RIPK3,0.0
+Immune (B cell),RIPK3,0.0
+Immune (DC),RIPK3,0.0
+Immune (Langerhans),RIPK3,0.0
+Immune (NK cell),RIPK3,0.0
+Immune (T cell),RIPK3,0.0
+Immune (alveolar macrophage),RIPK3,0.0
+ICCs,RIPK3,0.0
+Epithelial cell (luminal),RIPK3,0.0
+Melanocyte,RIPK3,0.0
+Immune (mast cell),RIPK3,0.0
+Mucous cell,RIPK3,0.0
+Myocyte (NMJ-rich),RIPK3,0.0
+"Myocyte (cardiac, cytoplasmic)",RIPK3,0.0
+Myocyte (cardiac),RIPK3,0.0
+"Myocyte (sk. muscle, cytoplasmic)",RIPK3,0.0
+Myoepithelial (basal),RIPK3,0.0
+Myofibroblast,RIPK3,0.0
+Neuroendocrine,RIPK3,0.0
+Neuronal,RIPK3,0.0
+Pericyte/SMC,RIPK3,0.0
+Satellite cell,RIPK3,0.0
+Schwann cell,RIPK3,0.0
+Sebaceous gland cell,RIPK3,0.0
+Sweat gland cell,RIPK3,0.0

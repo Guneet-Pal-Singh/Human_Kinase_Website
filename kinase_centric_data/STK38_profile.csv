@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skeletalmuscle,Immune (lymphocyte),STK38,1.382353,34.0
+esophagusmucosa,Epithelial cell,STK38,1.452218,28.595244998550307
+esophagusmucosa,Stromal,STK38,1.3778626,26.49140546006067
+heart,Immune (lymphocyte),STK38,1.2643678,24.92836676217765
+esophagusmucosa,Immune (myeloid),STK38,1.2303207,24.53505007153076
+skin,Immune (myeloid),STK38,1.2325581,24.022346368715084
+skin,Immune (lymphocyte),STK38,1.4705882,22.666666666666664
+heart,Immune (myeloid),STK38,1.2223032,21.44085013283325
+esophagusmuscularis,Immune (lymphocyte),STK38,1.1269841,20.930232558139537
+esophagusmucosa,Fibroblast,STK38,1.2262522,20.568383658969804
+esophagusmuscularis,Neuron,STK38,1.2,20.0
+skeletalmuscle,Endothelial cell,STK38,1.2813689,19.759579263711498
+skin,Fibroblast,STK38,1.1941748,19.47069943289225
+prostate,Immune (lymphocyte),STK38,1.1515151,19.35483870967742
+breast,Epithelial cell,STK38,1.2986547,19.227453009139506
+prostate,Muscle,STK38,1.2482599,19.215336602764157
+skin,Other,STK38,1.3764706,18.805309734513276
+heart,Muscle,STK38,1.2698342,18.493037135278517
+esophagusmucosa,Glia,STK38,1.1666666,18.461538461538463
+esophagusmucosa,Immune (lymphocyte),STK38,1.2074304,17.766776677667767
+prostate,Epithelial cell,STK38,1.2766718,16.980886750747626
+heart,Fibroblast,STK38,1.188946,16.754603208786474
+prostate,Endothelial cell,STK38,1.211329,16.24203821656051
+lung,Immune (myeloid),STK38,1.1517671,15.773077553697329
+skeletalmuscle,Immune (myeloid),STK38,1.1896552,15.739484396200815
+prostate,Immune (myeloid),STK38,1.2420382,15.272373540856032
+esophagusmuscularis,Immune (myeloid),STK38,1.1946902,15.254809314883564
+heart,Adipocyte,STK38,1.3103448,15.025906735751295
+skeletalmuscle,Fibroblast,STK38,1.2275313,14.788021534320322
+esophagusmucosa,Endothelial cell,STK38,1.1468023,14.70713980333476
+lung,Immune (lymphocyte),STK38,1.1132076,14.620689655172416
+breast,Endothelial cell,STK38,1.2421875,14.52894438138479
+skin,Muscle,STK38,1.3076923,13.978494623655912
+esophagusmuscularis,Muscle,STK38,1.1696165,13.679467348174054
+esophagusmuscularis,Adipocyte,STK38,1.1304348,13.142857142857142
+breast,Fibroblast,STK38,1.1698114,12.942612942612945
+skin,Endothelial cell,STK38,1.2137405,12.805474095796676
+heart,Endothelial cell,STK38,1.1530507,12.66535690897184
+lung,Epithelial cell,STK38,1.1342149,12.56490134994808
+esophagusmucosa,Muscle,STK38,1.1451613,12.375249500998004
+breast,Immune (myeloid),STK38,1.1818181,12.290502793296088
+breast,Muscle,STK38,1.1111112,11.842105263157894
+skin,Epithelial cell,STK38,1.1690141,11.794019933554816
+prostate,Fibroblast,STK38,1.2061069,11.47110332749562
+breast,Adipocyte,STK38,1.1435897,11.073253833049405
+esophagusmuscularis,Fibroblast,STK38,1.1113044,11.0481314247286
+esophagusmuscularis,Endothelial cell,STK38,1.1177778,10.087424344317418
+skin,Epithelial cell (keratinocyte),STK38,1.109375,9.861325115562405
+lung,Muscle,STK38,1.0625,9.8159509202454
+skin,Melanocyte,STK38,1.0,8.823529411764707
+esophagusmuscularis,Glia,STK38,1.1445783,8.556701030927835
+skeletalmuscle,Adipocyte,STK38,1.0909091,6.918238993710692
+lung,Endothelial cell,STK38,1.0710382,6.664238892935178
+lung,Fibroblast,STK38,1.0721649,6.571815718157181
+heart,Glia,STK38,1.1578947,6.375838926174497
+prostate,Glia,STK38,1.25,5.970149253731343
+skeletalmuscle,Muscle,STK38,1.0762712,5.2279473660892295
+skin,Adipocyte,STK38,1.0,1.6129032258064515
+skeletalmuscle,Glia,STK38,0.0,0.0

@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Myofibroblast,SPEG,1.0446275
+Neuronal,SPEG,0.66812235
+Myocyte (smooth muscle),SPEG,0.65991104
+"Myocyte (sk. muscle, cytoplasmic)",SPEG,0.65792257
+Myocyte (sk. muscle),SPEG,0.5044517
+Pericyte/SMC,SPEG,0.44014516
+Myocyte (NMJ-rich),SPEG,0.4185196
+Myoepithelial (basal),SPEG,0.40437683
+"Myocyte (cardiac, cytoplasmic)",SPEG,0.38919243
+Myocyte (cardiac),SPEG,0.37604722
+Neuroendocrine,SPEG,0.15053383
+ICCs,SPEG,0.12885903
+Satellite cell,SPEG,0.1284357
+Epithelial cell (Hillock),SPEG,0.12606604
+Epithelial cell (club),SPEG,0.10593328
+Immune (mast cell),SPEG,0.086617
+Epithelial cell (cornified keratinocyte),SPEG,0.0830204
+Schwann cell,SPEG,0.080608554
+Epithelial cell (basal),SPEG,0.0689811
+Epithelial cell (luminal),SPEG,0.058023278
+Epithelial cell (basal keratinocyte),SPEG,0.057630043
+Endothelial cell (vascular),SPEG,0.041289505
+Sweat gland cell,SPEG,0.036740072
+Immune (alveolar macrophage),SPEG,0.03138588
+Epithelial cell (squamous),SPEG,0.029091386
+Mucous cell,SPEG,0.027840544
+Epithelial cell (alveolar type II),SPEG,0.027594903
+Immune (DC),SPEG,0.024788484
+Epithelial cell (ciliated),SPEG,0.02454012
+Adipocyte,SPEG,0.023602765
+Immune (T cell),SPEG,0.019306006
+Epithelial cell (mature keratinocyte),SPEG,0.018799203
+Sebaceous gland cell,SPEG,0.018411089
+Endothelial cell (lymphatic),SPEG,0.017734101
+Epithelial cell (alveolar type I),SPEG,0.015853135
+Fibroblast,SPEG,0.014821431
+Immune (B cell),SPEG,0.014602505
+Epithelial cell (suprabasal),SPEG,0.010157741
+Immune (DC/macrophage),SPEG,0.009343933
+Immune (NK cell),SPEG,0.008552578
+Melanocyte,SPEG,0.0
+Epithelial cell (suprabasal keratinocyte),SPEG,0.0
+Immune (Langerhans),SPEG,0.0

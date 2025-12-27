@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Neuron,RFK,1.6666666,12.0
+prostate,Glia,RFK,1.0,4.477611940298507
+prostate,Endothelial cell,RFK,1.0917431,3.8570417551309273
+heart,Fibroblast,RFK,1.0655738,3.284160654678583
+heart,Muscle,RFK,1.0764873,2.92606100795756
+prostate,Muscle,RFK,1.0,2.719572001783326
+prostate,Fibroblast,RFK,1.1,2.626970227670753
+esophagusmuscularis,Fibroblast,RFK,1.0388889,1.7292727447401286
+skin,Adipocyte,RFK,1.0,1.6129032258064515
+esophagusmucosa,Glia,RFK,1.0,1.5384615384615383
+prostate,Epithelial cell,RFK,1.0391567,1.4389112815845362
+heart,Endothelial cell,RFK,1.046729,1.401440733464309
+esophagusmuscularis,Endothelial cell,RFK,1.0666667,1.3449899125756557
+skin,Other,RFK,1.0,1.327433628318584
+lung,Muscle,RFK,1.0,1.2269938650306749
+skeletalmuscle,Endothelial cell,RFK,1.0625,1.2021036814425246
+prostate,Immune (myeloid),RFK,1.0,1.1673151750972763
+lung,Immune (myeloid),RFK,1.0571429,1.147729135923922
+esophagusmucosa,Epithelial cell,RFK,1.1168832,1.1162655842273124
+esophagusmucosa,Stromal,RFK,1.2727273,1.1122345803842264
+esophagusmuscularis,Muscle,RFK,1.0443038,1.0626134911560967
+skeletalmuscle,Fibroblast,RFK,1.0158731,1.059892328398385
+breast,Endothelial cell,RFK,1.0,1.021566401816118
+lung,Endothelial cell,RFK,1.0,0.8739985433357611
+skin,Endothelial cell,RFK,1.125,0.7820136852394917
+esophagusmucosa,Endothelial cell,RFK,1.0,0.748182984181274
+skin,Melanocyte,RFK,1.0,0.7352941176470588
+heart,Immune (lymphocyte),RFK,1.2,0.7163323782234957
+heart,Glia,RFK,1.0,0.6711409395973155
+skin,Epithelial cell,RFK,1.0,0.6644518272425249
+breast,Muscle,RFK,1.0,0.6578947368421052
+skeletalmuscle,Adipocyte,RFK,1.0,0.628930817610063
+esophagusmuscularis,Glia,RFK,1.1666666,0.6185567010309279
+esophagusmucosa,Muscle,RFK,1.0,0.5988023952095809
+breast,Immune (myeloid),RFK,1.0,0.5586592178770949
+heart,Immune (myeloid),RFK,1.0294118,0.5313330207844975
+skin,Epithelial cell (keratinocyte),RFK,1.1,0.5136106831022085
+esophagusmucosa,Immune (myeloid),RFK,1.2857143,0.5007153075822603
+esophagusmucosa,Fibroblast,RFK,1.0,0.497335701598579
+breast,Epithelial cell,RFK,1.04,0.4311088118641145
+esophagusmucosa,Immune (lymphocyte),RFK,1.1428572,0.385038503850385
+lung,Epithelial cell,RFK,1.0222223,0.3738317757009346
+esophagusmuscularis,Immune (myeloid),RFK,1.1111112,0.3037462031724603
+lung,Fibroblast,RFK,1.0,0.2710027100271002
+breast,Adipocyte,RFK,1.6666666,0.1703577512776831
+skeletalmuscle,Muscle,RFK,1.0294118,0.1506357715652829
+prostate,Immune (lymphocyte),RFK,1.0,0.1466275659824047
+breast,Fibroblast,RFK,1.0,0.1221001221001221
+heart,Adipocyte,RFK,0.0,0.0
+esophagusmuscularis,Adipocyte,RFK,0.0,0.0
+esophagusmuscularis,Immune (lymphocyte),RFK,0.0,0.0
+lung,Immune (lymphocyte),RFK,0.0,0.0
+skeletalmuscle,Immune (myeloid),RFK,0.0,0.0
+skeletalmuscle,Glia,RFK,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),RFK,0.0,0.0
+skin,Immune (lymphocyte),RFK,0.0,0.0
+skin,Fibroblast,RFK,0.0,0.0
+skin,Immune (myeloid),RFK,0.0,0.0
+skin,Muscle,RFK,0.0,0.0

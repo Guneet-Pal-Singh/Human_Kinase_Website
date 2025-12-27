@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skeletalmuscle,Endothelial cell,TIE1,1.3785714,31.555221637866264
+prostate,Endothelial cell,TIE1,1.3033708,25.19462137296532
+heart,Endothelial cell,TIE1,1.2943895,19.842829076620824
+skin,Endothelial cell,TIE1,1.2041885,18.670576735092865
+esophagusmucosa,Endothelial cell,TIE1,1.1774786,17.464728516460028
+esophagusmuscularis,Endothelial cell,TIE1,1.2581521,16.49854292759471
+breast,Endothelial cell,TIE1,1.1557378,13.847900113507375
+lung,Endothelial cell,TIE1,1.1678321,10.415149308084487
+skeletalmuscle,Glia,TIE1,1.0,5.714285714285714
+breast,Muscle,TIE1,1.1666666,3.947368421052632
+esophagusmuscularis,Adipocyte,TIE1,1.0,3.428571428571429
+skin,Immune (myeloid),TIE1,1.0,2.793296089385475
+skin,Muscle,TIE1,1.0,2.1505376344086025
+esophagusmucosa,Stromal,TIE1,1.1,2.0222446916076846
+skeletalmuscle,Adipocyte,TIE1,1.3333334,1.8867924528301887
+prostate,Muscle,TIE1,1.137931,1.2929112795363351
+heart,Muscle,TIE1,1.1791044,1.1107427055702916
+lung,Fibroblast,TIE1,1.0,1.084010840108401
+heart,Adipocyte,TIE1,1.0,1.0362694300518136
+skeletalmuscle,Immune (lymphocyte),TIE1,1.0,1.0
+esophagusmuscularis,Immune (lymphocyte),TIE1,1.6666666,0.9966777408637874
+skin,Other,TIE1,1.0,0.8849557522123894
+esophagusmucosa,Muscle,TIE1,1.25,0.7984031936127743
+esophagusmuscularis,Immune (myeloid),TIE1,1.0434783,0.7762402969962876
+skin,Fibroblast,TIE1,1.0,0.7561436672967864
+skin,Melanocyte,TIE1,1.0,0.7352941176470588
+lung,Immune (myeloid),TIE1,1.0,0.6394490900147565
+lung,Muscle,TIE1,1.0,0.6134969325153374
+prostate,Fibroblast,TIE1,1.0,0.6129597197898424
+breast,Fibroblast,TIE1,1.2,0.6105006105006106
+esophagusmucosa,Immune (myeloid),TIE1,1.375,0.5722460658082975
+breast,Immune (myeloid),TIE1,1.0,0.5586592178770949
+esophagusmuscularis,Glia,TIE1,1.0,0.5154639175257731
+esophagusmuscularis,Muscle,TIE1,1.0394737,0.5111305400497679
+prostate,Immune (myeloid),TIE1,1.0,0.4863813229571984
+lung,Epithelial cell,TIE1,1.018868,0.4402907580477674
+skeletalmuscle,Immune (myeloid),TIE1,1.3333334,0.4070556309362279
+heart,Glia,TIE1,1.0,0.3355704697986577
+heart,Immune (myeloid),TIE1,1.0,0.3125488357555868
+esophagusmucosa,Epithelial cell,TIE1,1.0731708,0.2971875906059727
+skeletalmuscle,Muscle,TIE1,1.0746269,0.2968410792609986
+heart,Immune (lymphocyte),TIE1,1.0,0.2865329512893982
+skin,Epithelial cell (keratinocyte),TIE1,1.0,0.2568053415511042
+esophagusmucosa,Fibroblast,TIE1,1.0,0.2486678507992895
+breast,Epithelial cell,TIE1,1.0714285,0.2414209346439041
+heart,Fibroblast,TIE1,1.1052631,0.2045870571766986
+prostate,Epithelial cell,TIE1,1.0222223,0.1950331556364582
+breast,Adipocyte,TIE1,1.0,0.1703577512776831
+skin,Epithelial cell,TIE1,2.0,0.1661129568106312
+esophagusmuscularis,Fibroblast,TIE1,1.0666667,0.1441060620616774
+skeletalmuscle,Fibroblast,TIE1,1.625,0.1345895020188425
+esophagusmuscularis,Neuron,TIE1,0.0,0.0
+esophagusmucosa,Immune (lymphocyte),TIE1,0.0,0.0
+esophagusmucosa,Glia,TIE1,0.0,0.0
+lung,Immune (lymphocyte),TIE1,0.0,0.0
+prostate,Immune (lymphocyte),TIE1,0.0,0.0
+prostate,Glia,TIE1,0.0,0.0
+skin,Adipocyte,TIE1,0.0,0.0
+skin,Immune (lymphocyte),TIE1,0.0,0.0

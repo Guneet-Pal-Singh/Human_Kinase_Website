@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Mucous cell,PRKCI,0.62366205
+Epithelial cell (alveolar type II),PRKCI,0.60435224
+Epithelial cell (alveolar type I),PRKCI,0.5630672
+Epithelial cell (club),PRKCI,0.546987
+Epithelial cell (mature keratinocyte),PRKCI,0.52924645
+Epithelial cell (Hillock),PRKCI,0.49395362
+Epithelial cell (squamous),PRKCI,0.48009965
+Epithelial cell (suprabasal),PRKCI,0.45020807
+Epithelial cell (suprabasal keratinocyte),PRKCI,0.44439027
+ICCs,PRKCI,0.43266553
+Epithelial cell (luminal),PRKCI,0.42450798
+Neuronal,PRKCI,0.4239862
+Myocyte (smooth muscle),PRKCI,0.41713166
+Myofibroblast,PRKCI,0.41101828
+Epithelial cell (basal keratinocyte),PRKCI,0.3503571
+Neuroendocrine,PRKCI,0.33292273
+Epithelial cell (basal),PRKCI,0.33257216
+Epithelial cell (ciliated),PRKCI,0.31653425
+Sweat gland cell,PRKCI,0.29072422
+Myocyte (cardiac),PRKCI,0.28565547
+Immune (Langerhans),PRKCI,0.27171376
+Sebaceous gland cell,PRKCI,0.2616106
+Myoepithelial (basal),PRKCI,0.25226972
+Schwann cell,PRKCI,0.2490405
+Epithelial cell (cornified keratinocyte),PRKCI,0.24508567
+Fibroblast,PRKCI,0.23518743
+Endothelial cell (vascular),PRKCI,0.23255722
+Immune (alveolar macrophage),PRKCI,0.22810115
+Endothelial cell (lymphatic),PRKCI,0.20594728
+Myocyte (NMJ-rich),PRKCI,0.20429233
+Pericyte/SMC,PRKCI,0.20365044
+Immune (mast cell),PRKCI,0.1973538
+Immune (B cell),PRKCI,0.19549026
+Melanocyte,PRKCI,0.19452378
+Satellite cell,PRKCI,0.18441638
+Immune (T cell),PRKCI,0.17857186
+Adipocyte,PRKCI,0.16628906
+Immune (DC/macrophage),PRKCI,0.15335317
+Myocyte (sk. muscle),PRKCI,0.12696105
+Immune (NK cell),PRKCI,0.12256262
+"Myocyte (cardiac, cytoplasmic)",PRKCI,0.09847261
+"Myocyte (sk. muscle, cytoplasmic)",PRKCI,0.08075216
+Immune (DC),PRKCI,0.08016172

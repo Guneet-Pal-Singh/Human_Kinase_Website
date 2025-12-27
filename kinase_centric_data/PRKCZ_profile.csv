@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+lung,Epithelial cell,PRKCZ,1.3253181,29.711318795430948
+esophagusmucosa,Epithelial cell,PRKCZ,1.2039025,14.85937953029864
+esophagusmuscularis,Neuron,PRKCZ,1.0,12.0
+prostate,Epithelial cell,PRKCZ,1.1492472,9.786330342824948
+skin,Other,PRKCZ,1.1463414,9.070796460176991
+esophagusmucosa,Endothelial cell,PRKCZ,1.1894151,7.674219752030782
+esophagusmucosa,Immune (lymphocyte),PRKCZ,1.0813009,6.765676567656766
+heart,Muscle,PRKCZ,1.0858896,6.755636604774535
+skin,Immune (lymphocyte),PRKCZ,1.0,6.666666666666667
+breast,Epithelial cell,PRKCZ,1.0651041,6.621831350232799
+lung,Immune (lymphocyte),PRKCZ,1.0434783,6.344827586206897
+skin,Epithelial cell,PRKCZ,1.0526316,6.312292358803987
+esophagusmuscularis,Endothelial cell,PRKCZ,1.1565837,6.299036090562654
+skin,Epithelial cell (keratinocyte),PRKCZ,1.0420169,6.111967128916281
+lung,Muscle,PRKCZ,1.1111112,5.521472392638037
+esophagusmucosa,Stromal,PRKCZ,1.1111112,5.460060667340748
+lung,Immune (myeloid),PRKCZ,1.097561,5.377930808329234
+lung,Fibroblast,PRKCZ,1.0769231,5.284552845528456
+breast,Muscle,PRKCZ,1.0,5.263157894736842
+skin,Melanocyte,PRKCZ,1.0,5.147058823529411
+skin,Endothelial cell,PRKCZ,1.1153846,5.083088954056696
+prostate,Immune (lymphocyte),PRKCZ,1.0,4.398826979472141
+skeletalmuscle,Immune (lymphocyte),PRKCZ,1.0,4.0
+lung,Endothelial cell,PRKCZ,1.0566038,3.860160233066278
+skin,Immune (myeloid),PRKCZ,1.1666666,3.35195530726257
+breast,Endothelial cell,PRKCZ,1.1785715,3.1782065834279227
+esophagusmuscularis,Immune (lymphocyte),PRKCZ,1.0,2.990033222591362
+prostate,Glia,PRKCZ,1.5,2.985074626865672
+esophagusmucosa,Immune (myeloid),PRKCZ,1.0555556,2.575107296137339
+prostate,Immune (myeloid),PRKCZ,1.1538461,2.529182879377432
+breast,Immune (myeloid),PRKCZ,1.125,2.23463687150838
+prostate,Muscle,PRKCZ,1.0666667,2.0062416406598307
+heart,Immune (lymphocyte),PRKCZ,1.0,2.005730659025788
+esophagusmucosa,Muscle,PRKCZ,1.1,1.996007984031936
+skeletalmuscle,Endothelial cell,PRKCZ,1.0769231,1.9534184823441023
+prostate,Endothelial cell,PRKCZ,1.0980393,1.804670912951168
+esophagusmuscularis,Glia,PRKCZ,1.0,1.7525773195876289
+esophagusmuscularis,Adipocyte,PRKCZ,1.0,1.7142857142857144
+esophagusmucosa,Glia,PRKCZ,1.0,1.5384615384615383
+heart,Endothelial cell,PRKCZ,1.1181818,1.4407334643091028
+esophagusmuscularis,Muscle,PRKCZ,1.0204082,1.3181787611809803
+prostate,Fibroblast,PRKCZ,1.0,1.138353765323993
+esophagusmuscularis,Immune (myeloid),PRKCZ,1.0,1.113736078299021
+esophagusmucosa,Fibroblast,PRKCZ,1.0,0.7815275310834813
+skeletalmuscle,Muscle,PRKCZ,1.0287356,0.770900713304683
+esophagusmuscularis,Fibroblast,PRKCZ,1.0379747,0.7589585935248343
+breast,Adipocyte,PRKCZ,1.0,0.7382169222032936
+skeletalmuscle,Fibroblast,PRKCZ,1.0256411,0.6561238223418573
+skin,Muscle,PRKCZ,1.0,0.5376344086021506
+heart,Adipocyte,PRKCZ,1.0,0.5181347150259068
+heart,Fibroblast,PRKCZ,1.0,0.4630128136104232
+breast,Fibroblast,PRKCZ,1.0,0.3663003663003663
+heart,Immune (myeloid),PRKCZ,1.0,0.3594311611189248
+heart,Glia,PRKCZ,1.0,0.3355704697986577
+skeletalmuscle,Immune (myeloid),PRKCZ,1.0,0.2713704206241519
+skeletalmuscle,Adipocyte,PRKCZ,0.0,0.0
+skeletalmuscle,Glia,PRKCZ,0.0,0.0
+skin,Adipocyte,PRKCZ,0.0,0.0
+skin,Fibroblast,PRKCZ,0.0,0.0

@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (alveolar macrophage),MELK,0.3207022
+Epithelial cell (ciliated),MELK,0.20007886
+Epithelial cell (alveolar type II),MELK,0.18490379
+Epithelial cell (alveolar type I),MELK,0.16116834
+Immune (Langerhans),MELK,0.1474349
+Epithelial cell (basal),MELK,0.14219245
+Epithelial cell (suprabasal),MELK,0.10410553
+Epithelial cell (suprabasal keratinocyte),MELK,0.09813026
+Epithelial cell (basal keratinocyte),MELK,0.097654425
+Melanocyte,MELK,0.089771144
+Myofibroblast,MELK,0.08729951
+Immune (T cell),MELK,0.072979786
+Immune (NK cell),MELK,0.07218577
+Immune (DC/macrophage),MELK,0.06134548
+Epithelial cell (mature keratinocyte),MELK,0.060487486
+Endothelial cell (vascular),MELK,0.060226556
+Immune (DC),MELK,0.05407034
+Epithelial cell (club),MELK,0.0518057
+Sweat gland cell,MELK,0.04843532
+Endothelial cell (lymphatic),MELK,0.044881176
+ICCs,MELK,0.038444318
+Epithelial cell (Hillock),MELK,0.035542164
+Mucous cell,MELK,0.03261818
+Myocyte (sk. muscle),MELK,0.03257564
+Fibroblast,MELK,0.03197491
+Schwann cell,MELK,0.031095227
+Neuroendocrine,MELK,0.030886838
+Myocyte (smooth muscle),MELK,0.030635482
+Adipocyte,MELK,0.030489331
+Pericyte/SMC,MELK,0.030132981
+Immune (mast cell),MELK,0.029791875
+Epithelial cell (squamous),MELK,0.028081927
+Myocyte (cardiac),MELK,0.028017664
+Satellite cell,MELK,0.025675906
+Epithelial cell (luminal),MELK,0.024909012
+Immune (B cell),MELK,0.02298339
+Myoepithelial (basal),MELK,0.01613616
+Sebaceous gland cell,MELK,0.013185323
+"Myocyte (sk. muscle, cytoplasmic)",MELK,0.003854824
+"Myocyte (cardiac, cytoplasmic)",MELK,0.003066114
+Epithelial cell (cornified keratinocyte),MELK,0.0
+Myocyte (NMJ-rich),MELK,0.0
+Neuronal,MELK,0.0

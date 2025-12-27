@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+heart,Adipocyte,ATR,1.3571428,29.015544041450774
+esophagusmuscularis,Adipocyte,ATR,1.2127659,26.857142857142858
+breast,Adipocyte,ATR,1.3333334,23.85008517887564
+lung,Immune (myeloid),ATR,1.3114525,23.4792588949008
+skin,Epithelial cell,ATR,1.268116,22.92358803986711
+heart,Muscle,ATR,1.4455011,22.662466843501324
+prostate,Epithelial cell,ATR,1.3125365,22.298790794435053
+breast,Epithelial cell,ATR,1.2569833,21.60717365062942
+breast,Immune (myeloid),ATR,1.2207792,21.50837988826816
+esophagusmucosa,Immune (myeloid),ATR,1.2809365,21.38769670958512
+esophagusmucosa,Stromal,ATR,1.2829268,20.72800808897877
+esophagusmuscularis,Neuron,ATR,1.0,20.0
+esophagusmucosa,Epithelial cell,ATR,1.3171086,19.955059437518123
+prostate,Immune (myeloid),ATR,1.318408,19.55252918287938
+prostate,Endothelial cell,ATR,1.2413793,18.471337579617835
+heart,Immune (lymphocyte),ATR,1.1382114,17.621776504297994
+prostate,Muscle,ATR,1.3120204,17.432010699955416
+esophagusmucosa,Glia,ATR,1.1818181,16.923076923076923
+prostate,Fibroblast,ATR,1.2622951,16.024518388791595
+lung,Epithelial cell,ATR,1.1813445,15.941848390446523
+esophagusmuscularis,Endothelial cell,ATR,1.2022792,15.736381977135173
+esophagusmucosa,Immune (lymphocyte),ATR,1.2112676,15.62156215621562
+heart,Immune (myeloid),ATR,1.160804,15.549304578840443
+esophagusmucosa,Endothelial cell,ATR,1.1734694,14.664386489952973
+skin,Immune (myeloid),ATR,1.0769231,14.52513966480447
+skeletalmuscle,Adipocyte,ATR,1.0434783,14.465408805031446
+prostate,Immune (lymphocyte),ATR,1.2244898,14.36950146627566
+breast,Endothelial cell,ATR,1.1721312,13.847900113507375
+heart,Fibroblast,ATR,1.1818911,13.43813933455368
+skeletalmuscle,Immune (lymphocyte),ATR,1.0769231,13.0
+lung,Immune (lymphocyte),ATR,1.0744681,12.96551724137931
+esophagusmuscularis,Immune (lymphocyte),ATR,1.0256411,12.956810631229237
+skeletalmuscle,Immune (myeloid),ATR,1.168421,12.890094979647218
+breast,Fibroblast,ATR,1.1538461,12.698412698412698
+esophagusmuscularis,Immune (myeloid),ATR,1.1489362,12.689841376982788
+breast,Muscle,ATR,1.2105263,12.5
+skin,Muscle,ATR,1.1304348,12.365591397849462
+esophagusmuscularis,Fibroblast,ATR,1.153481,12.143337496397349
+skin,Endothelial cell,ATR,1.0806452,12.12121212121212
+skeletalmuscle,Endothelial cell,ATR,1.227848,11.870773854244929
+skin,Melanocyte,ATR,1.25,11.76470588235294
+esophagusmucosa,Fibroblast,ATR,1.1661538,11.545293072824157
+skin,Epithelial cell (keratinocyte),ATR,1.1396396,11.40215716486903
+esophagusmuscularis,Muscle,ATR,1.17941,11.170892460824534
+skeletalmuscle,Fibroblast,ATR,1.1410853,10.85127860026918
+skin,Immune (lymphocyte),ATR,1.0,10.666666666666668
+heart,Endothelial cell,ATR,1.1477833,10.635232481990831
+lung,Endothelial cell,ATR,1.1349481,10.524399126001455
+esophagusmucosa,Muscle,ATR,1.14,9.98003992015968
+skin,Other,ATR,1.1590909,9.734513274336283
+skin,Adipocyte,ATR,1.0,9.67741935483871
+lung,Fibroblast,ATR,1.1111112,9.146341463414634
+prostate,Glia,ATR,1.0,8.955223880597014
+esophagusmuscularis,Glia,ATR,1.3023256,8.8659793814433
+lung,Muscle,ATR,1.2857143,8.588957055214724
+heart,Glia,ATR,1.2,8.389261744966444
+skeletalmuscle,Muscle,ATR,1.1196352,8.258384652873156
+skin,Fibroblast,ATR,1.1538461,7.372400756143667
+skeletalmuscle,Glia,ATR,1.0,2.857142857142857

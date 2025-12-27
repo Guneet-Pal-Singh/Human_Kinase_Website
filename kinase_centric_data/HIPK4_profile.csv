@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skeletalmuscle,Muscle,HIPK4,1.2182688,8.342563466394932
+esophagusmuscularis,Neuron,HIPK4,1.0,4.0
+esophagusmuscularis,Muscle,HIPK4,1.0880282,1.9100141233438697
+esophagusmuscularis,Adipocyte,HIPK4,1.0,1.7142857142857144
+lung,Endothelial cell,HIPK4,1.0681819,1.602330662782229
+esophagusmucosa,Glia,HIPK4,1.0,1.5384615384615383
+heart,Muscle,HIPK4,1.0742857,1.4505968169761274
+esophagusmucosa,Stromal,HIPK4,1.0,1.314459049544995
+lung,Epithelial cell,HIPK4,1.0457517,1.2710280373831775
+lung,Immune (myeloid),HIPK4,1.0131578,1.2461059190031152
+heart,Adipocyte,HIPK4,1.0,1.0362694300518136
+esophagusmuscularis,Glia,HIPK4,1.1,1.0309278350515465
+esophagusmuscularis,Fibroblast,HIPK4,1.0560747,1.0279565760399654
+esophagusmuscularis,Immune (myeloid),HIPK4,1.1111112,0.911238609517381
+skeletalmuscle,Immune (myeloid),HIPK4,1.1666666,0.8141112618724559
+lung,Fibroblast,HIPK4,1.0,0.8130081300813009
+skeletalmuscle,Endothelial cell,HIPK4,1.2,0.7513148009015778
+skin,Melanocyte,HIPK4,1.0,0.7352941176470588
+prostate,Muscle,HIPK4,1.0,0.6687472135532769
+esophagusmuscularis,Immune (lymphocyte),HIPK4,1.0,0.6644518272425249
+breast,Muscle,HIPK4,1.0,0.6578947368421052
+skeletalmuscle,Adipocyte,HIPK4,1.0,0.628930817610063
+prostate,Fibroblast,HIPK4,1.0,0.6129597197898424
+skin,Endothelial cell,HIPK4,1.0,0.5865102639296188
+skin,Fibroblast,HIPK4,1.0,0.5671077504725899
+esophagusmuscularis,Endothelial cell,HIPK4,1.04,0.5604124635731899
+skin,Muscle,HIPK4,1.0,0.5376344086021506
+breast,Fibroblast,HIPK4,1.0,0.4884004884004884
+esophagusmucosa,Immune (myeloid),HIPK4,1.0,0.4291845493562232
+prostate,Epithelial cell,HIPK4,1.0106384,0.4074025917739349
+esophagusmucosa,Muscle,HIPK4,1.0,0.3992015968063871
+skeletalmuscle,Fibroblast,HIPK4,1.0454545,0.3701211305518169
+skin,Epithelial cell (keratinocyte),HIPK4,1.0,0.3595274781715459
+heart,Fibroblast,HIPK4,1.0,0.3553354150963713
+heart,Glia,HIPK4,1.0,0.3355704697986577
+esophagusmucosa,Endothelial cell,HIPK4,1.0,0.2992731936725096
+esophagusmucosa,Fibroblast,HIPK4,1.0,0.2841918294849023
+prostate,Endothelial cell,HIPK4,1.0,0.2830856334041047
+breast,Epithelial cell,HIPK4,1.125,0.2759096395930333
+heart,Immune (myeloid),HIPK4,1.0,0.2656665103922487
+heart,Endothelial cell,HIPK4,1.0526316,0.2488539620170268
+esophagusmucosa,Epithelial cell,HIPK4,1.0,0.1522180342128153
+heart,Immune (lymphocyte),HIPK4,1.0,0.1432664756446991
+lung,Immune (lymphocyte),HIPK4,1.0,0.1379310344827586
+esophagusmucosa,Immune (lymphocyte),HIPK4,1.0,0.11001100110011
+prostate,Immune (myeloid),HIPK4,1.0,0.0972762645914396
+breast,Adipocyte,HIPK4,1.0,0.056785917092561
+breast,Endothelial cell,HIPK4,0.0,0.0
+breast,Immune (myeloid),HIPK4,0.0,0.0
+lung,Muscle,HIPK4,0.0,0.0
+prostate,Glia,HIPK4,0.0,0.0
+prostate,Immune (lymphocyte),HIPK4,0.0,0.0
+skin,Adipocyte,HIPK4,0.0,0.0
+skeletalmuscle,Glia,HIPK4,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),HIPK4,0.0,0.0
+skin,Immune (lymphocyte),HIPK4,0.0,0.0
+skin,Epithelial cell,HIPK4,0.0,0.0
+skin,Immune (myeloid),HIPK4,0.0,0.0
+skin,Other,HIPK4,0.0,0.0

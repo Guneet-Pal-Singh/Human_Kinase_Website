@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmucosa,Glia,AATK,1.8,23.07692307692308
+prostate,Glia,AATK,1.1538461,19.402985074626866
+skeletalmuscle,Glia,AATK,1.3333334,17.142857142857142
+esophagusmuscularis,Neuron,AATK,1.25,16.0
+esophagusmuscularis,Glia,AATK,1.1512605,12.2680412371134
+heart,Glia,AATK,1.173913,7.718120805369128
+breast,Immune (myeloid),AATK,1.3125,4.46927374301676
+lung,Epithelial cell,AATK,1.0652591,4.328141225337487
+breast,Endothelial cell,AATK,1.0967742,3.5187287173666286
+prostate,Immune (myeloid),AATK,1.04,2.4319066147859925
+heart,Muscle,AATK,1.055762,2.229774535809019
+esophagusmucosa,Immune (myeloid),AATK,1.0384616,1.859799713876967
+esophagusmuscularis,Adipocyte,AATK,1.0,1.7142857142857144
+lung,Immune (myeloid),AATK,1.0549451,1.4920478767010985
+skin,Melanocyte,AATK,1.0,1.4705882352941175
+skin,Immune (lymphocyte),AATK,1.0,1.3333333333333337
+breast,Muscle,AATK,1.0,1.3157894736842104
+skeletalmuscle,Adipocyte,AATK,1.0,1.257861635220126
+esophagusmucosa,Stromal,AATK,1.25,1.2133468149646107
+prostate,Muscle,AATK,1.0,1.15916183682568
+esophagusmucosa,Endothelial cell,AATK,1.0925926,1.1543394613082514
+lung,Endothelial cell,AATK,1.0344827,1.056081573197378
+esophagusmuscularis,Immune (lymphocyte),AATK,1.0,0.9966777408637874
+lung,Fibroblast,AATK,1.0714285,0.9485094850948508
+prostate,Endothelial cell,AATK,1.0384616,0.9200283085633404
+esophagusmuscularis,Muscle,AATK,1.046875,0.8608514358732935
+skeletalmuscle,Endothelial cell,AATK,1.0,0.8264462809917356
+esophagusmuscularis,Immune (myeloid),AATK,1.0,0.809989875126561
+heart,Endothelial cell,AATK,1.0350877,0.7465618860510805
+esophagusmucosa,Immune (lymphocyte),AATK,1.0769231,0.7150715071507151
+skin,Other,AATK,1.0,0.6637168141592921
+esophagusmuscularis,Endothelial cell,AATK,1.0689656,0.6500784577449003
+lung,Muscle,AATK,1.0,0.6134969325153374
+skin,Endothelial cell,AATK,1.1666666,0.5865102639296188
+heart,Immune (myeloid),AATK,1.054054,0.5782153461478357
+skin,Immune (myeloid),AATK,1.0,0.5586592178770949
+prostate,Epithelial cell,AATK,1.056,0.5417587656568283
+skin,Muscle,AATK,1.0,0.5376344086021506
+skin,Epithelial cell,AATK,1.0,0.4983388704318937
+heart,Immune (lymphocyte),AATK,1.0,0.4297994269340974
+skeletalmuscle,Immune (myeloid),AATK,1.0,0.4070556309362279
+esophagusmucosa,Muscle,AATK,1.0,0.3992015968063871
+skin,Fibroblast,AATK,1.0,0.3780718336483932
+prostate,Fibroblast,AATK,1.0,0.3502626970227671
+esophagusmucosa,Epithelial cell,AATK,1.0869565,0.3334299797042621
+esophagusmucosa,Fibroblast,AATK,1.0,0.2841918294849023
+skin,Epithelial cell (keratinocyte),AATK,1.0,0.2568053415511042
+breast,Fibroblast,AATK,1.0,0.2442002442002442
+breast,Epithelial cell,AATK,1.0769231,0.2241765821693395
+skeletalmuscle,Fibroblast,AATK,1.0,0.2018842530282638
+esophagusmuscularis,Fibroblast,AATK,1.0,0.1441060620616774
+heart,Fibroblast,AATK,1.0,0.1399806180682674
+lung,Immune (lymphocyte),AATK,1.0,0.1379310344827586
+skeletalmuscle,Muscle,AATK,1.0666667,0.1329139160870143
+breast,Adipocyte,AATK,0.0,0.0
+heart,Adipocyte,AATK,0.0,0.0
+prostate,Immune (lymphocyte),AATK,0.0,0.0
+skin,Adipocyte,AATK,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),AATK,0.0,0.0

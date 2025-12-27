@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Neuron,VRK3,2.3333333,12.0
+esophagusmuscularis,Adipocyte,VRK3,1.0666667,8.571428571428571
+esophagusmucosa,Stromal,VRK3,1.057971,6.976744186046512
+breast,Immune (myeloid),VRK3,1.0454545,6.145251396648044
+lung,Immune (myeloid),VRK3,1.0572207,6.01737989834399
+prostate,Epithelial cell,VRK3,1.0925524,5.994018983227148
+esophagusmucosa,Epithelial cell,VRK3,1.0599755,5.922006378660481
+heart,Muscle,VRK3,1.0794326,5.843832891246684
+prostate,Muscle,VRK3,1.072,5.572893446277307
+lung,Muscle,VRK3,1.0,5.521472392638037
+skin,Muscle,VRK3,1.0,5.376344086021505
+heart,Adipocyte,VRK3,1.1,5.181347150259067
+heart,Immune (lymphocyte),VRK3,1.0,4.871060171919771
+skin,Endothelial cell,VRK3,1.0408163,4.789833822091887
+esophagusmucosa,Immune (myeloid),VRK3,1.0454545,4.721030042918455
+esophagusmucosa,Glia,VRK3,1.0,4.615384615384616
+esophagusmuscularis,Muscle,VRK3,1.0481752,4.606900262290671
+breast,Epithelial cell,VRK3,1.0542636,4.449042938437662
+esophagusmucosa,Immune (lymphocyte),VRK3,1.0125,4.400440044004401
+esophagusmucosa,Muscle,VRK3,1.0909091,4.39121756487026
+prostate,Immune (myeloid),VRK3,1.0666667,4.3774319066147855
+lung,Epithelial cell,VRK3,1.0558276,4.240913811007268
+prostate,Endothelial cell,VRK3,1.0086207,4.104741684359519
+skin,Immune (lymphocyte),VRK3,1.0,4.0
+skeletalmuscle,Immune (lymphocyte),VRK3,1.0,4.0
+skin,Fibroblast,VRK3,1.0476191,3.969754253308128
+skin,Immune (myeloid),VRK3,1.0,3.910614525139665
+esophagusmuscularis,Glia,VRK3,1.027027,3.814432989690722
+breast,Adipocyte,VRK3,1.0149254,3.8046564452015903
+esophagusmuscularis,Endothelial cell,VRK3,1.0310559,3.609056265411343
+lung,Immune (lymphocyte),VRK3,1.1538461,3.586206896551724
+esophagusmucosa,Endothelial cell,VRK3,1.0718563,3.569901667379222
+breast,Fibroblast,VRK3,1.1724138,3.5409035409035408
+skin,Other,VRK3,1.0625,3.5398230088495577
+skin,Epithelial cell (keratinocyte),VRK3,1.0746269,3.4411915767847976
+heart,Fibroblast,VRK3,1.0503144,3.42414127274685
+esophagusmuscularis,Immune (myeloid),VRK3,1.030303,3.341208234897064
+lung,Endothelial cell,VRK3,1.0222223,3.277494537509104
+esophagusmuscularis,Fibroblast,VRK3,1.0355029,3.247189931789797
+breast,Endothelial cell,VRK3,1.0,3.1782065834279227
+prostate,Fibroblast,VRK3,1.0277778,3.1523642732049035
+skeletalmuscle,Adipocyte,VRK3,1.0,3.1446540880503147
+heart,Immune (myeloid),VRK3,1.0301508,3.1098609157680888
+skeletalmuscle,Endothelial cell,VRK3,1.0526316,2.854996243425996
+lung,Fibroblast,VRK3,1.0,2.845528455284553
+esophagusmucosa,Fibroblast,VRK3,1.0625,2.841918294849023
+skeletalmuscle,Fibroblast,VRK3,1.0718563,2.809555854643338
+heart,Glia,VRK3,1.0,2.684563758389262
+esophagusmuscularis,Immune (lymphocyte),VRK3,1.125,2.6578073089701
+heart,Endothelial cell,VRK3,1.04,2.619515389652914
+skeletalmuscle,Muscle,VRK3,1.0254238,2.091178946435692
+prostate,Immune (lymphocyte),VRK3,1.0,2.0527859237536656
+skin,Epithelial cell,VRK3,1.0833334,1.9933554817275747
+breast,Muscle,VRK3,1.0,1.973684210526316
+skeletalmuscle,Immune (myeloid),VRK3,1.1538461,1.7639077340569878
+prostate,Glia,VRK3,1.0,1.4925373134328357
+skin,Melanocyte,VRK3,1.5,0.7352941176470588
+skin,Adipocyte,VRK3,0.0,0.0
+skeletalmuscle,Glia,VRK3,0.0,0.0

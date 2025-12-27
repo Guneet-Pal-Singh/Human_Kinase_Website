@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (Langerhans),NADK2,0.1916001
+Myocyte (smooth muscle),NADK2,0.16648093
+Myocyte (cardiac),NADK2,0.14828695
+Epithelial cell (luminal),NADK2,0.14734158
+Sebaceous gland cell,NADK2,0.13977177
+Epithelial cell (basal),NADK2,0.13703428
+Immune (DC),NADK2,0.12855056
+Melanocyte,NADK2,0.12707193
+Myofibroblast,NADK2,0.11874357
+Endothelial cell (lymphatic),NADK2,0.11334698
+Adipocyte,NADK2,0.11300034
+Epithelial cell (Hillock),NADK2,0.110563755
+Epithelial cell (club),NADK2,0.10765337
+Epithelial cell (ciliated),NADK2,0.10723384
+"Myocyte (cardiac, cytoplasmic)",NADK2,0.1059312
+Epithelial cell (basal keratinocyte),NADK2,0.1055831
+Sweat gland cell,NADK2,0.1028196
+ICCs,NADK2,0.098687366
+Pericyte/SMC,NADK2,0.098606415
+Fibroblast,NADK2,0.09584624
+Epithelial cell (suprabasal),NADK2,0.092707954
+Immune (mast cell),NADK2,0.09099997
+Mucous cell,NADK2,0.090639845
+Satellite cell,NADK2,0.09035378
+Immune (alveolar macrophage),NADK2,0.08907218
+Epithelial cell (alveolar type II),NADK2,0.08473363
+Schwann cell,NADK2,0.08421475
+Myoepithelial (basal),NADK2,0.07705724
+Neuroendocrine,NADK2,0.06784758
+"Myocyte (sk. muscle, cytoplasmic)",NADK2,0.061309714
+Epithelial cell (alveolar type I),NADK2,0.059915923
+Immune (B cell),NADK2,0.055118237
+Immune (DC/macrophage),NADK2,0.0513394
+Epithelial cell (suprabasal keratinocyte),NADK2,0.051167607
+Endothelial cell (vascular),NADK2,0.04884437
+Immune (T cell),NADK2,0.034402702
+Myocyte (sk. muscle),NADK2,0.031938408
+Immune (NK cell),NADK2,0.024128178
+Epithelial cell (squamous),NADK2,0.022233523
+Epithelial cell (cornified keratinocyte),NADK2,0.0
+Epithelial cell (mature keratinocyte),NADK2,0.0
+Myocyte (NMJ-rich),NADK2,0.0
+Neuronal,NADK2,0.0

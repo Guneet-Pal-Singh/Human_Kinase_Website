@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (Langerhans),IRAK1,0.28759345
+Immune (alveolar macrophage),IRAK1,0.28081733
+Epithelial cell (suprabasal),IRAK1,0.21418466
+Immune (DC/macrophage),IRAK1,0.18587281
+Epithelial cell (squamous),IRAK1,0.14352599
+Epithelial cell (luminal),IRAK1,0.14138903
+Epithelial cell (Hillock),IRAK1,0.1365417
+Mucous cell,IRAK1,0.13222264
+Epithelial cell (basal),IRAK1,0.13213773
+Immune (B cell),IRAK1,0.12796253
+Myofibroblast,IRAK1,0.11294802
+Immune (DC),IRAK1,0.107251875
+Immune (T cell),IRAK1,0.104185216
+Neuroendocrine,IRAK1,0.0958485
+Epithelial cell (club),IRAK1,0.09369528
+"Myocyte (sk. muscle, cytoplasmic)",IRAK1,0.0929571
+"Myocyte (cardiac, cytoplasmic)",IRAK1,0.090131804
+Adipocyte,IRAK1,0.072712764
+Myocyte (smooth muscle),IRAK1,0.06682515
+Immune (NK cell),IRAK1,0.06663122
+Melanocyte,IRAK1,0.06587972
+Epithelial cell (suprabasal keratinocyte),IRAK1,0.06273081
+Myocyte (NMJ-rich),IRAK1,0.057023786
+Sweat gland cell,IRAK1,0.050859664
+Epithelial cell (mature keratinocyte),IRAK1,0.04963953
+Endothelial cell (lymphatic),IRAK1,0.048658814
+Epithelial cell (ciliated),IRAK1,0.047177676
+Endothelial cell (vascular),IRAK1,0.04418197
+Fibroblast,IRAK1,0.04374974
+Schwann cell,IRAK1,0.04336945
+Immune (mast cell),IRAK1,0.03965204
+Sebaceous gland cell,IRAK1,0.036146607
+Pericyte/SMC,IRAK1,0.033935107
+Epithelial cell (alveolar type I),IRAK1,0.033695545
+ICCs,IRAK1,0.03243423
+Epithelial cell (alveolar type II),IRAK1,0.029099645
+Satellite cell,IRAK1,0.016194832
+Myocyte (sk. muscle),IRAK1,0.015060917
+Epithelial cell (basal keratinocyte),IRAK1,0.014865177
+Myocyte (cardiac),IRAK1,0.008701653
+Myoepithelial (basal),IRAK1,0.003275129
+Epithelial cell (cornified keratinocyte),IRAK1,0.0
+Neuronal,IRAK1,0.0

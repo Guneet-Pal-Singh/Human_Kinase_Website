@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (ciliated),MAPK10,1.8539311
+Epithelial cell (Hillock),MAPK10,1.5516198
+Neuroendocrine,MAPK10,1.4920006
+Neuronal,MAPK10,1.3438729
+Epithelial cell (alveolar type II),MAPK10,1.3147635
+Epithelial cell (club),MAPK10,1.1219862
+Adipocyte,MAPK10,1.0775362
+Epithelial cell (luminal),MAPK10,0.90728515
+Fibroblast,MAPK10,0.72236675
+Mucous cell,MAPK10,0.7171208
+Epithelial cell (basal),MAPK10,0.6145953
+ICCs,MAPK10,0.5419559
+Pericyte/SMC,MAPK10,0.5321978
+Epithelial cell (alveolar type I),MAPK10,0.5284626
+Myocyte (smooth muscle),MAPK10,0.39412603
+Melanocyte,MAPK10,0.3891843
+Myoepithelial (basal),MAPK10,0.38751832
+Schwann cell,MAPK10,0.3762742
+Sebaceous gland cell,MAPK10,0.36984506
+Myofibroblast,MAPK10,0.35450485
+Myocyte (cardiac),MAPK10,0.28844804
+Epithelial cell (mature keratinocyte),MAPK10,0.2796158
+Epithelial cell (basal keratinocyte),MAPK10,0.2729014
+Sweat gland cell,MAPK10,0.2400758
+Myocyte (NMJ-rich),MAPK10,0.22672234
+Epithelial cell (suprabasal),MAPK10,0.21363765
+Satellite cell,MAPK10,0.20460576
+Epithelial cell (squamous),MAPK10,0.20341177
+Immune (mast cell),MAPK10,0.19629608
+Immune (Langerhans),MAPK10,0.19340217
+Immune (alveolar macrophage),MAPK10,0.17826821
+Immune (DC),MAPK10,0.15780164
+Myocyte (sk. muscle),MAPK10,0.1559156
+Epithelial cell (cornified keratinocyte),MAPK10,0.14355744
+Epithelial cell (suprabasal keratinocyte),MAPK10,0.13739645
+Endothelial cell (lymphatic),MAPK10,0.121032916
+Endothelial cell (vascular),MAPK10,0.10726657
+"Myocyte (cardiac, cytoplasmic)",MAPK10,0.09175125
+Immune (DC/macrophage),MAPK10,0.088208035
+Immune (B cell),MAPK10,0.06921996
+Immune (T cell),MAPK10,0.06474112
+Immune (NK cell),MAPK10,0.062670544
+"Myocyte (sk. muscle, cytoplasmic)",MAPK10,0.049850043

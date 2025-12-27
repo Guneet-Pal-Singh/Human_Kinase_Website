@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skin,Immune (myeloid),CIITA,1.3,33.5195530726257
+esophagusmucosa,Immune (myeloid),CIITA,1.5858586,28.32618025751073
+lung,Immune (myeloid),CIITA,1.444659,25.47958681751107
+prostate,Immune (myeloid),CIITA,1.2428571,13.618677042801556
+breast,Immune (myeloid),CIITA,1.2903225,8.659217877094973
+heart,Immune (myeloid),CIITA,1.134172,7.454289732770746
+esophagusmuscularis,Immune (myeloid),CIITA,1.1314554,7.188660141748228
+skeletalmuscle,Immune (myeloid),CIITA,1.106383,6.377204884667571
+skeletalmuscle,Muscle,CIITA,1.0962567,4.970980461654335
+esophagusmuscularis,Adipocyte,CIITA,1.0,4.0
+esophagusmuscularis,Neuron,CIITA,1.0,4.0
+heart,Endothelial cell,CIITA,1.0529802,3.955468238375901
+skin,Endothelial cell,CIITA,1.0277778,3.519061583577713
+breast,Endothelial cell,CIITA,1.1034483,3.2917139614074915
+esophagusmucosa,Immune (lymphocyte),CIITA,1.0847458,3.2453245324532456
+lung,Muscle,CIITA,1.0,3.067484662576687
+lung,Epithelial cell,CIITA,1.0529248,2.9823468328141223
+esophagusmucosa,Endothelial cell,CIITA,1.1555556,2.8858486532706284
+lung,Immune (lymphocyte),CIITA,1.0,2.7586206896551726
+esophagusmucosa,Stromal,CIITA,1.1481482,2.730030333670374
+esophagusmucosa,Epithelial cell,CIITA,1.1449704,2.4499855030443607
+esophagusmuscularis,Endothelial cell,CIITA,1.0462962,2.42098184263618
+prostate,Endothelial cell,CIITA,1.0447761,2.3708421797593773
+lung,Endothelial cell,CIITA,1.0689656,2.112163146394756
+heart,Adipocyte,CIITA,1.0,2.072538860103627
+heart,Muscle,CIITA,1.0428572,1.740716180371353
+skeletalmuscle,Endothelial cell,CIITA,1.0434783,1.7280240420736288
+prostate,Glia,CIITA,1.0,1.4925373134328357
+lung,Fibroblast,CIITA,1.0476191,1.4227642276422765
+esophagusmucosa,Muscle,CIITA,1.1428572,1.3972055888223551
+prostate,Epithelial cell,CIITA,1.1118644,1.2785506869501149
+esophagusmuscularis,Glia,CIITA,1.0,1.134020618556701
+skin,Other,CIITA,1.2,1.106194690265487
+skin,Muscle,CIITA,1.5,1.0752688172043012
+breast,Epithelial cell,CIITA,1.0172414,1.0001724435247457
+skeletalmuscle,Immune (lymphocyte),CIITA,1.0,1.0
+heart,Immune (lymphocyte),CIITA,1.0,0.7163323782234957
+skeletalmuscle,Adipocyte,CIITA,1.0,0.628930817610063
+heart,Fibroblast,CIITA,1.0526316,0.6137611715300959
+prostate,Fibroblast,CIITA,1.0,0.6129597197898424
+esophagusmuscularis,Fibroblast,CIITA,1.0158731,0.605245460659045
+esophagusmuscularis,Muscle,CIITA,1.0,0.578384558477369
+prostate,Muscle,CIITA,1.0,0.5349977708426215
+prostate,Immune (lymphocyte),CIITA,1.3333334,0.4398826979472141
+skeletalmuscle,Fibroblast,CIITA,1.0,0.4037685060565276
+skin,Melanocyte,CIITA,1.0,0.3676470588235294
+breast,Fibroblast,CIITA,1.0,0.3663003663003663
+skin,Epithelial cell,CIITA,1.0,0.3322259136212624
+esophagusmuscularis,Immune (lymphocyte),CIITA,1.0,0.3322259136212624
+esophagusmucosa,Fibroblast,CIITA,1.0,0.2131438721136767
+skin,Fibroblast,CIITA,1.0,0.1890359168241966
+skin,Epithelial cell (keratinocyte),CIITA,1.3333334,0.1540832049306625
+breast,Adipocyte,CIITA,1.0,0.1135718341851221
+breast,Muscle,CIITA,0.0,0.0
+esophagusmucosa,Glia,CIITA,0.0,0.0
+heart,Glia,CIITA,0.0,0.0
+skeletalmuscle,Glia,CIITA,0.0,0.0
+skin,Adipocyte,CIITA,0.0,0.0
+skin,Immune (lymphocyte),CIITA,0.0,0.0

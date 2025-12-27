@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+lung,Fibroblast,PRKD1,2.0481927,56.233062330623305
+prostate,Epithelial cell,PRKD1,2.8191266,51.70979066441295
+prostate,Muscle,PRKD1,3.3633094,49.576460098082926
+skeletalmuscle,Adipocyte,PRKD1,1.7397261,45.911949685534594
+esophagusmucosa,Stromal,PRKD1,1.9458762,39.23154701718908
+prostate,Endothelial cell,PRKD1,1.7504911,36.02264685067233
+esophagusmuscularis,Adipocyte,PRKD1,1.483871,35.42857142857142
+heart,Adipocyte,PRKD1,1.4242424,34.196891191709845
+lung,Epithelial cell,PRKD1,1.6444886,33.46209761163032
+skin,Fibroblast,PRKD1,1.3954803,33.459357277882795
+prostate,Fibroblast,PRKD1,1.6675532,32.9246935201401
+skin,Adipocyte,PRKD1,1.5,32.25806451612903
+esophagusmuscularis,Muscle,PRKD1,2.5405405,27.372385500033623
+esophagusmuscularis,Glia,PRKD1,1.6374046,27.010309278350515
+heart,Fibroblast,PRKD1,1.428115,26.962420587918597
+prostate,Glia,PRKD1,1.6666666,26.86567164179105
+esophagusmucosa,Fibroblast,PRKD1,1.4545455,25.399644760213143
+esophagusmucosa,Endothelial cell,PRKD1,1.52732,24.64728516460026
+breast,Adipocyte,PRKD1,1.409836,24.247586598523565
+heart,Endothelial cell,PRKD1,1.4528711,24.1781270464964
+breast,Fibroblast,PRKD1,1.4461539,23.809523809523807
+skin,Melanocyte,PRKD1,1.2419355,22.794117647058822
+heart,Glia,PRKD1,1.3870968,20.80536912751678
+esophagusmucosa,Glia,PRKD1,1.5384616,20.0
+esophagusmuscularis,Neuron,PRKD1,1.4,20.0
+lung,Muscle,PRKD1,1.4193548,19.018404907975462
+esophagusmucosa,Muscle,PRKD1,1.4111111,17.964071856287426
+skeletalmuscle,Endothelial cell,PRKD1,1.4364407,17.731029301277236
+skeletalmuscle,Fibroblast,PRKD1,1.3540076,17.631224764468374
+skin,Endothelial cell,PRKD1,1.4213483,17.399804496578692
+lung,Endothelial cell,PRKD1,1.2477273,16.023306627822286
+skeletalmuscle,Glia,PRKD1,1.6,14.285714285714285
+skin,Muscle,PRKD1,1.3846154,13.978494623655912
+esophagusmuscularis,Endothelial cell,PRKD1,1.4383117,13.8085631024434
+esophagusmuscularis,Fibroblast,PRKD1,1.308092,12.940724373138629
+heart,Muscle,PRKD1,1.2876434,12.276193633952255
+breast,Endothelial cell,PRKD1,1.1333333,10.21566401816118
+breast,Epithelial cell,PRKD1,1.204947,9.760303500603552
+breast,Muscle,PRKD1,1.0,8.552631578947368
+lung,Immune (myeloid),PRKD1,1.1700224,7.329070339399902
+skin,Immune (lymphocyte),PRKD1,1.0,5.333333333333334
+esophagusmucosa,Epithelial cell,PRKD1,1.259864,5.327631197448536
+skin,Epithelial cell,PRKD1,1.2666667,4.983388704318937
+skeletalmuscle,Muscle,PRKD1,1.232684,4.093748615480041
+esophagusmucosa,Immune (myeloid),PRKD1,1.2972972,2.6466380543633763
+prostate,Immune (myeloid),PRKD1,2.5555556,2.626459143968872
+esophagusmuscularis,Immune (lymphocyte),PRKD1,2.0,2.3255813953488373
+skin,Immune (myeloid),PRKD1,1.0,2.23463687150838
+breast,Immune (myeloid),PRKD1,1.0,2.23463687150838
+skin,Other,PRKD1,1.1,2.2123893805309733
+lung,Immune (lymphocyte),PRKD1,1.0,2.206896551724138
+esophagusmuscularis,Immune (myeloid),PRKD1,1.6181818,1.8562267971650357
+skin,Epithelial cell (keratinocyte),PRKD1,1.1428572,1.7976373908577297
+prostate,Immune (lymphocyte),PRKD1,1.8888888,1.3196480938416422
+skeletalmuscle,Immune (myeloid),PRKD1,1.1111112,1.2211668928086838
+heart,Immune (myeloid),PRKD1,1.0677966,0.922019065478981
+heart,Immune (lymphocyte),PRKD1,1.0,0.7163323782234957
+esophagusmucosa,Immune (lymphocyte),PRKD1,1.1666666,0.6600660066006601
+skeletalmuscle,Immune (lymphocyte),PRKD1,0.0,0.0

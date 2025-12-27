@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Adipocyte,HK2,1.9722222,41.14285714285714
+breast,Adipocyte,HK2,1.3577778,25.55366269165247
+heart,Adipocyte,HK2,1.5227273,22.797927461139896
+skeletalmuscle,Adipocyte,HK2,1.2916666,15.09433962264151
+skin,Melanocyte,HK2,1.2,12.867647058823527
+prostate,Immune (myeloid),HK2,1.4038461,10.116731517509727
+lung,Immune (myeloid),HK2,1.1577123,9.460567306115756
+skin,Epithelial cell,HK2,1.2083334,7.973421926910299
+lung,Epithelial cell,HK2,1.111036,6.134994807892004
+prostate,Epithelial cell,HK2,1.2355589,5.777315476964418
+esophagusmucosa,Epithelial cell,HK2,1.2470589,4.928964917367353
+skin,Adipocyte,HK2,1.0,4.838709677419355
+skeletalmuscle,Muscle,HK2,1.0801604,4.421602941828009
+heart,Muscle,HK2,1.1146882,4.119694960212201
+breast,Immune (myeloid),HK2,1.6428572,3.910614525139665
+skin,Immune (myeloid),HK2,1.0,3.35195530726257
+skin,Muscle,HK2,1.0,2.6881720430107525
+lung,Fibroblast,HK2,1.1052631,2.5745257452574526
+esophagusmuscularis,Immune (myeloid),HK2,1.2027028,2.497468781640229
+skin,Fibroblast,HK2,1.0909091,2.0793950850661624
+esophagusmucosa,Immune (myeloid),HK2,1.0,2.074391988555079
+skeletalmuscle,Immune (lymphocyte),HK2,1.0,2.0
+lung,Muscle,HK2,1.0,1.8404907975460123
+skin,Other,HK2,1.125,1.7699115044247788
+esophagusmucosa,Stromal,HK2,1.0,1.5166835187057632
+prostate,Muscle,HK2,1.2121212,1.471243869817209
+skeletalmuscle,Immune (myeloid),HK2,2.2,1.35685210312076
+breast,Epithelial cell,HK2,1.0897436,1.345059493016037
+lung,Endothelial cell,HK2,1.0555556,1.3109978150036417
+esophagusmuscularis,Fibroblast,HK2,1.0427351,1.1240272840810837
+heart,Fibroblast,HK2,1.0196079,1.0983094648433294
+esophagusmuscularis,Immune (lymphocyte),HK2,1.0,0.9966777408637874
+heart,Immune (myeloid),HK2,1.0,0.7969995311767463
+esophagusmucosa,Fibroblast,HK2,1.0454545,0.7815275310834813
+heart,Glia,HK2,1.0,0.6711409395973155
+esophagusmuscularis,Endothelial cell,HK2,1.0,0.6276619592019727
+prostate,Endothelial cell,HK2,1.0,0.6015569709837225
+esophagusmucosa,Muscle,HK2,1.0,0.5988023952095809
+esophagusmuscularis,Muscle,HK2,1.0227273,0.5918353621628892
+skin,Epithelial cell (keratinocyte),HK2,1.0909091,0.5649717514124294
+lung,Immune (lymphocyte),HK2,1.0,0.5517241379310345
+skeletalmuscle,Fibroblast,HK2,1.0,0.3869448183041722
+prostate,Fibroblast,HK2,1.0,0.3502626970227671
+esophagusmucosa,Endothelial cell,HK2,1.0,0.3206498503634031
+skeletalmuscle,Endothelial cell,HK2,1.0,0.3005259203606311
+heart,Immune (lymphocyte),HK2,1.0,0.2865329512893982
+esophagusmuscularis,Glia,HK2,1.0,0.2061855670103093
+skin,Endothelial cell,HK2,1.0,0.1955034213098729
+heart,Endothelial cell,HK2,1.0,0.1178781925343811
+breast,Endothelial cell,HK2,1.0,0.1135073779795686
+esophagusmucosa,Immune (lymphocyte),HK2,1.0,0.055005500550055
+esophagusmuscularis,Neuron,HK2,0.0,0.0
+breast,Fibroblast,HK2,0.0,0.0
+breast,Muscle,HK2,0.0,0.0
+esophagusmucosa,Glia,HK2,0.0,0.0
+prostate,Immune (lymphocyte),HK2,0.0,0.0
+prostate,Glia,HK2,0.0,0.0
+skeletalmuscle,Glia,HK2,0.0,0.0
+skin,Immune (lymphocyte),HK2,0.0,0.0

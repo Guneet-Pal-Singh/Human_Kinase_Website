@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (ciliated),NME7,1.1138058
+Myocyte (NMJ-rich),NME7,0.789709
+Neuroendocrine,NME7,0.6698711
+Myocyte (sk. muscle),NME7,0.64521194
+Epithelial cell (club),NME7,0.4198292
+Epithelial cell (alveolar type I),NME7,0.40897897
+Epithelial cell (alveolar type II),NME7,0.39579234
+Myocyte (cardiac),NME7,0.3867885
+Epithelial cell (Hillock),NME7,0.37807775
+ICCs,NME7,0.3682884
+Immune (mast cell),NME7,0.35731387
+Myoepithelial (basal),NME7,0.3428568
+Epithelial cell (luminal),NME7,0.33201757
+Neuronal,NME7,0.31834874
+Epithelial cell (basal),NME7,0.30768636
+Immune (T cell),NME7,0.30676973
+Fibroblast,NME7,0.30352116
+Myofibroblast,NME7,0.29831812
+Schwann cell,NME7,0.29049844
+Satellite cell,NME7,0.28750595
+Endothelial cell (lymphatic),NME7,0.2794798
+Mucous cell,NME7,0.26826757
+Immune (alveolar macrophage),NME7,0.25876644
+Pericyte/SMC,NME7,0.24151538
+Endothelial cell (vascular),NME7,0.23336251
+Myocyte (smooth muscle),NME7,0.23104241
+Adipocyte,NME7,0.22174257
+Immune (B cell),NME7,0.17328325
+Melanocyte,NME7,0.17226557
+"Myocyte (sk. muscle, cytoplasmic)",NME7,0.16867027
+Sweat gland cell,NME7,0.16736914
+Immune (NK cell),NME7,0.16731247
+Epithelial cell (suprabasal),NME7,0.16343056
+Sebaceous gland cell,NME7,0.16323075
+Immune (DC/macrophage),NME7,0.16015594
+Epithelial cell (basal keratinocyte),NME7,0.1240686
+Epithelial cell (suprabasal keratinocyte),NME7,0.108259946
+Epithelial cell (cornified keratinocyte),NME7,0.105044
+Immune (DC),NME7,0.10003972
+"Myocyte (cardiac, cytoplasmic)",NME7,0.08180117
+Epithelial cell (squamous),NME7,0.051491585
+Epithelial cell (mature keratinocyte),NME7,0.030744582
+Immune (Langerhans),NME7,0.0

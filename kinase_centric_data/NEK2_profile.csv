@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skin,Other,NEK2,1.0,1.106194690265487
+skin,Epithelial cell (keratinocyte),NEK2,1.0588236,0.8731381612737544
+esophagusmucosa,Epithelial cell,NEK2,1.0909091,0.7175993041461293
+breast,Muscle,NEK2,1.0,0.6578947368421052
+skin,Muscle,NEK2,1.0,0.5376344086021506
+prostate,Immune (lymphocyte),NEK2,1.0,0.4398826979472141
+esophagusmuscularis,Immune (myeloid),NEK2,1.2,0.3374957813027337
+skin,Epithelial cell,NEK2,1.0,0.3322259136212624
+esophagusmucosa,Stromal,NEK2,1.0,0.2022244691607684
+esophagusmucosa,Immune (myeloid),NEK2,1.5,0.1430615164520743
+breast,Endothelial cell,NEK2,1.0,0.1135073779795686
+lung,Endothelial cell,NEK2,1.0,0.1092498179169701
+skin,Endothelial cell,NEK2,1.0,0.0977517106549364
+prostate,Immune (myeloid),NEK2,1.0,0.0972762645914396
+heart,Endothelial cell,NEK2,1.0,0.091683038637852
+skeletalmuscle,Endothelial cell,NEK2,1.0,0.0751314800901577
+lung,Epithelial cell,NEK2,1.0,0.0747663551401869
+heart,Immune (myeloid),NEK2,1.0,0.0625097671511173
+breast,Adipocyte,NEK2,1.0,0.056785917092561
+prostate,Epithelial cell,NEK2,1.3076923,0.0563429116283101
+esophagusmucosa,Immune (lymphocyte),NEK2,1.0,0.055005500550055
+lung,Immune (myeloid),NEK2,1.3333334,0.0491883915395966
+prostate,Muscle,NEK2,1.0,0.0445831475702184
+esophagusmucosa,Fibroblast,NEK2,1.0,0.0355239786856127
+heart,Muscle,NEK2,1.0,0.03315649867374
+esophagusmuscularis,Endothelial cell,NEK2,1.0,0.0224164985429275
+esophagusmucosa,Endothelial cell,NEK2,1.0,0.0213766566908935
+breast,Epithelial cell,NEK2,1.0,0.0172443524745645
+skeletalmuscle,Muscle,NEK2,1.0,0.0044304638695671
+heart,Immune (lymphocyte),NEK2,0.0,0.0
+heart,Glia,NEK2,0.0,0.0
+esophagusmuscularis,Muscle,NEK2,0.0,0.0
+esophagusmuscularis,Neuron,NEK2,0.0,0.0
+heart,Fibroblast,NEK2,0.0,0.0
+heart,Adipocyte,NEK2,0.0,0.0
+esophagusmucosa,Muscle,NEK2,0.0,0.0
+esophagusmuscularis,Adipocyte,NEK2,0.0,0.0
+esophagusmuscularis,Fibroblast,NEK2,0.0,0.0
+esophagusmucosa,Glia,NEK2,0.0,0.0
+breast,Fibroblast,NEK2,0.0,0.0
+breast,Immune (myeloid),NEK2,0.0,0.0
+esophagusmuscularis,Glia,NEK2,0.0,0.0
+esophagusmuscularis,Immune (lymphocyte),NEK2,0.0,0.0
+skeletalmuscle,Adipocyte,NEK2,0.0,0.0
+prostate,Endothelial cell,NEK2,0.0,0.0
+prostate,Fibroblast,NEK2,0.0,0.0
+prostate,Glia,NEK2,0.0,0.0
+lung,Immune (lymphocyte),NEK2,0.0,0.0
+lung,Fibroblast,NEK2,0.0,0.0
+lung,Muscle,NEK2,0.0,0.0
+skeletalmuscle,Fibroblast,NEK2,0.0,0.0
+skin,Adipocyte,NEK2,0.0,0.0
+skeletalmuscle,Immune (myeloid),NEK2,0.0,0.0
+skeletalmuscle,Glia,NEK2,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),NEK2,0.0,0.0
+skin,Immune (lymphocyte),NEK2,0.0,0.0
+skin,Fibroblast,NEK2,0.0,0.0
+skin,Melanocyte,NEK2,0.0,0.0
+skin,Immune (myeloid),NEK2,0.0,0.0

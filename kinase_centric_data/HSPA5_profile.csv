@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+prostate,Immune (myeloid),HSPA5,1.9795918,23.832684824902724
+esophagusmuscularis,Neuron,HSPA5,1.0,20.0
+prostate,Glia,HSPA5,1.25,17.91044776119403
+prostate,Fibroblast,HSPA5,1.3176471,14.886164623467602
+prostate,Epithelial cell,HSPA5,1.7519406,12.841849781129458
+prostate,Muscle,HSPA5,1.3428571,12.483281319661168
+heart,Muscle,HSPA5,1.6157205,11.389257294429708
+esophagusmuscularis,Adipocyte,HSPA5,1.6842105,10.857142857142858
+skin,Adipocyte,HSPA5,2.8333333,9.67741935483871
+prostate,Endothelial cell,HSPA5,1.3295455,9.341825902335456
+esophagusmucosa,Immune (myeloid),HSPA5,1.55,8.583690987124463
+lung,Immune (myeloid),HSPA5,1.7625755,8.148876865059846
+skin,Other,HSPA5,1.2647059,7.52212389380531
+heart,Adipocyte,HSPA5,1.1428572,7.253886010362693
+esophagusmuscularis,Fibroblast,HSPA5,1.2622283,7.070804111826304
+esophagusmucosa,Epithelial cell,HSPA5,1.6835586,6.436648303856191
+heart,Fibroblast,HSPA5,1.1481482,5.814579519758803
+skeletalmuscle,Glia,HSPA5,1.0,5.714285714285714
+heart,Glia,HSPA5,1.25,5.369127516778524
+skin,Immune (lymphocyte),HSPA5,1.0,5.333333333333334
+esophagusmuscularis,Muscle,HSPA5,1.2954248,5.14493240971148
+breast,Fibroblast,HSPA5,1.1190476,5.128205128205128
+breast,Muscle,HSPA5,1.1428572,4.605263157894736
+esophagusmucosa,Muscle,HSPA5,1.4782609,4.590818363273453
+breast,Endothelial cell,HSPA5,1.2820513,4.426787741203178
+breast,Adipocyte,HSPA5,1.0921053,4.315729699034639
+esophagusmuscularis,Immune (myeloid),HSPA5,1.4628099,4.0836989537630775
+esophagusmuscularis,Endothelial cell,HSPA5,1.2556819,3.945303743555257
+breast,Immune (myeloid),HSPA5,1.2857143,3.910614525139665
+heart,Immune (myeloid),HSPA5,1.2857143,3.8287232380059386
+skin,Endothelial cell,HSPA5,1.1794872,3.812316715542522
+skeletalmuscle,Immune (myeloid),HSPA5,1.4285715,3.799185888738128
+skeletalmuscle,Endothelial cell,HSPA5,1.08,3.756574004507888
+breast,Epithelial cell,HSPA5,1.7538462,3.362648732540093
+lung,Epithelial cell,HSPA5,1.2202531,3.28141225337487
+esophagusmucosa,Stromal,HSPA5,1.21875,3.235591506572296
+skeletalmuscle,Fibroblast,HSPA5,1.027027,3.1123822341857337
+esophagusmuscularis,Immune (lymphocyte),HSPA5,1.1111112,2.990033222591362
+skin,Immune (myeloid),HSPA5,1.0,2.793296089385475
+heart,Immune (lymphocyte),HSPA5,1.4210526,2.722063037249284
+esophagusmucosa,Endothelial cell,HSPA5,1.1269841,2.6934587430525863
+esophagusmuscularis,Glia,HSPA5,1.16,2.5773195876288657
+skeletalmuscle,Adipocyte,HSPA5,1.0,2.515723270440252
+prostate,Immune (lymphocyte),HSPA5,1.0625,2.346041055718475
+heart,Endothelial cell,HSPA5,1.0833334,2.043222003929273
+skin,Fibroblast,HSPA5,1.0,1.890359168241966
+lung,Muscle,HSPA5,1.0,1.8404907975460123
+esophagusmucosa,Fibroblast,HSPA5,1.0833334,1.7051509769094138
+skin,Muscle,HSPA5,1.0,1.6129032258064515
+lung,Endothelial cell,HSPA5,1.0681819,1.602330662782229
+skin,Epithelial cell (keratinocyte),HSPA5,1.0,1.4894709809964048
+lung,Fibroblast,HSPA5,1.25,1.3550135501355014
+skin,Epithelial cell,HSPA5,1.125,1.32890365448505
+skeletalmuscle,Muscle,HSPA5,1.1094891,1.2139471002613973
+lung,Immune (lymphocyte),HSPA5,1.2857143,0.9655172413793104
+skin,Melanocyte,HSPA5,1.0,0.7352941176470588
+esophagusmucosa,Immune (lymphocyte),HSPA5,1.0833334,0.6600660066006601
+esophagusmucosa,Glia,HSPA5,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),HSPA5,0.0,0.0

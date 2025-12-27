@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Neuronal,CHEK1,0.15225095
+Epithelial cell (basal),CHEK1,0.07966968
+Immune (Langerhans),CHEK1,0.066622026
+Immune (alveolar macrophage),CHEK1,0.059030663
+Epithelial cell (suprabasal),CHEK1,0.046178468
+Epithelial cell (Hillock),CHEK1,0.045457892
+Epithelial cell (alveolar type II),CHEK1,0.044797648
+Epithelial cell (basal keratinocyte),CHEK1,0.04040127
+Myoepithelial (basal),CHEK1,0.03555877
+Immune (T cell),CHEK1,0.03119251
+Epithelial cell (alveolar type I),CHEK1,0.03092084
+Myocyte (sk. muscle),CHEK1,0.02987678
+Epithelial cell (suprabasal keratinocyte),CHEK1,0.028236082
+Epithelial cell (club),CHEK1,0.028197967
+Myocyte (NMJ-rich),CHEK1,0.027992193
+Epithelial cell (ciliated),CHEK1,0.027465653
+Sweat gland cell,CHEK1,0.027371662
+Myofibroblast,CHEK1,0.02669245
+Neuroendocrine,CHEK1,0.024404513
+Fibroblast,CHEK1,0.024286646
+Myocyte (cardiac),CHEK1,0.024178071
+Immune (DC/macrophage),CHEK1,0.02407152
+Epithelial cell (luminal),CHEK1,0.022403205
+Immune (NK cell),CHEK1,0.021411082
+Pericyte/SMC,CHEK1,0.020271426
+Adipocyte,CHEK1,0.01976632
+Endothelial cell (lymphatic),CHEK1,0.019468397
+Sebaceous gland cell,CHEK1,0.01769027
+Satellite cell,CHEK1,0.017687041
+Epithelial cell (mature keratinocyte),CHEK1,0.01714721
+Epithelial cell (squamous),CHEK1,0.014607272
+Myocyte (smooth muscle),CHEK1,0.013912995
+Endothelial cell (vascular),CHEK1,0.013906182
+Immune (mast cell),CHEK1,0.012038125
+Mucous cell,CHEK1,0.010431127
+Melanocyte,CHEK1,0.0095053995
+"Myocyte (sk. muscle, cytoplasmic)",CHEK1,0.008586771
+"Myocyte (cardiac, cytoplasmic)",CHEK1,0.008453415
+Schwann cell,CHEK1,0.0076824403
+Epithelial cell (cornified keratinocyte),CHEK1,0.0
+Immune (DC),CHEK1,0.0
+ICCs,CHEK1,0.0
+Immune (B cell),CHEK1,0.0

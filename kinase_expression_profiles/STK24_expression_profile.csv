@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (squamous),STK24,1.5297058
+Epithelial cell (cornified keratinocyte),STK24,1.2776765
+Epithelial cell (suprabasal),STK24,0.9151082
+Melanocyte,STK24,0.71698564
+Epithelial cell (mature keratinocyte),STK24,0.70110506
+Myofibroblast,STK24,0.616941
+Adipocyte,STK24,0.5755381
+Immune (T cell),STK24,0.55601245
+Mucous cell,STK24,0.53750616
+Epithelial cell (Hillock),STK24,0.5283257
+Immune (alveolar macrophage),STK24,0.520734
+Epithelial cell (basal),STK24,0.5046036
+Epithelial cell (club),STK24,0.44897404
+Epithelial cell (basal keratinocyte),STK24,0.43068504
+Fibroblast,STK24,0.42765442
+Immune (DC),STK24,0.42746133
+Immune (B cell),STK24,0.42305923
+Epithelial cell (ciliated),STK24,0.39575782
+Endothelial cell (vascular),STK24,0.3944114
+Epithelial cell (suprabasal keratinocyte),STK24,0.36320156
+Sebaceous gland cell,STK24,0.36157277
+Epithelial cell (alveolar type I),STK24,0.33788958
+Satellite cell,STK24,0.33779895
+Immune (Langerhans),STK24,0.32946393
+Immune (DC/macrophage),STK24,0.32402956
+Pericyte/SMC,STK24,0.31750894
+Myoepithelial (basal),STK24,0.31733572
+Myocyte (smooth muscle),STK24,0.30600896
+Myocyte (NMJ-rich),STK24,0.3004884
+Myocyte (cardiac),STK24,0.2987246
+Endothelial cell (lymphatic),STK24,0.29854938
+Epithelial cell (luminal),STK24,0.29682365
+Epithelial cell (alveolar type II),STK24,0.27141544
+Immune (mast cell),STK24,0.2678571
+Immune (NK cell),STK24,0.25086161
+ICCs,STK24,0.25019705
+"Myocyte (cardiac, cytoplasmic)",STK24,0.2106422
+Schwann cell,STK24,0.20406003
+Sweat gland cell,STK24,0.1697926
+"Myocyte (sk. muscle, cytoplasmic)",STK24,0.14314294
+Myocyte (sk. muscle),STK24,0.10814762
+Neuronal,STK24,0.09202397
+Neuroendocrine,STK24,0.0899775

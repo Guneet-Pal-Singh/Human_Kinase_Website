@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Neuron,HUNK,1.4,20.0
+lung,Epithelial cell,HUNK,1.1006552,6.9740394600207685
+breast,Fibroblast,HUNK,1.2173913,5.616605616605617
+lung,Endothelial cell,HUNK,1.0808823,4.952658412235979
+lung,Immune (myeloid),HUNK,1.0797342,4.935235284472864
+esophagusmuscularis,Adipocyte,HUNK,1.0,4.0
+prostate,Muscle,HUNK,1.0895523,2.9870708872046365
+skeletalmuscle,Glia,HUNK,1.0,2.857142857142857
+skin,Muscle,HUNK,1.0,2.6881720430107525
+esophagusmuscularis,Glia,HUNK,1.1538461,2.6804123711340204
+prostate,Epithelial cell,HUNK,1.1232877,2.531096953148702
+esophagusmucosa,Epithelial cell,HUNK,1.090379,2.48622789214265
+skin,Fibroblast,HUNK,1.0769231,2.457466918714556
+breast,Epithelial cell,HUNK,1.0492958,2.4486980513881704
+esophagusmucosa,Fibroblast,HUNK,1.0447761,2.380106571936057
+heart,Glia,HUNK,1.0,2.348993288590604
+heart,Muscle,HUNK,1.0602837,2.3375331564986737
+lung,Fibroblast,HUNK,1.0,2.168021680216802
+esophagusmuscularis,Fibroblast,HUNK,1.046083,2.0847343644922667
+esophagusmucosa,Stromal,HUNK,1.1052631,1.9211324570273005
+prostate,Fibroblast,HUNK,1.0476191,1.838879159369527
+skin,Melanocyte,HUNK,1.0,1.8382352941176472
+skin,Endothelial cell,HUNK,1.0,1.7595307917888563
+skin,Epithelial cell (keratinocyte),HUNK,1.0294118,1.7462763225475089
+skin,Epithelial cell,HUNK,1.0,1.6611295681063123
+skin,Adipocyte,HUNK,1.0,1.6129032258064515
+esophagusmuscularis,Muscle,HUNK,1.0779221,1.5535678256775842
+esophagusmucosa,Glia,HUNK,1.0,1.5384615384615383
+prostate,Glia,HUNK,1.0,1.4925373134328357
+skeletalmuscle,Fibroblast,HUNK,1.0465117,1.4468371467025571
+prostate,Endothelial cell,HUNK,1.0526316,1.3446567586694975
+breast,Muscle,HUNK,1.0,1.3157894736842104
+lung,Muscle,HUNK,1.5,1.2269938650306749
+esophagusmuscularis,Endothelial cell,HUNK,1.0588236,1.143241425689307
+skeletalmuscle,Muscle,HUNK,1.003876,1.1430596783483231
+skin,Immune (myeloid),HUNK,1.0,1.11731843575419
+lung,Immune (lymphocyte),HUNK,1.0,1.103448275862069
+skeletalmuscle,Immune (lymphocyte),HUNK,1.0,1.0
+heart,Fibroblast,HUNK,1.0348837,0.9260256272208464
+skin,Other,HUNK,1.0,0.8849557522123894
+breast,Immune (myeloid),HUNK,1.0,0.8379888268156425
+breast,Endothelial cell,HUNK,1.0,0.7945516458569807
+prostate,Immune (myeloid),HUNK,1.0,0.7782101167315175
+skeletalmuscle,Endothelial cell,HUNK,1.0,0.7513148009015778
+esophagusmucosa,Immune (myeloid),HUNK,1.0,0.7153075822603719
+heart,Immune (myeloid),HUNK,1.0,0.7032348804500703
+heart,Endothelial cell,HUNK,1.0196079,0.6679764243614932
+esophagusmuscularis,Immune (lymphocyte),HUNK,1.0,0.6644518272425249
+esophagusmuscularis,Immune (myeloid),HUNK,1.0,0.641241984475194
+breast,Adipocyte,HUNK,1.0,0.6246450880181714
+esophagusmucosa,Muscle,HUNK,1.0,0.5988023952095809
+esophagusmucosa,Endothelial cell,HUNK,1.0357143,0.5985463873450192
+prostate,Immune (lymphocyte),HUNK,1.25,0.5865102639296188
+heart,Immune (lymphocyte),HUNK,1.0,0.5730659025787965
+esophagusmucosa,Immune (lymphocyte),HUNK,1.0,0.5500550055005501
+heart,Adipocyte,HUNK,1.0,0.5181347150259068
+skeletalmuscle,Immune (myeloid),HUNK,1.0,0.4070556309362279
+skeletalmuscle,Adipocyte,HUNK,0.0,0.0
+skin,Immune (lymphocyte),HUNK,0.0,0.0

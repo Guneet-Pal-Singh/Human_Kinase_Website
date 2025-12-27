@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Fibroblast,INSRR,1.0490463,3.5257949851090404
+prostate,Fibroblast,INSRR,1.1724138,2.539404553415061
+heart,Fibroblast,INSRR,1.0535715,2.4119737267147627
+skeletalmuscle,Fibroblast,INSRR,1.0224719,1.497308209959623
+heart,Muscle,INSRR,1.0183486,0.9035145888594164
+breast,Fibroblast,INSRR,1.3333334,0.7326007326007326
+esophagusmuscularis,Immune (lymphocyte),INSRR,1.0,0.6644518272425249
+lung,Immune (myeloid),INSRR,1.0,0.6066568289883587
+lung,Fibroblast,INSRR,1.0,0.5420054200542005
+lung,Endothelial cell,INSRR,1.0714285,0.5098324836125273
+prostate,Muscle,INSRR,1.0,0.4012483281319661
+lung,Epithelial cell,INSRR,1.0,0.3032191069574247
+prostate,Immune (myeloid),INSRR,1.0,0.1945525291828793
+skeletalmuscle,Muscle,INSRR,1.0,0.1905099463913871
+skin,Fibroblast,INSRR,1.0,0.1890359168241966
+esophagusmuscularis,Muscle,INSRR,1.0357143,0.1883112515972829
+esophagusmuscularis,Immune (myeloid),INSRR,1.2,0.1687478906513668
+prostate,Immune (lymphocyte),INSRR,1.0,0.1466275659824047
+lung,Immune (lymphocyte),INSRR,1.0,0.1379310344827586
+skeletalmuscle,Immune (myeloid),INSRR,1.0,0.1356852103120759
+breast,Epithelial cell,INSRR,1.0,0.120710467321952
+esophagusmuscularis,Endothelial cell,INSRR,1.0,0.1120824927146379
+esophagusmuscularis,Glia,INSRR,1.0,0.1030927835051546
+prostate,Epithelial cell,INSRR,1.0454545,0.0953495427556017
+heart,Immune (myeloid),INSRR,1.0,0.093764650726676
+prostate,Endothelial cell,INSRR,1.0,0.0707714083510261
+breast,Adipocyte,INSRR,2.0,0.056785917092561
+esophagusmucosa,Immune (lymphocyte),INSRR,1.0,0.055005500550055
+esophagusmucosa,Epithelial cell,INSRR,1.0,0.0507393447376051
+heart,Endothelial cell,INSRR,1.0,0.0261951538965291
+esophagusmucosa,Endothelial cell,INSRR,1.0,0.0213766566908935
+esophagusmuscularis,Adipocyte,INSRR,0.0,0.0
+heart,Glia,INSRR,0.0,0.0
+esophagusmuscularis,Neuron,INSRR,0.0,0.0
+heart,Adipocyte,INSRR,0.0,0.0
+breast,Muscle,INSRR,0.0,0.0
+breast,Immune (myeloid),INSRR,0.0,0.0
+esophagusmucosa,Fibroblast,INSRR,0.0,0.0
+breast,Endothelial cell,INSRR,0.0,0.0
+esophagusmucosa,Glia,INSRR,0.0,0.0
+esophagusmucosa,Stromal,INSRR,0.0,0.0
+esophagusmucosa,Muscle,INSRR,0.0,0.0
+esophagusmucosa,Immune (myeloid),INSRR,0.0,0.0
+heart,Immune (lymphocyte),INSRR,0.0,0.0
+skeletalmuscle,Adipocyte,INSRR,0.0,0.0
+lung,Muscle,INSRR,0.0,0.0
+prostate,Glia,INSRR,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),INSRR,0.0,0.0
+skeletalmuscle,Glia,INSRR,0.0,0.0
+skin,Adipocyte,INSRR,0.0,0.0
+skeletalmuscle,Endothelial cell,INSRR,0.0,0.0
+skin,Endothelial cell,INSRR,0.0,0.0
+skin,Epithelial cell,INSRR,0.0,0.0
+skin,Epithelial cell (keratinocyte),INSRR,0.0,0.0
+skin,Immune (lymphocyte),INSRR,0.0,0.0
+skin,Immune (myeloid),INSRR,0.0,0.0
+skin,Melanocyte,INSRR,0.0,0.0
+skin,Muscle,INSRR,0.0,0.0
+skin,Other,INSRR,0.0,0.0

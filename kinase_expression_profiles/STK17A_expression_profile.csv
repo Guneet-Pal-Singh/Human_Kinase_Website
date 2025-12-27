@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (B cell),STK17A,0.8421226
+Immune (NK cell),STK17A,0.76192045
+Immune (T cell),STK17A,0.7177245
+Epithelial cell (alveolar type I),STK17A,0.5268501
+ICCs,STK17A,0.34154066
+Neuronal,STK17A,0.3276427
+Myocyte (cardiac),STK17A,0.29996005
+Schwann cell,STK17A,0.2987692
+Myocyte (sk. muscle),STK17A,0.26651862
+Epithelial cell (Hillock),STK17A,0.2623253
+Epithelial cell (ciliated),STK17A,0.2618229
+Mucous cell,STK17A,0.26170155
+Epithelial cell (alveolar type II),STK17A,0.25486398
+Myocyte (smooth muscle),STK17A,0.24988411
+"Myocyte (cardiac, cytoplasmic)",STK17A,0.23846962
+Immune (Langerhans),STK17A,0.2280198
+Immune (DC),STK17A,0.21540414
+Immune (mast cell),STK17A,0.2130189
+Epithelial cell (basal),STK17A,0.20909426
+Epithelial cell (club),STK17A,0.19542824
+Satellite cell,STK17A,0.19402322
+Endothelial cell (vascular),STK17A,0.16914406
+Myocyte (NMJ-rich),STK17A,0.16795127
+Epithelial cell (suprabasal),STK17A,0.16787013
+Immune (DC/macrophage),STK17A,0.16186997
+Fibroblast,STK17A,0.16083716
+Myofibroblast,STK17A,0.14572167
+Pericyte/SMC,STK17A,0.14135067
+"Myocyte (sk. muscle, cytoplasmic)",STK17A,0.1405034
+Myoepithelial (basal),STK17A,0.13864835
+Sebaceous gland cell,STK17A,0.13841759
+Immune (alveolar macrophage),STK17A,0.13826524
+Adipocyte,STK17A,0.13795345
+Epithelial cell (cornified keratinocyte),STK17A,0.12106297
+Endothelial cell (lymphatic),STK17A,0.1152018
+Epithelial cell (squamous),STK17A,0.10932232
+Epithelial cell (luminal),STK17A,0.10270893
+Epithelial cell (basal keratinocyte),STK17A,0.08722844
+Epithelial cell (suprabasal keratinocyte),STK17A,0.051812172
+Epithelial cell (mature keratinocyte),STK17A,0.049818307
+Neuroendocrine,STK17A,0.037259385
+Sweat gland cell,STK17A,0.017379344
+Melanocyte,STK17A,0.015432068

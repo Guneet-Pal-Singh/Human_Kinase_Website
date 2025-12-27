@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Neuron,CMPK2,1.0,4.0
+lung,Immune (myeloid),CMPK2,1.2157894,3.115264797507788
+esophagusmucosa,Glia,CMPK2,1.0,3.076923076923077
+esophagusmuscularis,Glia,CMPK2,1.08,2.5773195876288657
+esophagusmuscularis,Immune (myeloid),CMPK2,1.0238096,1.4174822814714816
+heart,Endothelial cell,CMPK2,1.0277778,1.4145383104125735
+esophagusmuscularis,Adipocyte,CMPK2,1.0,1.1428571428571428
+esophagusmuscularis,Endothelial cell,CMPK2,1.04,1.1208249271463795
+prostate,Immune (myeloid),CMPK2,1.1818181,1.0700389105058363
+skeletalmuscle,Immune (lymphocyte),CMPK2,1.0,1.0
+esophagusmuscularis,Immune (lymphocyte),CMPK2,1.0,0.9966777408637874
+skeletalmuscle,Endothelial cell,CMPK2,1.0769231,0.9767092411720512
+prostate,Endothelial cell,CMPK2,1.0769231,0.9200283085633404
+lung,Endothelial cell,CMPK2,1.0,0.8375819373634377
+esophagusmucosa,Immune (myeloid),CMPK2,1.0909091,0.7868383404864091
+esophagusmucosa,Immune (lymphocyte),CMPK2,1.0,0.7150715071507151
+esophagusmucosa,Endothelial cell,CMPK2,1.0666667,0.6412997007268063
+lung,Epithelial cell,CMPK2,1.0326798,0.6355140186915887
+skeletalmuscle,Adipocyte,CMPK2,1.0,0.628930817610063
+skin,Endothelial cell,CMPK2,1.0,0.4887585532746823
+heart,Immune (myeloid),CMPK2,1.0333333,0.4688232536333802
+esophagusmucosa,Epithelial cell,CMPK2,1.0983607,0.4421571469991302
+prostate,Fibroblast,CMPK2,1.0,0.4378283712784588
+heart,Immune (lymphocyte),CMPK2,1.0,0.4297994269340974
+prostate,Muscle,CMPK2,1.0,0.3566651805617477
+breast,Endothelial cell,CMPK2,1.0,0.340522133938706
+heart,Glia,CMPK2,1.0,0.3355704697986577
+skin,Epithelial cell,CMPK2,1.0,0.3322259136212624
+prostate,Immune (lymphocyte),CMPK2,1.5,0.2932551319648094
+breast,Immune (myeloid),CMPK2,1.0,0.2793296089385474
+lung,Immune (lymphocyte),CMPK2,1.0,0.2758620689655172
+skeletalmuscle,Immune (myeloid),CMPK2,1.0,0.2713704206241519
+lung,Fibroblast,CMPK2,1.0,0.2710027100271002
+esophagusmuscularis,Muscle,CMPK2,1.054054,0.2488398681821239
+heart,Muscle,CMPK2,1.0,0.2320954907161803
+prostate,Epithelial cell,CMPK2,1.0212766,0.2037012958869674
+esophagusmuscularis,Fibroblast,CMPK2,1.0476191,0.2017484868863483
+esophagusmucosa,Muscle,CMPK2,1.0,0.1996007984031935
+skin,Fibroblast,CMPK2,1.0,0.1890359168241966
+skeletalmuscle,Fibroblast,CMPK2,1.0,0.1682368775235531
+skin,Epithelial cell (keratinocyte),CMPK2,1.0,0.1540832049306625
+esophagusmucosa,Fibroblast,CMPK2,1.0,0.1420959147424511
+heart,Fibroblast,CMPK2,1.3076923,0.1399806180682674
+esophagusmucosa,Stromal,CMPK2,1.0,0.1011122345803842
+skeletalmuscle,Muscle,CMPK2,1.0,0.0753178857826414
+breast,Epithelial cell,CMPK2,1.0,0.0689774098982583
+breast,Adipocyte,CMPK2,1.0,0.056785917092561
+heart,Adipocyte,CMPK2,0.0,0.0
+breast,Fibroblast,CMPK2,0.0,0.0
+breast,Muscle,CMPK2,0.0,0.0
+lung,Muscle,CMPK2,0.0,0.0
+prostate,Glia,CMPK2,0.0,0.0
+skeletalmuscle,Glia,CMPK2,0.0,0.0
+skin,Adipocyte,CMPK2,0.0,0.0
+skin,Immune (lymphocyte),CMPK2,0.0,0.0
+skin,Immune (myeloid),CMPK2,0.0,0.0
+skin,Melanocyte,CMPK2,0.0,0.0
+skin,Muscle,CMPK2,0.0,0.0
+skin,Other,CMPK2,0.0,0.0

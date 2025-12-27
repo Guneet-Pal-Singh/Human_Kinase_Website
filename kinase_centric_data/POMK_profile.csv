@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skin,Immune (myeloid),POMK,1.5,2.23463687150838
+esophagusmucosa,Immune (myeloid),POMK,1.0,1.859799713876967
+heart,Muscle,POMK,1.0412844,1.807029177718833
+lung,Immune (myeloid),POMK,1.0095239,1.721593703885883
+heart,Adipocyte,POMK,1.0,1.5544041450777202
+esophagusmucosa,Glia,POMK,1.0,1.5384615384615383
+prostate,Glia,POMK,1.0,1.4925373134328357
+lung,Epithelial cell,POMK,1.026239,1.4247144340602285
+prostate,Immune (myeloid),POMK,1.0714285,1.3618677042801557
+skeletalmuscle,Immune (myeloid),POMK,1.1,1.35685210312076
+esophagusmuscularis,Immune (myeloid),POMK,1.0,1.3162335470806614
+breast,Muscle,POMK,1.0,1.3157894736842104
+heart,Immune (myeloid),POMK,1.0120482,1.2970776683856853
+esophagusmucosa,Epithelial cell,POMK,1.0179641,1.2104957958828646
+heart,Fibroblast,POMK,1.0277778,1.1629159039517605
+heart,Immune (lymphocyte),POMK,1.0,1.146131805157593
+esophagusmuscularis,Adipocyte,POMK,1.0,1.1428571428571428
+prostate,Epithelial cell,POMK,1.032258,1.0748493910631474
+prostate,Immune (lymphocyte),POMK,1.0,1.0263929618768328
+heart,Glia,POMK,1.0,1.006711409395973
+skeletalmuscle,Immune (lymphocyte),POMK,1.0,1.0
+esophagusmuscularis,Immune (lymphocyte),POMK,1.0,0.9966777408637874
+lung,Immune (lymphocyte),POMK,1.0,0.9655172413793104
+esophagusmucosa,Fibroblast,POMK,1.0384616,0.9236234458259326
+lung,Endothelial cell,POMK,1.0,0.9104151493080844
+breast,Immune (myeloid),POMK,1.0,0.8379888268156425
+esophagusmucosa,Immune (lymphocyte),POMK,1.0,0.825082508250825
+esophagusmucosa,Endothelial cell,POMK,1.027027,0.790936297563061
+esophagusmuscularis,Endothelial cell,POMK,1.0,0.7621609504595382
+breast,Adipocyte,POMK,1.0,0.7382169222032936
+esophagusmucosa,Stromal,POMK,1.0,0.7077856420626896
+skin,Endothelial cell,POMK,1.0,0.6842619745845552
+heart,Endothelial cell,POMK,1.0192307,0.6810740013097577
+prostate,Muscle,POMK,1.0,0.6687472135532769
+skeletalmuscle,Adipocyte,POMK,1.0,0.628930817610063
+lung,Fibroblast,POMK,1.0,0.6097560975609756
+breast,Endothelial cell,POMK,1.0,0.5675368898978433
+esophagusmuscularis,Muscle,POMK,1.0119047,0.5649337547918488
+esophagusmuscularis,Fibroblast,POMK,1.0,0.5572101066384859
+prostate,Endothelial cell,POMK,1.1428572,0.4953998584571833
+prostate,Fibroblast,POMK,1.0,0.4378283712784588
+breast,Epithelial cell,POMK,1.0,0.4311088118641145
+skin,Melanocyte,POMK,1.0,0.3676470588235294
+skeletalmuscle,Fibroblast,POMK,1.0,0.3532974427994616
+skeletalmuscle,Muscle,POMK,1.0263158,0.3367152540871029
+skin,Epithelial cell,POMK,1.0,0.3322259136212624
+esophagusmuscularis,Glia,POMK,1.0,0.3092783505154639
+breast,Fibroblast,POMK,1.0,0.2442002442002442
+skeletalmuscle,Endothelial cell,POMK,1.0,0.2253944402704733
+skin,Epithelial cell (keratinocyte),POMK,1.0,0.2054442732408834
+esophagusmucosa,Muscle,POMK,1.0,0.1996007984031935
+esophagusmuscularis,Neuron,POMK,0.0,0.0
+lung,Muscle,POMK,0.0,0.0
+skin,Adipocyte,POMK,0.0,0.0
+skeletalmuscle,Glia,POMK,0.0,0.0
+skin,Immune (lymphocyte),POMK,0.0,0.0
+skin,Fibroblast,POMK,0.0,0.0
+skin,Muscle,POMK,0.0,0.0
+skin,Other,POMK,0.0,0.0

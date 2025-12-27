@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Neuron,PRKACA,1.0,16.0
+heart,Muscle,PRKACA,1.2253207,14.862400530503978
+esophagusmuscularis,Adipocyte,PRKACA,1.0476191,12.0
+heart,Adipocyte,PRKACA,1.1428572,10.88082901554404
+prostate,Muscle,PRKACA,1.1280992,10.789121711992866
+esophagusmucosa,Stromal,PRKACA,1.1034483,8.796764408493427
+breast,Adipocyte,PRKACA,1.1315789,8.631459398069278
+esophagusmucosa,Muscle,PRKACA,1.0285715,6.986027944111776
+prostate,Immune (myeloid),PRKACA,1.1142857,6.809338521400778
+breast,Immune (myeloid),PRKACA,1.0434783,6.424581005586592
+prostate,Endothelial cell,PRKACA,1.0457143,6.192498230714792
+esophagusmucosa,Immune (myeloid),PRKACA,1.0357143,6.008583690987124
+skin,Other,PRKACA,1.1111112,5.9734513274336285
+prostate,Glia,PRKACA,2.0,5.970149253731343
+breast,Muscle,PRKACA,1.0,5.921052631578947
+prostate,Fibroblast,PRKACA,1.0597014,5.866900175131348
+heart,Immune (myeloid),PRKACA,1.054054,5.782153461478356
+lung,Immune (myeloid),PRKACA,1.0747126,5.705853418593212
+skeletalmuscle,Immune (myeloid),PRKACA,1.1219512,5.563093622795115
+esophagusmucosa,Epithelial cell,PRKACA,1.0893561,5.51609162075964
+skeletalmuscle,Adipocyte,PRKACA,1.0,5.031446540880504
+lung,Muscle,PRKACA,1.25,4.9079754601227
+skin,Adipocyte,PRKACA,1.0,4.838709677419355
+esophagusmucosa,Glia,PRKACA,1.0,4.615384615384616
+esophagusmuscularis,Muscle,PRKACA,1.0840708,4.559822449391351
+esophagusmucosa,Endothelial cell,PRKACA,1.084507,4.553227875160324
+skeletalmuscle,Muscle,PRKACA,1.0869565,4.483629436001949
+heart,Fibroblast,PRKACA,1.0432693,4.479379778184559
+heart,Glia,PRKACA,1.0,4.362416107382551
+esophagusmuscularis,Immune (myeloid),PRKACA,1.0403225,4.1849476881538985
+prostate,Epithelial cell,PRKACA,1.0575917,4.139036969618169
+skeletalmuscle,Immune (lymphocyte),PRKACA,1.0,4.0
+esophagusmucosa,Fibroblast,PRKACA,1.0571429,3.7300177619893424
+lung,Fibroblast,PRKACA,1.0363636,3.7262872628726287
+skin,Endothelial cell,PRKACA,1.0,3.421309872922776
+breast,Fibroblast,PRKACA,1.0357143,3.418803418803419
+skeletalmuscle,Fibroblast,PRKACA,1.026178,3.213324360699865
+esophagusmuscularis,Fibroblast,PRKACA,1.0402477,3.10308386972812
+heart,Endothelial cell,PRKACA,1.034188,3.064833005893909
+skin,Immune (myeloid),PRKACA,1.2,2.793296089385475
+lung,Epithelial cell,PRKACA,1.0302114,2.749740394600208
+breast,Endothelial cell,PRKACA,1.0416666,2.724177071509648
+skin,Muscle,PRKACA,1.0,2.6881720430107525
+skin,Immune (lymphocyte),PRKACA,1.0,2.666666666666667
+esophagusmuscularis,Immune (lymphocyte),PRKACA,1.0,2.6578073089701
+breast,Epithelial cell,PRKACA,1.0261438,2.638385928608381
+skeletalmuscle,Endothelial cell,PRKACA,1.0285715,2.629601803155522
+skin,Melanocyte,PRKACA,1.0,2.5735294117647056
+skin,Epithelial cell (keratinocyte),PRKACA,1.0,2.5680534155110424
+skin,Epithelial cell,PRKACA,1.0666667,2.491694352159469
+lung,Endothelial cell,PRKACA,1.0153847,2.36707938820102
+esophagusmucosa,Immune (lymphocyte),PRKACA,1.0243902,2.255225522552255
+esophagusmuscularis,Endothelial cell,PRKACA,1.0412371,2.1744003586639766
+skin,Fibroblast,PRKACA,1.0,2.0793950850661624
+esophagusmuscularis,Glia,PRKACA,1.0,1.958762886597938
+prostate,Immune (lymphocyte),PRKACA,1.0,1.906158357771261
+lung,Immune (lymphocyte),PRKACA,1.0,0.6896551724137931
+heart,Immune (lymphocyte),PRKACA,1.0,0.4297994269340974
+skeletalmuscle,Glia,PRKACA,0.0,0.0

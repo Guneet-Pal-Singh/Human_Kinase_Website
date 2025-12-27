@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Myocyte (NMJ-rich),NME9,0.75492907
+Epithelial cell (ciliated),NME9,0.61852294
+Myocyte (sk. muscle),NME9,0.61512333
+Satellite cell,NME9,0.40655342
+Immune (alveolar macrophage),NME9,0.22854804
+Myocyte (cardiac),NME9,0.20068328
+Myocyte (smooth muscle),NME9,0.1780928
+Immune (mast cell),NME9,0.15478459
+Immune (Langerhans),NME9,0.15106377
+"Myocyte (sk. muscle, cytoplasmic)",NME9,0.14515708
+Fibroblast,NME9,0.14098823
+Neuronal,NME9,0.1374013
+ICCs,NME9,0.13570505
+Epithelial cell (alveolar type I),NME9,0.13546568
+Pericyte/SMC,NME9,0.13139495
+Immune (NK cell),NME9,0.125217
+Epithelial cell (alveolar type II),NME9,0.124566406
+Schwann cell,NME9,0.12190245
+Adipocyte,NME9,0.11744335
+Endothelial cell (vascular),NME9,0.09783427
+Immune (T cell),NME9,0.092671506
+Immune (DC/macrophage),NME9,0.091207765
+Epithelial cell (club),NME9,0.0887664
+Myofibroblast,NME9,0.08237469
+Endothelial cell (lymphatic),NME9,0.082196
+Epithelial cell (basal),NME9,0.07098305
+Epithelial cell (Hillock),NME9,0.06442274
+Neuroendocrine,NME9,0.059410978
+Sebaceous gland cell,NME9,0.04835449
+Immune (B cell),NME9,0.03905592
+Epithelial cell (luminal),NME9,0.036532667
+Melanocyte,NME9,0.035932403
+Myoepithelial (basal),NME9,0.034290355
+Epithelial cell (cornified keratinocyte),NME9,0.031443767
+Epithelial cell (basal keratinocyte),NME9,0.02946737
+Epithelial cell (mature keratinocyte),NME9,0.02889299
+Immune (DC),NME9,0.027744047
+Epithelial cell (suprabasal),NME9,0.024088265
+"Myocyte (cardiac, cytoplasmic)",NME9,0.02271305
+Epithelial cell (suprabasal keratinocyte),NME9,0.015120995
+Mucous cell,NME9,0.009954674
+Epithelial cell (squamous),NME9,0.008197437
+Sweat gland cell,NME9,0.0

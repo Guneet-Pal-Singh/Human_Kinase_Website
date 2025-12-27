@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmucosa,Stromal,SPEG,1.502193,46.107178968655205
+esophagusmuscularis,Neuron,SPEG,1.5,32.0
+prostate,Muscle,SPEG,1.4067547,30.36112349531877
+esophagusmucosa,Muscle,SPEG,1.504,24.9500998003992
+esophagusmuscularis,Muscle,SPEG,1.270551,23.316968188849284
+breast,Muscle,SPEG,1.9142857,23.026315789473685
+skin,Muscle,SPEG,1.382353,18.27956989247312
+heart,Muscle,SPEG,1.2366115,17.025862068965516
+skeletalmuscle,Muscle,SPEG,1.1828188,16.50347791413761
+lung,Muscle,SPEG,1.1666666,7.361963190184049
+breast,Epithelial cell,SPEG,1.2,4.914640455250905
+prostate,Glia,SPEG,1.6666666,4.477611940298507
+prostate,Fibroblast,SPEG,1.054054,3.239929947460595
+skeletalmuscle,Endothelial cell,SPEG,1.0731708,3.0803906836964687
+esophagusmuscularis,Glia,SPEG,1.0,2.88659793814433
+skeletalmuscle,Glia,SPEG,1.0,2.857142857142857
+prostate,Epithelial cell,SPEG,1.0824916,2.5744376544012484
+heart,Adipocyte,SPEG,1.0,2.072538860103627
+breast,Endothelial cell,SPEG,1.117647,1.9296254256526677
+skeletalmuscle,Adipocyte,SPEG,1.0,1.8867924528301887
+breast,Immune (myeloid),SPEG,1.0,1.675977653631285
+esophagusmucosa,Glia,SPEG,1.0,1.5384615384615383
+esophagusmucosa,Endothelial cell,SPEG,1.117647,1.453612654980761
+lung,Endothelial cell,SPEG,1.0263158,1.3838310269482883
+heart,Glia,SPEG,1.0,1.342281879194631
+skin,Epithelial cell (keratinocyte),SPEG,1.0833334,1.2326656394453006
+esophagusmuscularis,Adipocyte,SPEG,1.5,1.1428571428571428
+lung,Immune (myeloid),SPEG,1.0144928,1.1313330054107231
+esophagusmucosa,Epithelial cell,SPEG,1.1298702,1.1162655842273124
+prostate,Immune (lymphocyte),SPEG,1.0,1.0263929618768328
+skeletalmuscle,Immune (lymphocyte),SPEG,1.0,1.0
+skin,Epithelial cell,SPEG,1.0,0.9966777408637874
+prostate,Endothelial cell,SPEG,1.1428572,0.9907997169143666
+prostate,Immune (myeloid),SPEG,1.0,0.9727626459143968
+lung,Immune (lymphocyte),SPEG,1.0,0.9655172413793104
+esophagusmuscularis,Endothelial cell,SPEG,1.0769231,0.8742434431741762
+lung,Epithelial cell,SPEG,1.0204082,0.8141225337487019
+esophagusmuscularis,Immune (myeloid),SPEG,1.125,0.809989875126561
+heart,Endothelial cell,SPEG,1.1147541,0.7989521938441388
+skin,Fibroblast,SPEG,1.0,0.7561436672967864
+esophagusmucosa,Fibroblast,SPEG,1.0952381,0.7460035523978685
+lung,Fibroblast,SPEG,1.0,0.7452574525745257
+skeletalmuscle,Immune (myeloid),SPEG,1.0,0.6784260515603799
+breast,Adipocyte,SPEG,1.0909091,0.6246450880181714
+breast,Fibroblast,SPEG,1.0,0.6105006105006106
+skin,Endothelial cell,SPEG,1.0,0.5865102639296188
+skin,Immune (myeloid),SPEG,1.0,0.5586592178770949
+heart,Fibroblast,SPEG,1.081081,0.398406374501992
+esophagusmuscularis,Immune (lymphocyte),SPEG,1.0,0.3322259136212624
+heart,Immune (lymphocyte),SPEG,1.0,0.2865329512893982
+skeletalmuscle,Fibroblast,SPEG,1.0714285,0.2355316285329744
+skin,Other,SPEG,1.0,0.2212389380530973
+esophagusmucosa,Immune (myeloid),SPEG,1.0,0.2145922746781116
+esophagusmuscularis,Fibroblast,SPEG,1.0,0.1537131328657892
+heart,Immune (myeloid),SPEG,1.5,0.1250195343022347
+esophagusmucosa,Immune (lymphocyte),SPEG,1.0,0.11001100110011
+skin,Adipocyte,SPEG,0.0,0.0
+skin,Immune (lymphocyte),SPEG,0.0,0.0
+skin,Melanocyte,SPEG,0.0,0.0

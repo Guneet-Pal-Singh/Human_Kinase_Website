@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+heart,Muscle,MTOR,1.2075567,16.4539124668435
+heart,Adipocyte,MTOR,1.0967742,16.06217616580311
+esophagusmucosa,Stromal,MTOR,1.1974522,15.874620829120325
+skin,Epithelial cell,MTOR,1.1,14.950166112956811
+esophagusmuscularis,Adipocyte,MTOR,1.1153846,14.857142857142858
+lung,Immune (myeloid),MTOR,1.1588235,13.936710936219052
+breast,Adipocyte,MTOR,1.1190476,11.92504258943782
+lung,Endothelial cell,MTOR,1.0925926,11.798980335032777
+lung,Epithelial cell,MTOR,1.1559929,11.609553478712357
+skin,Endothelial cell,MTOR,1.122807,11.143695014662756
+prostate,Muscle,MTOR,1.1325301,11.101203744984396
+esophagusmucosa,Epithelial cell,MTOR,1.1332021,11.046680197158596
+skeletalmuscle,Muscle,MTOR,1.0935382,9.80461654335209
+esophagusmucosa,Immune (myeloid),MTOR,1.1240876,9.799713876967097
+skin,Adipocyte,MTOR,1.0,9.67741935483871
+prostate,Epithelial cell,MTOR,1.1154537,9.647640098816796
+prostate,Immune (myeloid),MTOR,1.0744681,9.14396887159533
+prostate,Fibroblast,MTOR,1.0970874,9.019264448336251
+skin,Melanocyte,MTOR,1.0416666,8.823529411764707
+skeletalmuscle,Adipocyte,MTOR,1.0,8.80503144654088
+esophagusmucosa,Endothelial cell,MTOR,1.1088607,8.44377939290295
+lung,Fibroblast,MTOR,1.0806452,8.401084010840108
+esophagusmuscularis,Endothelial cell,MTOR,1.0965147,8.361353956511993
+esophagusmuscularis,Muscle,MTOR,1.1058632,8.25879346290941
+prostate,Endothelial cell,MTOR,1.0729613,8.24486907289455
+breast,Endothelial cell,MTOR,1.1111112,8.172531214528945
+breast,Fibroblast,MTOR,1.0909091,8.058608058608058
+breast,Epithelial cell,MTOR,1.0922747,8.035868253147093
+skin,Immune (lymphocyte),MTOR,1.0,8.0
+esophagusmuscularis,Neuron,MTOR,1.0,8.0
+esophagusmucosa,Immune (lymphocyte),MTOR,1.125,7.920792079207921
+heart,Immune (myeloid),MTOR,1.0681819,7.563681825285201
+skeletalmuscle,Fibroblast,MTOR,1.1091315,7.553835800807537
+breast,Immune (myeloid),MTOR,1.1153846,7.262569832402235
+skin,Immune (myeloid),MTOR,1.0769231,7.262569832402235
+breast,Muscle,MTOR,1.0,7.236842105263158
+esophagusmucosa,Fibroblast,MTOR,1.069307,7.175843694493783
+heart,Immune (lymphocyte),MTOR,1.0208334,6.876790830945559
+heart,Fibroblast,MTOR,1.0740157,6.837514805642296
+skeletalmuscle,Endothelial cell,MTOR,1.0769231,6.836964688204357
+heart,Endothelial cell,MTOR,1.0873786,6.745252128356253
+esophagusmuscularis,Immune (myeloid),MTOR,1.080402,6.716166047924401
+esophagusmuscularis,Fibroblast,MTOR,1.0615616,6.398309155538476
+esophagusmuscularis,Glia,MTOR,1.0163934,6.288659793814433
+skin,Epithelial cell (keratinocyte),MTOR,1.0661157,6.214689265536723
+skeletalmuscle,Immune (lymphocyte),MTOR,1.5,6.0
+lung,Immune (lymphocyte),MTOR,1.0930233,5.931034482758621
+prostate,Immune (lymphocyte),MTOR,1.027027,5.425219941348973
+esophagusmuscularis,Immune (lymphocyte),MTOR,1.0625,5.3156146179402
+skin,Other,MTOR,1.0833334,5.3097345132743365
+skin,Fibroblast,MTOR,1.074074,5.103969754253308
+heart,Glia,MTOR,1.0,5.033557046979865
+lung,Muscle,MTOR,1.0,4.9079754601227
+skin,Muscle,MTOR,1.2222222,4.838709677419355
+esophagusmucosa,Muscle,MTOR,1.0833334,4.790419161676647
+skeletalmuscle,Immune (myeloid),MTOR,1.030303,4.477611940298507
+prostate,Glia,MTOR,1.0,4.477611940298507
+esophagusmucosa,Glia,MTOR,2.5,3.076923076923077
+skeletalmuscle,Glia,MTOR,0.0,0.0

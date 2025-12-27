@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (cornified keratinocyte),CERK,0.9528905
+Epithelial cell (mature keratinocyte),CERK,0.49537942
+Immune (T cell),CERK,0.32156357
+"Myocyte (cardiac, cytoplasmic)",CERK,0.3000556
+Epithelial cell (squamous),CERK,0.24859443
+Neuronal,CERK,0.2350343
+Epithelial cell (suprabasal keratinocyte),CERK,0.23465374
+Myocyte (cardiac),CERK,0.2222454
+Myofibroblast,CERK,0.21545611
+Endothelial cell (vascular),CERK,0.19839978
+Epithelial cell (basal keratinocyte),CERK,0.19091187
+Endothelial cell (lymphatic),CERK,0.18015699
+Immune (DC),CERK,0.17122155
+Epithelial cell (suprabasal),CERK,0.16862942
+Immune (B cell),CERK,0.1662857
+Sebaceous gland cell,CERK,0.16068593
+Melanocyte,CERK,0.14340314
+Immune (DC/macrophage),CERK,0.13742381
+Immune (mast cell),CERK,0.13342257
+Immune (NK cell),CERK,0.13294052
+Epithelial cell (basal),CERK,0.13069953
+Myocyte (NMJ-rich),CERK,0.12939858
+Mucous cell,CERK,0.11126974
+Epithelial cell (alveolar type I),CERK,0.10896881
+Immune (alveolar macrophage),CERK,0.10797114
+Adipocyte,CERK,0.09418032
+Fibroblast,CERK,0.09339451
+Pericyte/SMC,CERK,0.09031727
+Myoepithelial (basal),CERK,0.08285299
+Myocyte (smooth muscle),CERK,0.08226341
+Myocyte (sk. muscle),CERK,0.081670344
+Epithelial cell (alveolar type II),CERK,0.078719266
+Immune (Langerhans),CERK,0.07305205
+"Myocyte (sk. muscle, cytoplasmic)",CERK,0.06396231
+Epithelial cell (Hillock),CERK,0.057282977
+Schwann cell,CERK,0.05639759
+Neuroendocrine,CERK,0.046635613
+Epithelial cell (club),CERK,0.043024443
+Satellite cell,CERK,0.041700255
+Epithelial cell (ciliated),CERK,0.040924113
+Epithelial cell (luminal),CERK,0.028790155
+Sweat gland cell,CERK,0.009282932
+ICCs,CERK,0.0

@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (Langerhans),CDK13,1.0365349
+Myocyte (cardiac),CDK13,0.9637798
+Epithelial cell (suprabasal),CDK13,0.95481026
+Immune (NK cell),CDK13,0.92919564
+Mucous cell,CDK13,0.9156417
+Myocyte (NMJ-rich),CDK13,0.89141566
+Epithelial cell (Hillock),CDK13,0.8890735
+Immune (B cell),CDK13,0.87810624
+Myofibroblast,CDK13,0.84930056
+Immune (alveolar macrophage),CDK13,0.83863544
+Epithelial cell (club),CDK13,0.8323152
+Epithelial cell (basal),CDK13,0.8264754
+Myocyte (sk. muscle),CDK13,0.796102
+Immune (T cell),CDK13,0.7929769
+Epithelial cell (ciliated),CDK13,0.79034084
+Epithelial cell (alveolar type II),CDK13,0.7808429
+Epithelial cell (alveolar type I),CDK13,0.75288814
+Adipocyte,CDK13,0.7381296
+Satellite cell,CDK13,0.73612916
+Endothelial cell (lymphatic),CDK13,0.7341022
+Sebaceous gland cell,CDK13,0.7307668
+Endothelial cell (vascular),CDK13,0.72784925
+Myoepithelial (basal),CDK13,0.72222346
+Fibroblast,CDK13,0.7207631
+Sweat gland cell,CDK13,0.71810365
+Immune (DC),CDK13,0.71691334
+Pericyte/SMC,CDK13,0.713092
+Immune (DC/macrophage),CDK13,0.71075296
+ICCs,CDK13,0.70108813
+Immune (mast cell),CDK13,0.7000557
+Epithelial cell (mature keratinocyte),CDK13,0.68489605
+Neuroendocrine,CDK13,0.6723772
+Neuronal,CDK13,0.6505958
+Epithelial cell (luminal),CDK13,0.6467909
+Schwann cell,CDK13,0.64399266
+Epithelial cell (suprabasal keratinocyte),CDK13,0.62978035
+Epithelial cell (basal keratinocyte),CDK13,0.61014885
+Myocyte (smooth muscle),CDK13,0.59625745
+Epithelial cell (squamous),CDK13,0.59257746
+Melanocyte,CDK13,0.5377035
+Epithelial cell (cornified keratinocyte),CDK13,0.5260814
+"Myocyte (sk. muscle, cytoplasmic)",CDK13,0.3332747
+"Myocyte (cardiac, cytoplasmic)",CDK13,0.2213461

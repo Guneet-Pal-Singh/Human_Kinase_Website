@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skeletalmuscle,Muscle,OBSCN,2.216007,61.22458021354837
+heart,Muscle,OBSCN,3.043991,52.00596816976128
+esophagusmucosa,Epithelial cell,OBSCN,1.2049763,12.235430559582488
+skeletalmuscle,Glia,OBSCN,1.0,11.428571428571429
+lung,Muscle,OBSCN,1.0,9.8159509202454
+esophagusmucosa,Stromal,OBSCN,1.3333334,9.706774519716886
+skeletalmuscle,Adipocyte,OBSCN,2.0,8.80503144654088
+esophagusmuscularis,Neuron,OBSCN,1.0,8.0
+breast,Epithelial cell,OBSCN,1.1803653,7.553026383859287
+prostate,Epithelial cell,OBSCN,1.1484277,6.891171499154856
+heart,Adipocyte,OBSCN,1.3846154,6.735751295336788
+skin,Other,OBSCN,1.0,6.1946902654867255
+skeletalmuscle,Endothelial cell,OBSCN,1.8732394,5.334335086401202
+skin,Epithelial cell (keratinocyte),OBSCN,1.0326087,4.725218284540318
+esophagusmucosa,Glia,OBSCN,1.0,4.615384615384616
+lung,Endothelial cell,OBSCN,1.0714285,4.588492352512746
+skin,Epithelial cell,OBSCN,1.074074,4.485049833887043
+skin,Immune (lymphocyte),OBSCN,1.0,4.0
+skeletalmuscle,Immune (lymphocyte),OBSCN,1.25,4.0
+skeletalmuscle,Immune (myeloid),OBSCN,1.4482758,3.934871099050204
+esophagusmucosa,Muscle,OBSCN,1.0526316,3.792415169660679
+esophagusmucosa,Endothelial cell,OBSCN,1.0348837,3.67678495083369
+lung,Fibroblast,OBSCN,1.1346154,3.523035230352303
+prostate,Immune (lymphocyte),OBSCN,1.0,3.519061583577713
+skin,Endothelial cell,OBSCN,1.1388888,3.519061583577713
+lung,Epithelial cell,OBSCN,1.0232859,3.2107995846313604
+esophagusmuscularis,Immune (lymphocyte),OBSCN,1.1111112,2.990033222591362
+prostate,Fibroblast,OBSCN,1.0,2.9772329246935203
+esophagusmuscularis,Adipocyte,OBSCN,1.0,2.857142857142857
+esophagusmuscularis,Muscle,OBSCN,1.2214285,2.824668773959244
+prostate,Muscle,OBSCN,1.122807,2.541239411502452
+heart,Fibroblast,OBSCN,1.0446428,2.4119737267147627
+lung,Immune (lymphocyte),OBSCN,1.0,2.344827586206897
+esophagusmucosa,Immune (lymphocyte),OBSCN,1.0769231,2.145214521452145
+esophagusmucosa,Immune (myeloid),OBSCN,1.0,2.074391988555079
+breast,Endothelial cell,OBSCN,1.0555556,2.0431328036322363
+heart,Glia,OBSCN,1.0,2.013422818791946
+breast,Muscle,OBSCN,1.0,1.973684210526316
+esophagusmuscularis,Fibroblast,OBSCN,1.0146341,1.9694495148429243
+esophagusmucosa,Fibroblast,OBSCN,1.0181818,1.953818827708704
+esophagusmuscularis,Endothelial cell,OBSCN,1.1058824,1.9054023761488452
+breast,Immune (myeloid),OBSCN,1.1666666,1.675977653631285
+skin,Fibroblast,OBSCN,1.0,1.5122873345935728
+skin,Melanocyte,OBSCN,1.0,1.4705882352941175
+heart,Immune (lymphocyte),OBSCN,1.0,1.4326647564469914
+lung,Immune (myeloid),OBSCN,1.0,1.3936710936219052
+prostate,Endothelial cell,OBSCN,1.0256411,1.3800424628450108
+skeletalmuscle,Fibroblast,OBSCN,1.1219512,1.379542395693136
+esophagusmuscularis,Glia,OBSCN,1.0769231,1.3402061855670102
+prostate,Immune (myeloid),OBSCN,1.0,1.264591439688716
+breast,Fibroblast,OBSCN,1.125,0.9768009768009768
+heart,Endothelial cell,OBSCN,1.0571429,0.91683038637852
+heart,Immune (myeloid),OBSCN,1.0769231,0.8126269729645258
+esophagusmuscularis,Immune (myeloid),OBSCN,1.0,0.6749915626054674
+skin,Muscle,OBSCN,1.0,0.5376344086021506
+breast,Adipocyte,OBSCN,1.0,0.1703577512776831
+prostate,Glia,OBSCN,0.0,0.0
+skin,Adipocyte,OBSCN,0.0,0.0
+skin,Immune (myeloid),OBSCN,0.0,0.0

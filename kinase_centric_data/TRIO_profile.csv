@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmucosa,Stromal,TRIO,2.3076923,65.72295247724975
+heart,Adipocyte,TRIO,1.7142857,54.40414507772021
+breast,Fibroblast,TRIO,2.5011337,53.84615384615385
+breast,Adipocyte,TRIO,1.6581742,53.4923339011925
+lung,Immune (myeloid),TRIO,1.7233518,53.22183964584358
+esophagusmuscularis,Adipocyte,TRIO,1.7032967,52.0
+prostate,Muscle,TRIO,2.477612,50.78020508247882
+prostate,Glia,TRIO,2.3235295,50.74626865671642
+esophagusmucosa,Endothelial cell,TRIO,1.6315562,49.31594698589141
+prostate,Epithelial cell,TRIO,2.4399965,49.26104104364409
+prostate,Immune (myeloid),TRIO,1.8844621,48.83268482490272
+skin,Endothelial cell,TRIO,1.6012145,48.28934506353861
+heart,Muscle,TRIO,2.2774396,47.65417771883289
+esophagusmuscularis,Muscle,TRIO,2.6527119,46.74826820902549
+lung,Epithelial cell,TRIO,1.5328262,44.22429906542056
+prostate,Endothelial cell,TRIO,1.5785257,44.16135881104034
+esophagusmucosa,Fibroblast,TRIO,1.5136805,40.24866785079929
+skeletalmuscle,Adipocyte,TRIO,1.516129,38.9937106918239
+esophagusmuscularis,Endothelial cell,TRIO,1.5868056,38.73570948217888
+breast,Endothelial cell,TRIO,1.441791,38.02497162315551
+heart,Endothelial cell,TRIO,1.4283223,37.55075311067452
+esophagusmucosa,Immune (myeloid),TRIO,1.5096154,37.19599427753934
+breast,Epithelial cell,TRIO,1.4997606,36.023452319365404
+esophagusmuscularis,Neuron,TRIO,3.4444444,36.0
+heart,Immune (myeloid),TRIO,1.3553163,34.83356774496015
+skin,Immune (myeloid),TRIO,1.4032258,34.63687150837989
+heart,Fibroblast,TRIO,1.7531095,34.62905136211909
+prostate,Fibroblast,TRIO,1.5761421,34.50087565674256
+breast,Muscle,TRIO,1.6153846,34.21052631578947
+skeletalmuscle,Endothelial cell,TRIO,1.4696629,33.433508640120216
+esophagusmuscularis,Immune (myeloid),TRIO,1.4170125,32.534593317583536
+breast,Immune (myeloid),TRIO,1.5344827,32.402234636871505
+lung,Muscle,TRIO,1.5490196,31.28834355828221
+skin,Muscle,TRIO,1.3448275,31.18279569892473
+esophagusmucosa,Epithelial cell,TRIO,1.4945498,30.588576398956217
+lung,Endothelial cell,TRIO,1.3739547,30.48069919883467
+esophagusmucosa,Muscle,TRIO,1.4266666,29.94011976047904
+esophagusmuscularis,Glia,TRIO,1.6524823,29.07216494845361
+skeletalmuscle,Fibroblast,TRIO,1.2816327,28.85262449528937
+skeletalmuscle,Immune (myeloid),TRIO,1.3066038,28.76526458616011
+esophagusmuscularis,Fibroblast,TRIO,1.4118434,28.715534633490247
+skin,Melanocyte,TRIO,1.4533334,27.573529411764707
+heart,Glia,TRIO,1.4074074,27.181208053691275
+skin,Fibroblast,TRIO,1.2164179,25.330812854442343
+lung,Fibroblast,TRIO,1.2961956,24.932249322493224
+skin,Epithelial cell (keratinocyte),TRIO,1.3119658,24.03697996918336
+skin,Adipocyte,TRIO,1.0714285,22.58064516129032
+skeletalmuscle,Muscle,TRIO,1.2528386,21.851047804705157
+skeletalmuscle,Glia,TRIO,1.4285715,20.0
+skin,Epithelial cell,TRIO,1.4033613,19.76744186046512
+esophagusmucosa,Glia,TRIO,1.25,18.461538461538463
+skin,Other,TRIO,1.2716049,17.920353982300885
+heart,Immune (lymphocyte),TRIO,1.2597402,11.031518624641834
+esophagusmuscularis,Immune (lymphocyte),TRIO,1.5652174,7.641196013289036
+lung,Immune (lymphocyte),TRIO,1.12,6.896551724137931
+esophagusmucosa,Immune (lymphocyte),TRIO,1.3688525,6.710671067106711
+skeletalmuscle,Immune (lymphocyte),TRIO,1.1666666,6.0
+prostate,Immune (lymphocyte),TRIO,1.3076923,5.718475073313782
+skin,Immune (lymphocyte),TRIO,1.25,5.333333333333334

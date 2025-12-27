@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (basal keratinocyte),SNRK,0.72245336
+Endothelial cell (vascular),SNRK,0.7097189
+Pericyte/SMC,SNRK,0.4971584
+Endothelial cell (lymphatic),SNRK,0.49316522
+Melanocyte,SNRK,0.48757744
+Epithelial cell (suprabasal keratinocyte),SNRK,0.487298
+Myocyte (cardiac),SNRK,0.4813793
+Epithelial cell (cornified keratinocyte),SNRK,0.4236343
+Immune (NK cell),SNRK,0.39896
+Myofibroblast,SNRK,0.37447456
+Adipocyte,SNRK,0.35546148
+Immune (T cell),SNRK,0.3533601
+Immune (DC),SNRK,0.3420022
+Epithelial cell (squamous),SNRK,0.33466527
+Neuroendocrine,SNRK,0.31769538
+Satellite cell,SNRK,0.3143671
+Immune (alveolar macrophage),SNRK,0.31019545
+Schwann cell,SNRK,0.2802664
+Immune (Langerhans),SNRK,0.28001317
+Myocyte (smooth muscle),SNRK,0.271126
+Epithelial cell (alveolar type II),SNRK,0.26998198
+Immune (mast cell),SNRK,0.26870918
+Epithelial cell (suprabasal),SNRK,0.2663439
+Epithelial cell (alveolar type I),SNRK,0.26474008
+Myocyte (sk. muscle),SNRK,0.2632947
+Immune (DC/macrophage),SNRK,0.2550025
+Neuronal,SNRK,0.2487761
+Epithelial cell (ciliated),SNRK,0.23771676
+ICCs,SNRK,0.22854643
+Epithelial cell (club),SNRK,0.21945436
+Mucous cell,SNRK,0.21403714
+Epithelial cell (mature keratinocyte),SNRK,0.20729066
+Epithelial cell (Hillock),SNRK,0.20715451
+Epithelial cell (basal),SNRK,0.19814976
+Fibroblast,SNRK,0.18561304
+Epithelial cell (luminal),SNRK,0.17345008
+Immune (B cell),SNRK,0.15802006
+"Myocyte (cardiac, cytoplasmic)",SNRK,0.14561486
+"Myocyte (sk. muscle, cytoplasmic)",SNRK,0.14343382
+Myocyte (NMJ-rich),SNRK,0.13772492
+Myoepithelial (basal),SNRK,0.13253754
+Sweat gland cell,SNRK,0.078331955
+Sebaceous gland cell,SNRK,0.05415797

@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (mast cell),CDK15,1.1138521
+Melanocyte,CDK15,0.3293231
+Neuronal,CDK15,0.14282036
+Epithelial cell (ciliated),CDK15,0.08358547
+Immune (alveolar macrophage),CDK15,0.07131833
+Pericyte/SMC,CDK15,0.06366087
+Sebaceous gland cell,CDK15,0.060049884
+Sweat gland cell,CDK15,0.059599776
+Fibroblast,CDK15,0.05617529
+Schwann cell,CDK15,0.05474457
+Satellite cell,CDK15,0.05322856
+Myocyte (NMJ-rich),CDK15,0.050834764
+Epithelial cell (alveolar type I),CDK15,0.049318794
+Epithelial cell (alveolar type II),CDK15,0.04615781
+Epithelial cell (Hillock),CDK15,0.04454337
+Myocyte (smooth muscle),CDK15,0.043755747
+Adipocyte,CDK15,0.040718645
+Myocyte (sk. muscle),CDK15,0.038424052
+Myocyte (cardiac),CDK15,0.037128486
+Epithelial cell (club),CDK15,0.032973915
+ICCs,CDK15,0.03016212
+Endothelial cell (vascular),CDK15,0.030124897
+Neuroendocrine,CDK15,0.02949905
+Mucous cell,CDK15,0.02813455
+Epithelial cell (basal keratinocyte),CDK15,0.026688905
+Immune (DC/macrophage),CDK15,0.026626775
+"Myocyte (sk. muscle, cytoplasmic)",CDK15,0.025450172
+Immune (DC),CDK15,0.024788484
+Epithelial cell (suprabasal),CDK15,0.023967497
+Epithelial cell (suprabasal keratinocyte),CDK15,0.021502241
+Immune (T cell),CDK15,0.02146073
+Myoepithelial (basal),CDK15,0.021308223
+Epithelial cell (luminal),CDK15,0.01901953
+Immune (NK cell),CDK15,0.01789463
+Immune (B cell),CDK15,0.016152825
+Epithelial cell (basal),CDK15,0.015505912
+Endothelial cell (lymphatic),CDK15,0.015273307
+Myofibroblast,CDK15,0.013798528
+"Myocyte (cardiac, cytoplasmic)",CDK15,0.009855777
+Epithelial cell (squamous),CDK15,0.007891643
+Epithelial cell (cornified keratinocyte),CDK15,0.0
+Immune (Langerhans),CDK15,0.0
+Epithelial cell (mature keratinocyte),CDK15,0.0

@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Melanocyte,CDK2,0.84778607
+Immune (Langerhans),CDK2,0.15712485
+Myocyte (smooth muscle),CDK2,0.14074725
+Immune (DC),CDK2,0.11869969
+Epithelial cell (mature keratinocyte),CDK2,0.10616801
+Epithelial cell (basal keratinocyte),CDK2,0.099427596
+Epithelial cell (suprabasal keratinocyte),CDK2,0.072806135
+Epithelial cell (basal),CDK2,0.06777226
+Schwann cell,CDK2,0.059729476
+Endothelial cell (lymphatic),CDK2,0.054258183
+Endothelial cell (vascular),CDK2,0.0535766
+Immune (T cell),CDK2,0.05324232
+Myofibroblast,CDK2,0.05210382
+Epithelial cell (squamous),CDK2,0.05120014
+Mucous cell,CDK2,0.049779765
+Epithelial cell (suprabasal),CDK2,0.049475178
+Epithelial cell (luminal),CDK2,0.048597958
+ICCs,CDK2,0.048597623
+Epithelial cell (club),CDK2,0.046807945
+Fibroblast,CDK2,0.04250136
+Immune (NK cell),CDK2,0.03844733
+Pericyte/SMC,CDK2,0.03664199
+Epithelial cell (alveolar type I),CDK2,0.035776053
+Satellite cell,CDK2,0.034741376
+Myoepithelial (basal),CDK2,0.034723245
+Sebaceous gland cell,CDK2,0.03358986
+Epithelial cell (Hillock),CDK2,0.03170692
+Immune (mast cell),CDK2,0.027665764
+Neuroendocrine,CDK2,0.025840117
+Sweat gland cell,CDK2,0.025188068
+Epithelial cell (ciliated),CDK2,0.021954402
+Immune (DC/macrophage),CDK2,0.021905787
+"Myocyte (sk. muscle, cytoplasmic)",CDK2,0.020345023
+Myocyte (cardiac),CDK2,0.01833824
+Epithelial cell (alveolar type II),CDK2,0.015730655
+Immune (alveolar macrophage),CDK2,0.012634768
+Adipocyte,CDK2,0.0122415805
+"Myocyte (cardiac, cytoplasmic)",CDK2,0.011974848
+Immune (B cell),CDK2,0.004547271
+Myocyte (sk. muscle),CDK2,0.0020806927
+Epithelial cell (cornified keratinocyte),CDK2,0.0
+Myocyte (NMJ-rich),CDK2,0.0
+Neuronal,CDK2,0.0

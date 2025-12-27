@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Satellite cell,HYKK,0.20006195
+Sebaceous gland cell,HYKK,0.0974027
+Myocyte (NMJ-rich),HYKK,0.06942043
+Myocyte (cardiac),HYKK,0.054030918
+Epithelial cell (Hillock),HYKK,0.048536763
+Epithelial cell (club),HYKK,0.04122616
+Epithelial cell (mature keratinocyte),HYKK,0.039370913
+Immune (alveolar macrophage),HYKK,0.038114715
+Epithelial cell (basal),HYKK,0.037262063
+Mucous cell,HYKK,0.03689582
+Myofibroblast,HYKK,0.03594834
+Epithelial cell (luminal),HYKK,0.035842657
+Epithelial cell (suprabasal keratinocyte),HYKK,0.034990508
+Epithelial cell (alveolar type I),HYKK,0.034048494
+Schwann cell,HYKK,0.033916127
+ICCs,HYKK,0.03288499
+Epithelial cell (alveolar type II),HYKK,0.03214093
+Fibroblast,HYKK,0.03053429
+Myocyte (smooth muscle),HYKK,0.027613968
+Epithelial cell (ciliated),HYKK,0.027144507
+Myoepithelial (basal),HYKK,0.026943142
+Adipocyte,HYKK,0.026796108
+Immune (NK cell),HYKK,0.023784297
+Endothelial cell (vascular),HYKK,0.023686174
+Pericyte/SMC,HYKK,0.022666492
+"Myocyte (cardiac, cytoplasmic)",HYKK,0.021748247
+Sweat gland cell,HYKK,0.01964502
+Immune (mast cell),HYKK,0.019284625
+Endothelial cell (lymphatic),HYKK,0.019092342
+Epithelial cell (suprabasal),HYKK,0.017782515
+Epithelial cell (squamous),HYKK,0.014213941
+Melanocyte,HYKK,0.011881718
+Myocyte (sk. muscle),HYKK,0.011499927
+Epithelial cell (basal keratinocyte),HYKK,0.009613032
+"Myocyte (sk. muscle, cytoplasmic)",HYKK,0.009592532
+Immune (T cell),HYKK,0.009003688
+Immune (DC/macrophage),HYKK,0.0040738434
+Epithelial cell (cornified keratinocyte),HYKK,0.0
+Immune (B cell),HYKK,0.0
+Immune (DC),HYKK,0.0
+Immune (Langerhans),HYKK,0.0
+Neuronal,HYKK,0.0
+Neuroendocrine,HYKK,0.0

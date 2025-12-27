@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skin,Immune (myeloid),BUB1,1.3333334,3.35195530726257
+esophagusmucosa,Epithelial cell,BUB1,1.3136246,2.8196578718469123
+skin,Epithelial cell (keratinocyte),BUB1,1.1632653,2.516692347200822
+prostate,Immune (myeloid),BUB1,1.2727273,2.140077821011673
+skin,Other,BUB1,1.0,1.7699115044247788
+esophagusmucosa,Immune (myeloid),BUB1,1.0,1.7167381974248928
+esophagusmucosa,Immune (lymphocyte),BUB1,1.1034483,1.5951595159515952
+lung,Muscle,BUB1,2.0,1.2269938650306749
+esophagusmucosa,Stromal,BUB1,1.0833334,1.2133468149646107
+heart,Immune (lymphocyte),BUB1,1.5,1.146131805157593
+lung,Immune (myeloid),BUB1,1.0735294,1.114936874897524
+lung,Immune (lymphocyte),BUB1,1.0,1.103448275862069
+esophagusmuscularis,Immune (myeloid),BUB1,1.1724138,0.9787377657779276
+esophagusmuscularis,Immune (lymphocyte),BUB1,1.0,0.6644518272425249
+prostate,Immune (lymphocyte),BUB1,1.0,0.5865102639296188
+breast,Immune (myeloid),BUB1,1.0,0.5586592178770949
+skin,Muscle,BUB1,3.0,0.5376344086021506
+lung,Epithelial cell,BUB1,1.037037,0.4485981308411215
+heart,Immune (myeloid),BUB1,1.2592592,0.4219409282700421
+skin,Melanocyte,BUB1,1.0,0.3676470588235294
+skin,Epithelial cell,BUB1,1.5,0.3322259136212624
+skeletalmuscle,Immune (myeloid),BUB1,1.0,0.2713704206241519
+breast,Fibroblast,BUB1,1.0,0.2442002442002442
+esophagusmucosa,Endothelial cell,BUB1,1.1818181,0.235143223599829
+prostate,Epithelial cell,BUB1,1.26,0.2167035062627313
+heart,Muscle,BUB1,1.1923077,0.2155172413793103
+esophagusmuscularis,Endothelial cell,BUB1,1.5,0.1793319883434207
+skeletalmuscle,Endothelial cell,BUB1,1.0,0.1502629601803155
+lung,Fibroblast,BUB1,1.0,0.1355013550135501
+heart,Endothelial cell,BUB1,1.5,0.1309757694826457
+heart,Fibroblast,BUB1,1.6363636,0.1184451383654571
+lung,Endothelial cell,BUB1,1.0,0.1092498179169701
+prostate,Endothelial cell,BUB1,1.0,0.1061571125265392
+esophagusmuscularis,Glia,BUB1,1.0,0.1030927835051546
+skin,Endothelial cell,BUB1,1.0,0.0977517106549364
+prostate,Muscle,BUB1,1.0,0.0891662951404369
+breast,Epithelial cell,BUB1,1.0,0.0862217623728228
+esophagusmucosa,Fibroblast,BUB1,2.0,0.0710479573712255
+esophagusmuscularis,Muscle,BUB1,1.0,0.0605286165848409
+skeletalmuscle,Muscle,BUB1,1.0,0.03101324708697
+esophagusmuscularis,Fibroblast,BUB1,1.0,0.0192141416082236
+skeletalmuscle,Fibroblast,BUB1,1.0,0.0168236877523553
+breast,Endothelial cell,BUB1,0.0,0.0
+heart,Glia,BUB1,0.0,0.0
+heart,Adipocyte,BUB1,0.0,0.0
+esophagusmuscularis,Neuron,BUB1,0.0,0.0
+esophagusmucosa,Muscle,BUB1,0.0,0.0
+esophagusmuscularis,Adipocyte,BUB1,0.0,0.0
+breast,Adipocyte,BUB1,0.0,0.0
+breast,Muscle,BUB1,0.0,0.0
+esophagusmucosa,Glia,BUB1,0.0,0.0
+skeletalmuscle,Adipocyte,BUB1,0.0,0.0
+prostate,Glia,BUB1,0.0,0.0
+prostate,Fibroblast,BUB1,0.0,0.0
+skeletalmuscle,Glia,BUB1,0.0,0.0
+skin,Adipocyte,BUB1,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),BUB1,0.0,0.0
+skin,Immune (lymphocyte),BUB1,0.0,0.0
+skin,Fibroblast,BUB1,0.0,0.0

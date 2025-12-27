@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+heart,Adipocyte,SGK2,1.1111112,9.32642487046632
+skin,Epithelial cell,SGK2,1.2040817,8.13953488372093
+breast,Adipocyte,SGK2,1.0955882,7.722884724588303
+skin,Adipocyte,SGK2,1.0,4.838709677419355
+esophagusmuscularis,Adipocyte,SGK2,1.1428572,4.0
+lung,Muscle,SGK2,1.0,1.8404907975460123
+skeletalmuscle,Adipocyte,SGK2,1.0,1.257861635220126
+skin,Muscle,SGK2,1.0,1.0752688172043012
+lung,Immune (myeloid),SGK2,1.0153847,1.0657484833579276
+lung,Epithelial cell,SGK2,1.0344827,0.7227414330218068
+esophagusmucosa,Muscle,SGK2,1.0,0.5988023952095809
+lung,Endothelial cell,SGK2,1.0,0.5826656955571741
+breast,Endothelial cell,SGK2,1.0,0.5675368898978433
+skin,Epithelial cell (keratinocyte),SGK2,1.0,0.5649717514124294
+breast,Epithelial cell,SGK2,1.0344827,0.5000862217623728
+skin,Other,SGK2,1.0,0.4424778761061947
+esophagusmucosa,Epithelial cell,SGK2,1.0,0.4204117135401566
+esophagusmucosa,Stromal,SGK2,1.0,0.4044489383215369
+skin,Endothelial cell,SGK2,1.0,0.3910068426197458
+esophagusmucosa,Fibroblast,SGK2,1.0,0.3907637655417406
+skin,Fibroblast,SGK2,1.0,0.3780718336483932
+skin,Melanocyte,SGK2,1.0,0.3676470588235294
+prostate,Epithelial cell,SGK2,1.0136986,0.3163871191435877
+esophagusmuscularis,Glia,SGK2,1.0,0.3092783505154639
+skeletalmuscle,Fibroblast,SGK2,1.0,0.2860026917900403
+skeletalmuscle,Muscle,SGK2,1.015625,0.2835496876522972
+skeletalmuscle,Immune (myeloid),SGK2,1.0,0.2713704206241519
+esophagusmuscularis,Endothelial cell,SGK2,1.0,0.2689979825151311
+prostate,Fibroblast,SGK2,1.0,0.2626970227670753
+esophagusmuscularis,Muscle,SGK2,1.0,0.2286636626538435
+skeletalmuscle,Endothelial cell,SGK2,1.0,0.2253944402704733
+heart,Muscle,SGK2,1.0,0.2155172413793103
+esophagusmucosa,Endothelial cell,SGK2,1.0,0.2137665669089354
+lung,Fibroblast,SGK2,1.0,0.2032520325203252
+esophagusmuscularis,Immune (myeloid),SGK2,1.0,0.2024974687816402
+esophagusmuscularis,Fibroblast,SGK2,1.0,0.2017484868863483
+heart,Fibroblast,SGK2,1.0,0.1507483579196726
+prostate,Endothelial cell,SGK2,1.0,0.1415428167020523
+lung,Immune (lymphocyte),SGK2,1.0,0.1379310344827586
+prostate,Muscle,SGK2,1.0,0.1337494427106553
+breast,Fibroblast,SGK2,1.0,0.1221001221001221
+heart,Endothelial cell,SGK2,1.0,0.1178781925343811
+heart,Immune (myeloid),SGK2,1.0,0.093764650726676
+esophagusmucosa,Immune (myeloid),SGK2,1.0,0.0715307582260371
+heart,Glia,SGK2,0.0,0.0
+esophagusmuscularis,Neuron,SGK2,0.0,0.0
+esophagusmuscularis,Immune (lymphocyte),SGK2,0.0,0.0
+breast,Muscle,SGK2,0.0,0.0
+breast,Immune (myeloid),SGK2,0.0,0.0
+esophagusmucosa,Glia,SGK2,0.0,0.0
+esophagusmucosa,Immune (lymphocyte),SGK2,0.0,0.0
+heart,Immune (lymphocyte),SGK2,0.0,0.0
+prostate,Immune (lymphocyte),SGK2,0.0,0.0
+prostate,Glia,SGK2,0.0,0.0
+prostate,Immune (myeloid),SGK2,0.0,0.0
+skeletalmuscle,Glia,SGK2,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),SGK2,0.0,0.0
+skin,Immune (lymphocyte),SGK2,0.0,0.0
+skin,Immune (myeloid),SGK2,0.0,0.0

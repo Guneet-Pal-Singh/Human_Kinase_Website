@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (B cell),BLK,1.3885335
+Immune (DC),BLK,0.06737232
+Immune (T cell),BLK,0.061463326
+Immune (NK cell),BLK,0.016640669
+Immune (alveolar macrophage),BLK,0.013414517
+Epithelial cell (alveolar type II),BLK,0.012594533
+Epithelial cell (alveolar type I),BLK,0.011163943
+Epithelial cell (ciliated),BLK,0.009137847
+Mucous cell,BLK,0.008173155
+Satellite cell,BLK,0.007156819
+Schwann cell,BLK,0.006177272
+Epithelial cell (club),BLK,0.005892116
+Immune (DC/macrophage),BLK,0.005408678
+Myofibroblast,BLK,0.0052443547
+Epithelial cell (Hillock),BLK,0.0046170456
+Pericyte/SMC,BLK,0.004189428
+"Myocyte (sk. muscle, cytoplasmic)",BLK,0.004071785
+Myocyte (smooth muscle),BLK,0.00395379
+Endothelial cell (vascular),BLK,0.0038915295
+Myocyte (cardiac),BLK,0.0036579012
+Epithelial cell (suprabasal),BLK,0.003569895
+Endothelial cell (lymphatic),BLK,0.0030688597
+Fibroblast,BLK,0.0028474566
+Epithelial cell (basal keratinocyte),BLK,0.0027748495
+Epithelial cell (luminal),BLK,0.0024763155
+Myocyte (sk. muscle),BLK,0.0024172538
+Adipocyte,BLK,0.002229064
+Epithelial cell (basal),BLK,0.0021790937
+"Myocyte (cardiac, cytoplasmic)",BLK,0.00070203433
+Epithelial cell (cornified keratinocyte),BLK,0.0
+Immune (Langerhans),BLK,0.0
+Epithelial cell (suprabasal keratinocyte),BLK,0.0
+Epithelial cell (squamous),BLK,0.0
+Epithelial cell (mature keratinocyte),BLK,0.0
+ICCs,BLK,0.0
+Melanocyte,BLK,0.0
+Immune (mast cell),BLK,0.0
+Myoepithelial (basal),BLK,0.0
+Myocyte (NMJ-rich),BLK,0.0
+Neuronal,BLK,0.0
+Neuroendocrine,BLK,0.0
+Sebaceous gland cell,BLK,0.0
+Sweat gland cell,BLK,0.0

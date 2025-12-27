@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+heart,Adipocyte,WEE2,1.0,1.0362694300518136
+skeletalmuscle,Adipocyte,WEE2,1.0,0.628930817610063
+skeletalmuscle,Muscle,WEE2,1.0,0.3500066456958043
+heart,Glia,WEE2,1.0,0.3355704697986577
+esophagusmuscularis,Immune (lymphocyte),WEE2,1.0,0.3322259136212624
+lung,Immune (myeloid),WEE2,1.0,0.3279226102639777
+breast,Epithelial cell,WEE2,1.0,0.327642697016727
+lung,Epithelial cell,WEE2,1.0,0.2284527518172378
+breast,Endothelial cell,WEE2,1.0,0.2270147559591373
+esophagusmuscularis,Glia,WEE2,1.0,0.2061855670103093
+lung,Fibroblast,WEE2,1.0,0.2032520325203252
+esophagusmucosa,Stromal,WEE2,1.0,0.2022244691607684
+esophagusmucosa,Muscle,WEE2,1.0,0.1996007984031935
+prostate,Immune (myeloid),WEE2,1.0,0.1945525291828793
+prostate,Immune (lymphocyte),WEE2,1.0,0.1466275659824047
+lung,Endothelial cell,WEE2,1.0,0.1456664238892935
+heart,Muscle,WEE2,1.0,0.1409151193633952
+breast,Fibroblast,WEE2,1.0,0.1221001221001221
+esophagusmuscularis,Endothelial cell,WEE2,1.0,0.1120824927146379
+heart,Endothelial cell,WEE2,1.0,0.1047806155861165
+prostate,Epithelial cell,WEE2,1.0,0.104017683006111
+prostate,Fibroblast,WEE2,1.0,0.0875656742556917
+esophagusmucosa,Epithelial cell,WEE2,1.0,0.0869817338358944
+heart,Fibroblast,WEE2,1.0,0.0861419188112415
+esophagusmucosa,Immune (myeloid),WEE2,1.0,0.0715307582260371
+esophagusmuscularis,Muscle,WEE2,1.0,0.067254018427601
+esophagusmuscularis,Fibroblast,WEE2,1.0,0.0672494956287827
+esophagusmucosa,Endothelial cell,WEE2,1.0,0.0641299700726806
+breast,Adipocyte,WEE2,1.0,0.056785917092561
+prostate,Muscle,WEE2,1.0,0.0445831475702184
+esophagusmucosa,Fibroblast,WEE2,1.0,0.0355239786856127
+esophagusmuscularis,Immune (myeloid),WEE2,1.0,0.0337495781302733
+heart,Immune (myeloid),WEE2,1.0,0.0312548835755586
+skeletalmuscle,Fibroblast,WEE2,1.0,0.0168236877523553
+esophagusmucosa,Glia,WEE2,0.0,0.0
+heart,Immune (lymphocyte),WEE2,0.0,0.0
+esophagusmuscularis,Neuron,WEE2,0.0,0.0
+esophagusmuscularis,Adipocyte,WEE2,0.0,0.0
+esophagusmucosa,Immune (lymphocyte),WEE2,0.0,0.0
+breast,Muscle,WEE2,0.0,0.0
+breast,Immune (myeloid),WEE2,0.0,0.0
+lung,Muscle,WEE2,0.0,0.0
+lung,Immune (lymphocyte),WEE2,0.0,0.0
+prostate,Endothelial cell,WEE2,0.0,0.0
+prostate,Glia,WEE2,0.0,0.0
+skeletalmuscle,Glia,WEE2,0.0,0.0
+skeletalmuscle,Endothelial cell,WEE2,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),WEE2,0.0,0.0
+skeletalmuscle,Immune (myeloid),WEE2,0.0,0.0
+skin,Adipocyte,WEE2,0.0,0.0
+skin,Endothelial cell,WEE2,0.0,0.0
+skin,Epithelial cell,WEE2,0.0,0.0
+skin,Epithelial cell (keratinocyte),WEE2,0.0,0.0
+skin,Fibroblast,WEE2,0.0,0.0
+skin,Immune (lymphocyte),WEE2,0.0,0.0
+skin,Immune (myeloid),WEE2,0.0,0.0
+skin,Melanocyte,WEE2,0.0,0.0
+skin,Muscle,WEE2,0.0,0.0
+skin,Other,WEE2,0.0,0.0

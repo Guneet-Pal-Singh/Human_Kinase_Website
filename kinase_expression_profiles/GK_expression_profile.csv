@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (alveolar macrophage),GK,0.84705275
+Sebaceous gland cell,GK,0.5014566
+Immune (DC),GK,0.47917038
+Myocyte (cardiac),GK,0.46736264
+Immune (DC/macrophage),GK,0.4499772
+Melanocyte,GK,0.39118353
+Epithelial cell (ciliated),GK,0.32119578
+Epithelial cell (alveolar type II),GK,0.28691727
+Neuronal,GK,0.2830913
+Mucous cell,GK,0.24425973
+Epithelial cell (suprabasal),GK,0.21399012
+Immune (Langerhans),GK,0.17667612
+Immune (mast cell),GK,0.16825557
+Epithelial cell (suprabasal keratinocyte),GK,0.15917796
+Myofibroblast,GK,0.13704523
+Epithelial cell (club),GK,0.12894899
+ICCs,GK,0.1236115
+Epithelial cell (luminal),GK,0.11137784
+Immune (B cell),GK,0.10637955
+Epithelial cell (squamous),GK,0.1062749
+Sweat gland cell,GK,0.103333116
+Immune (T cell),GK,0.102437586
+Epithelial cell (mature keratinocyte),GK,0.10160097
+Satellite cell,GK,0.10151601
+Epithelial cell (basal),GK,0.10021317
+Immune (NK cell),GK,0.09707087
+Fibroblast,GK,0.09643126
+Schwann cell,GK,0.09144168
+Pericyte/SMC,GK,0.09116918
+Epithelial cell (basal keratinocyte),GK,0.08924033
+Epithelial cell (Hillock),GK,0.08491816
+Myocyte (sk. muscle),GK,0.0837184
+Neuroendocrine,GK,0.082656644
+Epithelial cell (alveolar type I),GK,0.08158389
+Myoepithelial (basal),GK,0.079229385
+Myocyte (smooth muscle),GK,0.07384672
+Adipocyte,GK,0.07249639
+"Myocyte (cardiac, cytoplasmic)",GK,0.06634955
+Endothelial cell (vascular),GK,0.05154834
+Endothelial cell (lymphatic),GK,0.051404953
+Epithelial cell (cornified keratinocyte),GK,0.050507814
+Myocyte (NMJ-rich),GK,0.05000089
+"Myocyte (sk. muscle, cytoplasmic)",GK,0.03766592

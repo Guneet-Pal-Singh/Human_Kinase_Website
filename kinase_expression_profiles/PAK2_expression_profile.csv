@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (Langerhans),PAK2,0.8086547
+Immune (DC),PAK2,0.7838803
+Immune (alveolar macrophage),PAK2,0.61240417
+Immune (DC/macrophage),PAK2,0.5876201
+Adipocyte,PAK2,0.53633213
+Endothelial cell (lymphatic),PAK2,0.52434504
+Immune (T cell),PAK2,0.50082475
+Epithelial cell (Hillock),PAK2,0.47319692
+Epithelial cell (suprabasal),PAK2,0.4671723
+Myocyte (cardiac),PAK2,0.44589323
+Epithelial cell (basal),PAK2,0.44157195
+Immune (B cell),PAK2,0.4368009
+Epithelial cell (club),PAK2,0.43667534
+Melanocyte,PAK2,0.4321022
+Myofibroblast,PAK2,0.41898665
+Endothelial cell (vascular),PAK2,0.40592596
+ICCs,PAK2,0.39235464
+Epithelial cell (basal keratinocyte),PAK2,0.37510097
+Immune (mast cell),PAK2,0.35809514
+Immune (NK cell),PAK2,0.3466386
+Epithelial cell (alveolar type I),PAK2,0.34535477
+Epithelial cell (ciliated),PAK2,0.34530482
+Epithelial cell (luminal),PAK2,0.34297732
+Schwann cell,PAK2,0.33937758
+Epithelial cell (alveolar type II),PAK2,0.31553778
+Neuroendocrine,PAK2,0.31170425
+Myocyte (smooth muscle),PAK2,0.30771056
+Pericyte/SMC,PAK2,0.30462372
+"Myocyte (cardiac, cytoplasmic)",PAK2,0.30338624
+Fibroblast,PAK2,0.28190738
+Myocyte (NMJ-rich),PAK2,0.27559087
+Mucous cell,PAK2,0.26764023
+Neuronal,PAK2,0.2586451
+Epithelial cell (squamous),PAK2,0.25115877
+"Myocyte (sk. muscle, cytoplasmic)",PAK2,0.2500108
+Myocyte (sk. muscle),PAK2,0.23722062
+Sweat gland cell,PAK2,0.22642483
+Sebaceous gland cell,PAK2,0.21736373
+Epithelial cell (suprabasal keratinocyte),PAK2,0.16738965
+Myoepithelial (basal),PAK2,0.16516201
+Satellite cell,PAK2,0.16023414
+Epithelial cell (cornified keratinocyte),PAK2,0.03774584
+Epithelial cell (mature keratinocyte),PAK2,0.020881286

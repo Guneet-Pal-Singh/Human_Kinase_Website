@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (DC),TYK2,1.0014395
+Immune (Langerhans),TYK2,0.37574545
+Epithelial cell (mature keratinocyte),TYK2,0.34735426
+Immune (alveolar macrophage),TYK2,0.28541476
+Myofibroblast,TYK2,0.28267258
+Immune (B cell),TYK2,0.26738378
+Epithelial cell (cornified keratinocyte),TYK2,0.24294876
+Epithelial cell (suprabasal keratinocyte),TYK2,0.24293102
+Epithelial cell (suprabasal),TYK2,0.24235016
+Immune (mast cell),TYK2,0.22170879
+Mucous cell,TYK2,0.2056817
+Immune (DC/macrophage),TYK2,0.20109177
+Epithelial cell (basal keratinocyte),TYK2,0.1998787
+Epithelial cell (basal),TYK2,0.18664338
+Immune (T cell),TYK2,0.1840743
+Epithelial cell (alveolar type II),TYK2,0.17753693
+Adipocyte,TYK2,0.17574233
+Epithelial cell (alveolar type I),TYK2,0.16619144
+Endothelial cell (lymphatic),TYK2,0.1626584
+Epithelial cell (ciliated),TYK2,0.16009454
+Sweat gland cell,TYK2,0.15799095
+Epithelial cell (club),TYK2,0.15286969
+Epithelial cell (luminal),TYK2,0.15004954
+Melanocyte,TYK2,0.14444804
+Myoepithelial (basal),TYK2,0.14037734
+"Myocyte (cardiac, cytoplasmic)",TYK2,0.1341698
+Endothelial cell (vascular),TYK2,0.134017
+Epithelial cell (Hillock),TYK2,0.12493314
+Myocyte (cardiac),TYK2,0.124881886
+Immune (NK cell),TYK2,0.11405367
+Fibroblast,TYK2,0.106772974
+Myocyte (smooth muscle),TYK2,0.10635734
+Pericyte/SMC,TYK2,0.10586776
+Myocyte (NMJ-rich),TYK2,0.10502497
+ICCs,TYK2,0.104800284
+Epithelial cell (squamous),TYK2,0.104689606
+Neuroendocrine,TYK2,0.09632782
+Schwann cell,TYK2,0.09215095
+Myocyte (sk. muscle),TYK2,0.07111125
+Satellite cell,TYK2,0.05356401
+Sebaceous gland cell,TYK2,0.0528937
+"Myocyte (sk. muscle, cytoplasmic)",TYK2,0.019407481
+Neuronal,TYK2,0.0

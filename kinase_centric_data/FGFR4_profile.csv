@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+lung,Fibroblast,FGFR4,1.0819672,8.26558265582656
+skin,Epithelial cell,FGFR4,1.0833334,1.9933554817275747
+prostate,Fibroblast,FGFR4,1.05,1.7513134851138354
+breast,Epithelial cell,FGFR4,1.089109,1.7416795999310226
+esophagusmucosa,Glia,FGFR4,1.0,1.5384615384615383
+esophagusmucosa,Fibroblast,FGFR4,1.054054,1.3143872113676731
+lung,Muscle,FGFR4,1.0,1.2269938650306749
+skin,Other,FGFR4,1.0,0.8849557522123894
+heart,Fibroblast,FGFR4,1.0133333,0.8075804888553892
+esophagusmucosa,Epithelial cell,FGFR4,1.0588236,0.7393447376051029
+esophagusmucosa,Stromal,FGFR4,1.0,0.7077856420626896
+heart,Adipocyte,FGFR4,1.0,0.5181347150259068
+prostate,Muscle,FGFR4,1.0,0.3566651805617477
+esophagusmuscularis,Fibroblast,FGFR4,1.054054,0.3554616197521376
+heart,Glia,FGFR4,1.0,0.3355704697986577
+lung,Endothelial cell,FGFR4,1.0,0.2549162418062636
+skeletalmuscle,Muscle,FGFR4,1.0196079,0.2259536573479243
+skeletalmuscle,Fibroblast,FGFR4,1.0,0.2187079407806191
+skin,Endothelial cell,FGFR4,1.0,0.1955034213098729
+esophagusmucosa,Endothelial cell,FGFR4,1.0,0.1496365968362548
+breast,Fibroblast,FGFR4,1.0,0.1221001221001221
+lung,Epithelial cell,FGFR4,1.0,0.1163032191069574
+lung,Immune (myeloid),FGFR4,1.1428572,0.1147729135923922
+esophagusmucosa,Immune (lymphocyte),FGFR4,1.0,0.11001100110011
+esophagusmuscularis,Muscle,FGFR4,1.0,0.1076064294841616
+skin,Epithelial cell (keratinocyte),FGFR4,1.0,0.1027221366204417
+esophagusmuscularis,Immune (myeloid),FGFR4,1.0,0.1012487343908201
+esophagusmuscularis,Endothelial cell,FGFR4,1.0,0.0896659941717103
+prostate,Epithelial cell,FGFR4,1.05,0.0866814025050925
+heart,Muscle,FGFR4,1.0,0.0746021220159151
+prostate,Endothelial cell,FGFR4,1.0,0.0707714083510261
+heart,Endothelial cell,FGFR4,1.0,0.0392927308447937
+heart,Immune (myeloid),FGFR4,1.0,0.0156274417877793
+esophagusmuscularis,Glia,FGFR4,0.0,0.0
+esophagusmuscularis,Neuron,FGFR4,0.0,0.0
+breast,Endothelial cell,FGFR4,0.0,0.0
+breast,Adipocyte,FGFR4,0.0,0.0
+breast,Muscle,FGFR4,0.0,0.0
+esophagusmucosa,Immune (myeloid),FGFR4,0.0,0.0
+esophagusmuscularis,Adipocyte,FGFR4,0.0,0.0
+esophagusmucosa,Muscle,FGFR4,0.0,0.0
+esophagusmuscularis,Immune (lymphocyte),FGFR4,0.0,0.0
+breast,Immune (myeloid),FGFR4,0.0,0.0
+heart,Immune (lymphocyte),FGFR4,0.0,0.0
+skeletalmuscle,Adipocyte,FGFR4,0.0,0.0
+prostate,Immune (lymphocyte),FGFR4,0.0,0.0
+prostate,Glia,FGFR4,0.0,0.0
+lung,Immune (lymphocyte),FGFR4,0.0,0.0
+prostate,Immune (myeloid),FGFR4,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),FGFR4,0.0,0.0
+skeletalmuscle,Endothelial cell,FGFR4,0.0,0.0
+skin,Adipocyte,FGFR4,0.0,0.0
+skeletalmuscle,Immune (myeloid),FGFR4,0.0,0.0
+skeletalmuscle,Glia,FGFR4,0.0,0.0
+skin,Fibroblast,FGFR4,0.0,0.0
+skin,Immune (lymphocyte),FGFR4,0.0,0.0
+skin,Immune (myeloid),FGFR4,0.0,0.0
+skin,Melanocyte,FGFR4,0.0,0.0
+skin,Muscle,FGFR4,0.0,0.0

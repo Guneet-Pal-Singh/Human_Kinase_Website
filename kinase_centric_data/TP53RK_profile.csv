@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+prostate,Epithelial cell,TP53RK,1.0940032,2.6741212672821044
+skin,Other,TP53RK,1.2727273,2.433628318584071
+skeletalmuscle,Adipocyte,TP53RK,1.0,1.8867924528301887
+prostate,Muscle,TP53RK,1.0256411,1.7387427552385195
+skeletalmuscle,Fibroblast,TP53RK,1.0105263,1.598250336473755
+heart,Adipocyte,TP53RK,1.0,1.5544041450777202
+prostate,Glia,TP53RK,1.0,1.4925373134328357
+heart,Muscle,TP53RK,1.0324675,1.276525198938992
+esophagusmuscularis,Muscle,TP53RK,1.0271739,1.2374739390678593
+heart,Fibroblast,TP53RK,1.0190476,1.130612684397545
+heart,Glia,TP53RK,1.0,1.006711409395973
+skeletalmuscle,Immune (lymphocyte),TP53RK,1.0,1.0
+prostate,Immune (myeloid),TP53RK,1.0,0.8754863813229572
+prostate,Fibroblast,TP53RK,1.0,0.7880910683012259
+esophagusmucosa,Epithelial cell,TP53RK,1.0471698,0.7683386488837344
+heart,Immune (lymphocyte),TP53RK,1.0,0.7163323782234957
+lung,Immune (myeloid),TP53RK,1.0,0.6886374815543532
+breast,Adipocyte,TP53RK,1.0,0.6814310051107325
+esophagusmuscularis,Immune (lymphocyte),TP53RK,1.0,0.6644518272425249
+esophagusmuscularis,Fibroblast,TP53RK,1.0,0.605245460659045
+prostate,Immune (lymphocyte),TP53RK,1.0,0.5865102639296188
+breast,Immune (myeloid),TP53RK,1.0,0.5586592178770949
+skeletalmuscle,Immune (myeloid),TP53RK,1.0,0.5427408412483039
+esophagusmucosa,Fibroblast,TP53RK,1.0,0.5328596802841918
+prostate,Endothelial cell,TP53RK,1.0,0.5307855626326964
+esophagusmucosa,Stromal,TP53RK,1.0,0.5055611729019212
+esophagusmuscularis,Immune (myeloid),TP53RK,1.0,0.4724940938238272
+heart,Immune (myeloid),TP53RK,1.0,0.4375683700578215
+heart,Endothelial cell,TP53RK,1.0,0.4191224623444662
+breast,Fibroblast,TP53RK,1.0,0.3663003663003663
+skin,Epithelial cell,TP53RK,1.0,0.3322259136212624
+skeletalmuscle,Endothelial cell,TP53RK,1.0,0.3005259203606311
+skin,Endothelial cell,TP53RK,1.0,0.2932551319648094
+esophagusmucosa,Immune (myeloid),TP53RK,1.0,0.2861230329041487
+lung,Epithelial cell,TP53RK,1.0149254,0.2782969885773624
+lung,Immune (lymphocyte),TP53RK,1.0,0.2758620689655172
+skin,Epithelial cell (keratinocyte),TP53RK,1.2,0.2568053415511042
+breast,Endothelial cell,TP53RK,1.0,0.2270147559591373
+lung,Endothelial cell,TP53RK,1.0,0.2184996358339402
+esophagusmucosa,Muscle,TP53RK,1.0,0.1996007984031935
+breast,Epithelial cell,TP53RK,1.0,0.1379548197965166
+esophagusmuscularis,Endothelial cell,TP53RK,1.0,0.1344989912575655
+skeletalmuscle,Muscle,TP53RK,1.0689656,0.1284834522174471
+esophagusmucosa,Immune (lymphocyte),TP53RK,1.0,0.11001100110011
+esophagusmucosa,Endothelial cell,TP53RK,1.0,0.1068832834544677
+esophagusmuscularis,Glia,TP53RK,1.0,0.1030927835051546
+lung,Fibroblast,TP53RK,1.0,0.067750677506775
+esophagusmuscularis,Neuron,TP53RK,0.0,0.0
+esophagusmuscularis,Adipocyte,TP53RK,0.0,0.0
+breast,Muscle,TP53RK,0.0,0.0
+esophagusmucosa,Glia,TP53RK,0.0,0.0
+lung,Muscle,TP53RK,0.0,0.0
+skeletalmuscle,Glia,TP53RK,0.0,0.0
+skin,Adipocyte,TP53RK,0.0,0.0
+skin,Fibroblast,TP53RK,0.0,0.0
+skin,Immune (lymphocyte),TP53RK,0.0,0.0
+skin,Immune (myeloid),TP53RK,0.0,0.0
+skin,Melanocyte,TP53RK,0.0,0.0
+skin,Muscle,TP53RK,0.0,0.0

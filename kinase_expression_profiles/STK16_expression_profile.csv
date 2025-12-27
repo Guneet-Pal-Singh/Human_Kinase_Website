@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (cornified keratinocyte),STK16,0.2401674
+"Myocyte (cardiac, cytoplasmic)",STK16,0.13129571
+Epithelial cell (mature keratinocyte),STK16,0.108165495
+Sweat gland cell,STK16,0.10129991
+Epithelial cell (luminal),STK16,0.09907358
+Neuroendocrine,STK16,0.09742344
+Sebaceous gland cell,STK16,0.09297951
+Epithelial cell (Hillock),STK16,0.07848654
+Myocyte (smooth muscle),STK16,0.07202201
+Epithelial cell (squamous),STK16,0.069463864
+Epithelial cell (suprabasal keratinocyte),STK16,0.06618644
+Epithelial cell (club),STK16,0.06445448
+Myofibroblast,STK16,0.060966667
+Epithelial cell (suprabasal),STK16,0.06020297
+Adipocyte,STK16,0.055300478
+Epithelial cell (basal),STK16,0.054070838
+Epithelial cell (basal keratinocyte),STK16,0.051656038
+Immune (NK cell),STK16,0.04435026
+Immune (B cell),STK16,0.0419988
+Immune (T cell),STK16,0.039984968
+Mucous cell,STK16,0.038980592
+Melanocyte,STK16,0.03789578
+Epithelial cell (alveolar type I),STK16,0.03615667
+Epithelial cell (alveolar type II),STK16,0.035751056
+Epithelial cell (ciliated),STK16,0.03574837
+Immune (alveolar macrophage),STK16,0.034602858
+Myoepithelial (basal),STK16,0.03425962
+Immune (DC/macrophage),STK16,0.03246853
+Fibroblast,STK16,0.031779602
+ICCs,STK16,0.030591708
+Endothelial cell (lymphatic),STK16,0.030125236
+Pericyte/SMC,STK16,0.02780748
+Endothelial cell (vascular),STK16,0.023050416
+Myocyte (cardiac),STK16,0.02070668
+"Myocyte (sk. muscle, cytoplasmic)",STK16,0.01678058
+Immune (mast cell),STK16,0.012829276
+Schwann cell,STK16,0.0127875125
+Myocyte (sk. muscle),STK16,0.00046376267
+Immune (Langerhans),STK16,0.0
+Immune (DC),STK16,0.0
+Myocyte (NMJ-rich),STK16,0.0
+Neuronal,STK16,0.0
+Satellite cell,STK16,0.0

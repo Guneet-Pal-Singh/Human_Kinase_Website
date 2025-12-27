@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Myocyte (cardiac),TTBK2,0.8186651
+Epithelial cell (ciliated),TTBK2,0.72014815
+Immune (DC),TTBK2,0.698705
+Neuroendocrine,TTBK2,0.61579466
+ICCs,TTBK2,0.5755337
+Myocyte (NMJ-rich),TTBK2,0.5751184
+Neuronal,TTBK2,0.5405829
+Myocyte (sk. muscle),TTBK2,0.51723576
+Immune (Langerhans),TTBK2,0.44991854
+Immune (alveolar macrophage),TTBK2,0.4432647
+Myofibroblast,TTBK2,0.4398342
+Immune (DC/macrophage),TTBK2,0.42855147
+Myocyte (smooth muscle),TTBK2,0.42833695
+Melanocyte,TTBK2,0.383933
+Mucous cell,TTBK2,0.38335943
+Endothelial cell (lymphatic),TTBK2,0.3741805
+Pericyte/SMC,TTBK2,0.37399116
+Epithelial cell (luminal),TTBK2,0.3704059
+Epithelial cell (Hillock),TTBK2,0.34672838
+Schwann cell,TTBK2,0.3442531
+Immune (mast cell),TTBK2,0.33477697
+Epithelial cell (club),TTBK2,0.332346
+Epithelial cell (basal),TTBK2,0.3300956
+Immune (T cell),TTBK2,0.32860824
+Epithelial cell (alveolar type I),TTBK2,0.32571608
+Endothelial cell (vascular),TTBK2,0.3175499
+Epithelial cell (alveolar type II),TTBK2,0.3170359
+Fibroblast,TTBK2,0.31635085
+Immune (NK cell),TTBK2,0.31607568
+Sweat gland cell,TTBK2,0.3076722
+Adipocyte,TTBK2,0.27692533
+Satellite cell,TTBK2,0.26647744
+"Myocyte (sk. muscle, cytoplasmic)",TTBK2,0.26327908
+Immune (B cell),TTBK2,0.25846395
+Epithelial cell (suprabasal),TTBK2,0.23856305
+Myoepithelial (basal),TTBK2,0.23851758
+Epithelial cell (mature keratinocyte),TTBK2,0.21947786
+"Myocyte (cardiac, cytoplasmic)",TTBK2,0.18030438
+Sebaceous gland cell,TTBK2,0.17456092
+Epithelial cell (basal keratinocyte),TTBK2,0.14085785
+Epithelial cell (suprabasal keratinocyte),TTBK2,0.1265605
+Epithelial cell (cornified keratinocyte),TTBK2,0.12635379
+Epithelial cell (squamous),TTBK2,0.07696333

@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Adipocyte,INSR,1.5877193,65.14285714285715
+heart,Muscle,INSR,3.273749,60.46916445623343
+prostate,Endothelial cell,INSR,5.728764,60.403397027600846
+heart,Adipocyte,INSR,1.9047619,54.40414507772021
+breast,Endothelial cell,INSR,2.0070422,48.35414301929625
+skin,Fibroblast,INSR,1.6137339,44.045368620037806
+heart,Fibroblast,INSR,1.4599844,41.57424356627544
+breast,Adipocyte,INSR,1.5518672,41.05621805792163
+breast,Epithelial cell,INSR,1.6111355,39.33436799448181
+skeletalmuscle,Adipocyte,INSR,1.2459016,38.36477987421384
+prostate,Epithelial cell,INSR,1.7765727,37.96212022710528
+skin,Epithelial cell (keratinocyte),INSR,1.5200553,37.13405238828968
+esophagusmucosa,Endothelial cell,INSR,3.2458165,37.04574604531851
+skin,Epithelial cell,INSR,1.5539906,35.38205980066445
+skin,Muscle,INSR,1.40625,34.40860215053764
+prostate,Glia,INSR,1.3043479,34.32835820895522
+esophagusmucosa,Stromal,INSR,1.7701492,33.872598584428715
+skeletalmuscle,Muscle,INSR,1.4025049,33.605068450666785
+prostate,Muscle,INSR,1.9241012,33.48194382523406
+skin,Adipocyte,INSR,1.55,32.25806451612903
+esophagusmuscularis,Neuron,INSR,1.25,32.0
+skeletalmuscle,Fibroblast,INSR,1.3757256,31.88088829071332
+prostate,Fibroblast,INSR,1.4258242,31.873905429071804
+lung,Muscle,INSR,1.2040817,30.06134969325153
+esophagusmuscularis,Muscle,INSR,1.3926028,29.275674221534736
+skin,Immune (myeloid),INSR,1.5192307,29.05027932960894
+esophagusmuscularis,Endothelial cell,INSR,1.8903577,28.827617126204885
+lung,Epithelial cell,INSR,1.3051693,27.48078920041537
+skeletalmuscle,Endothelial cell,INSR,1.5961539,27.347858752817427
+skin,Other,INSR,1.4710743,26.769911504424783
+esophagusmucosa,Fibroblast,INSR,1.2772543,26.394316163410306
+lung,Fibroblast,INSR,1.2558746,25.94850948509485
+heart,Glia,INSR,1.32,25.16778523489933
+heart,Endothelial cell,INSR,1.5894179,24.75442043222004
+heart,Immune (myeloid),INSR,1.3494589,24.550711048601347
+esophagusmuscularis,Fibroblast,INSR,1.3032916,24.51724469209338
+skeletalmuscle,Immune (myeloid),INSR,1.2146893,24.016282225237447
+lung,Immune (myeloid),INSR,1.2829802,23.98753894080997
+esophagusmucosa,Muscle,INSR,1.3865546,23.75249500998004
+breast,Muscle,INSR,1.2777778,23.684210526315788
+prostate,Immune (myeloid),INSR,1.5535715,21.78988326848249
+esophagusmucosa,Immune (myeloid),INSR,1.4304636,21.602288984263232
+breast,Immune (myeloid),INSR,1.3684211,21.22905027932961
+skin,Endothelial cell,INSR,1.3891625,19.843597262952105
+esophagusmuscularis,Glia,INSR,1.183246,19.690721649484537
+skin,Melanocyte,INSR,1.3461539,19.11764705882353
+breast,Fibroblast,INSR,1.32,18.315018315018317
+skeletalmuscle,Glia,INSR,1.1666666,17.142857142857142
+esophagusmuscularis,Immune (myeloid),INSR,1.2137097,16.739790752615594
+esophagusmucosa,Epithelial cell,INSR,1.6229736,15.649463612641345
+esophagusmucosa,Glia,INSR,1.3,15.384615384615383
+lung,Endothelial cell,INSR,1.1849866,13.58339402767662
+skin,Immune (lymphocyte),INSR,1.3333334,8.0
+lung,Immune (lymphocyte),INSR,1.1153846,3.586206896551724
+esophagusmuscularis,Immune (lymphocyte),INSR,1.2,3.322259136212625
+esophagusmucosa,Immune (lymphocyte),INSR,1.3148148,2.9702970297029703
+heart,Immune (lymphocyte),INSR,1.2,2.865329512893983
+prostate,Immune (lymphocyte),INSR,1.125,1.1730205278592376
+skeletalmuscle,Immune (lymphocyte),INSR,1.0,1.0

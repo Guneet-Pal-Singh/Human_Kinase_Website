@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+heart,Endothelial cell,TEK,1.3006719,23.392272429600524
+esophagusmucosa,Endothelial cell,TEK,1.3166175,21.740059854638734
+skeletalmuscle,Endothelial cell,TEK,1.5387324,21.337340345604808
+prostate,Endothelial cell,TEK,1.2644483,20.205237084217977
+lung,Endothelial cell,TEK,1.2423147,20.138383102694828
+esophagusmuscularis,Endothelial cell,TEK,1.3384075,19.14368975566017
+skin,Endothelial cell,TEK,1.2395834,18.7683284457478
+breast,Endothelial cell,TEK,1.3265306,16.685584562996596
+skeletalmuscle,Glia,TEK,1.0,8.571428571428571
+esophagusmuscularis,Neuron,TEK,1.0,8.0
+esophagusmuscularis,Adipocyte,TEK,1.1666666,3.428571428571429
+prostate,Glia,TEK,1.0,2.985074626865672
+heart,Glia,TEK,1.0,2.348993288590604
+esophagusmucosa,Stromal,TEK,1.15,2.0222446916076846
+breast,Muscle,TEK,1.0,1.973684210526316
+lung,Epithelial cell,TEK,1.0672646,1.8525441329179648
+lung,Muscle,TEK,1.0,1.8404907975460123
+skin,Muscle,TEK,1.0,1.6129032258064515
+heart,Adipocyte,TEK,1.3333334,1.5544041450777202
+esophagusmucosa,Glia,TEK,1.0,1.5384615384615383
+heart,Muscle,TEK,1.15,1.4920424403183024
+lung,Immune (myeloid),TEK,1.0227273,1.442859485161502
+lung,Fibroblast,TEK,1.0,1.4227642276422765
+esophagusmuscularis,Glia,TEK,1.1666666,1.2371134020618555
+skeletalmuscle,Immune (lymphocyte),TEK,1.0,1.0
+skin,Epithelial cell,TEK,1.1666666,0.9966777408637874
+heart,Fibroblast,TEK,1.0921053,0.8183482287067945
+esophagusmucosa,Muscle,TEK,1.0,0.7984031936127743
+lung,Immune (lymphocyte),TEK,1.0,0.6896551724137931
+skeletalmuscle,Fibroblast,TEK,1.0,0.6729475100942126
+esophagusmuscularis,Immune (lymphocyte),TEK,1.0,0.6644518272425249
+esophagusmucosa,Immune (myeloid),TEK,1.0,0.6437768240343348
+esophagusmuscularis,Immune (myeloid),TEK,1.1052631,0.641241984475194
+skeletalmuscle,Adipocyte,TEK,1.0,0.628930817610063
+skin,Immune (myeloid),TEK,1.0,0.5586592178770949
+breast,Epithelial cell,TEK,1.0,0.5173305742369374
+esophagusmuscularis,Muscle,TEK,1.0666667,0.5044051382070078
+prostate,Muscle,TEK,1.1818181,0.490414623272403
+heart,Immune (myeloid),TEK,1.0645162,0.4844506954211595
+prostate,Fibroblast,TEK,1.0,0.4378283712784588
+heart,Immune (lymphocyte),TEK,1.0,0.4297994269340974
+skeletalmuscle,Muscle,TEK,1.0208334,0.4253245314784458
+skeletalmuscle,Immune (myeloid),TEK,1.0,0.4070556309362279
+skin,Melanocyte,TEK,1.0,0.3676470588235294
+breast,Adipocyte,TEK,1.1666666,0.3407155025553662
+esophagusmucosa,Immune (lymphocyte),TEK,1.0,0.33003300330033
+prostate,Epithelial cell,TEK,1.0666667,0.325055259394097
+esophagusmucosa,Epithelial cell,TEK,1.1190476,0.3044360684256306
+prostate,Immune (myeloid),TEK,1.0,0.2918287937743191
+breast,Immune (myeloid),TEK,1.0,0.2793296089385474
+breast,Fibroblast,TEK,1.0,0.2442002442002442
+skin,Other,TEK,1.0,0.2212389380530973
+esophagusmuscularis,Fibroblast,TEK,1.0869565,0.220962628494572
+skin,Fibroblast,TEK,1.0,0.1890359168241966
+esophagusmucosa,Fibroblast,TEK,1.0,0.1776198934280639
+prostate,Immune (lymphocyte),TEK,1.0,0.1466275659824047
+skin,Epithelial cell (keratinocyte),TEK,1.0,0.0513610683102208
+skin,Adipocyte,TEK,0.0,0.0
+skin,Immune (lymphocyte),TEK,0.0,0.0

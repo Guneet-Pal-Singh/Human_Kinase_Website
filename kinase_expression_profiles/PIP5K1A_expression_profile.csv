@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (cornified keratinocyte),PIP5K1A,0.72797394
+Immune (DC),PIP5K1A,0.6297199
+Myocyte (cardiac),PIP5K1A,0.61540043
+ICCs,PIP5K1A,0.61031276
+Myofibroblast,PIP5K1A,0.52621126
+Epithelial cell (basal keratinocyte),PIP5K1A,0.5073134
+Myocyte (NMJ-rich),PIP5K1A,0.50110036
+Epithelial cell (suprabasal),PIP5K1A,0.48731175
+Epithelial cell (squamous),PIP5K1A,0.48468056
+Epithelial cell (mature keratinocyte),PIP5K1A,0.47748604
+Neuroendocrine,PIP5K1A,0.45852777
+Mucous cell,PIP5K1A,0.45746243
+Sebaceous gland cell,PIP5K1A,0.4413977
+Epithelial cell (club),PIP5K1A,0.43071237
+Epithelial cell (alveolar type I),PIP5K1A,0.4282356
+Epithelial cell (alveolar type II),PIP5K1A,0.42585874
+Epithelial cell (ciliated),PIP5K1A,0.4141376
+Epithelial cell (suprabasal keratinocyte),PIP5K1A,0.3974007
+Myocyte (sk. muscle),PIP5K1A,0.39542758
+Myocyte (smooth muscle),PIP5K1A,0.39409423
+Immune (B cell),PIP5K1A,0.3752638
+Myoepithelial (basal),PIP5K1A,0.36787063
+Epithelial cell (basal),PIP5K1A,0.3671329
+Immune (alveolar macrophage),PIP5K1A,0.3645901
+Immune (DC/macrophage),PIP5K1A,0.34862822
+Adipocyte,PIP5K1A,0.34783965
+Epithelial cell (luminal),PIP5K1A,0.3471495
+Neuronal,PIP5K1A,0.3451306
+Immune (Langerhans),PIP5K1A,0.33367512
+Fibroblast,PIP5K1A,0.3292203
+Immune (NK cell),PIP5K1A,0.32899645
+Endothelial cell (lymphatic),PIP5K1A,0.3022105
+Epithelial cell (Hillock),PIP5K1A,0.3022073
+Pericyte/SMC,PIP5K1A,0.29594854
+Sweat gland cell,PIP5K1A,0.2745132
+Endothelial cell (vascular),PIP5K1A,0.26920372
+Immune (T cell),PIP5K1A,0.2580461
+Schwann cell,PIP5K1A,0.25180787
+Satellite cell,PIP5K1A,0.24610648
+Immune (mast cell),PIP5K1A,0.24098694
+Melanocyte,PIP5K1A,0.21098725
+"Myocyte (sk. muscle, cytoplasmic)",PIP5K1A,0.17969623
+"Myocyte (cardiac, cytoplasmic)",PIP5K1A,0.15718716

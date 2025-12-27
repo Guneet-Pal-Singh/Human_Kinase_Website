@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Melanocyte,STK11,0.43137518
+Epithelial cell (squamous),STK11,0.4271415
+Epithelial cell (mature keratinocyte),STK11,0.3717425
+Epithelial cell (suprabasal),STK11,0.3346912
+Myofibroblast,STK11,0.3295971
+Neuroendocrine,STK11,0.3175273
+Immune (DC),STK11,0.3103146
+Immune (Langerhans),STK11,0.2883064
+Adipocyte,STK11,0.28529325
+Neuronal,STK11,0.24789709
+Epithelial cell (basal),STK11,0.23826988
+Mucous cell,STK11,0.23257756
+Epithelial cell (Hillock),STK11,0.22693571
+Epithelial cell (luminal),STK11,0.22374749
+Sweat gland cell,STK11,0.21354984
+"Myocyte (sk. muscle, cytoplasmic)",STK11,0.20029607
+Immune (alveolar macrophage),STK11,0.18965764
+Epithelial cell (club),STK11,0.18935858
+Endothelial cell (lymphatic),STK11,0.18037996
+Epithelial cell (suprabasal keratinocyte),STK11,0.1682418
+Immune (B cell),STK11,0.16518088
+Epithelial cell (basal keratinocyte),STK11,0.15979806
+Myoepithelial (basal),STK11,0.15660483
+Immune (T cell),STK11,0.15461248
+Myocyte (smooth muscle),STK11,0.1513105
+Pericyte/SMC,STK11,0.14963084
+Myocyte (NMJ-rich),STK11,0.14888367
+Myocyte (cardiac),STK11,0.14844818
+Epithelial cell (alveolar type I),STK11,0.14747015
+Epithelial cell (cornified keratinocyte),STK11,0.146791
+Epithelial cell (alveolar type II),STK11,0.14638004
+"Myocyte (cardiac, cytoplasmic)",STK11,0.14558205
+Immune (NK cell),STK11,0.14183928
+Immune (DC/macrophage),STK11,0.1360599
+Sebaceous gland cell,STK11,0.13476487
+Epithelial cell (ciliated),STK11,0.12897715
+Schwann cell,STK11,0.12467825
+Endothelial cell (vascular),STK11,0.12284995
+Immune (mast cell),STK11,0.110892825
+Fibroblast,STK11,0.109335065
+Myocyte (sk. muscle),STK11,0.093934275
+ICCs,STK11,0.09201428
+Satellite cell,STK11,0.074163355

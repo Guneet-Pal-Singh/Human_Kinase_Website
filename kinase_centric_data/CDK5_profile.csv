@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Neuron,CDK5,1.0,8.0
+prostate,Glia,CDK5,1.0,2.985074626865672
+skin,Other,CDK5,1.3333334,1.991150442477876
+lung,Muscle,CDK5,1.0,1.2269938650306749
+heart,Adipocyte,CDK5,1.0,1.0362694300518136
+skeletalmuscle,Immune (lymphocyte),CDK5,1.0,1.0
+prostate,Fibroblast,CDK5,1.0,0.9632224168126094
+prostate,Immune (myeloid),CDK5,1.1111112,0.8754863813229572
+skin,Epithelial cell,CDK5,1.4,0.8305647840531563
+esophagusmucosa,Immune (myeloid),CDK5,1.0,0.7868383404864091
+prostate,Epithelial cell,CDK5,1.0295858,0.7324578511680319
+lung,Immune (myeloid),CDK5,1.0,0.721429742580751
+prostate,Muscle,CDK5,1.0,0.6687472135532769
+esophagusmucosa,Epithelial cell,CDK5,1.0227273,0.6378660481298928
+skeletalmuscle,Adipocyte,CDK5,1.0,0.628930817610063
+esophagusmucosa,Muscle,CDK5,1.0,0.5988023952095809
+prostate,Endothelial cell,CDK5,1.125,0.5661712668082095
+skeletalmuscle,Immune (myeloid),CDK5,1.0,0.5427408412483039
+skin,Muscle,CDK5,1.0,0.5376344086021506
+heart,Muscle,CDK5,1.0,0.5139257294429709
+esophagusmucosa,Stromal,CDK5,1.0,0.5055611729019212
+esophagusmuscularis,Muscle,CDK5,1.0277778,0.4842289326787276
+heart,Immune (myeloid),CDK5,1.0,0.4375683700578215
+esophagusmucosa,Endothelial cell,CDK5,1.05,0.4275331338178709
+esophagusmuscularis,Immune (myeloid),CDK5,1.0909091,0.371245359433007
+skin,Melanocyte,CDK5,1.0,0.3676470588235294
+heart,Glia,CDK5,1.0,0.3355704697986577
+esophagusmucosa,Immune (lymphocyte),CDK5,1.0,0.33003300330033
+heart,Endothelial cell,CDK5,1.0,0.3143418467583497
+lung,Epithelial cell,CDK5,1.0410959,0.3032191069574247
+heart,Immune (lymphocyte),CDK5,1.0,0.2865329512893982
+heart,Fibroblast,CDK5,1.0,0.2691934962851297
+skin,Epithelial cell (keratinocyte),CDK5,1.0,0.2568053415511042
+esophagusmucosa,Fibroblast,CDK5,1.1428572,0.2486678507992895
+esophagusmuscularis,Glia,CDK5,1.0,0.2061855670103093
+lung,Fibroblast,CDK5,1.0,0.2032520325203252
+esophagusmuscularis,Endothelial cell,CDK5,1.125,0.1793319883434207
+breast,Epithelial cell,CDK5,1.0,0.1551991722710812
+skeletalmuscle,Fibroblast,CDK5,1.0,0.1514131897711978
+lung,Immune (lymphocyte),CDK5,1.0,0.1379310344827586
+breast,Endothelial cell,CDK5,1.0,0.1135073779795686
+lung,Endothelial cell,CDK5,1.0,0.1092498179169701
+skin,Endothelial cell,CDK5,1.0,0.0977517106549364
+esophagusmuscularis,Fibroblast,CDK5,1.0,0.0960707080411182
+skeletalmuscle,Endothelial cell,CDK5,1.0,0.0751314800901577
+skeletalmuscle,Muscle,CDK5,1.0,0.06202649417394
+breast,Adipocyte,CDK5,1.0,0.056785917092561
+breast,Muscle,CDK5,0.0,0.0
+breast,Immune (myeloid),CDK5,0.0,0.0
+breast,Fibroblast,CDK5,0.0,0.0
+esophagusmucosa,Glia,CDK5,0.0,0.0
+esophagusmuscularis,Adipocyte,CDK5,0.0,0.0
+esophagusmuscularis,Immune (lymphocyte),CDK5,0.0,0.0
+prostate,Immune (lymphocyte),CDK5,0.0,0.0
+skeletalmuscle,Glia,CDK5,0.0,0.0
+skin,Adipocyte,CDK5,0.0,0.0
+skin,Fibroblast,CDK5,0.0,0.0
+skin,Immune (lymphocyte),CDK5,0.0,0.0
+skin,Immune (myeloid),CDK5,0.0,0.0

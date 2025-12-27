@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skeletalmuscle,Muscle,PFKM,1.3002707,18.000974702051305
+heart,Muscle,PFKM,1.3749406,17.465185676392572
+esophagusmuscularis,Neuron,PFKM,1.6666666,12.0
+prostate,Glia,PFKM,1.25,5.970149253731343
+skeletalmuscle,Glia,PFKM,1.0,5.714285714285714
+esophagusmucosa,Stromal,PFKM,1.0212766,4.752275025278059
+esophagusmuscularis,Muscle,PFKM,1.0776119,4.50601923464927
+skeletalmuscle,Adipocyte,PFKM,1.0,4.40251572327044
+prostate,Muscle,PFKM,1.037037,3.611234953187695
+esophagusmuscularis,Adipocyte,PFKM,1.0,3.428571428571429
+prostate,Fibroblast,PFKM,1.0285715,3.064798598949212
+skin,Melanocyte,PFKM,1.125,2.941176470588235
+heart,Glia,PFKM,1.0,2.684563758389262
+heart,Adipocyte,PFKM,1.0,2.5906735751295336
+esophagusmucosa,Muscle,PFKM,1.0,2.19560878243513
+skin,Muscle,PFKM,1.0,2.1505376344086025
+esophagusmuscularis,Fibroblast,PFKM,1.0192307,1.99827072725526
+esophagusmucosa,Epithelial cell,PFKM,1.0254545,1.9933314004059144
+esophagusmucosa,Fibroblast,PFKM,1.0,1.953818827708704
+lung,Fibroblast,PFKM,1.0,1.829268292682927
+prostate,Epithelial cell,PFKM,1.0308789,1.824643522732198
+skin,Other,PFKM,1.125,1.7699115044247788
+prostate,Endothelial cell,PFKM,1.0869565,1.627742392073602
+skin,Adipocyte,PFKM,1.0,1.6129032258064515
+skeletalmuscle,Fibroblast,PFKM,1.0531915,1.5814266487214
+skin,Fibroblast,PFKM,1.0,1.5122873345935728
+esophagusmuscularis,Glia,PFKM,1.0,1.443298969072165
+skeletalmuscle,Endothelial cell,PFKM,1.0555556,1.35236664162284
+lung,Epithelial cell,PFKM,1.0155764,1.3333333333333337
+breast,Muscle,PFKM,1.0,1.3157894736842104
+heart,Fibroblast,PFKM,1.0082644,1.302896522020028
+breast,Fibroblast,PFKM,1.1,1.221001221001221
+skin,Epithelial cell (keratinocyte),PFKM,1.0869565,1.1813045711350796
+prostate,Immune (myeloid),PFKM,1.0,1.1673151750972763
+esophagusmuscularis,Endothelial cell,PFKM,1.0384616,1.165657924232235
+breast,Epithelial cell,PFKM,1.0153847,1.1208829108466978
+esophagusmucosa,Endothelial cell,PFKM,1.0208334,1.02607952116289
+breast,Endothelial cell,PFKM,1.0,1.021566401816118
+lung,Endothelial cell,PFKM,1.0,1.0196649672250546
+skin,Epithelial cell,PFKM,1.1666666,0.9966777408637874
+skeletalmuscle,Immune (myeloid),PFKM,1.0,0.949796472184532
+lung,Immune (myeloid),PFKM,1.0185186,0.8853910477127398
+esophagusmucosa,Immune (myeloid),PFKM,1.0,0.7153075822603719
+breast,Immune (myeloid),PFKM,1.0,0.5586592178770949
+breast,Adipocyte,PFKM,1.0,0.5110732538330494
+heart,Endothelial cell,PFKM,1.054054,0.4846103470857891
+prostate,Immune (lymphocyte),PFKM,1.0,0.4398826979472141
+esophagusmuscularis,Immune (myeloid),PFKM,1.0,0.3374957813027337
+esophagusmuscularis,Immune (lymphocyte),PFKM,1.0,0.3322259136212624
+esophagusmucosa,Immune (lymphocyte),PFKM,1.0,0.22002200220022
+skin,Endothelial cell,PFKM,1.0,0.1955034213098729
+lung,Immune (lymphocyte),PFKM,1.0,0.1379310344827586
+heart,Immune (myeloid),PFKM,1.0,0.0625097671511173
+heart,Immune (lymphocyte),PFKM,0.0,0.0
+esophagusmucosa,Glia,PFKM,0.0,0.0
+lung,Muscle,PFKM,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),PFKM,0.0,0.0
+skin,Immune (lymphocyte),PFKM,0.0,0.0
+skin,Immune (myeloid),PFKM,0.0,0.0

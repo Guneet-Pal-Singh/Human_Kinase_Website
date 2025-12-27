@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Neuron,PINK1,1.1666666,24.0
+prostate,Endothelial cell,PINK1,1.1504425,11.99575371549894
+heart,Muscle,PINK1,1.5499618,10.867042440318302
+prostate,Muscle,PINK1,1.1620111,7.980383415069103
+esophagusmucosa,Epithelial cell,PINK1,1.24052,6.690345027544216
+skin,Other,PINK1,1.1785715,6.1946902654867255
+prostate,Glia,PINK1,1.0,5.970149253731343
+prostate,Fibroblast,PINK1,1.060606,5.779334500875657
+heart,Adipocyte,PINK1,1.1818181,5.699481865284974
+prostate,Epithelial cell,PINK1,1.159939,5.690634074459325
+heart,Fibroblast,PINK1,1.1026616,5.66383116183913
+esophagusmuscularis,Muscle,PINK1,1.2144607,5.4879279036922455
+heart,Endothelial cell,PINK1,1.078759,5.487884741322855
+heart,Glia,PINK1,1.0,3.691275167785235
+skeletalmuscle,Endothelial cell,PINK1,1.0851064,3.5311795642374157
+skin,Epithelial cell (keratinocyte),PINK1,1.0757576,3.389830508474576
+esophagusmucosa,Endothelial cell,PINK1,1.0522876,3.2706284737067124
+skeletalmuscle,Glia,PINK1,1.0,2.857142857142857
+prostate,Immune (myeloid),PINK1,1.0384616,2.529182879377432
+skeletalmuscle,Adipocyte,PINK1,1.0,2.515723270440252
+breast,Epithelial cell,PINK1,1.0746269,2.310743231591654
+esophagusmucosa,Stromal,PINK1,1.0,2.224469160768453
+skeletalmuscle,Fibroblast,PINK1,1.0775194,2.170255720053836
+esophagusmucosa,Immune (myeloid),PINK1,1.0,2.145922746781116
+skin,Endothelial cell,PINK1,1.0,2.0527859237536656
+lung,Immune (myeloid),PINK1,1.072,2.0495163141498605
+skeletalmuscle,Immune (lymphocyte),PINK1,1.0,2.0
+breast,Adipocyte,PINK1,1.0285715,1.9875070982396368
+breast,Muscle,PINK1,1.0,1.973684210526316
+lung,Fibroblast,PINK1,1.0,1.8970189701897016
+esophagusmucosa,Fibroblast,PINK1,1.0,1.8827708703374777
+skin,Epithelial cell,PINK1,1.0,1.827242524916944
+breast,Endothelial cell,PINK1,1.0,1.8161180476730987
+skin,Immune (myeloid),PINK1,1.0,1.675977653631285
+lung,Epithelial cell,PINK1,1.01,1.6614745586708204
+esophagusmuscularis,Endothelial cell,PINK1,1.0958904,1.6364043936337145
+skin,Muscle,PINK1,1.0,1.6129032258064515
+esophagusmucosa,Muscle,PINK1,1.0,1.596806387225549
+esophagusmuscularis,Fibroblast,PINK1,1.0576923,1.498703045441445
+skeletalmuscle,Muscle,PINK1,1.2607261,1.3424305524788445
+esophagusmuscularis,Glia,PINK1,1.0,1.3402061855670102
+skin,Immune (lymphocyte),PINK1,2.0,1.3333333333333337
+heart,Immune (lymphocyte),PINK1,1.0,1.2893982808022924
+lung,Muscle,PINK1,1.0,1.2269938650306749
+breast,Fibroblast,PINK1,1.0,1.221001221001221
+heart,Immune (myeloid),PINK1,1.0266666,1.1720581340834506
+lung,Endothelial cell,PINK1,1.03125,1.165331391114348
+lung,Immune (lymphocyte),PINK1,1.0,0.9655172413793104
+breast,Immune (myeloid),PINK1,1.0,0.8379888268156425
+prostate,Immune (lymphocyte),PINK1,1.0,0.7331378299120235
+esophagusmuscularis,Immune (myeloid),PINK1,1.0,0.641241984475194
+esophagusmuscularis,Adipocyte,PINK1,1.0,0.5714285714285714
+skin,Fibroblast,PINK1,1.0,0.5671077504725899
+skin,Melanocyte,PINK1,1.0,0.3676470588235294
+esophagusmuscularis,Immune (lymphocyte),PINK1,1.0,0.3322259136212624
+esophagusmucosa,Immune (lymphocyte),PINK1,1.0,0.275027502750275
+skeletalmuscle,Immune (myeloid),PINK1,1.0,0.1356852103120759
+esophagusmucosa,Glia,PINK1,0.0,0.0
+skin,Adipocyte,PINK1,0.0,0.0

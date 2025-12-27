@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (suprabasal),COASY,0.29118782
+Adipocyte,COASY,0.283254
+Immune (Langerhans),COASY,0.2615888
+Epithelial cell (luminal),COASY,0.25218797
+Sweat gland cell,COASY,0.23200819
+Epithelial cell (squamous),COASY,0.22479454
+Epithelial cell (suprabasal keratinocyte),COASY,0.20841715
+"Myocyte (cardiac, cytoplasmic)",COASY,0.19577605
+Epithelial cell (basal),COASY,0.19458674
+Mucous cell,COASY,0.17593841
+Epithelial cell (mature keratinocyte),COASY,0.17382137
+Myofibroblast,COASY,0.17067587
+Epithelial cell (Hillock),COASY,0.17061125
+Neuronal,COASY,0.16673146
+Neuroendocrine,COASY,0.16506815
+Epithelial cell (club),COASY,0.15926099
+Epithelial cell (cornified keratinocyte),COASY,0.15900761
+"Myocyte (sk. muscle, cytoplasmic)",COASY,0.1457013
+Sebaceous gland cell,COASY,0.11265219
+Myocyte (smooth muscle),COASY,0.11126799
+Myoepithelial (basal),COASY,0.11096878
+Epithelial cell (alveolar type II),COASY,0.103259
+Immune (alveolar macrophage),COASY,0.09184533
+Epithelial cell (ciliated),COASY,0.090850756
+Epithelial cell (basal keratinocyte),COASY,0.089999475
+Immune (DC/macrophage),COASY,0.08853399
+Epithelial cell (alveolar type I),COASY,0.087263405
+Immune (B cell),COASY,0.08525881
+Myocyte (NMJ-rich),COASY,0.07509979
+Endothelial cell (lymphatic),COASY,0.07288953
+Fibroblast,COASY,0.068730235
+Immune (mast cell),COASY,0.06627531
+Immune (T cell),COASY,0.05865752
+Myocyte (cardiac),COASY,0.05560069
+ICCs,COASY,0.054388367
+Immune (NK cell),COASY,0.0542928
+Pericyte/SMC,COASY,0.052210476
+Melanocyte,COASY,0.052143965
+Endothelial cell (vascular),COASY,0.050663244
+Schwann cell,COASY,0.046752837
+Satellite cell,COASY,0.041966394
+Immune (DC),COASY,0.01864947
+Myocyte (sk. muscle),COASY,0.01591335

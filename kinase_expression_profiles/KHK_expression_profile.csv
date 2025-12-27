@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Schwann cell,KHK,0.022668693
+Endothelial cell (lymphatic),KHK,0.014815983
+ICCs,KHK,0.013628002
+Myocyte (smooth muscle),KHK,0.013464952
+Immune (DC/macrophage),KHK,0.012142329
+Epithelial cell (basal),KHK,0.0113009745
+Immune (alveolar macrophage),KHK,0.010716753
+"Myocyte (cardiac, cytoplasmic)",KHK,0.009943059
+Epithelial cell (suprabasal),KHK,0.009754482
+Epithelial cell (ciliated),KHK,0.009734496
+Epithelial cell (alveolar type I),KHK,0.009259862
+Satellite cell,KHK,0.009194925
+Endothelial cell (vascular),KHK,0.007982293
+Sebaceous gland cell,KHK,0.0076937303
+Immune (T cell),KHK,0.0075105047
+Epithelial cell (luminal),KHK,0.0071739326
+Epithelial cell (alveolar type II),KHK,0.0068888026
+Myoepithelial (basal),KHK,0.006754262
+Epithelial cell (club),KHK,0.0058198334
+Myofibroblast,KHK,0.0057650195
+Mucous cell,KHK,0.0056545287
+Myocyte (cardiac),KHK,0.0054557957
+Pericyte/SMC,KHK,0.0052328734
+Epithelial cell (Hillock),KHK,0.0049740965
+Fibroblast,KHK,0.004698817
+Adipocyte,KHK,0.0043360395
+Epithelial cell (basal keratinocyte),KHK,0.004266937
+Immune (mast cell),KHK,0.004012446
+Myocyte (sk. muscle),KHK,0.0037177703
+Epithelial cell (squamous),KHK,0.003184697
+"Myocyte (sk. muscle, cytoplasmic)",KHK,0.0010672734
+Epithelial cell (cornified keratinocyte),KHK,0.0
+Epithelial cell (suprabasal keratinocyte),KHK,0.0
+Immune (B cell),KHK,0.0
+Epithelial cell (mature keratinocyte),KHK,0.0
+Melanocyte,KHK,0.0
+Immune (DC),KHK,0.0
+Immune (Langerhans),KHK,0.0
+Immune (NK cell),KHK,0.0
+Myocyte (NMJ-rich),KHK,0.0
+Neuroendocrine,KHK,0.0
+Neuronal,KHK,0.0
+Sweat gland cell,KHK,0.0

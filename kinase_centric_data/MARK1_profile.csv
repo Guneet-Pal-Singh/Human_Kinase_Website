@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Neuron,MARK1,1.6666666,36.0
+heart,Adipocyte,MARK1,1.4339622,27.46113989637305
+esophagusmuscularis,Adipocyte,MARK1,1.1818181,25.142857142857142
+heart,Muscle,MARK1,1.4079866,24.90881962864721
+esophagusmucosa,Muscle,MARK1,1.2692307,20.758483033932134
+breast,Adipocyte,MARK1,1.2225353,20.15900056785917
+breast,Muscle,MARK1,1.16,16.447368421052634
+skin,Muscle,MARK1,1.3448275,15.591397849462366
+skeletalmuscle,Adipocyte,MARK1,1.25,15.09433962264151
+esophagusmucosa,Stromal,MARK1,1.1654676,14.054600606673407
+esophagusmucosa,Epithelial cell,MARK1,1.2147806,12.554363583647437
+prostate,Glia,MARK1,1.125,11.940298507462686
+skin,Adipocyte,MARK1,1.0,11.29032258064516
+lung,Muscle,MARK1,1.1666666,11.042944785276074
+breast,Fibroblast,MARK1,1.1264368,10.622710622710622
+prostate,Muscle,MARK1,1.1725664,10.075791350869371
+esophagusmuscularis,Muscle,MARK1,1.1451263,9.314681552222744
+esophagusmuscularis,Glia,MARK1,1.1052631,7.835051546391752
+esophagusmucosa,Glia,MARK1,1.2,7.6923076923076925
+prostate,Fibroblast,MARK1,1.2470589,7.443082311733801
+heart,Fibroblast,MARK1,1.0918367,7.38666953806396
+lung,Fibroblast,MARK1,1.069307,6.842818428184281
+heart,Glia,MARK1,1.1111112,6.04026845637584
+prostate,Endothelial cell,MARK1,1.1741935,5.484784147204529
+esophagusmucosa,Endothelial cell,MARK1,1.1069959,5.194527575887131
+prostate,Epithelial cell,MARK1,1.1201044,4.979846573917566
+esophagusmuscularis,Endothelial cell,MARK1,1.1100917,4.886796682358216
+esophagusmucosa,Fibroblast,MARK1,1.2015504,4.58259325044405
+skeletalmuscle,Fibroblast,MARK1,1.0564516,4.172274562584119
+skin,Fibroblast,MARK1,1.0,3.969754253308128
+skin,Endothelial cell,MARK1,1.1666666,3.519061583577713
+esophagusmuscularis,Fibroblast,MARK1,1.0901408,3.410510135459698
+skin,Other,MARK1,1.0666667,3.3185840707964607
+breast,Epithelial cell,MARK1,1.1190476,2.897051215726849
+skeletalmuscle,Glia,MARK1,2.0,2.857142857142857
+skeletalmuscle,Endothelial cell,MARK1,1.0526316,2.854996243425996
+breast,Endothelial cell,MARK1,1.08,2.837684449489217
+skin,Epithelial cell,MARK1,1.125,2.6578073089701
+lung,Endothelial cell,MARK1,1.0416666,2.6219956300072838
+skin,Epithelial cell (keratinocyte),MARK1,1.025,2.054442732408834
+skeletalmuscle,Muscle,MARK1,1.073107,1.6968676620442162
+breast,Immune (myeloid),MARK1,1.0,1.3966480446927374
+lung,Immune (myeloid),MARK1,1.0121951,1.3444827020823085
+lung,Epithelial cell,MARK1,1.0590163,1.2668743509865006
+heart,Endothelial cell,MARK1,1.0659341,1.191879502292076
+skin,Melanocyte,MARK1,1.0,1.1029411764705883
+esophagusmucosa,Immune (myeloid),MARK1,1.0666667,1.072961373390558
+esophagusmuscularis,Immune (myeloid),MARK1,1.1290323,1.0462369220384746
+skeletalmuscle,Immune (lymphocyte),MARK1,1.0,1.0
+prostate,Immune (myeloid),MARK1,1.0,0.7782101167315175
+esophagusmuscularis,Immune (lymphocyte),MARK1,1.0,0.3322259136212624
+esophagusmucosa,Immune (lymphocyte),MARK1,1.0,0.33003300330033
+heart,Immune (myeloid),MARK1,1.0833334,0.1875293014533521
+prostate,Immune (lymphocyte),MARK1,1.0,0.1466275659824047
+heart,Immune (lymphocyte),MARK1,1.0,0.1432664756446991
+lung,Immune (lymphocyte),MARK1,1.0,0.1379310344827586
+skeletalmuscle,Immune (myeloid),MARK1,1.0,0.1356852103120759
+skin,Immune (lymphocyte),MARK1,0.0,0.0
+skin,Immune (myeloid),MARK1,0.0,0.0

@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmucosa,Epithelial cell,AURKB,1.2658486,3.544505653812699
+prostate,Immune (myeloid),AURKB,1.25,3.11284046692607
+esophagusmucosa,Immune (myeloid),AURKB,1.1395348,3.0758226037196
+skin,Immune (myeloid),AURKB,1.2,2.793296089385475
+skin,Epithelial cell (keratinocyte),AURKB,1.0576923,2.670775552131484
+breast,Immune (myeloid),AURKB,1.1666666,1.675977653631285
+esophagusmuscularis,Immune (myeloid),AURKB,1.4130435,1.5524805939925752
+skeletalmuscle,Immune (myeloid),AURKB,1.3636364,1.4925373134328357
+skin,Melanocyte,AURKB,1.0,1.4705882352941175
+esophagusmucosa,Stromal,AURKB,1.1666666,1.2133468149646107
+skin,Muscle,AURKB,1.5,1.0752688172043012
+lung,Immune (lymphocyte),AURKB,1.0,0.8275862068965517
+esophagusmucosa,Immune (lymphocyte),AURKB,1.2142857,0.77007700770077
+heart,Immune (lymphocyte),AURKB,1.0,0.7163323782234957
+skin,Epithelial cell,AURKB,1.75,0.6644518272425249
+esophagusmuscularis,Immune (lymphocyte),AURKB,1.0,0.6644518272425249
+lung,Immune (myeloid),AURKB,1.1666666,0.5902606984751598
+esophagusmuscularis,Adipocyte,AURKB,1.0,0.5714285714285714
+heart,Immune (myeloid),AURKB,1.0588236,0.5313330207844975
+heart,Adipocyte,AURKB,1.0,0.5181347150259068
+prostate,Muscle,AURKB,1.0,0.4458314757021846
+skin,Other,AURKB,1.0,0.4424778761061947
+prostate,Immune (lymphocyte),AURKB,2.0,0.4398826979472141
+esophagusmucosa,Endothelial cell,AURKB,1.1333333,0.3206498503634031
+breast,Adipocyte,AURKB,1.0,0.2839295854628052
+breast,Fibroblast,AURKB,1.0,0.2442002442002442
+breast,Endothelial cell,AURKB,1.0,0.2270147559591373
+skeletalmuscle,Endothelial cell,AURKB,1.3333334,0.2253944402704733
+esophagusmuscularis,Glia,AURKB,1.0,0.2061855670103093
+esophagusmucosa,Muscle,AURKB,1.0,0.1996007984031935
+skin,Endothelial cell,AURKB,1.0,0.1955034213098729
+heart,Endothelial cell,AURKB,1.0769231,0.1702685003274394
+prostate,Epithelial cell,AURKB,1.0789474,0.1646946647596758
+esophagusmuscularis,Endothelial cell,AURKB,1.1428572,0.1569154898004931
+esophagusmuscularis,Muscle,AURKB,1.0476191,0.1412334386979622
+lung,Epithelial cell,AURKB,1.030303,0.1370716510903427
+lung,Fibroblast,AURKB,1.0,0.1355013550135501
+heart,Muscle,AURKB,1.0,0.1326259946949602
+breast,Epithelial cell,AURKB,1.0,0.1034661148473874
+heart,Fibroblast,AURKB,1.0,0.0861419188112415
+skeletalmuscle,Fibroblast,AURKB,1.6,0.0841184387617765
+lung,Endothelial cell,AURKB,1.0,0.0728332119446467
+esophagusmucosa,Fibroblast,AURKB,1.0,0.0710479573712255
+esophagusmuscularis,Fibroblast,AURKB,1.0,0.0576424248246709
+skeletalmuscle,Muscle,AURKB,1.0,0.0531655664348057
+breast,Muscle,AURKB,0.0,0.0
+esophagusmucosa,Glia,AURKB,0.0,0.0
+heart,Glia,AURKB,0.0,0.0
+esophagusmuscularis,Neuron,AURKB,0.0,0.0
+lung,Muscle,AURKB,0.0,0.0
+prostate,Glia,AURKB,0.0,0.0
+skeletalmuscle,Adipocyte,AURKB,0.0,0.0
+prostate,Endothelial cell,AURKB,0.0,0.0
+prostate,Fibroblast,AURKB,0.0,0.0
+skeletalmuscle,Glia,AURKB,0.0,0.0
+skin,Adipocyte,AURKB,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),AURKB,0.0,0.0
+skin,Immune (lymphocyte),AURKB,0.0,0.0
+skin,Fibroblast,AURKB,0.0,0.0

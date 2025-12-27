@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Neuroendocrine,SRPK3,0.30535904
+"Myocyte (sk. muscle, cytoplasmic)",SRPK3,0.23500201
+Myocyte (cardiac),SRPK3,0.1659281
+"Myocyte (cardiac, cytoplasmic)",SRPK3,0.09658166
+Sweat gland cell,SRPK3,0.0780542
+Neuronal,SRPK3,0.04330386
+Myocyte (sk. muscle),SRPK3,0.035842486
+Myocyte (smooth muscle),SRPK3,0.014380991
+Schwann cell,SRPK3,0.013601424
+Myofibroblast,SRPK3,0.011771013
+Myoepithelial (basal),SRPK3,0.009200224
+Pericyte/SMC,SRPK3,0.007908063
+Epithelial cell (luminal),SRPK3,0.0074239313
+Adipocyte,SRPK3,0.005730417
+Immune (mast cell),SRPK3,0.0045332126
+Mucous cell,SRPK3,0.0043622735
+Epithelial cell (club),SRPK3,0.0038067966
+Epithelial cell (ciliated),SRPK3,0.0033051574
+Epithelial cell (squamous),SRPK3,0.0031383631
+Epithelial cell (suprabasal),SRPK3,0.002947693
+Epithelial cell (Hillock),SRPK3,0.002696574
+Epithelial cell (basal),SRPK3,0.0026673914
+Endothelial cell (lymphatic),SRPK3,0.0014705618
+Epithelial cell (alveolar type I),SRPK3,0.0014420416
+Fibroblast,SRPK3,0.00094146974
+Immune (DC/macrophage),SRPK3,0.00088406383
+Epithelial cell (alveolar type II),SRPK3,0.00032243144
+Endothelial cell (vascular),SRPK3,0.00016303033
+Epithelial cell (basal keratinocyte),SRPK3,0.0
+Epithelial cell (cornified keratinocyte),SRPK3,0.0
+Immune (alveolar macrophage),SRPK3,0.0
+Melanocyte,SRPK3,0.0
+Immune (Langerhans),SRPK3,0.0
+ICCs,SRPK3,0.0
+Immune (B cell),SRPK3,0.0
+Epithelial cell (mature keratinocyte),SRPK3,0.0
+Epithelial cell (suprabasal keratinocyte),SRPK3,0.0
+Immune (T cell),SRPK3,0.0
+Immune (NK cell),SRPK3,0.0
+Immune (DC),SRPK3,0.0
+Myocyte (NMJ-rich),SRPK3,0.0
+Satellite cell,SRPK3,0.0
+Sebaceous gland cell,SRPK3,0.0

@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (squamous),SRC,0.46597213
+Epithelial cell (suprabasal),SRC,0.33212003
+Neuronal,SRC,0.29798183
+Epithelial cell (Hillock),SRC,0.29194534
+Immune (Langerhans),SRC,0.26916748
+Epithelial cell (basal),SRC,0.19756226
+Immune (DC),SRC,0.19748774
+Myofibroblast,SRC,0.19052777
+Immune (alveolar macrophage),SRC,0.18437704
+Myoepithelial (basal),SRC,0.18147911
+Epithelial cell (luminal),SRC,0.1780101
+Epithelial cell (alveolar type I),SRC,0.17567761
+Mucous cell,SRC,0.17215432
+Myocyte (NMJ-rich),SRC,0.17174792
+Neuroendocrine,SRC,0.1513303
+Epithelial cell (suprabasal keratinocyte),SRC,0.13270979
+Epithelial cell (cornified keratinocyte),SRC,0.13253894
+Epithelial cell (club),SRC,0.13213977
+Epithelial cell (alveolar type II),SRC,0.12643099
+Sebaceous gland cell,SRC,0.119921215
+Epithelial cell (basal keratinocyte),SRC,0.11974776
+Schwann cell,SRC,0.112292185
+Epithelial cell (mature keratinocyte),SRC,0.11051103
+Myocyte (smooth muscle),SRC,0.10787108
+Epithelial cell (ciliated),SRC,0.10226921
+ICCs,SRC,0.09693339
+Fibroblast,SRC,0.08448856
+Pericyte/SMC,SRC,0.0642599
+Immune (DC/macrophage),SRC,0.057683084
+Immune (B cell),SRC,0.05133558
+Melanocyte,SRC,0.0464143
+Immune (mast cell),SRC,0.046297386
+Adipocyte,SRC,0.045790315
+Immune (NK cell),SRC,0.028719855
+Myocyte (cardiac),SRC,0.026756098
+Sweat gland cell,SRC,0.026432598
+Immune (T cell),SRC,0.025981333
+Satellite cell,SRC,0.023832848
+"Myocyte (cardiac, cytoplasmic)",SRC,0.019302953
+Endothelial cell (lymphatic),SRC,0.011841122
+Myocyte (sk. muscle),SRC,0.011655351
+Endothelial cell (vascular),SRC,0.010434542
+"Myocyte (sk. muscle, cytoplasmic)",SRC,0.006699483

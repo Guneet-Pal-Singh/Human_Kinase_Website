@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (squamous),SPHK1,0.50117123
+Endothelial cell (lymphatic),SPHK1,0.3382047
+Epithelial cell (cornified keratinocyte),SPHK1,0.22586112
+Epithelial cell (mature keratinocyte),SPHK1,0.16871832
+Schwann cell,SPHK1,0.15299933
+Myoepithelial (basal),SPHK1,0.12788604
+Epithelial cell (suprabasal),SPHK1,0.12692514
+Endothelial cell (vascular),SPHK1,0.0921708
+Immune (DC),SPHK1,0.07121487
+Fibroblast,SPHK1,0.05224498
+Myofibroblast,SPHK1,0.041946013
+Immune (DC/macrophage),SPHK1,0.03832826
+Epithelial cell (basal),SPHK1,0.037039313
+Satellite cell,SPHK1,0.03159268
+Pericyte/SMC,SPHK1,0.028562212
+Myocyte (NMJ-rich),SPHK1,0.025938766
+Epithelial cell (luminal),SPHK1,0.02446285
+Sebaceous gland cell,SPHK1,0.023230327
+Immune (mast cell),SPHK1,0.022877766
+Epithelial cell (club),SPHK1,0.02211023
+"Myocyte (cardiac, cytoplasmic)",SPHK1,0.022067718
+Mucous cell,SPHK1,0.021687089
+Epithelial cell (Hillock),SPHK1,0.01990983
+Immune (alveolar macrophage),SPHK1,0.018455915
+Myocyte (cardiac),SPHK1,0.012790581
+"Myocyte (sk. muscle, cytoplasmic)",SPHK1,0.012441939
+ICCs,SPHK1,0.01206115
+Myocyte (smooth muscle),SPHK1,0.011800524
+Adipocyte,SPHK1,0.009282932
+Epithelial cell (suprabasal keratinocyte),SPHK1,0.00830192
+Epithelial cell (basal keratinocyte),SPHK1,0.006224022
+Immune (T cell),SPHK1,0.0054088496
+Epithelial cell (alveolar type II),SPHK1,0.0052361293
+Epithelial cell (alveolar type I),SPHK1,0.0041455277
+Myocyte (sk. muscle),SPHK1,0.0012040639
+Epithelial cell (ciliated),SPHK1,0.0
+Immune (NK cell),SPHK1,0.0
+Immune (Langerhans),SPHK1,0.0
+Immune (B cell),SPHK1,0.0
+Melanocyte,SPHK1,0.0
+Neuroendocrine,SPHK1,0.0
+Neuronal,SPHK1,0.0
+Sweat gland cell,SPHK1,0.0

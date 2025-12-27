@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (alveolar macrophage),EIF2AK4,0.38140538
+Myocyte (NMJ-rich),EIF2AK4,0.37020075
+Immune (DC/macrophage),EIF2AK4,0.30966604
+Myocyte (cardiac),EIF2AK4,0.29930303
+Mucous cell,EIF2AK4,0.2697536
+Myofibroblast,EIF2AK4,0.25138575
+Epithelial cell (club),EIF2AK4,0.22795035
+Epithelial cell (alveolar type II),EIF2AK4,0.21151702
+Epithelial cell (luminal),EIF2AK4,0.20815471
+Immune (B cell),EIF2AK4,0.20774257
+Endothelial cell (vascular),EIF2AK4,0.2073303
+Epithelial cell (basal),EIF2AK4,0.20658484
+Adipocyte,EIF2AK4,0.2065212
+Epithelial cell (ciliated),EIF2AK4,0.20182748
+Epithelial cell (suprabasal),EIF2AK4,0.19908413
+Epithelial cell (Hillock),EIF2AK4,0.19670177
+Epithelial cell (alveolar type I),EIF2AK4,0.18264866
+Neuroendocrine,EIF2AK4,0.17928225
+Myoepithelial (basal),EIF2AK4,0.17645943
+Pericyte/SMC,EIF2AK4,0.17641698
+Neuronal,EIF2AK4,0.16148175
+Immune (mast cell),EIF2AK4,0.16144946
+Schwann cell,EIF2AK4,0.16123417
+Fibroblast,EIF2AK4,0.15669987
+Sweat gland cell,EIF2AK4,0.15248245
+Endothelial cell (lymphatic),EIF2AK4,0.15076296
+Myocyte (smooth muscle),EIF2AK4,0.14751984
+Myocyte (sk. muscle),EIF2AK4,0.13527857
+"Myocyte (cardiac, cytoplasmic)",EIF2AK4,0.13481687
+ICCs,EIF2AK4,0.1217093
+Melanocyte,EIF2AK4,0.12127723
+Satellite cell,EIF2AK4,0.10844087
+Epithelial cell (mature keratinocyte),EIF2AK4,0.09877136
+Immune (T cell),EIF2AK4,0.09723905
+Epithelial cell (suprabasal keratinocyte),EIF2AK4,0.09673622
+"Myocyte (sk. muscle, cytoplasmic)",EIF2AK4,0.08972735
+Epithelial cell (basal keratinocyte),EIF2AK4,0.08816371
+Sebaceous gland cell,EIF2AK4,0.082509995
+Immune (NK cell),EIF2AK4,0.07237553
+Immune (DC),EIF2AK4,0.053247124
+Epithelial cell (squamous),EIF2AK4,0.041478682
+Immune (Langerhans),EIF2AK4,0.040927958
+Epithelial cell (cornified keratinocyte),EIF2AK4,0.0

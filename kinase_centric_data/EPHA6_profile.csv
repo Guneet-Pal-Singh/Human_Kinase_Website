@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+heart,Fibroblast,EPHA6,1.4388379,14.08420372563799
+esophagusmuscularis,Neuron,EPHA6,3.0,12.0
+esophagusmucosa,Epithelial cell,EPHA6,1.4762295,8.843142939982604
+prostate,Muscle,EPHA6,1.2894737,8.470798038341506
+lung,Endothelial cell,EPHA6,1.1017699,8.230152949745085
+lung,Immune (myeloid),EPHA6,1.0998003,8.21446138711264
+prostate,Epithelial cell,EPHA6,1.5319418,6.852164868027565
+esophagusmuscularis,Muscle,EPHA6,1.301,6.725401842760105
+lung,Fibroblast,EPHA6,1.0963856,5.623306233062331
+lung,Epithelial cell,EPHA6,1.0803639,5.478712357217031
+esophagusmucosa,Stromal,EPHA6,1.1481482,5.460060667340748
+esophagusmucosa,Fibroblast,EPHA6,1.1677853,5.293072824156305
+breast,Epithelial cell,EPHA6,1.1328903,5.190550094843938
+heart,Adipocyte,EPHA6,1.1,5.181347150259067
+esophagusmuscularis,Adipocyte,EPHA6,1.1111112,5.142857142857142
+breast,Fibroblast,EPHA6,1.1428572,5.128205128205128
+lung,Muscle,EPHA6,1.0,4.9079754601227
+heart,Muscle,EPHA6,1.0868795,4.675066312997347
+skin,Other,EPHA6,1.1428572,4.646017699115045
+prostate,Fibroblast,EPHA6,1.5098039,4.46584938704028
+skin,Melanocyte,EPHA6,1.0833334,4.411764705882353
+esophagusmuscularis,Fibroblast,EPHA6,1.1224018,4.159861658180421
+skin,Epithelial cell,EPHA6,1.0833334,3.986710963455149
+skin,Immune (myeloid),EPHA6,1.0,3.910614525139665
+esophagusmuscularis,Glia,EPHA6,1.4375,3.2989690721649487
+skin,Fibroblast,EPHA6,1.0625,3.0245746691871456
+breast,Endothelial cell,EPHA6,1.0,2.9511918274687856
+esophagusmuscularis,Immune (myeloid),EPHA6,1.0116279,2.9024637192035097
+skeletalmuscle,Fibroblast,EPHA6,1.0882353,2.860026917900404
+skin,Muscle,EPHA6,1.0,2.6881720430107525
+skin,Immune (lymphocyte),EPHA6,1.0,2.666666666666667
+lung,Immune (lymphocyte),EPHA6,1.0,2.4827586206896552
+skin,Endothelial cell,EPHA6,1.04,2.443792766373412
+heart,Endothelial cell,EPHA6,1.1351352,2.4230517354289454
+heart,Immune (myeloid),EPHA6,1.0273973,2.281606501015784
+esophagusmuscularis,Endothelial cell,EPHA6,1.08,2.2416498542927594
+skeletalmuscle,Muscle,EPHA6,1.0251572,2.1133312657835277
+prostate,Endothelial cell,EPHA6,1.1186441,2.0877565463552723
+prostate,Immune (myeloid),EPHA6,1.0952381,2.0428015564202333
+heart,Glia,EPHA6,1.0,2.013422818791946
+esophagusmucosa,Muscle,EPHA6,1.1,1.996007984031936
+breast,Adipocyte,EPHA6,1.0285715,1.9875070982396368
+breast,Muscle,EPHA6,1.0,1.973684210526316
+skeletalmuscle,Immune (myeloid),EPHA6,1.0769231,1.7639077340569878
+breast,Immune (myeloid),EPHA6,1.0,1.675977653631285
+esophagusmuscularis,Immune (lymphocyte),EPHA6,1.0,1.6611295681063123
+heart,Immune (lymphocyte),EPHA6,1.0,1.5759312320916905
+prostate,Glia,EPHA6,1.0,1.4925373134328357
+skin,Epithelial cell (keratinocyte),EPHA6,1.0,1.4894709809964048
+skeletalmuscle,Endothelial cell,EPHA6,1.0,1.4274981217129978
+esophagusmucosa,Immune (myeloid),EPHA6,1.0588236,1.2160228898426324
+esophagusmucosa,Endothelial cell,EPHA6,1.1,1.0688328345446771
+skeletalmuscle,Immune (lymphocyte),EPHA6,1.0,1.0
+skeletalmuscle,Adipocyte,EPHA6,1.0,0.628930817610063
+esophagusmucosa,Immune (lymphocyte),EPHA6,1.0,0.5500550055005501
+prostate,Immune (lymphocyte),EPHA6,1.0,0.4398826979472141
+esophagusmucosa,Glia,EPHA6,0.0,0.0
+skin,Adipocyte,EPHA6,0.0,0.0
+skeletalmuscle,Glia,EPHA6,0.0,0.0

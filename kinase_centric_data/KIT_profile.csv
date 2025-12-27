@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skin,Melanocyte,KIT,2.2937853,65.07352941176471
+breast,Epithelial cell,KIT,1.8278317,26.64252457320228
+esophagusmuscularis,Immune (myeloid),KIT,2.0945377,16.064799190010127
+skin,Epithelial cell,KIT,1.4716982,8.803986710963455
+skin,Immune (myeloid),KIT,2.5,5.58659217877095
+esophagusmucosa,Immune (myeloid),KIT,2.1746032,4.506437768240343
+breast,Immune (myeloid),KIT,1.4,4.189944134078212
+skin,Epithelial cell (keratinocyte),KIT,1.0819672,3.133025166923472
+breast,Endothelial cell,KIT,1.8148148,3.064699205448354
+esophagusmuscularis,Muscle,KIT,1.9685534,2.138677785997713
+esophagusmuscularis,Glia,KIT,1.7,2.061855670103093
+esophagusmucosa,Stromal,KIT,1.0526316,1.9211324570273005
+lung,Muscle,KIT,1.6666666,1.8404907975460123
+skin,Other,KIT,1.25,1.7699115044247788
+skeletalmuscle,Immune (myeloid),KIT,1.3333334,1.6282225237449115
+skin,Muscle,KIT,1.3333334,1.6129032258064515
+skin,Adipocyte,KIT,1.0,1.6129032258064515
+prostate,Immune (myeloid),KIT,3.625,1.556420233463035
+esophagusmucosa,Epithelial cell,KIT,1.1871657,1.355465352276022
+skin,Immune (lymphocyte),KIT,1.0,1.3333333333333337
+breast,Muscle,KIT,1.0,1.3157894736842104
+esophagusmuscularis,Immune (lymphocyte),KIT,1.3333334,0.9966777408637874
+esophagusmucosa,Fibroblast,KIT,1.1071428,0.994671403197158
+esophagusmucosa,Immune (lymphocyte),KIT,1.0,0.99009900990099
+lung,Immune (myeloid),KIT,1.877193,0.9345794392523364
+prostate,Endothelial cell,KIT,1.125,0.8492569002123143
+skin,Fibroblast,KIT,1.0,0.7561436672967864
+prostate,Immune (lymphocyte),KIT,1.6,0.7331378299120235
+breast,Fibroblast,KIT,1.5,0.7326007326007326
+lung,Endothelial cell,KIT,1.0526316,0.6919155134741442
+lung,Immune (lymphocyte),KIT,2.2,0.6896551724137931
+heart,Endothelial cell,KIT,1.1923077,0.6810740013097577
+heart,Immune (myeloid),KIT,1.7380953,0.6563525550867323
+prostate,Epithelial cell,KIT,1.2205882,0.5894335370346292
+esophagusmuscularis,Endothelial cell,KIT,1.5769231,0.5828289621161175
+heart,Immune (lymphocyte),KIT,1.0,0.5730659025787965
+esophagusmuscularis,Adipocyte,KIT,1.0,0.5714285714285714
+prostate,Muscle,KIT,1.4545455,0.490414623272403
+esophagusmuscularis,Fibroblast,KIT,1.2127659,0.4515323277932558
+skeletalmuscle,Endothelial cell,KIT,1.0,0.3756574004507889
+esophagusmucosa,Endothelial cell,KIT,1.1764706,0.3634031637451902
+breast,Adipocyte,KIT,2.1666667,0.3407155025553662
+lung,Fibroblast,KIT,1.3333334,0.2032520325203252
+esophagusmucosa,Muscle,KIT,1.0,0.1996007984031935
+prostate,Fibroblast,KIT,1.0,0.1751313485113835
+lung,Epithelial cell,KIT,1.0,0.1578400830737279
+heart,Muscle,KIT,1.1875,0.1326259946949602
+skeletalmuscle,Fibroblast,KIT,1.0,0.1177658142664872
+skeletalmuscle,Muscle,KIT,1.3076923,0.1151920606087457
+heart,Fibroblast,KIT,1.0,0.0753741789598363
+esophagusmucosa,Glia,KIT,0.0,0.0
+heart,Glia,KIT,0.0,0.0
+heart,Adipocyte,KIT,0.0,0.0
+esophagusmuscularis,Neuron,KIT,0.0,0.0
+prostate,Glia,KIT,0.0,0.0
+skeletalmuscle,Adipocyte,KIT,0.0,0.0
+skin,Endothelial cell,KIT,0.0,0.0
+skeletalmuscle,Glia,KIT,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),KIT,0.0,0.0

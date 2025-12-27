@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+ICCs,PRKD1,1.426365
+Epithelial cell (luminal),PRKD1,1.223835
+Satellite cell,PRKD1,1.1879268
+Epithelial cell (club),PRKD1,1.091065
+Epithelial cell (alveolar type II),PRKD1,1.0880425
+Myofibroblast,PRKD1,0.9374575
+Myocyte (smooth muscle),PRKD1,0.89496595
+Schwann cell,PRKD1,0.762814
+Adipocyte,PRKD1,0.7277954
+Endothelial cell (vascular),PRKD1,0.7226707
+Melanocyte,PRKD1,0.67806345
+Fibroblast,PRKD1,0.6678552
+Epithelial cell (basal),PRKD1,0.66679007
+Epithelial cell (ciliated),PRKD1,0.6329055
+Neuroendocrine,PRKD1,0.6304549
+Myocyte (NMJ-rich),PRKD1,0.5301604
+Epithelial cell (Hillock),PRKD1,0.52812916
+Pericyte/SMC,PRKD1,0.42183372
+Myoepithelial (basal),PRKD1,0.40534043
+Endothelial cell (lymphatic),PRKD1,0.37453222
+Epithelial cell (alveolar type I),PRKD1,0.35012814
+Sebaceous gland cell,PRKD1,0.3229577
+Neuronal,PRKD1,0.31653538
+Myocyte (cardiac),PRKD1,0.27853042
+Immune (DC),PRKD1,0.24673264
+Immune (alveolar macrophage),PRKD1,0.2238017
+Immune (B cell),PRKD1,0.16642484
+Immune (mast cell),PRKD1,0.1662408
+"Myocyte (cardiac, cytoplasmic)",PRKD1,0.13192225
+Mucous cell,PRKD1,0.11509812
+"Myocyte (sk. muscle, cytoplasmic)",PRKD1,0.10669711
+Myocyte (sk. muscle),PRKD1,0.101644725
+Epithelial cell (basal keratinocyte),PRKD1,0.08975724
+Sweat gland cell,PRKD1,0.07137872
+Immune (Langerhans),PRKD1,0.06881599
+Epithelial cell (suprabasal),PRKD1,0.06091078
+Epithelial cell (squamous),PRKD1,0.05669278
+Immune (T cell),PRKD1,0.041137576
+Immune (DC/macrophage),PRKD1,0.039089732
+Immune (NK cell),PRKD1,0.020176455
+Epithelial cell (cornified keratinocyte),PRKD1,0.0
+Epithelial cell (suprabasal keratinocyte),PRKD1,0.0
+Epithelial cell (mature keratinocyte),PRKD1,0.0

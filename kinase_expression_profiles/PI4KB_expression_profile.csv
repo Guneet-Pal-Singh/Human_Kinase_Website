@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (DC),PI4KB,0.55597544
+Immune (Langerhans),PI4KB,0.43538556
+Epithelial cell (mature keratinocyte),PI4KB,0.36877912
+Immune (alveolar macrophage),PI4KB,0.3584237
+Epithelial cell (basal keratinocyte),PI4KB,0.34208065
+Melanocyte,PI4KB,0.32663646
+Mucous cell,PI4KB,0.32217902
+Epithelial cell (suprabasal),PI4KB,0.32013133
+Epithelial cell (suprabasal keratinocyte),PI4KB,0.31364438
+ICCs,PI4KB,0.30216336
+Epithelial cell (squamous),PI4KB,0.29751146
+Myofibroblast,PI4KB,0.29272687
+Adipocyte,PI4KB,0.284048
+Epithelial cell (cornified keratinocyte),PI4KB,0.28119752
+Sweat gland cell,PI4KB,0.27775094
+Epithelial cell (luminal),PI4KB,0.27230626
+Immune (B cell),PI4KB,0.2679705
+Epithelial cell (ciliated),PI4KB,0.25525525
+Epithelial cell (Hillock),PI4KB,0.25008947
+Myocyte (NMJ-rich),PI4KB,0.2500043
+Epithelial cell (alveolar type II),PI4KB,0.24586137
+Myocyte (cardiac),PI4KB,0.24349028
+Epithelial cell (club),PI4KB,0.23884131
+Immune (DC/macrophage),PI4KB,0.22819717
+"Myocyte (sk. muscle, cytoplasmic)",PI4KB,0.22375444
+Epithelial cell (alveolar type I),PI4KB,0.21923146
+Epithelial cell (basal),PI4KB,0.21655568
+Neuronal,PI4KB,0.20327376
+Endothelial cell (lymphatic),PI4KB,0.20202336
+Myocyte (smooth muscle),PI4KB,0.19690599
+Myoepithelial (basal),PI4KB,0.18919687
+Fibroblast,PI4KB,0.18820578
+Endothelial cell (vascular),PI4KB,0.18749556
+Immune (mast cell),PI4KB,0.1868782
+Schwann cell,PI4KB,0.18466608
+Pericyte/SMC,PI4KB,0.17527588
+Immune (T cell),PI4KB,0.17515205
+Sebaceous gland cell,PI4KB,0.16323583
+Myocyte (sk. muscle),PI4KB,0.15667379
+Satellite cell,PI4KB,0.1546576
+Neuroendocrine,PI4KB,0.1522689
+Immune (NK cell),PI4KB,0.14492331
+"Myocyte (cardiac, cytoplasmic)",PI4KB,0.13633485

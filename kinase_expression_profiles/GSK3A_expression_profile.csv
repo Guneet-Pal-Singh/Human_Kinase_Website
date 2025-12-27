@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Neuroendocrine,GSK3A,0.15065172
+Neuronal,GSK3A,0.14705458
+"Myocyte (cardiac, cytoplasmic)",GSK3A,0.090551816
+Epithelial cell (cornified keratinocyte),GSK3A,0.08659935
+Myofibroblast,GSK3A,0.07934806
+Epithelial cell (luminal),GSK3A,0.0793085
+Epithelial cell (Hillock),GSK3A,0.07601636
+Epithelial cell (squamous),GSK3A,0.07550821
+Immune (NK cell),GSK3A,0.06662005
+"Myocyte (sk. muscle, cytoplasmic)",GSK3A,0.06640573
+Epithelial cell (suprabasal),GSK3A,0.0649238
+Myocyte (smooth muscle),GSK3A,0.06383776
+Epithelial cell (suprabasal keratinocyte),GSK3A,0.060396776
+Epithelial cell (basal keratinocyte),GSK3A,0.05937747
+Epithelial cell (mature keratinocyte),GSK3A,0.05634417
+Epithelial cell (club),GSK3A,0.055542275
+Mucous cell,GSK3A,0.050804544
+Epithelial cell (basal),GSK3A,0.04672103
+Schwann cell,GSK3A,0.043161154
+Immune (alveolar macrophage),GSK3A,0.04093013
+Pericyte/SMC,GSK3A,0.04048706
+Immune (DC/macrophage),GSK3A,0.035150804
+Endothelial cell (vascular),GSK3A,0.035024747
+Melanocyte,GSK3A,0.033225197
+Fibroblast,GSK3A,0.032136556
+Endothelial cell (lymphatic),GSK3A,0.030780777
+Immune (T cell),GSK3A,0.030030238
+Immune (DC),GSK3A,0.026611073
+Adipocyte,GSK3A,0.025668472
+Epithelial cell (alveolar type I),GSK3A,0.021926453
+Myoepithelial (basal),GSK3A,0.015555764
+Epithelial cell (alveolar type II),GSK3A,0.01415161
+Sebaceous gland cell,GSK3A,0.01328757
+Immune (mast cell),GSK3A,0.01278649
+Myocyte (cardiac),GSK3A,0.011999578
+Satellite cell,GSK3A,0.009262254
+Epithelial cell (ciliated),GSK3A,0.008636862
+Myocyte (sk. muscle),GSK3A,0.0051077753
+ICCs,GSK3A,0.0
+Immune (Langerhans),GSK3A,0.0
+Immune (B cell),GSK3A,0.0
+Myocyte (NMJ-rich),GSK3A,0.0
+Sweat gland cell,GSK3A,0.0

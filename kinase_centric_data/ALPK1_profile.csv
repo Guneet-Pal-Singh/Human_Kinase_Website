@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+lung,Immune (myeloid),ALPK1,1.2886275,20.90506640432858
+esophagusmucosa,Immune (myeloid),ALPK1,1.2862746,18.240343347639485
+breast,Immune (myeloid),ALPK1,1.1290323,17.318435754189945
+esophagusmuscularis,Glia,ALPK1,1.2105263,15.670103092783505
+prostate,Immune (myeloid),ALPK1,1.2389938,15.46692607003891
+prostate,Epithelial cell,ALPK1,1.221535,15.416287435530707
+lung,Epithelial cell,ALPK1,1.1981211,15.032191069574246
+esophagusmuscularis,Muscle,ALPK1,1.3263016,14.984195305669514
+breast,Epithelial cell,ALPK1,1.1712908,14.295568201414037
+esophagusmucosa,Stromal,ALPK1,1.2910448,13.549039433771489
+esophagusmucosa,Epithelial cell,ALPK1,1.1882161,13.28645984343288
+skin,Immune (myeloid),ALPK1,1.173913,12.849162011173185
+esophagusmucosa,Glia,ALPK1,1.125,12.307692307692308
+esophagusmuscularis,Neuron,ALPK1,1.0,12.0
+skin,Epithelial cell (keratinocyte),ALPK1,1.1365639,11.658962506420137
+heart,Adipocyte,ALPK1,1.0909091,11.398963730569948
+prostate,Muscle,ALPK1,1.2289157,11.101203744984396
+heart,Immune (myeloid),ALPK1,1.1152204,10.986091576808876
+lung,Fibroblast,ALPK1,1.1194968,10.772357723577237
+esophagusmucosa,Fibroblast,ALPK1,1.1047298,10.515097690941383
+skin,Epithelial cell,ALPK1,1.0689656,9.634551495016613
+skin,Melanocyte,ALPK1,1.0,9.191176470588236
+prostate,Fibroblast,ALPK1,1.2233009,9.019264448336251
+breast,Fibroblast,ALPK1,1.0684931,8.913308913308914
+prostate,Endothelial cell,ALPK1,1.1481482,8.598726114649681
+esophagusmucosa,Endothelial cell,ALPK1,1.120603,8.507909362975631
+esophagusmuscularis,Endothelial cell,ALPK1,1.1580381,8.226854965254429
+breast,Endothelial cell,ALPK1,1.1666666,8.172531214528945
+esophagusmuscularis,Immune (myeloid),ALPK1,1.1589959,8.066149173135335
+esophagusmuscularis,Fibroblast,ALPK1,1.140625,7.993082909021039
+lung,Muscle,ALPK1,1.0769231,7.975460122699387
+breast,Adipocyte,ALPK1,1.0642858,7.950028392958547
+heart,Fibroblast,ALPK1,1.1054091,7.763540432863142
+skin,Other,ALPK1,1.03125,7.079646017699115
+skeletalmuscle,Immune (myeloid),ALPK1,1.04,6.784260515603799
+skin,Endothelial cell,ALPK1,1.132353,6.647116324535679
+esophagusmucosa,Muscle,ALPK1,1.060606,6.58682634730539
+skin,Fibroblast,ALPK1,1.1818181,6.238185255198488
+heart,Endothelial cell,ALPK1,1.1091703,5.998690242305173
+skeletalmuscle,Glia,ALPK1,1.0,5.714285714285714
+skeletalmuscle,Fibroblast,ALPK1,1.0678467,5.703230148048452
+skeletalmuscle,Adipocyte,ALPK1,1.0,5.660377358490567
+skeletalmuscle,Endothelial cell,ALPK1,1.1081082,5.559729526671676
+breast,Muscle,ALPK1,1.125,5.263157894736842
+skin,Muscle,ALPK1,1.2222222,4.838709677419355
+skin,Adipocyte,ALPK1,1.0,4.838709677419355
+esophagusmuscularis,Adipocyte,ALPK1,1.125,4.571428571428571
+lung,Endothelial cell,ALPK1,1.08,4.552075746540423
+prostate,Glia,ALPK1,1.0,4.477611940298507
+heart,Glia,ALPK1,1.0,3.691275167785235
+heart,Muscle,ALPK1,1.0767442,3.564323607427056
+skin,Immune (lymphocyte),ALPK1,1.0,2.666666666666667
+lung,Immune (lymphocyte),ALPK1,1.1111112,2.4827586206896552
+esophagusmucosa,Immune (lymphocyte),ALPK1,1.0833334,1.98019801980198
+heart,Immune (lymphocyte),ALPK1,1.0,1.8624641833810889
+esophagusmuscularis,Immune (lymphocyte),ALPK1,1.2,1.6611295681063123
+prostate,Immune (lymphocyte),ALPK1,1.0,1.6129032258064515
+skeletalmuscle,Muscle,ALPK1,1.0627615,1.0588808648265475
+skeletalmuscle,Immune (lymphocyte),ALPK1,0.0,0.0

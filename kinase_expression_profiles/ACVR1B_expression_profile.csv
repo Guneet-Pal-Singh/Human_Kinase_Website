@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (suprabasal keratinocyte),ACVR1B,0.6638839
+Epithelial cell (mature keratinocyte),ACVR1B,0.5884056
+Epithelial cell (basal keratinocyte),ACVR1B,0.4831418
+Mucous cell,ACVR1B,0.41890287
+Epithelial cell (cornified keratinocyte),ACVR1B,0.41774952
+Epithelial cell (suprabasal),ACVR1B,0.38253802
+Epithelial cell (squamous),ACVR1B,0.3228899
+Sweat gland cell,ACVR1B,0.3213991
+Epithelial cell (Hillock),ACVR1B,0.30143353
+Adipocyte,ACVR1B,0.28800917
+Epithelial cell (ciliated),ACVR1B,0.2828065
+Epithelial cell (luminal),ACVR1B,0.2812002
+Sebaceous gland cell,ACVR1B,0.28100348
+Epithelial cell (club),ACVR1B,0.2708431
+Epithelial cell (basal),ACVR1B,0.26965773
+Immune (alveolar macrophage),ACVR1B,0.26897824
+Neuronal,ACVR1B,0.23455901
+Immune (Langerhans),ACVR1B,0.22444674
+Epithelial cell (alveolar type II),ACVR1B,0.20882642
+Fibroblast,ACVR1B,0.18928075
+Myofibroblast,ACVR1B,0.18158239
+Immune (DC/macrophage),ACVR1B,0.16948466
+ICCs,ACVR1B,0.16864029
+Pericyte/SMC,ACVR1B,0.1667523
+Immune (mast cell),ACVR1B,0.16450003
+Melanocyte,ACVR1B,0.152038
+Myocyte (cardiac),ACVR1B,0.15070798
+Endothelial cell (lymphatic),ACVR1B,0.14957984
+Neuroendocrine,ACVR1B,0.14693622
+Schwann cell,ACVR1B,0.14494105
+Satellite cell,ACVR1B,0.13960475
+Myocyte (smooth muscle),ACVR1B,0.1395145
+Endothelial cell (vascular),ACVR1B,0.13857274
+Myoepithelial (basal),ACVR1B,0.1043236
+Epithelial cell (alveolar type I),ACVR1B,0.07081326
+Immune (T cell),ACVR1B,0.06762737
+Myocyte (sk. muscle),ACVR1B,0.04979289
+"Myocyte (sk. muscle, cytoplasmic)",ACVR1B,0.047615204
+Immune (B cell),ACVR1B,0.0467177
+"Myocyte (cardiac, cytoplasmic)",ACVR1B,0.041827064
+Immune (NK cell),ACVR1B,0.038101654
+Myocyte (NMJ-rich),ACVR1B,0.03567035
+Immune (DC),ACVR1B,0.021115704

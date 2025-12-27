@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+"Myocyte (cardiac, cytoplasmic)",GUK1,0.8162374
+Epithelial cell (basal keratinocyte),GUK1,0.7467467
+Epithelial cell (squamous),GUK1,0.7277221
+Epithelial cell (suprabasal keratinocyte),GUK1,0.6570085
+Endothelial cell (lymphatic),GUK1,0.61647797
+Epithelial cell (mature keratinocyte),GUK1,0.56957334
+Epithelial cell (suprabasal),GUK1,0.56050557
+Endothelial cell (vascular),GUK1,0.5141548
+Epithelial cell (cornified keratinocyte),GUK1,0.49397036
+"Myocyte (sk. muscle, cytoplasmic)",GUK1,0.4258814
+Neuronal,GUK1,0.41311255
+Immune (NK cell),GUK1,0.40616506
+Neuroendocrine,GUK1,0.38659406
+Myocyte (smooth muscle),GUK1,0.3418778
+Epithelial cell (luminal),GUK1,0.33784074
+Epithelial cell (basal),GUK1,0.31172976
+Epithelial cell (Hillock),GUK1,0.2976508
+Myofibroblast,GUK1,0.28360415
+Mucous cell,GUK1,0.25445718
+Immune (alveolar macrophage),GUK1,0.25040525
+Adipocyte,GUK1,0.21906407
+Epithelial cell (club),GUK1,0.21336041
+Immune (Langerhans),GUK1,0.19287597
+Schwann cell,GUK1,0.17569055
+Epithelial cell (alveolar type I),GUK1,0.16551827
+Immune (T cell),GUK1,0.16529699
+ICCs,GUK1,0.16159709
+Sweat gland cell,GUK1,0.14485362
+Pericyte/SMC,GUK1,0.144254
+Fibroblast,GUK1,0.1317273
+Sebaceous gland cell,GUK1,0.13012558
+Immune (DC/macrophage),GUK1,0.11614816
+Immune (B cell),GUK1,0.1096904
+Epithelial cell (alveolar type II),GUK1,0.10766901
+Myoepithelial (basal),GUK1,0.10283258
+Satellite cell,GUK1,0.0929513
+Immune (mast cell),GUK1,0.076472305
+Epithelial cell (ciliated),GUK1,0.07584193
+Immune (DC),GUK1,0.064495765
+Melanocyte,GUK1,0.041364044
+Myocyte (cardiac),GUK1,0.027014205
+Myocyte (NMJ-rich),GUK1,0.026560422
+Myocyte (sk. muscle),GUK1,0.0023535534

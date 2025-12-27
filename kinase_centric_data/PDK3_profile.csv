@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skin,Muscle,PDK3,1.2380953,22.58064516129032
+skeletalmuscle,Fibroblast,PDK3,1.2242799,16.352624495289366
+skin,Epithelial cell,PDK3,2.5625,15.946843853820598
+prostate,Immune (myeloid),PDK3,1.2105263,14.785992217898832
+esophagusmucosa,Muscle,PDK3,1.3181819,13.17365269461078
+lung,Immune (myeloid),PDK3,1.1704545,12.985735366453516
+prostate,Epithelial cell,PDK3,1.2109705,12.326095436224158
+lung,Muscle,PDK3,1.65,12.269938650306749
+skin,Fibroblast,PDK3,1.28125,12.098298676748582
+esophagusmuscularis,Neuron,PDK3,1.0,12.0
+prostate,Muscle,PDK3,1.1939163,11.725367810967455
+esophagusmuscularis,Muscle,PDK3,1.2629436,11.56096576770462
+esophagusmucosa,Stromal,PDK3,1.2432432,11.223458038422647
+heart,Fibroblast,PDK3,1.1973051,11.187681705609991
+breast,Epithelial cell,PDK3,1.1591264,11.053629936195897
+heart,Muscle,PDK3,1.2075472,10.983090185676394
+esophagusmuscularis,Adipocyte,PDK3,1.1578947,10.857142857142858
+breast,Immune (myeloid),PDK3,1.081081,10.335195530726256
+heart,Immune (myeloid),PDK3,1.1044046,9.579621815908736
+heart,Immune (lymphocyte),PDK3,1.1515151,9.455587392550145
+esophagusmucosa,Immune (myeloid),PDK3,1.0984849,9.44206008583691
+skeletalmuscle,Immune (myeloid),PDK3,1.0967742,8.412483039348711
+lung,Epithelial cell,PDK3,1.1267327,8.390446521287643
+skin,Immune (myeloid),PDK3,1.0666667,8.379888268156424
+esophagusmuscularis,Immune (myeloid),PDK3,1.1148937,7.931150860614242
+skin,Melanocyte,PDK3,1.0,7.352941176470589
+esophagusmucosa,Epithelial cell,PDK3,1.1485149,7.320962597854451
+esophagusmuscularis,Glia,PDK3,1.1791044,6.907216494845361
+lung,Immune (lymphocyte),PDK3,1.1224489,6.758620689655172
+skin,Immune (lymphocyte),PDK3,1.0,6.666666666666667
+esophagusmuscularis,Fibroblast,PDK3,1.1397059,6.532808146796041
+heart,Glia,PDK3,1.1111112,6.04026845637584
+prostate,Immune (lymphocyte),PDK3,1.1219512,6.011730205278592
+esophagusmuscularis,Immune (lymphocyte),PDK3,1.1111112,5.980066445182724
+lung,Endothelial cell,PDK3,1.1666666,5.899490167516388
+esophagusmucosa,Immune (lymphocyte),PDK3,1.1037736,5.83058305830583
+prostate,Fibroblast,PDK3,1.265625,5.604203152364273
+breast,Fibroblast,PDK3,1.1136364,5.372405372405373
+skin,Epithelial cell (keratinocyte),PDK3,1.0485437,5.290190035952748
+breast,Muscle,PDK3,1.75,5.263157894736842
+esophagusmucosa,Fibroblast,PDK3,1.1134752,5.008880994671404
+skeletalmuscle,Immune (lymphocyte),PDK3,1.0,5.0
+breast,Endothelial cell,PDK3,1.0227273,4.994324631101021
+prostate,Endothelial cell,PDK3,1.1439394,4.670912951167728
+heart,Endothelial cell,PDK3,1.0727273,4.322200392927308
+esophagusmucosa,Endothelial cell,PDK3,1.0923077,4.168448054724242
+skin,Endothelial cell,PDK3,1.0243902,4.007820136852395
+skin,Other,PDK3,1.1764706,3.761061946902655
+lung,Fibroblast,PDK3,1.0555556,3.658536585365853
+heart,Adipocyte,PDK3,1.0,3.6269430051813463
+esophagusmuscularis,Endothelial cell,PDK3,1.0807453,3.609056265411343
+skeletalmuscle,Endothelial cell,PDK3,1.0851064,3.5311795642374157
+prostate,Glia,PDK3,1.0,2.985074626865672
+skeletalmuscle,Glia,PDK3,1.0,2.857142857142857
+skeletalmuscle,Muscle,PDK3,1.1510638,2.082318018696557
+skeletalmuscle,Adipocyte,PDK3,1.0,0.628930817610063
+breast,Adipocyte,PDK3,1.1111112,0.5110732538330494
+esophagusmucosa,Glia,PDK3,0.0,0.0
+skin,Adipocyte,PDK3,0.0,0.0

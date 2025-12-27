@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+heart,Fibroblast,MUSK,1.5250993,29.81587164854097
+skeletalmuscle,Fibroblast,MUSK,1.2884386,14.115074024226107
+lung,Fibroblast,MUSK,1.3512195,13.88888888888889
+esophagusmucosa,Fibroblast,MUSK,1.5053476,13.285968028419182
+heart,Glia,MUSK,1.3157895,12.751677852348994
+esophagusmuscularis,Glia,MUSK,1.1573033,9.175257731958762
+esophagusmuscularis,Fibroblast,MUSK,1.170398,7.724084926505909
+esophagusmuscularis,Adipocyte,MUSK,1.0,6.285714285714287
+prostate,Glia,MUSK,1.5,5.970149253731343
+skeletalmuscle,Muscle,MUSK,1.5305965,5.719728855611182
+skeletalmuscle,Glia,MUSK,1.5,5.714285714285714
+prostate,Fibroblast,MUSK,1.1666666,5.253940455341506
+esophagusmucosa,Glia,MUSK,1.0,4.615384615384616
+heart,Muscle,MUSK,1.1968504,4.210875331564987
+esophagusmuscularis,Neuron,MUSK,1.0,4.0
+lung,Immune (myeloid),MUSK,1.0788382,3.951467453680931
+lung,Endothelial cell,MUSK,1.0190476,3.823743627093955
+skin,Fibroblast,MUSK,1.1,3.780718336483932
+heart,Adipocyte,MUSK,1.1428572,3.6269430051813463
+prostate,Epithelial cell,MUSK,1.1288089,3.1291986304338404
+prostate,Muscle,MUSK,1.1,3.120820329915292
+breast,Fibroblast,MUSK,1.0833334,2.93040293040293
+prostate,Immune (myeloid),MUSK,1.125,2.3346303501945527
+skin,Muscle,MUSK,1.0,2.1505376344086025
+esophagusmuscularis,Immune (myeloid),MUSK,1.0714285,1.889976375295309
+skin,Epithelial cell,MUSK,1.0,1.827242524916944
+esophagusmucosa,Stromal,MUSK,1.2222222,1.820020222446916
+skeletalmuscle,Immune (myeloid),MUSK,1.0769231,1.7639077340569878
+skin,Immune (myeloid),MUSK,1.3333334,1.675977653631285
+lung,Epithelial cell,MUSK,1.0377834,1.6490134994807892
+esophagusmucosa,Immune (myeloid),MUSK,1.2173913,1.6452074391988556
+esophagusmucosa,Muscle,MUSK,1.0,1.3972055888223551
+esophagusmuscularis,Muscle,MUSK,1.0707071,1.3316295648665009
+esophagusmuscularis,Immune (lymphocyte),MUSK,1.0,1.32890365448505
+prostate,Endothelial cell,MUSK,1.0,1.3092710544939845
+esophagusmuscularis,Endothelial cell,MUSK,1.0535715,1.2553239184039453
+lung,Muscle,MUSK,1.5,1.2269938650306749
+esophagusmucosa,Epithelial cell,MUSK,1.0658683,1.2104957958828646
+skin,Melanocyte,MUSK,1.0,1.1029411764705883
+heart,Immune (myeloid),MUSK,1.1029412,1.062666041568995
+prostate,Immune (lymphocyte),MUSK,1.0,1.0263929618768328
+skeletalmuscle,Immune (lymphocyte),MUSK,1.0,1.0
+skeletalmuscle,Endothelial cell,MUSK,1.0,0.9015777610818932
+breast,Immune (myeloid),MUSK,1.0,0.8379888268156425
+breast,Adipocyte,MUSK,1.0,0.7950028392958546
+breast,Epithelial cell,MUSK,1.0652174,0.7932402138299707
+heart,Endothelial cell,MUSK,1.0847458,0.7727570399476097
+skin,Endothelial cell,MUSK,1.0,0.6842619745845552
+breast,Endothelial cell,MUSK,1.0,0.681044267877412
+skin,Other,MUSK,1.0,0.6637168141592921
+breast,Muscle,MUSK,1.0,0.6578947368421052
+skin,Epithelial cell (keratinocyte),MUSK,1.0,0.6163328197226503
+heart,Immune (lymphocyte),MUSK,1.0,0.5730659025787965
+lung,Immune (lymphocyte),MUSK,1.0,0.5517241379310345
+esophagusmucosa,Immune (lymphocyte),MUSK,1.0,0.385038503850385
+esophagusmucosa,Endothelial cell,MUSK,1.0555556,0.3847798204360838
+skeletalmuscle,Adipocyte,MUSK,0.0,0.0
+skin,Adipocyte,MUSK,0.0,0.0
+skin,Immune (lymphocyte),MUSK,0.0,0.0

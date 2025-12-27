@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+prostate,Immune (myeloid),GUCY2D,1.0416666,2.3346303501945527
+lung,Epithelial cell,GUCY2D,1.0335917,1.6074766355140184
+prostate,Epithelial cell,GUCY2D,1.1317365,1.4475794218350453
+skin,Epithelial cell,GUCY2D,1.0,1.32890365448505
+skin,Melanocyte,GUCY2D,1.0,1.1029411764705883
+esophagusmucosa,Stromal,GUCY2D,1.0,1.0111223458038423
+esophagusmucosa,Epithelial cell,GUCY2D,1.0797101,1.0002899391127864
+lung,Immune (myeloid),GUCY2D,1.0,0.852598786686342
+skeletalmuscle,Immune (myeloid),GUCY2D,1.0,0.6784260515603799
+heart,Glia,GUCY2D,1.0,0.6711409395973155
+skeletalmuscle,Adipocyte,GUCY2D,1.0,0.628930817610063
+lung,Muscle,GUCY2D,1.0,0.6134969325153374
+skin,Endothelial cell,GUCY2D,1.0,0.5865102639296188
+esophagusmuscularis,Adipocyte,GUCY2D,1.0,0.5714285714285714
+breast,Endothelial cell,GUCY2D,1.0,0.5675368898978433
+breast,Epithelial cell,GUCY2D,1.0344827,0.5000862217623728
+breast,Adipocyte,GUCY2D,1.0,0.4542873367404884
+esophagusmuscularis,Immune (myeloid),GUCY2D,1.0769231,0.4387445156935539
+esophagusmucosa,Immune (myeloid),GUCY2D,1.0,0.4291845493562232
+skeletalmuscle,Fibroblast,GUCY2D,1.04,0.4205921938088829
+esophagusmuscularis,Glia,GUCY2D,1.0,0.4123711340206186
+heart,Immune (myeloid),GUCY2D,1.0,0.3906860446944835
+prostate,Endothelial cell,GUCY2D,1.0,0.389242745930644
+skin,Fibroblast,GUCY2D,1.0,0.3780718336483932
+skeletalmuscle,Endothelial cell,GUCY2D,1.0,0.3756574004507889
+skin,Epithelial cell (keratinocyte),GUCY2D,1.0,0.3595274781715459
+esophagusmuscularis,Endothelial cell,GUCY2D,1.0,0.3362474781439139
+esophagusmuscularis,Immune (lymphocyte),GUCY2D,1.0,0.3322259136212624
+heart,Muscle,GUCY2D,1.0,0.3232758620689655
+esophagusmucosa,Endothelial cell,GUCY2D,1.0,0.3206498503634031
+prostate,Immune (lymphocyte),GUCY2D,1.0,0.2932551319648094
+heart,Endothelial cell,GUCY2D,1.0,0.2881466928618206
+esophagusmucosa,Fibroblast,GUCY2D,1.0,0.2841918294849023
+breast,Immune (myeloid),GUCY2D,1.0,0.2793296089385474
+lung,Fibroblast,GUCY2D,1.0,0.2710027100271002
+esophagusmuscularis,Muscle,GUCY2D,1.0,0.2622906718676441
+esophagusmuscularis,Fibroblast,GUCY2D,1.0,0.2305696992986838
+lung,Endothelial cell,GUCY2D,1.0,0.2184996358339402
+esophagusmucosa,Muscle,GUCY2D,1.0,0.1996007984031935
+skeletalmuscle,Muscle,GUCY2D,1.0,0.1993708741305214
+prostate,Muscle,GUCY2D,1.0,0.1783325902808738
+prostate,Fibroblast,GUCY2D,1.0,0.1751313485113835
+heart,Fibroblast,GUCY2D,1.0,0.1615160977710778
+heart,Immune (lymphocyte),GUCY2D,1.0,0.1432664756446991
+breast,Fibroblast,GUCY2D,1.0,0.1221001221001221
+esophagusmuscularis,Neuron,GUCY2D,0.0,0.0
+esophagusmucosa,Immune (lymphocyte),GUCY2D,0.0,0.0
+breast,Muscle,GUCY2D,0.0,0.0
+heart,Adipocyte,GUCY2D,0.0,0.0
+esophagusmucosa,Glia,GUCY2D,0.0,0.0
+lung,Immune (lymphocyte),GUCY2D,0.0,0.0
+prostate,Glia,GUCY2D,0.0,0.0
+skin,Adipocyte,GUCY2D,0.0,0.0
+skeletalmuscle,Glia,GUCY2D,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),GUCY2D,0.0,0.0
+skin,Immune (lymphocyte),GUCY2D,0.0,0.0
+skin,Immune (myeloid),GUCY2D,0.0,0.0
+skin,Muscle,GUCY2D,0.0,0.0
+skin,Other,GUCY2D,0.0,0.0

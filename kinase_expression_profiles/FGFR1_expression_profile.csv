@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Adipocyte,FGFR1,0.9393595
+Myocyte (cardiac),FGFR1,0.7673825
+Myoepithelial (basal),FGFR1,0.7493559
+Fibroblast,FGFR1,0.72769564
+Myofibroblast,FGFR1,0.62456167
+Neuronal,FGFR1,0.5634026
+Myocyte (smooth muscle),FGFR1,0.5488066
+ICCs,FGFR1,0.5057175
+Neuroendocrine,FGFR1,0.45073456
+Endothelial cell (lymphatic),FGFR1,0.3405908
+Endothelial cell (vascular),FGFR1,0.3383678
+"Myocyte (cardiac, cytoplasmic)",FGFR1,0.33014113
+Satellite cell,FGFR1,0.28137767
+Pericyte/SMC,FGFR1,0.26719132
+Epithelial cell (alveolar type II),FGFR1,0.25450245
+Schwann cell,FGFR1,0.25196254
+Melanocyte,FGFR1,0.23093677
+Immune (mast cell),FGFR1,0.2068981
+Epithelial cell (basal),FGFR1,0.17005065
+Immune (DC),FGFR1,0.16959767
+Immune (DC/macrophage),FGFR1,0.16278622
+Sweat gland cell,FGFR1,0.15814307
+Epithelial cell (luminal),FGFR1,0.11998642
+Epithelial cell (ciliated),FGFR1,0.096974716
+"Myocyte (sk. muscle, cytoplasmic)",FGFR1,0.096133314
+Immune (alveolar macrophage),FGFR1,0.09217224
+Epithelial cell (club),FGFR1,0.082102574
+Immune (Langerhans),FGFR1,0.075336166
+Epithelial cell (alveolar type I),FGFR1,0.0564783
+Immune (T cell),FGFR1,0.04185697
+Myocyte (NMJ-rich),FGFR1,0.04111668
+Myocyte (sk. muscle),FGFR1,0.03931016
+Epithelial cell (Hillock),FGFR1,0.03400096
+Epithelial cell (squamous),FGFR1,0.03220568
+Immune (NK cell),FGFR1,0.030191088
+Epithelial cell (suprabasal),FGFR1,0.020474572
+Mucous cell,FGFR1,0.019527784
+Immune (B cell),FGFR1,0.012640394
+Epithelial cell (basal keratinocyte),FGFR1,0.0034784519
+Epithelial cell (cornified keratinocyte),FGFR1,0.0
+Epithelial cell (mature keratinocyte),FGFR1,0.0
+Epithelial cell (suprabasal keratinocyte),FGFR1,0.0
+Sebaceous gland cell,FGFR1,0.0

@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmucosa,Stromal,DYRK1B,1.0222223,4.550050556117291
+esophagusmucosa,Epithelial cell,DYRK1B,1.0377698,4.030153667729777
+prostate,Epithelial cell,DYRK1B,1.088812,3.757638798595761
+breast,Epithelial cell,DYRK1B,1.0746269,3.4661148473874803
+prostate,Muscle,DYRK1B,1.0410959,3.2545697726259477
+skin,Adipocyte,DYRK1B,1.0,3.225806451612903
+esophagusmucosa,Glia,DYRK1B,1.0,3.076923076923077
+skin,Other,DYRK1B,1.0,2.6548672566371683
+breast,Immune (myeloid),DYRK1B,1.0,2.5139664804469275
+skin,Epithelial cell (keratinocyte),DYRK1B,1.0208334,2.465331278890601
+esophagusmucosa,Endothelial cell,DYRK1B,1.0090909,2.3514322359982898
+esophagusmuscularis,Adipocyte,DYRK1B,1.0,2.2857142857142856
+heart,Muscle,DYRK1B,1.0254545,2.2795092838196287
+prostate,Fibroblast,DYRK1B,1.0,1.926444833625219
+esophagusmucosa,Fibroblast,DYRK1B,1.0,1.8472468916518647
+esophagusmucosa,Immune (myeloid),DYRK1B,1.0,1.7167381974248928
+prostate,Endothelial cell,DYRK1B,1.0,1.627742392073602
+heart,Fibroblast,DYRK1B,1.0068493,1.5720900183051576
+lung,Epithelial cell,DYRK1B,1.0189189,1.5368639667705088
+prostate,Glia,DYRK1B,1.0,1.4925373134328357
+skin,Melanocyte,DYRK1B,1.0,1.4705882352941175
+lung,Immune (myeloid),DYRK1B,1.0123457,1.3280865715691097
+prostate,Immune (myeloid),DYRK1B,1.0,1.264591439688716
+lung,Muscle,DYRK1B,1.5,1.2269938650306749
+breast,Fibroblast,DYRK1B,1.0,1.221001221001221
+heart,Endothelial cell,DYRK1B,1.032258,1.218074656188605
+esophagusmucosa,Immune (lymphocyte),DYRK1B,1.0,1.21012101210121
+breast,Adipocyte,DYRK1B,1.05,1.135718341851221
+skin,Immune (myeloid),DYRK1B,1.0,1.11731843575419
+esophagusmuscularis,Muscle,DYRK1B,1.0125786,1.0693388929988568
+skeletalmuscle,Endothelial cell,DYRK1B,1.0714285,1.051840721262209
+esophagusmuscularis,Immune (myeloid),DYRK1B,1.0,1.0462369220384746
+breast,Endothelial cell,DYRK1B,1.0,1.021566401816118
+heart,Glia,DYRK1B,1.0,1.006711409395973
+esophagusmucosa,Muscle,DYRK1B,1.0,0.998003992015968
+skeletalmuscle,Muscle,DYRK1B,1.032258,0.9614106596960702
+skeletalmuscle,Fibroblast,DYRK1B,1.0196079,0.8580080753701211
+lung,Immune (lymphocyte),DYRK1B,1.0,0.8275862068965517
+esophagusmuscularis,Endothelial cell,DYRK1B,1.0,0.7845774490024657
+heart,Immune (myeloid),DYRK1B,1.0,0.7657446476011877
+skin,Fibroblast,DYRK1B,1.0,0.7561436672967864
+esophagusmuscularis,Fibroblast,DYRK1B,1.0410959,0.7013161687001633
+esophagusmuscularis,Immune (lymphocyte),DYRK1B,1.0,0.6644518272425249
+breast,Muscle,DYRK1B,1.0,0.6578947368421052
+skeletalmuscle,Adipocyte,DYRK1B,1.0,0.628930817610063
+esophagusmuscularis,Glia,DYRK1B,1.0,0.6185567010309279
+prostate,Immune (lymphocyte),DYRK1B,1.0,0.5865102639296188
+heart,Adipocyte,DYRK1B,1.0,0.5181347150259068
+lung,Endothelial cell,DYRK1B,1.0,0.5098324836125273
+skin,Epithelial cell,DYRK1B,1.0,0.4983388704318937
+heart,Immune (lymphocyte),DYRK1B,1.3333334,0.4297994269340974
+lung,Fibroblast,DYRK1B,1.0,0.3387533875338753
+skeletalmuscle,Immune (myeloid),DYRK1B,1.0,0.1356852103120759
+skin,Endothelial cell,DYRK1B,1.0,0.0977517106549364
+esophagusmuscularis,Neuron,DYRK1B,0.0,0.0
+skeletalmuscle,Glia,DYRK1B,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),DYRK1B,0.0,0.0
+skin,Immune (lymphocyte),DYRK1B,0.0,0.0
+skin,Muscle,DYRK1B,0.0,0.0

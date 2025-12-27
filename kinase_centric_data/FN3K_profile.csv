@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+heart,Muscle,FN3K,1.3721666,15.72446949602122
+esophagusmuscularis,Neuron,FN3K,1.0,8.0
+esophagusmuscularis,Adipocyte,FN3K,1.0,2.857142857142857
+esophagusmuscularis,Glia,FN3K,1.04,2.5773195876288657
+esophagusmuscularis,Muscle,FN3K,1.0375335,2.508574887349519
+lung,Epithelial cell,FN3K,1.0212766,2.3426791277258565
+breast,Adipocyte,FN3K,1.0,2.15786484951732
+prostate,Epithelial cell,FN3K,1.0243902,2.132362501625276
+esophagusmucosa,Stromal,FN3K,1.0476191,2.1233569261880687
+prostate,Muscle,FN3K,1.0227273,1.961658493089612
+skin,Melanocyte,FN3K,1.0,1.8382352941176472
+esophagusmucosa,Muscle,FN3K,1.1111112,1.7964071856287425
+lung,Immune (myeloid),FN3K,1.0,1.6232169208066896
+skin,Muscle,FN3K,1.0,1.6129032258064515
+heart,Adipocyte,FN3K,1.0,1.5544041450777202
+esophagusmucosa,Glia,FN3K,1.0,1.5384615384615383
+breast,Epithelial cell,FN3K,1.0465117,1.483014312812554
+skeletalmuscle,Adipocyte,FN3K,1.0,1.257861635220126
+skeletalmuscle,Endothelial cell,FN3K,1.0625,1.2021036814425246
+skeletalmuscle,Muscle,FN3K,1.0538461,1.1519206060874574
+skin,Immune (myeloid),FN3K,1.0,1.11731843575419
+esophagusmucosa,Epithelial cell,FN3K,1.0261438,1.1090171064076544
+lung,Immune (lymphocyte),FN3K,1.125,1.103448275862069
+lung,Endothelial cell,FN3K,1.0,1.056081573197378
+heart,Glia,FN3K,1.0,1.006711409395973
+skin,Epithelial cell,FN3K,1.0,0.9966777408637874
+skin,Other,FN3K,1.0,0.8849557522123894
+esophagusmuscularis,Fibroblast,FN3K,1.0434783,0.883850513978288
+heart,Fibroblast,FN3K,1.0121951,0.8829546678152256
+prostate,Immune (myeloid),FN3K,1.0,0.8754863813229572
+skeletalmuscle,Fibroblast,FN3K,1.0,0.8580080753701211
+esophagusmucosa,Fibroblast,FN3K,1.0,0.8525754884547069
+breast,Immune (myeloid),FN3K,1.0,0.8379888268156425
+prostate,Endothelial cell,FN3K,1.0,0.813871196036801
+prostate,Fibroblast,FN3K,1.0,0.7880910683012259
+esophagusmuscularis,Endothelial cell,FN3K,1.0294118,0.7621609504595382
+skin,Fibroblast,FN3K,1.0,0.7561436672967864
+heart,Immune (myeloid),FN3K,1.0,0.687607438662291
+lung,Fibroblast,FN3K,1.0,0.6775067750677507
+esophagusmuscularis,Immune (myeloid),FN3K,1.0,0.6749915626054674
+breast,Muscle,FN3K,1.0,0.6578947368421052
+heart,Endothelial cell,FN3K,1.0,0.641781270464964
+lung,Muscle,FN3K,1.0,0.6134969325153374
+skin,Endothelial cell,FN3K,1.1666666,0.5865102639296188
+esophagusmucosa,Immune (myeloid),FN3K,1.0,0.5722460658082975
+breast,Endothelial cell,FN3K,1.0,0.5675368898978433
+esophagusmucosa,Endothelial cell,FN3K,1.0,0.5344164172723386
+breast,Fibroblast,FN3K,1.3333334,0.3663003663003663
+skin,Epithelial cell (keratinocyte),FN3K,1.0,0.3081664098613251
+esophagusmucosa,Immune (lymphocyte),FN3K,1.0,0.275027502750275
+prostate,Immune (lymphocyte),FN3K,1.0,0.1466275659824047
+heart,Immune (lymphocyte),FN3K,1.0,0.1432664756446991
+skeletalmuscle,Immune (myeloid),FN3K,1.0,0.1356852103120759
+esophagusmuscularis,Immune (lymphocyte),FN3K,0.0,0.0
+prostate,Glia,FN3K,0.0,0.0
+skin,Adipocyte,FN3K,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),FN3K,0.0,0.0
+skeletalmuscle,Glia,FN3K,0.0,0.0
+skin,Immune (lymphocyte),FN3K,0.0,0.0

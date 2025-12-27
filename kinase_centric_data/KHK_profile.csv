@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmucosa,Glia,KHK,1.0,1.5384615384615383
+skin,Other,KHK,1.0,1.327433628318584
+esophagusmuscularis,Glia,KHK,1.0,0.8247422680412372
+prostate,Muscle,KHK,1.0555556,0.8024966562639322
+skeletalmuscle,Adipocyte,KHK,1.0,0.628930817610063
+skin,Immune (myeloid),KHK,1.0,0.5586592178770949
+skin,Muscle,KHK,1.0,0.5376344086021506
+prostate,Endothelial cell,KHK,1.0,0.5307855626326964
+esophagusmucosa,Epithelial cell,KHK,1.0153847,0.4711510582777616
+skeletalmuscle,Endothelial cell,KHK,1.1666666,0.4507888805409466
+esophagusmucosa,Endothelial cell,KHK,1.0,0.4275331338178709
+esophagusmuscularis,Muscle,KHK,1.0,0.4237003160938866
+skeletalmuscle,Immune (myeloid),KHK,1.0,0.4070556309362279
+skin,Endothelial cell,KHK,1.0,0.3910068426197458
+heart,Immune (myeloid),KHK,1.0,0.3750586029067042
+esophagusmuscularis,Immune (myeloid),KHK,1.0,0.371245359433007
+lung,Immune (myeloid),KHK,1.0,0.3443187407771766
+breast,Endothelial cell,KHK,1.0,0.340522133938706
+lung,Fibroblast,KHK,1.0,0.3387533875338753
+heart,Glia,KHK,1.0,0.3355704697986577
+esophagusmucosa,Immune (myeloid),KHK,1.0,0.2861230329041487
+breast,Immune (myeloid),KHK,1.0,0.2793296089385474
+esophagusmucosa,Immune (lymphocyte),KHK,1.0,0.275027502750275
+heart,Muscle,KHK,1.030303,0.2735411140583554
+prostate,Epithelial cell,KHK,1.0,0.2687123477657868
+prostate,Fibroblast,KHK,1.0,0.2626970227670753
+lung,Epithelial cell,KHK,1.0,0.2575285565939771
+esophagusmucosa,Stromal,KHK,1.0,0.2022244691607684
+esophagusmucosa,Muscle,KHK,1.0,0.1996007984031935
+prostate,Immune (myeloid),KHK,1.0,0.1945525291828793
+heart,Endothelial cell,KHK,1.0,0.183366077275704
+skeletalmuscle,Fibroblast,KHK,1.1,0.1682368775235531
+skin,Epithelial cell,KHK,1.0,0.1661129568106312
+esophagusmuscularis,Endothelial cell,KHK,1.0,0.1569154898004931
+breast,Epithelial cell,KHK,1.1111112,0.1551991722710812
+prostate,Immune (lymphocyte),KHK,1.0,0.1466275659824047
+lung,Endothelial cell,KHK,1.0,0.1456664238892935
+esophagusmucosa,Fibroblast,KHK,1.0,0.1420959147424511
+lung,Immune (lymphocyte),KHK,1.0,0.1379310344827586
+esophagusmuscularis,Fibroblast,KHK,1.0,0.1344989912575655
+breast,Fibroblast,KHK,1.0,0.1221001221001221
+skeletalmuscle,Muscle,KHK,1.0,0.1151920606087457
+breast,Adipocyte,KHK,1.0,0.1135718341851221
+skin,Epithelial cell (keratinocyte),KHK,1.0,0.1027221366204417
+heart,Fibroblast,KHK,1.0,0.0646064391084311
+heart,Immune (lymphocyte),KHK,0.0,0.0
+heart,Adipocyte,KHK,0.0,0.0
+esophagusmuscularis,Adipocyte,KHK,0.0,0.0
+breast,Muscle,KHK,0.0,0.0
+esophagusmuscularis,Neuron,KHK,0.0,0.0
+esophagusmuscularis,Immune (lymphocyte),KHK,0.0,0.0
+prostate,Glia,KHK,0.0,0.0
+lung,Muscle,KHK,0.0,0.0
+skeletalmuscle,Glia,KHK,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),KHK,0.0,0.0
+skin,Adipocyte,KHK,0.0,0.0
+skin,Fibroblast,KHK,0.0,0.0
+skin,Immune (lymphocyte),KHK,0.0,0.0
+skin,Melanocyte,KHK,0.0,0.0

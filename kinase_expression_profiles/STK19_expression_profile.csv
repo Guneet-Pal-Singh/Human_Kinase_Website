@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Neuronal,STK19,0.24079336
+Immune (Langerhans),STK19,0.14006211
+Myofibroblast,STK19,0.12255772
+Epithelial cell (ciliated),STK19,0.11879536
+Epithelial cell (suprabasal),STK19,0.11800542
+Epithelial cell (suprabasal keratinocyte),STK19,0.11558426
+Myocyte (smooth muscle),STK19,0.10776127
+Epithelial cell (club),STK19,0.10697836
+Immune (B cell),STK19,0.10375395
+Mucous cell,STK19,0.103046834
+Epithelial cell (basal keratinocyte),STK19,0.10022745
+Immune (DC),STK19,0.09799818
+Epithelial cell (basal),STK19,0.09454729
+Epithelial cell (mature keratinocyte),STK19,0.0923218
+Epithelial cell (squamous),STK19,0.08972105
+Epithelial cell (luminal),STK19,0.0888686
+ICCs,STK19,0.08739922
+Pericyte/SMC,STK19,0.0770067
+Fibroblast,STK19,0.07580652
+Epithelial cell (alveolar type II),STK19,0.07555945
+Neuroendocrine,STK19,0.07028591
+Endothelial cell (vascular),STK19,0.06425892
+Immune (alveolar macrophage),STK19,0.06308332
+Adipocyte,STK19,0.060531355
+Epithelial cell (alveolar type I),STK19,0.05923767
+Schwann cell,STK19,0.058494523
+Endothelial cell (lymphatic),STK19,0.055544093
+Myocyte (cardiac),STK19,0.055103995
+Epithelial cell (Hillock),STK19,0.054798048
+Immune (T cell),STK19,0.0538051
+"Myocyte (cardiac, cytoplasmic)",STK19,0.04406971
+Immune (NK cell),STK19,0.04198293
+Immune (mast cell),STK19,0.038390897
+Sebaceous gland cell,STK19,0.036065765
+Immune (DC/macrophage),STK19,0.03563176
+Myocyte (NMJ-rich),STK19,0.031879697
+Satellite cell,STK19,0.02816744
+Melanocyte,STK19,0.022248426
+Epithelial cell (cornified keratinocyte),STK19,0.021470219
+"Myocyte (sk. muscle, cytoplasmic)",STK19,0.018750483
+Myocyte (sk. muscle),STK19,0.012784103
+Myoepithelial (basal),STK19,0.006776857
+Sweat gland cell,STK19,0.006543867

@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Neuronal,ITPKA,0.06703876
+Immune (DC),ITPKA,0.024855426
+"Myocyte (cardiac, cytoplasmic)",ITPKA,0.016133096
+Myocyte (cardiac),ITPKA,0.013802106
+"Myocyte (sk. muscle, cytoplasmic)",ITPKA,0.011688788
+Melanocyte,ITPKA,0.010563959
+Immune (alveolar macrophage),ITPKA,0.008314745
+Epithelial cell (ciliated),ITPKA,0.008211973
+Immune (T cell),ITPKA,0.007899511
+Epithelial cell (basal),ITPKA,0.0064990106
+Myocyte (sk. muscle),ITPKA,0.0042611067
+Epithelial cell (suprabasal),ITPKA,0.0034079356
+Immune (DC/macrophage),ITPKA,0.0031179413
+Epithelial cell (alveolar type II),ITPKA,0.0030338494
+Myocyte (smooth muscle),ITPKA,0.0030118818
+Epithelial cell (basal keratinocyte),ITPKA,0.0028558671
+Adipocyte,ITPKA,0.002689536
+Endothelial cell (vascular),ITPKA,0.0026833562
+Schwann cell,ITPKA,0.0025355464
+Fibroblast,ITPKA,0.002500008
+Epithelial cell (squamous),ITPKA,0.0022294074
+Epithelial cell (alveolar type I),ITPKA,0.002152648
+Epithelial cell (luminal),ITPKA,0.0018024556
+Epithelial cell (club),ITPKA,0.0017109005
+Pericyte/SMC,ITPKA,0.0010624614
+Endothelial cell (lymphatic),ITPKA,0.00077199546
+Epithelial cell (Hillock),ITPKA,0.0007508528
+Epithelial cell (cornified keratinocyte),ITPKA,0.0
+Immune (mast cell),ITPKA,0.0
+Immune (Langerhans),ITPKA,0.0
+Immune (NK cell),ITPKA,0.0
+Epithelial cell (suprabasal keratinocyte),ITPKA,0.0
+Epithelial cell (mature keratinocyte),ITPKA,0.0
+ICCs,ITPKA,0.0
+Immune (B cell),ITPKA,0.0
+Myoepithelial (basal),ITPKA,0.0
+Mucous cell,ITPKA,0.0
+Myocyte (NMJ-rich),ITPKA,0.0
+Neuroendocrine,ITPKA,0.0
+Myofibroblast,ITPKA,0.0
+Satellite cell,ITPKA,0.0
+Sebaceous gland cell,ITPKA,0.0
+Sweat gland cell,ITPKA,0.0

@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (DC),NEK6,0.60532147
+Schwann cell,NEK6,0.41573328
+Immune (alveolar macrophage),NEK6,0.3915802
+Adipocyte,NEK6,0.3081157
+Immune (B cell),NEK6,0.2860357
+Immune (mast cell),NEK6,0.2751128
+Immune (DC/macrophage),NEK6,0.2652227
+Mucous cell,NEK6,0.2574162
+Epithelial cell (alveolar type I),NEK6,0.23857604
+Epithelial cell (club),NEK6,0.20338714
+Myofibroblast,NEK6,0.18721977
+Epithelial cell (ciliated),NEK6,0.16148806
+Epithelial cell (Hillock),NEK6,0.15989427
+Epithelial cell (luminal),NEK6,0.15321013
+Immune (NK cell),NEK6,0.14741611
+Sweat gland cell,NEK6,0.13237734
+Epithelial cell (alveolar type II),NEK6,0.12300125
+Myocyte (smooth muscle),NEK6,0.1137285
+Neuroendocrine,NEK6,0.10962967
+ICCs,NEK6,0.1022572
+Epithelial cell (basal),NEK6,0.09543581
+Endothelial cell (vascular),NEK6,0.08629062
+Endothelial cell (lymphatic),NEK6,0.08413963
+Fibroblast,NEK6,0.071085215
+Immune (Langerhans),NEK6,0.06642232
+Myoepithelial (basal),NEK6,0.058912788
+Myocyte (sk. muscle),NEK6,0.05852772
+Epithelial cell (suprabasal),NEK6,0.05481461
+Satellite cell,NEK6,0.049262617
+Myocyte (NMJ-rich),NEK6,0.041678533
+Myocyte (cardiac),NEK6,0.041331455
+Pericyte/SMC,NEK6,0.03572404
+Immune (T cell),NEK6,0.035528403
+Sebaceous gland cell,NEK6,0.032848343
+Epithelial cell (basal keratinocyte),NEK6,0.026050754
+"Myocyte (cardiac, cytoplasmic)",NEK6,0.021122312
+"Myocyte (sk. muscle, cytoplasmic)",NEK6,0.014776491
+Epithelial cell (suprabasal keratinocyte),NEK6,0.014730017
+Epithelial cell (squamous),NEK6,0.014721335
+Epithelial cell (mature keratinocyte),NEK6,0.010819347
+Epithelial cell (cornified keratinocyte),NEK6,0.0
+Melanocyte,NEK6,0.0
+Neuronal,NEK6,0.0

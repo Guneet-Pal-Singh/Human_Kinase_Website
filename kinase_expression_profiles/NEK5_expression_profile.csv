@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (ciliated),NEK5,1.1281135
+Schwann cell,NEK5,0.1357564
+Myocyte (NMJ-rich),NEK5,0.13502409
+Neuroendocrine,NEK5,0.12180998
+Satellite cell,NEK5,0.1151259
+Epithelial cell (alveolar type I),NEK5,0.09420722
+Neuronal,NEK5,0.092355035
+Myocyte (sk. muscle),NEK5,0.08900541
+ICCs,NEK5,0.0818881
+Epithelial cell (alveolar type II),NEK5,0.08091021
+Epithelial cell (club),NEK5,0.079941265
+Fibroblast,NEK5,0.07838946
+Myocyte (smooth muscle),NEK5,0.07640494
+Immune (alveolar macrophage),NEK5,0.07602844
+Immune (mast cell),NEK5,0.07129164
+Immune (NK cell),NEK5,0.06958252
+Pericyte/SMC,NEK5,0.06728663
+Epithelial cell (Hillock),NEK5,0.0656288
+Myocyte (cardiac),NEK5,0.064856716
+Endothelial cell (vascular),NEK5,0.06312941
+Melanocyte,NEK5,0.06202406
+Endothelial cell (lymphatic),NEK5,0.06018994
+Myoepithelial (basal),NEK5,0.058792092
+Epithelial cell (luminal),NEK5,0.055042084
+Myofibroblast,NEK5,0.053357013
+Sweat gland cell,NEK5,0.05130272
+Adipocyte,NEK5,0.042166676
+Mucous cell,NEK5,0.042062946
+"Myocyte (sk. muscle, cytoplasmic)",NEK5,0.038785227
+Epithelial cell (suprabasal keratinocyte),NEK5,0.03813616
+Epithelial cell (basal),NEK5,0.036870506
+Immune (DC/macrophage),NEK5,0.03607918
+Epithelial cell (suprabasal),NEK5,0.027973976
+Immune (DC),NEK5,0.027220624
+Immune (T cell),NEK5,0.026283994
+"Myocyte (cardiac, cytoplasmic)",NEK5,0.020201726
+Sebaceous gland cell,NEK5,0.016801149
+Epithelial cell (mature keratinocyte),NEK5,0.014849007
+Epithelial cell (basal keratinocyte),NEK5,0.014484856
+Immune (B cell),NEK5,0.013519304
+Epithelial cell (squamous),NEK5,0.0077975653
+Epithelial cell (cornified keratinocyte),NEK5,0.0
+Immune (Langerhans),NEK5,0.0

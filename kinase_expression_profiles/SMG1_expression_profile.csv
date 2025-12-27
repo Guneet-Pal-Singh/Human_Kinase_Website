@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Myocyte (sk. muscle),SMG1,1.211099
+Immune (DC),SMG1,1.1945395
+Myocyte (NMJ-rich),SMG1,1.1171025
+Melanocyte,SMG1,0.9485861
+Immune (Langerhans),SMG1,0.8665217
+Epithelial cell (basal keratinocyte),SMG1,0.86169785
+Epithelial cell (suprabasal keratinocyte),SMG1,0.8559221
+Myocyte (cardiac),SMG1,0.845869
+Epithelial cell (suprabasal),SMG1,0.8000896
+Epithelial cell (basal),SMG1,0.72484946
+Epithelial cell (Hillock),SMG1,0.71166277
+Immune (alveolar macrophage),SMG1,0.70330954
+Sebaceous gland cell,SMG1,0.6892373
+"Myocyte (sk. muscle, cytoplasmic)",SMG1,0.6759184
+Myofibroblast,SMG1,0.67055315
+Mucous cell,SMG1,0.64948756
+Epithelial cell (mature keratinocyte),SMG1,0.6458345
+Immune (B cell),SMG1,0.6409715
+Immune (T cell),SMG1,0.63815016
+Epithelial cell (club),SMG1,0.57853115
+Immune (NK cell),SMG1,0.57319266
+Adipocyte,SMG1,0.56057954
+ICCs,SMG1,0.54670906
+Immune (DC/macrophage),SMG1,0.54503155
+Epithelial cell (alveolar type I),SMG1,0.53661835
+Epithelial cell (alveolar type II),SMG1,0.5189309
+Satellite cell,SMG1,0.49832943
+Epithelial cell (ciliated),SMG1,0.49743828
+Myocyte (smooth muscle),SMG1,0.48818386
+Epithelial cell (luminal),SMG1,0.48326814
+Endothelial cell (lymphatic),SMG1,0.48235402
+Neuronal,SMG1,0.47995207
+Endothelial cell (vascular),SMG1,0.464502
+Neuroendocrine,SMG1,0.46154436
+Sweat gland cell,SMG1,0.44946682
+Pericyte/SMC,SMG1,0.44903478
+Myoepithelial (basal),SMG1,0.44442704
+Fibroblast,SMG1,0.42907467
+Schwann cell,SMG1,0.42587283
+Immune (mast cell),SMG1,0.4030989
+Epithelial cell (cornified keratinocyte),SMG1,0.34506246
+Epithelial cell (squamous),SMG1,0.33049542
+"Myocyte (cardiac, cytoplasmic)",SMG1,0.2435295

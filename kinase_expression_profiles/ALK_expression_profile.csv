@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Myocyte (sk. muscle),ALK,1.256963
+Neuronal,ALK,1.2524153
+Myocyte (NMJ-rich),ALK,0.9209007
+Schwann cell,ALK,0.6024339
+Immune (alveolar macrophage),ALK,0.5462029
+"Myocyte (sk. muscle, cytoplasmic)",ALK,0.37447068
+Neuroendocrine,ALK,0.3734708
+Adipocyte,ALK,0.37199193
+Epithelial cell (alveolar type I),ALK,0.29390687
+Epithelial cell (alveolar type II),ALK,0.2841518
+Epithelial cell (ciliated),ALK,0.26998854
+ICCs,ALK,0.20467621
+Satellite cell,ALK,0.19902585
+Epithelial cell (mature keratinocyte),ALK,0.18821199
+Myocyte (smooth muscle),ALK,0.17656398
+Myofibroblast,ALK,0.16735214
+Epithelial cell (suprabasal),ALK,0.15140788
+Immune (mast cell),ALK,0.14744516
+Immune (T cell),ALK,0.14215381
+Myocyte (cardiac),ALK,0.13666107
+Immune (DC),ALK,0.135277
+Fibroblast,ALK,0.12382602
+Myoepithelial (basal),ALK,0.11870856
+Immune (DC/macrophage),ALK,0.11284592
+Sebaceous gland cell,ALK,0.112565175
+Mucous cell,ALK,0.110679716
+Epithelial cell (suprabasal keratinocyte),ALK,0.10737641
+Epithelial cell (basal),ALK,0.10078616
+Epithelial cell (basal keratinocyte),ALK,0.099629685
+Immune (NK cell),ALK,0.09514411
+Pericyte/SMC,ALK,0.086261295
+Epithelial cell (club),ALK,0.075803265
+Epithelial cell (cornified keratinocyte),ALK,0.07497293
+Sweat gland cell,ALK,0.07127446
+Epithelial cell (luminal),ALK,0.06973656
+Immune (Langerhans),ALK,0.068308085
+Immune (B cell),ALK,0.062116813
+Epithelial cell (Hillock),ALK,0.061480466
+Endothelial cell (vascular),ALK,0.054326754
+Epithelial cell (squamous),ALK,0.046402313
+Endothelial cell (lymphatic),ALK,0.04595825
+Melanocyte,ALK,0.02966434
+"Myocyte (cardiac, cytoplasmic)",ALK,0.014598759

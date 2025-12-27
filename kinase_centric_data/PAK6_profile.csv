@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmucosa,Epithelial cell,PAK6,1.0817074,5.943751812119455
+skin,Other,PAK6,1.2,5.530973451327434
+skin,Epithelial cell (keratinocyte),PAK6,1.0158731,3.235747303543913
+esophagusmucosa,Stromal,PAK6,1.173913,2.3255813953488373
+prostate,Glia,PAK6,1.0,1.4925373134328357
+prostate,Epithelial cell,PAK6,1.030303,1.1441945130672215
+heart,Muscle,PAK6,1.0,0.6879973474801061
+breast,Muscle,PAK6,1.0,0.6578947368421052
+heart,Adipocyte,PAK6,1.0,0.5181347150259068
+esophagusmucosa,Muscle,PAK6,1.0,0.3992015968063871
+lung,Epithelial cell,PAK6,1.0,0.3904465212876428
+skin,Epithelial cell,PAK6,1.0,0.3322259136212624
+breast,Immune (myeloid),PAK6,1.0,0.2793296089385474
+breast,Epithelial cell,PAK6,1.0,0.2586652871184687
+esophagusmucosa,Endothelial cell,PAK6,1.0,0.2565198802907225
+esophagusmucosa,Immune (myeloid),PAK6,1.0,0.2145922746781116
+prostate,Fibroblast,PAK6,1.0,0.1751313485113835
+lung,Immune (lymphocyte),PAK6,1.0,0.1379310344827586
+prostate,Muscle,PAK6,1.0,0.1337494427106553
+breast,Endothelial cell,PAK6,1.0,0.1135073779795686
+esophagusmucosa,Immune (lymphocyte),PAK6,1.0,0.11001100110011
+esophagusmucosa,Fibroblast,PAK6,1.0,0.1065719360568383
+skin,Endothelial cell,PAK6,1.0,0.0977517106549364
+prostate,Immune (myeloid),PAK6,1.0,0.0972762645914396
+lung,Immune (myeloid),PAK6,1.0,0.0491883915395966
+esophagusmuscularis,Muscle,PAK6,1.0,0.0134508036855202
+heart,Endothelial cell,PAK6,1.0,0.0130975769482645
+esophagusmuscularis,Fibroblast,PAK6,1.0,0.0096070708041118
+skeletalmuscle,Muscle,PAK6,1.0,0.0088609277391342
+heart,Fibroblast,PAK6,0.0,0.0
+esophagusmuscularis,Neuron,PAK6,0.0,0.0
+heart,Immune (lymphocyte),PAK6,0.0,0.0
+heart,Glia,PAK6,0.0,0.0
+esophagusmuscularis,Glia,PAK6,0.0,0.0
+esophagusmuscularis,Immune (lymphocyte),PAK6,0.0,0.0
+esophagusmuscularis,Adipocyte,PAK6,0.0,0.0
+breast,Adipocyte,PAK6,0.0,0.0
+breast,Fibroblast,PAK6,0.0,0.0
+esophagusmucosa,Glia,PAK6,0.0,0.0
+esophagusmuscularis,Immune (myeloid),PAK6,0.0,0.0
+esophagusmuscularis,Endothelial cell,PAK6,0.0,0.0
+heart,Immune (myeloid),PAK6,0.0,0.0
+lung,Fibroblast,PAK6,0.0,0.0
+skeletalmuscle,Adipocyte,PAK6,0.0,0.0
+prostate,Immune (lymphocyte),PAK6,0.0,0.0
+prostate,Endothelial cell,PAK6,0.0,0.0
+lung,Muscle,PAK6,0.0,0.0
+lung,Endothelial cell,PAK6,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),PAK6,0.0,0.0
+skeletalmuscle,Endothelial cell,PAK6,0.0,0.0
+skeletalmuscle,Fibroblast,PAK6,0.0,0.0
+skin,Adipocyte,PAK6,0.0,0.0
+skeletalmuscle,Immune (myeloid),PAK6,0.0,0.0
+skeletalmuscle,Glia,PAK6,0.0,0.0
+skin,Fibroblast,PAK6,0.0,0.0
+skin,Immune (lymphocyte),PAK6,0.0,0.0
+skin,Immune (myeloid),PAK6,0.0,0.0
+skin,Melanocyte,PAK6,0.0,0.0
+skin,Muscle,PAK6,0.0,0.0

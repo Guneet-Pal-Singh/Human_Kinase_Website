@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (ciliated),STK31,0.08903273
+Mucous cell,STK31,0.07054388
+Epithelial cell (alveolar type I),STK31,0.053007763
+Epithelial cell (alveolar type II),STK31,0.04127948
+Epithelial cell (luminal),STK31,0.041035946
+Epithelial cell (suprabasal keratinocyte),STK31,0.03800735
+Epithelial cell (mature keratinocyte),STK31,0.03784251
+Epithelial cell (cornified keratinocyte),STK31,0.03720223
+Epithelial cell (Hillock),STK31,0.036442783
+Sweat gland cell,STK31,0.035748705
+Epithelial cell (basal keratinocyte),STK31,0.034163214
+Immune (NK cell),STK31,0.032698214
+Epithelial cell (club),STK31,0.03123391
+Myoepithelial (basal),STK31,0.02837791
+Sebaceous gland cell,STK31,0.028119203
+Immune (alveolar macrophage),STK31,0.027708618
+Myocyte (sk. muscle),STK31,0.02545727
+Immune (DC),STK31,0.02516424
+Endothelial cell (vascular),STK31,0.024005216
+Epithelial cell (basal),STK31,0.023825575
+Epithelial cell (squamous),STK31,0.02312946
+Endothelial cell (lymphatic),STK31,0.02144836
+Adipocyte,STK31,0.020766353
+Myocyte (cardiac),STK31,0.018342488
+Myofibroblast,STK31,0.017872036
+Epithelial cell (suprabasal),STK31,0.017757544
+ICCs,STK31,0.017126305
+"Myocyte (sk. muscle, cytoplasmic)",STK31,0.01689617
+Satellite cell,STK31,0.016583884
+Immune (mast cell),STK31,0.015459122
+Melanocyte,STK31,0.014918115
+Fibroblast,STK31,0.013714885
+Immune (T cell),STK31,0.013570246
+Myocyte (smooth muscle),STK31,0.013132663
+Immune (DC/macrophage),STK31,0.012493431
+Immune (B cell),STK31,0.011967855
+Schwann cell,STK31,0.011407962
+Pericyte/SMC,STK31,0.0075532766
+"Myocyte (cardiac, cytoplasmic)",STK31,0.0045138393
+Immune (Langerhans),STK31,0.0
+Myocyte (NMJ-rich),STK31,0.0
+Neuronal,STK31,0.0
+Neuroendocrine,STK31,0.0

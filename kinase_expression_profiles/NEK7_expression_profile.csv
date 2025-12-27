@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+"Myocyte (cardiac, cytoplasmic)",NEK7,1.1560763
+Myocyte (cardiac),NEK7,1.1018245
+Epithelial cell (basal keratinocyte),NEK7,0.7184522
+Epithelial cell (mature keratinocyte),NEK7,0.65918225
+Epithelial cell (alveolar type I),NEK7,0.64799005
+Melanocyte,NEK7,0.6167254
+Mucous cell,NEK7,0.61376035
+Immune (Langerhans),NEK7,0.60129064
+Epithelial cell (club),NEK7,0.5978982
+Epithelial cell (suprabasal),NEK7,0.5970821
+Epithelial cell (suprabasal keratinocyte),NEK7,0.5876413
+Epithelial cell (Hillock),NEK7,0.57597417
+Immune (T cell),NEK7,0.53839415
+Epithelial cell (alveolar type II),NEK7,0.5319837
+Epithelial cell (ciliated),NEK7,0.5156388
+Immune (alveolar macrophage),NEK7,0.5151187
+Immune (NK cell),NEK7,0.5006081
+Myofibroblast,NEK7,0.49445888
+Immune (DC/macrophage),NEK7,0.49258134
+Endothelial cell (vascular),NEK7,0.48054853
+Epithelial cell (basal),NEK7,0.4767269
+Immune (DC),NEK7,0.45855895
+ICCs,NEK7,0.45692176
+Pericyte/SMC,NEK7,0.42784658
+Neuroendocrine,NEK7,0.42238384
+Myoepithelial (basal),NEK7,0.4167375
+Endothelial cell (lymphatic),NEK7,0.40803817
+Epithelial cell (luminal),NEK7,0.40497327
+Fibroblast,NEK7,0.39753038
+Sebaceous gland cell,NEK7,0.3903424
+Myocyte (smooth muscle),NEK7,0.38584754
+Immune (B cell),NEK7,0.37876025
+Epithelial cell (cornified keratinocyte),NEK7,0.3759909
+Epithelial cell (squamous),NEK7,0.37574968
+Schwann cell,NEK7,0.3573254
+Adipocyte,NEK7,0.3421106
+Satellite cell,NEK7,0.33394805
+Sweat gland cell,NEK7,0.31705192
+Myocyte (NMJ-rich),NEK7,0.29595453
+Immune (mast cell),NEK7,0.2793364
+"Myocyte (sk. muscle, cytoplasmic)",NEK7,0.22156057
+Neuronal,NEK7,0.16955501
+Myocyte (sk. muscle),NEK7,0.1309796

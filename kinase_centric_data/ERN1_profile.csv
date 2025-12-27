@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+prostate,Immune (lymphocyte),ERN1,1.3490196,37.3900293255132
+skeletalmuscle,Immune (lymphocyte),ERN1,1.2857143,28.000000000000004
+skin,Immune (lymphocyte),ERN1,1.3684211,25.333333333333336
+esophagusmuscularis,Immune (lymphocyte),ERN1,1.4266666,24.91694352159469
+lung,Immune (lymphocyte),ERN1,1.5953758,23.86206896551724
+heart,Immune (lymphocyte),ERN1,1.4709678,22.206303724928368
+esophagusmucosa,Immune (lymphocyte),ERN1,1.2047478,18.536853685368538
+prostate,Epithelial cell,ERN1,1.2263088,13.080223638018465
+lung,Epithelial cell,ERN1,1.2258376,12.893042575285566
+skin,Epithelial cell,ERN1,1.2459016,10.132890365448503
+prostate,Fibroblast,ERN1,1.1834862,9.544658493870402
+esophagusmucosa,Epithelial cell,ERN1,1.2191571,9.459263554653525
+esophagusmucosa,Stromal,ERN1,1.2043011,9.403437815975732
+prostate,Immune (myeloid),ERN1,1.1910112,8.657587548638132
+heart,Muscle,ERN1,1.1375872,8.313992042440319
+heart,Adipocyte,ERN1,1.1875,8.290155440414509
+lung,Immune (myeloid),ERN1,1.1252486,8.247253648139038
+prostate,Muscle,ERN1,1.1807909,7.891217119928667
+esophagusmucosa,Immune (myeloid),ERN1,1.1272727,7.868383404864092
+heart,Immune (myeloid),ERN1,1.1078838,7.532426941709643
+skin,Other,ERN1,1.1935484,6.8584070796460175
+skin,Epithelial cell (keratinocyte),ERN1,1.0603448,5.957883923985619
+breast,Epithelial cell,ERN1,1.2289855,5.949301603724781
+lung,Fibroblast,ERN1,1.1511627,5.826558265582656
+prostate,Endothelial cell,ERN1,1.1304348,5.697098372257607
+skeletalmuscle,Muscle,ERN1,1.1105691,5.449470559567587
+esophagusmuscularis,Immune (myeloid),ERN1,1.0909091,5.197435032062099
+heart,Fibroblast,ERN1,1.0821918,4.716270054915473
+skin,Endothelial cell,ERN1,1.1458334,4.69208211143695
+esophagusmuscularis,Fibroblast,ERN1,1.0730689,4.601786915169565
+heart,Endothelial cell,ERN1,1.112392,4.544859201047806
+breast,Immune (myeloid),ERN1,1.3125,4.46927374301676
+skin,Immune (myeloid),ERN1,1.0,4.46927374301676
+esophagusmucosa,Muscle,ERN1,1.0,4.39121756487026
+esophagusmuscularis,Muscle,ERN1,1.0561622,4.310982581209228
+lung,Muscle,ERN1,1.1428572,4.294478527607362
+esophagusmuscularis,Endothelial cell,ERN1,1.1315789,4.259134723156243
+lung,Endothelial cell,ERN1,1.0695652,4.187909686817188
+esophagusmucosa,Fibroblast,ERN1,1.0619469,4.014209591474245
+breast,Adipocyte,ERN1,1.1285714,3.9750141964792736
+skeletalmuscle,Immune (myeloid),ERN1,1.0344827,3.934871099050204
+breast,Fibroblast,ERN1,1.0645162,3.785103785103785
+breast,Endothelial cell,ERN1,1.030303,3.745743473325766
+esophagusmucosa,Endothelial cell,ERN1,1.1387284,3.6981616075245833
+heart,Glia,ERN1,1.0,3.691275167785235
+skeletalmuscle,Endothelial cell,ERN1,1.1702127,3.5311795642374157
+skin,Adipocyte,ERN1,1.0,3.225806451612903
+skeletalmuscle,Adipocyte,ERN1,1.0,3.1446540880503147
+skeletalmuscle,Fibroblast,ERN1,1.027027,3.1123822341857337
+prostate,Glia,ERN1,1.0,2.985074626865672
+skeletalmuscle,Glia,ERN1,1.0,2.857142857142857
+esophagusmuscularis,Glia,ERN1,1.0,2.783505154639176
+skin,Muscle,ERN1,1.0,2.6881720430107525
+esophagusmuscularis,Adipocyte,ERN1,1.0,2.2857142857142856
+esophagusmucosa,Glia,ERN1,1.0,1.5384615384615383
+skin,Melanocyte,ERN1,1.0,1.4705882352941175
+breast,Muscle,ERN1,2.0,1.3157894736842104
+skin,Fibroblast,ERN1,1.0,0.1890359168241966
+esophagusmuscularis,Neuron,ERN1,0.0,0.0

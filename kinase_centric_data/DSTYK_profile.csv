@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skin,Melanocyte,DSTYK,1.3918918,27.20588235294117
+esophagusmucosa,Stromal,DSTYK,1.1278195,13.4479271991911
+esophagusmuscularis,Neuron,DSTYK,1.0,12.0
+lung,Immune (myeloid),DSTYK,1.1260997,11.18216101000164
+esophagusmuscularis,Adipocyte,DSTYK,1.1111112,10.285714285714285
+esophagusmuscularis,Glia,DSTYK,1.1212121,10.206185567010309
+lung,Epithelial cell,DSTYK,1.1235392,9.952232606438214
+skin,Adipocyte,DSTYK,1.0,9.67741935483871
+esophagusmucosa,Glia,DSTYK,1.0,9.230769230769232
+esophagusmuscularis,Muscle,DSTYK,1.1171303,9.186898917210303
+esophagusmucosa,Epithelial cell,DSTYK,1.162753,8.951870107277472
+heart,Adipocyte,DSTYK,1.117647,8.808290155440414
+prostate,Muscle,DSTYK,1.1658031,8.604547481052162
+esophagusmucosa,Endothelial cell,DSTYK,1.1150895,8.358272766139375
+skin,Other,DSTYK,1.1081082,8.185840707964601
+esophagusmucosa,Fibroblast,DSTYK,1.1013216,8.063943161634104
+heart,Muscle,DSTYK,1.121775,8.032161803713528
+esophagusmucosa,Muscle,DSTYK,1.05,7.984031936127744
+prostate,Fibroblast,DSTYK,1.137931,7.618213660245184
+lung,Fibroblast,DSTYK,1.0545454,7.452574525745257
+lung,Muscle,DSTYK,1.0833334,7.361963190184049
+skin,Epithelial cell (keratinocyte),DSTYK,1.1205673,7.24191063174114
+breast,Muscle,DSTYK,1.0,7.236842105263158
+lung,Endothelial cell,DSTYK,1.0923077,7.101238164603059
+skeletalmuscle,Adipocyte,DSTYK,1.0909091,6.918238993710692
+skin,Endothelial cell,DSTYK,1.0441177,6.647116324535679
+esophagusmuscularis,Endothelial cell,DSTYK,1.0719178,6.545617574534858
+prostate,Epithelial cell,DSTYK,1.0830014,6.527109608633468
+skin,Muscle,DSTYK,1.0833334,6.451612903225806
+heart,Fibroblast,DSTYK,1.0770578,6.148379455152363
+esophagusmuscularis,Immune (myeloid),DSTYK,1.0893855,6.041174485318933
+prostate,Endothelial cell,DSTYK,1.0914634,5.803255484784147
+esophagusmucosa,Immune (myeloid),DSTYK,1.0617284,5.793991416309012
+esophagusmuscularis,Fibroblast,DSTYK,1.0715474,5.773849553271208
+heart,Glia,DSTYK,1.117647,5.704697986577181
+heart,Immune (myeloid),DSTYK,1.0716254,5.672761368963901
+skin,Fibroblast,DSTYK,1.0,5.482041587901701
+prostate,Immune (lymphocyte),DSTYK,1.1891892,5.425219941348973
+breast,Immune (myeloid),DSTYK,1.1052631,5.307262569832402
+esophagusmucosa,Immune (lymphocyte),DSTYK,1.0625,5.2805280528052805
+breast,Fibroblast,DSTYK,1.025,4.884004884004884
+heart,Endothelial cell,DSTYK,1.0539083,4.859201047806156
+lung,Immune (lymphocyte),DSTYK,1.0857143,4.827586206896552
+breast,Epithelial cell,DSTYK,1.0863309,4.793929987928953
+skeletalmuscle,Endothelial cell,DSTYK,1.016129,4.658151765589782
+breast,Endothelial cell,DSTYK,1.1052631,4.313280363223609
+skeletalmuscle,Immune (myeloid),DSTYK,1.0645162,4.2062415196743554
+breast,Adipocyte,DSTYK,1.054054,4.202157864849517
+prostate,Immune (myeloid),DSTYK,1.0930233,4.182879377431906
+skeletalmuscle,Muscle,DSTYK,1.0787234,4.164636037393115
+skin,Immune (lymphocyte),DSTYK,1.3333334,4.0
+skin,Epithelial cell,DSTYK,1.2083334,3.986710963455149
+skin,Immune (myeloid),DSTYK,1.1428572,3.910614525139665
+skeletalmuscle,Fibroblast,DSTYK,1.0714285,3.768506056527591
+esophagusmuscularis,Immune (lymphocyte),DSTYK,1.0909091,3.654485049833888
+heart,Immune (lymphocyte),DSTYK,1.08,3.5816618911174785
+prostate,Glia,DSTYK,1.0,2.985074626865672
+skeletalmuscle,Immune (lymphocyte),DSTYK,1.0,2.0
+skeletalmuscle,Glia,DSTYK,0.0,0.0

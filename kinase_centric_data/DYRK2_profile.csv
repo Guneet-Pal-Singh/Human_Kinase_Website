@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+heart,Muscle,DYRK2,1.0796813,6.241710875331565
+prostate,Glia,DYRK2,1.0,5.970149253731343
+skeletalmuscle,Immune (lymphocyte),DYRK2,1.0,4.0
+heart,Fibroblast,DYRK2,1.047022,3.4349090125982555
+prostate,Immune (lymphocyte),DYRK2,1.0869565,3.372434017595308
+esophagusmucosa,Stromal,DYRK2,1.03125,3.235591506572296
+esophagusmucosa,Immune (lymphocyte),DYRK2,1.02,2.7502750275027505
+breast,Muscle,DYRK2,1.0,2.631578947368421
+skin,Other,DYRK2,1.0909091,2.433628318584071
+prostate,Muscle,DYRK2,1.0377358,2.3629068212215785
+esophagusmucosa,Immune (myeloid),DYRK2,1.030303,2.360515021459228
+heart,Glia,DYRK2,1.1428572,2.348993288590604
+breast,Fibroblast,DYRK2,1.0,2.0757020757020754
+esophagusmucosa,Epithelial cell,DYRK2,1.0627451,1.8483618440127572
+prostate,Fibroblast,DYRK2,1.0476191,1.838879159369527
+lung,Immune (lymphocyte),DYRK2,1.0,1.793103448275862
+esophagusmuscularis,Immune (lymphocyte),DYRK2,1.0,1.6611295681063123
+esophagusmucosa,Muscle,DYRK2,1.0,1.596806387225549
+heart,Adipocyte,DYRK2,1.3333334,1.5544041450777202
+esophagusmucosa,Glia,DYRK2,1.0,1.5384615384615383
+heart,Immune (myeloid),DYRK2,1.0108696,1.4377246444756993
+lung,Immune (myeloid),DYRK2,1.0117648,1.3936710936219052
+prostate,Immune (myeloid),DYRK2,1.0,1.3618677042801557
+skin,Immune (lymphocyte),DYRK2,1.0,1.3333333333333337
+prostate,Epithelial cell,DYRK2,1.0261438,1.3262254583279156
+heart,Immune (lymphocyte),DYRK2,1.0,1.2893982808022924
+esophagusmucosa,Fibroblast,DYRK2,1.0277778,1.2788632326820604
+prostate,Endothelial cell,DYRK2,1.0277778,1.2738853503184715
+esophagusmucosa,Endothelial cell,DYRK2,1.0172414,1.2398460880718256
+skin,Melanocyte,DYRK2,1.0,1.1029411764705883
+esophagusmuscularis,Immune (myeloid),DYRK2,1.03125,1.079986500168748
+esophagusmuscularis,Muscle,DYRK2,1.0794702,1.0155356782567757
+skin,Endothelial cell,DYRK2,1.0,0.9775171065493646
+skin,Epithelial cell (keratinocyte),DYRK2,1.0526316,0.9758602978941964
+esophagusmuscularis,Glia,DYRK2,1.0,0.9278350515463918
+breast,Immune (myeloid),DYRK2,1.0,0.8379888268156425
+skeletalmuscle,Immune (myeloid),DYRK2,1.0,0.8141112618724559
+lung,Fibroblast,DYRK2,1.0,0.8130081300813009
+skeletalmuscle,Fibroblast,DYRK2,1.0,0.8075370121130552
+lung,Epithelial cell,DYRK2,1.0434783,0.7642782969885774
+skin,Fibroblast,DYRK2,1.0,0.7561436672967864
+heart,Endothelial cell,DYRK2,1.0,0.733464309102816
+breast,Endothelial cell,DYRK2,1.0,0.681044267877412
+esophagusmuscularis,Adipocyte,DYRK2,1.0,0.5714285714285714
+skin,Immune (myeloid),DYRK2,1.0,0.5586592178770949
+breast,Epithelial cell,DYRK2,1.0645162,0.534574926711502
+skeletalmuscle,Endothelial cell,DYRK2,1.0,0.5259203606311045
+esophagusmuscularis,Fibroblast,DYRK2,1.0,0.384282832164473
+skeletalmuscle,Muscle,DYRK2,1.0238096,0.3721589650436401
+lung,Endothelial cell,DYRK2,1.0,0.3641660597232338
+esophagusmuscularis,Endothelial cell,DYRK2,1.0,0.3362474781439139
+skin,Epithelial cell,DYRK2,1.0,0.3322259136212624
+breast,Adipocyte,DYRK2,1.0,0.2839295854628052
+esophagusmuscularis,Neuron,DYRK2,0.0,0.0
+lung,Muscle,DYRK2,0.0,0.0
+skeletalmuscle,Adipocyte,DYRK2,0.0,0.0
+skeletalmuscle,Glia,DYRK2,0.0,0.0
+skin,Adipocyte,DYRK2,0.0,0.0
+skin,Muscle,DYRK2,0.0,0.0

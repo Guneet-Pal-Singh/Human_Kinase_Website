@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skin,Melanocyte,SRPK2,1.7692307,62.13235294117647
+heart,Muscle,SRPK2,2.329264,47.529840848806366
+esophagusmuscularis,Adipocyte,SRPK2,1.6666666,46.285714285714285
+esophagusmucosa,Stromal,SRPK2,1.8311404,46.107178968655205
+lung,Epithelial cell,SRPK2,1.578817,45.29595015576324
+heart,Adipocyte,SRPK2,1.7325581,44.55958549222797
+prostate,Epithelial cell,SRPK2,1.6032531,39.435704069691845
+esophagusmucosa,Endothelial cell,SRPK2,1.5464422,39.35442496793502
+esophagusmucosa,Epithelial cell,SRPK2,1.7068514,38.72136851261235
+skin,Epithelial cell (keratinocyte),SRPK2,1.5284553,37.90446841294299
+lung,Immune (myeloid),SRPK2,1.4318385,36.56337104443351
+skin,Immune (lymphocyte),SRPK2,1.3333334,36.0
+skin,Epithelial cell,SRPK2,1.5627908,35.714285714285715
+esophagusmucosa,Immune (myeloid),SRPK2,1.556225,35.622317596566525
+skeletalmuscle,Adipocyte,SRPK2,1.3392857,35.22012578616352
+heart,Immune (lymphocyte),SRPK2,1.4338843,34.67048710601719
+skeletalmuscle,Muscle,SRPK2,1.4647906,33.21961809401444
+prostate,Endothelial cell,SRPK2,1.4919957,33.15640481245577
+esophagusmucosa,Immune (lymphocyte),SRPK2,1.3811129,32.61826182618262
+breast,Adipocyte,SRPK2,1.4366198,32.254400908574674
+esophagusmuscularis,Neuron,SRPK2,1.75,32.0
+prostate,Muscle,SRPK2,1.5325779,31.475702184574235
+heart,Immune (myeloid),SRPK2,1.3401293,31.426785435224254
+skeletalmuscle,Immune (lymphocyte),SRPK2,1.2258065,31.0
+lung,Endothelial cell,SRPK2,1.3557457,29.788783685360524
+breast,Epithelial cell,SRPK2,1.4262972,29.24642179686153
+esophagusmucosa,Muscle,SRPK2,1.4726027,29.141716566866265
+skin,Adipocyte,SRPK2,1.3333334,29.03225806451613
+lung,Muscle,SRPK2,1.3191489,28.834355828220858
+esophagusmuscularis,Endothelial cell,SRPK2,1.3764614,28.760367630576106
+skin,Endothelial cell,SRPK2,1.4421768,28.739002932551323
+breast,Endothelial cell,SRPK2,1.4110672,28.71736662883088
+breast,Immune (myeloid),SRPK2,1.2871287,28.212290502793294
+prostate,Immune (myeloid),SRPK2,1.4021353,27.33463035019455
+skin,Other,SRPK2,1.5284553,27.21238938053097
+esophagusmuscularis,Immune (myeloid),SRPK2,1.2680798,27.067161660479243
+esophagusmucosa,Fibroblast,SRPK2,1.2874172,26.820603907637658
+heart,Fibroblast,SRPK2,1.3762575,26.757833530741895
+lung,Immune (lymphocyte),SRPK2,1.2553191,25.93103448275862
+heart,Endothelial cell,SRPK2,1.341785,25.82842174197773
+skin,Immune (myeloid),SRPK2,1.3913044,25.69832402234637
+esophagusmuscularis,Immune (lymphocyte),SRPK2,1.3289474,25.249169435215947
+esophagusmuscularis,Muscle,SRPK2,1.3503338,25.18662990113659
+prostate,Fibroblast,SRPK2,1.3802817,24.86865148861646
+prostate,Immune (lymphocyte),SRPK2,1.2440476,24.633431085043988
+esophagusmucosa,Glia,SRPK2,1.375,24.615384615384617
+lung,Fibroblast,SRPK2,1.2873564,23.577235772357724
+heart,Glia,SRPK2,1.1285714,23.48993288590604
+skeletalmuscle,Immune (myeloid),SRPK2,1.2080925,23.473541383989144
+breast,Fibroblast,SRPK2,1.3263158,23.1990231990232
+skin,Muscle,SRPK2,1.4186046,23.118279569892472
+skeletalmuscle,Endothelial cell,SRPK2,1.3180327,22.91510142749812
+esophagusmuscularis,Glia,SRPK2,1.2696079,21.030927835051543
+skeletalmuscle,Fibroblast,SRPK2,1.2612612,20.54172274562584
+breast,Muscle,SRPK2,1.2580645,20.394736842105264
+esophagusmuscularis,Fibroblast,SRPK2,1.2127659,19.867422422903257
+prostate,Glia,SRPK2,1.3846154,19.402985074626866
+skin,Fibroblast,SRPK2,1.2777778,17.01323251417769
+skeletalmuscle,Glia,SRPK2,1.0,11.428571428571429

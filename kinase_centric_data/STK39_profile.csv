@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+heart,Adipocyte,STK39,1.7356322,45.07772020725388
+prostate,Epithelial cell,STK39,2.4982238,43.921466649330384
+esophagusmuscularis,Adipocyte,STK39,1.4594594,42.285714285714285
+skin,Epithelial cell,STK39,4.012,41.52823920265781
+breast,Adipocyte,STK39,1.7046703,41.34014764338444
+heart,Muscle,STK39,1.8117766,40.82393899204244
+esophagusmuscularis,Neuron,STK39,1.875,32.0
+esophagusmucosa,Epithelial cell,STK39,1.9858018,26.03653232821108
+esophagusmucosa,Stromal,STK39,1.427451,25.783619817997977
+skeletalmuscle,Adipocyte,STK39,1.3684211,23.89937106918239
+esophagusmucosa,Muscle,STK39,1.2894737,22.75449101796407
+prostate,Fibroblast,STK39,1.4326531,21.453590192644484
+heart,Immune (lymphocyte),STK39,1.1836735,21.060171919770774
+lung,Immune (lymphocyte),STK39,1.1360544,20.27586206896552
+lung,Epithelial cell,STK39,1.2560625,20.21183800623053
+skin,Muscle,STK39,1.6216216,19.892473118279568
+esophagusmucosa,Immune (lymphocyte),STK39,1.1935484,18.75687568756876
+breast,Muscle,STK39,1.3214285,18.421052631578945
+lung,Immune (myeloid),STK39,1.187963,17.707820954254796
+prostate,Muscle,STK39,1.6347151,17.209094962104324
+esophagusmuscularis,Immune (lymphocyte),STK39,1.12,16.611295681063122
+skeletalmuscle,Immune (lymphocyte),STK39,1.0666667,15.0
+skin,Epithelial cell (keratinocyte),STK39,1.2826087,14.175654853620957
+prostate,Immune (lymphocyte),STK39,1.25,14.076246334310852
+breast,Fibroblast,STK39,1.2719299,13.91941391941392
+esophagusmuscularis,Muscle,STK39,1.2068789,13.101082789696685
+breast,Epithelial cell,STK39,1.2230014,12.295223314364543
+lung,Muscle,STK39,1.05,12.269938650306749
+skin,Immune (lymphocyte),STK39,1.25,10.666666666666668
+esophagusmucosa,Fibroblast,STK39,1.2112676,10.088809946714033
+heart,Fibroblast,STK39,1.138191,8.571120921718531
+lung,Fibroblast,STK39,1.0655738,8.26558265582656
+skin,Adipocyte,STK39,1.0,8.064516129032258
+skin,Other,STK39,1.2058823,7.52212389380531
+prostate,Glia,STK39,1.0,7.462686567164178
+skin,Immune (myeloid),STK39,1.0833334,6.70391061452514
+esophagusmucosa,Immune (myeloid),STK39,1.0869565,6.580829756795422
+heart,Endothelial cell,STK39,1.1098131,5.605762933857236
+lung,Endothelial cell,STK39,1.0596026,5.49890750182083
+prostate,Immune (myeloid),STK39,2.017857,5.447470817120623
+esophagusmuscularis,Fibroblast,STK39,1.0762411,5.41838793351907
+esophagusmucosa,Endothelial cell,STK39,1.176,5.344164172723386
+skeletalmuscle,Fibroblast,STK39,1.08,5.0471063257065945
+prostate,Endothelial cell,STK39,1.3851852,4.777070063694268
+esophagusmuscularis,Glia,STK39,1.2173913,4.742268041237113
+heart,Glia,STK39,1.1538461,4.362416107382551
+breast,Endothelial cell,STK39,1.2702702,4.19977298524404
+skin,Fibroblast,STK39,1.0454545,4.158790170132325
+esophagusmuscularis,Immune (myeloid),STK39,1.1083333,4.049949375632805
+heart,Immune (myeloid),STK39,1.063745,3.922487888732615
+esophagusmuscularis,Endothelial cell,STK39,1.0709678,3.474557274153777
+skin,Melanocyte,STK39,1.2222222,3.308823529411765
+skeletalmuscle,Immune (myeloid),STK39,1.0416666,3.2564450474898234
+skeletalmuscle,Endothelial cell,STK39,1.0697675,3.230653643876785
+breast,Immune (myeloid),STK39,1.2,2.793296089385475
+skeletalmuscle,Muscle,STK39,1.2373189,2.445616056001063
+skin,Endothelial cell,STK39,1.0416666,2.346041055718475
+esophagusmucosa,Glia,STK39,1.0,1.5384615384615383
+skeletalmuscle,Glia,STK39,0.0,0.0

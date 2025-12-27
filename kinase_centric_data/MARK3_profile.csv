@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+heart,Muscle,MARK3,2.753292,52.24635278514589
+lung,Epithelial cell,MARK3,1.596953,49.07580477673935
+heart,Adipocyte,MARK3,1.5638298,48.70466321243524
+esophagusmuscularis,Adipocyte,MARK3,1.6506025,47.42857142857143
+esophagusmucosa,Stromal,MARK3,1.5120193,42.06268958543984
+esophagusmucosa,Epithelial cell,MARK3,1.6089953,39.96810669759351
+lung,Immune (myeloid),MARK3,1.4379252,38.56369896704378
+heart,Fibroblast,MARK3,1.4376484,36.26574781953268
+esophagusmuscularis,Neuron,MARK3,1.1111112,36.0
+skeletalmuscle,Adipocyte,MARK3,1.3076923,32.70440251572327
+heart,Immune (myeloid),MARK3,1.3019139,32.66135333645882
+skin,Immune (lymphocyte),MARK3,1.25,32.0
+skin,Melanocyte,MARK3,1.2117647,31.25
+prostate,Endothelial cell,MARK3,1.3564131,31.174805378627035
+lung,Muscle,MARK3,1.38,30.67484662576687
+lung,Fibroblast,MARK3,1.3150685,29.67479674796748
+skin,Epithelial cell (keratinocyte),MARK3,1.3095652,29.53261427837699
+prostate,Epithelial cell,MARK3,1.3589593,29.484679062107222
+esophagusmuscularis,Endothelial cell,MARK3,1.3670982,29.432862586863934
+skeletalmuscle,Endothelial cell,MARK3,1.398977,29.37640871525169
+esophagusmucosa,Immune (myeloid),MARK3,1.3170732,29.32761087267525
+heart,Endothelial cell,MARK3,1.3053812,29.20759659462999
+prostate,Muscle,MARK3,1.4305556,28.88987962550156
+prostate,Immune (myeloid),MARK3,1.2979453,28.404669260700388
+lung,Endothelial cell,MARK3,1.2678803,28.00436999271668
+esophagusmucosa,Muscle,MARK3,1.3071429,27.944111776447105
+skin,Endothelial cell,MARK3,1.2175438,27.859237536656888
+skin,Epithelial cell,MARK3,1.3772455,27.74086378737541
+breast,Adipocyte,MARK3,1.2082474,27.541169789892106
+esophagusmuscularis,Muscle,MARK3,1.3188832,27.459815723989507
+esophagusmuscularis,Glia,MARK3,1.3458647,27.422680412371136
+skeletalmuscle,Muscle,MARK3,1.2936925,26.97266403792477
+esophagusmucosa,Fibroblast,MARK3,1.2526455,26.856127886323268
+esophagusmucosa,Endothelial cell,MARK3,1.2625698,26.784950833689614
+heart,Immune (lymphocyte),MARK3,1.1881721,26.64756446991404
+esophagusmucosa,Immune (lymphocyte),MARK3,1.2210743,26.62266226622662
+esophagusmuscularis,Fibroblast,MARK3,1.2372514,26.5635507733692
+breast,Muscle,MARK3,1.175,26.31578947368421
+esophagusmuscularis,Immune (lymphocyte),MARK3,1.1772152,26.24584717607973
+lung,Immune (lymphocyte),MARK3,1.1894736,26.20689655172414
+prostate,Fibroblast,MARK3,1.3276451,25.65674255691769
+skeletalmuscle,Fibroblast,MARK3,1.2026403,25.487886944818307
+esophagusmuscularis,Immune (myeloid),MARK3,1.1845319,24.87343908201148
+skin,Other,MARK3,1.2142857,24.778761061946906
+skin,Muscle,MARK3,1.1956521,24.731182795698924
+breast,Fibroblast,MARK3,1.2397959,23.93162393162393
+skin,Fibroblast,MARK3,1.1904762,23.81852551984877
+skeletalmuscle,Immune (myeloid),MARK3,1.1896552,23.609226594301223
+breast,Immune (myeloid),MARK3,1.3809524,23.463687150837988
+esophagusmucosa,Glia,MARK3,1.2666667,23.07692307692308
+skeletalmuscle,Immune (lymphocyte),MARK3,1.2272727,22.0
+breast,Epithelial cell,MARK3,1.2460692,21.934816347646148
+breast,Endothelial cell,MARK3,1.2383419,21.906923950056758
+heart,Glia,MARK3,1.2903225,20.80536912751678
+prostate,Immune (lymphocyte),MARK3,1.1865672,19.64809384164223
+skin,Immune (myeloid),MARK3,1.0882353,18.994413407821227
+prostate,Glia,MARK3,1.0,17.91044776119403
+skeletalmuscle,Glia,MARK3,1.2,14.285714285714285
+skin,Adipocyte,MARK3,1.1428572,11.29032258064516

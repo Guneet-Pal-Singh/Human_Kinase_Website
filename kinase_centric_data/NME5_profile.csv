@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Neuron,NME5,1.3333334,12.0
+lung,Epithelial cell,NME5,1.130137,5.4579439252336455
+heart,Muscle,NME5,1.122807,5.197281167108754
+esophagusmuscularis,Adipocyte,NME5,1.0,4.0
+prostate,Fibroblast,NME5,1.054054,3.239929947460595
+lung,Immune (myeloid),NME5,1.0558375,3.2300377111001803
+heart,Adipocyte,NME5,1.0,3.1088082901554404
+lung,Muscle,NME5,1.0,3.067484662576687
+lung,Fibroblast,NME5,1.0888889,3.048780487804878
+prostate,Muscle,NME5,1.0735294,3.031654034774855
+prostate,Epithelial cell,NME5,1.0670553,2.973172105924674
+skeletalmuscle,Glia,NME5,1.0,2.857142857142857
+lung,Endothelial cell,NME5,1.037037,1.9664967225054624
+breast,Epithelial cell,NME5,1.0550458,1.8796344197275396
+skin,Melanocyte,NME5,1.0,1.8382352941176472
+esophagusmuscularis,Muscle,NME5,1.0478088,1.6880758625327863
+skin,Epithelial cell,NME5,1.1,1.6611295681063123
+skin,Adipocyte,NME5,1.0,1.6129032258064515
+heart,Fibroblast,NME5,1.0530303,1.4213416603854852
+esophagusmucosa,Stromal,NME5,1.0,1.4155712841253791
+esophagusmuscularis,Glia,NME5,1.0833334,1.2371134020618555
+esophagusmuscularis,Endothelial cell,NME5,1.0,1.21049092131809
+prostate,Endothelial cell,NME5,1.1,1.0615711252653928
+breast,Endothelial cell,NME5,1.0,1.021566401816118
+skeletalmuscle,Muscle,NME5,1.0140187,0.9481192680873688
+breast,Adipocyte,NME5,1.0,0.9085746734809768
+skeletalmuscle,Endothelial cell,NME5,1.0,0.9015777610818932
+esophagusmucosa,Endothelial cell,NME5,1.025,0.8550662676357419
+lung,Immune (lymphocyte),NME5,1.0,0.8275862068965517
+esophagusmuscularis,Fibroblast,NME5,1.0,0.8262080891536171
+heart,Endothelial cell,NME5,1.0163934,0.7989521938441388
+skin,Endothelial cell,NME5,1.0,0.6842619745845552
+esophagusmuscularis,Immune (lymphocyte),NME5,1.0,0.6644518272425249
+breast,Muscle,NME5,1.0,0.6578947368421052
+skeletalmuscle,Adipocyte,NME5,1.0,0.628930817610063
+skin,Epithelial cell (keratinocyte),NME5,1.0,0.6163328197226503
+breast,Fibroblast,NME5,1.0,0.6105006105006106
+esophagusmuscularis,Immune (myeloid),NME5,1.0,0.5737428282146473
+skin,Immune (myeloid),NME5,1.0,0.5586592178770949
+skeletalmuscle,Immune (myeloid),NME5,1.0,0.5427408412483039
+skeletalmuscle,Fibroblast,NME5,1.0,0.5383580080753702
+skin,Muscle,NME5,1.0,0.5376344086021506
+esophagusmucosa,Fibroblast,NME5,1.0,0.5328596802841918
+esophagusmucosa,Muscle,NME5,1.0,0.3992015968063871
+esophagusmucosa,Epithelial cell,NME5,1.0588236,0.3696723688025514
+heart,Immune (myeloid),NME5,1.0,0.2969213939678075
+heart,Immune (lymphocyte),NME5,1.0,0.2865329512893982
+esophagusmucosa,Immune (myeloid),NME5,1.0,0.2861230329041487
+breast,Immune (myeloid),NME5,1.0,0.2793296089385474
+skin,Fibroblast,NME5,1.0,0.1890359168241966
+prostate,Immune (lymphocyte),NME5,1.0,0.1466275659824047
+esophagusmucosa,Immune (lymphocyte),NME5,1.0,0.055005500550055
+esophagusmucosa,Glia,NME5,0.0,0.0
+heart,Glia,NME5,0.0,0.0
+prostate,Glia,NME5,0.0,0.0
+prostate,Immune (myeloid),NME5,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),NME5,0.0,0.0
+skin,Immune (lymphocyte),NME5,0.0,0.0
+skin,Other,NME5,0.0,0.0

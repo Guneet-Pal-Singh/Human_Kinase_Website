@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+ICCs,EPHA6,0.67644554
+Epithelial cell (suprabasal),EPHA6,0.3309489
+Neuronal,EPHA6,0.29200166
+Myoepithelial (basal),EPHA6,0.26776055
+Epithelial cell (basal),EPHA6,0.255307
+Immune (alveolar macrophage),EPHA6,0.23930018
+Fibroblast,EPHA6,0.22875193
+Epithelial cell (luminal),EPHA6,0.22178416
+Myocyte (smooth muscle),EPHA6,0.21344335
+Epithelial cell (ciliated),EPHA6,0.19046177
+Neuroendocrine,EPHA6,0.18806177
+Epithelial cell (alveolar type I),EPHA6,0.17972901
+Mucous cell,EPHA6,0.16513625
+Epithelial cell (Hillock),EPHA6,0.155315
+Sweat gland cell,EPHA6,0.14825639
+Epithelial cell (alveolar type II),EPHA6,0.14338289
+Melanocyte,EPHA6,0.14140306
+Immune (mast cell),EPHA6,0.13003679
+Myofibroblast,EPHA6,0.12711066
+Sebaceous gland cell,EPHA6,0.121856295
+Myocyte (cardiac),EPHA6,0.120457165
+Endothelial cell (vascular),EPHA6,0.102771394
+Schwann cell,EPHA6,0.095462546
+Epithelial cell (club),EPHA6,0.08628883
+Satellite cell,EPHA6,0.0835561
+Myocyte (NMJ-rich),EPHA6,0.08334574
+Pericyte/SMC,EPHA6,0.080779806
+Epithelial cell (squamous),EPHA6,0.07646725
+Immune (DC/macrophage),EPHA6,0.07324495
+Myocyte (sk. muscle),EPHA6,0.070287704
+Adipocyte,EPHA6,0.068412565
+Immune (NK cell),EPHA6,0.06461828
+Endothelial cell (lymphatic),EPHA6,0.05579611
+Epithelial cell (basal keratinocyte),EPHA6,0.055577688
+Immune (B cell),EPHA6,0.049543146
+Epithelial cell (suprabasal keratinocyte),EPHA6,0.04643079
+"Myocyte (cardiac, cytoplasmic)",EPHA6,0.0445387
+Immune (T cell),EPHA6,0.04151745
+"Myocyte (sk. muscle, cytoplasmic)",EPHA6,0.035972834
+Immune (DC),EPHA6,0.01864947
+Epithelial cell (mature keratinocyte),EPHA6,0.016948184
+Epithelial cell (cornified keratinocyte),EPHA6,0.0
+Immune (Langerhans),EPHA6,0.0

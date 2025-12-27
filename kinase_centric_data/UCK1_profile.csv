@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+prostate,Muscle,UCK1,1.037037,3.611234953187695
+prostate,Epithelial cell,UCK1,1.0788114,3.354570276947081
+skin,Other,UCK1,1.0714285,3.0973451327433628
+skin,Melanocyte,UCK1,1.125,2.941176470588235
+prostate,Fibroblast,UCK1,1.060606,2.8896672504378285
+esophagusmuscularis,Muscle,UCK1,1.057971,2.320263635752236
+heart,Muscle,UCK1,1.0395683,2.3043766578249336
+esophagusmucosa,Epithelial cell,UCK1,1.0434783,2.167294868077704
+esophagusmucosa,Stromal,UCK1,1.0476191,2.1233569261880687
+prostate,Endothelial cell,UCK1,1.0689656,2.0523708421797595
+skin,Epithelial cell,UCK1,1.0,1.9933554817275747
+breast,Muscle,UCK1,1.0,1.973684210526316
+skeletalmuscle,Fibroblast,UCK1,1.0272727,1.8506056527590848
+lung,Muscle,UCK1,1.0,1.8404907975460123
+heart,Fibroblast,UCK1,1.0245398,1.755141595779046
+heart,Adipocyte,UCK1,1.0,1.5544041450777202
+prostate,Glia,UCK1,1.0,1.4925373134328357
+prostate,Immune (myeloid),UCK1,1.0,1.4591439688715953
+breast,Adipocyte,UCK1,1.04,1.419647927314026
+heart,Immune (myeloid),UCK1,1.0,1.4064697609001406
+skin,Epithelial cell (keratinocyte),UCK1,1.0,1.386748844375963
+lung,Immune (myeloid),UCK1,1.0,1.3444827020823085
+skin,Immune (lymphocyte),UCK1,1.0,1.3333333333333337
+skeletalmuscle,Endothelial cell,UCK1,1.0,1.1269722013523666
+esophagusmucosa,Fibroblast,UCK1,1.1,1.0657193605683837
+heart,Endothelial cell,UCK1,1.0,0.9561231172233138
+esophagusmuscularis,Fibroblast,UCK1,1.031915,0.9030646555865116
+esophagusmucosa,Immune (lymphocyte),UCK1,1.0,0.88008800880088
+breast,Immune (myeloid),UCK1,1.0,0.8379888268156425
+lung,Epithelial cell,UCK1,1.0052632,0.7892004153686396
+esophagusmucosa,Endothelial cell,UCK1,1.0,0.7695596408721677
+prostate,Immune (lymphocyte),UCK1,1.0,0.7331378299120235
+esophagusmucosa,Immune (myeloid),UCK1,1.0,0.7153075822603719
+breast,Epithelial cell,UCK1,1.097561,0.7070184514571478
+breast,Endothelial cell,UCK1,1.2,0.5675368898978433
+skin,Immune (myeloid),UCK1,1.0,0.5586592178770949
+breast,Fibroblast,UCK1,1.0,0.4884004884004884
+skin,Endothelial cell,UCK1,1.0,0.3910068426197458
+esophagusmuscularis,Endothelial cell,UCK1,1.125,0.3586639766868415
+heart,Glia,UCK1,1.0,0.3355704697986577
+esophagusmuscularis,Immune (lymphocyte),UCK1,1.0,0.3322259136212624
+esophagusmuscularis,Immune (myeloid),UCK1,1.0,0.3037462031724603
+lung,Immune (lymphocyte),UCK1,1.0,0.2758620689655172
+skeletalmuscle,Muscle,UCK1,1.0172414,0.2569669044348943
+esophagusmuscularis,Glia,UCK1,1.0,0.2061855670103093
+esophagusmucosa,Muscle,UCK1,2.0,0.1996007984031935
+skin,Fibroblast,UCK1,1.0,0.1890359168241966
+lung,Endothelial cell,UCK1,1.0,0.1456664238892935
+heart,Immune (lymphocyte),UCK1,1.0,0.1432664756446991
+lung,Fibroblast,UCK1,1.0,0.067750677506775
+esophagusmucosa,Glia,UCK1,0.0,0.0
+esophagusmuscularis,Neuron,UCK1,0.0,0.0
+esophagusmuscularis,Adipocyte,UCK1,0.0,0.0
+skeletalmuscle,Adipocyte,UCK1,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),UCK1,0.0,0.0
+skin,Adipocyte,UCK1,0.0,0.0
+skeletalmuscle,Immune (myeloid),UCK1,0.0,0.0
+skeletalmuscle,Glia,UCK1,0.0,0.0
+skin,Muscle,UCK1,0.0,0.0

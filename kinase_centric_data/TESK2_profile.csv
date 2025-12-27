@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+prostate,Epithelial cell,TESK2,1.6251436,26.40748927317644
+skin,Epithelial cell (keratinocyte),TESK2,1.3886364,22.598870056497177
+esophagusmucosa,Epithelial cell,TESK2,1.315,17.39634676717889
+skin,Melanocyte,TESK2,1.1818181,16.176470588235293
+skin,Other,TESK2,1.3287672,16.150442477876105
+lung,Immune (myeloid),TESK2,1.2248322,14.658140678799803
+heart,Immune (myeloid),TESK2,1.2308612,13.064541334583527
+esophagusmucosa,Stromal,TESK2,1.2258065,12.537917087967642
+lung,Muscle,TESK2,1.4210526,11.65644171779141
+lung,Fibroblast,TESK2,1.1882353,11.51761517615176
+prostate,Immune (myeloid),TESK2,1.440678,11.478599221789883
+breast,Epithelial cell,TESK2,1.2610687,11.2950508708398
+skin,Immune (myeloid),TESK2,1.2,11.1731843575419
+esophagusmuscularis,Immune (myeloid),TESK2,1.2366667,10.124873439082013
+esophagusmuscularis,Adipocyte,TESK2,1.2941177,9.714285714285714
+skin,Epithelial cell,TESK2,1.3684211,9.46843853820598
+prostate,Muscle,TESK2,1.3940886,9.050378956754347
+heart,Muscle,TESK2,1.2001853,8.943965517241379
+lung,Epithelial cell,TESK2,1.1252933,8.851505711318795
+esophagusmuscularis,Glia,TESK2,1.1829268,8.45360824742268
+lung,Endothelial cell,TESK2,1.0945946,8.08448652585579
+esophagusmuscularis,Neuron,TESK2,1.5,8.0
+esophagusmucosa,Muscle,TESK2,1.1,7.984031936127744
+heart,Adipocyte,TESK2,1.2,7.772020725388601
+esophagusmucosa,Immune (myeloid),TESK2,1.2314814,7.725321888412018
+esophagusmucosa,Glia,TESK2,1.0,7.6923076923076925
+breast,Immune (myeloid),TESK2,1.1111112,7.5418994413407825
+skeletalmuscle,Muscle,TESK2,1.1603774,7.514066722785875
+prostate,Glia,TESK2,1.0,7.462686567164178
+heart,Fibroblast,TESK2,1.2111437,7.343598578658339
+esophagusmucosa,Endothelial cell,TESK2,1.1646341,7.011543394613083
+heart,Endothelial cell,TESK2,1.1448141,6.692861820563195
+skeletalmuscle,Immune (myeloid),TESK2,1.3673469,6.648575305291724
+skin,Endothelial cell,TESK2,1.1470588,6.647116324535679
+heart,Immune (lymphocyte),TESK2,1.1818181,6.303724928366762
+heart,Glia,TESK2,1.0555556,6.04026845637584
+prostate,Endothelial cell,TESK2,1.1538461,5.980184005661713
+breast,Muscle,TESK2,1.0,5.921052631578947
+esophagusmuscularis,Endothelial cell,TESK2,1.1406844,5.895539116789958
+prostate,Fibroblast,TESK2,1.2537314,5.866900175131348
+esophagusmucosa,Immune (lymphocyte),TESK2,1.1553398,5.665566556655666
+skeletalmuscle,Adipocyte,TESK2,1.1111112,5.660377358490567
+esophagusmuscularis,Immune (lymphocyte),TESK2,1.25,5.3156146179402
+esophagusmuscularis,Muscle,TESK2,1.1105464,5.292891250252203
+skeletalmuscle,Fibroblast,TESK2,1.1082803,5.282637954239569
+esophagusmucosa,Fibroblast,TESK2,1.1438849,4.9378330373001775
+esophagusmuscularis,Fibroblast,TESK2,1.078125,4.918820251705255
+skin,Muscle,TESK2,1.1111112,4.838709677419355
+lung,Immune (lymphocyte),TESK2,1.1142857,4.827586206896552
+skeletalmuscle,Endothelial cell,TESK2,1.1166667,4.507888805409467
+breast,Endothelial cell,TESK2,1.1025641,4.426787741203178
+skeletalmuscle,Immune (lymphocyte),TESK2,1.0,4.0
+breast,Fibroblast,TESK2,1.1071428,3.418803418803419
+skin,Fibroblast,TESK2,1.2222222,3.402646502835539
+prostate,Immune (lymphocyte),TESK2,1.15,2.932551319648094
+skeletalmuscle,Glia,TESK2,1.0,2.857142857142857
+skin,Immune (lymphocyte),TESK2,1.0,2.666666666666667
+breast,Adipocyte,TESK2,1.1025641,2.2146507666098807
+skin,Adipocyte,TESK2,1.0,1.6129032258064515

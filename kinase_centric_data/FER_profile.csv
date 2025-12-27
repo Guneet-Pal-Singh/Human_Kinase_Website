@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skin,Melanocyte,FER,1.7307693,47.794117647058826
+esophagusmuscularis,Neuron,FER,2.0,40.0
+esophagusmucosa,Stromal,FER,1.5356201,38.32153690596562
+esophagusmuscularis,Immune (myeloid),FER,1.6363636,37.86702666216672
+skin,Epithelial cell (keratinocyte),FER,1.5898491,37.442218798151
+prostate,Glia,FER,1.44,37.3134328358209
+skeletalmuscle,Glia,FER,1.2307693,37.142857142857146
+esophagusmucosa,Glia,FER,1.625,36.92307692307693
+skin,Endothelial cell,FER,1.4756757,36.168132942326494
+heart,Adipocyte,FER,1.3529412,35.233160621761655
+prostate,Endothelial cell,FER,1.4471545,34.81953290870488
+heart,Fibroblast,FER,1.4434403,34.55367718315925
+esophagusmuscularis,Adipocyte,FER,1.5166667,34.285714285714285
+skin,Immune (myeloid),FER,1.4666667,33.5195530726257
+lung,Epithelial cell,FER,1.4011519,33.175493250259606
+esophagusmucosa,Muscle,FER,1.4879518,33.13373253493014
+lung,Fibroblast,FER,1.413088,33.13008130081301
+esophagusmucosa,Epithelial cell,FER,1.5600091,31.64685416062627
+lung,Immune (myeloid),FER,1.4003131,31.414986063289064
+heart,Muscle,FER,1.494936,31.100795755968168
+esophagusmucosa,Fibroblast,FER,1.3237658,30.94138543516874
+heart,Immune (myeloid),FER,1.3374233,30.56727613689639
+skeletalmuscle,Immune (myeloid),FER,1.3482143,30.39348710990502
+prostate,Fibroblast,FER,1.4884393,30.297723292469357
+skin,Fibroblast,FER,1.35,30.245746691871457
+esophagusmuscularis,Glia,FER,1.3139932,30.20618556701031
+esophagusmucosa,Endothelial cell,FER,1.361809,29.77768277041471
+prostate,Muscle,FER,1.4977443,29.647793134195272
+heart,Glia,FER,1.3411765,28.523489932885905
+lung,Muscle,FER,1.4347826,28.22085889570552
+skin,Muscle,FER,1.4615384,27.956989247311824
+esophagusmuscularis,Endothelial cell,FER,1.3700658,27.258462228199956
+skin,Other,FER,1.5609756,27.21238938053097
+skeletalmuscle,Adipocyte,FER,1.1627907,27.044025157232703
+breast,Fibroblast,FER,1.3818182,26.862026862026863
+skeletalmuscle,Endothelial cell,FER,1.4719101,26.746806912096165
+breast,Endothelial cell,FER,1.3290598,26.560726447219068
+skeletalmuscle,Fibroblast,FER,1.2734772,26.51413189771198
+heart,Endothelial cell,FER,1.3030303,25.50098231827112
+esophagusmuscularis,Fibroblast,FER,1.2353405,24.41156691324815
+breast,Muscle,FER,1.4571428,23.026315789473685
+breast,Immune (myeloid),FER,1.2439024,22.90502793296089
+breast,Adipocyte,FER,1.2039801,22.82793867120954
+esophagusmucosa,Immune (myeloid),FER,1.4200627,22.818311874105863
+lung,Endothelial cell,FER,1.2592,22.760378732702115
+skin,Immune (lymphocyte),FER,1.117647,22.666666666666664
+esophagusmuscularis,Muscle,FER,1.3133531,22.664604210101555
+prostate,Immune (myeloid),FER,1.3624455,22.27626459143969
+breast,Epithelial cell,FER,1.273393,21.19330919123987
+prostate,Epithelial cell,FER,1.318445,20.95956312573137
+skin,Epithelial cell,FER,1.4857143,17.441860465116278
+skin,Adipocyte,FER,1.6666666,14.516129032258066
+skeletalmuscle,Immune (lymphocyte),FER,1.4166666,12.0
+esophagusmuscularis,Immune (lymphocyte),FER,1.2285714,11.627906976744184
+prostate,Immune (lymphocyte),FER,1.1643835,10.703812316715542
+lung,Immune (lymphocyte),FER,1.1351352,10.20689655172414
+heart,Immune (lymphocyte),FER,1.0724638,9.88538681948424
+skeletalmuscle,Muscle,FER,1.1337693,7.452040228611935
+esophagusmucosa,Immune (lymphocyte),FER,1.1734694,5.39053905390539

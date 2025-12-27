@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Myoepithelial (basal),NTRK2,0.4925296
+Adipocyte,NTRK2,0.48049068
+Pericyte/SMC,NTRK2,0.39702162
+Epithelial cell (basal),NTRK2,0.25850865
+Epithelial cell (luminal),NTRK2,0.17152517
+Epithelial cell (basal keratinocyte),NTRK2,0.15984623
+Immune (Langerhans),NTRK2,0.15281369
+Myofibroblast,NTRK2,0.13743992
+Epithelial cell (suprabasal),NTRK2,0.11524579
+Schwann cell,NTRK2,0.113309294
+ICCs,NTRK2,0.090311944
+Sweat gland cell,NTRK2,0.08460275
+Fibroblast,NTRK2,0.077432506
+Epithelial cell (suprabasal keratinocyte),NTRK2,0.07736747
+Immune (alveolar macrophage),NTRK2,0.07487105
+Epithelial cell (Hillock),NTRK2,0.074682765
+Epithelial cell (ciliated),NTRK2,0.069675274
+Endothelial cell (vascular),NTRK2,0.06790123
+Epithelial cell (squamous),NTRK2,0.06224085
+Myocyte (smooth muscle),NTRK2,0.056297526
+Sebaceous gland cell,NTRK2,0.054242283
+Melanocyte,NTRK2,0.051489428
+Satellite cell,NTRK2,0.04986566
+Epithelial cell (alveolar type I),NTRK2,0.04943845
+Epithelial cell (cornified keratinocyte),NTRK2,0.04373205
+"Myocyte (sk. muscle, cytoplasmic)",NTRK2,0.043702852
+Epithelial cell (alveolar type II),NTRK2,0.04191494
+Immune (mast cell),NTRK2,0.041526478
+Immune (T cell),NTRK2,0.040911242
+Myocyte (NMJ-rich),NTRK2,0.036841672
+Epithelial cell (mature keratinocyte),NTRK2,0.036244556
+Neuroendocrine,NTRK2,0.034575492
+Immune (DC/macrophage),NTRK2,0.03436643
+Myocyte (cardiac),NTRK2,0.03360414
+Endothelial cell (lymphatic),NTRK2,0.032287754
+Epithelial cell (club),NTRK2,0.03133152
+Mucous cell,NTRK2,0.028150067
+Myocyte (sk. muscle),NTRK2,0.02798241
+Immune (NK cell),NTRK2,0.02565749
+Immune (DC),NTRK2,0.02516424
+"Myocyte (cardiac, cytoplasmic)",NTRK2,0.02094875
+Immune (B cell),NTRK2,0.013167089
+Neuronal,NTRK2,0.0

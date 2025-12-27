@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (alveolar type I),GUCY2D,0.06675225
+Immune (DC),GUCY2D,0.06416417
+Epithelial cell (luminal),GUCY2D,0.054386545
+Sweat gland cell,GUCY2D,0.04915607
+Epithelial cell (alveolar type II),GUCY2D,0.04091442
+Immune (mast cell),GUCY2D,0.03705775
+Myoepithelial (basal),GUCY2D,0.03680596
+Epithelial cell (suprabasal),GUCY2D,0.03617445
+Melanocyte,GUCY2D,0.031267066
+Epithelial cell (squamous),GUCY2D,0.028290216
+Sebaceous gland cell,GUCY2D,0.026289398
+Epithelial cell (ciliated),GUCY2D,0.026200566
+Immune (alveolar macrophage),GUCY2D,0.025455749
+Myocyte (NMJ-rich),GUCY2D,0.020528829
+Myofibroblast,GUCY2D,0.020435233
+Epithelial cell (basal keratinocyte),GUCY2D,0.019260017
+Immune (DC/macrophage),GUCY2D,0.018311072
+Satellite cell,GUCY2D,0.017977858
+Epithelial cell (basal),GUCY2D,0.016564332
+Schwann cell,GUCY2D,0.014899562
+Endothelial cell (lymphatic),GUCY2D,0.013125846
+Epithelial cell (club),GUCY2D,0.01305222
+Adipocyte,GUCY2D,0.0120585915
+ICCs,GUCY2D,0.011478259
+Endothelial cell (vascular),GUCY2D,0.011033215
+Mucous cell,GUCY2D,0.010633615
+Epithelial cell (Hillock),GUCY2D,0.010363511
+Fibroblast,GUCY2D,0.00866524
+Myocyte (cardiac),GUCY2D,0.008205475
+Epithelial cell (suprabasal keratinocyte),GUCY2D,0.008016157
+Myocyte (smooth muscle),GUCY2D,0.0073912507
+Myocyte (sk. muscle),GUCY2D,0.0062481673
+Pericyte/SMC,GUCY2D,0.0053233486
+Immune (T cell),GUCY2D,0.004131122
+"Myocyte (cardiac, cytoplasmic)",GUCY2D,0.00065940275
+Epithelial cell (cornified keratinocyte),GUCY2D,0.0
+Immune (NK cell),GUCY2D,0.0
+Epithelial cell (mature keratinocyte),GUCY2D,0.0
+Immune (B cell),GUCY2D,0.0
+Immune (Langerhans),GUCY2D,0.0
+"Myocyte (sk. muscle, cytoplasmic)",GUCY2D,0.0
+Neuronal,GUCY2D,0.0
+Neuroendocrine,GUCY2D,0.0

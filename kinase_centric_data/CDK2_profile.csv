@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skin,Melanocyte,CDK2,1.1904762,30.88235294117647
+esophagusmuscularis,Muscle,CDK2,1.0636605,5.070952989441119
+skin,Other,CDK2,1.1,4.424778761061947
+esophagusmuscularis,Endothelial cell,CDK2,1.035461,3.160726294552791
+prostate,Glia,CDK2,1.0,2.985074626865672
+skin,Epithelial cell (keratinocyte),CDK2,1.0,2.9275808936825887
+esophagusmuscularis,Adipocyte,CDK2,1.0,2.857142857142857
+skin,Immune (lymphocyte),CDK2,1.0,2.666666666666667
+esophagusmucosa,Epithelial cell,CDK2,1.0365169,2.580458103798202
+esophagusmuscularis,Glia,CDK2,1.0454545,2.268041237113402
+skin,Muscle,CDK2,1.0,2.1505376344086025
+esophagusmucosa,Stromal,CDK2,1.0952381,2.1233569261880687
+esophagusmuscularis,Immune (lymphocyte),CDK2,1.0,1.9933554817275747
+prostate,Endothelial cell,CDK2,1.0185186,1.910828025477707
+esophagusmucosa,Immune (lymphocyte),CDK2,1.0,1.87018701870187
+prostate,Epithelial cell,CDK2,1.037123,1.867984223984744
+esophagusmucosa,Muscle,CDK2,1.0,1.7964071856287425
+prostate,Muscle,CDK2,1.075,1.7833259028087385
+esophagusmuscularis,Fibroblast,CDK2,1.0216216,1.7773080987606875
+breast,Epithelial cell,CDK2,1.0408163,1.6899465425073288
+esophagusmucosa,Endothelial cell,CDK2,1.0253165,1.68875587858059
+esophagusmucosa,Immune (myeloid),CDK2,1.0869565,1.6452074391988556
+prostate,Immune (myeloid),CDK2,1.0,1.3618677042801557
+breast,Endothelial cell,CDK2,1.0,1.2485811577752552
+prostate,Fibroblast,CDK2,1.0,1.2259194395796849
+heart,Endothelial cell,CDK2,1.0111111,1.1787819253438114
+skin,Immune (myeloid),CDK2,1.5,1.11731843575419
+esophagusmucosa,Fibroblast,CDK2,1.0,1.1012433392539964
+heart,Fibroblast,CDK2,1.02,1.076773985140519
+heart,Adipocyte,CDK2,1.0,1.0362694300518136
+skeletalmuscle,Fibroblast,CDK2,1.0163934,1.0262449528936743
+skeletalmuscle,Immune (lymphocyte),CDK2,1.0,1.0
+esophagusmuscularis,Immune (myeloid),CDK2,1.0357143,0.9449881876476544
+heart,Muscle,CDK2,1.0285715,0.8703580901856763
+heart,Immune (lymphocyte),CDK2,1.0,0.8595988538681949
+skin,Epithelial cell,CDK2,1.0,0.8305647840531563
+lung,Epithelial cell,CDK2,1.0163934,0.7601246105919004
+skin,Fibroblast,CDK2,1.25,0.7561436672967864
+skeletalmuscle,Endothelial cell,CDK2,1.0,0.7513148009015778
+lung,Fibroblast,CDK2,1.0,0.6775067750677507
+prostate,Immune (lymphocyte),CDK2,1.0,0.5865102639296188
+breast,Immune (myeloid),CDK2,1.0,0.5586592178770949
+lung,Endothelial cell,CDK2,1.0,0.5462490895848506
+lung,Immune (myeloid),CDK2,1.0,0.4426955238563699
+heart,Immune (myeloid),CDK2,1.0,0.4063134864822629
+breast,Fibroblast,CDK2,1.0,0.3663003663003663
+heart,Glia,CDK2,1.0,0.3355704697986577
+skin,Endothelial cell,CDK2,1.0,0.2932551319648094
+lung,Immune (lymphocyte),CDK2,1.0,0.2758620689655172
+breast,Adipocyte,CDK2,1.25,0.2271436683702442
+skeletalmuscle,Muscle,CDK2,1.0,0.1019006690000443
+esophagusmuscularis,Neuron,CDK2,0.0,0.0
+esophagusmucosa,Glia,CDK2,0.0,0.0
+breast,Muscle,CDK2,0.0,0.0
+lung,Muscle,CDK2,0.0,0.0
+skeletalmuscle,Adipocyte,CDK2,0.0,0.0
+skin,Adipocyte,CDK2,0.0,0.0
+skeletalmuscle,Glia,CDK2,0.0,0.0
+skeletalmuscle,Immune (myeloid),CDK2,0.0,0.0

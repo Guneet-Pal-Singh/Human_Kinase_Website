@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+prostate,Immune (lymphocyte),STK17A,1.2287234,27.56598240469208
+heart,Immune (lymphocyte),STK17A,1.2470589,24.355300859598856
+esophagusmucosa,Immune (lymphocyte),STK17A,1.180247,22.27722772277228
+lung,Immune (lymphocyte),STK17A,1.3356644,19.724137931034484
+esophagusmuscularis,Immune (lymphocyte),STK17A,1.2142857,18.6046511627907
+esophagusmuscularis,Neuron,STK17A,1.25,16.0
+skin,Immune (lymphocyte),STK17A,1.0,14.666666666666666
+skeletalmuscle,Immune (lymphocyte),STK17A,1.1428572,14.000000000000002
+heart,Muscle,STK17A,1.2283019,13.17970822281167
+lung,Epithelial cell,STK17A,1.166265,12.066458982346832
+prostate,Glia,STK17A,1.375,11.940298507462686
+prostate,Immune (myeloid),STK17A,1.1735537,11.7704280155642
+esophagusmuscularis,Adipocyte,STK17A,1.2,11.428571428571429
+esophagusmuscularis,Glia,STK17A,1.13,10.309278350515465
+skeletalmuscle,Adipocyte,STK17A,1.0,8.80503144654088
+esophagusmuscularis,Muscle,STK17A,1.1597543,8.756473199273657
+esophagusmucosa,Immune (myeloid),STK17A,1.2068965,8.297567954220316
+skeletalmuscle,Muscle,STK17A,1.1082418,8.063444242612201
+heart,Glia,STK17A,1.0,7.38255033557047
+prostate,Muscle,STK17A,1.1677853,6.64288898796255
+esophagusmucosa,Stromal,STK17A,1.1384616,6.572295247724974
+prostate,Epithelial cell,STK17A,1.1554233,6.553114029384996
+heart,Fibroblast,STK17A,1.0927153,6.503714870248735
+esophagusmucosa,Epithelial cell,STK17A,1.0869565,6.168454624528849
+esophagusmuscularis,Endothelial cell,STK17A,1.082397,5.985205110961668
+skeletalmuscle,Glia,STK17A,1.5,5.714285714285714
+heart,Adipocyte,STK17A,1.0909091,5.699481865284974
+heart,Endothelial cell,STK17A,1.0883721,5.631958087753765
+esophagusmucosa,Muscle,STK17A,1.1481482,5.389221556886228
+lung,Immune (myeloid),STK17A,1.088685,5.361534677816036
+esophagusmuscularis,Fibroblast,STK17A,1.0840951,5.255067729849169
+esophagusmucosa,Endothelial cell,STK17A,1.0991735,5.173150919196238
+esophagusmuscularis,Immune (myeloid),STK17A,1.028169,4.79244009449882
+lung,Fibroblast,STK17A,1.0625,4.336043360433604
+lung,Muscle,STK17A,1.0,4.294478527607362
+prostate,Endothelial cell,STK17A,1.0535715,3.9631988676574665
+breast,Adipocyte,STK17A,1.119403,3.8046564452015903
+skeletalmuscle,Fibroblast,STK17A,1.0446428,3.768506056527591
+skeletalmuscle,Endothelial cell,STK17A,1.04,3.756574004507888
+heart,Immune (myeloid),STK17A,1.059322,3.688076261915924
+skin,Endothelial cell,STK17A,1.0571429,3.421309872922776
+breast,Immune (myeloid),STK17A,1.0,3.35195530726257
+prostate,Fibroblast,STK17A,1.0789474,3.327495621716287
+breast,Muscle,STK17A,1.2,3.289473684210526
+esophagusmucosa,Fibroblast,STK17A,1.1011236,3.161634103019538
+esophagusmucosa,Glia,STK17A,1.0,3.076923076923077
+breast,Endothelial cell,STK17A,1.08,2.837684449489217
+skin,Epithelial cell,STK17A,1.0,2.823920265780731
+breast,Fibroblast,STK17A,1.0,2.8083028083028085
+skin,Immune (myeloid),STK17A,1.0,2.793296089385475
+lung,Endothelial cell,STK17A,1.04,2.7312454479242536
+skeletalmuscle,Immune (myeloid),STK17A,1.05,2.71370420624152
+breast,Epithelial cell,STK17A,1.0915033,2.638385928608381
+skin,Epithelial cell (keratinocyte),STK17A,1.0212766,2.41397021058038
+skin,Fibroblast,STK17A,1.0909091,2.0793950850661624
+skin,Adipocyte,STK17A,1.0,1.6129032258064515
+skin,Other,STK17A,1.1666666,1.327433628318584
+skin,Muscle,STK17A,1.0,0.5376344086021506
+skin,Melanocyte,STK17A,1.0,0.3676470588235294

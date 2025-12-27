@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (mast cell),FER,1.7855827
+Melanocyte,FER,1.2456346
+Epithelial cell (basal keratinocyte),FER,1.1748492
+ICCs,FER,1.03074
+Epithelial cell (ciliated),FER,0.99802995
+Epithelial cell (alveolar type I),FER,0.9721265
+Neuroendocrine,FER,0.93579686
+Endothelial cell (lymphatic),FER,0.9243834
+Epithelial cell (suprabasal),FER,0.9159687
+Myoepithelial (basal),FER,0.9014041
+Neuronal,FER,0.89739764
+Schwann cell,FER,0.89122134
+Myofibroblast,FER,0.8612874
+Pericyte/SMC,FER,0.8235302
+Immune (Langerhans),FER,0.8220304
+Fibroblast,FER,0.8123285
+Immune (DC),FER,0.79683375
+Epithelial cell (suprabasal keratinocyte),FER,0.79398584
+Immune (DC/macrophage),FER,0.7826464
+Immune (alveolar macrophage),FER,0.77152735
+Epithelial cell (alveolar type II),FER,0.76637
+Endothelial cell (vascular),FER,0.7604836
+Epithelial cell (basal),FER,0.72008
+Myocyte (cardiac),FER,0.7037849
+Mucous cell,FER,0.6914372
+Epithelial cell (club),FER,0.6547232
+Adipocyte,FER,0.64699966
+Myocyte (smooth muscle),FER,0.61815894
+Epithelial cell (Hillock),FER,0.6108588
+Satellite cell,FER,0.5773573
+Sebaceous gland cell,FER,0.51430315
+Epithelial cell (cornified keratinocyte),FER,0.50698787
+Sweat gland cell,FER,0.4982013
+Epithelial cell (squamous),FER,0.49756387
+Epithelial cell (luminal),FER,0.47892216
+Immune (B cell),FER,0.46488947
+Immune (NK cell),FER,0.40001896
+Epithelial cell (mature keratinocyte),FER,0.33199707
+Myocyte (NMJ-rich),FER,0.33060852
+Immune (T cell),FER,0.29317287
+"Myocyte (cardiac, cytoplasmic)",FER,0.24230407
+Myocyte (sk. muscle),FER,0.21970843
+"Myocyte (sk. muscle, cytoplasmic)",FER,0.10792262

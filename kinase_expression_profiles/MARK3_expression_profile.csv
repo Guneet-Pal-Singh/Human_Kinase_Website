@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Myocyte (cardiac),MARK3,1.3531051
+Epithelial cell (alveolar type II),MARK3,1.1938565
+Epithelial cell (alveolar type I),MARK3,1.1360008
+Epithelial cell (suprabasal),MARK3,1.1178919
+Mucous cell,MARK3,0.935425
+Immune (alveolar macrophage),MARK3,0.91853356
+Myofibroblast,MARK3,0.91713804
+Epithelial cell (suprabasal keratinocyte),MARK3,0.9147915
+Epithelial cell (ciliated),MARK3,0.86842036
+Immune (Langerhans),MARK3,0.8645884
+Melanocyte,MARK3,0.86167514
+Epithelial cell (club),MARK3,0.8565355
+Immune (NK cell),MARK3,0.84482086
+Epithelial cell (squamous),MARK3,0.83389574
+Epithelial cell (Hillock),MARK3,0.8317858
+Myocyte (NMJ-rich),MARK3,0.8286712
+Epithelial cell (cornified keratinocyte),MARK3,0.8271436
+Endothelial cell (vascular),MARK3,0.82607013
+Immune (DC/macrophage),MARK3,0.8247795
+Epithelial cell (basal keratinocyte),MARK3,0.823651
+ICCs,MARK3,0.8189166
+Fibroblast,MARK3,0.81036216
+Epithelial cell (basal),MARK3,0.8002644
+Immune (T cell),MARK3,0.7947393
+Immune (DC),MARK3,0.789095
+Immune (mast cell),MARK3,0.785818
+Immune (B cell),MARK3,0.78308797
+Adipocyte,MARK3,0.77284026
+Myocyte (sk. muscle),MARK3,0.77087325
+Sebaceous gland cell,MARK3,0.7662525
+Pericyte/SMC,MARK3,0.76553905
+Schwann cell,MARK3,0.73809224
+Myocyte (smooth muscle),MARK3,0.71809906
+Sweat gland cell,MARK3,0.70692724
+Endothelial cell (lymphatic),MARK3,0.693976
+Satellite cell,MARK3,0.68985194
+Neuronal,MARK3,0.68173504
+Neuroendocrine,MARK3,0.6731582
+Epithelial cell (luminal),MARK3,0.65613747
+Myoepithelial (basal),MARK3,0.6164317
+Epithelial cell (mature keratinocyte),MARK3,0.6146189
+"Myocyte (cardiac, cytoplasmic)",MARK3,0.44609728
+"Myocyte (sk. muscle, cytoplasmic)",MARK3,0.36796445

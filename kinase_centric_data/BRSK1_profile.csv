@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+prostate,Glia,BRSK1,1.0,8.955223880597014
+lung,Immune (myeloid),BRSK1,1.0992907,4.623708804722085
+heart,Glia,BRSK1,1.0,2.684563758389262
+esophagusmucosa,Stromal,BRSK1,1.0434783,2.3255813953488373
+esophagusmuscularis,Glia,BRSK1,1.0,2.1649484536082477
+prostate,Fibroblast,BRSK1,1.0952381,1.838879159369527
+prostate,Muscle,BRSK1,1.025,1.7833259028087385
+breast,Immune (myeloid),BRSK1,1.0,1.675977653631285
+esophagusmucosa,Glia,BRSK1,1.0,1.5384615384615383
+breast,Epithelial cell,BRSK1,1.0348837,1.483014312812554
+lung,Epithelial cell,BRSK1,1.0146627,1.4164070612668742
+esophagusmuscularis,Muscle,BRSK1,1.015544,1.2980025556527002
+esophagusmuscularis,Immune (myeloid),BRSK1,1.0,1.282483968950388
+heart,Immune (myeloid),BRSK1,1.0123457,1.2658227848101269
+lung,Muscle,BRSK1,1.0,1.2269938650306749
+lung,Fibroblast,BRSK1,1.0,1.2195121951219512
+lung,Immune (lymphocyte),BRSK1,1.0,1.103448275862069
+breast,Adipocyte,BRSK1,1.0,1.0789324247586598
+heart,Muscle,BRSK1,1.0,1.0775862068965518
+skeletalmuscle,Immune (lymphocyte),BRSK1,1.0,1.0
+esophagusmucosa,Muscle,BRSK1,1.0,0.998003992015968
+skin,Epithelial cell,BRSK1,1.0,0.9966777408637874
+esophagusmucosa,Fibroblast,BRSK1,1.0,0.9591474245115452
+skin,Endothelial cell,BRSK1,1.0,0.8797653958944283
+prostate,Immune (myeloid),BRSK1,1.0,0.8754863813229572
+prostate,Epithelial cell,BRSK1,1.0053476,0.8104711134226151
+lung,Endothelial cell,BRSK1,1.0476191,0.764748725418791
+skin,Melanocyte,BRSK1,1.0,0.7352941176470588
+heart,Fibroblast,BRSK1,1.0147059,0.7322063098955529
+esophagusmucosa,Immune (myeloid),BRSK1,1.0,0.7153075822603719
+skeletalmuscle,Immune (myeloid),BRSK1,1.0,0.6784260515603799
+esophagusmuscularis,Immune (lymphocyte),BRSK1,1.0,0.6644518272425249
+skin,Other,BRSK1,1.0,0.6637168141592921
+breast,Muscle,BRSK1,1.0,0.6578947368421052
+esophagusmucosa,Immune (lymphocyte),BRSK1,1.0,0.605060506050605
+esophagusmuscularis,Fibroblast,BRSK1,1.016129,0.5956383898549332
+esophagusmucosa,Epithelial cell,BRSK1,1.025,0.5798782255726298
+esophagusmuscularis,Adipocyte,BRSK1,1.0,0.5714285714285714
+breast,Endothelial cell,BRSK1,1.0,0.5675368898978433
+skin,Fibroblast,BRSK1,1.0,0.5671077504725899
+skin,Muscle,BRSK1,1.0,0.5376344086021506
+skeletalmuscle,Endothelial cell,BRSK1,1.1428572,0.5259203606311045
+breast,Fibroblast,BRSK1,1.0,0.4884004884004884
+skeletalmuscle,Fibroblast,BRSK1,1.0344827,0.4878869448183042
+esophagusmuscularis,Endothelial cell,BRSK1,1.0,0.4483299708585518
+heart,Endothelial cell,BRSK1,1.0,0.4453176162409954
+esophagusmucosa,Endothelial cell,BRSK1,1.0,0.4275331338178709
+prostate,Endothelial cell,BRSK1,1.0,0.4246284501061571
+skeletalmuscle,Muscle,BRSK1,1.0131578,0.3367152540871029
+skin,Epithelial cell (keratinocyte),BRSK1,1.0,0.2568053415511042
+heart,Immune (lymphocyte),BRSK1,1.0,0.1432664756446991
+esophagusmuscularis,Neuron,BRSK1,0.0,0.0
+heart,Adipocyte,BRSK1,0.0,0.0
+skeletalmuscle,Adipocyte,BRSK1,0.0,0.0
+prostate,Immune (lymphocyte),BRSK1,0.0,0.0
+skin,Adipocyte,BRSK1,0.0,0.0
+skeletalmuscle,Glia,BRSK1,0.0,0.0
+skin,Immune (lymphocyte),BRSK1,0.0,0.0
+skin,Immune (myeloid),BRSK1,0.0,0.0

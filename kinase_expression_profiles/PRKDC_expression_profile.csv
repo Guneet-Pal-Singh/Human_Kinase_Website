@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (basal),PRKDC,0.6877199
+Immune (Langerhans),PRKDC,0.63220847
+Sebaceous gland cell,PRKDC,0.63167065
+Epithelial cell (suprabasal),PRKDC,0.62833995
+Myofibroblast,PRKDC,0.6217766
+Epithelial cell (Hillock),PRKDC,0.58425754
+Epithelial cell (basal keratinocyte),PRKDC,0.57415545
+Neuroendocrine,PRKDC,0.5670581
+Immune (alveolar macrophage),PRKDC,0.557344
+Immune (T cell),PRKDC,0.5462807
+Epithelial cell (club),PRKDC,0.53797334
+Epithelial cell (ciliated),PRKDC,0.5290659
+Myoepithelial (basal),PRKDC,0.51207924
+ICCs,PRKDC,0.5011701
+Myocyte (cardiac),PRKDC,0.49510646
+Melanocyte,PRKDC,0.47986165
+Epithelial cell (luminal),PRKDC,0.46994147
+Epithelial cell (alveolar type II),PRKDC,0.4611057
+Neuronal,PRKDC,0.45940837
+Mucous cell,PRKDC,0.45808193
+Immune (NK cell),PRKDC,0.45247027
+Adipocyte,PRKDC,0.43213904
+Sweat gland cell,PRKDC,0.43194565
+Fibroblast,PRKDC,0.431284
+Endothelial cell (vascular),PRKDC,0.4241186
+Myocyte (NMJ-rich),PRKDC,0.4234472
+Immune (DC/macrophage),PRKDC,0.42220086
+Immune (B cell),PRKDC,0.41863245
+Myocyte (smooth muscle),PRKDC,0.41723087
+Epithelial cell (alveolar type I),PRKDC,0.41642904
+Satellite cell,PRKDC,0.40648872
+Epithelial cell (suprabasal keratinocyte),PRKDC,0.40548328
+Myocyte (sk. muscle),PRKDC,0.40275866
+Immune (DC),PRKDC,0.40272534
+Pericyte/SMC,PRKDC,0.40154025
+Endothelial cell (lymphatic),PRKDC,0.39430058
+Schwann cell,PRKDC,0.37510905
+Immune (mast cell),PRKDC,0.37400547
+Epithelial cell (mature keratinocyte),PRKDC,0.35384357
+"Myocyte (cardiac, cytoplasmic)",PRKDC,0.23300463
+"Myocyte (sk. muscle, cytoplasmic)",PRKDC,0.2101685
+Epithelial cell (squamous),PRKDC,0.16908503
+Epithelial cell (cornified keratinocyte),PRKDC,0.106963664

@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Myocyte (cardiac),LATS1,0.50356966
+Neuroendocrine,LATS1,0.40527824
+Mucous cell,LATS1,0.3803427
+ICCs,LATS1,0.3670286
+Immune (alveolar macrophage),LATS1,0.3646203
+Neuronal,LATS1,0.3459918
+Epithelial cell (alveolar type I),LATS1,0.34577328
+Immune (T cell),LATS1,0.32071817
+Immune (DC/macrophage),LATS1,0.30511627
+Epithelial cell (alveolar type II),LATS1,0.30248275
+Myofibroblast,LATS1,0.30041873
+Fibroblast,LATS1,0.2740101
+Epithelial cell (suprabasal),LATS1,0.27196035
+Epithelial cell (club),LATS1,0.26820287
+Immune (NK cell),LATS1,0.26737893
+Epithelial cell (basal),LATS1,0.26522642
+Adipocyte,LATS1,0.264567
+Epithelial cell (luminal),LATS1,0.26225543
+Myocyte (smooth muscle),LATS1,0.25842255
+Immune (DC),LATS1,0.25783265
+Schwann cell,LATS1,0.25316453
+Pericyte/SMC,LATS1,0.24624
+Immune (mast cell),LATS1,0.23673844
+Myocyte (NMJ-rich),LATS1,0.23652841
+Epithelial cell (Hillock),LATS1,0.229383
+Immune (B cell),LATS1,0.22596715
+Endothelial cell (lymphatic),LATS1,0.22287007
+Endothelial cell (vascular),LATS1,0.2204294
+Epithelial cell (ciliated),LATS1,0.21802762
+Satellite cell,LATS1,0.2014014
+Melanocyte,LATS1,0.19580711
+Sweat gland cell,LATS1,0.19378461
+Epithelial cell (basal keratinocyte),LATS1,0.1871462
+Myoepithelial (basal),LATS1,0.18303803
+Myocyte (sk. muscle),LATS1,0.17899364
+Epithelial cell (suprabasal keratinocyte),LATS1,0.13758141
+Epithelial cell (mature keratinocyte),LATS1,0.1187092
+Sebaceous gland cell,LATS1,0.10858555
+Epithelial cell (squamous),LATS1,0.10347159
+Epithelial cell (cornified keratinocyte),LATS1,0.09130947
+"Myocyte (sk. muscle, cytoplasmic)",LATS1,0.083641306
+"Myocyte (cardiac, cytoplasmic)",LATS1,0.07896206
+Immune (Langerhans),LATS1,0.055408884

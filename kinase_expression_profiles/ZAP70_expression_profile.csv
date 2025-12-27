@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (NK cell),ZAP70,0.60903805
+Immune (T cell),ZAP70,0.41653574
+Neuronal,ZAP70,0.063769475
+Myofibroblast,ZAP70,0.03780833
+Immune (B cell),ZAP70,0.026662061
+Immune (mast cell),ZAP70,0.01981348
+Myoepithelial (basal),ZAP70,0.017745312
+Epithelial cell (basal keratinocyte),ZAP70,0.013748275
+Mucous cell,ZAP70,0.012902231
+Immune (alveolar macrophage),ZAP70,0.01238192
+Epithelial cell (squamous),ZAP70,0.012255223
+Satellite cell,ZAP70,0.009129132
+Epithelial cell (basal),ZAP70,0.008885239
+Epithelial cell (luminal),ZAP70,0.008193675
+Epithelial cell (alveolar type II),ZAP70,0.007929614
+Epithelial cell (ciliated),ZAP70,0.006923206
+Epithelial cell (alveolar type I),ZAP70,0.0067280713
+Pericyte/SMC,ZAP70,0.0066291243
+Immune (DC/macrophage),ZAP70,0.0061344593
+Epithelial cell (suprabasal),ZAP70,0.0055741826
+Myocyte (sk. muscle),ZAP70,0.0050531058
+Fibroblast,ZAP70,0.0049288487
+Epithelial cell (club),ZAP70,0.0045258403
+Myocyte (smooth muscle),ZAP70,0.004452289
+Endothelial cell (vascular),ZAP70,0.0043890215
+Adipocyte,ZAP70,0.003581561
+"Myocyte (cardiac, cytoplasmic)",ZAP70,0.0035712672
+Myocyte (cardiac),ZAP70,0.002926582
+Endothelial cell (lymphatic),ZAP70,0.002235246
+Schwann cell,ZAP70,0.002202963
+Epithelial cell (Hillock),ZAP70,0.0018495192
+Epithelial cell (cornified keratinocyte),ZAP70,0.0
+Epithelial cell (mature keratinocyte),ZAP70,0.0
+Epithelial cell (suprabasal keratinocyte),ZAP70,0.0
+ICCs,ZAP70,0.0
+Melanocyte,ZAP70,0.0
+Immune (Langerhans),ZAP70,0.0
+Immune (DC),ZAP70,0.0
+Myocyte (NMJ-rich),ZAP70,0.0
+"Myocyte (sk. muscle, cytoplasmic)",ZAP70,0.0
+Neuroendocrine,ZAP70,0.0
+Sebaceous gland cell,ZAP70,0.0
+Sweat gland cell,ZAP70,0.0

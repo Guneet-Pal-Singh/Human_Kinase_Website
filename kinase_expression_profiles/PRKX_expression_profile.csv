@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (mast cell),PRKX,1.013308
+Epithelial cell (suprabasal),PRKX,0.80086416
+Satellite cell,PRKX,0.5397462
+Immune (T cell),PRKX,0.5366658
+Epithelial cell (basal),PRKX,0.52972114
+Immune (NK cell),PRKX,0.5052694
+Epithelial cell (mature keratinocyte),PRKX,0.4446113
+Endothelial cell (vascular),PRKX,0.38778573
+Epithelial cell (cornified keratinocyte),PRKX,0.37104875
+Immune (DC/macrophage),PRKX,0.3642616
+Mucous cell,PRKX,0.35632595
+Schwann cell,PRKX,0.3475065
+Epithelial cell (basal keratinocyte),PRKX,0.32713747
+Myofibroblast,PRKX,0.319288
+Immune (alveolar macrophage),PRKX,0.29112613
+Sweat gland cell,PRKX,0.27747527
+Epithelial cell (Hillock),PRKX,0.27706343
+Myocyte (NMJ-rich),PRKX,0.27484462
+Epithelial cell (suprabasal keratinocyte),PRKX,0.26901692
+Immune (B cell),PRKX,0.26901034
+Neuronal,PRKX,0.25431615
+Neuroendocrine,PRKX,0.23227878
+Pericyte/SMC,PRKX,0.23000225
+Sebaceous gland cell,PRKX,0.22105248
+Endothelial cell (lymphatic),PRKX,0.21891113
+Epithelial cell (squamous),PRKX,0.20470157
+Myoepithelial (basal),PRKX,0.17198244
+Melanocyte,PRKX,0.1680618
+Immune (DC),PRKX,0.15826374
+Epithelial cell (ciliated),PRKX,0.14813922
+Fibroblast,PRKX,0.14643085
+Epithelial cell (luminal),PRKX,0.14313981
+Epithelial cell (club),PRKX,0.1414274
+ICCs,PRKX,0.11245716
+Myocyte (smooth muscle),PRKX,0.08872226
+Immune (Langerhans),PRKX,0.08534343
+Epithelial cell (alveolar type I),PRKX,0.07543427
+Epithelial cell (alveolar type II),PRKX,0.069721654
+Myocyte (cardiac),PRKX,0.059185013
+Adipocyte,PRKX,0.057507586
+"Myocyte (cardiac, cytoplasmic)",PRKX,0.049657144
+"Myocyte (sk. muscle, cytoplasmic)",PRKX,0.044430807
+Myocyte (sk. muscle),PRKX,0.022680545

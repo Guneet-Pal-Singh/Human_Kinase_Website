@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (DC),ALPK1,0.83934873
+ICCs,ALPK1,0.59650713
+Immune (alveolar macrophage),ALPK1,0.5596311
+Mucous cell,ALPK1,0.5433864
+Epithelial cell (mature keratinocyte),ALPK1,0.5389841
+Immune (Langerhans),ALPK1,0.5049317
+Epithelial cell (club),ALPK1,0.499675
+Epithelial cell (Hillock),ALPK1,0.4876926
+Epithelial cell (alveolar type II),ALPK1,0.4679193
+Epithelial cell (suprabasal keratinocyte),ALPK1,0.41568208
+Myocyte (smooth muscle),ALPK1,0.4155597
+Epithelial cell (ciliated),ALPK1,0.4011928
+Epithelial cell (luminal),ALPK1,0.39224628
+Schwann cell,ALPK1,0.38980803
+Epithelial cell (suprabasal),ALPK1,0.38521022
+Epithelial cell (basal),ALPK1,0.38044682
+Myoepithelial (basal),ALPK1,0.37703097
+Immune (DC/macrophage),ALPK1,0.36895642
+Sebaceous gland cell,ALPK1,0.35573512
+Myofibroblast,ALPK1,0.31562167
+Epithelial cell (basal keratinocyte),ALPK1,0.30959222
+Epithelial cell (alveolar type I),ALPK1,0.30687883
+Melanocyte,ALPK1,0.29021323
+Sweat gland cell,ALPK1,0.26449227
+Fibroblast,ALPK1,0.25808087
+Endothelial cell (vascular),ALPK1,0.25082794
+Immune (B cell),ALPK1,0.25001597
+Immune (mast cell),ALPK1,0.23380631
+Adipocyte,ALPK1,0.2253094
+Epithelial cell (cornified keratinocyte),ALPK1,0.21395291
+Neuronal,ALPK1,0.18856455
+Pericyte/SMC,ALPK1,0.18039605
+Epithelial cell (squamous),ALPK1,0.14810057
+Endothelial cell (lymphatic),ALPK1,0.12176367
+Satellite cell,ALPK1,0.118034735
+Myocyte (cardiac),ALPK1,0.08027592
+Immune (T cell),ALPK1,0.063937135
+Myocyte (NMJ-rich),ALPK1,0.053553566
+Immune (NK cell),ALPK1,0.037733108
+Myocyte (sk. muscle),ALPK1,0.034607563
+"Myocyte (cardiac, cytoplasmic)",ALPK1,0.030985815
+"Myocyte (sk. muscle, cytoplasmic)",ALPK1,0.01977073
+Neuroendocrine,ALPK1,0.0

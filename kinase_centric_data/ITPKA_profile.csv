@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Neuron,ITPKA,2.0,4.0
+heart,Muscle,ITPKA,1.054054,0.613395225464191
+lung,Immune (lymphocyte),ITPKA,1.0,0.4137931034482758
+skin,Melanocyte,ITPKA,1.0,0.3676470588235294
+lung,Endothelial cell,ITPKA,1.0,0.3641660597232338
+heart,Glia,ITPKA,1.0,0.3355704697986577
+lung,Immune (myeloid),ITPKA,1.0,0.2951303492375799
+esophagusmucosa,Immune (lymphocyte),ITPKA,1.0,0.275027502750275
+prostate,Muscle,ITPKA,1.2,0.2229157378510923
+esophagusmucosa,Muscle,ITPKA,1.0,0.1996007984031935
+prostate,Immune (myeloid),ITPKA,1.0,0.1945525291828793
+prostate,Fibroblast,ITPKA,1.0,0.1751313485113835
+esophagusmucosa,Epithelial cell,ITPKA,1.0,0.1449695563931574
+esophagusmucosa,Fibroblast,ITPKA,1.0,0.1420959147424511
+prostate,Epithelial cell,ITPKA,1.0,0.138690244008148
+skeletalmuscle,Muscle,ITPKA,1.0,0.1373443799565814
+skeletalmuscle,Immune (myeloid),ITPKA,1.0,0.1356852103120759
+breast,Adipocyte,ITPKA,1.0,0.1135718341851221
+heart,Immune (myeloid),ITPKA,1.0,0.1093920925144553
+lung,Epithelial cell,ITPKA,1.0,0.0996884735202492
+esophagusmuscularis,Muscle,ITPKA,1.0,0.0874302239558813
+esophagusmuscularis,Fibroblast,ITPKA,1.0,0.0768565664328946
+heart,Fibroblast,ITPKA,1.0,0.0753741789598363
+esophagusmucosa,Immune (myeloid),ITPKA,1.0,0.0715307582260371
+lung,Fibroblast,ITPKA,1.0,0.067750677506775
+heart,Endothelial cell,ITPKA,1.0,0.0654878847413228
+skin,Epithelial cell (keratinocyte),ITPKA,1.0,0.0513610683102208
+skeletalmuscle,Fibroblast,ITPKA,1.0,0.0504710632570659
+esophagusmuscularis,Immune (myeloid),ITPKA,1.0,0.0337495781302733
+esophagusmucosa,Endothelial cell,ITPKA,1.0,0.0213766566908935
+heart,Immune (lymphocyte),ITPKA,0.0,0.0
+esophagusmuscularis,Adipocyte,ITPKA,0.0,0.0
+heart,Adipocyte,ITPKA,0.0,0.0
+esophagusmuscularis,Glia,ITPKA,0.0,0.0
+esophagusmucosa,Stromal,ITPKA,0.0,0.0
+breast,Muscle,ITPKA,0.0,0.0
+breast,Immune (myeloid),ITPKA,0.0,0.0
+breast,Epithelial cell,ITPKA,0.0,0.0
+breast,Endothelial cell,ITPKA,0.0,0.0
+breast,Fibroblast,ITPKA,0.0,0.0
+esophagusmuscularis,Endothelial cell,ITPKA,0.0,0.0
+esophagusmuscularis,Immune (lymphocyte),ITPKA,0.0,0.0
+esophagusmucosa,Glia,ITPKA,0.0,0.0
+skeletalmuscle,Adipocyte,ITPKA,0.0,0.0
+prostate,Immune (lymphocyte),ITPKA,0.0,0.0
+prostate,Endothelial cell,ITPKA,0.0,0.0
+prostate,Glia,ITPKA,0.0,0.0
+lung,Muscle,ITPKA,0.0,0.0
+skeletalmuscle,Glia,ITPKA,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),ITPKA,0.0,0.0
+skeletalmuscle,Endothelial cell,ITPKA,0.0,0.0
+skin,Endothelial cell,ITPKA,0.0,0.0
+skin,Adipocyte,ITPKA,0.0,0.0
+skin,Fibroblast,ITPKA,0.0,0.0
+skin,Epithelial cell,ITPKA,0.0,0.0
+skin,Immune (lymphocyte),ITPKA,0.0,0.0
+skin,Immune (myeloid),ITPKA,0.0,0.0
+skin,Muscle,ITPKA,0.0,0.0
+skin,Other,ITPKA,0.0,0.0

@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Neuronal,LTK,0.44459864
+Melanocyte,LTK,0.092693925
+Epithelial cell (cornified keratinocyte),LTK,0.057388593
+Endothelial cell (vascular),LTK,0.02859661
+Epithelial cell (ciliated),LTK,0.024672506
+Immune (T cell),LTK,0.023494817
+Immune (B cell),LTK,0.023411397
+Sweat gland cell,LTK,0.020017538
+ICCs,LTK,0.011953869
+Mucous cell,LTK,0.011608436
+Schwann cell,LTK,0.0108796
+Myocyte (cardiac),LTK,0.009841258
+Epithelial cell (Hillock),LTK,0.0097187795
+Satellite cell,LTK,0.009529319
+Myocyte (sk. muscle),LTK,0.00921116
+Sebaceous gland cell,LTK,0.009087944
+"Myocyte (sk. muscle, cytoplasmic)",LTK,0.008875667
+Epithelial cell (alveolar type II),LTK,0.008192307
+Epithelial cell (alveolar type I),LTK,0.007973057
+Myocyte (smooth muscle),LTK,0.005878585
+Immune (alveolar macrophage),LTK,0.0053212927
+Epithelial cell (suprabasal),LTK,0.0052841096
+Epithelial cell (basal),LTK,0.0050525917
+Immune (DC/macrophage),LTK,0.004950102
+Adipocyte,LTK,0.004941189
+Fibroblast,LTK,0.004886171
+Epithelial cell (club),LTK,0.0048205224
+Immune (mast cell),LTK,0.0044814358
+Epithelial cell (luminal),LTK,0.0042693373
+"Myocyte (cardiac, cytoplasmic)",LTK,0.0034003863
+Pericyte/SMC,LTK,0.0028908818
+Endothelial cell (lymphatic),LTK,0.0021421725
+Epithelial cell (squamous),LTK,0.0016392668
+Epithelial cell (basal keratinocyte),LTK,0.0
+Epithelial cell (suprabasal keratinocyte),LTK,0.0
+Immune (Langerhans),LTK,0.0
+Immune (DC),LTK,0.0
+Immune (NK cell),LTK,0.0
+Epithelial cell (mature keratinocyte),LTK,0.0
+Myoepithelial (basal),LTK,0.0
+Myocyte (NMJ-rich),LTK,0.0
+Myofibroblast,LTK,0.0
+Neuroendocrine,LTK,0.0

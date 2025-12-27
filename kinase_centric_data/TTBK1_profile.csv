@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Neuron,TTBK1,1.0,12.0
+esophagusmuscularis,Adipocyte,TTBK1,1.0,1.7142857142857144
+skin,Adipocyte,TTBK1,1.0,1.6129032258064515
+lung,Immune (myeloid),TTBK1,1.0,1.0657484833579276
+skeletalmuscle,Adipocyte,TTBK1,1.0,0.628930817610063
+lung,Muscle,TTBK1,1.0,0.6134969325153374
+breast,Endothelial cell,TTBK1,1.0,0.5675368898978433
+lung,Immune (lymphocyte),TTBK1,1.0,0.5517241379310345
+lung,Epithelial cell,TTBK1,1.0227273,0.5482866043613708
+heart,Muscle,TTBK1,1.0,0.5470822281167109
+skin,Muscle,TTBK1,1.0,0.5376344086021506
+prostate,Muscle,TTBK1,1.0,0.5349977708426215
+heart,Adipocyte,TTBK1,1.0,0.5181347150259068
+esophagusmuscularis,Muscle,TTBK1,1.0,0.4909543345214876
+skin,Endothelial cell,TTBK1,1.0,0.4887585532746823
+lung,Fibroblast,TTBK1,1.0,0.4742547425474254
+skin,Other,TTBK1,1.0,0.4424778761061947
+skeletalmuscle,Fibroblast,TTBK1,1.0,0.4374158815612382
+esophagusmucosa,Stromal,TTBK1,1.0,0.4044489383215369
+heart,Glia,TTBK1,1.0,0.3355704697986577
+esophagusmucosa,Immune (lymphocyte),TTBK1,1.0,0.33003300330033
+lung,Endothelial cell,TTBK1,1.0,0.3277494537509104
+skeletalmuscle,Muscle,TTBK1,1.0,0.3234238624784015
+prostate,Epithelial cell,TTBK1,1.0,0.3163871191435877
+esophagusmuscularis,Glia,TTBK1,1.0,0.3092783505154639
+breast,Immune (myeloid),TTBK1,1.0,0.2793296089385474
+esophagusmuscularis,Immune (myeloid),TTBK1,1.0,0.2699966250421869
+esophagusmuscularis,Endothelial cell,TTBK1,1.0,0.2689979825151311
+esophagusmucosa,Fibroblast,TTBK1,1.0,0.2486678507992895
+heart,Fibroblast,TTBK1,1.0,0.2476580165823193
+esophagusmuscularis,Fibroblast,TTBK1,1.0,0.2305696992986838
+skeletalmuscle,Endothelial cell,TTBK1,1.0,0.2253944402704733
+prostate,Endothelial cell,TTBK1,1.0,0.2123142250530785
+breast,Epithelial cell,TTBK1,1.0833334,0.2069322296947749
+heart,Immune (myeloid),TTBK1,1.0,0.2031567432411314
+esophagusmucosa,Epithelial cell,TTBK1,1.0,0.1957089011307625
+esophagusmucosa,Endothelial cell,TTBK1,1.0,0.1923899102180419
+skin,Fibroblast,TTBK1,1.0,0.1890359168241966
+prostate,Fibroblast,TTBK1,1.0,0.1751313485113835
+skin,Epithelial cell,TTBK1,1.0,0.1661129568106312
+heart,Endothelial cell,TTBK1,1.0,0.1571709233791748
+skin,Epithelial cell (keratinocyte),TTBK1,1.0,0.1540832049306625
+prostate,Immune (lymphocyte),TTBK1,1.0,0.1466275659824047
+heart,Immune (lymphocyte),TTBK1,1.0,0.1432664756446991
+skeletalmuscle,Immune (myeloid),TTBK1,1.0,0.1356852103120759
+breast,Fibroblast,TTBK1,1.0,0.1221001221001221
+breast,Adipocyte,TTBK1,1.0,0.1135718341851221
+prostate,Immune (myeloid),TTBK1,1.0,0.0972762645914396
+breast,Muscle,TTBK1,0.0,0.0
+esophagusmuscularis,Immune (lymphocyte),TTBK1,0.0,0.0
+esophagusmucosa,Glia,TTBK1,0.0,0.0
+esophagusmucosa,Immune (myeloid),TTBK1,0.0,0.0
+esophagusmucosa,Muscle,TTBK1,0.0,0.0
+prostate,Glia,TTBK1,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),TTBK1,0.0,0.0
+skeletalmuscle,Glia,TTBK1,0.0,0.0
+skin,Immune (lymphocyte),TTBK1,0.0,0.0
+skin,Melanocyte,TTBK1,0.0,0.0
+skin,Immune (myeloid),TTBK1,0.0,0.0

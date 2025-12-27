@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (mast cell),SGK1,1.129855
+Sweat gland cell,SGK1,0.84440964
+Epithelial cell (Hillock),SGK1,0.7200792
+Neuroendocrine,SGK1,0.61298794
+Melanocyte,SGK1,0.603483
+Epithelial cell (suprabasal),SGK1,0.5624765
+Epithelial cell (luminal),SGK1,0.5507358
+Immune (alveolar macrophage),SGK1,0.53383636
+Endothelial cell (vascular),SGK1,0.46631697
+Myoepithelial (basal),SGK1,0.46218672
+Epithelial cell (basal),SGK1,0.35132816
+Epithelial cell (mature keratinocyte),SGK1,0.34875625
+Epithelial cell (ciliated),SGK1,0.34093508
+Immune (DC/macrophage),SGK1,0.2643982
+Epithelial cell (basal keratinocyte),SGK1,0.26290604
+Mucous cell,SGK1,0.24923122
+Epithelial cell (suprabasal keratinocyte),SGK1,0.21731803
+Neuronal,SGK1,0.21129599
+Epithelial cell (alveolar type II),SGK1,0.20498927
+Epithelial cell (club),SGK1,0.18145925
+Myofibroblast,SGK1,0.1809508
+Sebaceous gland cell,SGK1,0.13835868
+Schwann cell,SGK1,0.13558248
+Epithelial cell (alveolar type I),SGK1,0.13292907
+"Myocyte (sk. muscle, cytoplasmic)",SGK1,0.12316042
+Endothelial cell (lymphatic),SGK1,0.115129076
+Pericyte/SMC,SGK1,0.114256576
+Immune (Langerhans),SGK1,0.11341534
+Epithelial cell (cornified keratinocyte),SGK1,0.111782
+Epithelial cell (squamous),SGK1,0.110688
+"Myocyte (cardiac, cytoplasmic)",SGK1,0.09550086
+Myocyte (smooth muscle),SGK1,0.09445934
+ICCs,SGK1,0.089816876
+Satellite cell,SGK1,0.08753584
+Myocyte (cardiac),SGK1,0.08352088
+Immune (DC),SGK1,0.08171585
+Myocyte (sk. muscle),SGK1,0.06959613
+Fibroblast,SGK1,0.0686671
+Immune (B cell),SGK1,0.064737506
+Adipocyte,SGK1,0.059216376
+Immune (T cell),SGK1,0.04228877
+Myocyte (NMJ-rich),SGK1,0.03168421
+Immune (NK cell),SGK1,0.025605453

@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Endothelial cell (lymphatic),KALRN,1.7875763
+Pericyte/SMC,KALRN,1.2327188
+Myocyte (NMJ-rich),KALRN,1.183769
+Endothelial cell (vascular),KALRN,1.1153752
+Myocyte (cardiac),KALRN,1.0561892
+Neuronal,KALRN,0.96836567
+Myocyte (smooth muscle),KALRN,0.80733466
+Neuroendocrine,KALRN,0.73165363
+Myocyte (sk. muscle),KALRN,0.7263554
+ICCs,KALRN,0.57104737
+Myofibroblast,KALRN,0.48907474
+Sweat gland cell,KALRN,0.44847366
+Sebaceous gland cell,KALRN,0.392221
+Epithelial cell (ciliated),KALRN,0.39183095
+Myoepithelial (basal),KALRN,0.38988522
+Epithelial cell (luminal),KALRN,0.38798156
+Adipocyte,KALRN,0.38687316
+"Myocyte (cardiac, cytoplasmic)",KALRN,0.3499465
+"Myocyte (sk. muscle, cytoplasmic)",KALRN,0.32681143
+Epithelial cell (suprabasal),KALRN,0.30510738
+Epithelial cell (club),KALRN,0.30103937
+Epithelial cell (basal keratinocyte),KALRN,0.28513744
+Immune (mast cell),KALRN,0.28473938
+Satellite cell,KALRN,0.28466034
+Schwann cell,KALRN,0.26653492
+Melanocyte,KALRN,0.24769056
+Mucous cell,KALRN,0.24264294
+Immune (alveolar macrophage),KALRN,0.22885068
+Epithelial cell (squamous),KALRN,0.21643312
+Epithelial cell (basal),KALRN,0.21321192
+Epithelial cell (cornified keratinocyte),KALRN,0.17383356
+Fibroblast,KALRN,0.1641624
+Epithelial cell (alveolar type II),KALRN,0.15366954
+Epithelial cell (alveolar type I),KALRN,0.13505964
+Epithelial cell (Hillock),KALRN,0.10201349
+Immune (NK cell),KALRN,0.10149453
+Immune (DC),KALRN,0.09019094
+Immune (Langerhans),KALRN,0.068308085
+Epithelial cell (suprabasal keratinocyte),KALRN,0.06399456
+Immune (T cell),KALRN,0.05454139
+Immune (DC/macrophage),KALRN,0.051069506
+Epithelial cell (mature keratinocyte),KALRN,0.022065517
+Immune (B cell),KALRN,0.009544183

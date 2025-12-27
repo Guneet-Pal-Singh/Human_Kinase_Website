@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Glia,ERBB3,1.2061856,20.0
+skeletalmuscle,Glia,ERBB3,1.0,20.0
+esophagusmucosa,Glia,ERBB3,1.4545455,16.923076923076923
+heart,Glia,ERBB3,1.2083334,16.10738255033557
+prostate,Glia,ERBB3,1.1111112,13.432835820895525
+esophagusmucosa,Epithelial cell,ERBB3,1.2436278,12.22818208176283
+skin,Epithelial cell (keratinocyte),ERBB3,1.1402715,11.350796096558808
+skin,Epithelial cell,ERBB3,1.2089552,11.129568106312291
+prostate,Epithelial cell,ERBB3,1.161276,9.781996272699692
+lung,Epithelial cell,ERBB3,1.1115158,9.12564901349948
+breast,Epithelial cell,ERBB3,1.1750664,6.501120882910846
+skin,Other,ERBB3,1.0416666,5.3097345132743365
+skin,Melanocyte,ERBB3,1.0909091,4.044117647058823
+esophagusmucosa,Stromal,ERBB3,1.0333333,3.0333670374115265
+lung,Muscle,ERBB3,1.0,2.4539877300613497
+esophagusmuscularis,Adipocyte,ERBB3,1.0,2.2857142857142856
+lung,Immune (myeloid),ERBB3,1.0267857,1.8363666174782751
+breast,Fibroblast,ERBB3,1.0769231,1.5873015873015872
+prostate,Muscle,ERBB3,1.0666667,1.337494427106554
+skin,Immune (lymphocyte),ERBB3,1.0,1.3333333333333337
+heart,Muscle,ERBB3,1.0268457,1.235079575596817
+lung,Fibroblast,ERBB3,1.0,1.2195121951219512
+lung,Endothelial cell,ERBB3,1.0,1.2017479970866711
+skeletalmuscle,Muscle,ERBB3,1.0214592,1.0322980816091445
+breast,Endothelial cell,ERBB3,1.0,1.021566401816118
+skeletalmuscle,Immune (lymphocyte),ERBB3,1.0,1.0
+prostate,Fibroblast,ERBB3,1.2,0.8756567425569177
+heart,Immune (lymphocyte),ERBB3,1.0,0.7163323782234957
+esophagusmuscularis,Muscle,ERBB3,1.0476191,0.706167193489811
+esophagusmuscularis,Immune (myeloid),ERBB3,1.0,0.6749915626054674
+skeletalmuscle,Adipocyte,ERBB3,1.0,0.628930817610063
+esophagusmuscularis,Fibroblast,ERBB3,1.015625,0.6148525314631569
+prostate,Immune (lymphocyte),ERBB3,1.0,0.5865102639296188
+skin,Immune (myeloid),ERBB3,1.0,0.5586592178770949
+esophagusmucosa,Endothelial cell,ERBB3,1.0,0.5557930739632322
+heart,Fibroblast,ERBB3,1.0196079,0.5491547324216647
+skeletalmuscle,Immune (myeloid),ERBB3,1.0,0.5427408412483039
+skin,Muscle,ERBB3,1.0,0.5376344086021506
+esophagusmucosa,Fibroblast,ERBB3,1.0,0.5328596802841918
+skeletalmuscle,Endothelial cell,ERBB3,1.0,0.5259203606311045
+esophagusmucosa,Immune (myeloid),ERBB3,1.0,0.5007153075822603
+prostate,Endothelial cell,ERBB3,1.1428572,0.4953998584571833
+prostate,Immune (myeloid),ERBB3,1.2,0.4863813229571984
+esophagusmuscularis,Endothelial cell,ERBB3,1.0476191,0.4707464694014795
+skeletalmuscle,Fibroblast,ERBB3,1.0,0.4205921938088829
+lung,Immune (lymphocyte),ERBB3,1.0,0.4137931034482758
+esophagusmucosa,Muscle,ERBB3,1.5,0.3992015968063871
+heart,Immune (myeloid),ERBB3,1.0,0.3125488357555868
+heart,Endothelial cell,ERBB3,1.0,0.2881466928618206
+breast,Adipocyte,ERBB3,1.0,0.2839295854628052
+breast,Immune (myeloid),ERBB3,1.0,0.2793296089385474
+esophagusmucosa,Immune (lymphocyte),ERBB3,1.0,0.275027502750275
+skin,Endothelial cell,ERBB3,1.0,0.0977517106549364
+esophagusmuscularis,Immune (lymphocyte),ERBB3,0.0,0.0
+breast,Muscle,ERBB3,0.0,0.0
+esophagusmuscularis,Neuron,ERBB3,0.0,0.0
+heart,Adipocyte,ERBB3,0.0,0.0
+skin,Adipocyte,ERBB3,0.0,0.0
+skin,Fibroblast,ERBB3,0.0,0.0

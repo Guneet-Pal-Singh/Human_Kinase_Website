@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (mature keratinocyte),CDC42BPG,0.26873586
+Epithelial cell (suprabasal),CDC42BPG,0.20066756
+Sebaceous gland cell,CDC42BPG,0.1695209
+Epithelial cell (squamous),CDC42BPG,0.15172978
+Epithelial cell (basal keratinocyte),CDC42BPG,0.13495393
+Epithelial cell (cornified keratinocyte),CDC42BPG,0.13127922
+Epithelial cell (suprabasal keratinocyte),CDC42BPG,0.12574483
+Mucous cell,CDC42BPG,0.11778116
+Epithelial cell (basal),CDC42BPG,0.06974574
+Myoepithelial (basal),CDC42BPG,0.0677186
+Epithelial cell (Hillock),CDC42BPG,0.06759454
+Sweat gland cell,CDC42BPG,0.06358879
+Myofibroblast,CDC42BPG,0.059025545
+Epithelial cell (alveolar type I),CDC42BPG,0.045003537
+Epithelial cell (ciliated),CDC42BPG,0.04063755
+Neuroendocrine,CDC42BPG,0.03753757
+Epithelial cell (club),CDC42BPG,0.037122954
+Epithelial cell (luminal),CDC42BPG,0.034439478
+Epithelial cell (alveolar type II),CDC42BPG,0.022010976
+Myocyte (sk. muscle),CDC42BPG,0.015004751
+Immune (B cell),CDC42BPG,0.0114122275
+Endothelial cell (vascular),CDC42BPG,0.00872473
+Myocyte (cardiac),CDC42BPG,0.008339367
+Immune (mast cell),CDC42BPG,0.008132795
+Immune (alveolar macrophage),CDC42BPG,0.0076056276
+Pericyte/SMC,CDC42BPG,0.006747415
+Immune (T cell),CDC42BPG,0.0057461765
+Melanocyte,CDC42BPG,0.005663437
+Endothelial cell (lymphatic),CDC42BPG,0.0055075376
+Myocyte (smooth muscle),CDC42BPG,0.003880038
+Adipocyte,CDC42BPG,0.0036731688
+Schwann cell,CDC42BPG,0.0035093338
+Immune (DC/macrophage),CDC42BPG,0.0030565034
+Fibroblast,CDC42BPG,0.0028042018
+ICCs,CDC42BPG,0.0
+Immune (Langerhans),CDC42BPG,0.0
+Immune (DC),CDC42BPG,0.0
+Immune (NK cell),CDC42BPG,0.0
+Myocyte (NMJ-rich),CDC42BPG,0.0
+"Myocyte (sk. muscle, cytoplasmic)",CDC42BPG,0.0
+"Myocyte (cardiac, cytoplasmic)",CDC42BPG,0.0
+Neuronal,CDC42BPG,0.0
+Satellite cell,CDC42BPG,0.0

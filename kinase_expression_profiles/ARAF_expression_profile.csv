@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (luminal),ARAF,0.31738776
+Mucous cell,ARAF,0.2387699
+"Myocyte (cardiac, cytoplasmic)",ARAF,0.20313632
+Myocyte (cardiac),ARAF,0.18773249
+Myofibroblast,ARAF,0.18765563
+Epithelial cell (club),ARAF,0.18204786
+Epithelial cell (suprabasal),ARAF,0.1719345
+"Myocyte (sk. muscle, cytoplasmic)",ARAF,0.16814369
+ICCs,ARAF,0.16185075
+Neuronal,ARAF,0.15143438
+Epithelial cell (suprabasal keratinocyte),ARAF,0.14925638
+Immune (DC),ARAF,0.14679067
+Epithelial cell (basal),ARAF,0.14642604
+Myocyte (smooth muscle),ARAF,0.14530544
+Epithelial cell (Hillock),ARAF,0.13400118
+Sweat gland cell,ARAF,0.12952797
+Endothelial cell (lymphatic),ARAF,0.12849942
+Epithelial cell (squamous),ARAF,0.123255335
+Neuroendocrine,ARAF,0.12043517
+Immune (Langerhans),ARAF,0.119748384
+Pericyte/SMC,ARAF,0.11760474
+Immune (DC/macrophage),ARAF,0.11422686
+Adipocyte,ARAF,0.11312405
+Fibroblast,ARAF,0.102199845
+Immune (alveolar macrophage),ARAF,0.10043874
+Satellite cell,ARAF,0.09648274
+Epithelial cell (alveolar type II),ARAF,0.095057964
+Schwann cell,ARAF,0.09420932
+Endothelial cell (vascular),ARAF,0.09408622
+Epithelial cell (mature keratinocyte),ARAF,0.09220242
+Immune (B cell),ARAF,0.091906495
+Epithelial cell (ciliated),ARAF,0.091704614
+Epithelial cell (basal keratinocyte),ARAF,0.09104485
+Epithelial cell (alveolar type I),ARAF,0.09001128
+Immune (T cell),ARAF,0.087521106
+Immune (mast cell),ARAF,0.083810896
+Immune (NK cell),ARAF,0.075615264
+Melanocyte,ARAF,0.07476327
+Myocyte (NMJ-rich),ARAF,0.063979425
+Myoepithelial (basal),ARAF,0.05370204
+Sebaceous gland cell,ARAF,0.05204858
+Epithelial cell (cornified keratinocyte),ARAF,0.037574936
+Myocyte (sk. muscle),ARAF,0.033738386

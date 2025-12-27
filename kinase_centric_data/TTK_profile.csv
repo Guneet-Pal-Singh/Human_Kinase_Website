@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skin,Epithelial cell (keratinocyte),TTK,1.1525424,3.0303030303030303
+esophagusmucosa,Epithelial cell,TTK,1.1455696,2.290518991011888
+skin,Immune (myeloid),TTK,1.0,1.675977653631285
+skin,Immune (lymphocyte),TTK,2.0,1.3333333333333337
+lung,Muscle,TTK,1.0,1.2269938650306749
+skin,Other,TTK,1.0,1.106194690265487
+prostate,Immune (myeloid),TTK,1.0,0.8754863813229572
+breast,Immune (myeloid),TTK,1.0,0.8379888268156425
+esophagusmucosa,Stromal,TTK,1.1428572,0.7077856420626896
+breast,Muscle,TTK,1.0,0.6578947368421052
+lung,Immune (myeloid),TTK,1.0,0.6394490900147565
+skeletalmuscle,Adipocyte,TTK,1.0,0.628930817610063
+esophagusmucosa,Immune (myeloid),TTK,1.0,0.5722460658082975
+skin,Muscle,TTK,1.0,0.5376344086021506
+lung,Epithelial cell,TTK,1.018868,0.4402907580477674
+esophagusmuscularis,Immune (myeloid),TTK,1.0,0.4387445156935539
+heart,Glia,TTK,1.0,0.3355704697986577
+skin,Epithelial cell,TTK,1.0,0.3322259136212624
+esophagusmucosa,Immune (lymphocyte),TTK,1.0,0.33003300330033
+prostate,Epithelial cell,TTK,1.2027028,0.3207211892688423
+prostate,Immune (lymphocyte),TTK,1.0,0.2932551319648094
+skin,Endothelial cell,TTK,1.0,0.2932551319648094
+heart,Immune (lymphocyte),TTK,1.0,0.2865329512893982
+skeletalmuscle,Immune (myeloid),TTK,1.5,0.2713704206241519
+lung,Fibroblast,TTK,1.0,0.2710027100271002
+lung,Endothelial cell,TTK,1.0,0.2549162418062636
+skeletalmuscle,Endothelial cell,TTK,1.0,0.2253944402704733
+esophagusmucosa,Endothelial cell,TTK,1.0,0.1923899102180419
+heart,Immune (myeloid),TTK,1.0,0.1562744178777934
+breast,Epithelial cell,TTK,1.0,0.1379548197965166
+lung,Immune (lymphocyte),TTK,1.0,0.1379310344827586
+heart,Muscle,TTK,1.0666667,0.1243368700265251
+breast,Fibroblast,TTK,1.0,0.1221001221001221
+breast,Endothelial cell,TTK,1.0,0.1135073779795686
+prostate,Endothelial cell,TTK,1.0,0.1061571125265392
+esophagusmuscularis,Glia,TTK,1.0,0.1030927835051546
+esophagusmuscularis,Muscle,TTK,1.0,0.0941556257986414
+esophagusmuscularis,Endothelial cell,TTK,1.0,0.0896659941717103
+heart,Endothelial cell,TTK,1.0,0.0785854616895874
+esophagusmucosa,Fibroblast,TTK,1.0,0.0710479573712255
+skeletalmuscle,Muscle,TTK,1.0,0.0664569580435071
+breast,Adipocyte,TTK,1.0,0.056785917092561
+heart,Fibroblast,TTK,1.0,0.0538386992570259
+esophagusmuscularis,Fibroblast,TTK,1.0,0.0480353540205591
+prostate,Muscle,TTK,1.0,0.0445831475702184
+skeletalmuscle,Fibroblast,TTK,1.0,0.0336473755047106
+heart,Adipocyte,TTK,0.0,0.0
+esophagusmucosa,Muscle,TTK,0.0,0.0
+esophagusmucosa,Glia,TTK,0.0,0.0
+esophagusmuscularis,Adipocyte,TTK,0.0,0.0
+esophagusmuscularis,Immune (lymphocyte),TTK,0.0,0.0
+esophagusmuscularis,Neuron,TTK,0.0,0.0
+prostate,Glia,TTK,0.0,0.0
+prostate,Fibroblast,TTK,0.0,0.0
+skeletalmuscle,Glia,TTK,0.0,0.0
+skin,Adipocyte,TTK,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),TTK,0.0,0.0
+skin,Fibroblast,TTK,0.0,0.0
+skin,Melanocyte,TTK,0.0,0.0

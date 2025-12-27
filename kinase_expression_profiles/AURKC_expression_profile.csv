@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (cornified keratinocyte),AURKC,0.05236473
+Neuronal,AURKC,0.04330386
+Satellite cell,AURKC,0.03544165
+Neuroendocrine,AURKC,0.03132294
+Sweat gland cell,AURKC,0.030531596
+Epithelial cell (mature keratinocyte),AURKC,0.028269643
+Sebaceous gland cell,AURKC,0.027191425
+Myocyte (sk. muscle),AURKC,0.020419974
+Myocyte (cardiac),AURKC,0.01964434
+Epithelial cell (suprabasal keratinocyte),AURKC,0.019223532
+Adipocyte,AURKC,0.01710506
+Epithelial cell (squamous),AURKC,0.016839907
+ICCs,AURKC,0.016261496
+Melanocyte,AURKC,0.01384997
+Immune (alveolar macrophage),AURKC,0.013397819
+Epithelial cell (suprabasal),AURKC,0.013384699
+Schwann cell,AURKC,0.013274279
+Myofibroblast,AURKC,0.012427105
+Myocyte (smooth muscle),AURKC,0.011920609
+Myoepithelial (basal),AURKC,0.0113337375
+Epithelial cell (ciliated),AURKC,0.0096226
+Mucous cell,AURKC,0.008549672
+"Myocyte (sk. muscle, cytoplasmic)",AURKC,0.007841867
+Fibroblast,AURKC,0.0078085125
+Epithelial cell (alveolar type I),AURKC,0.00746893
+Epithelial cell (basal),AURKC,0.006686816
+Epithelial cell (basal keratinocyte),AURKC,0.006471788
+Epithelial cell (luminal),AURKC,0.0064058695
+Pericyte/SMC,AURKC,0.0063553588
+Endothelial cell (vascular),AURKC,0.0054581943
+Immune (DC/macrophage),AURKC,0.0047790413
+Immune (mast cell),AURKC,0.004674132
+Immune (T cell),AURKC,0.0044516036
+Epithelial cell (club),AURKC,0.0043519856
+"Myocyte (cardiac, cytoplasmic)",AURKC,0.0038357847
+Endothelial cell (lymphatic),AURKC,0.003828752
+Epithelial cell (alveolar type II),AURKC,0.002787895
+Epithelial cell (Hillock),AURKC,0.002141829
+Immune (B cell),AURKC,0.0
+Immune (Langerhans),AURKC,0.0
+Immune (DC),AURKC,0.0
+Immune (NK cell),AURKC,0.0
+Myocyte (NMJ-rich),AURKC,0.0

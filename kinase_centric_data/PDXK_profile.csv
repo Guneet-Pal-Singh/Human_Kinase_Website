@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+breast,Adipocyte,PDXK,1.4853333,42.58943781942078
+esophagusmuscularis,Adipocyte,PDXK,1.3880597,38.285714285714285
+heart,Adipocyte,PDXK,1.1458334,24.870466321243523
+skin,Adipocyte,PDXK,1.2857143,22.58064516129032
+skin,Epithelial cell,PDXK,1.3870968,20.59800664451827
+esophagusmuscularis,Neuron,PDXK,1.0,20.0
+esophagusmucosa,Epithelial cell,PDXK,1.2568122,19.41867207886344
+skeletalmuscle,Adipocyte,PDXK,1.2068965,18.238993710691823
+lung,Immune (myeloid),PDXK,1.2732342,17.642236432202
+skin,Immune (myeloid),PDXK,1.4193548,17.318435754189945
+lung,Epithelial cell,PDXK,1.1611111,16.448598130841123
+prostate,Immune (myeloid),PDXK,1.2916666,14.007782101167315
+prostate,Epithelial cell,PDXK,1.1868132,12.620812204741473
+esophagusmucosa,Immune (myeloid),PDXK,1.0838324,11.94563662374821
+breast,Immune (myeloid),PDXK,1.1190476,11.731843575418994
+breast,Epithelial cell,PDXK,1.1935484,10.69149853423004
+esophagusmucosa,Stromal,PDXK,1.2,10.111223458038422
+heart,Muscle,PDXK,1.1493399,10.046419098143236
+prostate,Muscle,PDXK,1.1524664,9.942041908158716
+skin,Other,PDXK,1.2325581,9.513274336283184
+heart,Immune (myeloid),PDXK,1.0921739,8.98577902797312
+esophagusmuscularis,Immune (myeloid),PDXK,1.0796813,8.471144110698617
+skeletalmuscle,Immune (myeloid),PDXK,1.0714285,7.598371777476255
+skin,Epithelial cell (keratinocyte),PDXK,1.0791367,7.139188495120699
+esophagusmucosa,Fibroblast,PDXK,1.0816326,6.962699822380107
+skin,Immune (lymphocyte),PDXK,1.0,6.666666666666667
+esophagusmucosa,Glia,PDXK,1.0,6.153846153846154
+prostate,Fibroblast,PDXK,1.0545454,4.816112084063047
+esophagusmucosa,Muscle,PDXK,1.0833334,4.790419161676647
+esophagusmucosa,Endothelial cell,PDXK,1.0654205,4.574604531851219
+prostate,Glia,PDXK,1.0,4.477611940298507
+heart,Fibroblast,PDXK,1.0778589,4.425541078927534
+skin,Endothelial cell,PDXK,1.0952381,4.105571847507331
+esophagusmuscularis,Fibroblast,PDXK,1.0447059,4.083005091747526
+skeletalmuscle,Immune (lymphocyte),PDXK,1.0,4.0
+breast,Muscle,PDXK,1.3333334,3.947368421052632
+esophagusmuscularis,Muscle,PDXK,1.067826,3.86710605958706
+prostate,Endothelial cell,PDXK,1.0833334,3.821656050955414
+esophagusmucosa,Immune (lymphocyte),PDXK,1.0588236,3.74037403740374
+skin,Melanocyte,PDXK,1.4,3.6764705882352944
+prostate,Immune (lymphocyte),PDXK,1.0,3.519061583577713
+heart,Glia,PDXK,1.1111112,3.02013422818792
+esophagusmuscularis,Immune (lymphocyte),PDXK,1.0,2.990033222591362
+skin,Fibroblast,PDXK,1.0666667,2.835538752362949
+esophagusmuscularis,Glia,PDXK,1.074074,2.783505154639176
+lung,Muscle,PDXK,1.0,2.4539877300613497
+skin,Muscle,PDXK,1.0,2.1505376344086025
+skeletalmuscle,Fibroblast,PDXK,1.0347826,1.9347240915208612
+esophagusmuscularis,Endothelial cell,PDXK,1.0232558,1.927818874691773
+heart,Immune (lymphocyte),PDXK,1.0,1.8624641833810889
+lung,Immune (lymphocyte),PDXK,1.0,1.6551724137931034
+lung,Fibroblast,PDXK,1.0869565,1.5582655826558265
+skeletalmuscle,Endothelial cell,PDXK,1.05,1.5026296018031555
+breast,Endothelial cell,PDXK,1.0,1.4755959137343928
+lung,Endothelial cell,PDXK,1.0263158,1.3838310269482883
+heart,Endothelial cell,PDXK,1.0106384,1.2311722331368695
+skeletalmuscle,Muscle,PDXK,1.03,0.8860927739134288
+breast,Fibroblast,PDXK,1.1428572,0.8547008547008548
+skeletalmuscle,Glia,PDXK,0.0,0.0

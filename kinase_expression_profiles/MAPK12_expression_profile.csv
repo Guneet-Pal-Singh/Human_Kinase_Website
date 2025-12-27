@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+"Myocyte (sk. muscle, cytoplasmic)",MAPK12,0.30675745
+Neuronal,MAPK12,0.17142375
+Endothelial cell (vascular),MAPK12,0.11228948
+Immune (mast cell),MAPK12,0.078197725
+ICCs,MAPK12,0.062496476
+Myofibroblast,MAPK12,0.056181412
+Endothelial cell (lymphatic),MAPK12,0.056130957
+Myocyte (smooth muscle),MAPK12,0.054859143
+"Myocyte (cardiac, cytoplasmic)",MAPK12,0.05338403
+Myocyte (sk. muscle),MAPK12,0.04964451
+Immune (B cell),MAPK12,0.046435785
+Myocyte (cardiac),MAPK12,0.039461114
+Epithelial cell (luminal),MAPK12,0.030822529
+Neuroendocrine,MAPK12,0.030114286
+Myoepithelial (basal),MAPK12,0.02801159
+Immune (DC),MAPK12,0.026740061
+Fibroblast,MAPK12,0.01702501
+Epithelial cell (basal),MAPK12,0.0167459
+Adipocyte,MAPK12,0.015610547
+Myocyte (NMJ-rich),MAPK12,0.015187027
+Immune (DC/macrophage),MAPK12,0.015168988
+Schwann cell,MAPK12,0.010828564
+Pericyte/SMC,MAPK12,0.010598617
+Sweat gland cell,MAPK12,0.0071520275
+Immune (NK cell),MAPK12,0.0069098556
+Immune (T cell),MAPK12,0.006507229
+Immune (alveolar macrophage),MAPK12,0.00582206
+Epithelial cell (club),MAPK12,0.005744635
+Epithelial cell (alveolar type II),MAPK12,0.004066126
+Epithelial cell (ciliated),MAPK12,0.0039109113
+Epithelial cell (squamous),MAPK12,0.0034650697
+Epithelial cell (alveolar type I),MAPK12,0.0022762856
+Epithelial cell (suprabasal),MAPK12,0.0021109178
+Epithelial cell (Hillock),MAPK12,0.0013052736
+Epithelial cell (basal keratinocyte),MAPK12,0.0
+Epithelial cell (cornified keratinocyte),MAPK12,0.0
+Immune (Langerhans),MAPK12,0.0
+Epithelial cell (suprabasal keratinocyte),MAPK12,0.0
+Epithelial cell (mature keratinocyte),MAPK12,0.0
+Melanocyte,MAPK12,0.0
+Mucous cell,MAPK12,0.0
+Satellite cell,MAPK12,0.0
+Sebaceous gland cell,MAPK12,0.0

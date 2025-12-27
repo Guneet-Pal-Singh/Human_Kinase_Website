@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Mucous cell,STYK1,0.33526602
+Epithelial cell (cornified keratinocyte),STYK1,0.3031114
+Epithelial cell (luminal),STYK1,0.27739623
+Epithelial cell (suprabasal),STYK1,0.25073054
+Epithelial cell (squamous),STYK1,0.20747463
+Epithelial cell (Hillock),STYK1,0.14820036
+Neuronal,STYK1,0.1436479
+Epithelial cell (club),STYK1,0.13282007
+Immune (NK cell),STYK1,0.0902071
+Epithelial cell (ciliated),STYK1,0.07844386
+Immune (T cell),STYK1,0.053581405
+Epithelial cell (basal),STYK1,0.05221512
+Epithelial cell (alveolar type I),STYK1,0.048500843
+Epithelial cell (alveolar type II),STYK1,0.044740126
+Myocyte (NMJ-rich),STYK1,0.04287537
+Immune (alveolar macrophage),STYK1,0.039296605
+Myocyte (sk. muscle),STYK1,0.032206018
+Epithelial cell (basal keratinocyte),STYK1,0.029034078
+ICCs,STYK1,0.026897227
+Endothelial cell (lymphatic),STYK1,0.026097033
+Neuroendocrine,STYK1,0.025382752
+Immune (B cell),STYK1,0.025280004
+Immune (DC),STYK1,0.023279065
+Myoepithelial (basal),STYK1,0.020923663
+Endothelial cell (vascular),STYK1,0.018308865
+Immune (mast cell),STYK1,0.01736711
+Melanocyte,STYK1,0.015565462
+Immune (DC/macrophage),STYK1,0.010457592
+Myocyte (cardiac),STYK1,0.010102066
+Satellite cell,STYK1,0.009363414
+Myocyte (smooth muscle),STYK1,0.008596687
+Myofibroblast,STYK1,0.008026932
+Adipocyte,STYK1,0.007989648
+Sebaceous gland cell,STYK1,0.0067635053
+Fibroblast,STYK1,0.0061234995
+Schwann cell,STYK1,0.005144278
+Pericyte/SMC,STYK1,0.0047536716
+"Myocyte (cardiac, cytoplasmic)",STYK1,0.0002889019
+Epithelial cell (suprabasal keratinocyte),STYK1,0.0
+Immune (Langerhans),STYK1,0.0
+Epithelial cell (mature keratinocyte),STYK1,0.0
+"Myocyte (sk. muscle, cytoplasmic)",STYK1,0.0
+Sweat gland cell,STYK1,0.0

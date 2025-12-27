@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+breast,Adipocyte,PKDCC,1.5134329,38.0465644520159
+heart,Adipocyte,PKDCC,1.3880597,34.715025906735754
+esophagusmuscularis,Adipocyte,PKDCC,1.2962962,15.428571428571429
+skeletalmuscle,Adipocyte,PKDCC,1.1052631,11.949685534591197
+heart,Muscle,PKDCC,1.1981401,11.588196286472147
+skeletalmuscle,Muscle,PKDCC,1.0982063,9.87993442913473
+breast,Fibroblast,PKDCC,1.0972222,8.791208791208792
+esophagusmucosa,Stromal,PKDCC,1.0864197,8.190091001011123
+skin,Adipocyte,PKDCC,1.4,8.064516129032258
+esophagusmucosa,Muscle,PKDCC,1.1142857,6.986027944111776
+lung,Fibroblast,PKDCC,1.0873786,6.978319783197833
+heart,Fibroblast,PKDCC,1.1191627,6.686766447722622
+prostate,Fibroblast,PKDCC,1.1621622,6.47985989492119
+esophagusmuscularis,Muscle,PKDCC,1.1200429,6.2747999192951776
+lung,Epithelial cell,PKDCC,1.205237,5.869158878504673
+prostate,Muscle,PKDCC,1.1196581,5.21622826571556
+lung,Muscle,PKDCC,1.0,4.9079754601227
+skin,Muscle,PKDCC,1.0,4.838709677419355
+esophagusmuscularis,Neuron,PKDCC,1.0,4.0
+skeletalmuscle,Fibroblast,PKDCC,1.0684931,3.684387617765814
+skin,Fibroblast,PKDCC,1.0,2.2684310018903595
+esophagusmucosa,Fibroblast,PKDCC,1.0338984,2.0959147424511544
+breast,Muscle,PKDCC,1.0,1.973684210526316
+breast,Endothelial cell,PKDCC,1.0625,1.8161180476730987
+esophagusmuscularis,Glia,PKDCC,1.0,1.6494845360824744
+esophagusmucosa,Glia,PKDCC,1.0,1.5384615384615383
+prostate,Glia,PKDCC,1.0,1.4925373134328357
+esophagusmuscularis,Fibroblast,PKDCC,1.1066667,1.441060620616774
+heart,Glia,PKDCC,1.0,1.342281879194631
+skeletalmuscle,Endothelial cell,PKDCC,1.0,0.6010518407212623
+lung,Immune (myeloid),PKDCC,1.0384616,0.426299393343171
+skeletalmuscle,Immune (myeloid),PKDCC,1.0,0.4070556309362279
+heart,Endothelial cell,PKDCC,1.0,0.3798297314996726
+prostate,Epithelial cell,PKDCC,1.0357143,0.3640618905213886
+esophagusmuscularis,Immune (lymphocyte),PKDCC,1.0,0.3322259136212624
+breast,Immune (myeloid),PKDCC,1.0,0.2793296089385474
+prostate,Immune (myeloid),PKDCC,1.0,0.1945525291828793
+esophagusmuscularis,Endothelial cell,PKDCC,1.0,0.1793319883434207
+prostate,Endothelial cell,PKDCC,1.0,0.1769285208775654
+skin,Epithelial cell,PKDCC,1.0,0.1661129568106312
+lung,Endothelial cell,PKDCC,1.0,0.1456664238892935
+heart,Immune (lymphocyte),PKDCC,1.0,0.1432664756446991
+heart,Immune (myeloid),PKDCC,1.1111112,0.140646976090014
+esophagusmucosa,Epithelial cell,PKDCC,1.0,0.1014786894752102
+esophagusmuscularis,Immune (myeloid),PKDCC,1.0,0.1012487343908201
+skin,Endothelial cell,PKDCC,1.0,0.0977517106549364
+esophagusmucosa,Endothelial cell,PKDCC,1.0,0.0855066267635741
+esophagusmucosa,Immune (myeloid),PKDCC,1.0,0.0715307582260371
+esophagusmucosa,Immune (lymphocyte),PKDCC,1.0,0.055005500550055
+breast,Epithelial cell,PKDCC,1.0,0.0517330574236937
+lung,Immune (lymphocyte),PKDCC,0.0,0.0
+prostate,Immune (lymphocyte),PKDCC,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),PKDCC,0.0,0.0
+skeletalmuscle,Glia,PKDCC,0.0,0.0
+skin,Epithelial cell (keratinocyte),PKDCC,0.0,0.0
+skin,Immune (lymphocyte),PKDCC,0.0,0.0
+skin,Immune (myeloid),PKDCC,0.0,0.0
+skin,Melanocyte,PKDCC,0.0,0.0
+skin,Other,PKDCC,0.0,0.0

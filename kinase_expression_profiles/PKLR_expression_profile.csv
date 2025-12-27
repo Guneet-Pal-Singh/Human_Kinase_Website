@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Sebaceous gland cell,PKLR,0.073622026
+Myocyte (NMJ-rich),PKLR,0.050213017
+Melanocyte,PKLR,0.025004346
+Immune (alveolar macrophage),PKLR,0.024776649
+Epithelial cell (alveolar type II),PKLR,0.014157742
+ICCs,PKLR,0.013591543
+Sweat gland cell,PKLR,0.013440757
+Epithelial cell (ciliated),PKLR,0.013149365
+Epithelial cell (alveolar type I),PKLR,0.012931038
+Myofibroblast,PKLR,0.01083027
+Immune (T cell),PKLR,0.0092005655
+Satellite cell,PKLR,0.009059233
+Myocyte (sk. muscle),PKLR,0.008452902
+Endothelial cell (vascular),PKLR,0.008349969
+Epithelial cell (suprabasal),PKLR,0.0073667825
+Myocyte (cardiac),PKLR,0.0071842005
+Epithelial cell (Hillock),PKLR,0.006890343
+Fibroblast,PKLR,0.006441654
+Immune (DC/macrophage),PKLR,0.0060097817
+Myocyte (smooth muscle),PKLR,0.0056665204
+Epithelial cell (luminal),PKLR,0.005520901
+Pericyte/SMC,PKLR,0.0043756478
+Epithelial cell (basal),PKLR,0.004362445
+Adipocyte,PKLR,0.0042845984
+Epithelial cell (squamous),PKLR,0.0033839147
+Epithelial cell (basal keratinocyte),PKLR,0.0026294529
+Endothelial cell (lymphatic),PKLR,0.002057165
+Schwann cell,PKLR,0.0019005317
+Epithelial cell (club),PKLR,0.0016062834
+Epithelial cell (cornified keratinocyte),PKLR,0.0
+Immune (Langerhans),PKLR,0.0
+Epithelial cell (suprabasal keratinocyte),PKLR,0.0
+Epithelial cell (mature keratinocyte),PKLR,0.0
+Immune (B cell),PKLR,0.0
+Immune (NK cell),PKLR,0.0
+Immune (mast cell),PKLR,0.0
+Immune (DC),PKLR,0.0
+Mucous cell,PKLR,0.0
+"Myocyte (cardiac, cytoplasmic)",PKLR,0.0
+Myoepithelial (basal),PKLR,0.0
+"Myocyte (sk. muscle, cytoplasmic)",PKLR,0.0
+Neuronal,PKLR,0.0
+Neuroendocrine,PKLR,0.0

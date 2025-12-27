@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmucosa,Endothelial cell,FLT4,1.4384859,20.32920051303976
+skin,Endothelial cell,FLT4,1.2268041,9.481915933528835
+esophagusmuscularis,Endothelial cell,FLT4,1.4187192,9.101098408428603
+prostate,Endothelial cell,FLT4,1.256917,8.952583156404813
+breast,Endothelial cell,FLT4,1.1216216,8.39954597048808
+skeletalmuscle,Glia,FLT4,1.0,5.714285714285714
+lung,Endothelial cell,FLT4,1.1478873,5.17115804806992
+heart,Endothelial cell,FLT4,1.2875,4.191224623444663
+breast,Muscle,FLT4,1.1666666,3.947368421052632
+skeletalmuscle,Endothelial cell,FLT4,1.0612245,3.6814425244177302
+esophagusmucosa,Stromal,FLT4,1.4545455,2.224469160768453
+skin,Muscle,FLT4,1.0,1.0752688172043012
+esophagusmucosa,Immune (myeloid),FLT4,1.0,0.5722460658082975
+esophagusmuscularis,Adipocyte,FLT4,1.0,0.5714285714285714
+skin,Immune (myeloid),FLT4,1.0,0.5586592178770949
+heart,Adipocyte,FLT4,1.0,0.5181347150259068
+prostate,Muscle,FLT4,1.1,0.4458314757021846
+esophagusmucosa,Epithelial cell,FLT4,1.2244898,0.3551754131632357
+prostate,Fibroblast,FLT4,1.0,0.3502626970227671
+esophagusmuscularis,Immune (lymphocyte),FLT4,1.0,0.3322259136212624
+lung,Immune (myeloid),FLT4,1.1111112,0.2951303492375799
+heart,Immune (lymphocyte),FLT4,1.0,0.2865329512893982
+lung,Fibroblast,FLT4,1.0,0.2710027100271002
+breast,Fibroblast,FLT4,1.5,0.2442002442002442
+lung,Epithelial cell,FLT4,1.0181818,0.2284527518172378
+heart,Muscle,FLT4,1.1481482,0.2238063660477453
+esophagusmuscularis,Glia,FLT4,1.0,0.2061855670103093
+skin,Fibroblast,FLT4,1.0,0.1890359168241966
+breast,Adipocyte,FLT4,1.3333334,0.1703577512776831
+esophagusmucosa,Fibroblast,FLT4,1.25,0.1420959147424511
+lung,Immune (lymphocyte),FLT4,1.0,0.1379310344827586
+esophagusmuscularis,Muscle,FLT4,1.25,0.1076064294841616
+breast,Epithelial cell,FLT4,1.0,0.1034661148473874
+esophagusmuscularis,Immune (myeloid),FLT4,1.0,0.1012487343908201
+heart,Immune (myeloid),FLT4,1.0,0.093764650726676
+prostate,Epithelial cell,FLT4,1.0,0.0910154726303471
+skeletalmuscle,Fibroblast,FLT4,1.0,0.0841184387617765
+skeletalmuscle,Muscle,FLT4,1.0,0.06202649417394
+heart,Fibroblast,FLT4,1.0,0.0215354797028103
+esophagusmuscularis,Fibroblast,FLT4,1.5,0.0192141416082236
+breast,Immune (myeloid),FLT4,0.0,0.0
+esophagusmucosa,Glia,FLT4,0.0,0.0
+esophagusmucosa,Immune (lymphocyte),FLT4,0.0,0.0
+heart,Glia,FLT4,0.0,0.0
+esophagusmuscularis,Neuron,FLT4,0.0,0.0
+esophagusmucosa,Muscle,FLT4,0.0,0.0
+skeletalmuscle,Adipocyte,FLT4,0.0,0.0
+lung,Muscle,FLT4,0.0,0.0
+prostate,Immune (myeloid),FLT4,0.0,0.0
+prostate,Immune (lymphocyte),FLT4,0.0,0.0
+prostate,Glia,FLT4,0.0,0.0
+skin,Adipocyte,FLT4,0.0,0.0
+skeletalmuscle,Immune (myeloid),FLT4,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),FLT4,0.0,0.0
+skin,Epithelial cell,FLT4,0.0,0.0
+skin,Immune (lymphocyte),FLT4,0.0,0.0
+skin,Epithelial cell (keratinocyte),FLT4,0.0,0.0
+skin,Melanocyte,FLT4,0.0,0.0
+skin,Other,FLT4,0.0,0.0

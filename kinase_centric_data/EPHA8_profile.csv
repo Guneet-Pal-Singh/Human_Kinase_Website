@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skin,Epithelial cell (keratinocyte),EPHA8,1.0,0.1027221366204417
+prostate,Immune (myeloid),EPHA8,1.0,0.0972762645914396
+prostate,Fibroblast,EPHA8,1.0,0.0875656742556917
+skeletalmuscle,Fibroblast,EPHA8,1.0,0.0841184387617765
+lung,Fibroblast,EPHA8,1.0,0.067750677506775
+heart,Muscle,EPHA8,1.0,0.0663129973474801
+lung,Immune (myeloid),EPHA8,1.0,0.0655845220527955
+lung,Epithelial cell,EPHA8,1.0,0.0623052959501557
+breast,Epithelial cell,EPHA8,1.0,0.0517330574236937
+prostate,Epithelial cell,EPHA8,1.0,0.0433407012525462
+esophagusmucosa,Endothelial cell,EPHA8,1.0,0.042753313381787
+heart,Endothelial cell,EPHA8,1.0,0.0392927308447937
+lung,Endothelial cell,EPHA8,1.0,0.0364166059723233
+esophagusmucosa,Fibroblast,EPHA8,1.0,0.0355239786856127
+esophagusmuscularis,Muscle,EPHA8,1.0,0.0336270092138005
+esophagusmuscularis,Fibroblast,EPHA8,1.0,0.0288212124123354
+skeletalmuscle,Muscle,EPHA8,1.0,0.0265827832174028
+esophagusmuscularis,Endothelial cell,EPHA8,1.0,0.0224164985429275
+heart,Immune (myeloid),EPHA8,1.0,0.0156274417877793
+heart,Fibroblast,EPHA8,1.0,0.0107677398514051
+esophagusmucosa,Epithelial cell,EPHA8,1.0,0.0072484778196578
+breast,Immune (myeloid),EPHA8,0.0,0.0
+breast,Muscle,EPHA8,0.0,0.0
+esophagusmucosa,Immune (lymphocyte),EPHA8,0.0,0.0
+esophagusmucosa,Glia,EPHA8,0.0,0.0
+breast,Endothelial cell,EPHA8,0.0,0.0
+breast,Adipocyte,EPHA8,0.0,0.0
+heart,Immune (lymphocyte),EPHA8,0.0,0.0
+heart,Glia,EPHA8,0.0,0.0
+esophagusmuscularis,Neuron,EPHA8,0.0,0.0
+heart,Adipocyte,EPHA8,0.0,0.0
+esophagusmuscularis,Immune (myeloid),EPHA8,0.0,0.0
+esophagusmucosa,Stromal,EPHA8,0.0,0.0
+esophagusmuscularis,Glia,EPHA8,0.0,0.0
+esophagusmuscularis,Immune (lymphocyte),EPHA8,0.0,0.0
+esophagusmucosa,Muscle,EPHA8,0.0,0.0
+esophagusmucosa,Immune (myeloid),EPHA8,0.0,0.0
+esophagusmuscularis,Adipocyte,EPHA8,0.0,0.0
+breast,Fibroblast,EPHA8,0.0,0.0
+prostate,Glia,EPHA8,0.0,0.0
+lung,Immune (lymphocyte),EPHA8,0.0,0.0
+lung,Muscle,EPHA8,0.0,0.0
+prostate,Endothelial cell,EPHA8,0.0,0.0
+skeletalmuscle,Adipocyte,EPHA8,0.0,0.0
+prostate,Muscle,EPHA8,0.0,0.0
+prostate,Immune (lymphocyte),EPHA8,0.0,0.0
+skeletalmuscle,Glia,EPHA8,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),EPHA8,0.0,0.0
+skeletalmuscle,Immune (myeloid),EPHA8,0.0,0.0
+skin,Adipocyte,EPHA8,0.0,0.0
+skeletalmuscle,Endothelial cell,EPHA8,0.0,0.0
+skin,Endothelial cell,EPHA8,0.0,0.0
+skin,Epithelial cell,EPHA8,0.0,0.0
+skin,Fibroblast,EPHA8,0.0,0.0
+skin,Immune (lymphocyte),EPHA8,0.0,0.0
+skin,Immune (myeloid),EPHA8,0.0,0.0
+skin,Melanocyte,EPHA8,0.0,0.0
+skin,Muscle,EPHA8,0.0,0.0
+skin,Other,EPHA8,0.0,0.0

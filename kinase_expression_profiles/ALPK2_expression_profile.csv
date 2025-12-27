@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Myocyte (cardiac),ALPK2,0.8690147
+Myocyte (sk. muscle),ALPK2,0.43703222
+"Myocyte (cardiac, cytoplasmic)",ALPK2,0.34786642
+Immune (DC),ALPK2,0.29064858
+"Myocyte (sk. muscle, cytoplasmic)",ALPK2,0.25995097
+Myocyte (NMJ-rich),ALPK2,0.09802823
+Sebaceous gland cell,ALPK2,0.078631
+Melanocyte,ALPK2,0.07822233
+Epithelial cell (ciliated),ALPK2,0.07129213
+Immune (alveolar macrophage),ALPK2,0.06628254
+Immune (T cell),ALPK2,0.065663636
+Myoepithelial (basal),ALPK2,0.053354196
+Epithelial cell (alveolar type I),ALPK2,0.044104744
+Epithelial cell (alveolar type II),ALPK2,0.040893517
+Myofibroblast,ALPK2,0.03865279
+Sweat gland cell,ALPK2,0.033678237
+Pericyte/SMC,ALPK2,0.033012748
+Epithelial cell (luminal),ALPK2,0.031548258
+Myocyte (smooth muscle),ALPK2,0.03148112
+Immune (B cell),ALPK2,0.030269064
+Adipocyte,ALPK2,0.029548587
+Epithelial cell (basal keratinocyte),ALPK2,0.028728116
+Endothelial cell (vascular),ALPK2,0.023884442
+Satellite cell,ALPK2,0.023225756
+ICCs,ALPK2,0.022941243
+Fibroblast,ALPK2,0.022344783
+Epithelial cell (suprabasal),ALPK2,0.022112092
+Immune (DC/macrophage),ALPK2,0.021357365
+Schwann cell,ALPK2,0.0210035
+Epithelial cell (club),ALPK2,0.020466942
+Endothelial cell (lymphatic),ALPK2,0.020329254
+Epithelial cell (Hillock),ALPK2,0.019282589
+Epithelial cell (mature keratinocyte),ALPK2,0.017944908
+Immune (NK cell),ALPK2,0.016362505
+Epithelial cell (basal),ALPK2,0.016179696
+Epithelial cell (suprabasal keratinocyte),ALPK2,0.013938886
+Immune (mast cell),ALPK2,0.0075430116
+Epithelial cell (squamous),ALPK2,0.0071800933
+Epithelial cell (cornified keratinocyte),ALPK2,0.0
+Immune (Langerhans),ALPK2,0.0
+Mucous cell,ALPK2,0.0
+Neuronal,ALPK2,0.0
+Neuroendocrine,ALPK2,0.0

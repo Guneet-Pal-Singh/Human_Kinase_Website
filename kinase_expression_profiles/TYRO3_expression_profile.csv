@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Adipocyte,TYRO3,0.33575508
+Schwann cell,TYRO3,0.21509807
+Epithelial cell (mature keratinocyte),TYRO3,0.2087059
+Epithelial cell (cornified keratinocyte),TYRO3,0.18177617
+Epithelial cell (squamous),TYRO3,0.16407123
+Neuronal,TYRO3,0.11899095
+Epithelial cell (suprabasal),TYRO3,0.09464232
+Epithelial cell (suprabasal keratinocyte),TYRO3,0.089271694
+Immune (Langerhans),TYRO3,0.084828496
+Melanocyte,TYRO3,0.0720886
+ICCs,TYRO3,0.05150702
+Fibroblast,TYRO3,0.03623097
+Epithelial cell (basal),TYRO3,0.030629423
+Epithelial cell (alveolar type I),TYRO3,0.029993854
+Myocyte (NMJ-rich),TYRO3,0.029113129
+Epithelial cell (club),TYRO3,0.026176753
+Neuroendocrine,TYRO3,0.025840117
+Immune (alveolar macrophage),TYRO3,0.023605134
+Epithelial cell (alveolar type II),TYRO3,0.021720292
+Myofibroblast,TYRO3,0.021222135
+Epithelial cell (luminal),TYRO3,0.019735783
+Endothelial cell (vascular),TYRO3,0.01810796
+Myocyte (smooth muscle),TYRO3,0.016149424
+Epithelial cell (Hillock),TYRO3,0.013637201
+Immune (mast cell),TYRO3,0.013422696
+Epithelial cell (ciliated),TYRO3,0.011840952
+Sweat gland cell,TYRO3,0.010617225
+Pericyte/SMC,TYRO3,0.01043642
+Epithelial cell (basal keratinocyte),TYRO3,0.010198213
+Immune (T cell),TYRO3,0.00999464
+Immune (NK cell),TYRO3,0.0074468586
+Myocyte (cardiac),TYRO3,0.0073578847
+"Myocyte (cardiac, cytoplasmic)",TYRO3,0.0067475857
+Immune (DC/macrophage),TYRO3,0.0051800935
+Myoepithelial (basal),TYRO3,0.004834235
+Myocyte (sk. muscle),TYRO3,0.004501667
+Mucous cell,TYRO3,0.0044020526
+Endothelial cell (lymphatic),TYRO3,0.0021681031
+Immune (B cell),TYRO3,0.0
+Immune (DC),TYRO3,0.0
+"Myocyte (sk. muscle, cytoplasmic)",TYRO3,0.0
+Satellite cell,TYRO3,0.0
+Sebaceous gland cell,TYRO3,0.0

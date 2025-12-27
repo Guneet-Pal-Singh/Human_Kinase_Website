@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+heart,Adipocyte,TYRO3,1.0697675,22.279792746113987
+esophagusmuscularis,Adipocyte,TYRO3,1.1428572,16.0
+breast,Adipocyte,TYRO3,1.0854272,11.30039750141965
+skeletalmuscle,Adipocyte,TYRO3,1.0714285,8.80503144654088
+esophagusmuscularis,Neuron,TYRO3,1.0,8.0
+esophagusmuscularis,Glia,TYRO3,1.0972222,7.422680412371134
+prostate,Glia,TYRO3,1.25,5.970149253731343
+skeletalmuscle,Glia,TYRO3,1.0,5.714285714285714
+esophagusmucosa,Epithelial cell,TYRO3,1.149789,3.435778486517832
+esophagusmucosa,Glia,TYRO3,1.5,3.076923076923077
+heart,Glia,TYRO3,1.1428572,2.348993288590604
+skin,Other,TYRO3,1.1,2.2123893805309733
+lung,Fibroblast,TYRO3,1.03125,2.168021680216802
+heart,Fibroblast,TYRO3,1.053476,2.0135673522127706
+breast,Muscle,TYRO3,1.0,1.973684210526316
+skin,Melanocyte,TYRO3,1.2,1.8382352941176472
+skin,Epithelial cell (keratinocyte),TYRO3,1.03125,1.6435541859270673
+skin,Adipocyte,TYRO3,1.0,1.6129032258064515
+lung,Endothelial cell,TYRO3,1.0,1.347414420975965
+prostate,Muscle,TYRO3,1.0,1.15916183682568
+prostate,Fibroblast,TYRO3,1.0,1.138353765323993
+esophagusmucosa,Stromal,TYRO3,1.0,1.0111223458038423
+skin,Epithelial cell,TYRO3,1.0,0.9966777408637874
+skeletalmuscle,Fibroblast,TYRO3,1.0517242,0.9757738896366084
+lung,Epithelial cell,TYRO3,1.0139534,0.8930425752855659
+prostate,Epithelial cell,TYRO3,1.0215054,0.8061370432973605
+lung,Immune (myeloid),TYRO3,1.0,0.7378258730939499
+prostate,Endothelial cell,TYRO3,1.0,0.6369426751592357
+esophagusmuscularis,Fibroblast,TYRO3,1.0151515,0.6340666730713805
+lung,Muscle,TYRO3,1.0,0.6134969325153374
+skin,Immune (myeloid),TYRO3,1.0,0.5586592178770949
+esophagusmuscularis,Muscle,TYRO3,1.0273973,0.4909543345214876
+breast,Fibroblast,TYRO3,1.0,0.4884004884004884
+heart,Muscle,TYRO3,1.0204082,0.4061671087533156
+heart,Endothelial cell,TYRO3,1.0333333,0.3929273084479371
+esophagusmucosa,Immune (lymphocyte),TYRO3,1.0,0.33003300330033
+esophagusmucosa,Endothelial cell,TYRO3,1.0,0.2992731936725096
+prostate,Immune (lymphocyte),TYRO3,1.0,0.2932551319648094
+esophagusmucosa,Fibroblast,TYRO3,1.0,0.2841918294849023
+breast,Immune (myeloid),TYRO3,1.0,0.2793296089385474
+esophagusmuscularis,Immune (myeloid),TYRO3,1.0,0.2362470469119136
+breast,Endothelial cell,TYRO3,1.0,0.2270147559591373
+skin,Endothelial cell,TYRO3,1.0,0.1955034213098729
+prostate,Immune (myeloid),TYRO3,1.0,0.1945525291828793
+breast,Epithelial cell,TYRO3,1.0,0.1896878772202103
+heart,Immune (lymphocyte),TYRO3,1.0,0.1432664756446991
+esophagusmucosa,Immune (myeloid),TYRO3,1.0,0.1430615164520743
+heart,Immune (myeloid),TYRO3,1.0,0.140646976090014
+lung,Immune (lymphocyte),TYRO3,1.0,0.1379310344827586
+skeletalmuscle,Muscle,TYRO3,1.0,0.1284834522174471
+esophagusmuscularis,Endothelial cell,TYRO3,1.0,0.0896659941717103
+skeletalmuscle,Endothelial cell,TYRO3,1.0,0.0751314800901577
+esophagusmuscularis,Immune (lymphocyte),TYRO3,0.0,0.0
+esophagusmucosa,Muscle,TYRO3,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),TYRO3,0.0,0.0
+skeletalmuscle,Immune (myeloid),TYRO3,0.0,0.0
+skin,Fibroblast,TYRO3,0.0,0.0
+skin,Immune (lymphocyte),TYRO3,0.0,0.0
+skin,Muscle,TYRO3,0.0,0.0

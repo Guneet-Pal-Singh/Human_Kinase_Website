@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Endothelial cell,PIK3C2B,1.6629598,26.20488679668236
+esophagusmucosa,Endothelial cell,PIK3C2B,1.2860439,18.5335613510047
+esophagusmuscularis,Adipocyte,PIK3C2B,1.2666667,17.142857142857142
+prostate,Endothelial cell,PIK3C2B,1.2768496,14.826610049539989
+breast,Endothelial cell,PIK3C2B,1.208,14.188422247446084
+breast,Adipocyte,PIK3C2B,1.1967871,14.1396933560477
+skeletalmuscle,Endothelial cell,PIK3C2B,1.196319,12.246431254695718
+heart,Endothelial cell,PIK3C2B,1.249162,11.722331368696793
+lung,Endothelial cell,PIK3C2B,1.1453288,10.524399126001455
+heart,Adipocyte,PIK3C2B,1.1052631,9.844559585492227
+skin,Endothelial cell,PIK3C2B,1.06,9.775171065493646
+esophagusmucosa,Stromal,PIK3C2B,1.1979166,9.706774519716886
+skin,Epithelial cell,PIK3C2B,1.137255,8.471760797342192
+esophagusmucosa,Epithelial cell,PIK3C2B,1.1692573,8.393737315163815
+skin,Other,PIK3C2B,1.2432432,8.185840707964601
+lung,Muscle,PIK3C2B,1.1538461,7.975460122699387
+skin,Epithelial cell (keratinocyte),PIK3C2B,1.1733333,7.704160246533127
+breast,Muscle,PIK3C2B,1.2,6.578947368421052
+heart,Muscle,PIK3C2B,1.1016731,6.440649867374006
+skeletalmuscle,Glia,PIK3C2B,1.0,5.714285714285714
+lung,Epithelial cell,PIK3C2B,1.0552922,5.258566978193146
+skeletalmuscle,Immune (lymphocyte),PIK3C2B,1.0,5.0
+esophagusmucosa,Muscle,PIK3C2B,1.1428572,4.191616766467066
+breast,Epithelial cell,PIK3C2B,1.088983,4.0696671839972405
+esophagusmuscularis,Neuron,PIK3C2B,1.0,4.0
+prostate,Epithelial cell,PIK3C2B,1.0816777,3.926667533480692
+esophagusmucosa,Immune (myeloid),PIK3C2B,1.018868,3.7911301859799713
+skeletalmuscle,Adipocyte,PIK3C2B,1.0,3.7735849056603774
+lung,Immune (myeloid),PIK3C2B,1.0291262,3.37760288571897
+esophagusmucosa,Immune (lymphocyte),PIK3C2B,1.05,3.3003300330033
+esophagusmuscularis,Immune (myeloid),PIK3C2B,1.0434783,3.1049611879851504
+esophagusmucosa,Glia,PIK3C2B,1.0,3.076923076923077
+prostate,Fibroblast,PIK3C2B,1.0294118,2.9772329246935203
+prostate,Muscle,PIK3C2B,1.1363636,2.942487739634418
+skin,Immune (myeloid),PIK3C2B,1.0,2.793296089385475
+lung,Immune (lymphocyte),PIK3C2B,1.1,2.7586206896551726
+esophagusmucosa,Fibroblast,PIK3C2B,1.0519481,2.7353463587921847
+lung,Fibroblast,PIK3C2B,1.1842105,2.5745257452574526
+heart,Fibroblast,PIK3C2B,1.0595745,2.5304188650802195
+esophagusmuscularis,Glia,PIK3C2B,1.2173913,2.3711340206185567
+prostate,Immune (lymphocyte),PIK3C2B,1.0625,2.346041055718475
+skin,Melanocyte,PIK3C2B,1.3333334,2.2058823529411766
+skeletalmuscle,Muscle,PIK3C2B,1.1049383,2.153205440609632
+skin,Fibroblast,PIK3C2B,1.0,2.0793950850661624
+esophagusmuscularis,Immune (lymphocyte),PIK3C2B,1.1666666,1.9933554817275747
+prostate,Immune (myeloid),PIK3C2B,1.0555556,1.7509727626459144
+heart,Immune (lymphocyte),PIK3C2B,1.0833334,1.7191977077363898
+breast,Fibroblast,PIK3C2B,1.0714285,1.7094017094017095
+heart,Glia,PIK3C2B,1.0,1.6778523489932886
+esophagusmuscularis,Muscle,PIK3C2B,1.1504065,1.6544488533189856
+skin,Muscle,PIK3C2B,1.0,1.6129032258064515
+prostate,Glia,PIK3C2B,1.0,1.4925373134328357
+heart,Immune (myeloid),PIK3C2B,1.0,1.4533520862634786
+skin,Immune (lymphocyte),PIK3C2B,1.0,1.3333333333333337
+esophagusmuscularis,Fibroblast,PIK3C2B,1.0873016,1.21049092131809
+breast,Immune (myeloid),PIK3C2B,1.25,1.11731843575419
+skeletalmuscle,Immune (myeloid),PIK3C2B,1.0,1.0854816824966078
+skeletalmuscle,Fibroblast,PIK3C2B,1.0,0.7738896366083445
+skin,Adipocyte,PIK3C2B,0.0,0.0

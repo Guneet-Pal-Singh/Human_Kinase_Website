@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Melanocyte,IPMK,0.64860797
+Immune (Langerhans),IPMK,0.38090968
+Myocyte (NMJ-rich),IPMK,0.36036918
+Epithelial cell (basal keratinocyte),IPMK,0.313159
+Immune (DC/macrophage),IPMK,0.30901745
+Immune (DC),IPMK,0.30288875
+Neuronal,IPMK,0.30034265
+Epithelial cell (suprabasal),IPMK,0.28041837
+Epithelial cell (squamous),IPMK,0.24083601
+Epithelial cell (ciliated),IPMK,0.24049671
+Epithelial cell (suprabasal keratinocyte),IPMK,0.23502333
+Immune (alveolar macrophage),IPMK,0.23093721
+Myocyte (cardiac),IPMK,0.22281878
+Neuroendocrine,IPMK,0.2038289
+Myofibroblast,IPMK,0.19945952
+Sebaceous gland cell,IPMK,0.19881041
+Myocyte (smooth muscle),IPMK,0.17089543
+Fibroblast,IPMK,0.16471884
+Myocyte (sk. muscle),IPMK,0.14769372
+Epithelial cell (club),IPMK,0.14204285
+Epithelial cell (basal),IPMK,0.14088202
+Immune (mast cell),IPMK,0.1357603
+Epithelial cell (alveolar type II),IPMK,0.13487342
+Epithelial cell (cornified keratinocyte),IPMK,0.13250506
+Epithelial cell (Hillock),IPMK,0.13176294
+Mucous cell,IPMK,0.13052766
+ICCs,IPMK,0.1195692
+Endothelial cell (vascular),IPMK,0.119390145
+Satellite cell,IPMK,0.11891367
+Endothelial cell (lymphatic),IPMK,0.11713894
+Immune (T cell),IPMK,0.11703998
+Epithelial cell (alveolar type I),IPMK,0.11432267
+Immune (B cell),IPMK,0.11349673
+Epithelial cell (luminal),IPMK,0.09940962
+Schwann cell,IPMK,0.09445177
+Immune (NK cell),IPMK,0.0918392
+Pericyte/SMC,IPMK,0.09135823
+Myoepithelial (basal),IPMK,0.08516526
+Sweat gland cell,IPMK,0.08428742
+"Myocyte (cardiac, cytoplasmic)",IPMK,0.062853806
+"Myocyte (sk. muscle, cytoplasmic)",IPMK,0.048471738
+Adipocyte,IPMK,0.04832339
+Epithelial cell (mature keratinocyte),IPMK,0.045804646

@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (DC),LRRK1,1.3192322
+Immune (Langerhans),LRRK1,0.9476976
+Immune (B cell),LRRK1,0.82440114
+ICCs,LRRK1,0.678472
+Immune (DC/macrophage),LRRK1,0.58088046
+Immune (alveolar macrophage),LRRK1,0.4770655
+Epithelial cell (Hillock),LRRK1,0.39221182
+Mucous cell,LRRK1,0.33833122
+Epithelial cell (basal),LRRK1,0.3245915
+Epithelial cell (suprabasal),LRRK1,0.32029897
+Fibroblast,LRRK1,0.3024851
+Epithelial cell (club),LRRK1,0.28626993
+Myocyte (NMJ-rich),LRRK1,0.27943388
+Myofibroblast,LRRK1,0.27208897
+Epithelial cell (suprabasal keratinocyte),LRRK1,0.25919428
+Epithelial cell (alveolar type I),LRRK1,0.23647498
+Epithelial cell (mature keratinocyte),LRRK1,0.23327649
+Epithelial cell (luminal),LRRK1,0.23153761
+Endothelial cell (vascular),LRRK1,0.20917235
+Satellite cell,LRRK1,0.20605208
+Epithelial cell (ciliated),LRRK1,0.20094737
+Epithelial cell (alveolar type II),LRRK1,0.18506414
+Endothelial cell (lymphatic),LRRK1,0.18082412
+Epithelial cell (basal keratinocyte),LRRK1,0.17484738
+Epithelial cell (squamous),LRRK1,0.17135946
+Immune (mast cell),LRRK1,0.16956156
+Myoepithelial (basal),LRRK1,0.15597734
+Neuronal,LRRK1,0.13071209
+Myocyte (smooth muscle),LRRK1,0.11987247
+Schwann cell,LRRK1,0.09790562
+Pericyte/SMC,LRRK1,0.08647917
+Melanocyte,LRRK1,0.08412649
+Epithelial cell (cornified keratinocyte),LRRK1,0.078396134
+Sweat gland cell,LRRK1,0.07408674
+Adipocyte,LRRK1,0.073842146
+Myocyte (cardiac),LRRK1,0.07146024
+Neuroendocrine,LRRK1,0.0593778
+Sebaceous gland cell,LRRK1,0.050037276
+Immune (T cell),LRRK1,0.04131474
+"Myocyte (cardiac, cytoplasmic)",LRRK1,0.038204663
+Immune (NK cell),LRRK1,0.036866818
+Myocyte (sk. muscle),LRRK1,0.03335511
+"Myocyte (sk. muscle, cytoplasmic)",LRRK1,0.02740457

@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (alveolar type I),PAPSS2,1.1849142
+Immune (DC/macrophage),PAPSS2,0.5185297
+Mucous cell,PAPSS2,0.50426376
+Immune (Langerhans),PAPSS2,0.46178317
+Epithelial cell (alveolar type II),PAPSS2,0.38907382
+Endothelial cell (vascular),PAPSS2,0.38211486
+Immune (alveolar macrophage),PAPSS2,0.36289907
+Epithelial cell (squamous),PAPSS2,0.32253227
+Schwann cell,PAPSS2,0.31710577
+Fibroblast,PAPSS2,0.3028726
+Epithelial cell (ciliated),PAPSS2,0.22688812
+Adipocyte,PAPSS2,0.22502293
+Epithelial cell (club),PAPSS2,0.17910042
+Pericyte/SMC,PAPSS2,0.14298593
+ICCs,PAPSS2,0.13361761
+Immune (DC),PAPSS2,0.13120918
+Immune (mast cell),PAPSS2,0.13054322
+Myofibroblast,PAPSS2,0.09052807
+Neuroendocrine,PAPSS2,0.068292506
+Endothelial cell (lymphatic),PAPSS2,0.050498847
+Epithelial cell (basal),PAPSS2,0.04879832
+"Myocyte (cardiac, cytoplasmic)",PAPSS2,0.047670614
+Myoepithelial (basal),PAPSS2,0.04687787
+Myocyte (cardiac),PAPSS2,0.046757497
+Immune (B cell),PAPSS2,0.04186549
+Epithelial cell (Hillock),PAPSS2,0.03968232
+Epithelial cell (suprabasal),PAPSS2,0.039276857
+Melanocyte,PAPSS2,0.03751897
+Epithelial cell (luminal),PAPSS2,0.032744113
+"Myocyte (sk. muscle, cytoplasmic)",PAPSS2,0.023325602
+Myocyte (smooth muscle),PAPSS2,0.022889614
+Immune (T cell),PAPSS2,0.02190833
+Sebaceous gland cell,PAPSS2,0.016269997
+Myocyte (sk. muscle),PAPSS2,0.01296649
+Epithelial cell (basal keratinocyte),PAPSS2,0.010292989
+Sweat gland cell,PAPSS2,0.008810885
+Epithelial cell (suprabasal keratinocyte),PAPSS2,0.0059880307
+Epithelial cell (cornified keratinocyte),PAPSS2,0.0
+Epithelial cell (mature keratinocyte),PAPSS2,0.0
+Immune (NK cell),PAPSS2,0.0
+Myocyte (NMJ-rich),PAPSS2,0.0
+Neuronal,PAPSS2,0.0
+Satellite cell,PAPSS2,0.0

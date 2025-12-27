@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skin,Epithelial cell (keratinocyte),FGFR2,1.6208227,39.95891114535182
+esophagusmucosa,Stromal,FGFR2,1.6873065,32.659251769464106
+esophagusmucosa,Epithelial cell,FGFR2,1.7114389,28.00811829515802
+skin,Other,FGFR2,1.3539823,25.0
+skin,Epithelial cell,FGFR2,1.6165414,22.093023255813957
+lung,Epithelial cell,FGFR2,1.3882967,19.87538940809969
+prostate,Muscle,FGFR2,1.4892602,18.68033883192153
+prostate,Epithelial cell,FGFR2,1.5421027,17.39695748277207
+esophagusmuscularis,Muscle,FGFR2,1.3277154,14.365458336135584
+breast,Epithelial cell,FGFR2,1.2606708,11.312295223314363
+prostate,Glia,FGFR2,1.0,5.970149253731343
+esophagusmucosa,Fibroblast,FGFR2,1.3333334,5.86145648312611
+heart,Adipocyte,FGFR2,1.0909091,5.699481865284974
+esophagusmuscularis,Adipocyte,FGFR2,1.125,4.571428571428571
+skin,Fibroblast,FGFR2,1.0833334,4.536862003780719
+skin,Immune (lymphocyte),FGFR2,1.0,4.0
+prostate,Fibroblast,FGFR2,1.1363636,3.852889667250438
+breast,Immune (myeloid),FGFR2,1.0,3.35195530726257
+lung,Fibroblast,FGFR2,1.0652174,3.116531165311653
+esophagusmucosa,Glia,FGFR2,2.0,3.076923076923077
+skin,Immune (myeloid),FGFR2,1.8,2.793296089385475
+esophagusmuscularis,Glia,FGFR2,1.24,2.5773195876288657
+skin,Melanocyte,FGFR2,1.7142857,2.5735294117647056
+lung,Immune (myeloid),FGFR2,1.0544218,2.410231185440236
+skin,Muscle,FGFR2,1.75,2.1505376344086025
+breast,Adipocyte,FGFR2,1.3055556,2.044293015332197
+esophagusmucosa,Immune (myeloid),FGFR2,1.5357143,2.0028612303290414
+esophagusmucosa,Muscle,FGFR2,1.1,1.996007984031936
+breast,Fibroblast,FGFR2,1.1875,1.953601953601953
+lung,Muscle,FGFR2,1.0,1.8404907975460123
+skin,Adipocyte,FGFR2,1.0,1.6129032258064515
+heart,Fibroblast,FGFR2,1.0405406,1.593625498007968
+breast,Endothelial cell,FGFR2,1.0833334,1.362088535754824
+esophagusmuscularis,Immune (lymphocyte),FGFR2,1.25,1.32890365448505
+lung,Endothelial cell,FGFR2,1.0,1.3109978150036417
+esophagusmucosa,Endothelial cell,FGFR2,1.3333334,1.2825994014536126
+skin,Endothelial cell,FGFR2,1.1666666,1.1730205278592376
+esophagusmuscularis,Fibroblast,FGFR2,1.0576923,0.99913536362763
+heart,Muscle,FGFR2,1.0166667,0.9946949602122016
+prostate,Endothelial cell,FGFR2,1.3571428,0.9907997169143666
+skeletalmuscle,Endothelial cell,FGFR2,1.0,0.9767092411720512
+skeletalmuscle,Muscle,FGFR2,1.023585,0.9392583403482344
+skeletalmuscle,Fibroblast,FGFR2,1.0192307,0.8748317631224763
+esophagusmuscularis,Endothelial cell,FGFR2,1.2564102,0.8742434431741762
+heart,Immune (lymphocyte),FGFR2,1.0,0.8595988538681949
+esophagusmuscularis,Immune (myeloid),FGFR2,1.1363636,0.7424907188660141
+skeletalmuscle,Immune (myeloid),FGFR2,1.0,0.6784260515603799
+heart,Glia,FGFR2,1.0,0.6711409395973155
+esophagusmucosa,Immune (lymphocyte),FGFR2,1.0833334,0.6600660066006601
+breast,Muscle,FGFR2,1.0,0.6578947368421052
+heart,Immune (myeloid),FGFR2,1.0,0.5157055789967182
+prostate,Immune (myeloid),FGFR2,1.2,0.4863813229571984
+heart,Endothelial cell,FGFR2,1.03125,0.4191224623444662
+prostate,Immune (lymphocyte),FGFR2,1.0,0.1466275659824047
+esophagusmuscularis,Neuron,FGFR2,0.0,0.0
+skeletalmuscle,Adipocyte,FGFR2,0.0,0.0
+lung,Immune (lymphocyte),FGFR2,0.0,0.0
+skeletalmuscle,Glia,FGFR2,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),FGFR2,0.0,0.0

@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (NK cell),FYN,1.6461906
+Immune (T cell),FYN,1.6448208
+Melanocyte,FYN,1.1122432
+Endothelial cell (vascular),FYN,0.8695692
+Fibroblast,FYN,0.8666466
+Schwann cell,FYN,0.6805589
+Satellite cell,FYN,0.6713566
+Endothelial cell (lymphatic),FYN,0.6274263
+Immune (B cell),FYN,0.5852271
+Neuroendocrine,FYN,0.5326715
+Immune (Langerhans),FYN,0.5222924
+Myofibroblast,FYN,0.49191695
+Neuronal,FYN,0.48242837
+Immune (mast cell),FYN,0.45889744
+Pericyte/SMC,FYN,0.44052553
+ICCs,FYN,0.4228501
+Myocyte (cardiac),FYN,0.39309204
+Immune (DC/macrophage),FYN,0.3618794
+Immune (DC),FYN,0.33770764
+Adipocyte,FYN,0.3060411
+Epithelial cell (ciliated),FYN,0.29244253
+Immune (alveolar macrophage),FYN,0.22086081
+"Myocyte (cardiac, cytoplasmic)",FYN,0.18092653
+Myoepithelial (basal),FYN,0.1622687
+Mucous cell,FYN,0.10084213
+Myocyte (smooth muscle),FYN,0.088001914
+Epithelial cell (basal),FYN,0.08216318
+Myocyte (sk. muscle),FYN,0.07921685
+"Myocyte (sk. muscle, cytoplasmic)",FYN,0.07918331
+Epithelial cell (alveolar type I),FYN,0.07796687
+Epithelial cell (squamous),FYN,0.07588305
+Epithelial cell (alveolar type II),FYN,0.068042986
+Sweat gland cell,FYN,0.05933175
+Epithelial cell (mature keratinocyte),FYN,0.057876736
+Epithelial cell (club),FYN,0.057584267
+Epithelial cell (cornified keratinocyte),FYN,0.052340683
+Epithelial cell (suprabasal),FYN,0.046410307
+Epithelial cell (luminal),FYN,0.044774804
+Epithelial cell (Hillock),FYN,0.025419757
+Epithelial cell (basal keratinocyte),FYN,0.01587882
+Epithelial cell (suprabasal keratinocyte),FYN,0.014931562
+Sebaceous gland cell,FYN,0.009934519
+Myocyte (NMJ-rich),FYN,0.0

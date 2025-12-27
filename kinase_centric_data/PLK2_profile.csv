@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+prostate,Endothelial cell,PLK2,1.3278302,15.003538570417552
+skin,Endothelial cell,PLK2,1.1909091,10.75268817204301
+prostate,Glia,PLK2,1.2857143,10.44776119402985
+esophagusmuscularis,Neuron,PLK2,1.0,8.0
+heart,Muscle,PLK2,1.5164257,6.308023872679044
+esophagusmucosa,Epithelial cell,PLK2,1.125,5.508843142939983
+esophagusmucosa,Endothelial cell,PLK2,1.1068376,5.00213766566909
+skin,Other,PLK2,1.45,4.424778761061947
+esophagusmuscularis,Endothelial cell,PLK2,1.1451613,4.169468728984533
+heart,Endothelial cell,PLK2,1.1045752,4.007858546168959
+lung,Endothelial cell,PLK2,1.0857143,3.823743627093955
+esophagusmucosa,Stromal,PLK2,1.1081082,3.741152679474216
+breast,Epithelial cell,PLK2,1.0966184,3.569580962234868
+skeletalmuscle,Endothelial cell,PLK2,1.0571429,2.629601803155522
+skin,Epithelial cell (keratinocyte),PLK2,1.0217391,2.362609142270159
+heart,Glia,PLK2,1.0,2.013422818791946
+breast,Muscle,PLK2,1.0,1.973684210526316
+esophagusmucosa,Glia,PLK2,1.0,1.5384615384615383
+breast,Endothelial cell,PLK2,1.0,1.4755959137343928
+skin,Immune (lymphocyte),PLK2,1.0,1.3333333333333337
+lung,Fibroblast,PLK2,1.2777778,1.2195121951219512
+esophagusmuscularis,Adipocyte,PLK2,1.0,1.1428571428571428
+skin,Muscle,PLK2,1.0,1.0752688172043012
+prostate,Epithelial cell,PLK2,1.1369295,1.044510900186365
+heart,Adipocyte,PLK2,1.0,1.0362694300518136
+esophagusmucosa,Fibroblast,PLK2,1.1034483,1.0301953818827707
+esophagusmuscularis,Glia,PLK2,1.0,0.9278350515463918
+skin,Epithelial cell,PLK2,1.2,0.8305647840531563
+prostate,Muscle,PLK2,1.1111112,0.8024966562639322
+skin,Melanocyte,PLK2,1.5,0.7352941176470588
+esophagusmuscularis,Immune (lymphocyte),PLK2,1.0,0.6644518272425249
+esophagusmuscularis,Fibroblast,PLK2,1.0895523,0.6436737438754924
+breast,Fibroblast,PLK2,1.0,0.6105006105006106
+skin,Immune (myeloid),PLK2,1.0,0.5586592178770949
+prostate,Fibroblast,PLK2,1.0,0.5253940455341506
+prostate,Immune (myeloid),PLK2,1.0,0.3891050583657587
+esophagusmucosa,Immune (myeloid),PLK2,1.4,0.3576537911301859
+lung,Epithelial cell,PLK2,1.0273973,0.3032191069574247
+breast,Immune (myeloid),PLK2,1.0,0.2793296089385474
+esophagusmucosa,Immune (lymphocyte),PLK2,1.0,0.275027502750275
+esophagusmuscularis,Muscle,PLK2,1.05,0.2690160737104042
+esophagusmucosa,Muscle,PLK2,1.0,0.1996007984031935
+breast,Adipocyte,PLK2,1.6666666,0.1703577512776831
+prostate,Immune (lymphocyte),PLK2,1.0,0.1466275659824047
+heart,Immune (lymphocyte),PLK2,1.0,0.1432664756446991
+lung,Immune (lymphocyte),PLK2,1.0,0.1379310344827586
+skeletalmuscle,Fibroblast,PLK2,1.0,0.1177658142664872
+heart,Fibroblast,PLK2,1.1111112,0.0969096586626467
+heart,Immune (myeloid),PLK2,1.0,0.093764650726676
+lung,Immune (myeloid),PLK2,1.0,0.0819806525659944
+skeletalmuscle,Muscle,PLK2,1.0,0.0354437109565371
+esophagusmuscularis,Immune (myeloid),PLK2,1.0,0.0337495781302733
+lung,Muscle,PLK2,0.0,0.0
+skeletalmuscle,Adipocyte,PLK2,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),PLK2,0.0,0.0
+skin,Adipocyte,PLK2,0.0,0.0
+skeletalmuscle,Immune (myeloid),PLK2,0.0,0.0
+skeletalmuscle,Glia,PLK2,0.0,0.0
+skin,Fibroblast,PLK2,0.0,0.0

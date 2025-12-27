@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+lung,Immune (myeloid),TEC,1.4304775,23.34808985079521
+heart,Immune (myeloid),TEC,1.1948775,14.033442725425848
+esophagusmuscularis,Immune (myeloid),TEC,1.1275,13.499831252109349
+esophagusmucosa,Epithelial cell,TEC,1.3750846,10.706001739634678
+heart,Muscle,TEC,1.2408985,10.701259946949602
+breast,Immune (myeloid),TEC,1.1891892,10.335195530726256
+skeletalmuscle,Immune (myeloid),TEC,1.08,10.176390773405698
+esophagusmucosa,Immune (myeloid),TEC,1.1428572,9.012875536480689
+lung,Epithelial cell,TEC,1.1238362,8.922118380062305
+prostate,Immune (myeloid),TEC,1.1558442,7.490272373540856
+skin,Immune (myeloid),TEC,1.0769231,7.262569832402235
+skin,Epithelial cell,TEC,1.1578947,6.312292358803987
+esophagusmuscularis,Adipocyte,TEC,1.0,4.571428571428571
+skin,Epithelial cell (keratinocyte),TEC,1.1590909,4.519774011299435
+esophagusmuscularis,Neuron,TEC,1.0,4.0
+skin,Immune (lymphocyte),TEC,1.0,4.0
+esophagusmucosa,Stromal,TEC,1.0769231,3.9433771486349847
+esophagusmuscularis,Immune (lymphocyte),TEC,1.0,3.654485049833888
+skin,Endothelial cell,TEC,1.0,3.6168132942326494
+skin,Melanocyte,TEC,1.0,3.308823529411765
+prostate,Immune (lymphocyte),TEC,1.1363636,3.225806451612903
+esophagusmucosa,Glia,TEC,1.0,3.076923076923077
+lung,Muscle,TEC,1.0,3.067484662576687
+prostate,Glia,TEC,1.0,2.985074626865672
+prostate,Epithelial cell,TEC,1.0790629,2.96016989554891
+heart,Immune (lymphocyte),TEC,1.1,2.865329512893983
+skeletalmuscle,Glia,TEC,1.0,2.857142857142857
+esophagusmucosa,Muscle,TEC,1.0,2.7944111776447107
+esophagusmuscularis,Glia,TEC,1.1481482,2.783505154639176
+esophagusmucosa,Immune (lymphocyte),TEC,1.1224489,2.695269526952695
+breast,Epithelial cell,TEC,1.0723684,2.621141576133816
+prostate,Endothelial cell,TEC,1.1081082,2.618542108987969
+esophagusmucosa,Endothelial cell,TEC,1.0940171,2.501068832834545
+esophagusmuscularis,Endothelial cell,TEC,1.1030928,2.1744003586639766
+skin,Muscle,TEC,1.0,2.1505376344086025
+heart,Adipocyte,TEC,1.25,2.072538860103627
+prostate,Muscle,TEC,1.0222223,2.0062416406598307
+skeletalmuscle,Immune (lymphocyte),TEC,1.0,2.0
+skin,Other,TEC,1.1111112,1.991150442477876
+lung,Immune (lymphocyte),TEC,1.1428572,1.9310344827586208
+skin,Fibroblast,TEC,1.1,1.890359168241966
+lung,Fibroblast,TEC,1.0,1.829268292682927
+lung,Endothelial cell,TEC,1.0208334,1.7479970866715222
+breast,Adipocyte,TEC,1.0666667,1.7035775127768311
+skin,Adipocyte,TEC,1.0,1.6129032258064515
+breast,Endothelial cell,TEC,1.0769231,1.4755959137343928
+skeletalmuscle,Muscle,TEC,1.030303,1.4620530769571574
+heart,Endothelial cell,TEC,1.0648148,1.4145383104125735
+skeletalmuscle,Endothelial cell,TEC,1.0555556,1.35236664162284
+heart,Fibroblast,TEC,1.056,1.3459674814256488
+esophagusmuscularis,Muscle,TEC,1.0309278,1.3047279574954602
+skeletalmuscle,Fibroblast,TEC,1.0,1.0430686406460297
+esophagusmucosa,Fibroblast,TEC,1.0,0.8170515097690942
+esophagusmuscularis,Fibroblast,TEC,1.0238096,0.8069939475453934
+breast,Fibroblast,TEC,1.0,0.7326007326007326
+prostate,Fibroblast,TEC,1.125,0.7005253940455342
+heart,Glia,TEC,1.0,0.6711409395973155
+breast,Muscle,TEC,1.0,0.6578947368421052
+skeletalmuscle,Adipocyte,TEC,1.0,0.628930817610063

@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+prostate,Immune (myeloid),CSF1R,1.4107648,34.33852140077821
+heart,Immune (myeloid),CSF1R,1.3853301,31.958118456008748
+esophagusmucosa,Immune (myeloid),CSF1R,1.3932854,29.82832618025751
+skeletalmuscle,Immune (myeloid),CSF1R,1.2931035,23.609226594301223
+breast,Immune (myeloid),CSF1R,1.3561643,20.391061452513966
+skin,Immune (myeloid),CSF1R,1.2,16.75977653631285
+esophagusmuscularis,Immune (myeloid),CSF1R,1.2008547,15.794802564967938
+lung,Immune (myeloid),CSF1R,1.1962458,9.608132480734549
+heart,Adipocyte,CSF1R,1.3333334,4.66321243523316
+skeletalmuscle,Muscle,CSF1R,1.0938447,4.390589694741039
+esophagusmuscularis,Neuron,CSF1R,2.0,4.0
+esophagusmuscularis,Adipocyte,CSF1R,1.0,2.857142857142857
+lung,Muscle,CSF1R,1.0,2.4539877300613497
+esophagusmucosa,Stromal,CSF1R,1.1578947,1.9211324570273005
+heart,Muscle,CSF1R,1.1961722,1.732427055702918
+esophagusmucosa,Muscle,CSF1R,1.0,1.596806387225549
+prostate,Glia,CSF1R,1.0,1.4925373134328357
+skin,Muscle,CSF1R,1.0,1.0752688172043012
+skeletalmuscle,Immune (lymphocyte),CSF1R,1.0,1.0
+breast,Fibroblast,CSF1R,1.0,0.9768009768009768
+prostate,Muscle,CSF1R,1.0952381,0.9362460989745875
+skin,Other,CSF1R,1.0,0.8849557522123894
+heart,Immune (lymphocyte),CSF1R,1.0,0.8595988538681949
+esophagusmuscularis,Glia,CSF1R,1.125,0.8247422680412372
+prostate,Fibroblast,CSF1R,1.3333334,0.7880910683012259
+skin,Melanocyte,CSF1R,1.0,0.7352941176470588
+heart,Glia,CSF1R,1.5,0.6711409395973155
+breast,Muscle,CSF1R,2.0,0.6578947368421052
+skeletalmuscle,Adipocyte,CSF1R,1.0,0.628930817610063
+lung,Endothelial cell,CSF1R,1.0,0.6190823015294974
+skin,Fibroblast,CSF1R,1.0,0.5671077504725899
+skeletalmuscle,Endothelial cell,CSF1R,1.0,0.5259203606311045
+esophagusmuscularis,Muscle,CSF1R,1.051282,0.5245813437352882
+lung,Epithelial cell,CSF1R,1.0241935,0.5150571131879543
+heart,Fibroblast,CSF1R,1.1086956,0.4953160331646387
+esophagusmucosa,Fibroblast,CSF1R,1.1666666,0.4262877442273534
+prostate,Endothelial cell,CSF1R,1.0833334,0.4246284501061571
+esophagusmucosa,Endothelial cell,CSF1R,1.2105263,0.4061564771269773
+skin,Endothelial cell,CSF1R,1.25,0.3910068426197458
+lung,Fibroblast,CSF1R,1.0,0.3387533875338753
+esophagusmuscularis,Immune (lymphocyte),CSF1R,1.0,0.3322259136212624
+heart,Endothelial cell,CSF1R,1.0833334,0.3143418467583497
+esophagusmucosa,Epithelial cell,CSF1R,1.1860465,0.3116845462452885
+skin,Epithelial cell (keratinocyte),CSF1R,1.0,0.3081664098613251
+prostate,Epithelial cell,CSF1R,1.0882353,0.2947167685173146
+breast,Endothelial cell,CSF1R,1.0,0.2270147559591373
+breast,Epithelial cell,CSF1R,1.0,0.1896878772202103
+skin,Epithelial cell,CSF1R,1.0,0.1661129568106312
+esophagusmuscularis,Fibroblast,CSF1R,1.0588236,0.163320203669901
+prostate,Immune (lymphocyte),CSF1R,1.0,0.1466275659824047
+lung,Immune (lymphocyte),CSF1R,1.0,0.1379310344827586
+esophagusmuscularis,Endothelial cell,CSF1R,1.0,0.1344989912575655
+breast,Adipocyte,CSF1R,1.0,0.1135718341851221
+esophagusmucosa,Immune (lymphocyte),CSF1R,1.0,0.11001100110011
+skeletalmuscle,Fibroblast,CSF1R,1.2,0.0841184387617765
+esophagusmucosa,Glia,CSF1R,0.0,0.0
+skeletalmuscle,Glia,CSF1R,0.0,0.0
+skin,Adipocyte,CSF1R,0.0,0.0
+skin,Immune (lymphocyte),CSF1R,0.0,0.0

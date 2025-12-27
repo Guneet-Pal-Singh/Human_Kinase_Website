@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (cornified keratinocyte),TNK2,0.71516246
+Myoepithelial (basal),TNK2,0.5422194
+Epithelial cell (mature keratinocyte),TNK2,0.5163541
+Myofibroblast,TNK2,0.48532495
+Myocyte (NMJ-rich),TNK2,0.4839787
+Epithelial cell (squamous),TNK2,0.4464064
+Epithelial cell (suprabasal),TNK2,0.43992803
+Neuronal,TNK2,0.41927126
+Immune (B cell),TNK2,0.37833074
+Adipocyte,TNK2,0.37382087
+Epithelial cell (basal keratinocyte),TNK2,0.3635958
+Myocyte (sk. muscle),TNK2,0.34075975
+Epithelial cell (basal),TNK2,0.33407167
+Epithelial cell (suprabasal keratinocyte),TNK2,0.3326537
+Epithelial cell (Hillock),TNK2,0.29073408
+Neuroendocrine,TNK2,0.24508318
+Immune (Langerhans),TNK2,0.24356917
+Immune (T cell),TNK2,0.22940823
+Immune (DC/macrophage),TNK2,0.22800352
+Epithelial cell (luminal),TNK2,0.2258851
+Mucous cell,TNK2,0.21442436
+Immune (alveolar macrophage),TNK2,0.20588987
+Schwann cell,TNK2,0.19867733
+Sebaceous gland cell,TNK2,0.17526858
+Immune (DC),TNK2,0.17160502
+Immune (NK cell),TNK2,0.17109218
+Melanocyte,TNK2,0.1605539
+Epithelial cell (ciliated),TNK2,0.15944947
+Epithelial cell (club),TNK2,0.15658523
+"Myocyte (sk. muscle, cytoplasmic)",TNK2,0.15482336
+Epithelial cell (alveolar type I),TNK2,0.14088343
+Myocyte (smooth muscle),TNK2,0.12889883
+Myocyte (cardiac),TNK2,0.12531051
+Epithelial cell (alveolar type II),TNK2,0.11986916
+Endothelial cell (lymphatic),TNK2,0.11216362
+Endothelial cell (vascular),TNK2,0.09448963
+Pericyte/SMC,TNK2,0.09222
+ICCs,TNK2,0.082804754
+"Myocyte (cardiac, cytoplasmic)",TNK2,0.06323032
+Immune (mast cell),TNK2,0.057774127
+Satellite cell,TNK2,0.05716132
+Fibroblast,TNK2,0.049964182
+Sweat gland cell,TNK2,0.0459206

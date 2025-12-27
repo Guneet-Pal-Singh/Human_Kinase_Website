@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (ciliated),CDKL1,0.95014036
+Endothelial cell (lymphatic),CDKL1,0.6871766
+Epithelial cell (alveolar type I),CDKL1,0.48394725
+Myocyte (sk. muscle),CDKL1,0.38259014
+Myocyte (NMJ-rich),CDKL1,0.37165543
+Epithelial cell (alveolar type II),CDKL1,0.37139687
+Adipocyte,CDKL1,0.32835007
+Immune (alveolar macrophage),CDKL1,0.316113
+Epithelial cell (basal keratinocyte),CDKL1,0.27784896
+Fibroblast,CDKL1,0.26054615
+Epithelial cell (suprabasal),CDKL1,0.25126234
+Myofibroblast,CDKL1,0.24402262
+Schwann cell,CDKL1,0.2247601
+Neuronal,CDKL1,0.19948722
+Pericyte/SMC,CDKL1,0.19439963
+Epithelial cell (basal),CDKL1,0.1904592
+Immune (mast cell),CDKL1,0.18682969
+Sweat gland cell,CDKL1,0.1853777
+Satellite cell,CDKL1,0.1825053
+ICCs,CDKL1,0.17512341
+Epithelial cell (cornified keratinocyte),CDKL1,0.16076685
+Myocyte (smooth muscle),CDKL1,0.15465389
+Immune (DC),CDKL1,0.1478384
+Myocyte (cardiac),CDKL1,0.1461945
+Endothelial cell (vascular),CDKL1,0.1446041
+Immune (T cell),CDKL1,0.13434201
+Melanocyte,CDKL1,0.1297119
+Epithelial cell (mature keratinocyte),CDKL1,0.12547465
+Epithelial cell (club),CDKL1,0.117058374
+Immune (B cell),CDKL1,0.11189549
+Epithelial cell (suprabasal keratinocyte),CDKL1,0.10346695
+Immune (NK cell),CDKL1,0.09379714
+Epithelial cell (Hillock),CDKL1,0.090828314
+Myoepithelial (basal),CDKL1,0.08959142
+Mucous cell,CDKL1,0.08723022
+Sebaceous gland cell,CDKL1,0.08634164
+Immune (DC/macrophage),CDKL1,0.0852332
+"Myocyte (sk. muscle, cytoplasmic)",CDKL1,0.08362476
+Epithelial cell (luminal),CDKL1,0.07118704
+Epithelial cell (squamous),CDKL1,0.040875297
+"Myocyte (cardiac, cytoplasmic)",CDKL1,0.029218802
+Immune (Langerhans),CDKL1,0.0
+Neuroendocrine,CDKL1,0.0

@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Neuronal,STK25,0.5852798
+"Myocyte (sk. muscle, cytoplasmic)",STK25,0.53065395
+Epithelial cell (suprabasal),STK25,0.42531607
+Myofibroblast,STK25,0.41808742
+Immune (Langerhans),STK25,0.33745626
+Epithelial cell (squamous),STK25,0.30612442
+Endothelial cell (lymphatic),STK25,0.30427012
+Epithelial cell (suprabasal keratinocyte),STK25,0.30297548
+Neuroendocrine,STK25,0.28705356
+"Myocyte (cardiac, cytoplasmic)",STK25,0.27040783
+Epithelial cell (basal),STK25,0.26941237
+Epithelial cell (mature keratinocyte),STK25,0.25625563
+Mucous cell,STK25,0.2558632
+Adipocyte,STK25,0.24719392
+Epithelial cell (basal keratinocyte),STK25,0.24327642
+Epithelial cell (Hillock),STK25,0.23383805
+Immune (DC),STK25,0.23365654
+Epithelial cell (luminal),STK25,0.2146338
+Epithelial cell (cornified keratinocyte),STK25,0.18750341
+Endothelial cell (vascular),STK25,0.18195386
+Myocyte (smooth muscle),STK25,0.18104258
+Epithelial cell (club),STK25,0.17392626
+Myoepithelial (basal),STK25,0.16685066
+Sebaceous gland cell,STK25,0.16324182
+Immune (B cell),STK25,0.15898497
+Epithelial cell (alveolar type I),STK25,0.15518263
+Fibroblast,STK25,0.1430699
+Immune (alveolar macrophage),STK25,0.13385965
+Myocyte (cardiac),STK25,0.13117214
+ICCs,STK25,0.12920423
+Immune (DC/macrophage),STK25,0.12764253
+Pericyte/SMC,STK25,0.12601893
+Epithelial cell (alveolar type II),STK25,0.12483914
+Myocyte (NMJ-rich),STK25,0.120672785
+Epithelial cell (ciliated),STK25,0.11612262
+Immune (T cell),STK25,0.10350313
+Schwann cell,STK25,0.101055406
+Immune (mast cell),STK25,0.08555366
+Satellite cell,STK25,0.077003926
+Immune (NK cell),STK25,0.07597133
+Sweat gland cell,STK25,0.056533698
+Melanocyte,STK25,0.050318655
+Myocyte (sk. muscle),STK25,0.031704064

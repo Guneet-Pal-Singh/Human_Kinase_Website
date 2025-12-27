@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+heart,Muscle,MYLK3,2.2705693,41.20523872679045
+esophagusmuscularis,Neuron,MYLK3,1.0,4.0
+skeletalmuscle,Muscle,MYLK3,1.0836197,3.867794958132116
+lung,Immune (myeloid),MYLK3,1.0384616,2.984095753402197
+heart,Adipocyte,MYLK3,1.0,2.5906735751295336
+lung,Epithelial cell,MYLK3,1.0562613,2.288681204569055
+lung,Endothelial cell,MYLK3,1.032258,2.2578295702840494
+skin,Epithelial cell,MYLK3,1.0,1.827242524916944
+lung,Fibroblast,MYLK3,1.0,1.7615176151761516
+skeletalmuscle,Adipocyte,MYLK3,1.0,1.257861635220126
+lung,Muscle,MYLK3,1.0,1.2269938650306749
+esophagusmuscularis,Adipocyte,MYLK3,1.0,1.1428571428571428
+skin,Endothelial cell,MYLK3,1.0,0.9775171065493646
+lung,Immune (lymphocyte),MYLK3,1.0,0.9655172413793104
+esophagusmucosa,Stromal,MYLK3,1.0,0.910010111223458
+skeletalmuscle,Endothelial cell,MYLK3,1.0,0.9015777610818932
+prostate,Immune (myeloid),MYLK3,1.0,0.8754863813229572
+esophagusmuscularis,Muscle,MYLK3,1.0078125,0.8608514358732935
+prostate,Muscle,MYLK3,1.0,0.8470798038341507
+prostate,Epithelial cell,MYLK3,1.0105263,0.823473323798379
+skeletalmuscle,Immune (myeloid),MYLK3,1.0,0.8141112618724559
+skeletalmuscle,Fibroblast,MYLK3,1.0212766,0.7907133243607
+skin,Fibroblast,MYLK3,1.0,0.7561436672967864
+esophagusmuscularis,Endothelial cell,MYLK3,1.0,0.7397444519166106
+breast,Fibroblast,MYLK3,1.0,0.7326007326007326
+skin,Epithelial cell (keratinocyte),MYLK3,1.0,0.7190549563430919
+breast,Adipocyte,MYLK3,1.0,0.6246450880181714
+esophagusmucosa,Muscle,MYLK3,1.0,0.5988023952095809
+prostate,Endothelial cell,MYLK3,1.0,0.5661712668082095
+breast,Immune (myeloid),MYLK3,1.0,0.5586592178770949
+breast,Epithelial cell,MYLK3,1.03125,0.5518192791860665
+skin,Muscle,MYLK3,1.0,0.5376344086021506
+esophagusmucosa,Fibroblast,MYLK3,1.0,0.5328596802841918
+esophagusmuscularis,Glia,MYLK3,1.0,0.5154639175257731
+esophagusmuscularis,Fibroblast,MYLK3,1.0,0.5091747526179269
+breast,Endothelial cell,MYLK3,1.0,0.4540295119182747
+esophagusmuscularis,Immune (myeloid),MYLK3,1.0,0.4387445156935539
+esophagusmucosa,Immune (myeloid),MYLK3,1.0,0.4291845493562232
+esophagusmucosa,Epithelial cell,MYLK3,1.0169492,0.4276601913598145
+esophagusmucosa,Endothelial cell,MYLK3,1.0,0.4061564771269773
+esophagusmucosa,Immune (lymphocyte),MYLK3,1.0,0.385038503850385
+prostate,Fibroblast,MYLK3,1.0,0.3502626970227671
+heart,Glia,MYLK3,1.0,0.3355704697986577
+esophagusmuscularis,Immune (lymphocyte),MYLK3,1.0,0.3322259136212624
+prostate,Immune (lymphocyte),MYLK3,1.0,0.2932551319648094
+skin,Other,MYLK3,1.0,0.2212389380530973
+heart,Fibroblast,MYLK3,1.0,0.2153547970281037
+heart,Endothelial cell,MYLK3,1.0,0.1964636542239685
+heart,Immune (myeloid),MYLK3,1.4,0.1562744178777934
+heart,Immune (lymphocyte),MYLK3,1.0,0.1432664756446991
+esophagusmucosa,Glia,MYLK3,0.0,0.0
+breast,Muscle,MYLK3,0.0,0.0
+prostate,Glia,MYLK3,0.0,0.0
+skeletalmuscle,Glia,MYLK3,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),MYLK3,0.0,0.0
+skin,Adipocyte,MYLK3,0.0,0.0
+skin,Immune (lymphocyte),MYLK3,0.0,0.0
+skin,Melanocyte,MYLK3,0.0,0.0
+skin,Immune (myeloid),MYLK3,0.0,0.0

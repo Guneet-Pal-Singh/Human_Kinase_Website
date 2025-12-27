@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skeletalmuscle,Immune (myeloid),CSNK2B,1.0,0.1356852103120759
+breast,Endothelial cell,CSNK2B,1.0,0.1135073779795686
+esophagusmucosa,Stromal,CSNK2B,1.0,0.1011122345803842
+breast,Epithelial cell,CSNK2B,1.0,0.0689774098982583
+esophagusmuscularis,Immune (myeloid),CSNK2B,1.0,0.0674991562605467
+skeletalmuscle,Fibroblast,CSNK2B,1.0,0.0672947510094212
+breast,Adipocyte,CSNK2B,1.0,0.056785917092561
+esophagusmucosa,Immune (lymphocyte),CSNK2B,1.0,0.055005500550055
+skeletalmuscle,Muscle,CSNK2B,1.0,0.0443046386956714
+esophagusmuscularis,Muscle,CSNK2B,1.0,0.0403524110565606
+esophagusmuscularis,Fibroblast,CSNK2B,1.0,0.0384282832164473
+esophagusmucosa,Epithelial cell,CSNK2B,1.0,0.0362423890982893
+esophagusmucosa,Fibroblast,CSNK2B,1.0,0.0355239786856127
+heart,Fibroblast,CSNK2B,1.0,0.0323032195542155
+heart,Muscle,CSNK2B,1.0,0.01657824933687
+lung,Immune (myeloid),CSNK2B,1.0,0.0163961305131988
+prostate,Epithelial cell,CSNK2B,1.0,0.0130022103757638
+esophagusmucosa,Glia,CSNK2B,0.0,0.0
+breast,Immune (myeloid),CSNK2B,0.0,0.0
+esophagusmuscularis,Immune (lymphocyte),CSNK2B,0.0,0.0
+esophagusmuscularis,Glia,CSNK2B,0.0,0.0
+breast,Muscle,CSNK2B,0.0,0.0
+esophagusmucosa,Endothelial cell,CSNK2B,0.0,0.0
+breast,Fibroblast,CSNK2B,0.0,0.0
+esophagusmuscularis,Adipocyte,CSNK2B,0.0,0.0
+esophagusmucosa,Muscle,CSNK2B,0.0,0.0
+esophagusmucosa,Immune (myeloid),CSNK2B,0.0,0.0
+heart,Immune (lymphocyte),CSNK2B,0.0,0.0
+heart,Glia,CSNK2B,0.0,0.0
+heart,Endothelial cell,CSNK2B,0.0,0.0
+heart,Adipocyte,CSNK2B,0.0,0.0
+esophagusmuscularis,Neuron,CSNK2B,0.0,0.0
+esophagusmuscularis,Endothelial cell,CSNK2B,0.0,0.0
+lung,Epithelial cell,CSNK2B,0.0,0.0
+lung,Endothelial cell,CSNK2B,0.0,0.0
+lung,Muscle,CSNK2B,0.0,0.0
+prostate,Endothelial cell,CSNK2B,0.0,0.0
+prostate,Fibroblast,CSNK2B,0.0,0.0
+prostate,Glia,CSNK2B,0.0,0.0
+prostate,Immune (lymphocyte),CSNK2B,0.0,0.0
+lung,Fibroblast,CSNK2B,0.0,0.0
+lung,Immune (lymphocyte),CSNK2B,0.0,0.0
+heart,Immune (myeloid),CSNK2B,0.0,0.0
+skeletalmuscle,Adipocyte,CSNK2B,0.0,0.0
+prostate,Muscle,CSNK2B,0.0,0.0
+prostate,Immune (myeloid),CSNK2B,0.0,0.0
+skeletalmuscle,Endothelial cell,CSNK2B,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),CSNK2B,0.0,0.0
+skeletalmuscle,Glia,CSNK2B,0.0,0.0
+skin,Adipocyte,CSNK2B,0.0,0.0
+skin,Endothelial cell,CSNK2B,0.0,0.0
+skin,Epithelial cell,CSNK2B,0.0,0.0
+skin,Epithelial cell (keratinocyte),CSNK2B,0.0,0.0
+skin,Fibroblast,CSNK2B,0.0,0.0
+skin,Immune (lymphocyte),CSNK2B,0.0,0.0
+skin,Immune (myeloid),CSNK2B,0.0,0.0
+skin,Melanocyte,CSNK2B,0.0,0.0
+skin,Muscle,CSNK2B,0.0,0.0
+skin,Other,CSNK2B,0.0,0.0

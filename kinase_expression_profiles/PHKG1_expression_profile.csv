@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Myocyte (sk. muscle),PHKG1,0.9153207
+Myocyte (NMJ-rich),PHKG1,0.45696223
+"Myocyte (sk. muscle, cytoplasmic)",PHKG1,0.3688878
+Myocyte (cardiac),PHKG1,0.1983019
+Epithelial cell (Hillock),PHKG1,0.18272516
+Immune (alveolar macrophage),PHKG1,0.17274337
+Satellite cell,PHKG1,0.16782343
+Epithelial cell (ciliated),PHKG1,0.15912946
+Myocyte (smooth muscle),PHKG1,0.15802515
+Fibroblast,PHKG1,0.1497293
+Immune (NK cell),PHKG1,0.14836021
+Epithelial cell (luminal),PHKG1,0.14668317
+Schwann cell,PHKG1,0.11992534
+Epithelial cell (club),PHKG1,0.11821016
+Sebaceous gland cell,PHKG1,0.11548568
+Epithelial cell (mature keratinocyte),PHKG1,0.11099076
+Pericyte/SMC,PHKG1,0.10240426
+Neuroendocrine,PHKG1,0.102132544
+Epithelial cell (alveolar type II),PHKG1,0.10191606
+Epithelial cell (alveolar type I),PHKG1,0.097037904
+Epithelial cell (basal),PHKG1,0.0963312
+Immune (DC/macrophage),PHKG1,0.090871595
+Immune (mast cell),PHKG1,0.08828004
+Endothelial cell (vascular),PHKG1,0.087802395
+Sweat gland cell,PHKG1,0.08742302
+Adipocyte,PHKG1,0.08664146
+Immune (T cell),PHKG1,0.083971865
+ICCs,PHKG1,0.076978326
+Epithelial cell (basal keratinocyte),PHKG1,0.07602191
+Immune (DC),PHKG1,0.07586348
+Myofibroblast,PHKG1,0.070603
+Mucous cell,PHKG1,0.064916894
+Endothelial cell (lymphatic),PHKG1,0.06347013
+Epithelial cell (suprabasal),PHKG1,0.062001657
+Myoepithelial (basal),PHKG1,0.06116153
+Epithelial cell (suprabasal keratinocyte),PHKG1,0.057899207
+Melanocyte,PHKG1,0.055713214
+"Myocyte (cardiac, cytoplasmic)",PHKG1,0.054743245
+Epithelial cell (cornified keratinocyte),PHKG1,0.050529238
+Immune (B cell),PHKG1,0.037975352
+Epithelial cell (squamous),PHKG1,0.011474506
+Immune (Langerhans),PHKG1,0.0
+Neuronal,PHKG1,0.0

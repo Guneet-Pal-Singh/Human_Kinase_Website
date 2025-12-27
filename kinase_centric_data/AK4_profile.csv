@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+heart,Adipocyte,AK4,1.3421053,19.68911917098445
+breast,Adipocyte,AK4,1.2142857,19.08006814310051
+heart,Muscle,AK4,1.303157,17.854774535809018
+esophagusmuscularis,Adipocyte,AK4,1.0384616,14.857142857142858
+esophagusmuscularis,Neuron,AK4,1.0,12.0
+esophagusmuscularis,Muscle,AK4,1.2277051,11.312125899522496
+skin,Adipocyte,AK4,1.0,9.67741935483871
+prostate,Muscle,AK4,1.1633663,9.005795809184129
+prostate,Epithelial cell,AK4,1.2039374,8.585792918129416
+esophagusmucosa,Epithelial cell,AK4,1.1768402,8.07480429109887
+skin,Epithelial cell (keratinocyte),AK4,1.1643835,7.498715973292244
+esophagusmucosa,Stromal,AK4,1.027027,7.482305358948432
+skin,Other,AK4,1.1935484,6.8584070796460175
+breast,Muscle,AK4,1.2222222,5.921052631578947
+skeletalmuscle,Adipocyte,AK4,1.1111112,5.660377358490567
+breast,Epithelial cell,AK4,1.0992647,4.6904638730815655
+prostate,Glia,AK4,1.0,4.477611940298507
+skin,Epithelial cell,AK4,1.1666666,3.986710963455149
+breast,Fibroblast,AK4,1.0344827,3.5409035409035408
+prostate,Endothelial cell,AK4,1.0561798,3.149327671620665
+heart,Fibroblast,AK4,1.0678571,3.0149671583934534
+skeletalmuscle,Glia,AK4,1.0,2.857142857142857
+esophagusmucosa,Endothelial cell,AK4,1.0909091,2.821718683197948
+breast,Immune (myeloid),AK4,1.1111112,2.5139664804469275
+esophagusmuscularis,Endothelial cell,AK4,1.0566038,2.376148845550325
+skin,Endothelial cell,AK4,1.0416666,2.346041055718475
+esophagusmuscularis,Glia,AK4,1.2380953,2.1649484536082477
+skin,Muscle,AK4,1.25,2.1505376344086025
+lung,Endothelial cell,AK4,1.0517242,2.112163146394756
+esophagusmucosa,Muscle,AK4,1.0,1.996007984031936
+lung,Fibroblast,AK4,1.0344827,1.9647696476964769
+lung,Muscle,AK4,1.0,1.8404907975460123
+lung,Immune (myeloid),AK4,1.0288461,1.705197573372684
+esophagusmucosa,Glia,AK4,1.0,1.5384615384615383
+breast,Endothelial cell,AK4,1.0,1.4755959137343928
+skeletalmuscle,Endothelial cell,AK4,1.0555556,1.35236664162284
+heart,Glia,AK4,1.0,1.342281879194631
+esophagusmuscularis,Fibroblast,AK4,1.0839695,1.2585262753386492
+lung,Epithelial cell,AK4,1.0238907,1.217030114226376
+heart,Endothelial cell,AK4,1.021978,1.191879502292076
+prostate,Fibroblast,AK4,1.0769231,1.138353765323993
+skin,Fibroblast,AK4,1.1666666,1.1342155009451798
+esophagusmucosa,Immune (myeloid),AK4,1.0,1.072961373390558
+skeletalmuscle,Immune (lymphocyte),AK4,1.0,1.0
+skeletalmuscle,Immune (myeloid),AK4,1.0,0.949796472184532
+skeletalmuscle,Fibroblast,AK4,1.0,0.8411843876177658
+heart,Immune (myeloid),AK4,1.0,0.7032348804500703
+skeletalmuscle,Muscle,AK4,1.0070922,0.6246954056089673
+esophagusmucosa,Fibroblast,AK4,1.0,0.6039076376554174
+prostate,Immune (lymphocyte),AK4,1.0,0.5865102639296188
+skin,Immune (myeloid),AK4,1.0,0.5586592178770949
+prostate,Immune (myeloid),AK4,1.0,0.4863813229571984
+esophagusmuscularis,Immune (myeloid),AK4,1.0,0.4724940938238272
+lung,Immune (lymphocyte),AK4,1.0,0.4137931034482758
+skin,Melanocyte,AK4,1.0,0.3676470588235294
+esophagusmuscularis,Immune (lymphocyte),AK4,1.0,0.3322259136212624
+esophagusmucosa,Immune (lymphocyte),AK4,1.0,0.22002200220022
+heart,Immune (lymphocyte),AK4,1.0,0.1432664756446991
+skin,Immune (lymphocyte),AK4,0.0,0.0

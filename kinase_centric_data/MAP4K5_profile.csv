@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Neuron,MAP4K5,1.75,32.0
+prostate,Muscle,MAP4K5,1.472561,29.24654480606331
+heart,Glia,MAP4K5,1.1604939,27.181208053691275
+skin,Epithelial cell (keratinocyte),MAP4K5,1.3087379,26.450950179763737
+lung,Immune (myeloid),MAP4K5,1.2913597,24.479422856205936
+skin,Endothelial cell,MAP4K5,1.2971888,24.34017595307918
+prostate,Glia,MAP4K5,1.625,23.88059701492537
+skin,Other,MAP4K5,1.2523365,23.672566371681416
+esophagusmucosa,Stromal,MAP4K5,1.3547008,23.660262891809907
+heart,Adipocyte,MAP4K5,1.3181819,22.797927461139896
+prostate,Fibroblast,MAP4K5,1.2955465,21.62872154115587
+esophagusmucosa,Epithelial cell,MAP4K5,1.322375,21.60771238040012
+prostate,Endothelial cell,MAP4K5,1.2247934,21.40835102618542
+esophagusmuscularis,Adipocyte,MAP4K5,1.3513514,21.142857142857142
+skin,Muscle,MAP4K5,1.3846154,20.967741935483872
+prostate,Epithelial cell,MAP4K5,1.2874657,20.50448576257964
+breast,Epithelial cell,MAP4K5,1.2964528,20.41731332988446
+esophagusmucosa,Glia,MAP4K5,1.0,20.0
+esophagusmuscularis,Glia,MAP4K5,1.160221,18.65979381443299
+breast,Muscle,MAP4K5,1.2962962,17.763157894736842
+breast,Adipocyte,MAP4K5,1.2058823,17.37649063032368
+skin,Fibroblast,MAP4K5,1.2087913,17.20226843100189
+skin,Melanocyte,MAP4K5,1.2391304,16.911764705882355
+esophagusmucosa,Endothelial cell,MAP4K5,1.1907895,16.246259085079092
+skin,Adipocyte,MAP4K5,1.2,16.129032258064516
+lung,Epithelial cell,MAP4K5,1.161733,15.43509865005192
+lung,Endothelial cell,MAP4K5,1.177305,15.40422432629279
+lung,Muscle,MAP4K5,1.12,15.337423312883436
+heart,Fibroblast,MAP4K5,1.1564049,15.214816410035532
+skin,Epithelial cell,MAP4K5,1.1555556,14.950166112956811
+esophagusmuscularis,Endothelial cell,MAP4K5,1.2340425,14.750056041246356
+prostate,Immune (myeloid),MAP4K5,1.2384106,14.688715953307394
+lung,Fibroblast,MAP4K5,1.1666666,14.634146341463412
+skeletalmuscle,Adipocyte,MAP4K5,1.2272727,13.836477987421384
+breast,Endothelial cell,MAP4K5,1.1157025,13.734392735527807
+breast,Fibroblast,MAP4K5,1.1441442,13.553113553113551
+skeletalmuscle,Endothelial cell,MAP4K5,1.1777778,13.5236664162284
+esophagusmucosa,Fibroblast,MAP4K5,1.1333333,13.321492007104796
+heart,Muscle,MAP4K5,1.1795995,13.246021220159152
+esophagusmucosa,Muscle,MAP4K5,1.1746032,12.574850299401197
+esophagusmuscularis,Muscle,MAP4K5,1.1391162,12.327661577779272
+breast,Immune (myeloid),MAP4K5,1.2954545,12.290502793296088
+lung,Immune (lymphocyte),MAP4K5,1.1034483,12.0
+skin,Immune (lymphocyte),MAP4K5,1.2222222,12.0
+heart,Endothelial cell,MAP4K5,1.1402918,11.669941060903732
+esophagusmucosa,Immune (lymphocyte),MAP4K5,1.0970874,11.331133113311331
+esophagusmucosa,Immune (myeloid),MAP4K5,1.1329114,11.301859799713878
+esophagusmuscularis,Fibroblast,MAP4K5,1.1023622,10.980881929099818
+esophagusmuscularis,Immune (lymphocyte),MAP4K5,1.0625,10.6312292358804
+prostate,Immune (lymphocyte),MAP4K5,1.1267606,10.410557184750733
+skeletalmuscle,Muscle,MAP4K5,1.1132404,10.17234504452616
+skeletalmuscle,Fibroblast,MAP4K5,1.1,9.253028263795423
+esophagusmuscularis,Immune (myeloid),MAP4K5,1.0786517,9.01113736078299
+skeletalmuscle,Immune (myeloid),MAP4K5,1.109375,8.683853459972863
+skeletalmuscle,Glia,MAP4K5,1.0,8.571428571428571
+heart,Immune (lymphocyte),MAP4K5,1.0677966,8.45272206303725
+skin,Immune (myeloid),MAP4K5,1.4,8.379888268156424
+heart,Immune (myeloid),MAP4K5,1.1685823,8.157524613220815
+skeletalmuscle,Immune (lymphocyte),MAP4K5,1.25,4.0

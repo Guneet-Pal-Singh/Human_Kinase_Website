@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (DC),SHPK,0.028686306
+Epithelial cell (basal keratinocyte),SHPK,0.010752431
+Epithelial cell (suprabasal keratinocyte),SHPK,0.009445771
+Immune (mast cell),SHPK,0.0074104145
+Epithelial cell (suprabasal),SHPK,0.0047356724
+Immune (T cell),SHPK,0.0034015873
+Myofibroblast,SHPK,0.0032698095
+Epithelial cell (basal),SHPK,0.0027549379
+Epithelial cell (club),SHPK,0.0021801237
+Fibroblast,SHPK,0.001945016
+Epithelial cell (squamous),SHPK,0.0019070585
+Endothelial cell (vascular),SHPK,0.0018665236
+Adipocyte,SHPK,0.0017785797
+Immune (DC/macrophage),SHPK,0.0017713653
+Pericyte/SMC,SHPK,0.0015428909
+Myocyte (cardiac),SHPK,0.0009897645
+Myocyte (smooth muscle),SHPK,0.00082682754
+Endothelial cell (lymphatic),SHPK,0.0006812344
+Myocyte (sk. muscle),SHPK,0.0006143632
+Epithelial cell (luminal),SHPK,0.0003865652
+Epithelial cell (alveolar type II),SHPK,0.00035596016
+Epithelial cell (alveolar type I),SHPK,0.0
+Epithelial cell (Hillock),SHPK,0.0
+Epithelial cell (cornified keratinocyte),SHPK,0.0
+Epithelial cell (ciliated),SHPK,0.0
+Epithelial cell (mature keratinocyte),SHPK,0.0
+Immune (B cell),SHPK,0.0
+Melanocyte,SHPK,0.0
+Immune (alveolar macrophage),SHPK,0.0
+Immune (Langerhans),SHPK,0.0
+Immune (NK cell),SHPK,0.0
+ICCs,SHPK,0.0
+Myocyte (NMJ-rich),SHPK,0.0
+"Myocyte (cardiac, cytoplasmic)",SHPK,0.0
+Mucous cell,SHPK,0.0
+Myoepithelial (basal),SHPK,0.0
+"Myocyte (sk. muscle, cytoplasmic)",SHPK,0.0
+Neuroendocrine,SHPK,0.0
+Neuronal,SHPK,0.0
+Satellite cell,SHPK,0.0
+Schwann cell,SHPK,0.0
+Sebaceous gland cell,SHPK,0.0
+Sweat gland cell,SHPK,0.0

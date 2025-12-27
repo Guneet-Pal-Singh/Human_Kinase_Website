@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (ciliated),AK7,0.7800311
+Epithelial cell (mature keratinocyte),AK7,0.35039118
+Epithelial cell (suprabasal keratinocyte),AK7,0.1940369
+Epithelial cell (alveolar type II),AK7,0.13855506
+Epithelial cell (alveolar type I),AK7,0.13791391
+Immune (alveolar macrophage),AK7,0.10939135
+Sweat gland cell,AK7,0.08176168
+Epithelial cell (club),AK7,0.077268526
+Mucous cell,AK7,0.06485441
+Endothelial cell (vascular),AK7,0.04987895
+Epithelial cell (basal keratinocyte),AK7,0.046767153
+Melanocyte,AK7,0.04671337
+Sebaceous gland cell,AK7,0.045115888
+Myocyte (sk. muscle),AK7,0.045098055
+Myoepithelial (basal),AK7,0.04246746
+Myocyte (cardiac),AK7,0.040808424
+Epithelial cell (luminal),AK7,0.040712625
+Epithelial cell (suprabasal),AK7,0.038840644
+Epithelial cell (Hillock),AK7,0.03862449
+ICCs,AK7,0.037778676
+Epithelial cell (basal),AK7,0.036500473
+Satellite cell,AK7,0.03525285
+Myofibroblast,AK7,0.033811804
+Endothelial cell (lymphatic),AK7,0.032743946
+Schwann cell,AK7,0.032460965
+Neuroendocrine,AK7,0.031263195
+Myocyte (smooth muscle),AK7,0.028596945
+Pericyte/SMC,AK7,0.027517624
+Fibroblast,AK7,0.027232775
+Myocyte (NMJ-rich),AK7,0.026560422
+Adipocyte,AK7,0.02450174
+Immune (mast cell),AK7,0.023773978
+Immune (DC),AK7,0.023239635
+Immune (T cell),AK7,0.021353807
+Immune (DC/macrophage),AK7,0.017784894
+Immune (B cell),AK7,0.0131964
+Epithelial cell (squamous),AK7,0.012540488
+"Myocyte (sk. muscle, cytoplasmic)",AK7,0.005021057
+"Myocyte (cardiac, cytoplasmic)",AK7,0.0043782196
+Epithelial cell (cornified keratinocyte),AK7,0.0
+Immune (NK cell),AK7,0.0
+Immune (Langerhans),AK7,0.0
+Neuronal,AK7,0.0

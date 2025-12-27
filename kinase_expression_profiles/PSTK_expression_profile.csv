@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Neuroendocrine,PSTK,0.11569744
+Neuronal,PSTK,0.092355035
+Myocyte (NMJ-rich),PSTK,0.08360366
+ICCs,PSTK,0.071212746
+Myofibroblast,PSTK,0.056930706
+Sebaceous gland cell,PSTK,0.054009378
+Satellite cell,PSTK,0.05348131
+Immune (alveolar macrophage),PSTK,0.04849203
+Epithelial cell (basal keratinocyte),PSTK,0.047973752
+Myoepithelial (basal),PSTK,0.045832135
+Epithelial cell (alveolar type II),PSTK,0.044662096
+Epithelial cell (luminal),PSTK,0.043600406
+Immune (NK cell),PSTK,0.03887747
+Epithelial cell (ciliated),PSTK,0.038723446
+Myocyte (cardiac),PSTK,0.036358934
+Epithelial cell (basal),PSTK,0.034539055
+Epithelial cell (alveolar type I),PSTK,0.033708986
+Sweat gland cell,PSTK,0.029883184
+Epithelial cell (Hillock),PSTK,0.029676978
+Epithelial cell (club),PSTK,0.029289924
+Fibroblast,PSTK,0.02859762
+Epithelial cell (suprabasal),PSTK,0.027790103
+Schwann cell,PSTK,0.027724478
+"Myocyte (sk. muscle, cytoplasmic)",PSTK,0.027511382
+Myocyte (sk. muscle),PSTK,0.026072882
+Pericyte/SMC,PSTK,0.02497071
+Myocyte (smooth muscle),PSTK,0.024197184
+"Myocyte (cardiac, cytoplasmic)",PSTK,0.023032645
+Immune (T cell),PSTK,0.021464458
+Endothelial cell (vascular),PSTK,0.020269562
+Immune (DC/macrophage),PSTK,0.019572405
+Immune (mast cell),PSTK,0.018840114
+Immune (B cell),PSTK,0.01838273
+Endothelial cell (lymphatic),PSTK,0.013352323
+Adipocyte,PSTK,0.011591376
+Mucous cell,PSTK,0.011149949
+Epithelial cell (squamous),PSTK,0.010468861
+Epithelial cell (mature keratinocyte),PSTK,0.006466652
+Epithelial cell (cornified keratinocyte),PSTK,0.0
+Melanocyte,PSTK,0.0
+Immune (Langerhans),PSTK,0.0
+Immune (DC),PSTK,0.0
+Epithelial cell (suprabasal keratinocyte),PSTK,0.0

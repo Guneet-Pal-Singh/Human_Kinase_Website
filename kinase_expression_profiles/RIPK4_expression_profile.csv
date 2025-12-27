@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (squamous),RIPK4,0.7174616
+Epithelial cell (suprabasal),RIPK4,0.51840675
+Epithelial cell (Hillock),RIPK4,0.27409896
+Mucous cell,RIPK4,0.22099467
+Epithelial cell (basal),RIPK4,0.19998574
+Sweat gland cell,RIPK4,0.13544689
+Melanocyte,RIPK4,0.11554585
+Epithelial cell (club),RIPK4,0.11468059
+Myoepithelial (basal),RIPK4,0.09390849
+Myofibroblast,RIPK4,0.09020095
+Epithelial cell (luminal),RIPK4,0.08110045
+Epithelial cell (suprabasal keratinocyte),RIPK4,0.07491839
+Epithelial cell (basal keratinocyte),RIPK4,0.07005426
+Epithelial cell (alveolar type I),RIPK4,0.05558
+Epithelial cell (ciliated),RIPK4,0.055285744
+Neuroendocrine,RIPK4,0.03605184
+Epithelial cell (mature keratinocyte),RIPK4,0.025732502
+Immune (B cell),RIPK4,0.023577556
+Epithelial cell (alveolar type II),RIPK4,0.021859035
+Schwann cell,RIPK4,0.0056349994
+Endothelial cell (vascular),RIPK4,0.004772356
+Immune (DC/macrophage),RIPK4,0.0034007293
+Endothelial cell (lymphatic),RIPK4,0.003149346
+Immune (alveolar macrophage),RIPK4,0.0030628531
+Pericyte/SMC,RIPK4,0.0027123669
+Myocyte (smooth muscle),RIPK4,0.0027003507
+Fibroblast,RIPK4,0.0013265801
+Immune (T cell),RIPK4,0.0010932233
+Myocyte (cardiac),RIPK4,0.0009974984
+Epithelial cell (cornified keratinocyte),RIPK4,0.0
+Adipocyte,RIPK4,0.0
+ICCs,RIPK4,0.0
+Immune (DC),RIPK4,0.0
+Immune (Langerhans),RIPK4,0.0
+Immune (NK cell),RIPK4,0.0
+Immune (mast cell),RIPK4,0.0
+"Myocyte (sk. muscle, cytoplasmic)",RIPK4,0.0
+Myocyte (NMJ-rich),RIPK4,0.0
+"Myocyte (cardiac, cytoplasmic)",RIPK4,0.0
+Myocyte (sk. muscle),RIPK4,0.0
+Neuronal,RIPK4,0.0
+Satellite cell,RIPK4,0.0
+Sebaceous gland cell,RIPK4,0.0

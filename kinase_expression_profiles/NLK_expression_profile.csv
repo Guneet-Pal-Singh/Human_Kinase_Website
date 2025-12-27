@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (alveolar macrophage),NLK,0.7798378
+Immune (DC/macrophage),NLK,0.7719951
+Myocyte (cardiac),NLK,0.7394053
+Neuroendocrine,NLK,0.6550393
+Endothelial cell (vascular),NLK,0.64495325
+Immune (DC),NLK,0.62721056
+Melanocyte,NLK,0.5972804
+Mucous cell,NLK,0.58125323
+Epithelial cell (alveolar type I),NLK,0.5565643
+Epithelial cell (Hillock),NLK,0.54957
+Epithelial cell (club),NLK,0.54948694
+Immune (Langerhans),NLK,0.5233637
+Epithelial cell (alveolar type II),NLK,0.51930547
+Epithelial cell (ciliated),NLK,0.5153743
+Immune (B cell),NLK,0.50156367
+Epithelial cell (luminal),NLK,0.46269846
+Epithelial cell (suprabasal),NLK,0.44221056
+Immune (mast cell),NLK,0.4295087
+Myofibroblast,NLK,0.42632467
+ICCs,NLK,0.42080244
+Endothelial cell (lymphatic),NLK,0.40495056
+Pericyte/SMC,NLK,0.39455703
+Immune (NK cell),NLK,0.38899136
+Epithelial cell (basal),NLK,0.36680856
+Adipocyte,NLK,0.3662679
+Schwann cell,NLK,0.3567531
+Sebaceous gland cell,NLK,0.35113376
+Immune (T cell),NLK,0.34749594
+Myocyte (NMJ-rich),NLK,0.3449223
+Myoepithelial (basal),NLK,0.34071591
+Neuronal,NLK,0.33139193
+Epithelial cell (mature keratinocyte),NLK,0.32841554
+Myocyte (smooth muscle),NLK,0.29682085
+Sweat gland cell,NLK,0.29405627
+Fibroblast,NLK,0.27613676
+Satellite cell,NLK,0.24390264
+Myocyte (sk. muscle),NLK,0.23207687
+"Myocyte (cardiac, cytoplasmic)",NLK,0.18443894
+Epithelial cell (suprabasal keratinocyte),NLK,0.1678389
+Epithelial cell (squamous),NLK,0.13953121
+"Myocyte (sk. muscle, cytoplasmic)",NLK,0.11173394
+Epithelial cell (basal keratinocyte),NLK,0.10114921
+Epithelial cell (cornified keratinocyte),NLK,0.021470219

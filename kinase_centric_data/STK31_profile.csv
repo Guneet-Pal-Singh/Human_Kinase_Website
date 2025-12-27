@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+breast,Epithelial cell,STK31,1.0982143,1.931367477151233
+lung,Epithelial cell,STK31,1.0235602,1.5867082035306337
+heart,Adipocyte,STK31,1.0,1.5544041450777202
+esophagusmucosa,Glia,STK31,1.0,1.5384615384615383
+prostate,Glia,STK31,1.0,1.4925373134328357
+skeletalmuscle,Adipocyte,STK31,1.0,1.257861635220126
+esophagusmuscularis,Adipocyte,STK31,1.0,1.1428571428571428
+prostate,Endothelial cell,STK31,1.0,1.0969568294409058
+skin,Endothelial cell,STK31,1.0,1.0752688172043012
+esophagusmucosa,Immune (myeloid),STK31,1.0714285,1.0014306151645207
+skin,Epithelial cell,STK31,1.0,0.9966777408637874
+skin,Epithelial cell (keratinocyte),STK31,1.0526316,0.9758602978941964
+lung,Immune (myeloid),STK31,1.0344827,0.9509755697655352
+esophagusmucosa,Epithelial cell,STK31,1.0390625,0.9278051609162076
+lung,Endothelial cell,STK31,1.04,0.9104151493080844
+prostate,Epithelial cell,STK31,1.0095239,0.9101547263034716
+breast,Endothelial cell,STK31,1.0,0.9080590238365494
+lung,Fibroblast,STK31,1.0,0.8130081300813009
+skeletalmuscle,Muscle,STK31,1.0294118,0.7531788578264145
+skeletalmuscle,Endothelial cell,STK31,1.0,0.7513148009015778
+heart,Muscle,STK31,1.0246913,0.6714190981432361
+esophagusmucosa,Endothelial cell,STK31,1.032258,0.6626763574176998
+prostate,Muscle,STK31,1.0714285,0.6241640659830584
+breast,Fibroblast,STK31,1.0,0.6105006105006106
+esophagusmucosa,Stromal,STK31,1.0,0.6066734074823054
+breast,Adipocyte,STK31,1.0,0.5678591709256104
+esophagusmuscularis,Endothelial cell,STK31,1.12,0.5604124635731899
+skin,Immune (myeloid),STK31,1.0,0.5586592178770949
+esophagusmucosa,Immune (lymphocyte),STK31,1.1,0.5500550055005501
+skin,Other,STK31,1.0,0.4424778761061947
+prostate,Fibroblast,STK31,1.0,0.4378283712784588
+esophagusmuscularis,Fibroblast,STK31,1.0444444,0.4323181861850321
+heart,Endothelial cell,STK31,1.0,0.4322200392927309
+heart,Immune (lymphocyte),STK31,1.0,0.4297994269340974
+esophagusmucosa,Fibroblast,STK31,1.0,0.4262877442273534
+lung,Immune (lymphocyte),STK31,1.0,0.4137931034482758
+prostate,Immune (myeloid),STK31,1.0,0.3891050583657587
+skin,Fibroblast,STK31,1.0,0.3780718336483932
+esophagusmuscularis,Muscle,STK31,1.0545454,0.3698971013518058
+skin,Melanocyte,STK31,1.0,0.3676470588235294
+skeletalmuscle,Fibroblast,STK31,1.1052631,0.319650067294751
+esophagusmuscularis,Glia,STK31,1.0,0.3092783505154639
+esophagusmuscularis,Immune (myeloid),STK31,1.0,0.3037462031724603
+prostate,Immune (lymphocyte),STK31,1.5,0.2932551319648094
+heart,Fibroblast,STK31,1.0,0.2799612361365349
+breast,Immune (myeloid),STK31,1.0,0.2793296089385474
+skeletalmuscle,Immune (myeloid),STK31,1.0,0.2713704206241519
+heart,Immune (myeloid),STK31,1.0,0.2344116268166901
+esophagusmucosa,Muscle,STK31,1.0,0.1996007984031935
+esophagusmuscularis,Immune (lymphocyte),STK31,0.0,0.0
+breast,Muscle,STK31,0.0,0.0
+heart,Glia,STK31,0.0,0.0
+esophagusmuscularis,Neuron,STK31,0.0,0.0
+lung,Muscle,STK31,0.0,0.0
+skeletalmuscle,Glia,STK31,0.0,0.0
+skin,Adipocyte,STK31,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),STK31,0.0,0.0
+skin,Immune (lymphocyte),STK31,0.0,0.0
+skin,Muscle,STK31,0.0,0.0

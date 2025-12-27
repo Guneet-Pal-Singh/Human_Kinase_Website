@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmucosa,Stromal,STK36,1.0163934,6.167846309403438
+skin,Adipocyte,STK36,1.0,4.838709677419355
+breast,Epithelial cell,STK36,1.1328413,4.6732195206070015
+heart,Adipocyte,STK36,1.1111112,4.66321243523316
+prostate,Epithelial cell,STK36,1.0448431,3.865990551727127
+skin,Muscle,STK36,1.0,3.763440860215054
+esophagusmucosa,Fibroblast,STK36,1.0192307,3.6944937833037295
+esophagusmucosa,Epithelial cell,STK36,1.052521,3.450275442157147
+skin,Fibroblast,STK36,1.0,3.213610586011342
+esophagusmucosa,Immune (myeloid),STK36,1.025,2.861230329041488
+lung,Epithelial cell,STK36,1.037037,2.691588785046729
+prostate,Muscle,STK36,1.0333333,2.674988854213108
+breast,Muscle,STK36,1.0,2.631578947368421
+esophagusmucosa,Muscle,STK36,1.0,2.5948103792415167
+skin,Epithelial cell (keratinocyte),STK36,1.0212766,2.41397021058038
+skin,Melanocyte,STK36,1.0,2.2058823529411766
+skin,Epithelial cell,STK36,1.0,1.9933554817275747
+esophagusmucosa,Endothelial cell,STK36,1.0227273,1.881145788798632
+prostate,Fibroblast,STK36,1.05,1.7513134851138354
+heart,Fibroblast,STK36,1.0,1.593625498007968
+heart,Muscle,STK36,1.0430107,1.5417771883289124
+esophagusmucosa,Glia,STK36,1.0,1.5384615384615383
+prostate,Glia,STK36,1.0,1.4925373134328357
+lung,Fibroblast,STK36,1.0,1.4905149051490514
+lung,Immune (myeloid),STK36,1.0357143,1.3772749631087065
+breast,Fibroblast,STK36,1.0,1.3431013431013432
+skin,Other,STK36,1.1666666,1.327433628318584
+skin,Endothelial cell,STK36,1.0,1.270772238514174
+esophagusmuscularis,Fibroblast,STK36,1.0075758,1.268133346142761
+skeletalmuscle,Adipocyte,STK36,1.0,1.257861635220126
+lung,Muscle,STK36,1.0,1.2269938650306749
+esophagusmuscularis,Adipocyte,STK36,1.0,1.1428571428571428
+prostate,Endothelial cell,STK36,1.03125,1.132342533616419
+breast,Adipocyte,STK36,1.0,1.0789324247586598
+esophagusmuscularis,Muscle,STK36,1.0063695,1.0558880893133369
+breast,Endothelial cell,STK36,1.0,1.021566401816118
+esophagusmuscularis,Glia,STK36,1.1111112,0.9278350515463918
+prostate,Immune (myeloid),STK36,1.1111112,0.8754863813229572
+lung,Endothelial cell,STK36,1.0,0.8739985433357611
+heart,Immune (myeloid),STK36,1.0,0.7969995311767463
+skeletalmuscle,Fibroblast,STK36,1.0217391,0.7738896366083445
+esophagusmucosa,Immune (lymphocyte),STK36,1.0,0.77007700770077
+heart,Endothelial cell,STK36,1.0,0.7596594629993452
+esophagusmuscularis,Immune (myeloid),STK36,1.0,0.7424907188660141
+heart,Glia,STK36,1.0,0.6711409395973155
+esophagusmuscularis,Endothelial cell,STK36,1.0,0.6276619592019727
+skeletalmuscle,Endothelial cell,STK36,1.0,0.4507888805409466
+skeletalmuscle,Muscle,STK36,1.0,0.4297549953480129
+skeletalmuscle,Immune (myeloid),STK36,1.0,0.4070556309362279
+esophagusmuscularis,Immune (lymphocyte),STK36,1.0,0.3322259136212624
+heart,Immune (lymphocyte),STK36,1.0,0.2865329512893982
+breast,Immune (myeloid),STK36,1.0,0.2793296089385474
+lung,Immune (lymphocyte),STK36,1.0,0.2758620689655172
+prostate,Immune (lymphocyte),STK36,1.0,0.1466275659824047
+esophagusmuscularis,Neuron,STK36,0.0,0.0
+skeletalmuscle,Glia,STK36,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),STK36,0.0,0.0
+skin,Immune (lymphocyte),STK36,0.0,0.0
+skin,Immune (myeloid),STK36,0.0,0.0

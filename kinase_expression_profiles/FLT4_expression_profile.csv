@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Endothelial cell (lymphatic),FLT4,0.9879563
+Endothelial cell (vascular),FLT4,0.102265365
+Immune (Langerhans),FLT4,0.084828496
+Myofibroblast,FLT4,0.053480316
+Epithelial cell (squamous),FLT4,0.019231847
+"Myocyte (cardiac, cytoplasmic)",FLT4,0.014733932
+Immune (B cell),FLT4,0.013297283
+ICCs,FLT4,0.011679577
+Immune (alveolar macrophage),FLT4,0.010985084
+Schwann cell,FLT4,0.009834766
+Pericyte/SMC,FLT4,0.00859207
+Mucous cell,FLT4,0.007966045
+Epithelial cell (alveolar type II),FLT4,0.00758373
+Immune (mast cell),FLT4,0.0071386793
+Adipocyte,FLT4,0.0068376237
+Epithelial cell (basal),FLT4,0.005370126
+Epithelial cell (ciliated),FLT4,0.004732073
+Epithelial cell (alveolar type I),FLT4,0.0045102388
+Epithelial cell (suprabasal),FLT4,0.0042312695
+Myocyte (smooth muscle),FLT4,0.0039798594
+"Myocyte (sk. muscle, cytoplasmic)",FLT4,0.0038625428
+Immune (DC/macrophage),FLT4,0.0038340695
+Epithelial cell (luminal),FLT4,0.003401244
+Immune (T cell),FLT4,0.0032725548
+Myocyte (cardiac),FLT4,0.0026658461
+Fibroblast,FLT4,0.0026388946
+Epithelial cell (club),FLT4,0.00255941
+Myocyte (sk. muscle),FLT4,0.0020927142
+Epithelial cell (Hillock),FLT4,0.0014441032
+Epithelial cell (cornified keratinocyte),FLT4,0.0
+Epithelial cell (basal keratinocyte),FLT4,0.0
+Epithelial cell (suprabasal keratinocyte),FLT4,0.0
+Immune (NK cell),FLT4,0.0
+Immune (DC),FLT4,0.0
+Epithelial cell (mature keratinocyte),FLT4,0.0
+Melanocyte,FLT4,0.0
+Myocyte (NMJ-rich),FLT4,0.0
+Myoepithelial (basal),FLT4,0.0
+Neuroendocrine,FLT4,0.0
+Neuronal,FLT4,0.0
+Satellite cell,FLT4,0.0
+Sebaceous gland cell,FLT4,0.0
+Sweat gland cell,FLT4,0.0

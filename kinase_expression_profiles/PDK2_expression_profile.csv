@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+"Myocyte (cardiac, cytoplasmic)",PDK2,0.39749083
+"Myocyte (sk. muscle, cytoplasmic)",PDK2,0.2695191
+Myocyte (cardiac),PDK2,0.1345576
+Adipocyte,PDK2,0.12725522
+Myocyte (smooth muscle),PDK2,0.11191569
+Neuronal,PDK2,0.08638911
+Epithelial cell (club),PDK2,0.0664954
+Epithelial cell (luminal),PDK2,0.0637624
+Epithelial cell (basal keratinocyte),PDK2,0.06318291
+Epithelial cell (mature keratinocyte),PDK2,0.059202183
+Epithelial cell (Hillock),PDK2,0.054317147
+Schwann cell,PDK2,0.053627804
+Myofibroblast,PDK2,0.0532637
+Epithelial cell (squamous),PDK2,0.051711127
+Immune (B cell),PDK2,0.044482004
+Epithelial cell (basal),PDK2,0.04414761
+Pericyte/SMC,PDK2,0.03803867
+Mucous cell,PDK2,0.037725564
+Myoepithelial (basal),PDK2,0.035259396
+Epithelial cell (alveolar type I),PDK2,0.03333612
+Epithelial cell (ciliated),PDK2,0.03327125
+Myocyte (NMJ-rich),PDK2,0.030108055
+Fibroblast,PDK2,0.029915864
+Endothelial cell (lymphatic),PDK2,0.02723362
+Melanocyte,PDK2,0.026162565
+Satellite cell,PDK2,0.024435794
+Epithelial cell (suprabasal),PDK2,0.02382896
+Endothelial cell (vascular),PDK2,0.022666324
+Epithelial cell (cornified keratinocyte),PDK2,0.021470219
+Epithelial cell (alveolar type II),PDK2,0.020214446
+Myocyte (sk. muscle),PDK2,0.016176635
+Immune (alveolar macrophage),PDK2,0.0150862755
+ICCs,PDK2,0.01431935
+Immune (mast cell),PDK2,0.01377042
+Epithelial cell (suprabasal keratinocyte),PDK2,0.009786084
+Immune (DC/macrophage),PDK2,0.009135625
+Immune (T cell),PDK2,0.0086674625
+Immune (NK cell),PDK2,0.0
+Immune (DC),PDK2,0.0
+Immune (Langerhans),PDK2,0.0
+Neuroendocrine,PDK2,0.0
+Sebaceous gland cell,PDK2,0.0
+Sweat gland cell,PDK2,0.0

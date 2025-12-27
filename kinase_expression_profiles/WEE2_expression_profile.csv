@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (B cell),WEE2,0.012995465
+Myocyte (sk. muscle),WEE2,0.012583451
+Immune (alveolar macrophage),WEE2,0.0105286185
+Epithelial cell (ciliated),WEE2,0.009601928
+Epithelial cell (club),WEE2,0.008015645
+Epithelial cell (alveolar type I),WEE2,0.0076403567
+Myoepithelial (basal),WEE2,0.0070051886
+Epithelial cell (Hillock),WEE2,0.0069849933
+Schwann cell,WEE2,0.0063440576
+Epithelial cell (alveolar type II),WEE2,0.005915239
+Epithelial cell (suprabasal),WEE2,0.0048997113
+Adipocyte,WEE2,0.0048409197
+Myofibroblast,WEE2,0.0045246403
+Epithelial cell (luminal),WEE2,0.004281684
+Myocyte (cardiac),WEE2,0.0042326413
+Immune (mast cell),WEE2,0.0033255762
+Endothelial cell (vascular),WEE2,0.0033001814
+Pericyte/SMC,WEE2,0.0026770046
+Fibroblast,WEE2,0.0023945898
+Epithelial cell (squamous),WEE2,0.0018474581
+Epithelial cell (basal),WEE2,0.0018433358
+Myocyte (smooth muscle),WEE2,0.0018093263
+Immune (DC/macrophage),WEE2,0.0015851529
+Endothelial cell (lymphatic),WEE2,0.0013262363
+Immune (T cell),WEE2,0.0012630034
+Epithelial cell (cornified keratinocyte),WEE2,0.0
+Epithelial cell (basal keratinocyte),WEE2,0.0
+Melanocyte,WEE2,0.0
+Immune (DC),WEE2,0.0
+Immune (Langerhans),WEE2,0.0
+Immune (NK cell),WEE2,0.0
+Epithelial cell (suprabasal keratinocyte),WEE2,0.0
+Epithelial cell (mature keratinocyte),WEE2,0.0
+ICCs,WEE2,0.0
+"Myocyte (cardiac, cytoplasmic)",WEE2,0.0
+"Myocyte (sk. muscle, cytoplasmic)",WEE2,0.0
+Mucous cell,WEE2,0.0
+Myocyte (NMJ-rich),WEE2,0.0
+Neuroendocrine,WEE2,0.0
+Neuronal,WEE2,0.0
+Satellite cell,WEE2,0.0
+Sebaceous gland cell,WEE2,0.0
+Sweat gland cell,WEE2,0.0

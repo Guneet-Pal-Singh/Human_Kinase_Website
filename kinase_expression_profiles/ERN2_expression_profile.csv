@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Mucous cell,ERN2,0.8397052
+Epithelial cell (Hillock),ERN2,0.40588635
+Epithelial cell (club),ERN2,0.2860114
+Sweat gland cell,ERN2,0.06947845
+Neuroendocrine,ERN2,0.03520401
+Epithelial cell (ciliated),ERN2,0.03211351
+Myocyte (NMJ-rich),ERN2,0.022931255
+Immune (alveolar macrophage),ERN2,0.017851653
+Epithelial cell (luminal),ERN2,0.016618907
+Myofibroblast,ERN2,0.013798357
+Epithelial cell (squamous),ERN2,0.013115451
+Immune (mast cell),ERN2,0.012190591
+Immune (B cell),ERN2,0.010138613
+Epithelial cell (alveolar type II),ERN2,0.00869755
+Epithelial cell (alveolar type I),ERN2,0.007971689
+Immune (NK cell),ERN2,0.0076863747
+Epithelial cell (basal),ERN2,0.006029991
+Epithelial cell (suprabasal),ERN2,0.0055181594
+Immune (T cell),ERN2,0.0052986746
+Myocyte (sk. muscle),ERN2,0.0045585856
+Adipocyte,ERN2,0.0039483015
+"Myocyte (sk. muscle, cytoplasmic)",ERN2,0.0038404162
+Epithelial cell (basal keratinocyte),ERN2,0.00306251
+Endothelial cell (vascular),ERN2,0.002773648
+Endothelial cell (lymphatic),ERN2,0.002708762
+Myocyte (smooth muscle),ERN2,0.0023351812
+Schwann cell,ERN2,0.0022938
+Myocyte (cardiac),ERN2,0.0021517891
+Fibroblast,ERN2,0.0019955097
+Pericyte/SMC,ERN2,0.0015837784
+Immune (DC/macrophage),ERN2,0.0012844823
+Epithelial cell (cornified keratinocyte),ERN2,0.0
+Epithelial cell (mature keratinocyte),ERN2,0.0
+Epithelial cell (suprabasal keratinocyte),ERN2,0.0
+ICCs,ERN2,0.0
+Melanocyte,ERN2,0.0
+Immune (Langerhans),ERN2,0.0
+Immune (DC),ERN2,0.0
+"Myocyte (cardiac, cytoplasmic)",ERN2,0.0
+Myoepithelial (basal),ERN2,0.0
+Neuronal,ERN2,0.0
+Satellite cell,ERN2,0.0
+Sebaceous gland cell,ERN2,0.0

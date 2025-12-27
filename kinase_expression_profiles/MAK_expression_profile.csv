@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (ciliated),MAK,0.78291136
+Satellite cell,MAK,0.6370931
+Myocyte (NMJ-rich),MAK,0.5390987
+Fibroblast,MAK,0.45248055
+Schwann cell,MAK,0.43707782
+Epithelial cell (club),MAK,0.43475115
+ICCs,MAK,0.42910686
+Myocyte (cardiac),MAK,0.42568883
+Myocyte (sk. muscle),MAK,0.4249915
+Immune (mast cell),MAK,0.3820625
+Myocyte (smooth muscle),MAK,0.3796055
+Pericyte/SMC,MAK,0.3728106
+Epithelial cell (Hillock),MAK,0.34913272
+Epithelial cell (basal),MAK,0.32596856
+Endothelial cell (lymphatic),MAK,0.31311873
+Adipocyte,MAK,0.30795383
+Endothelial cell (vascular),MAK,0.30410352
+Immune (DC/macrophage),MAK,0.29971865
+Myoepithelial (basal),MAK,0.29114875
+Epithelial cell (alveolar type II),MAK,0.29099387
+Neuronal,MAK,0.28373158
+Epithelial cell (alveolar type I),MAK,0.28273496
+Immune (T cell),MAK,0.25109676
+Epithelial cell (luminal),MAK,0.23900306
+Immune (DC),MAK,0.236879
+Neuroendocrine,MAK,0.23616548
+Immune (alveolar macrophage),MAK,0.23514068
+Mucous cell,MAK,0.22958104
+Epithelial cell (basal keratinocyte),MAK,0.21519051
+Myofibroblast,MAK,0.21406071
+Immune (NK cell),MAK,0.20407467
+Immune (Langerhans),MAK,0.18320905
+Sweat gland cell,MAK,0.17765753
+Immune (B cell),MAK,0.1719281
+Sebaceous gland cell,MAK,0.11957521
+"Myocyte (sk. muscle, cytoplasmic)",MAK,0.108938195
+Melanocyte,MAK,0.10145141
+Epithelial cell (mature keratinocyte),MAK,0.10116684
+Epithelial cell (suprabasal),MAK,0.09518146
+Epithelial cell (suprabasal keratinocyte),MAK,0.08585656
+"Myocyte (cardiac, cytoplasmic)",MAK,0.06527034
+Epithelial cell (squamous),MAK,0.030166835
+Epithelial cell (cornified keratinocyte),MAK,0.0

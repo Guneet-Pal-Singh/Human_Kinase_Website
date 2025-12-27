@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Neuronal,FAM20C,0.5099802
+Adipocyte,FAM20C,0.35181922
+Myocyte (smooth muscle),FAM20C,0.34561074
+Epithelial cell (luminal),FAM20C,0.31097963
+Schwann cell,FAM20C,0.28961003
+Immune (Langerhans),FAM20C,0.27085835
+Epithelial cell (suprabasal),FAM20C,0.19376688
+Immune (DC/macrophage),FAM20C,0.1783673
+Fibroblast,FAM20C,0.14296506
+Myofibroblast,FAM20C,0.14105484
+ICCs,FAM20C,0.13233435
+Epithelial cell (squamous),FAM20C,0.121208765
+"Myocyte (cardiac, cytoplasmic)",FAM20C,0.101986565
+Myoepithelial (basal),FAM20C,0.10052327
+Epithelial cell (club),FAM20C,0.08963861
+Pericyte/SMC,FAM20C,0.08807472
+Immune (alveolar macrophage),FAM20C,0.07469077
+Mucous cell,FAM20C,0.07382548
+"Myocyte (sk. muscle, cytoplasmic)",FAM20C,0.07189014
+Immune (mast cell),FAM20C,0.06913587
+Sweat gland cell,FAM20C,0.062681414
+Epithelial cell (basal),FAM20C,0.061734907
+Endothelial cell (lymphatic),FAM20C,0.055323485
+Epithelial cell (cornified keratinocyte),FAM20C,0.04903123
+Satellite cell,FAM20C,0.046796124
+Neuroendocrine,FAM20C,0.04115546
+Epithelial cell (mature keratinocyte),FAM20C,0.032527383
+Epithelial cell (alveolar type II),FAM20C,0.032446165
+Immune (DC),FAM20C,0.03212663
+Epithelial cell (ciliated),FAM20C,0.029596273
+Epithelial cell (basal keratinocyte),FAM20C,0.029124757
+Endothelial cell (vascular),FAM20C,0.028649382
+Myocyte (cardiac),FAM20C,0.028442323
+Epithelial cell (Hillock),FAM20C,0.022960879
+Epithelial cell (suprabasal keratinocyte),FAM20C,0.021270093
+Sebaceous gland cell,FAM20C,0.018411089
+Epithelial cell (alveolar type I),FAM20C,0.018319903
+Melanocyte,FAM20C,0.016368115
+Immune (B cell),FAM20C,0.014459658
+Myocyte (sk. muscle),FAM20C,0.009034281
+Immune (T cell),FAM20C,0.007644975
+Immune (NK cell),FAM20C,0.0
+Myocyte (NMJ-rich),FAM20C,0.0

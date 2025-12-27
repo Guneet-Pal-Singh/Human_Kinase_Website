@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+prostate,Immune (myeloid),MERTK,2.238,48.63813229571984
+skeletalmuscle,Immune (myeloid),MERTK,1.5285286,45.1831750339213
+heart,Immune (myeloid),MERTK,1.6065751,43.256758868573215
+breast,Immune (myeloid),MERTK,1.7659575,39.3854748603352
+esophagusmucosa,Immune (myeloid),MERTK,1.6960168,34.12017167381974
+esophagusmuscularis,Immune (myeloid),MERTK,1.4978307,31.11711103611205
+skin,Muscle,MERTK,1.25,23.655913978494624
+skin,Immune (myeloid),MERTK,1.5517242,16.201117318435752
+skin,Fibroblast,MERTK,1.1038961,14.555765595463138
+lung,Muscle,MERTK,1.15,12.269938650306749
+esophagusmucosa,Muscle,MERTK,1.1428572,11.177644710578845
+breast,Muscle,MERTK,1.0625,10.526315789473683
+esophagusmucosa,Stromal,MERTK,1.2115384,10.51567239635996
+lung,Immune (myeloid),MERTK,1.4196142,10.198393179209706
+skin,Epithelial cell,MERTK,1.2459016,10.132890365448503
+esophagusmuscularis,Adipocyte,MERTK,1.2666667,8.571428571428571
+heart,Muscle,MERTK,1.1957831,8.255968169761273
+heart,Glia,MERTK,1.2083334,8.053691275167784
+prostate,Muscle,MERTK,1.1620111,7.980383415069103
+lung,Epithelial cell,MERTK,1.0676533,5.894080996884735
+lung,Fibroblast,MERTK,1.1529412,5.75880758807588
+skeletalmuscle,Glia,MERTK,1.0,5.714285714285714
+heart,Adipocyte,MERTK,2.0,5.699481865284974
+esophagusmuscularis,Muscle,MERTK,1.103079,5.023875176541798
+prostate,Epithelial cell,MERTK,1.1119006,4.880162961036709
+prostate,Endothelial cell,MERTK,1.1068702,4.635527246992215
+breast,Endothelial cell,MERTK,1.0,4.540295119182747
+esophagusmucosa,Endothelial cell,MERTK,1.1490384,4.4463445917058575
+skin,Endothelial cell,MERTK,1.2045455,4.301075268817205
+esophagusmuscularis,Neuron,MERTK,1.0,4.0
+lung,Endothelial cell,MERTK,1.0185186,3.932993445010925
+prostate,Fibroblast,MERTK,1.0681819,3.852889667250438
+heart,Endothelial cell,MERTK,1.1226766,3.5232481990831697
+esophagusmuscularis,Endothelial cell,MERTK,1.1354839,3.474557274153777
+esophagusmucosa,Glia,MERTK,1.0,3.076923076923077
+esophagusmuscularis,Glia,MERTK,1.074074,2.783505154639176
+skeletalmuscle,Endothelial cell,MERTK,1.0,2.70473328324568
+breast,Epithelial cell,MERTK,1.0620689,2.5004311088118643
+skeletalmuscle,Fibroblast,MERTK,1.0447761,2.2543741588156125
+esophagusmuscularis,Immune (lymphocyte),MERTK,1.0,1.9933554817275747
+esophagusmucosa,Epithelial cell,MERTK,1.1498127,1.935343577848652
+lung,Immune (lymphocyte),MERTK,1.2142857,1.9310344827586208
+heart,Fibroblast,MERTK,1.1184211,1.636696457413589
+skin,Adipocyte,MERTK,1.0,1.6129032258064515
+skin,Other,MERTK,1.2857143,1.5486725663716814
+prostate,Glia,MERTK,1.0,1.4925373134328357
+heart,Immune (lymphocyte),MERTK,1.3333334,1.2893982808022924
+skeletalmuscle,Adipocyte,MERTK,1.0,1.257861635220126
+esophagusmucosa,Fibroblast,MERTK,1.21875,1.1367673179396092
+esophagusmuscularis,Fibroblast,MERTK,1.0471698,1.0183495052358538
+esophagusmucosa,Immune (lymphocyte),MERTK,1.1428572,0.77007700770077
+skin,Melanocyte,MERTK,1.0,0.7352941176470588
+prostate,Immune (lymphocyte),MERTK,1.0,0.7331378299120235
+breast,Fibroblast,MERTK,1.0,0.7326007326007326
+skeletalmuscle,Muscle,MERTK,1.0328947,0.6734305081742059
+breast,Adipocyte,MERTK,1.0,0.2271436683702442
+skin,Epithelial cell (keratinocyte),MERTK,1.0,0.2054442732408834
+skeletalmuscle,Immune (lymphocyte),MERTK,0.0,0.0
+skin,Immune (lymphocyte),MERTK,0.0,0.0

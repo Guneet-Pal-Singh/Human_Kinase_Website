@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+prostate,Epithelial cell,BMPR1B,3.7586532,36.93927967754519
+skin,Melanocyte,BMPR1B,1.5595238,30.88235294117647
+esophagusmuscularis,Muscle,BMPR1B,1.4735259,22.355235725334587
+esophagusmuscularis,Glia,BMPR1B,1.2671233,15.051546391752575
+skeletalmuscle,Glia,BMPR1B,1.2,14.285714285714285
+heart,Glia,BMPR1B,1.1428572,14.093959731543624
+breast,Epithelial cell,BMPR1B,2.1617022,8.104845663045353
+esophagusmucosa,Glia,BMPR1B,1.0,7.6923076923076925
+prostate,Muscle,BMPR1B,2.4825583,7.6683013820775745
+lung,Epithelial cell,BMPR1B,1.3863764,7.4392523364485985
+heart,Muscle,BMPR1B,1.2795031,6.672745358090186
+prostate,Fibroblast,BMPR1B,1.6986301,6.3922942206655
+prostate,Glia,BMPR1B,1.0,5.970149253731343
+esophagusmuscularis,Adipocyte,BMPR1B,1.1111112,5.142857142857142
+lung,Immune (myeloid),BMPR1B,1.055336,4.148221019839318
+esophagusmuscularis,Neuron,BMPR1B,1.0,4.0
+skin,Muscle,BMPR1B,1.0,3.763440860215054
+lung,Muscle,BMPR1B,1.0,3.6809815950920246
+heart,Adipocyte,BMPR1B,1.0,3.6269430051813463
+skeletalmuscle,Fibroblast,BMPR1B,1.1302084,3.2301480484522207
+skin,Fibroblast,BMPR1B,1.0,3.213610586011342
+esophagusmucosa,Muscle,BMPR1B,1.0625,3.1936127744510974
+skin,Epithelial cell,BMPR1B,1.0526316,3.1561461794019934
+skeletalmuscle,Muscle,BMPR1B,1.1253561,3.110185636436135
+esophagusmucosa,Epithelial cell,BMPR1B,1.1818181,3.0298637286169905
+esophagusmucosa,Stromal,BMPR1B,1.2758621,2.932254802831143
+skin,Immune (myeloid),BMPR1B,1.0,2.793296089385475
+breast,Muscle,BMPR1B,1.25,2.631578947368421
+lung,Endothelial cell,BMPR1B,1.0833334,2.6219956300072838
+lung,Fibroblast,BMPR1B,1.0882353,2.303523035230352
+esophagusmuscularis,Fibroblast,BMPR1B,1.1883408,2.142376789316937
+skin,Endothelial cell,BMPR1B,1.05,1.9550342130987293
+skin,Epithelial cell (keratinocyte),BMPR1B,1.0,1.5408320493066257
+lung,Immune (lymphocyte),BMPR1B,1.0,1.5172413793103448
+esophagusmuscularis,Immune (myeloid),BMPR1B,1.0909091,1.4849814377320285
+esophagusmuscularis,Endothelial cell,BMPR1B,1.4262295,1.3674064111185833
+prostate,Immune (myeloid),BMPR1B,4.285714,1.3618677042801557
+breast,Fibroblast,BMPR1B,1.5454545,1.3431013431013432
+skin,Immune (lymphocyte),BMPR1B,1.0,1.3333333333333337
+breast,Endothelial cell,BMPR1B,1.0909091,1.2485811577752552
+esophagusmucosa,Endothelial cell,BMPR1B,1.0526316,1.218469431380932
+breast,Immune (myeloid),BMPR1B,1.25,1.11731843575419
+heart,Fibroblast,BMPR1B,1.039604,1.087541724991924
+esophagusmucosa,Immune (myeloid),BMPR1B,1.0,1.0014306151645207
+skeletalmuscle,Immune (lymphocyte),BMPR1B,1.0,1.0
+prostate,Endothelial cell,BMPR1B,3.392857,0.9907997169143666
+heart,Endothelial cell,BMPR1B,1.2533333,0.9823182711198428
+breast,Adipocyte,BMPR1B,1.0588236,0.9653605905735378
+skeletalmuscle,Immune (myeloid),BMPR1B,1.0,0.949796472184532
+skin,Other,BMPR1B,1.0,0.8849557522123894
+heart,Immune (myeloid),BMPR1B,1.0,0.8126269729645258
+skeletalmuscle,Endothelial cell,BMPR1B,1.0,0.7513148009015778
+heart,Immune (lymphocyte),BMPR1B,1.0,0.7163323782234957
+esophagusmucosa,Fibroblast,BMPR1B,1.0,0.7104795737122558
+esophagusmuscularis,Immune (lymphocyte),BMPR1B,2.0,0.6644518272425249
+skeletalmuscle,Adipocyte,BMPR1B,1.0,0.628930817610063
+esophagusmucosa,Immune (lymphocyte),BMPR1B,1.0909091,0.605060506050605
+prostate,Immune (lymphocyte),BMPR1B,6.0,0.4398826979472141
+skin,Adipocyte,BMPR1B,0.0,0.0

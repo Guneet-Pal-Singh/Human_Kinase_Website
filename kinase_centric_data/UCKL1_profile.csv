@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+breast,Adipocyte,UCKL1,1.0613497,9.25610448608745
+esophagusmucosa,Stromal,UCKL1,1.1084337,8.39231547017189
+esophagusmucosa,Epithelial cell,UCKL1,1.1097345,8.190779936213396
+esophagusmuscularis,Neuron,UCKL1,1.0,8.0
+heart,Muscle,UCKL1,1.1014333,7.518236074270557
+skin,Other,UCKL1,1.0,5.9734513274336285
+skin,Epithelial cell,UCKL1,1.0294118,5.647840531561462
+skin,Melanocyte,UCKL1,1.0666667,5.514705882352941
+skin,Epithelial cell (keratinocyte),UCKL1,1.0480769,5.341551104262968
+skin,Endothelial cell,UCKL1,1.0784314,4.98533724340176
+esophagusmuscularis,Adipocyte,UCKL1,1.0,4.571428571428571
+breast,Epithelial cell,UCKL1,1.0697675,4.449042938437662
+esophagusmucosa,Immune (myeloid),UCKL1,1.0,4.07725321888412
+skin,Immune (lymphocyte),UCKL1,1.0,4.0
+esophagusmucosa,Endothelial cell,UCKL1,1.0320855,3.997434801197093
+esophagusmucosa,Muscle,UCKL1,1.05,3.992015968063872
+breast,Muscle,UCKL1,1.0,3.947368421052632
+skin,Fibroblast,UCKL1,1.0,3.780718336483932
+skeletalmuscle,Adipocyte,UCKL1,1.1666666,3.7735849056603774
+skin,Muscle,UCKL1,1.0,3.763440860215054
+breast,Fibroblast,UCKL1,1.0333333,3.6630036630036633
+heart,Adipocyte,UCKL1,1.0,3.6269430051813463
+skin,Adipocyte,UCKL1,1.0,3.225806451612903
+esophagusmucosa,Fibroblast,UCKL1,1.0,3.161634103019538
+breast,Immune (myeloid),UCKL1,1.0,3.072625698324022
+prostate,Muscle,UCKL1,1.0,2.8979045920642
+skeletalmuscle,Glia,UCKL1,1.0,2.857142857142857
+breast,Endothelial cell,UCKL1,1.125,2.724177071509648
+esophagusmuscularis,Muscle,UCKL1,1.029703,2.7170623444750825
+lung,Epithelial cell,UCKL1,1.0137615,2.716510903426791
+lung,Immune (myeloid),UCKL1,1.0256411,2.557796360059026
+prostate,Epithelial cell,UCKL1,1.0272572,2.544099163524466
+esophagusmucosa,Immune (lymphocyte),UCKL1,1.0,2.5302530253025304
+esophagusmuscularis,Immune (myeloid),UCKL1,1.0,2.1937225784677694
+prostate,Endothelial cell,UCKL1,1.0163934,2.1585279547062988
+prostate,Immune (lymphocyte),UCKL1,1.0,2.0527859237536656
+esophagusmuscularis,Endothelial cell,UCKL1,1.0333333,2.0174848688634834
+lung,Muscle,UCKL1,1.0,1.8404907975460123
+heart,Immune (myeloid),UCKL1,1.0088495,1.7659009220190651
+prostate,Fibroblast,UCKL1,1.05,1.7513134851138354
+esophagusmuscularis,Fibroblast,UCKL1,1.0168539,1.7100586031319052
+skin,Immune (myeloid),UCKL1,1.0,1.675977653631285
+skeletalmuscle,Immune (myeloid),UCKL1,1.0833334,1.6282225237449115
+prostate,Immune (myeloid),UCKL1,1.0,1.556420233463035
+esophagusmucosa,Glia,UCKL1,1.0,1.5384615384615383
+lung,Fibroblast,UCKL1,1.0,1.4905149051490514
+heart,Fibroblast,UCKL1,1.0,1.4859480994939165
+heart,Immune (lymphocyte),UCKL1,1.0,1.4326647564469914
+skeletalmuscle,Endothelial cell,UCKL1,1.0,1.4274981217129978
+lung,Endothelial cell,UCKL1,1.0526316,1.3838310269482883
+skeletalmuscle,Fibroblast,UCKL1,1.0126582,1.32907133243607
+heart,Endothelial cell,UCKL1,1.0116279,1.1263916175507531
+skeletalmuscle,Muscle,UCKL1,1.012931,1.0278676177395774
+skeletalmuscle,Immune (lymphocyte),UCKL1,1.0,1.0
+lung,Immune (lymphocyte),UCKL1,1.0,0.9655172413793104
+esophagusmuscularis,Glia,UCKL1,1.0,0.7216494845360825
+heart,Glia,UCKL1,1.0,0.6711409395973155
+esophagusmuscularis,Immune (lymphocyte),UCKL1,1.0,0.6644518272425249
+prostate,Glia,UCKL1,0.0,0.0

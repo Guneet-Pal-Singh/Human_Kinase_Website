@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Satellite cell,FGFR4,0.19187446
+Sweat gland cell,FGFR4,0.13182148
+ICCs,FGFR4,0.04628123
+Fibroblast,FGFR4,0.033279654
+Epithelial cell (squamous),FGFR4,0.026397983
+Epithelial cell (luminal),FGFR4,0.025966639
+Epithelial cell (ciliated),FGFR4,0.020496955
+Epithelial cell (suprabasal),FGFR4,0.01895639
+Myofibroblast,FGFR4,0.014742103
+Epithelial cell (basal),FGFR4,0.010139639
+Epithelial cell (suprabasal keratinocyte),FGFR4,0.009145367
+Mucous cell,FGFR4,0.008562494
+Endothelial cell (lymphatic),FGFR4,0.008197267
+Myoepithelial (basal),FGFR4,0.0070840865
+Epithelial cell (club),FGFR4,0.0047589857
+Schwann cell,FGFR4,0.0044540036
+Myocyte (smooth muscle),FGFR4,0.0041460423
+Myocyte (sk. muscle),FGFR4,0.0041026548
+Immune (alveolar macrophage),FGFR4,0.0037014738
+Epithelial cell (basal keratinocyte),FGFR4,0.0028193067
+Epithelial cell (alveolar type I),FGFR4,0.0026836994
+Epithelial cell (alveolar type II),FGFR4,0.002474427
+"Myocyte (cardiac, cytoplasmic)",FGFR4,0.002372784
+Endothelial cell (vascular),FGFR4,0.0023696935
+Immune (T cell),FGFR4,0.0022428015
+Myocyte (cardiac),FGFR4,0.0018624014
+Immune (DC/macrophage),FGFR4,0.001461456
+Pericyte/SMC,FGFR4,0.0012643782
+Adipocyte,FGFR4,0.0006098935
+Epithelial cell (cornified keratinocyte),FGFR4,0.0
+Epithelial cell (Hillock),FGFR4,0.0
+Immune (DC),FGFR4,0.0
+Immune (B cell),FGFR4,0.0
+Epithelial cell (mature keratinocyte),FGFR4,0.0
+Immune (NK cell),FGFR4,0.0
+Melanocyte,FGFR4,0.0
+Immune (mast cell),FGFR4,0.0
+Immune (Langerhans),FGFR4,0.0
+Myocyte (NMJ-rich),FGFR4,0.0
+"Myocyte (sk. muscle, cytoplasmic)",FGFR4,0.0
+Neuroendocrine,FGFR4,0.0
+Neuronal,FGFR4,0.0
+Sebaceous gland cell,FGFR4,0.0

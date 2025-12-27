@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmucosa,Epithelial cell,CDC42BPG,1.0721089,5.327631197448536
+skin,Epithelial cell (keratinocyte),CDC42BPG,1.0116279,4.417051874678993
+skin,Epithelial cell,CDC42BPG,1.1818181,3.654485049833888
+breast,Muscle,CDC42BPG,1.0,3.289473684210526
+skin,Other,CDC42BPG,1.1428572,3.0973451327433628
+esophagusmucosa,Stromal,CDC42BPG,1.0714285,2.8311425682507583
+breast,Epithelial cell,CDC42BPG,1.080808,1.7071908949818937
+prostate,Glia,CDC42BPG,1.0,1.4925373134328357
+skin,Immune (lymphocyte),CDC42BPG,2.0,1.3333333333333337
+prostate,Epithelial cell,CDC42BPG,1.015748,1.1008538118146751
+lung,Epithelial cell,CDC42BPG,1.008658,0.9595015576323986
+breast,Immune (myeloid),CDC42BPG,1.0,0.8379888268156425
+esophagusmucosa,Muscle,CDC42BPG,1.0,0.5988023952095809
+esophagusmuscularis,Adipocyte,CDC42BPG,1.0,0.5714285714285714
+skin,Immune (myeloid),CDC42BPG,1.0,0.5586592178770949
+heart,Adipocyte,CDC42BPG,1.0,0.5181347150259068
+skeletalmuscle,Muscle,CDC42BPG,1.0215054,0.4120331398697444
+skin,Melanocyte,CDC42BPG,1.0,0.3676470588235294
+esophagusmucosa,Endothelial cell,CDC42BPG,1.0666667,0.3206498503634031
+heart,Muscle,CDC42BPG,1.0,0.2984084880636604
+heart,Immune (lymphocyte),CDC42BPG,1.0,0.2865329512893982
+heart,Endothelial cell,CDC42BPG,1.0,0.275049115913556
+prostate,Fibroblast,CDC42BPG,1.0,0.2626970227670753
+lung,Immune (myeloid),CDC42BPG,1.0,0.2623380882111821
+prostate,Endothelial cell,CDC42BPG,1.0,0.2476999292285916
+breast,Endothelial cell,CDC42BPG,1.0,0.2270147559591373
+esophagusmuscularis,Endothelial cell,CDC42BPG,1.0,0.2241649854292759
+esophagusmucosa,Immune (myeloid),CDC42BPG,1.0,0.2145922746781116
+prostate,Immune (myeloid),CDC42BPG,1.0,0.1945525291828793
+skeletalmuscle,Endothelial cell,CDC42BPG,1.0,0.1502629601803155
+lung,Endothelial cell,CDC42BPG,1.0,0.1456664238892935
+esophagusmucosa,Fibroblast,CDC42BPG,1.0,0.1420959147424511
+lung,Immune (lymphocyte),CDC42BPG,1.0,0.1379310344827586
+lung,Fibroblast,CDC42BPG,1.0,0.1355013550135501
+prostate,Muscle,CDC42BPG,1.0,0.1337494427106553
+breast,Fibroblast,CDC42BPG,1.0,0.1221001221001221
+esophagusmuscularis,Muscle,CDC42BPG,1.0,0.1143318313269217
+esophagusmucosa,Immune (lymphocyte),CDC42BPG,1.0,0.11001100110011
+esophagusmuscularis,Glia,CDC42BPG,1.0,0.1030927835051546
+esophagusmuscularis,Immune (myeloid),CDC42BPG,1.0,0.1012487343908201
+skin,Endothelial cell,CDC42BPG,1.0,0.0977517106549364
+skeletalmuscle,Fibroblast,CDC42BPG,1.0,0.0841184387617765
+heart,Fibroblast,CDC42BPG,1.0,0.0753741789598363
+breast,Adipocyte,CDC42BPG,2.0,0.056785917092561
+esophagusmuscularis,Fibroblast,CDC42BPG,1.0,0.0480353540205591
+heart,Immune (myeloid),CDC42BPG,1.0,0.0312548835755586
+esophagusmucosa,Glia,CDC42BPG,0.0,0.0
+heart,Glia,CDC42BPG,0.0,0.0
+esophagusmuscularis,Neuron,CDC42BPG,0.0,0.0
+esophagusmuscularis,Immune (lymphocyte),CDC42BPG,0.0,0.0
+lung,Muscle,CDC42BPG,0.0,0.0
+skeletalmuscle,Adipocyte,CDC42BPG,0.0,0.0
+prostate,Immune (lymphocyte),CDC42BPG,0.0,0.0
+skeletalmuscle,Glia,CDC42BPG,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),CDC42BPG,0.0,0.0
+skin,Adipocyte,CDC42BPG,0.0,0.0
+skeletalmuscle,Immune (myeloid),CDC42BPG,0.0,0.0
+skin,Fibroblast,CDC42BPG,0.0,0.0
+skin,Muscle,CDC42BPG,0.0,0.0

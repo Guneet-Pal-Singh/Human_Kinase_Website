@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+heart,Muscle,AK1,2.0558267,15.2934350132626
+breast,Adipocyte,AK1,1.122807,9.71039182282794
+esophagusmuscularis,Neuron,AK1,1.0,8.0
+esophagusmuscularis,Adipocyte,AK1,1.2857143,8.0
+prostate,Glia,AK1,1.0,7.462686567164178
+skin,Immune (lymphocyte),AK1,1.0,6.666666666666667
+esophagusmuscularis,Muscle,AK1,1.1894273,6.106664873226175
+esophagusmucosa,Epithelial cell,AK1,1.2039877,4.726007538416932
+prostate,Muscle,AK1,1.0095239,4.6812304948729375
+breast,Muscle,AK1,1.2857143,4.605263157894736
+breast,Endothelial cell,AK1,1.075,4.540295119182747
+lung,Epithelial cell,AK1,1.047952,4.157840083073728
+prostate,Fibroblast,AK1,1.1489362,4.115586690017513
+esophagusmucosa,Muscle,AK1,1.0,3.992015968063872
+esophagusmucosa,Fibroblast,AK1,1.046729,3.801065719360568
+skin,Muscle,AK1,1.0,3.763440860215054
+skin,Epithelial cell,AK1,1.1818181,3.654485049833888
+esophagusmucosa,Stromal,AK1,1.0555556,3.640040444893832
+esophagusmuscularis,Glia,AK1,1.030303,3.402061855670103
+skin,Other,AK1,1.0666667,3.3185840707964607
+lung,Immune (myeloid),AK1,1.0456853,3.2300377111001803
+prostate,Endothelial cell,AK1,1.0229886,3.0785562632696397
+esophagusmucosa,Glia,AK1,1.0,3.076923076923077
+lung,Muscle,AK1,1.0,3.067484662576687
+esophagusmuscularis,Fibroblast,AK1,1.0328947,2.9205495244499957
+breast,Fibroblast,AK1,1.0869565,2.8083028083028085
+esophagusmucosa,Immune (lymphocyte),AK1,1.0196079,2.8052805280528053
+heart,Glia,AK1,1.0,2.348993288590604
+esophagusmucosa,Endothelial cell,AK1,1.0093458,2.287302265925609
+skin,Endothelial cell,AK1,1.0454545,2.1505376344086025
+heart,Adipocyte,AK1,1.0,2.072538860103627
+lung,Immune (lymphocyte),AK1,1.0,2.0689655172413794
+breast,Immune (myeloid),AK1,1.5,1.675977653631285
+skin,Immune (myeloid),AK1,1.0,1.675977653631285
+skin,Adipocyte,AK1,1.0,1.6129032258064515
+lung,Fibroblast,AK1,1.0,1.4227642276422765
+skeletalmuscle,Muscle,AK1,1.9595015,1.4221789021310531
+breast,Epithelial cell,AK1,1.0987654,1.396792550439731
+skin,Epithelial cell (keratinocyte),AK1,1.037037,1.386748844375963
+esophagusmuscularis,Endothelial cell,AK1,1.0344827,1.3001569154898005
+esophagusmucosa,Immune (myeloid),AK1,1.0588236,1.2160228898426324
+prostate,Immune (lymphocyte),AK1,1.0,1.1730205278592376
+prostate,Epithelial cell,AK1,1.037594,1.1528626533177306
+skin,Fibroblast,AK1,1.1666666,1.1342155009451798
+esophagusmuscularis,Immune (lymphocyte),AK1,1.0,0.9966777408637874
+heart,Fibroblast,AK1,1.0843374,0.8937224076666308
+prostate,Immune (myeloid),AK1,1.0,0.8754863813229572
+skin,Melanocyte,AK1,1.0,0.7352941176470588
+esophagusmuscularis,Immune (myeloid),AK1,1.0,0.4387445156935539
+lung,Endothelial cell,AK1,1.0,0.4369992716678805
+skeletalmuscle,Fibroblast,AK1,1.04,0.4205921938088829
+heart,Endothelial cell,AK1,1.3,0.3929273084479371
+skeletalmuscle,Endothelial cell,AK1,2.0,0.1502629601803155
+heart,Immune (lymphocyte),AK1,1.0,0.1432664756446991
+skeletalmuscle,Immune (myeloid),AK1,1.0,0.1356852103120759
+heart,Immune (myeloid),AK1,1.0,0.093764650726676
+skeletalmuscle,Adipocyte,AK1,0.0,0.0
+skeletalmuscle,Glia,AK1,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),AK1,0.0,0.0

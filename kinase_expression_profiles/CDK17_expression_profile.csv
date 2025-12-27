@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Endothelial cell (vascular),CDK17,0.92732406
+Endothelial cell (lymphatic),CDK17,0.87407184
+Myocyte (smooth muscle),CDK17,0.8710722
+Immune (DC),CDK17,0.85590106
+Immune (NK cell),CDK17,0.7646782
+Myofibroblast,CDK17,0.6042236
+Schwann cell,CDK17,0.5839018
+Immune (alveolar macrophage),CDK17,0.58170056
+ICCs,CDK17,0.57361734
+Immune (T cell),CDK17,0.5558249
+Immune (mast cell),CDK17,0.5166983
+Epithelial cell (suprabasal),CDK17,0.48351246
+Epithelial cell (ciliated),CDK17,0.44899473
+Epithelial cell (mature keratinocyte),CDK17,0.4231758
+Pericyte/SMC,CDK17,0.409112
+Fibroblast,CDK17,0.3926971
+Myoepithelial (basal),CDK17,0.38513502
+Mucous cell,CDK17,0.38348547
+Melanocyte,CDK17,0.3690745
+Epithelial cell (club),CDK17,0.3549187
+Satellite cell,CDK17,0.3485096
+Epithelial cell (luminal),CDK17,0.3476568
+Epithelial cell (Hillock),CDK17,0.3462098
+Immune (DC/macrophage),CDK17,0.31994548
+Myocyte (cardiac),CDK17,0.31848875
+Immune (B cell),CDK17,0.31210354
+Epithelial cell (basal keratinocyte),CDK17,0.31162056
+Myocyte (NMJ-rich),CDK17,0.31142044
+Neuronal,CDK17,0.30494478
+Epithelial cell (basal),CDK17,0.2938039
+Epithelial cell (alveolar type I),CDK17,0.27090436
+Epithelial cell (alveolar type II),CDK17,0.260486
+Neuroendocrine,CDK17,0.23500274
+Epithelial cell (suprabasal keratinocyte),CDK17,0.2233321
+Sweat gland cell,CDK17,0.18746324
+Adipocyte,CDK17,0.17448047
+Sebaceous gland cell,CDK17,0.17311774
+Epithelial cell (squamous),CDK17,0.15777573
+"Myocyte (cardiac, cytoplasmic)",CDK17,0.14049762
+Myocyte (sk. muscle),CDK17,0.13210823
+Immune (Langerhans),CDK17,0.12605722
+Epithelial cell (cornified keratinocyte),CDK17,0.101950034
+"Myocyte (sk. muscle, cytoplasmic)",CDK17,0.073152915

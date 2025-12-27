@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Neuron,ADCK5,1.0,12.0
+heart,Adipocyte,ADCK5,1.0,4.66321243523316
+esophagusmucosa,Epithelial cell,ADCK5,1.0312012,4.646274282400696
+esophagusmuscularis,Adipocyte,ADCK5,1.0,4.571428571428571
+skin,Other,ADCK5,1.0555556,3.982300884955752
+lung,Immune (myeloid),ADCK5,1.0292886,3.918675192654533
+skin,Epithelial cell,ADCK5,1.1304348,3.820598006644518
+breast,Adipocyte,ADCK5,1.0,3.747870528109029
+skin,Epithelial cell (keratinocyte),ADCK5,1.0147059,3.4925526450950177
+breast,Epithelial cell,ADCK5,1.0594059,3.483359199862045
+heart,Muscle,ADCK5,1.052506,3.4731432360742707
+esophagusmucosa,Stromal,ADCK5,1.060606,3.336703741152679
+skin,Endothelial cell,ADCK5,1.0,3.3235581622678394
+breast,Muscle,ADCK5,1.2,3.289473684210526
+prostate,Muscle,ADCK5,1.0273973,3.2545697726259477
+heart,Immune (myeloid),ADCK5,1.004831,3.234880450070324
+skin,Adipocyte,ADCK5,1.0,3.225806451612903
+prostate,Immune (myeloid),ADCK5,1.030303,3.210116731517509
+breast,Endothelial cell,ADCK5,1.0714285,3.1782065834279227
+skeletalmuscle,Adipocyte,ADCK5,1.0,3.1446540880503147
+prostate,Epithelial cell,ADCK5,1.0646068,3.0858579291812944
+lung,Epithelial cell,ADCK5,1.0203488,2.857736240913811
+esophagusmuscularis,Immune (myeloid),ADCK5,1.0,2.80121498481269
+skin,Immune (myeloid),ADCK5,1.0,2.793296089385475
+skin,Fibroblast,ADCK5,1.0714285,2.6465028355387523
+skeletalmuscle,Immune (myeloid),ADCK5,1.0,2.578018995929444
+esophagusmuscularis,Muscle,ADCK5,1.0269542,2.495124083663999
+lung,Muscle,ADCK5,1.0,2.4539877300613497
+esophagusmucosa,Immune (myeloid),ADCK5,1.0882353,2.432045779685265
+lung,Immune (lymphocyte),ADCK5,1.0,2.344827586206897
+esophagusmucosa,Endothelial cell,ADCK5,1.0384616,2.2231722958529287
+skeletalmuscle,Immune (lymphocyte),ADCK5,1.0,2.0
+esophagusmucosa,Muscle,ADCK5,1.0,1.996007984031936
+esophagusmuscularis,Glia,ADCK5,1.0,1.958762886597938
+breast,Immune (myeloid),ADCK5,1.1428572,1.9553072625698324
+prostate,Endothelial cell,ADCK5,1.0566038,1.875442321302194
+skin,Melanocyte,ADCK5,1.0,1.8382352941176472
+breast,Fibroblast,ADCK5,1.0666667,1.831501831501832
+esophagusmucosa,Immune (lymphocyte),ADCK5,1.09375,1.76017601760176
+esophagusmuscularis,Immune (lymphocyte),ADCK5,1.0,1.6611295681063123
+skeletalmuscle,Fibroblast,ADCK5,1.0,1.648721399730821
+esophagusmuscularis,Fibroblast,ADCK5,1.0175439,1.6428091075031224
+esophagusmucosa,Fibroblast,ADCK5,1.0222223,1.5985790408525755
+heart,Endothelial cell,ADCK5,1.0163934,1.5979043876882777
+heart,Immune (lymphocyte),ADCK5,1.0,1.5759312320916905
+esophagusmuscularis,Endothelial cell,ADCK5,1.0142857,1.5691548980049317
+lung,Endothelial cell,ADCK5,1.0,1.5659140568099053
+heart,Fibroblast,ADCK5,1.0138888,1.5505545386023474
+esophagusmucosa,Glia,ADCK5,1.0,1.5384615384615383
+prostate,Glia,ADCK5,1.0,1.4925373134328357
+lung,Fibroblast,ADCK5,1.0476191,1.4227642276422765
+skin,Immune (lymphocyte),ADCK5,1.0,1.3333333333333337
+prostate,Immune (lymphocyte),ADCK5,1.0,1.3196480938416422
+skeletalmuscle,Endothelial cell,ADCK5,1.0,1.1269722013523666
+skin,Muscle,ADCK5,1.0,1.0752688172043012
+prostate,Fibroblast,ADCK5,1.0,1.0507880910683012
+skeletalmuscle,Muscle,ADCK5,1.0074627,0.5936821585219972
+heart,Glia,ADCK5,1.0,0.3355704697986577
+skeletalmuscle,Glia,ADCK5,0.0,0.0

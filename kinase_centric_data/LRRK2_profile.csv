@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+lung,Epithelial cell,LRRK2,9.678812,64.06645898234683
+prostate,Immune (myeloid),LRRK2,1.637224,30.836575875486385
+heart,Immune (myeloid),LRRK2,1.2738998,20.59696827629317
+esophagusmucosa,Immune (myeloid),LRRK2,1.3248175,19.599427753934197
+skeletalmuscle,Immune (myeloid),LRRK2,1.4160584,18.588873812754407
+esophagusmucosa,Stromal,LRRK2,1.2021858,18.503538928210315
+esophagusmuscularis,Immune (myeloid),LRRK2,1.3213573,16.90853864326696
+skin,Immune (myeloid),LRRK2,1.1,16.75977653631285
+breast,Immune (myeloid),LRRK2,1.3076923,14.52513966480447
+heart,Fibroblast,LRRK2,1.1322436,14.493377839991387
+prostate,Glia,LRRK2,1.125,11.940298507462686
+prostate,Fibroblast,LRRK2,1.1732284,11.120840630472854
+lung,Muscle,LRRK2,4.2352943,10.429447852760736
+skin,Fibroblast,LRRK2,1.137255,9.640831758034029
+esophagusmucosa,Epithelial cell,LRRK2,1.189394,9.56799072194839
+esophagusmucosa,Fibroblast,LRRK2,1.1169811,9.41385435168739
+esophagusmuscularis,Muscle,LRRK2,1.1147152,8.500907929248774
+skeletalmuscle,Fibroblast,LRRK2,1.1127049,8.209959623149395
+esophagusmuscularis,Fibroblast,LRRK2,1.1188475,8.002689979825153
+esophagusmuscularis,Neuron,LRRK2,1.0,8.0
+heart,Muscle,LRRK2,1.1434783,7.625994694960212
+esophagusmuscularis,Glia,LRRK2,1.0869565,7.11340206185567
+heart,Endothelial cell,LRRK2,1.1100386,6.784544859201048
+skin,Melanocyte,LRRK2,1.0555556,6.61764705882353
+prostate,Muscle,LRRK2,1.177305,6.286223807400802
+heart,Adipocyte,LRRK2,1.1666666,6.217616580310881
+lung,Immune (myeloid),LRRK2,2.2776203,5.787834071159207
+esophagusmuscularis,Adipocyte,LRRK2,1.1,5.714285714285714
+esophagusmucosa,Muscle,LRRK2,1.2222222,5.389221556886228
+skeletalmuscle,Endothelial cell,LRRK2,1.0571429,5.259203606311044
+skin,Epithelial cell (keratinocyte),LRRK2,1.0645162,4.776579352850539
+esophagusmucosa,Glia,LRRK2,1.0,4.615384615384616
+prostate,Endothelial cell,LRRK2,1.1240311,4.564755838641188
+esophagusmuscularis,Endothelial cell,LRRK2,1.105,4.483299708585519
+esophagusmucosa,Endothelial cell,LRRK2,1.0663265,4.189824711415135
+heart,Glia,LRRK2,1.0909091,3.691275167785235
+breast,Fibroblast,LRRK2,1.0357143,3.418803418803419
+skin,Adipocyte,LRRK2,1.0,3.225806451612903
+skeletalmuscle,Glia,LRRK2,1.0,2.857142857142857
+skin,Endothelial cell,LRRK2,1.1724138,2.834799608993157
+skin,Epithelial cell,LRRK2,1.0,2.823920265780731
+skin,Muscle,LRRK2,1.2,2.6881720430107525
+skeletalmuscle,Muscle,LRRK2,1.1193278,2.6361260023924507
+breast,Endothelial cell,LRRK2,1.0869565,2.6106696935300797
+skeletalmuscle,Adipocyte,LRRK2,1.0,2.515723270440252
+skin,Other,LRRK2,1.1818181,2.433628318584071
+lung,Fibroblast,LRRK2,1.09375,2.168021680216802
+esophagusmucosa,Immune (lymphocyte),LRRK2,1.1621622,2.035203520352035
+breast,Muscle,LRRK2,1.0,1.973684210526316
+breast,Epithelial cell,LRRK2,1.0625,1.931367477151233
+heart,Immune (lymphocyte),LRRK2,1.1538461,1.8624641833810889
+breast,Adipocyte,LRRK2,1.0645162,1.7603634298693924
+prostate,Epithelial cell,LRRK2,1.0384616,1.6902873488493044
+esophagusmuscularis,Immune (lymphocyte),LRRK2,1.2,1.6611295681063123
+lung,Endothelial cell,LRRK2,1.1515151,1.2017479970866711
+prostate,Immune (lymphocyte),LRRK2,1.1666666,0.8797653958944283
+lung,Immune (lymphocyte),LRRK2,1.1666666,0.8275862068965517
+skeletalmuscle,Immune (lymphocyte),LRRK2,0.0,0.0
+skin,Immune (lymphocyte),LRRK2,0.0,0.0

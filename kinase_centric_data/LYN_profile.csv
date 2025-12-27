@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmucosa,Immune (myeloid),LYN,1.918797,47.56795422031473
+prostate,Immune (myeloid),LYN,1.7367303,45.81712062256809
+lung,Immune (myeloid),LYN,1.7216569,45.122151172323335
+heart,Immune (myeloid),LYN,1.3951734,31.08298171589311
+esophagusmuscularis,Immune (myeloid),LYN,1.4475956,27.370907863651706
+lung,Epithelial cell,LYN,1.4891405,26.774662512980267
+skeletalmuscle,Immune (myeloid),LYN,1.3526316,25.78018995929444
+skin,Immune (myeloid),LYN,1.4130435,25.69832402234637
+breast,Immune (myeloid),LYN,1.1830986,19.832402234636877
+esophagusmucosa,Endothelial cell,LYN,1.2438071,16.39589568191535
+heart,Immune (lymphocyte),LYN,1.3207548,15.18624641833811
+skin,Endothelial cell,LYN,1.2340425,13.78299120234604
+esophagusmucosa,Epithelial cell,LYN,1.5367265,12.53261815018846
+prostate,Epithelial cell,LYN,1.4317383,12.317427295973648
+esophagusmuscularis,Neuron,LYN,1.0,12.0
+prostate,Endothelial cell,LYN,1.2056962,11.181882519462135
+skeletalmuscle,Immune (lymphocyte),LYN,1.2727273,11.0
+esophagusmuscularis,Endothelial cell,LYN,1.2467248,10.266756332660838
+heart,Endothelial cell,LYN,1.1851852,9.548133595284872
+esophagusmuscularis,Muscle,LYN,1.3668342,9.368484766964826
+breast,Endothelial cell,LYN,1.1095891,8.286038592508513
+skin,Adipocyte,LYN,1.0,8.064516129032258
+lung,Muscle,LYN,1.2307693,7.975460122699387
+breast,Epithelial cell,LYN,1.261745,7.708225556130367
+lung,Endothelial cell,LYN,1.1871921,7.392571012381646
+esophagusmucosa,Stromal,LYN,1.3714286,7.077856420626897
+esophagusmuscularis,Adipocyte,LYN,1.1666666,6.857142857142858
+lung,Immune (lymphocyte),LYN,1.3673469,6.758620689655172
+esophagusmuscularis,Immune (lymphocyte),LYN,1.2105263,6.312292358803987
+skeletalmuscle,Endothelial cell,LYN,1.0476191,6.311044327573254
+heart,Adipocyte,LYN,1.1666666,6.217616580310881
+esophagusmucosa,Immune (lymphocyte),LYN,1.3888888,5.9405940594059405
+prostate,Immune (lymphocyte),LYN,1.125,5.865102639296188
+prostate,Muscle,LYN,1.2818182,4.90414623272403
+heart,Muscle,LYN,1.1097345,4.683355437665782
+lung,Fibroblast,LYN,1.117647,4.607046070460704
+heart,Fibroblast,LYN,1.1165311,3.9732960051685153
+esophagusmuscularis,Glia,LYN,1.2368422,3.917525773195876
+breast,Adipocyte,LYN,1.1212121,3.747870528109029
+esophagusmucosa,Muscle,LYN,1.1666666,3.592814371257485
+skin,Epithelial cell,LYN,1.0952381,3.488372093023256
+skin,Fibroblast,LYN,1.0588236,3.213610586011342
+esophagusmucosa,Fibroblast,LYN,1.1136364,3.126110124333925
+prostate,Fibroblast,LYN,1.1212121,2.8896672504378285
+heart,Glia,LYN,1.0,2.684563758389262
+esophagusmuscularis,Fibroblast,LYN,1.0687023,2.5170525506772985
+skin,Epithelial cell (keratinocyte),LYN,1.0416666,2.465331278890601
+skeletalmuscle,Fibroblast,LYN,1.0666667,2.271197846567968
+skin,Melanocyte,LYN,1.0,2.2058823529411766
+skin,Other,LYN,1.0,1.7699115044247788
+skin,Muscle,LYN,1.0,1.6129032258064515
+skeletalmuscle,Muscle,LYN,1.0254776,1.3911656550440832
+breast,Muscle,LYN,1.0,1.3157894736842104
+skeletalmuscle,Adipocyte,LYN,1.0,0.628930817610063
+breast,Fibroblast,LYN,1.0,0.6105006105006106
+esophagusmucosa,Glia,LYN,0.0,0.0
+prostate,Glia,LYN,0.0,0.0
+skeletalmuscle,Glia,LYN,0.0,0.0
+skin,Immune (lymphocyte),LYN,0.0,0.0

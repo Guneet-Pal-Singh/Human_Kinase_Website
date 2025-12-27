@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+prostate,Glia,ABL2,1.4090909,32.83582089552239
+breast,Adipocyte,ABL2,1.3184466,29.244747302668937
+esophagusmuscularis,Glia,ABL2,1.4574468,29.07216494845361
+esophagusmuscularis,Adipocyte,ABL2,1.5,27.42857142857143
+heart,Adipocyte,ABL2,1.3269231,26.94300518134715
+lung,Immune (myeloid),ABL2,1.3496459,25.463190686997866
+esophagusmuscularis,Endothelial cell,ABL2,1.6178404,23.87357094821789
+breast,Fibroblast,ABL2,1.3487179,23.809523809523807
+esophagusmucosa,Stromal,ABL2,1.246696,22.95247724974722
+breast,Immune (myeloid),ABL2,1.225,22.3463687150838
+breast,Muscle,ABL2,1.3333334,21.71052631578948
+heart,Glia,ABL2,1.296875,21.47651006711409
+skeletalmuscle,Adipocyte,ABL2,1.3529412,21.38364779874214
+esophagusmucosa,Endothelial cell,ABL2,1.2768903,20.07268063274904
+heart,Muscle,ABL2,1.2896808,20.001657824933687
+prostate,Endothelial cell,ABL2,1.3327305,19.56829440905874
+skin,Fibroblast,ABL2,1.3232323,18.714555765595463
+breast,Endothelial cell,ABL2,1.2743902,18.615209988649266
+esophagusmucosa,Glia,ABL2,1.1666666,18.461538461538463
+esophagusmuscularis,Fibroblast,ABL2,1.2442708,18.445575943894703
+esophagusmuscularis,Immune (myeloid),ABL2,1.2854512,18.32602092473844
+lung,Muscle,ABL2,1.1034483,17.791411042944784
+lung,Epithelial cell,ABL2,1.1734618,16.809968847352025
+esophagusmucosa,Fibroblast,ABL2,1.19163,16.127886323268207
+esophagusmuscularis,Neuron,ABL2,1.0,16.0
+esophagusmucosa,Muscle,ABL2,1.1772152,15.768463073852296
+esophagusmuscularis,Muscle,ABL2,1.3023767,15.280112986750956
+prostate,Epithelial cell,ABL2,1.2086806,15.078229965760844
+prostate,Muscle,ABL2,1.2899408,15.06910387873384
+heart,Fibroblast,ABL2,1.2148639,14.633358458059654
+skin,Epithelial cell,ABL2,1.2386364,14.61794019933555
+skin,Endothelial cell,ABL2,1.1879195,14.565004887585534
+skin,Adipocyte,ABL2,1.1111112,14.516129032258066
+heart,Immune (myeloid),ABL2,1.1606948,14.392873886544772
+skin,Melanocyte,ABL2,1.1794872,14.338235294117649
+skeletalmuscle,Glia,ABL2,1.0,14.285714285714285
+prostate,Immune (myeloid),ABL2,1.1888112,13.910505836575876
+heart,Endothelial cell,ABL2,1.2613207,13.883431565160445
+skeletalmuscle,Fibroblast,ABL2,1.1903031,13.879542395693138
+esophagusmucosa,Immune (myeloid),ABL2,1.2176166,13.80543633762518
+skeletalmuscle,Immune (myeloid),ABL2,1.1122448,13.297150610583447
+lung,Fibroblast,ABL2,1.157068,12.940379403794038
+breast,Epithelial cell,ABL2,1.1488498,12.743576478703226
+prostate,Fibroblast,ABL2,1.2847222,12.609457092819614
+esophagusmucosa,Epithelial cell,ABL2,1.2275902,12.452884894172223
+skin,Immune (myeloid),ABL2,1.1578947,10.614525139664805
+lung,Endothelial cell,ABL2,1.1786941,10.597232337946105
+esophagusmuscularis,Immune (lymphocyte),ABL2,1.0967742,10.299003322259136
+skeletalmuscle,Endothelial cell,ABL2,1.160584,10.293012772351616
+lung,Immune (lymphocyte),ABL2,1.0972222,9.93103448275862
+skin,Epithelial cell (keratinocyte),ABL2,1.2096775,9.553158705701078
+skin,Muscle,ABL2,1.117647,9.13978494623656
+skeletalmuscle,Immune (lymphocyte),ABL2,1.0,8.0
+esophagusmucosa,Immune (lymphocyte),ABL2,1.1458334,7.920792079207921
+heart,Immune (lymphocyte),ABL2,1.2222222,6.446991404011461
+skeletalmuscle,Muscle,ABL2,1.1042113,6.207079881263568
+skin,Other,ABL2,1.1071428,6.1946902654867255
+prostate,Immune (lymphocyte),ABL2,1.1219512,6.011730205278592
+skin,Immune (lymphocyte),ABL2,1.0,1.3333333333333337

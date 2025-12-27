@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Neuron,ULK1,1.0,28.000000000000004
+skin,Epithelial cell (keratinocyte),ULK1,1.2847059,21.828454031843865
+esophagusmucosa,Stromal,ULK1,1.2134147,16.582406471183013
+skin,Other,ULK1,1.2916666,15.929203539823009
+skin,Epithelial cell,ULK1,1.8888888,14.950166112956811
+esophagusmucosa,Epithelial cell,ULK1,1.2315902,13.58364743403885
+skin,Muscle,ULK1,1.12,13.440860215053762
+esophagusmucosa,Glia,ULK1,1.125,12.307692307692308
+esophagusmucosa,Fibroblast,ULK1,1.112426,12.007104795737122
+breast,Epithelial cell,ULK1,1.1566617,11.777892740127609
+skeletalmuscle,Adipocyte,ULK1,1.117647,10.69182389937107
+skeletalmuscle,Muscle,ULK1,1.107257,9.707146338221612
+skin,Adipocyte,ULK1,1.3333334,9.67741935483871
+prostate,Muscle,ULK1,1.0980393,9.094962104324566
+esophagusmucosa,Muscle,ULK1,1.0930233,8.582834331337326
+skin,Immune (myeloid),ULK1,1.0,8.379888268156424
+heart,Muscle,ULK1,1.1019802,8.372015915119363
+esophagusmucosa,Endothelial cell,ULK1,1.0623376,8.230012825994013
+skin,Immune (lymphocyte),ULK1,1.0,8.0
+breast,Muscle,ULK1,1.0,7.894736842105263
+prostate,Epithelial cell,ULK1,1.1018889,7.571620508819834
+skin,Fibroblast,ULK1,1.1842105,7.183364839319471
+esophagusmuscularis,Muscle,ULK1,1.0511727,6.308426928508978
+skin,Endothelial cell,ULK1,1.1428572,6.158357771260997
+prostate,Fibroblast,ULK1,1.0571429,6.129597197898424
+esophagusmucosa,Immune (myeloid),ULK1,1.0476191,6.008583690987124
+heart,Fibroblast,ULK1,1.0618181,5.922256918272854
+breast,Endothelial cell,ULK1,1.1764706,5.788876276958002
+skeletalmuscle,Fibroblast,ULK1,1.0597014,5.635935397039031
+breast,Adipocyte,ULK1,1.0824742,5.508233957978422
+skin,Melanocyte,ULK1,1.1428572,5.147058823529411
+lung,Fibroblast,ULK1,1.0266666,5.08130081300813
+breast,Immune (myeloid),ULK1,1.1111112,5.027932960893855
+lung,Muscle,ULK1,1.0,4.9079754601227
+esophagusmuscularis,Fibroblast,ULK1,1.0337973,4.832356614468249
+heart,Adipocyte,ULK1,1.1111112,4.66321243523316
+esophagusmucosa,Immune (lymphocyte),ULK1,1.0375,4.400440044004401
+breast,Fibroblast,ULK1,1.1388888,4.395604395604396
+lung,Epithelial cell,ULK1,1.0418288,4.2699896157840085
+esophagusmuscularis,Glia,ULK1,1.05,4.123711340206185
+esophagusmuscularis,Endothelial cell,ULK1,1.0384616,4.079802734812822
+prostate,Endothelial cell,ULK1,1.0701754,4.033970276008493
+heart,Glia,ULK1,1.0,4.026845637583892
+lung,Immune (myeloid),ULK1,1.0464135,3.885882931628136
+heart,Endothelial cell,ULK1,1.0427046,3.680419122462344
+heart,Immune (myeloid),ULK1,1.0316743,3.4536646350992344
+skeletalmuscle,Endothelial cell,ULK1,1.0232558,3.230653643876785
+prostate,Glia,ULK1,1.0,2.985074626865672
+esophagusmuscularis,Adipocyte,ULK1,1.0,2.857142857142857
+lung,Endothelial cell,ULK1,1.012987,2.8040786598689005
+esophagusmuscularis,Immune (myeloid),ULK1,1.0625,2.6999662504218698
+skeletalmuscle,Immune (myeloid),ULK1,1.0,2.442333785617368
+prostate,Immune (lymphocyte),ULK1,1.0,2.0527859237536656
+esophagusmuscularis,Immune (lymphocyte),ULK1,1.0,1.9933554817275747
+lung,Immune (lymphocyte),ULK1,1.0,1.793103448275862
+prostate,Immune (myeloid),ULK1,1.0588236,1.6536964980544748
+heart,Immune (lymphocyte),ULK1,1.0,0.4297994269340974
+skeletalmuscle,Glia,ULK1,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),ULK1,0.0,0.0

@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+lung,Epithelial cell,CIT,1.2352475,10.488058151609552
+skeletalmuscle,Glia,CIT,1.0,8.571428571428571
+heart,Glia,CIT,1.0434783,7.718120805369128
+skin,Epithelial cell (keratinocyte),CIT,1.3108108,7.601438109912687
+esophagusmuscularis,Glia,CIT,1.1643835,7.525773195876289
+esophagusmucosa,Epithelial cell,CIT,1.4758325,6.748332850101478
+esophagusmucosa,Glia,CIT,1.0,6.153846153846154
+lung,Muscle,CIT,1.2,6.134969325153374
+lung,Immune (myeloid),CIT,1.1155015,5.394326938842433
+prostate,Glia,CIT,1.0,4.477611940298507
+skin,Immune (myeloid),CIT,1.25,4.46927374301676
+esophagusmucosa,Stromal,CIT,1.225,4.044489383215369
+skin,Immune (lymphocyte),CIT,1.0,4.0
+esophagusmuscularis,Neuron,CIT,1.0,4.0
+breast,Immune (myeloid),CIT,1.0,3.910614525139665
+prostate,Immune (myeloid),CIT,1.3589743,3.793774319066148
+skin,Other,CIT,1.0625,3.5398230088495577
+esophagusmucosa,Immune (myeloid),CIT,1.2340425,3.3619456366237483
+lung,Fibroblast,CIT,1.0,2.9810298102981028
+lung,Endothelial cell,CIT,1.0657895,2.7676620538965766
+esophagusmucosa,Endothelial cell,CIT,1.1550387,2.7575887131252674
+skin,Muscle,CIT,1.0,2.6881720430107525
+skin,Endothelial cell,CIT,1.074074,2.6392961876832843
+skeletalmuscle,Immune (myeloid),CIT,1.2352941,2.3066485753052914
+esophagusmuscularis,Immune (myeloid),CIT,1.2575758,2.2274721565980427
+heart,Adipocyte,CIT,1.0,2.072538860103627
+skin,Epithelial cell,CIT,1.0833334,1.9933554817275747
+breast,Muscle,CIT,1.0,1.973684210526316
+skeletalmuscle,Adipocyte,CIT,1.0,1.8867924528301887
+heart,Immune (lymphocyte),CIT,1.3846154,1.8624641833810889
+skin,Melanocyte,CIT,1.0,1.8382352941176472
+esophagusmuscularis,Endothelial cell,CIT,1.1111112,1.815736381977135
+skeletalmuscle,Muscle,CIT,1.0465686,1.8076292587833944
+skeletalmuscle,Endothelial cell,CIT,1.0833334,1.8031555221637865
+lung,Immune (lymphocyte),CIT,1.1538461,1.793103448275862
+skeletalmuscle,Fibroblast,CIT,1.018868,1.7833109017496636
+heart,Muscle,CIT,1.0516431,1.7655835543766578
+breast,Epithelial cell,CIT,1.0,1.7416795999310226
+esophagusmuscularis,Adipocyte,CIT,1.3333334,1.7142857142857144
+esophagusmuscularis,Muscle,CIT,1.024,1.6813504606900262
+heart,Endothelial cell,CIT,1.1932774,1.558611656843484
+prostate,Muscle,CIT,1.0294118,1.5158270173874275
+skin,Fibroblast,CIT,1.25,1.5122873345935728
+heart,Immune (myeloid),CIT,1.2708334,1.5002344116268167
+prostate,Epithelial cell,CIT,1.1071428,1.334893598578425
+heart,Fibroblast,CIT,1.0495868,1.302896522020028
+prostate,Endothelial cell,CIT,1.0857143,1.2384996461429585
+esophagusmucosa,Muscle,CIT,1.1666666,1.1976047904191618
+esophagusmucosa,Immune (lymphocyte),CIT,1.1904762,1.155115511551155
+breast,Endothelial cell,CIT,1.1111112,1.021566401816118
+skeletalmuscle,Immune (lymphocyte),CIT,1.0,1.0
+esophagusmuscularis,Fibroblast,CIT,1.0208334,0.9222787971947354
+prostate,Fibroblast,CIT,1.2,0.8756567425569177
+breast,Adipocyte,CIT,1.0,0.8517887563884157
+breast,Fibroblast,CIT,1.0,0.7326007326007326
+esophagusmuscularis,Immune (lymphocyte),CIT,1.0,0.6644518272425249
+prostate,Immune (lymphocyte),CIT,1.0,0.4398826979472141
+esophagusmucosa,Fibroblast,CIT,1.0,0.3197158081705151
+skin,Adipocyte,CIT,0.0,0.0

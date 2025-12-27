@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Myocyte (NMJ-rich),HIPK4,0.45530438
+Myocyte (sk. muscle),HIPK4,0.28249997
+Neuronal,HIPK4,0.0611457
+"Myocyte (sk. muscle, cytoplasmic)",HIPK4,0.060197692
+Myocyte (smooth muscle),HIPK4,0.05812256
+Myocyte (cardiac),HIPK4,0.041806016
+Epithelial cell (alveolar type II),HIPK4,0.039211083
+Immune (alveolar macrophage),HIPK4,0.037488975
+Epithelial cell (alveolar type I),HIPK4,0.036519587
+Immune (mast cell),HIPK4,0.033190075
+Myofibroblast,HIPK4,0.031475402
+Neuroendocrine,HIPK4,0.03130577
+Schwann cell,HIPK4,0.028131684
+Epithelial cell (suprabasal keratinocyte),HIPK4,0.025101198
+Melanocyte,HIPK4,0.024777155
+ICCs,HIPK4,0.024605218
+Immune (DC),HIPK4,0.023878016
+Pericyte/SMC,HIPK4,0.021510715
+Fibroblast,HIPK4,0.021184681
+Epithelial cell (ciliated),HIPK4,0.021175697
+Endothelial cell (vascular),HIPK4,0.019288188
+Myoepithelial (basal),HIPK4,0.017101662
+Immune (DC/macrophage),HIPK4,0.01474687
+Epithelial cell (club),HIPK4,0.013584899
+Endothelial cell (lymphatic),HIPK4,0.012508776
+Epithelial cell (luminal),HIPK4,0.011816729
+Epithelial cell (basal keratinocyte),HIPK4,0.009935032
+Epithelial cell (Hillock),HIPK4,0.009932469
+Satellite cell,HIPK4,0.008644383
+Adipocyte,HIPK4,0.008440249
+Epithelial cell (basal),HIPK4,0.0067647034
+Immune (T cell),HIPK4,0.0066566863
+Epithelial cell (suprabasal),HIPK4,0.005147705
+Epithelial cell (squamous),HIPK4,0.004191829
+"Myocyte (cardiac, cytoplasmic)",HIPK4,0.0040885922
+Epithelial cell (cornified keratinocyte),HIPK4,0.0
+Immune (NK cell),HIPK4,0.0
+Epithelial cell (mature keratinocyte),HIPK4,0.0
+Immune (B cell),HIPK4,0.0
+Immune (Langerhans),HIPK4,0.0
+Mucous cell,HIPK4,0.0
+Sebaceous gland cell,HIPK4,0.0
+Sweat gland cell,HIPK4,0.0

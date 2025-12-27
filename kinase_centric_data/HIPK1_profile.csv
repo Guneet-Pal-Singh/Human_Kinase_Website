@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Adipocyte,HIPK1,1.1458334,27.42857142857143
+esophagusmucosa,Stromal,HIPK1,1.1031746,12.740141557128412
+esophagusmuscularis,Neuron,HIPK1,1.0,12.0
+esophagusmucosa,Epithelial cell,HIPK1,1.190114,11.43809799942012
+esophagusmucosa,Immune (lymphocyte),HIPK1,1.115,11.001100110011002
+skeletalmuscle,Immune (lymphocyte),HIPK1,1.0,11.0
+lung,Immune (myeloid),HIPK1,1.1664,10.247581570749304
+esophagusmuscularis,Immune (lymphocyte),HIPK1,1.074074,8.970099667774086
+esophagusmucosa,Immune (myeloid),HIPK1,1.1129032,8.869814020028613
+lung,Immune (lymphocyte),HIPK1,1.1111112,8.689655172413794
+skin,Immune (myeloid),HIPK1,1.2666667,8.379888268156424
+heart,Adipocyte,HIPK1,1.0,8.290155440414509
+skin,Immune (lymphocyte),HIPK1,1.0,8.0
+breast,Muscle,HIPK1,1.1666666,7.894736842105263
+heart,Immune (lymphocyte),HIPK1,1.1111112,7.736389684813753
+prostate,Glia,HIPK1,1.2,7.462686567164178
+prostate,Muscle,HIPK1,1.0598803,7.445385644226482
+prostate,Immune (myeloid),HIPK1,1.0547945,7.101167315175097
+skin,Melanocyte,HIPK1,1.1578947,6.985294117647059
+esophagusmuscularis,Immune (myeloid),HIPK1,1.04,6.749915626054674
+heart,Muscle,HIPK1,1.0904585,6.689323607427056
+prostate,Epithelial cell,HIPK1,1.0997151,6.085034455857496
+skin,Epithelial cell (keratinocyte),HIPK1,1.1355932,6.0606060606060606
+lung,Epithelial cell,HIPK1,1.0784314,5.931464174454828
+prostate,Fibroblast,HIPK1,1.0307692,5.691768826619965
+skeletalmuscle,Adipocyte,HIPK1,1.0,5.660377358490567
+esophagusmuscularis,Muscle,HIPK1,1.0588943,5.595534333176407
+prostate,Immune (lymphocyte),HIPK1,1.054054,5.425219941348973
+skin,Other,HIPK1,1.0416666,5.3097345132743365
+breast,Immune (myeloid),HIPK1,1.1578947,5.307262569832402
+skeletalmuscle,Immune (myeloid),HIPK1,1.0,5.291723202170964
+heart,Immune (myeloid),HIPK1,1.0684524,5.250820440693858
+breast,Adipocyte,HIPK1,1.117647,4.8268029528676895
+esophagusmucosa,Fibroblast,HIPK1,1.0530303,4.6891651865008885
+prostate,Endothelial cell,HIPK1,1.0833334,4.670912951167728
+skin,Epithelial cell,HIPK1,1.1428572,4.651162790697675
+esophagusmucosa,Muscle,HIPK1,1.0434783,4.590818363273453
+esophagusmucosa,Endothelial cell,HIPK1,1.0473933,4.510474561778538
+heart,Fibroblast,HIPK1,1.0464548,4.404005599224723
+lung,Fibroblast,HIPK1,1.1311475,4.13279132791328
+breast,Endothelial cell,HIPK1,1.1714286,3.9727582292849033
+esophagusmuscularis,Endothelial cell,HIPK1,1.0516129,3.474557274153777
+heart,Endothelial cell,HIPK1,1.0492424,3.457760314341847
+esophagusmuscularis,Fibroblast,HIPK1,1.0571429,3.362474781439139
+skin,Adipocyte,HIPK1,1.0,3.225806451612903
+lung,Muscle,HIPK1,1.0,3.067484662576687
+lung,Endothelial cell,HIPK1,1.0121951,2.986161689730517
+skeletalmuscle,Endothelial cell,HIPK1,1.0526316,2.854996243425996
+skin,Muscle,HIPK1,1.2,2.6881720430107525
+skeletalmuscle,Fibroblast,HIPK1,1.0443038,2.65814266487214
+breast,Epithelial cell,HIPK1,1.0331125,2.603897223659252
+skin,Endothelial cell,HIPK1,1.16,2.443792766373412
+heart,Glia,HIPK1,1.1428572,2.348993288590604
+esophagusmuscularis,Glia,HIPK1,1.0454545,2.268041237113402
+breast,Fibroblast,HIPK1,1.0,1.7094017094017095
+esophagusmucosa,Glia,HIPK1,1.0,1.5384615384615383
+skeletalmuscle,Muscle,HIPK1,1.0526316,1.515218643391963
+skin,Fibroblast,HIPK1,1.0,0.5671077504725899
+skeletalmuscle,Glia,HIPK1,0.0,0.0

@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Neuron,TSSK3,1.0,4.0
+breast,Adipocyte,TSSK3,1.0,1.6467915956842702
+skin,Muscle,TSSK3,1.3333334,1.6129032258064515
+heart,Muscle,TSSK3,1.0479041,1.384283819628647
+prostate,Fibroblast,TSSK3,1.0666667,1.3134851138353765
+breast,Epithelial cell,TSSK3,1.0,1.1208829108466978
+esophagusmucosa,Stromal,TSSK3,1.0,1.1122345803842264
+skeletalmuscle,Muscle,TSSK3,1.0130435,1.019006690000443
+skin,Fibroblast,TSSK3,1.0,0.945179584120983
+esophagusmucosa,Fibroblast,TSSK3,1.0,0.8880994671403196
+breast,Fibroblast,TSSK3,1.0,0.8547008547008548
+breast,Immune (myeloid),TSSK3,1.0,0.8379888268156425
+skin,Epithelial cell (keratinocyte),TSSK3,1.0666667,0.7704160246533128
+lung,Fibroblast,TSSK3,1.0,0.7452574525745257
+prostate,Muscle,TSSK3,1.0,0.7133303611234953
+heart,Glia,TSSK3,1.0,0.6711409395973155
+skeletalmuscle,Adipocyte,TSSK3,1.0,0.628930817610063
+esophagusmuscularis,Glia,TSSK3,1.0,0.6185567010309279
+esophagusmucosa,Endothelial cell,TSSK3,1.0,0.5771697306541257
+esophagusmuscularis,Adipocyte,TSSK3,1.0,0.5714285714285714
+prostate,Epithelial cell,TSSK3,1.0,0.5590950461578468
+heart,Fibroblast,TSSK3,1.0,0.5276192527188543
+heart,Adipocyte,TSSK3,1.0,0.5181347150259068
+esophagusmucosa,Immune (myeloid),TSSK3,1.0,0.5007153075822603
+skin,Epithelial cell,TSSK3,1.0,0.4983388704318937
+esophagusmuscularis,Muscle,TSSK3,1.0135136,0.4976797363642478
+breast,Endothelial cell,TSSK3,1.0,0.4540295119182747
+lung,Epithelial cell,TSSK3,1.0091743,0.4527518172377985
+skin,Other,TSSK3,1.0,0.4424778761061947
+esophagusmuscularis,Fibroblast,TSSK3,1.0222223,0.4323181861850321
+lung,Immune (myeloid),TSSK3,1.0,0.426299393343171
+esophagusmucosa,Epithelial cell,TSSK3,1.0,0.4204117135401566
+esophagusmucosa,Muscle,TSSK3,1.0,0.3992015968063871
+esophagusmuscularis,Immune (myeloid),TSSK3,1.0,0.3037462031724603
+skin,Endothelial cell,TSSK3,1.0,0.2932551319648094
+prostate,Immune (myeloid),TSSK3,1.0,0.2918287937743191
+esophagusmucosa,Immune (lymphocyte),TSSK3,1.0,0.275027502750275
+lung,Endothelial cell,TSSK3,1.0,0.2549162418062636
+heart,Immune (myeloid),TSSK3,1.0,0.2500390686044694
+skeletalmuscle,Fibroblast,TSSK3,1.0,0.2355316285329744
+skeletalmuscle,Endothelial cell,TSSK3,1.0,0.2253944402704733
+heart,Endothelial cell,TSSK3,1.0,0.1702685003274394
+esophagusmuscularis,Endothelial cell,TSSK3,1.0,0.1569154898004931
+prostate,Immune (lymphocyte),TSSK3,1.0,0.1466275659824047
+skeletalmuscle,Immune (myeloid),TSSK3,1.0,0.1356852103120759
+prostate,Endothelial cell,TSSK3,1.0,0.1061571125265392
+esophagusmucosa,Glia,TSSK3,0.0,0.0
+heart,Immune (lymphocyte),TSSK3,0.0,0.0
+esophagusmuscularis,Immune (lymphocyte),TSSK3,0.0,0.0
+breast,Muscle,TSSK3,0.0,0.0
+lung,Immune (lymphocyte),TSSK3,0.0,0.0
+prostate,Glia,TSSK3,0.0,0.0
+lung,Muscle,TSSK3,0.0,0.0
+skeletalmuscle,Glia,TSSK3,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),TSSK3,0.0,0.0
+skin,Adipocyte,TSSK3,0.0,0.0
+skin,Immune (lymphocyte),TSSK3,0.0,0.0
+skin,Melanocyte,TSSK3,0.0,0.0
+skin,Immune (myeloid),TSSK3,0.0,0.0

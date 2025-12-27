@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Neuronal,PFKP,0.4502466
+Sweat gland cell,PFKP,0.40608382
+Epithelial cell (suprabasal),PFKP,0.31184432
+Myocyte (cardiac),PFKP,0.30007502
+Melanocyte,PFKP,0.26287794
+Neuroendocrine,PFKP,0.25546995
+Myocyte (sk. muscle),PFKP,0.24954201
+Epithelial cell (squamous),PFKP,0.17608775
+Epithelial cell (basal keratinocyte),PFKP,0.17532477
+Myofibroblast,PFKP,0.17095424
+Myocyte (smooth muscle),PFKP,0.16539682
+Immune (T cell),PFKP,0.1607647
+Mucous cell,PFKP,0.15585972
+ICCs,PFKP,0.15353332
+Epithelial cell (basal),PFKP,0.13252561
+Epithelial cell (suprabasal keratinocyte),PFKP,0.13244231
+Immune (DC),PFKP,0.12802878
+Epithelial cell (cornified keratinocyte),PFKP,0.12666935
+Epithelial cell (ciliated),PFKP,0.12243339
+Immune (NK cell),PFKP,0.12072815
+Epithelial cell (Hillock),PFKP,0.12070537
+Sebaceous gland cell,PFKP,0.111330554
+Epithelial cell (club),PFKP,0.106378116
+Immune (mast cell),PFKP,0.101599686
+Endothelial cell (vascular),PFKP,0.09945986
+Satellite cell,PFKP,0.09194683
+Immune (alveolar macrophage),PFKP,0.08956524
+Myoepithelial (basal),PFKP,0.08030862
+Endothelial cell (lymphatic),PFKP,0.07959807
+Fibroblast,PFKP,0.07631229
+Immune (B cell),PFKP,0.07311924
+Pericyte/SMC,PFKP,0.070465915
+Epithelial cell (mature keratinocyte),PFKP,0.06837648
+Immune (Langerhans),PFKP,0.06642232
+Epithelial cell (luminal),PFKP,0.06537981
+Schwann cell,PFKP,0.05313375
+"Myocyte (sk. muscle, cytoplasmic)",PFKP,0.052829873
+Immune (DC/macrophage),PFKP,0.052053556
+Epithelial cell (alveolar type I),PFKP,0.04584946
+Epithelial cell (alveolar type II),PFKP,0.043131277
+Adipocyte,PFKP,0.039625935
+"Myocyte (cardiac, cytoplasmic)",PFKP,0.038014717
+Myocyte (NMJ-rich),PFKP,0.027992193

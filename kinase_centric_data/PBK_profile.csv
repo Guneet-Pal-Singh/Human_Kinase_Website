@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skin,Immune (myeloid),PBK,1.0,1.675977653631285
+esophagusmucosa,Epithelial cell,PBK,1.1302326,1.5584227312264425
+skin,Epithelial cell (keratinocyte),PBK,1.2962962,1.386748844375963
+lung,Muscle,PBK,1.0,1.2269938650306749
+skin,Other,PBK,1.0,0.8849557522123894
+skin,Melanocyte,PBK,1.0,0.7352941176470588
+lung,Fibroblast,PBK,1.0,0.6775067750677507
+skin,Epithelial cell,PBK,1.0,0.6644518272425249
+lung,Immune (myeloid),PBK,1.0526316,0.6230529595015576
+esophagusmuscularis,Adipocyte,PBK,1.0,0.5714285714285714
+lung,Epithelial cell,PBK,1.018868,0.4402907580477674
+heart,Immune (lymphocyte),PBK,1.0,0.4297994269340974
+esophagusmucosa,Muscle,PBK,1.0,0.3992015968063871
+esophagusmucosa,Immune (lymphocyte),PBK,1.0,0.385038503850385
+prostate,Immune (myeloid),PBK,1.0,0.2918287937743191
+skeletalmuscle,Immune (myeloid),PBK,1.0,0.2713704206241519
+esophagusmucosa,Endothelial cell,PBK,1.0,0.2565198802907225
+breast,Epithelial cell,PBK,1.0,0.2241765821693395
+esophagusmucosa,Stromal,PBK,1.0,0.2022244691607684
+heart,Muscle,PBK,1.0454545,0.1823607427055703
+skeletalmuscle,Muscle,PBK,1.0,0.1772185547826857
+breast,Adipocyte,PBK,1.0,0.1703577512776831
+prostate,Epithelial cell,PBK,1.1428572,0.1516924543839119
+skeletalmuscle,Endothelial cell,PBK,1.0,0.1502629601803155
+lung,Endothelial cell,PBK,1.0,0.1456664238892935
+esophagusmucosa,Immune (myeloid),PBK,1.0,0.1430615164520743
+lung,Immune (lymphocyte),PBK,1.0,0.1379310344827586
+breast,Fibroblast,PBK,1.0,0.1221001221001221
+heart,Endothelial cell,PBK,1.0,0.1178781925343811
+esophagusmuscularis,Endothelial cell,PBK,1.2,0.1120824927146379
+heart,Immune (myeloid),PBK,1.0,0.1093920925144553
+skin,Endothelial cell,PBK,1.0,0.0977517106549364
+esophagusmuscularis,Fibroblast,PBK,1.0,0.0960707080411182
+esophagusmuscularis,Muscle,PBK,1.0,0.0941556257986414
+prostate,Muscle,PBK,1.0,0.0891662951404369
+skeletalmuscle,Fibroblast,PBK,1.0,0.0841184387617765
+heart,Fibroblast,PBK,1.1428572,0.0753741789598363
+esophagusmucosa,Fibroblast,PBK,1.0,0.0710479573712255
+prostate,Endothelial cell,PBK,1.0,0.0707714083510261
+esophagusmuscularis,Immune (myeloid),PBK,1.5,0.0674991562605467
+breast,Endothelial cell,PBK,0.0,0.0
+breast,Muscle,PBK,0.0,0.0
+esophagusmucosa,Glia,PBK,0.0,0.0
+heart,Glia,PBK,0.0,0.0
+heart,Adipocyte,PBK,0.0,0.0
+esophagusmuscularis,Neuron,PBK,0.0,0.0
+esophagusmuscularis,Immune (lymphocyte),PBK,0.0,0.0
+esophagusmuscularis,Glia,PBK,0.0,0.0
+breast,Immune (myeloid),PBK,0.0,0.0
+prostate,Fibroblast,PBK,0.0,0.0
+prostate,Glia,PBK,0.0,0.0
+skeletalmuscle,Adipocyte,PBK,0.0,0.0
+prostate,Immune (lymphocyte),PBK,0.0,0.0
+skeletalmuscle,Glia,PBK,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),PBK,0.0,0.0
+skin,Adipocyte,PBK,0.0,0.0
+skin,Fibroblast,PBK,0.0,0.0
+skin,Immune (lymphocyte),PBK,0.0,0.0
+skin,Muscle,PBK,0.0,0.0

@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmucosa,Endothelial cell,BCR,1.3472834,29.11500641299701
+esophagusmuscularis,Endothelial cell,BCR,1.6498344,27.079130239856536
+esophagusmuscularis,Adipocyte,BCR,1.3913044,26.285714285714285
+esophagusmucosa,Stromal,BCR,1.3105023,22.143579373104146
+skin,Endothelial cell,BCR,1.2107624,21.79863147605083
+esophagusmucosa,Epithelial cell,BCR,1.3649435,21.172803711220645
+breast,Endothelial cell,BCR,1.4055556,20.43132803632236
+prostate,Endothelial cell,BCR,1.2666667,20.169851380042463
+esophagusmuscularis,Neuron,BCR,1.6,20.0
+breast,Adipocyte,BCR,1.1671554,19.36399772856332
+esophagusmucosa,Glia,BCR,1.1818181,16.923076923076923
+lung,Endothelial cell,BCR,1.1631579,13.838310269482884
+breast,Muscle,BCR,1.0,13.815789473684212
+heart,Glia,BCR,1.097561,13.758389261744966
+skeletalmuscle,Endothelial cell,BCR,1.2637362,13.673929376408712
+prostate,Glia,BCR,1.1111112,13.432835820895525
+skin,Epithelial cell,BCR,1.425,13.2890365448505
+prostate,Muscle,BCR,1.1564626,13.107445385644226
+heart,Endothelial cell,BCR,1.1751101,11.89259986902423
+esophagusmuscularis,Glia,BCR,1.25,11.54639175257732
+heart,Adipocyte,BCR,1.2727273,11.398963730569948
+skin,Adipocyte,BCR,1.1428572,11.29032258064516
+lung,Epithelial cell,BCR,1.1004332,10.546209761163032
+prostate,Epithelial cell,BCR,1.1645862,9.374593680925758
+breast,Epithelial cell,BCR,1.1184211,9.173995516468358
+skeletalmuscle,Adipocyte,BCR,1.0714285,8.80503144654088
+esophagusmucosa,Immune (lymphocyte),BCR,1.1132076,8.745874587458747
+skeletalmuscle,Glia,BCR,1.0,8.571428571428571
+esophagusmucosa,Muscle,BCR,1.0243902,8.183632734530939
+heart,Muscle,BCR,1.1060143,8.131631299734748
+skin,Muscle,BCR,1.1333333,8.064516129032258
+esophagusmuscularis,Muscle,BCR,1.1315789,7.922523370771403
+heart,Fibroblast,BCR,1.0872895,7.031334122967589
+heart,Immune (lymphocyte),BCR,1.0425532,6.73352435530086
+skin,Immune (lymphocyte),BCR,1.0,6.666666666666667
+lung,Immune (myeloid),BCR,1.0541238,6.361698639121167
+skin,Other,BCR,1.1785715,6.1946902654867255
+esophagusmuscularis,Fibroblast,BCR,1.2053713,6.081275819002786
+breast,Immune (myeloid),BCR,1.0952381,5.865921787709497
+esophagusmucosa,Immune (myeloid),BCR,1.0641025,5.579399141630901
+lung,Immune (lymphocyte),BCR,1.0,4.965517241379311
+lung,Muscle,BCR,1.375,4.9079754601227
+prostate,Fibroblast,BCR,1.0816326,4.2907180385288965
+prostate,Immune (lymphocyte),BCR,1.0714285,4.105571847507331
+skeletalmuscle,Fibroblast,BCR,1.0573771,4.104979811574697
+skin,Epithelial cell (keratinocyte),BCR,1.1265823,4.057524396507447
+skeletalmuscle,Immune (lymphocyte),BCR,1.0,4.0
+esophagusmuscularis,Immune (lymphocyte),BCR,1.0833334,3.986710963455149
+skin,Immune (myeloid),BCR,1.1428572,3.910614525139665
+breast,Fibroblast,BCR,1.0,3.907203907203907
+prostate,Immune (myeloid),BCR,1.0769231,3.793774319066148
+esophagusmucosa,Fibroblast,BCR,1.0879121,3.232682060390764
+heart,Immune (myeloid),BCR,1.14,3.1254883575558683
+lung,Fibroblast,BCR,1.0444444,3.048780487804878
+skin,Fibroblast,BCR,1.0,2.835538752362949
+skeletalmuscle,Muscle,BCR,1.0532646,2.5785299720880777
+skeletalmuscle,Immune (myeloid),BCR,1.0,2.578018995929444
+skin,Melanocyte,BCR,1.0,2.5735294117647056
+esophagusmuscularis,Immune (myeloid),BCR,1.0821918,2.463719203509956

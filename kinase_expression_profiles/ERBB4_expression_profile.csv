@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (alveolar type II),ERBB4,1.987275
+Neuroendocrine,ERBB4,1.8322544
+Myocyte (cardiac),ERBB4,1.7397646
+Sweat gland cell,ERBB4,1.6250441
+Myocyte (NMJ-rich),ERBB4,1.4404929
+Mucous cell,ERBB4,1.3660557
+Neuronal,ERBB4,1.3081746
+Epithelial cell (club),ERBB4,1.2530236
+Epithelial cell (luminal),ERBB4,1.005181
+Epithelial cell (ciliated),ERBB4,0.87372166
+Epithelial cell (Hillock),ERBB4,0.86322045
+Myocyte (sk. muscle),ERBB4,0.73205894
+Epithelial cell (alveolar type I),ERBB4,0.6338943
+Myoepithelial (basal),ERBB4,0.51934946
+Adipocyte,ERBB4,0.40491444
+Pericyte/SMC,ERBB4,0.39389426
+"Myocyte (cardiac, cytoplasmic)",ERBB4,0.38587216
+"Myocyte (sk. muscle, cytoplasmic)",ERBB4,0.3177318
+Epithelial cell (basal),ERBB4,0.30605
+Satellite cell,ERBB4,0.3002929
+Immune (alveolar macrophage),ERBB4,0.2997688
+Schwann cell,ERBB4,0.24281037
+ICCs,ERBB4,0.21712954
+Epithelial cell (basal keratinocyte),ERBB4,0.20195308
+Epithelial cell (suprabasal keratinocyte),ERBB4,0.19884518
+Endothelial cell (lymphatic),ERBB4,0.19276011
+Sebaceous gland cell,ERBB4,0.1868034
+Myocyte (smooth muscle),ERBB4,0.1859392
+Endothelial cell (vascular),ERBB4,0.17688625
+Myofibroblast,ERBB4,0.14432512
+Melanocyte,ERBB4,0.14143175
+Immune (mast cell),ERBB4,0.123251066
+Fibroblast,ERBB4,0.11429392
+Epithelial cell (suprabasal),ERBB4,0.10592848
+Epithelial cell (cornified keratinocyte),ERBB4,0.096124776
+Immune (Langerhans),ERBB4,0.06648867
+Epithelial cell (squamous),ERBB4,0.06276177
+Immune (DC/macrophage),ERBB4,0.060513873
+Epithelial cell (mature keratinocyte),ERBB4,0.051491752
+Immune (DC),ERBB4,0.042303797
+Immune (T cell),ERBB4,0.028189363
+Immune (B cell),ERBB4,0.028090866
+Immune (NK cell),ERBB4,0.021160614

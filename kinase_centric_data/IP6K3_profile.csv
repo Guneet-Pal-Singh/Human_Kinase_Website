@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skeletalmuscle,Muscle,IP6K3,1.2557565,28.669531699968985
+heart,Muscle,IP6K3,1.2660204,15.39290450928382
+esophagusmucosa,Stromal,IP6K3,1.1111112,7.280080889787664
+skeletalmuscle,Adipocyte,IP6K3,1.0,5.660377358490567
+heart,Glia,IP6K3,1.0666667,5.033557046979865
+esophagusmuscularis,Glia,IP6K3,1.21875,3.2989690721649487
+prostate,Muscle,IP6K3,1.0895523,2.9870708872046365
+skeletalmuscle,Glia,IP6K3,1.0,2.857142857142857
+lung,Fibroblast,IP6K3,1.0,2.710027100271003
+esophagusmucosa,Muscle,IP6K3,1.1111112,1.7964071856287425
+skeletalmuscle,Immune (myeloid),IP6K3,1.0,1.6282225237449115
+skeletalmuscle,Endothelial cell,IP6K3,1.1666666,1.35236664162284
+esophagusmuscularis,Adipocyte,IP6K3,1.0,1.1428571428571428
+heart,Adipocyte,IP6K3,1.0,1.0362694300518136
+breast,Muscle,IP6K3,1.0,0.6578947368421052
+lung,Muscle,IP6K3,1.0,0.6134969325153374
+prostate,Fibroblast,IP6K3,1.0,0.5253940455341506
+lung,Immune (myeloid),IP6K3,1.0,0.4426955238563699
+lung,Epithelial cell,IP6K3,1.0117648,0.3530633437175493
+esophagusmuscularis,Muscle,IP6K3,1.0227273,0.2959176810814446
+skin,Endothelial cell,IP6K3,1.0,0.2932551319648094
+breast,Immune (myeloid),IP6K3,1.0,0.2793296089385474
+breast,Fibroblast,IP6K3,1.0,0.2442002442002442
+breast,Epithelial cell,IP6K3,1.0,0.2414209346439041
+esophagusmuscularis,Fibroblast,IP6K3,1.0,0.2305696992986838
+skin,Fibroblast,IP6K3,1.0,0.1890359168241966
+prostate,Epithelial cell,IP6K3,1.0232558,0.1863650153859489
+lung,Endothelial cell,IP6K3,1.0,0.1820830298616169
+esophagusmuscularis,Endothelial cell,IP6K3,1.0,0.1793319883434207
+breast,Adipocyte,IP6K3,1.0,0.1703577512776831
+esophagusmuscularis,Immune (myeloid),IP6K3,1.0,0.1687478906513668
+skeletalmuscle,Fibroblast,IP6K3,1.1428572,0.1177658142664872
+esophagusmucosa,Immune (lymphocyte),IP6K3,1.0,0.11001100110011
+esophagusmucosa,Fibroblast,IP6K3,1.0,0.1065719360568383
+skin,Epithelial cell (keratinocyte),IP6K3,1.0,0.1027221366204417
+prostate,Immune (myeloid),IP6K3,1.0,0.0972762645914396
+esophagusmucosa,Immune (myeloid),IP6K3,1.0,0.0715307582260371
+prostate,Endothelial cell,IP6K3,1.0,0.0707714083510261
+esophagusmucosa,Endothelial cell,IP6K3,1.0,0.0641299700726806
+esophagusmucosa,Epithelial cell,IP6K3,1.0,0.0434908669179472
+heart,Endothelial cell,IP6K3,1.0,0.0392927308447937
+heart,Immune (myeloid),IP6K3,1.0,0.0312548835755586
+heart,Fibroblast,IP6K3,1.0,0.0107677398514051
+heart,Immune (lymphocyte),IP6K3,0.0,0.0
+esophagusmuscularis,Neuron,IP6K3,0.0,0.0
+esophagusmuscularis,Immune (lymphocyte),IP6K3,0.0,0.0
+esophagusmucosa,Glia,IP6K3,0.0,0.0
+breast,Endothelial cell,IP6K3,0.0,0.0
+prostate,Immune (lymphocyte),IP6K3,0.0,0.0
+lung,Immune (lymphocyte),IP6K3,0.0,0.0
+prostate,Glia,IP6K3,0.0,0.0
+skin,Adipocyte,IP6K3,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),IP6K3,0.0,0.0
+skin,Epithelial cell,IP6K3,0.0,0.0
+skin,Immune (lymphocyte),IP6K3,0.0,0.0
+skin,Immune (myeloid),IP6K3,0.0,0.0
+skin,Melanocyte,IP6K3,0.0,0.0
+skin,Muscle,IP6K3,0.0,0.0
+skin,Other,IP6K3,0.0,0.0

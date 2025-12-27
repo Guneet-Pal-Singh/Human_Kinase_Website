@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Schwann cell,ABL2,0.79431504
+Adipocyte,ABL2,0.72261184
+ICCs,ABL2,0.70665914
+Immune (alveolar macrophage),ABL2,0.65116715
+Sebaceous gland cell,ABL2,0.56450355
+Neuroendocrine,ABL2,0.5440584
+Myofibroblast,ABL2,0.53852606
+Endothelial cell (vascular),ABL2,0.52659345
+Immune (DC),ABL2,0.5150033
+Mucous cell,ABL2,0.49762186
+Fibroblast,ABL2,0.49210057
+Myocyte (cardiac),ABL2,0.49104068
+Endothelial cell (lymphatic),ABL2,0.4835806
+Immune (DC/macrophage),ABL2,0.4820829
+Epithelial cell (alveolar type II),ABL2,0.47067365
+Melanocyte,ABL2,0.43579602
+Immune (B cell),ABL2,0.43079835
+Epithelial cell (alveolar type I),ABL2,0.42977512
+Epithelial cell (club),ABL2,0.4287913
+Myocyte (smooth muscle),ABL2,0.4259056
+Epithelial cell (suprabasal),ABL2,0.41381553
+Epithelial cell (ciliated),ABL2,0.41368628
+Epithelial cell (luminal),ABL2,0.4104726
+Neuronal,ABL2,0.39111826
+Pericyte/SMC,ABL2,0.38702783
+Epithelial cell (suprabasal keratinocyte),ABL2,0.37510058
+Immune (mast cell),ABL2,0.37500405
+Immune (Langerhans),ABL2,0.37170503
+Epithelial cell (basal),ABL2,0.36232644
+Epithelial cell (Hillock),ABL2,0.3349942
+Epithelial cell (basal keratinocyte),ABL2,0.30925676
+Sweat gland cell,ABL2,0.3073997
+Epithelial cell (cornified keratinocyte),ABL2,0.30382115
+Satellite cell,ABL2,0.2874968
+Immune (T cell),ABL2,0.28711614
+Myoepithelial (basal),ABL2,0.28260785
+Myocyte (NMJ-rich),ABL2,0.24250047
+Myocyte (sk. muscle),ABL2,0.20310122
+Immune (NK cell),ABL2,0.18931633
+Epithelial cell (mature keratinocyte),ABL2,0.18423808
+"Myocyte (cardiac, cytoplasmic)",ABL2,0.15203504
+Epithelial cell (squamous),ABL2,0.0945075
+"Myocyte (sk. muscle, cytoplasmic)",ABL2,0.089956015

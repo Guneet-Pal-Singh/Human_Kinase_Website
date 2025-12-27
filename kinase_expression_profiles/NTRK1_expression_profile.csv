@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (mast cell),NTRK1,0.09017865
+Fibroblast,NTRK1,0.049089413
+Neuroendocrine,NTRK1,0.03305628
+Myocyte (NMJ-rich),NTRK1,0.027387526
+Pericyte/SMC,NTRK1,0.015350223
+Immune (alveolar macrophage),NTRK1,0.014920328
+Epithelial cell (mature keratinocyte),NTRK1,0.012292569
+ICCs,NTRK1,0.01206115
+Epithelial cell (alveolar type II),NTRK1,0.011520402
+Immune (T cell),NTRK1,0.0106334435
+Epithelial cell (alveolar type I),NTRK1,0.009687346
+Schwann cell,NTRK1,0.009662234
+Myocyte (cardiac),NTRK1,0.009595436
+Satellite cell,NTRK1,0.009556826
+Epithelial cell (suprabasal keratinocyte),NTRK1,0.008298671
+Myocyte (sk. muscle),NTRK1,0.0070282943
+"Myocyte (sk. muscle, cytoplasmic)",NTRK1,0.0069434023
+Adipocyte,NTRK1,0.0061123674
+Endothelial cell (vascular),NTRK1,0.006041466
+Epithelial cell (Hillock),NTRK1,0.005954804
+Epithelial cell (ciliated),NTRK1,0.00584998
+Immune (DC/macrophage),NTRK1,0.0053632725
+Epithelial cell (suprabasal),NTRK1,0.0052496665
+Myofibroblast,NTRK1,0.0043468415
+Myocyte (smooth muscle),NTRK1,0.004160961
+Myoepithelial (basal),NTRK1,0.0040681837
+Endothelial cell (lymphatic),NTRK1,0.0029185154
+Epithelial cell (luminal),NTRK1,0.0023641991
+Epithelial cell (basal),NTRK1,0.0019700914
+"Myocyte (cardiac, cytoplasmic)",NTRK1,0.0019542906
+Epithelial cell (club),NTRK1,0.0015757041
+Epithelial cell (squamous),NTRK1,0.00077062036
+Epithelial cell (basal keratinocyte),NTRK1,0.0
+Epithelial cell (cornified keratinocyte),NTRK1,0.0
+Immune (B cell),NTRK1,0.0
+Melanocyte,NTRK1,0.0
+Immune (DC),NTRK1,0.0
+Immune (Langerhans),NTRK1,0.0
+Immune (NK cell),NTRK1,0.0
+Mucous cell,NTRK1,0.0
+Neuronal,NTRK1,0.0
+Sebaceous gland cell,NTRK1,0.0
+Sweat gland cell,NTRK1,0.0

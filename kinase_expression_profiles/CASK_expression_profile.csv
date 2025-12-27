@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (T cell),CASK,1.1828544
+Epithelial cell (Hillock),CASK,0.9911315
+Epithelial cell (alveolar type II),CASK,0.9128188
+Sebaceous gland cell,CASK,0.8913483
+Epithelial cell (suprabasal),CASK,0.82238334
+Mucous cell,CASK,0.81282234
+Immune (B cell),CASK,0.7525413
+Epithelial cell (basal),CASK,0.7401653
+Myofibroblast,CASK,0.69314617
+ICCs,CASK,0.6822937
+Myocyte (NMJ-rich),CASK,0.66555625
+Epithelial cell (club),CASK,0.65084183
+Immune (NK cell),CASK,0.6278469
+Epithelial cell (alveolar type I),CASK,0.6105939
+Endothelial cell (lymphatic),CASK,0.58390737
+Myoepithelial (basal),CASK,0.56495774
+Epithelial cell (ciliated),CASK,0.53186524
+Sweat gland cell,CASK,0.5187782
+Epithelial cell (luminal),CASK,0.5156498
+Myocyte (cardiac),CASK,0.50893223
+Immune (alveolar macrophage),CASK,0.49663964
+Adipocyte,CASK,0.49378732
+Immune (mast cell),CASK,0.4914491
+Fibroblast,CASK,0.47450918
+Endothelial cell (vascular),CASK,0.45934594
+Schwann cell,CASK,0.45394254
+Immune (DC),CASK,0.44104186
+Immune (DC/macrophage),CASK,0.4392222
+Epithelial cell (basal keratinocyte),CASK,0.4307181
+Epithelial cell (suprabasal keratinocyte),CASK,0.42512524
+Pericyte/SMC,CASK,0.42320007
+Melanocyte,CASK,0.41868803
+Myocyte (sk. muscle),CASK,0.40112105
+Immune (Langerhans),CASK,0.3986182
+Satellite cell,CASK,0.3954226
+Myocyte (smooth muscle),CASK,0.38830703
+Epithelial cell (mature keratinocyte),CASK,0.29915348
+Epithelial cell (cornified keratinocyte),CASK,0.23421489
+Neuroendocrine,CASK,0.23364426
+Neuronal,CASK,0.23052375
+Epithelial cell (squamous),CASK,0.21990852
+"Myocyte (sk. muscle, cytoplasmic)",CASK,0.17351702
+"Myocyte (cardiac, cytoplasmic)",CASK,0.1216388

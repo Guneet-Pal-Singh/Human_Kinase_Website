@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+breast,Adipocyte,AKT2,1.2345972,23.96365701306076
+esophagusmuscularis,Adipocyte,AKT2,1.1842105,21.714285714285715
+heart,Adipocyte,AKT2,1.3589743,20.207253886010363
+skin,Melanocyte,AKT2,1.1860465,15.808823529411764
+esophagusmucosa,Stromal,AKT2,1.1891892,14.964610717896864
+esophagusmucosa,Epithelial cell,AKT2,1.1602598,13.38793853290809
+skin,Other,AKT2,1.3559322,13.053097345132745
+esophagusmuscularis,Neuron,AKT2,1.3333334,12.0
+esophagusmucosa,Glia,AKT2,1.0,10.76923076923077
+skin,Epithelial cell (keratinocyte),AKT2,1.0679612,10.580380071905497
+prostate,Muscle,AKT2,1.1012658,10.566205974141775
+prostate,Epithelial cell,AKT2,1.1418947,10.293416547479737
+skeletalmuscle,Adipocyte,AKT2,1.0625,10.062893081761008
+skin,Adipocyte,AKT2,1.0,9.67741935483871
+prostate,Fibroblast,AKT2,1.1018518,9.457092819614711
+heart,Muscle,AKT2,1.0865644,9.192639257294427
+esophagusmucosa,Fibroblast,AKT2,1.0813009,8.738898756660745
+prostate,Glia,AKT2,1.0,7.462686567164178
+skin,Muscle,AKT2,1.0769231,6.989247311827956
+esophagusmucosa,Endothelial cell,AKT2,1.0766871,6.968790081231295
+esophagusmuscularis,Muscle,AKT2,1.0858018,6.584168404062142
+skeletalmuscle,Muscle,AKT2,1.0677618,6.472907713437596
+esophagusmucosa,Immune (lymphocyte),AKT2,1.0260869,6.325632563256326
+heart,Fibroblast,AKT2,1.060177,6.083773016043932
+skin,Fibroblast,AKT2,1.0967742,5.860113421550095
+esophagusmucosa,Muscle,AKT2,1.137931,5.788423153692615
+skeletalmuscle,Glia,AKT2,1.0,5.714285714285714
+esophagusmucosa,Immune (myeloid),AKT2,1.050633,5.650929899856939
+skin,Immune (myeloid),AKT2,1.0,5.58659217877095
+lung,Epithelial cell,AKT2,1.0493921,5.466251298026998
+skin,Immune (lymphocyte),AKT2,1.25,5.333333333333334
+prostate,Endothelial cell,AKT2,1.0933334,5.3078556263269645
+breast,Muscle,AKT2,1.25,5.263157894736842
+esophagusmuscularis,Glia,AKT2,1.0784314,5.257731958762887
+esophagusmuscularis,Fibroblast,AKT2,1.0581614,5.120568738591603
+skin,Endothelial cell,AKT2,1.0769231,5.083088954056696
+lung,Muscle,AKT2,1.0,4.9079754601227
+lung,Fibroblast,AKT2,1.0555556,4.878048780487805
+breast,Epithelial cell,AKT2,1.0973783,4.604242110708743
+heart,Immune (lymphocyte),AKT2,1.032258,4.441260744985674
+lung,Immune (myeloid),AKT2,1.0488722,4.361370716510903
+skin,Epithelial cell,AKT2,1.12,4.152823920265781
+esophagusmuscularis,Endothelial cell,AKT2,1.0497237,4.057386236269895
+skeletalmuscle,Fibroblast,AKT2,1.0421941,3.9872139973082095
+heart,Immune (myeloid),AKT2,1.030837,3.54742928582591
+esophagusmuscularis,Immune (lymphocyte),AKT2,1.0,3.322259136212625
+esophagusmuscularis,Immune (myeloid),AKT2,1.0309278,3.273709078636517
+skeletalmuscle,Immune (myeloid),AKT2,1.0,3.2564450474898234
+prostate,Immune (myeloid),AKT2,1.0,3.210116731517509
+skeletalmuscle,Endothelial cell,AKT2,1.0238096,3.155522163786627
+heart,Endothelial cell,AKT2,1.0638298,3.077930582842174
+lung,Immune (lymphocyte),AKT2,1.0,3.034482758620689
+heart,Glia,AKT2,1.0,3.02013422818792
+skeletalmuscle,Immune (lymphocyte),AKT2,1.3333334,3.0
+prostate,Immune (lymphocyte),AKT2,1.0,2.785923753665689
+lung,Endothelial cell,AKT2,1.0142857,2.5491624180626364
+breast,Immune (myeloid),AKT2,1.125,2.23463687150838
+breast,Fibroblast,AKT2,1.0,1.7094017094017095
+breast,Endothelial cell,AKT2,1.0,0.9080590238365494

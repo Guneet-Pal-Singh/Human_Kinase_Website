@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Adipocyte,PKDCC,0.8674307
+Epithelial cell (alveolar type I),PKDCC,0.5242417
+Myocyte (NMJ-rich),PKDCC,0.38091627
+Myocyte (sk. muscle),PKDCC,0.31946498
+"Myocyte (sk. muscle, cytoplasmic)",PKDCC,0.3089382
+Myocyte (cardiac),PKDCC,0.27950528
+Myofibroblast,PKDCC,0.21806356
+Myocyte (smooth muscle),PKDCC,0.18964949
+Pericyte/SMC,PKDCC,0.18122537
+Fibroblast,PKDCC,0.13643265
+Neuroendocrine,PKDCC,0.12647572
+"Myocyte (cardiac, cytoplasmic)",PKDCC,0.10302506
+Neuronal,PKDCC,0.09111929
+Satellite cell,PKDCC,0.054718077
+Schwann cell,PKDCC,0.05347982
+ICCs,PKDCC,0.027533315
+Immune (mast cell),PKDCC,0.02306074
+Epithelial cell (ciliated),PKDCC,0.022206087
+Epithelial cell (alveolar type II),PKDCC,0.018350977
+Sweat gland cell,PKDCC,0.01401468
+Immune (alveolar macrophage),PKDCC,0.013970396
+Epithelial cell (club),PKDCC,0.011380491
+Endothelial cell (vascular),PKDCC,0.0098149525
+Epithelial cell (luminal),PKDCC,0.008510178
+Endothelial cell (lymphatic),PKDCC,0.008375275
+Epithelial cell (basal),PKDCC,0.003916057
+Epithelial cell (squamous),PKDCC,0.0038826107
+Immune (DC/macrophage),PKDCC,0.0038220626
+Epithelial cell (suprabasal),PKDCC,0.003333126
+Immune (T cell),PKDCC,0.002993861
+Epithelial cell (Hillock),PKDCC,0.002158315
+Epithelial cell (cornified keratinocyte),PKDCC,0.0
+Epithelial cell (basal keratinocyte),PKDCC,0.0
+Immune (B cell),PKDCC,0.0
+Epithelial cell (mature keratinocyte),PKDCC,0.0
+Melanocyte,PKDCC,0.0
+Immune (DC),PKDCC,0.0
+Immune (Langerhans),PKDCC,0.0
+Immune (NK cell),PKDCC,0.0
+Epithelial cell (suprabasal keratinocyte),PKDCC,0.0
+Mucous cell,PKDCC,0.0
+Myoepithelial (basal),PKDCC,0.0
+Sebaceous gland cell,PKDCC,0.0

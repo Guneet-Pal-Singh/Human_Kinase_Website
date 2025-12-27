@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmucosa,Fibroblast,DDR2,1.7236071,48.45470692717584
+heart,Adipocyte,DDR2,1.402439,42.487046632124354
+heart,Fibroblast,DDR2,1.6203113,42.19877247765694
+esophagusmuscularis,Fibroblast,DDR2,1.5701312,38.08242866749928
+esophagusmuscularis,Adipocyte,DDR2,1.8412699,36.0
+skin,Adipocyte,DDR2,1.1428572,33.87096774193548
+prostate,Fibroblast,DDR2,1.5382514,32.04903677758319
+esophagusmuscularis,Muscle,DDR2,2.0201766,31.99946196785258
+breast,Adipocyte,DDR2,1.4557692,29.528676888131745
+prostate,Muscle,DDR2,1.5032468,27.46321890325457
+breast,Fibroblast,DDR2,1.4186046,26.25152625152625
+esophagusmucosa,Stromal,DDR2,1.3057852,24.469160768452983
+esophagusmuscularis,Neuron,DDR2,1.6666666,24.0
+skeletalmuscle,Adipocyte,DDR2,1.2894737,23.89937106918239
+skeletalmuscle,Fibroblast,DDR2,1.4642857,22.139973082099598
+skin,Fibroblast,DDR2,1.3275862,21.928166351606805
+heart,Muscle,DDR2,1.3471993,20.12599469496021
+esophagusmucosa,Muscle,DDR2,1.2380953,16.766467065868262
+lung,Fibroblast,DDR2,1.2357724,16.666666666666664
+breast,Muscle,DDR2,1.0476191,13.815789473684212
+esophagusmuscularis,Glia,DDR2,1.4190476,10.824742268041238
+esophagusmucosa,Glia,DDR2,1.0,10.76923076923077
+lung,Muscle,DDR2,1.117647,10.429447852760736
+heart,Glia,DDR2,1.037037,9.060402684563758
+skin,Muscle,DDR2,1.1875,8.60215053763441
+esophagusmucosa,Endothelial cell,DDR2,1.1538461,5.835827276613938
+breast,Epithelial cell,DDR2,1.0614035,3.931712364200724
+prostate,Epithelial cell,DDR2,1.116643,3.0468512980540026
+prostate,Glia,DDR2,1.0,2.985074626865672
+skin,Endothelial cell,DDR2,1.1666666,2.932551319648094
+skeletalmuscle,Glia,DDR2,1.0,2.857142857142857
+skin,Epithelial cell,DDR2,1.117647,2.823920265780731
+esophagusmuscularis,Endothelial cell,DDR2,1.648,2.8020623178659494
+prostate,Endothelial cell,DDR2,1.0632912,2.7954706298655343
+skin,Immune (lymphocyte),DDR2,1.0,2.666666666666667
+esophagusmuscularis,Immune (myeloid),DDR2,1.4594594,2.497468781640229
+breast,Endothelial cell,DDR2,1.0909091,2.4971623155505105
+lung,Immune (myeloid),DDR2,1.0738255,2.443023446466634
+skin,Melanocyte,DDR2,1.1666666,2.2058823529411766
+heart,Endothelial cell,DDR2,1.0897436,2.043222003929273
+skeletalmuscle,Immune (lymphocyte),DDR2,3.0,2.0
+esophagusmuscularis,Immune (lymphocyte),DDR2,2.5,1.9933554817275747
+skin,Other,DDR2,1.0,1.991150442477876
+lung,Epithelial cell,DDR2,1.0521921,1.9896157840083075
+breast,Immune (myeloid),DDR2,1.1428572,1.9553072625698324
+lung,Endothelial cell,DDR2,1.0377358,1.930080116533139
+skeletalmuscle,Endothelial cell,DDR2,1.16,1.878287002253944
+esophagusmucosa,Epithelial cell,DDR2,1.2136364,1.5946651203247315
+esophagusmucosa,Immune (myeloid),DDR2,1.25,1.144492131616595
+skeletalmuscle,Muscle,DDR2,1.1209677,1.0987550396526518
+prostate,Immune (myeloid),DDR2,1.1428572,0.6809338521400778
+skin,Epithelial cell (keratinocyte),DDR2,1.1538461,0.667693888032871
+skin,Immune (myeloid),DDR2,1.0,0.5586592178770949
+lung,Immune (lymphocyte),DDR2,1.0,0.4137931034482758
+heart,Immune (myeloid),DDR2,1.4090909,0.3438037193311455
+prostate,Immune (lymphocyte),DDR2,1.0,0.2932551319648094
+esophagusmucosa,Immune (lymphocyte),DDR2,1.0,0.275027502750275
+heart,Immune (lymphocyte),DDR2,1.0,0.1432664756446991
+skeletalmuscle,Immune (myeloid),DDR2,1.0,0.1356852103120759

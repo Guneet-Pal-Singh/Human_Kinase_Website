@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+"Myocyte (cardiac, cytoplasmic)",UCK1,0.12655954
+Epithelial cell (cornified keratinocyte),UCK1,0.117276885
+"Myocyte (sk. muscle, cytoplasmic)",UCK1,0.10833142
+Melanocyte,UCK1,0.09562495
+Epithelial cell (squamous),UCK1,0.09149883
+Epithelial cell (luminal),UCK1,0.08772714
+Neuroendocrine,UCK1,0.077655956
+Myocyte (smooth muscle),UCK1,0.07543818
+Sebaceous gland cell,UCK1,0.070013635
+Epithelial cell (mature keratinocyte),UCK1,0.06615425
+Immune (DC),UCK1,0.06493235
+Myofibroblast,UCK1,0.057715636
+Epithelial cell (suprabasal),UCK1,0.055218544
+Epithelial cell (basal keratinocyte),UCK1,0.052584633
+Epithelial cell (club),UCK1,0.05225012
+Immune (Langerhans),UCK1,0.05166466
+Epithelial cell (basal),UCK1,0.04895892
+Sweat gland cell,UCK1,0.044258527
+Immune (B cell),UCK1,0.04415245
+Epithelial cell (ciliated),UCK1,0.044061538
+Fibroblast,UCK1,0.043732554
+Epithelial cell (Hillock),UCK1,0.03823397
+Immune (alveolar macrophage),UCK1,0.038072675
+Pericyte/SMC,UCK1,0.038037833
+Adipocyte,UCK1,0.0351127
+Mucous cell,UCK1,0.03286919
+Immune (DC/macrophage),UCK1,0.03222149
+Epithelial cell (alveolar type I),UCK1,0.028763184
+Endothelial cell (vascular),UCK1,0.027226195
+Myocyte (cardiac),UCK1,0.026901448
+Epithelial cell (suprabasal keratinocyte),UCK1,0.026451172
+Myoepithelial (basal),UCK1,0.026292775
+Endothelial cell (lymphatic),UCK1,0.025901604
+Immune (T cell),UCK1,0.024662364
+Epithelial cell (alveolar type II),UCK1,0.02062632
+Immune (mast cell),UCK1,0.009502666
+Immune (NK cell),UCK1,0.008430503
+Schwann cell,UCK1,0.007689112
+Myocyte (sk. muscle),UCK1,0.0036266793
+ICCs,UCK1,0.0
+Myocyte (NMJ-rich),UCK1,0.0
+Neuronal,UCK1,0.0
+Satellite cell,UCK1,0.0

@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmucosa,Epithelial cell,GAK,1.3546865,21.49898521310525
+esophagusmucosa,Stromal,GAK,1.3216081,20.12133468149646
+esophagusmucosa,Immune (myeloid),GAK,1.1445312,18.31187410586552
+esophagusmucosa,Endothelial cell,GAK,1.1111112,15.391192817443352
+skin,Other,GAK,1.2063493,13.938053097345133
+prostate,Immune (myeloid),GAK,1.1056339,13.813229571984436
+breast,Immune (myeloid),GAK,1.1428572,13.687150837988826
+prostate,Endothelial cell,GAK,1.144357,13.481953290870488
+skin,Endothelial cell,GAK,1.1532847,13.391984359726294
+skin,Immune (myeloid),GAK,1.2173913,12.849162011173185
+lung,Immune (myeloid),GAK,1.1068211,12.739793408755537
+esophagusmucosa,Immune (lymphocyte),GAK,1.1189427,12.486248624862489
+esophagusmucosa,Glia,GAK,1.25,12.307692307692308
+skin,Immune (lymphocyte),GAK,1.1111112,12.0
+skin,Epithelial cell,GAK,1.1944444,11.960132890365449
+skin,Melanocyte,GAK,1.2258065,11.397058823529411
+skin,Epithelial cell (keratinocyte),GAK,1.1727272,11.299435028248588
+breast,Adipocyte,GAK,1.0837697,10.84611016467916
+heart,Adipocyte,GAK,1.05,10.362694300518134
+prostate,Epithelial cell,GAK,1.1200349,9.92935465695835
+skin,Fibroblast,GAK,1.1153846,9.829867674858225
+breast,Endothelial cell,GAK,1.2117647,9.648127128263337
+prostate,Muscle,GAK,1.1116279,9.585376727596968
+lung,Immune (lymphocyte),GAK,1.0151515,9.10344827586207
+esophagusmucosa,Fibroblast,GAK,1.0666667,9.05861456483126
+breast,Epithelial cell,GAK,1.208577,8.84635281945163
+esophagusmucosa,Muscle,GAK,1.1363636,8.78243512974052
+breast,Muscle,GAK,1.4615384,8.552631578947368
+skeletalmuscle,Adipocyte,GAK,1.0,8.176100628930817
+esophagusmuscularis,Neuron,GAK,1.0,8.0
+skin,Muscle,GAK,1.0714285,7.526881720430108
+lung,Epithelial cell,GAK,1.0534521,7.460020768431984
+heart,Muscle,GAK,1.0830489,7.286140583554376
+lung,Endothelial cell,GAK,1.0753769,7.246904588492351
+lung,Muscle,GAK,1.0,6.748466257668712
+breast,Fibroblast,GAK,1.0909091,6.715506715506716
+esophagusmuscularis,Muscle,GAK,1.0708245,6.362230143251059
+lung,Fibroblast,GAK,1.0645162,6.300813008130081
+esophagusmuscularis,Endothelial cell,GAK,1.0659341,6.1197041022192336
+heart,Immune (myeloid),GAK,1.028133,6.110329739021722
+prostate,Fibroblast,GAK,1.0294118,5.954465849387041
+prostate,Immune (lymphocyte),GAK,1.051282,5.718475073313782
+skeletalmuscle,Glia,GAK,1.0,5.714285714285714
+esophagusmuscularis,Immune (lymphocyte),GAK,1.1764706,5.647840531561462
+esophagusmuscularis,Immune (myeloid),GAK,1.037037,5.467431657104286
+heart,Immune (lymphocyte),GAK,1.0263158,5.444126074498568
+skin,Adipocyte,GAK,2.3333333,4.838709677419355
+skeletalmuscle,Muscle,GAK,1.0421631,4.833636081697754
+heart,Fibroblast,GAK,1.0352113,4.587057176698611
+esophagusmuscularis,Glia,GAK,1.0243902,4.22680412371134
+esophagusmuscularis,Fibroblast,GAK,1.0275229,4.188682870592756
+skeletalmuscle,Endothelial cell,GAK,1.037037,4.05709992486852
+skeletalmuscle,Immune (lymphocyte),GAK,1.0,4.0
+skeletalmuscle,Immune (myeloid),GAK,1.0344827,3.934871099050204
+heart,Endothelial cell,GAK,1.0449827,3.785199738048461
+skeletalmuscle,Fibroblast,GAK,1.0048543,3.4656796769851947
+heart,Glia,GAK,1.0,3.02013422818792
+prostate,Glia,GAK,1.0,2.985074626865672
+esophagusmuscularis,Adipocyte,GAK,1.0,2.857142857142857

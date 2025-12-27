@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+prostate,Epithelial cell,CDK19,2.0775733,37.43336367182421
+lung,Immune (myeloid),CDK19,1.3258355,25.512379078537467
+skin,Melanocyte,CDK19,1.2741935,22.794117647058822
+esophagusmucosa,Epithelial cell,CDK19,1.4853086,21.955639315743696
+prostate,Immune (myeloid),CDK19,1.3811659,21.69260700389105
+esophagusmucosa,Immune (myeloid),CDK19,1.2061856,20.815450643776824
+skin,Epithelial cell (keratinocyte),CDK19,1.3273196,19.92809450436569
+heart,Immune (myeloid),CDK19,1.2293203,19.081106422878573
+heart,Muscle,CDK19,1.3511617,18.907493368700266
+heart,Glia,CDK19,1.25,18.79194630872483
+heart,Adipocyte,CDK19,1.2941177,17.616580310880828
+skin,Epithelial cell,CDK19,1.273585,17.60797342192691
+breast,Immune (myeloid),CDK19,1.2459016,17.039106145251395
+skeletalmuscle,Adipocyte,CDK19,1.1481482,16.9811320754717
+skin,Immune (myeloid),CDK19,1.3333334,16.75977653631285
+lung,Epithelial cell,CDK19,1.1902426,16.091381100726895
+esophagusmuscularis,Adipocyte,CDK19,1.1428572,16.0
+skeletalmuscle,Glia,CDK19,1.2,14.285714285714285
+esophagusmucosa,Stromal,CDK19,1.1751825,13.85237613751264
+esophagusmuscularis,Glia,CDK19,1.2462686,13.814432989690722
+skin,Other,CDK19,1.3870968,13.716814159292037
+lung,Fibroblast,CDK19,1.1782178,13.685636856368562
+esophagusmuscularis,Immune (myeloid),CDK19,1.2109181,13.601079986500167
+heart,Fibroblast,CDK19,1.191879,13.52428125336492
+skin,Endothelial cell,CDK19,1.176923,12.70772238514174
+heart,Endothelial cell,CDK19,1.2259414,12.52128356254093
+breast,Epithelial cell,CDK19,1.1545961,12.381445076737368
+esophagusmucosa,Immune (lymphocyte),CDK19,1.2142857,12.32123212321232
+esophagusmucosa,Glia,CDK19,1.0,12.307692307692308
+esophagusmuscularis,Neuron,CDK19,1.3333334,12.0
+skin,Muscle,CDK19,1.0909091,11.827956989247312
+skeletalmuscle,Immune (myeloid),CDK19,1.1609195,11.804613297150611
+skin,Fibroblast,CDK19,1.0806452,11.720226843100187
+esophagusmucosa,Fibroblast,CDK19,1.1428572,11.687388987566608
+prostate,Endothelial cell,CDK19,1.2477064,11.571125265392782
+prostate,Muscle,CDK19,1.4841269,11.234953187695051
+esophagusmucosa,Endothelial cell,CDK19,1.1833977,11.073108165882855
+heart,Immune (lymphocyte),CDK19,1.0649351,11.031518624641834
+lung,Endothelial cell,CDK19,1.2615894,10.99781500364166
+skeletalmuscle,Endothelial cell,CDK19,1.2553191,10.593538692712247
+esophagusmucosa,Muscle,CDK19,1.1428572,9.780439121756489
+prostate,Fibroblast,CDK19,1.1481482,9.457092819614711
+skin,Immune (lymphocyte),CDK19,1.0,9.333333333333334
+lung,Muscle,CDK19,1.2666667,9.202453987730062
+lung,Immune (lymphocyte),CDK19,1.2121212,9.10344827586207
+skeletalmuscle,Fibroblast,CDK19,1.0951493,9.01749663526245
+prostate,Glia,CDK19,1.1666666,8.955223880597014
+esophagusmuscularis,Endothelial cell,CDK19,1.1613833,7.778524994395876
+prostate,Immune (lymphocyte),CDK19,1.1538461,7.624633431085044
+esophagusmuscularis,Fibroblast,CDK19,1.1188525,7.032375828609856
+skeletalmuscle,Muscle,CDK19,1.1217277,6.769748792698596
+esophagusmuscularis,Immune (lymphocyte),CDK19,1.3,6.64451827242525
+skeletalmuscle,Immune (lymphocyte),CDK19,1.1666666,6.0
+breast,Fibroblast,CDK19,1.1428572,5.982905982905983
+breast,Adipocyte,CDK19,1.1359223,5.848949460533787
+breast,Endothelial cell,CDK19,1.137255,5.788876276958002
+skin,Adipocyte,CDK19,1.0,4.838709677419355
+esophagusmuscularis,Muscle,CDK19,1.1119082,4.687605084403793
+breast,Muscle,CDK19,1.2857143,4.605263157894736

@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmucosa,Stromal,ROR2,1.6534216,45.80384226491405
+esophagusmuscularis,Muscle,ROR2,2.0655951,35.98762526060932
+prostate,Epithelial cell,ROR2,1.8469673,34.01378234299831
+lung,Fibroblast,ROR2,1.6540084,32.113821138211385
+prostate,Muscle,ROR2,1.8512161,31.1636201515827
+esophagusmucosa,Fibroblast,ROR2,1.5163399,27.175843694493786
+prostate,Fibroblast,ROR2,1.451049,25.04378283712785
+skin,Fibroblast,ROR2,1.3801653,22.873345935727787
+esophagusmuscularis,Fibroblast,ROR2,1.5092134,21.375732539148814
+esophagusmuscularis,Adipocyte,ROR2,1.4090909,12.571428571428571
+breast,Fibroblast,ROR2,1.3510638,11.477411477411476
+heart,Fibroblast,ROR2,1.1877023,9.981694842252612
+lung,Muscle,ROR2,1.375,9.8159509202454
+skin,Muscle,ROR2,1.6470588,9.13978494623656
+esophagusmuscularis,Immune (myeloid),ROR2,1.2510823,7.796152548093149
+lung,Immune (myeloid),ROR2,1.1309013,7.64059681915068
+esophagusmuscularis,Glia,ROR2,1.7323943,7.31958762886598
+breast,Epithelial cell,ROR2,1.2059554,6.949474047249526
+prostate,Glia,ROR2,1.25,5.970149253731343
+breast,Immune (myeloid),ROR2,1.35,5.58659217877095
+prostate,Endothelial cell,ROR2,1.3096774,5.484784147204529
+lung,Epithelial cell,ROR2,1.1452471,5.4620976116303215
+lung,Endothelial cell,ROR2,1.056,4.552075746540423
+skin,Melanocyte,ROR2,1.0833334,4.411764705882353
+lung,Immune (lymphocyte),ROR2,1.0666667,4.137931034482759
+esophagusmuscularis,Neuron,ROR2,2.0,4.0
+breast,Muscle,ROR2,1.5,3.947368421052632
+heart,Muscle,ROR2,1.0630252,3.9456233421750655
+esophagusmucosa,Muscle,ROR2,1.2631578,3.792415169660679
+skeletalmuscle,Fibroblast,ROR2,1.081081,3.73485868102288
+heart,Adipocyte,ROR2,1.0,3.6269430051813463
+esophagusmucosa,Epithelial cell,ROR2,1.2012448,3.4937663090750943
+skin,Endothelial cell,ROR2,1.0882353,3.3235581622678394
+esophagusmuscularis,Immune (lymphocyte),ROR2,2.8,3.322259136212625
+skin,Epithelial cell (keratinocyte),ROR2,1.0566038,2.722136620441705
+esophagusmuscularis,Endothelial cell,ROR2,1.4,2.6899798251513114
+skin,Immune (lymphocyte),ROR2,1.0,2.666666666666667
+skin,Epithelial cell,ROR2,1.0625,2.6578073089701
+skeletalmuscle,Immune (myeloid),ROR2,1.0588236,2.3066485753052914
+esophagusmucosa,Immune (myeloid),ROR2,1.25,2.28898426323319
+skin,Immune (myeloid),ROR2,1.25,2.23463687150838
+skin,Other,ROR2,1.1,2.2123893805309733
+breast,Endothelial cell,ROR2,1.0526316,2.1566401816118046
+prostate,Immune (lymphocyte),ROR2,1.2142857,2.0527859237536656
+skeletalmuscle,Adipocyte,ROR2,1.0,1.8867924528301887
+heart,Immune (myeloid),ROR2,1.0673077,1.6252539459290516
+skeletalmuscle,Endothelial cell,ROR2,1.0476191,1.5777610818933134
+esophagusmucosa,Glia,ROR2,2.0,1.5384615384615383
+skeletalmuscle,Muscle,ROR2,1.0294986,1.5019272517832618
+prostate,Immune (myeloid),ROR2,1.2,1.4591439688715953
+heart,Endothelial cell,ROR2,1.0,1.1525867714472824
+heart,Immune (lymphocyte),ROR2,1.125,1.146131805157593
+breast,Adipocyte,ROR2,1.05,1.135718341851221
+esophagusmucosa,Endothelial cell,ROR2,1.0625,1.02607952116289
+skeletalmuscle,Immune (lymphocyte),ROR2,1.0,1.0
+esophagusmucosa,Immune (lymphocyte),ROR2,1.0,0.275027502750275
+heart,Glia,ROR2,0.0,0.0
+skin,Adipocyte,ROR2,0.0,0.0
+skeletalmuscle,Glia,ROR2,0.0,0.0

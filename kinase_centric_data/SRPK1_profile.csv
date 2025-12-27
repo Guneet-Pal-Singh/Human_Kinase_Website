@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Neuron,SRPK1,1.8,20.0
+esophagusmucosa,Epithelial cell,SRPK1,1.3267134,18.614091040881416
+skin,Epithelial cell,SRPK1,1.2168674,13.78737541528239
+lung,Immune (myeloid),SRPK1,1.1362433,12.395474667978355
+prostate,Epithelial cell,SRPK1,1.1813602,12.044380878082608
+heart,Muscle,SRPK1,1.1909722,11.93633952254642
+lung,Epithelial cell,SRPK1,1.1355003,11.372793354101765
+esophagusmucosa,Stromal,SRPK1,1.1834862,11.02123356926188
+esophagusmucosa,Immune (lymphocyte),SRPK1,1.128655,9.405940594059404
+skeletalmuscle,Muscle,SRPK1,1.1332371,9.210934384830091
+esophagusmuscularis,Endothelial cell,SRPK1,1.1240506,8.8545169244564
+lung,Immune (lymphocyte),SRPK1,1.0476191,8.689655172413794
+prostate,Endothelial cell,SRPK1,1.099585,8.527954706298656
+esophagusmuscularis,Immune (lymphocyte),SRPK1,1.12,8.305647840531561
+esophagusmucosa,Endothelial cell,SRPK1,1.1084656,8.08037622915776
+skeletalmuscle,Endothelial cell,SRPK1,1.2115384,7.813673929376409
+skin,Epithelial cell (keratinocyte),SRPK1,1.3061224,7.550077041602465
+heart,Immune (lymphocyte),SRPK1,1.1346154,7.4498567335243555
+prostate,Muscle,SRPK1,1.1437125,7.445385644226482
+lung,Muscle,SRPK1,1.0,7.361963190184049
+esophagusmuscularis,Adipocyte,SRPK1,1.1666666,6.857142857142858
+heart,Endothelial cell,SRPK1,1.1023166,6.784544859201048
+skin,Endothelial cell,SRPK1,1.0724638,6.744868035190615
+lung,Endothelial cell,SRPK1,1.0677966,6.445739257101238
+skeletalmuscle,Adipocyte,SRPK1,1.4,6.289308176100629
+heart,Adipocyte,SRPK1,1.1666666,6.217616580310881
+heart,Fibroblast,SRPK1,1.077193,6.137611715300959
+esophagusmuscularis,Muscle,SRPK1,1.0868132,6.120115676911696
+skeletalmuscle,Immune (lymphocyte),SRPK1,1.0,6.0
+esophagusmucosa,Muscle,SRPK1,1.1333333,5.9880239520958085
+prostate,Glia,SRPK1,1.0,5.970149253731343
+skin,Melanocyte,SRPK1,1.0,5.88235294117647
+heart,Immune (myeloid),SRPK1,1.053476,5.844663228629473
+breast,Endothelial cell,SRPK1,1.2156863,5.788876276958002
+breast,Epithelial cell,SRPK1,1.1522388,5.776858078979134
+esophagusmuscularis,Glia,SRPK1,1.125,5.77319587628866
+skin,Other,SRPK1,1.0,5.752212389380531
+esophagusmuscularis,Fibroblast,SRPK1,1.078712,5.370352579498511
+heart,Glia,SRPK1,1.0625,5.369127516778524
+esophagusmucosa,Immune (myeloid),SRPK1,1.0666667,5.36480686695279
+skin,Immune (lymphocyte),SRPK1,1.0,5.333333333333334
+esophagusmuscularis,Immune (myeloid),SRPK1,1.0443038,5.332433344583193
+breast,Muscle,SRPK1,1.0,5.263157894736842
+prostate,Immune (myeloid),SRPK1,1.074074,5.252918287937743
+skeletalmuscle,Fibroblast,SRPK1,1.0424837,5.148048452220727
+prostate,Fibroblast,SRPK1,1.2363636,4.816112084063047
+prostate,Immune (lymphocyte),SRPK1,1.03125,4.69208211143695
+lung,Fibroblast,SRPK1,1.031746,4.2682926829268295
+breast,Immune (myeloid),SRPK1,1.0,4.189944134078212
+esophagusmucosa,Fibroblast,SRPK1,1.054054,3.9431616341030193
+breast,Adipocyte,SRPK1,1.03125,3.634298693923907
+skeletalmuscle,Immune (myeloid),SRPK1,1.1538461,3.5278154681139755
+skin,Fibroblast,SRPK1,1.1764706,3.213610586011342
+breast,Fibroblast,SRPK1,1.16,3.0525030525030523
+skin,Muscle,SRPK1,1.0,2.6881720430107525
+skin,Immune (myeloid),SRPK1,1.0,1.11731843575419
+esophagusmucosa,Glia,SRPK1,0.0,0.0
+skin,Adipocyte,SRPK1,0.0,0.0
+skeletalmuscle,Glia,SRPK1,0.0,0.0

@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skin,Adipocyte,TSSK6,1.0,1.6129032258064515
+skin,Immune (lymphocyte),TSSK6,1.0,1.3333333333333337
+esophagusmuscularis,Adipocyte,TSSK6,1.0,1.1428571428571428
+skeletalmuscle,Immune (lymphocyte),TSSK6,1.0,1.0
+skin,Other,TSSK6,1.0,0.8849557522123894
+esophagusmucosa,Muscle,TSSK6,1.0,0.5988023952095809
+skin,Endothelial cell,TSSK6,1.0,0.5865102639296188
+skin,Immune (myeloid),TSSK6,1.0,0.5586592178770949
+lung,Immune (myeloid),TSSK6,1.03125,0.5246761764223643
+skin,Epithelial cell (keratinocyte),TSSK6,1.0,0.5136106831022085
+skeletalmuscle,Muscle,TSSK6,1.0,0.4297549953480129
+esophagusmucosa,Immune (myeloid),TSSK6,1.0,0.4291845493562232
+esophagusmuscularis,Immune (myeloid),TSSK6,1.0,0.371245359433007
+breast,Epithelial cell,TSSK6,1.0,0.3621314019658562
+esophagusmucosa,Epithelial cell,TSSK6,1.0,0.3551754131632357
+heart,Glia,TSSK6,1.0,0.3355704697986577
+esophagusmucosa,Stromal,TSSK6,1.0,0.3033367037411527
+heart,Fibroblast,TSSK6,1.0,0.3014967158393453
+prostate,Epithelial cell,TSSK6,1.0,0.2730464178910415
+skeletalmuscle,Immune (myeloid),TSSK6,1.0,0.2713704206241519
+skeletalmuscle,Fibroblast,TSSK6,1.0,0.2691790040376851
+esophagusmuscularis,Fibroblast,TSSK6,1.0,0.2689979825151311
+lung,Epithelial cell,TSSK6,1.0,0.2575285565939771
+prostate,Muscle,TSSK6,1.2,0.2229157378510923
+heart,Immune (myeloid),TSSK6,1.0,0.2187841850289107
+prostate,Endothelial cell,TSSK6,1.0,0.2123142250530785
+esophagusmuscularis,Glia,TSSK6,1.0,0.2061855670103093
+heart,Muscle,TSSK6,1.0416666,0.1989389920424403
+lung,Endothelial cell,TSSK6,1.0,0.1820830298616169
+skin,Epithelial cell,TSSK6,1.0,0.1661129568106312
+skeletalmuscle,Endothelial cell,TSSK6,1.0,0.1502629601803155
+heart,Immune (lymphocyte),TSSK6,1.0,0.1432664756446991
+esophagusmucosa,Fibroblast,TSSK6,1.0,0.1420959147424511
+lung,Fibroblast,TSSK6,1.0,0.1355013550135501
+esophagusmuscularis,Muscle,TSSK6,1.05,0.1345080368552021
+heart,Endothelial cell,TSSK6,1.0,0.1309757694826457
+breast,Fibroblast,TSSK6,1.0,0.1221001221001221
+breast,Adipocyte,TSSK6,1.0,0.1135718341851221
+breast,Endothelial cell,TSSK6,1.0,0.1135073779795686
+prostate,Immune (myeloid),TSSK6,1.0,0.0972762645914396
+prostate,Fibroblast,TSSK6,1.0,0.0875656742556917
+esophagusmuscularis,Endothelial cell,TSSK6,1.3333334,0.0672494956287827
+esophagusmucosa,Endothelial cell,TSSK6,1.0,0.0641299700726806
+esophagusmucosa,Immune (lymphocyte),TSSK6,1.0,0.055005500550055
+heart,Adipocyte,TSSK6,0.0,0.0
+esophagusmuscularis,Neuron,TSSK6,0.0,0.0
+esophagusmucosa,Glia,TSSK6,0.0,0.0
+breast,Muscle,TSSK6,0.0,0.0
+breast,Immune (myeloid),TSSK6,0.0,0.0
+esophagusmuscularis,Immune (lymphocyte),TSSK6,0.0,0.0
+lung,Immune (lymphocyte),TSSK6,0.0,0.0
+skeletalmuscle,Adipocyte,TSSK6,0.0,0.0
+prostate,Immune (lymphocyte),TSSK6,0.0,0.0
+prostate,Glia,TSSK6,0.0,0.0
+lung,Muscle,TSSK6,0.0,0.0
+skeletalmuscle,Glia,TSSK6,0.0,0.0
+skin,Fibroblast,TSSK6,0.0,0.0
+skin,Melanocyte,TSSK6,0.0,0.0
+skin,Muscle,TSSK6,0.0,0.0

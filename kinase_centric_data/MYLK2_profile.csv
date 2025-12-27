@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skeletalmuscle,Muscle,MYLK2,1.079254,3.8013380000886094
+breast,Immune (myeloid),MYLK2,1.0,0.2793296089385474
+skeletalmuscle,Endothelial cell,MYLK2,1.0,0.2253944402704733
+esophagusmucosa,Muscle,MYLK2,1.0,0.1996007984031935
+skeletalmuscle,Immune (myeloid),MYLK2,1.0,0.1356852103120759
+breast,Adipocyte,MYLK2,1.0,0.1135718341851221
+breast,Endothelial cell,MYLK2,1.0,0.1135073779795686
+prostate,Muscle,MYLK2,1.0,0.0891662951404369
+esophagusmucosa,Epithelial cell,MYLK2,1.0,0.0797332560162366
+esophagusmucosa,Immune (myeloid),MYLK2,1.0,0.0715307582260371
+heart,Muscle,MYLK2,1.0,0.0663129973474801
+lung,Immune (myeloid),MYLK2,1.0,0.0655845220527955
+esophagusmucosa,Endothelial cell,MYLK2,1.0,0.042753313381787
+heart,Endothelial cell,MYLK2,1.0,0.0392927308447937
+lung,Epithelial cell,MYLK2,1.0,0.0373831775700934
+prostate,Endothelial cell,MYLK2,1.0,0.035385704175513
+esophagusmuscularis,Muscle,MYLK2,1.0,0.0336270092138005
+esophagusmuscularis,Endothelial cell,MYLK2,1.0,0.0224164985429275
+prostate,Epithelial cell,MYLK2,1.0,0.0216703506262731
+esophagusmuscularis,Fibroblast,MYLK2,1.0,0.0192141416082236
+heart,Immune (myeloid),MYLK2,1.0,0.0156274417877793
+esophagusmucosa,Immune (lymphocyte),MYLK2,0.0,0.0
+esophagusmucosa,Glia,MYLK2,0.0,0.0
+breast,Fibroblast,MYLK2,0.0,0.0
+breast,Epithelial cell,MYLK2,0.0,0.0
+esophagusmucosa,Fibroblast,MYLK2,0.0,0.0
+breast,Muscle,MYLK2,0.0,0.0
+heart,Immune (lymphocyte),MYLK2,0.0,0.0
+heart,Glia,MYLK2,0.0,0.0
+heart,Fibroblast,MYLK2,0.0,0.0
+heart,Adipocyte,MYLK2,0.0,0.0
+esophagusmuscularis,Immune (myeloid),MYLK2,0.0,0.0
+esophagusmuscularis,Neuron,MYLK2,0.0,0.0
+esophagusmuscularis,Glia,MYLK2,0.0,0.0
+esophagusmuscularis,Immune (lymphocyte),MYLK2,0.0,0.0
+esophagusmucosa,Stromal,MYLK2,0.0,0.0
+esophagusmuscularis,Adipocyte,MYLK2,0.0,0.0
+lung,Muscle,MYLK2,0.0,0.0
+prostate,Fibroblast,MYLK2,0.0,0.0
+prostate,Glia,MYLK2,0.0,0.0
+lung,Immune (lymphocyte),MYLK2,0.0,0.0
+lung,Fibroblast,MYLK2,0.0,0.0
+lung,Endothelial cell,MYLK2,0.0,0.0
+skeletalmuscle,Adipocyte,MYLK2,0.0,0.0
+prostate,Immune (myeloid),MYLK2,0.0,0.0
+prostate,Immune (lymphocyte),MYLK2,0.0,0.0
+skeletalmuscle,Fibroblast,MYLK2,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),MYLK2,0.0,0.0
+skeletalmuscle,Glia,MYLK2,0.0,0.0
+skin,Adipocyte,MYLK2,0.0,0.0
+skin,Endothelial cell,MYLK2,0.0,0.0
+skin,Epithelial cell,MYLK2,0.0,0.0
+skin,Epithelial cell (keratinocyte),MYLK2,0.0,0.0
+skin,Fibroblast,MYLK2,0.0,0.0
+skin,Immune (lymphocyte),MYLK2,0.0,0.0
+skin,Immune (myeloid),MYLK2,0.0,0.0
+skin,Melanocyte,MYLK2,0.0,0.0
+skin,Muscle,MYLK2,0.0,0.0
+skin,Other,MYLK2,0.0,0.0

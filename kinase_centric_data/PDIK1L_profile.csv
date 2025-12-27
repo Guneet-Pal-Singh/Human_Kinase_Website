@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+heart,Muscle,PDIK1L,1.0762852,4.998342175066313
+heart,Adipocyte,PDIK1L,1.0,4.66321243523316
+skeletalmuscle,Adipocyte,PDIK1L,1.0,4.40251572327044
+esophagusmuscularis,Neuron,PDIK1L,1.0,4.0
+lung,Epithelial cell,PDIK1L,1.0339674,3.0571131879543096
+lung,Immune (myeloid),PDIK1L,1.0224719,2.918511231349401
+esophagusmuscularis,Adipocyte,PDIK1L,1.0,2.857142857142857
+esophagusmucosa,Epithelial cell,PDIK1L,1.0582525,2.2397796462742825
+skin,Other,PDIK1L,1.1111112,1.991150442477876
+esophagusmucosa,Stromal,PDIK1L,1.0,1.9211324570273005
+skin,Epithelial cell (keratinocyte),PDIK1L,1.1111112,1.848998459167951
+lung,Muscle,PDIK1L,1.0,1.8404907975460123
+heart,Glia,PDIK1L,1.0,1.6778523489932886
+skin,Immune (myeloid),PDIK1L,1.0,1.675977653631285
+skin,Adipocyte,PDIK1L,1.0,1.6129032258064515
+skeletalmuscle,Muscle,PDIK1L,1.0376811,1.5285100350006646
+lung,Endothelial cell,PDIK1L,1.0263158,1.3838310269482883
+skin,Immune (lymphocyte),PDIK1L,1.0,1.3333333333333337
+prostate,Epithelial cell,PDIK1L,1.0334448,1.2958869674511333
+heart,Immune (lymphocyte),PDIK1L,1.0,1.2893982808022924
+esophagusmucosa,Immune (myeloid),PDIK1L,1.0555556,1.2875536480686696
+breast,Adipocyte,PDIK1L,1.0,1.2492901760363428
+skeletalmuscle,Immune (myeloid),PDIK1L,1.1111112,1.2211668928086838
+esophagusmuscularis,Immune (myeloid),PDIK1L,1.0555556,1.2149848126898413
+prostate,Muscle,PDIK1L,1.0,1.15916183682568
+esophagusmucosa,Endothelial cell,PDIK1L,1.1296296,1.1543394613082514
+prostate,Endothelial cell,PDIK1L,1.0,1.0969568294409058
+heart,Fibroblast,PDIK1L,1.03,1.076773985140519
+breast,Endothelial cell,PDIK1L,1.0,1.021566401816118
+heart,Immune (myeloid),PDIK1L,1.0307692,1.015783716205657
+esophagusmuscularis,Muscle,PDIK1L,1.0551724,0.9751832672002152
+prostate,Immune (myeloid),PDIK1L,1.0,0.9727626459143968
+prostate,Fibroblast,PDIK1L,1.0,0.9632224168126094
+esophagusmuscularis,Glia,PDIK1L,1.0,0.9278350515463918
+heart,Endothelial cell,PDIK1L,1.0298507,0.8775376555337262
+esophagusmucosa,Immune (lymphocyte),PDIK1L,1.0,0.825082508250825
+esophagusmucosa,Muscle,PDIK1L,1.0,0.7984031936127743
+esophagusmuscularis,Fibroblast,PDIK1L,1.0123457,0.778172735133058
+breast,Epithelial cell,PDIK1L,1.0227273,0.7587515088808415
+esophagusmucosa,Fibroblast,PDIK1L,1.0952381,0.7460035523978685
+esophagusmuscularis,Endothelial cell,PDIK1L,1.0,0.7397444519166106
+skin,Melanocyte,PDIK1L,1.0,0.7352941176470588
+lung,Immune (lymphocyte),PDIK1L,1.0,0.6896551724137931
+skin,Endothelial cell,PDIK1L,1.0,0.6842619745845552
+lung,Fibroblast,PDIK1L,1.0,0.6775067750677507
+skeletalmuscle,Fibroblast,PDIK1L,1.025,0.6729475100942126
+skin,Epithelial cell,PDIK1L,1.5,0.6644518272425249
+breast,Fibroblast,PDIK1L,1.0,0.6105006105006106
+breast,Immune (myeloid),PDIK1L,1.0,0.5586592178770949
+skin,Muscle,PDIK1L,1.0,0.5376344086021506
+skeletalmuscle,Endothelial cell,PDIK1L,1.0,0.4507888805409466
+esophagusmuscularis,Immune (lymphocyte),PDIK1L,1.0,0.3322259136212624
+prostate,Immune (lymphocyte),PDIK1L,1.0,0.2932551319648094
+breast,Muscle,PDIK1L,0.0,0.0
+esophagusmucosa,Glia,PDIK1L,0.0,0.0
+prostate,Glia,PDIK1L,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),PDIK1L,0.0,0.0
+skeletalmuscle,Glia,PDIK1L,0.0,0.0
+skin,Fibroblast,PDIK1L,0.0,0.0

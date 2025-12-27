@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Sweat gland cell,SEPHS2,0.01365526
+Mucous cell,SEPHS2,0.0099514285
+"Myocyte (cardiac, cytoplasmic)",SEPHS2,0.003996153
+Immune (mast cell),SEPHS2,0.003920859
+"Myocyte (sk. muscle, cytoplasmic)",SEPHS2,0.002823598
+Myocyte (cardiac),SEPHS2,0.0019874377
+Immune (DC/macrophage),SEPHS2,0.0014923812
+Endothelial cell (lymphatic),SEPHS2,0.0010079821
+Myocyte (smooth muscle),SEPHS2,0.00085879763
+Epithelial cell (basal),SEPHS2,0.0008405783
+Pericyte/SMC,SEPHS2,0.00079107523
+Epithelial cell (club),SEPHS2,0.0007738863
+Fibroblast,SEPHS2,0.00075171224
+Epithelial cell (luminal),SEPHS2,0.00070031534
+Myocyte (sk. muscle),SEPHS2,0.00045396277
+Endothelial cell (vascular),SEPHS2,0.00030798803
+Epithelial cell (alveolar type II),SEPHS2,0.00030609663
+Epithelial cell (Hillock),SEPHS2,0.0
+Adipocyte,SEPHS2,0.0
+Epithelial cell (cornified keratinocyte),SEPHS2,0.0
+Epithelial cell (ciliated),SEPHS2,0.0
+Epithelial cell (alveolar type I),SEPHS2,0.0
+Epithelial cell (basal keratinocyte),SEPHS2,0.0
+Epithelial cell (suprabasal keratinocyte),SEPHS2,0.0
+Epithelial cell (suprabasal),SEPHS2,0.0
+Epithelial cell (squamous),SEPHS2,0.0
+Epithelial cell (mature keratinocyte),SEPHS2,0.0
+Melanocyte,SEPHS2,0.0
+Immune (alveolar macrophage),SEPHS2,0.0
+Immune (T cell),SEPHS2,0.0
+Immune (NK cell),SEPHS2,0.0
+Immune (DC),SEPHS2,0.0
+Immune (Langerhans),SEPHS2,0.0
+ICCs,SEPHS2,0.0
+Immune (B cell),SEPHS2,0.0
+Myoepithelial (basal),SEPHS2,0.0
+Myocyte (NMJ-rich),SEPHS2,0.0
+Neuroendocrine,SEPHS2,0.0
+Myofibroblast,SEPHS2,0.0
+Neuronal,SEPHS2,0.0
+Satellite cell,SEPHS2,0.0
+Schwann cell,SEPHS2,0.0
+Sebaceous gland cell,SEPHS2,0.0

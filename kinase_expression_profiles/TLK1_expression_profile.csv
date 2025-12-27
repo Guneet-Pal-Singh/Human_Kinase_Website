@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (B cell),TLK1,0.7999163
+Immune (alveolar macrophage),TLK1,0.7030876
+Epithelial cell (Hillock),TLK1,0.69285834
+Epithelial cell (club),TLK1,0.6789476
+Epithelial cell (suprabasal keratinocyte),TLK1,0.6499797
+Immune (T cell),TLK1,0.64997053
+Myocyte (cardiac),TLK1,0.6384465
+Epithelial cell (luminal),TLK1,0.61727595
+Epithelial cell (basal keratinocyte),TLK1,0.6110397
+Neuroendocrine,TLK1,0.5982921
+Epithelial cell (cornified keratinocyte),TLK1,0.585828
+Epithelial cell (basal),TLK1,0.584979
+Epithelial cell (mature keratinocyte),TLK1,0.5840275
+Myofibroblast,TLK1,0.57806826
+Epithelial cell (suprabasal),TLK1,0.5683716
+Epithelial cell (ciliated),TLK1,0.56768274
+Epithelial cell (alveolar type II),TLK1,0.56089723
+ICCs,TLK1,0.55650324
+Mucous cell,TLK1,0.5518568
+Endothelial cell (lymphatic),TLK1,0.5434853
+Adipocyte,TLK1,0.5373997
+Myocyte (NMJ-rich),TLK1,0.5325507
+Epithelial cell (alveolar type I),TLK1,0.51115227
+Sweat gland cell,TLK1,0.50498265
+Myocyte (smooth muscle),TLK1,0.4825395
+Immune (DC/macrophage),TLK1,0.47218707
+Endothelial cell (vascular),TLK1,0.4452238
+Immune (NK cell),TLK1,0.44476524
+Immune (DC),TLK1,0.43898562
+Immune (mast cell),TLK1,0.43293613
+Immune (Langerhans),TLK1,0.4175895
+Fibroblast,TLK1,0.40625265
+Myocyte (sk. muscle),TLK1,0.40424454
+Melanocyte,TLK1,0.40410393
+Satellite cell,TLK1,0.4025193
+Myoepithelial (basal),TLK1,0.38633707
+Sebaceous gland cell,TLK1,0.36047688
+Schwann cell,TLK1,0.32129532
+Pericyte/SMC,TLK1,0.31697613
+Epithelial cell (squamous),TLK1,0.31520802
+"Myocyte (cardiac, cytoplasmic)",TLK1,0.20708643
+Neuronal,TLK1,0.1920658
+"Myocyte (sk. muscle, cytoplasmic)",TLK1,0.17198274

@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (ciliated),ETNK1,0.72403
+Immune (alveolar macrophage),ETNK1,0.59121835
+Epithelial cell (basal keratinocyte),ETNK1,0.56135136
+Mucous cell,ETNK1,0.5276638
+Epithelial cell (alveolar type II),ETNK1,0.51480246
+Melanocyte,ETNK1,0.50112987
+Epithelial cell (club),ETNK1,0.49693263
+Immune (Langerhans),ETNK1,0.49198556
+Epithelial cell (suprabasal keratinocyte),ETNK1,0.48481527
+Immune (DC/macrophage),ETNK1,0.48054886
+Epithelial cell (Hillock),ETNK1,0.47998545
+Neuronal,ETNK1,0.47603664
+Immune (DC),ETNK1,0.46836278
+Epithelial cell (suprabasal),ETNK1,0.44106773
+Myoepithelial (basal),ETNK1,0.43377024
+Epithelial cell (cornified keratinocyte),ETNK1,0.4130458
+Immune (B cell),ETNK1,0.39809874
+Epithelial cell (basal),ETNK1,0.3877318
+Epithelial cell (luminal),ETNK1,0.38508934
+Myofibroblast,ETNK1,0.37563953
+Epithelial cell (mature keratinocyte),ETNK1,0.3732106
+Epithelial cell (alveolar type I),ETNK1,0.37265536
+Sweat gland cell,ETNK1,0.3665146
+Neuroendocrine,ETNK1,0.36357027
+Immune (NK cell),ETNK1,0.35552788
+Endothelial cell (lymphatic),ETNK1,0.33577648
+Immune (T cell),ETNK1,0.32770765
+Pericyte/SMC,ETNK1,0.31054595
+Fibroblast,ETNK1,0.30731922
+ICCs,ETNK1,0.29967824
+Endothelial cell (vascular),ETNK1,0.29491654
+Schwann cell,ETNK1,0.2859362
+Adipocyte,ETNK1,0.28104424
+Immune (mast cell),ETNK1,0.2737832
+Myocyte (cardiac),ETNK1,0.27121964
+Epithelial cell (squamous),ETNK1,0.2673119
+Myocyte (smooth muscle),ETNK1,0.25913435
+Myocyte (NMJ-rich),ETNK1,0.222547
+Sebaceous gland cell,ETNK1,0.19600502
+Satellite cell,ETNK1,0.15470563
+"Myocyte (cardiac, cytoplasmic)",ETNK1,0.13261142
+Myocyte (sk. muscle),ETNK1,0.13051243
+"Myocyte (sk. muscle, cytoplasmic)",ETNK1,0.10177615

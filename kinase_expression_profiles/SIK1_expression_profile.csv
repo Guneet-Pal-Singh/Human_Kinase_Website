@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (cornified keratinocyte),SIK1,0.35678145
+Epithelial cell (suprabasal keratinocyte),SIK1,0.31339234
+Epithelial cell (mature keratinocyte),SIK1,0.28999773
+Epithelial cell (basal keratinocyte),SIK1,0.2239553
+Immune (Langerhans),SIK1,0.1923774
+Immune (DC),SIK1,0.13694215
+Melanocyte,SIK1,0.09996094
+Neuronal,SIK1,0.09202397
+Sweat gland cell,SIK1,0.07798463
+Epithelial cell (Hillock),SIK1,0.057432387
+Endothelial cell (vascular),SIK1,0.038543113
+Endothelial cell (lymphatic),SIK1,0.024793385
+Myoepithelial (basal),SIK1,0.024535727
+Epithelial cell (luminal),SIK1,0.023980692
+Epithelial cell (alveolar type I),SIK1,0.02223962
+Epithelial cell (squamous),SIK1,0.020634966
+Pericyte/SMC,SIK1,0.020011093
+Epithelial cell (alveolar type II),SIK1,0.01893585
+Epithelial cell (ciliated),SIK1,0.017258523
+Immune (alveolar macrophage),SIK1,0.01502007
+Myofibroblast,SIK1,0.01409592
+Immune (B cell),SIK1,0.012573734
+Myocyte (smooth muscle),SIK1,0.01109858
+Epithelial cell (suprabasal),SIK1,0.009222439
+Epithelial cell (basal),SIK1,0.009139043
+Sebaceous gland cell,SIK1,0.008979759
+Epithelial cell (club),SIK1,0.008699089
+"Myocyte (sk. muscle, cytoplasmic)",SIK1,0.0069726696
+Schwann cell,SIK1,0.004940161
+Immune (DC/macrophage),SIK1,0.0041429554
+Fibroblast,SIK1,0.0038177744
+Immune (T cell),SIK1,0.0032219344
+"Myocyte (cardiac, cytoplasmic)",SIK1,0.0030405428
+Myocyte (cardiac),SIK1,0.0029499242
+Immune (mast cell),SIK1,0.002518035
+Adipocyte,SIK1,0.0013544153
+Myocyte (sk. muscle),SIK1,0.00051121385
+Immune (NK cell),SIK1,0.0
+ICCs,SIK1,0.0
+Myocyte (NMJ-rich),SIK1,0.0
+Mucous cell,SIK1,0.0
+Neuroendocrine,SIK1,0.0
+Satellite cell,SIK1,0.0

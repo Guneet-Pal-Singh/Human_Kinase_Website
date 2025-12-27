@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (B cell),SYK,1.2031453
+Immune (DC/macrophage),SYK,1.1820917
+Immune (alveolar macrophage),SYK,1.0151513
+Epithelial cell (suprabasal),SYK,0.67904663
+Immune (Langerhans),SYK,0.67482036
+Immune (NK cell),SYK,0.54918677
+Immune (mast cell),SYK,0.45471987
+Immune (DC),SYK,0.4099434
+Epithelial cell (Hillock),SYK,0.3851665
+Mucous cell,SYK,0.3576865
+Epithelial cell (basal),SYK,0.3001298
+Neuronal,SYK,0.2647816
+Epithelial cell (ciliated),SYK,0.22997719
+Epithelial cell (suprabasal keratinocyte),SYK,0.2139547
+Epithelial cell (mature keratinocyte),SYK,0.21171054
+Epithelial cell (alveolar type II),SYK,0.18845575
+Epithelial cell (squamous),SYK,0.18819553
+Sebaceous gland cell,SYK,0.15919244
+Myofibroblast,SYK,0.1460972
+Schwann cell,SYK,0.14161417
+Epithelial cell (club),SYK,0.1407942
+Neuroendocrine,SYK,0.121693805
+Sweat gland cell,SYK,0.11057714
+Epithelial cell (alveolar type I),SYK,0.10508606
+Epithelial cell (cornified keratinocyte),SYK,0.09074773
+ICCs,SYK,0.07190372
+Epithelial cell (luminal),SYK,0.06708226
+Myocyte (cardiac),SYK,0.06187265
+Immune (T cell),SYK,0.057632685
+"Myocyte (cardiac, cytoplasmic)",SYK,0.051941413
+Epithelial cell (basal keratinocyte),SYK,0.047739998
+Fibroblast,SYK,0.03535472
+Endothelial cell (vascular),SYK,0.025722196
+Satellite cell,SYK,0.024065094
+Pericyte/SMC,SYK,0.020595802
+Myocyte (smooth muscle),SYK,0.019578682
+Adipocyte,SYK,0.018399542
+Melanocyte,SYK,0.016078504
+Myoepithelial (basal),SYK,0.015453167
+Endothelial cell (lymphatic),SYK,0.015251354
+Myocyte (sk. muscle),SYK,0.009461318
+"Myocyte (sk. muscle, cytoplasmic)",SYK,0.0075750044
+Myocyte (NMJ-rich),SYK,0.0

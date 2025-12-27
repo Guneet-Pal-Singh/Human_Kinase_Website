@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Mucous cell,RIPK1,0.36783397
+Epithelial cell (mature keratinocyte),RIPK1,0.35107794
+Adipocyte,RIPK1,0.30551293
+Epithelial cell (suprabasal),RIPK1,0.29697064
+Neuronal,RIPK1,0.26966733
+Immune (alveolar macrophage),RIPK1,0.2641585
+Myocyte (cardiac),RIPK1,0.24978705
+Epithelial cell (suprabasal keratinocyte),RIPK1,0.23905452
+Immune (DC),RIPK1,0.23389173
+Pericyte/SMC,RIPK1,0.22889955
+Myofibroblast,RIPK1,0.22593229
+Immune (NK cell),RIPK1,0.21929675
+Endothelial cell (lymphatic),RIPK1,0.21806741
+Melanocyte,RIPK1,0.21043696
+Myocyte (smooth muscle),RIPK1,0.20356412
+Endothelial cell (vascular),RIPK1,0.19986072
+Immune (T cell),RIPK1,0.19883558
+ICCs,RIPK1,0.19852567
+Epithelial cell (alveolar type I),RIPK1,0.19655679
+Immune (DC/macrophage),RIPK1,0.18821378
+Fibroblast,RIPK1,0.18765125
+Epithelial cell (basal),RIPK1,0.1862217
+Myoepithelial (basal),RIPK1,0.18507308
+Epithelial cell (club),RIPK1,0.18255273
+Epithelial cell (alveolar type II),RIPK1,0.17746
+Epithelial cell (cornified keratinocyte),RIPK1,0.1773444
+Immune (B cell),RIPK1,0.16753866
+Schwann cell,RIPK1,0.1648158
+Epithelial cell (Hillock),RIPK1,0.162409
+Epithelial cell (luminal),RIPK1,0.161246
+Myocyte (sk. muscle),RIPK1,0.15896742
+Epithelial cell (squamous),RIPK1,0.15378548
+Immune (Langerhans),RIPK1,0.15067093
+Immune (mast cell),RIPK1,0.14448617
+Epithelial cell (ciliated),RIPK1,0.13016942
+Myocyte (NMJ-rich),RIPK1,0.12388585
+Satellite cell,RIPK1,0.12316122
+Epithelial cell (basal keratinocyte),RIPK1,0.11197569
+Sweat gland cell,RIPK1,0.09244649
+Neuroendocrine,RIPK1,0.079417564
+Sebaceous gland cell,RIPK1,0.06989846
+"Myocyte (cardiac, cytoplasmic)",RIPK1,0.06548467
+"Myocyte (sk. muscle, cytoplasmic)",RIPK1,0.063347846

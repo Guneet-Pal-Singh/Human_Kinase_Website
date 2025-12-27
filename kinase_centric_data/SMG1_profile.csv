@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skeletalmuscle,Muscle,SMG1,1.5703268,45.95720171901998
+skin,Melanocyte,SMG1,1.2631578,34.92647058823529
+heart,Muscle,SMG1,1.6114823,33.49635278514589
+esophagusmuscularis,Adipocyte,SMG1,1.4285715,32.0
+esophagusmucosa,Stromal,SMG1,1.3861386,30.63700707785642
+skin,Epithelial cell (keratinocyte),SMG1,1.354452,29.994863893168976
+esophagusmucosa,Epithelial cell,SMG1,1.4206543,29.68976514931864
+lung,Immune (myeloid),SMG1,1.290454,28.16855222167569
+skin,Immune (lymphocyte),SMG1,1.0952381,28.000000000000004
+skeletalmuscle,Adipocyte,SMG1,1.2790698,27.044025157232703
+esophagusmucosa,Immune (myeloid),SMG1,1.2628572,25.035765379113016
+esophagusmucosa,Immune (lymphocyte),SMG1,1.1505618,24.47744774477448
+esophagusmuscularis,Neuron,SMG1,1.3333334,24.0
+heart,Adipocyte,SMG1,1.1777778,23.316062176165804
+prostate,Epithelial cell,SMG1,1.2447847,22.645516404455424
+skin,Adipocyte,SMG1,1.0,22.58064516129032
+prostate,Immune (myeloid),SMG1,1.1704036,21.69260700389105
+skin,Immune (myeloid),SMG1,1.2631578,21.22905027932961
+skin,Other,SMG1,1.4421053,21.01769911504425
+skin,Muscle,SMG1,1.1891892,19.892473118279568
+prostate,Muscle,SMG1,1.2757847,19.884083816317432
+lung,Epithelial cell,SMG1,1.1867901,19.746625129802705
+skin,Endothelial cell,SMG1,1.205,19.550342130987293
+breast,Adipocyte,SMG1,1.1656977,19.534355479841
+prostate,Glia,SMG1,1.2307693,19.402985074626866
+skin,Epithelial cell,SMG1,1.2920353,18.77076411960133
+esophagusmucosa,Muscle,SMG1,1.1595745,18.7624750499002
+esophagusmucosa,Endothelial cell,SMG1,1.162037,18.469431380932026
+esophagusmuscularis,Muscle,SMG1,1.1933511,17.600376622503195
+skin,Fibroblast,SMG1,1.1290323,17.580340264650285
+lung,Immune (lymphocyte),SMG1,1.1653544,17.517241379310345
+heart,Immune (myeloid),SMG1,1.1406673,17.33083294264729
+prostate,Endothelial cell,SMG1,1.1466942,17.126680820948337
+breast,Muscle,SMG1,1.1923077,17.105263157894736
+skeletalmuscle,Immune (myeloid),SMG1,1.1774193,16.824966078697422
+breast,Endothelial cell,SMG1,1.168919,16.79909194097616
+esophagusmuscularis,Immune (myeloid),SMG1,1.1273487,16.166047924400946
+esophagusmucosa,Fibroblast,SMG1,1.1393259,15.808170515097691
+esophagusmuscularis,Immune (lymphocyte),SMG1,1.1489362,15.614617940199334
+breast,Epithelial cell,SMG1,1.1569061,15.606138989480945
+esophagusmuscularis,Endothelial cell,SMG1,1.1785196,15.444967496077114
+breast,Immune (myeloid),SMG1,1.1272727,15.363128491620111
+lung,Fibroblast,SMG1,1.1146789,14.769647696476964
+esophagusmuscularis,Fibroblast,SMG1,1.124349,14.756460755115766
+lung,Muscle,SMG1,1.0833334,14.723926380368098
+skeletalmuscle,Endothelial cell,SMG1,1.174359,14.650638617580766
+prostate,Fibroblast,SMG1,1.2,14.448336252189142
+heart,Fibroblast,SMG1,1.129754,14.43953914073436
+heart,Immune (lymphocyte),SMG1,1.12,14.326647564469914
+esophagusmucosa,Glia,SMG1,1.2222222,13.846153846153848
+esophagusmuscularis,Glia,SMG1,1.1603054,13.505154639175258
+lung,Endothelial cell,SMG1,1.0867208,13.437727603787328
+heart,Endothelial cell,SMG1,1.111002,13.333333333333334
+prostate,Immune (lymphocyte),SMG1,1.1666666,13.19648093841642
+skeletalmuscle,Immune (lymphocyte),SMG1,1.25,12.0
+heart,Glia,SMG1,1.1714286,11.74496644295302
+skeletalmuscle,Glia,SMG1,1.0,11.428571428571429
+breast,Fibroblast,SMG1,1.1827956,11.355311355311356
+skeletalmuscle,Fibroblast,SMG1,1.0923318,10.750336473755048

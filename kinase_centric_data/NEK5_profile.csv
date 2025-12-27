@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Adipocyte,NEK5,1.0,6.857142857142858
+esophagusmuscularis,Glia,NEK5,1.0612245,5.051546391752577
+lung,Epithelial cell,NEK5,1.3450705,4.718587746625129
+heart,Adipocyte,NEK5,1.0,4.66321243523316
+esophagusmuscularis,Neuron,NEK5,1.0,4.0
+heart,Fibroblast,NEK5,1.0659341,2.9395929794336166
+heart,Muscle,NEK5,1.0911765,2.8183023872679045
+esophagusmuscularis,Fibroblast,NEK5,1.0549828,2.795657603996541
+skeletalmuscle,Muscle,NEK5,1.0602007,2.649417394001152
+lung,Immune (myeloid),NEK5,1.0903226,2.541400229545827
+esophagusmuscularis,Muscle,NEK5,1.0640669,2.414419261550878
+skin,Melanocyte,NEK5,1.0,2.2058823529411766
+lung,Fibroblast,NEK5,1.0,2.168021680216802
+heart,Endothelial cell,NEK5,1.0242424,2.161100196463654
+esophagusmucosa,Stromal,NEK5,1.0,2.1233569261880687
+esophagusmuscularis,Endothelial cell,NEK5,1.032258,2.0847343644922667
+lung,Endothelial cell,NEK5,1.0357143,2.039329934450109
+heart,Immune (lymphocyte),NEK5,1.0,2.005730659025788
+esophagusmucosa,Muscle,NEK5,1.0,1.996007984031936
+prostate,Epithelial cell,NEK5,1.0684327,1.9633337667403457
+prostate,Muscle,NEK5,1.0909091,1.961658493089612
+breast,Epithelial cell,NEK5,1.0909091,1.896878772202104
+skeletalmuscle,Endothelial cell,NEK5,1.12,1.878287002253944
+lung,Muscle,NEK5,1.0,1.8404907975460123
+skin,Fibroblast,NEK5,1.1111112,1.7013232514177694
+heart,Glia,NEK5,1.0,1.6778523489932886
+skin,Endothelial cell,NEK5,1.0,1.6617790811339197
+esophagusmuscularis,Immune (myeloid),NEK5,1.0666667,1.5187310158623015
+skeletalmuscle,Fibroblast,NEK5,1.0705882,1.4300134589502018
+skin,Immune (lymphocyte),NEK5,1.0,1.3333333333333337
+prostate,Endothelial cell,NEK5,1.027027,1.3092710544939845
+prostate,Immune (myeloid),NEK5,1.0,1.264591439688716
+esophagusmucosa,Endothelial cell,NEK5,1.0508474,1.2612227447627191
+skeletalmuscle,Adipocyte,NEK5,1.0,1.257861635220126
+breast,Endothelial cell,NEK5,1.1818181,1.2485811577752552
+esophagusmucosa,Fibroblast,NEK5,1.0285715,1.2433392539964476
+prostate,Fibroblast,NEK5,1.0,1.2259194395796849
+heart,Immune (myeloid),NEK5,1.0298507,1.0470385997812155
+prostate,Immune (lymphocyte),NEK5,1.0,1.0263929618768328
+esophagusmuscularis,Immune (lymphocyte),NEK5,1.0,0.9966777408637874
+skin,Epithelial cell,NEK5,1.0,0.9966777408637874
+esophagusmucosa,Immune (myeloid),NEK5,1.0,0.9298998569384836
+esophagusmucosa,Epithelial cell,NEK5,1.0085471,0.848071904899971
+breast,Adipocyte,NEK5,1.0,0.7950028392958546
+skin,Epithelial cell (keratinocyte),NEK5,1.0,0.5649717514124294
+breast,Immune (myeloid),NEK5,1.0,0.5586592178770949
+lung,Immune (lymphocyte),NEK5,1.0,0.5517241379310345
+skeletalmuscle,Immune (myeloid),NEK5,1.25,0.5427408412483039
+breast,Fibroblast,NEK5,1.25,0.4884004884004884
+esophagusmucosa,Immune (lymphocyte),NEK5,1.0,0.275027502750275
+skin,Other,NEK5,1.0,0.2212389380530973
+breast,Muscle,NEK5,0.0,0.0
+esophagusmucosa,Glia,NEK5,0.0,0.0
+prostate,Glia,NEK5,0.0,0.0
+skeletalmuscle,Glia,NEK5,0.0,0.0
+skin,Adipocyte,NEK5,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),NEK5,0.0,0.0
+skin,Immune (myeloid),NEK5,0.0,0.0
+skin,Muscle,NEK5,0.0,0.0

@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+heart,Fibroblast,GRK5,1.9058201,50.877570797889526
+lung,Muscle,GRK5,1.7066667,46.01226993865031
+esophagusmucosa,Muscle,GRK5,1.6550218,45.70858283433134
+esophagusmucosa,Fibroblast,GRK5,1.8040886,41.705150976909415
+lung,Endothelial cell,GRK5,1.5407407,39.32993445010925
+breast,Muscle,GRK5,1.4067796,38.81578947368421
+esophagusmucosa,Endothelial cell,GRK5,1.6439024,35.05771697306541
+skin,Endothelial cell,GRK5,1.5490196,34.89736070381232
+lung,Fibroblast,GRK5,1.4475807,33.60433604336043
+breast,Endothelial cell,GRK5,1.625,33.59818388195232
+esophagusmuscularis,Fibroblast,GRK5,1.6036967,30.66577000672495
+heart,Muscle,GRK5,1.6581451,27.884615384615387
+skeletalmuscle,Fibroblast,GRK5,1.3753086,27.25437415881561
+skeletalmuscle,Endothelial cell,GRK5,1.684507,26.67167543200601
+esophagusmuscularis,Endothelial cell,GRK5,1.4646465,26.630800268997984
+prostate,Endothelial cell,GRK5,1.4389902,25.23000707714084
+heart,Endothelial cell,GRK5,1.3416717,21.466928618205632
+prostate,Fibroblast,GRK5,1.5294118,20.84063047285464
+esophagusmucosa,Stromal,GRK5,1.4581281,20.525783619818
+skin,Muscle,GRK5,1.5,20.43010752688172
+prostate,Muscle,GRK5,1.4600939,18.99242086491306
+breast,Fibroblast,GRK5,1.3197279,17.94871794871795
+esophagusmuscularis,Immune (lymphocyte),GRK5,1.3207548,17.60797342192691
+esophagusmuscularis,Adipocyte,GRK5,1.6428572,16.0
+lung,Epithelial cell,GRK5,1.5375738,15.47663551401869
+skeletalmuscle,Immune (lymphocyte),GRK5,1.2,15.0
+heart,Immune (lymphocyte),GRK5,1.25,14.326647564469914
+skin,Melanocyte,GRK5,1.1388888,13.23529411764706
+esophagusmuscularis,Muscle,GRK5,1.3020134,12.025018494855068
+heart,Adipocyte,GRK5,1.5217391,11.917098445595856
+lung,Immune (lymphocyte),GRK5,1.1162791,11.862068965517242
+skin,Fibroblast,GRK5,1.0862069,10.964083175803404
+esophagusmucosa,Immune (lymphocyte),GRK5,1.2043011,10.231023102310232
+heart,Immune (myeloid),GRK5,1.1521394,9.860915768088764
+esophagusmuscularis,Glia,GRK5,1.3263158,9.793814432989691
+breast,Immune (myeloid),GRK5,1.2,9.776536312849162
+esophagusmuscularis,Immune (myeloid),GRK5,1.1970803,9.247384407694904
+prostate,Immune (lymphocyte),GRK5,1.1774193,9.090909090909092
+esophagusmucosa,Immune (myeloid),GRK5,1.1848739,8.512160228898425
+skin,Immune (lymphocyte),GRK5,2.0,8.0
+esophagusmuscularis,Neuron,GRK5,1.0,8.0
+esophagusmucosa,Glia,GRK5,1.4,7.6923076923076925
+skeletalmuscle,Immune (myeloid),GRK5,1.1607143,7.598371777476255
+prostate,Glia,GRK5,1.0,7.462686567164178
+lung,Immune (myeloid),GRK5,1.1435186,7.083128381701918
+prostate,Immune (myeloid),GRK5,1.1111112,7.003891050583658
+skeletalmuscle,Glia,GRK5,1.0,5.714285714285714
+skin,Immune (myeloid),GRK5,1.1,5.58659217877095
+esophagusmucosa,Epithelial cell,GRK5,1.2539268,5.537837054218614
+heart,Glia,GRK5,1.1333333,5.033557046979865
+skin,Epithelial cell,GRK5,1.0714285,4.651162790697675
+breast,Epithelial cell,GRK5,1.093985,4.586997758234179
+skin,Other,GRK5,1.0714285,3.0973451327433628
+skeletalmuscle,Muscle,GRK5,1.1894197,2.596251827566346
+prostate,Epithelial cell,GRK5,1.0713073,2.552767303774975
+skeletalmuscle,Adipocyte,GRK5,1.25,2.515723270440252
+skin,Adipocyte,GRK5,1.0,1.6129032258064515
+breast,Adipocyte,GRK5,1.2307693,1.4764338444065872
+skin,Epithelial cell (keratinocyte),GRK5,1.0588236,0.8731381612737544

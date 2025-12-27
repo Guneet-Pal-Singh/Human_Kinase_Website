@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Melanocyte,SRPK2,1.5153803
+Myocyte (cardiac),SRPK2,1.195216
+Immune (B cell),SRPK2,1.1782368
+Epithelial cell (basal keratinocyte),SRPK2,1.1764936
+Epithelial cell (alveolar type II),SRPK2,1.115893
+Sweat gland cell,SRPK2,1.1107124
+Epithelial cell (suprabasal),SRPK2,1.108906
+Immune (NK cell),SRPK2,1.0874349
+Mucous cell,SRPK2,1.0734463
+Epithelial cell (alveolar type I),SRPK2,1.0486206
+Immune (DC),SRPK2,1.0329633
+Myofibroblast,SRPK2,1.0225229
+Epithelial cell (ciliated),SRPK2,1.0130715
+Myocyte (NMJ-rich),SRPK2,1.0050334
+Endothelial cell (lymphatic),SRPK2,1.0015707
+Epithelial cell (club),SRPK2,0.97643584
+Epithelial cell (Hillock),SRPK2,0.96349
+Epithelial cell (luminal),SRPK2,0.9356494
+Myocyte (sk. muscle),SRPK2,0.9337798
+Epithelial cell (basal),SRPK2,0.91351527
+Immune (alveolar macrophage),SRPK2,0.8908543
+Immune (T cell),SRPK2,0.8801552
+Adipocyte,SRPK2,0.8746577
+Immune (DC/macrophage),SRPK2,0.85753953
+Neuroendocrine,SRPK2,0.8377288
+Sebaceous gland cell,SRPK2,0.83574224
+Endothelial cell (vascular),SRPK2,0.8152539
+ICCs,SRPK2,0.7559981
+Neuronal,SRPK2,0.7431224
+Epithelial cell (suprabasal keratinocyte),SRPK2,0.73035634
+Pericyte/SMC,SRPK2,0.70779747
+Myocyte (smooth muscle),SRPK2,0.6944527
+Fibroblast,SRPK2,0.6681258
+Myoepithelial (basal),SRPK2,0.65746456
+Schwann cell,SRPK2,0.6535816
+Immune (Langerhans),SRPK2,0.64120173
+Immune (mast cell),SRPK2,0.6361845
+Epithelial cell (cornified keratinocyte),SRPK2,0.62679094
+Epithelial cell (squamous),SRPK2,0.61391604
+Satellite cell,SRPK2,0.50497967
+Epithelial cell (mature keratinocyte),SRPK2,0.48766294
+"Myocyte (cardiac, cytoplasmic)",SRPK2,0.397051
+"Myocyte (sk. muscle, cytoplasmic)",SRPK2,0.39197093

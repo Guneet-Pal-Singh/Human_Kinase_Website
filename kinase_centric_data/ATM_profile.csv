@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+heart,Immune (lymphocyte),ATM,1.3571428,38.10888252148997
+heart,Immune (myeloid),ATM,1.3089054,33.69276449445226
+skeletalmuscle,Immune (lymphocyte),ATM,1.2121212,33.0
+skin,Immune (myeloid),ATM,1.2727273,30.726256983240223
+prostate,Immune (lymphocyte),ATM,1.2583733,30.64516129032258
+lung,Immune (myeloid),ATM,1.3529092,30.15248401377275
+esophagusmucosa,Immune (myeloid),ATM,1.286802,28.183118741058657
+prostate,Immune (myeloid),ATM,1.2972028,27.82101167315175
+skeletalmuscle,Immune (myeloid),ATM,1.1989796,26.59430122116689
+heart,Muscle,ATM,1.4245284,26.35941644562334
+breast,Immune (myeloid),ATM,1.3404255,26.256983240223462
+esophagusmuscularis,Immune (myeloid),ATM,1.2522995,25.68342895713804
+esophagusmuscularis,Immune (lymphocyte),ATM,1.2467532,25.58139534883721
+esophagusmucosa,Immune (lymphocyte),ATM,1.261745,24.58745874587459
+esophagusmuscularis,Neuron,ATM,1.6666666,24.0
+skin,Immune (lymphocyte),ATM,1.2941177,22.666666666666664
+lung,Immune (lymphocyte),ATM,1.2546583,22.20689655172413
+heart,Adipocyte,ATM,1.2142857,21.76165803108808
+heart,Fibroblast,ATM,1.2483823,21.632389361473024
+prostate,Fibroblast,ATM,1.2173913,20.140105078809107
+lung,Muscle,ATM,1.2580645,19.018404907975462
+esophagusmucosa,Stromal,ATM,1.2849462,18.806875631951467
+prostate,Muscle,ATM,1.2058111,18.412839946500224
+skin,Muscle,ATM,1.0625,17.20430107526882
+prostate,Epithelial cell,ATM,1.1951528,17.167251766133575
+skeletalmuscle,Glia,ATM,1.1666666,17.142857142857142
+lung,Fibroblast,ATM,1.1309524,17.073170731707318
+skin,Endothelial cell,ATM,1.1734104,16.911045943304007
+esophagusmuscularis,Glia,ATM,1.0903226,15.979381443298967
+skin,Fibroblast,ATM,1.1428572,15.879017013232511
+prostate,Endothelial cell,ATM,1.2031603,15.6758669497523
+esophagusmucosa,Fibroblast,ATM,1.1451991,15.16873889875666
+heart,Glia,ATM,1.1333333,15.100671140939598
+skin,Melanocyte,ATM,1.2439024,15.073529411764705
+esophagusmuscularis,Adipocyte,ATM,1.0,14.857142857142858
+breast,Epithelial cell,ATM,1.1311475,14.726677013278152
+esophagusmuscularis,Fibroblast,ATM,1.1376085,14.381784993755405
+breast,Fibroblast,ATM,1.1517857,13.675213675213676
+lung,Epithelial cell,ATM,1.1375306,13.59086188992731
+esophagusmucosa,Muscle,ATM,1.117647,13.572854291417164
+skin,Epithelial cell,ATM,1.2625,13.2890365448505
+skeletalmuscle,Fibroblast,ATM,1.1248407,13.206594885598925
+esophagusmucosa,Epithelial cell,ATM,1.19,12.32241229341838
+esophagusmuscularis,Endothelial cell,ATM,1.1688074,12.216991705895538
+breast,Adipocyte,ATM,1.1162791,12.208972174900625
+esophagusmucosa,Endothelial cell,ATM,1.1412843,11.65027789653698
+heart,Endothelial cell,ATM,1.1093394,11.499672560576292
+esophagusmuscularis,Muscle,ATM,1.1426046,11.413006927163895
+esophagusmucosa,Glia,ATM,1.2857143,10.76923076923077
+skeletalmuscle,Endothelial cell,ATM,1.0780141,10.593538692712247
+skin,Epithelial cell (keratinocyte),ATM,1.0980393,10.477657935285054
+lung,Endothelial cell,ATM,1.1032028,10.23306627822287
+breast,Muscle,ATM,1.2,9.86842105263158
+breast,Endothelial cell,ATM,1.1395348,9.761634506242906
+skeletalmuscle,Adipocyte,ATM,1.0666667,9.433962264150944
+prostate,Glia,ATM,1.1666666,8.955223880597014
+skeletalmuscle,Muscle,ATM,1.0962235,8.56408665987329
+skin,Other,ATM,1.074074,5.9734513274336285
+skin,Adipocyte,ATM,1.0,3.225806451612903

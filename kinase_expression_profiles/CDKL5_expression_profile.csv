@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (alveolar type I),CDKL5,0.80575114
+Epithelial cell (squamous),CDKL5,0.7269825
+Epithelial cell (alveolar type II),CDKL5,0.7054025
+Myocyte (cardiac),CDKL5,0.6680975
+Neuronal,CDKL5,0.4559415
+Immune (DC),CDKL5,0.45034114
+Epithelial cell (ciliated),CDKL5,0.4281746
+Immune (alveolar macrophage),CDKL5,0.41272646
+Epithelial cell (luminal),CDKL5,0.30530724
+Epithelial cell (club),CDKL5,0.29952258
+Epithelial cell (suprabasal),CDKL5,0.2754611
+Myocyte (NMJ-rich),CDKL5,0.2394154
+Mucous cell,CDKL5,0.23822747
+Endothelial cell (lymphatic),CDKL5,0.23367438
+Epithelial cell (mature keratinocyte),CDKL5,0.22912157
+Adipocyte,CDKL5,0.22865842
+ICCs,CDKL5,0.22666414
+Melanocyte,CDKL5,0.22418602
+Myocyte (sk. muscle),CDKL5,0.22142693
+Epithelial cell (Hillock),CDKL5,0.2162583
+Endothelial cell (vascular),CDKL5,0.2042244
+Pericyte/SMC,CDKL5,0.1874374
+Myoepithelial (basal),CDKL5,0.1767128
+Schwann cell,CDKL5,0.16457383
+Fibroblast,CDKL5,0.16157648
+Myofibroblast,CDKL5,0.16046897
+Immune (DC/macrophage),CDKL5,0.15900192
+Sebaceous gland cell,CDKL5,0.15001498
+Sweat gland cell,CDKL5,0.14974572
+Immune (mast cell),CDKL5,0.14733304
+Epithelial cell (basal),CDKL5,0.14276522
+Myocyte (smooth muscle),CDKL5,0.13762753
+Immune (Langerhans),CDKL5,0.13636316
+Epithelial cell (basal keratinocyte),CDKL5,0.120903865
+Epithelial cell (cornified keratinocyte),CDKL5,0.11946757
+"Myocyte (cardiac, cytoplasmic)",CDKL5,0.11862302
+Epithelial cell (suprabasal keratinocyte),CDKL5,0.103948236
+Immune (B cell),CDKL5,0.0959362
+Immune (T cell),CDKL5,0.09048544
+Immune (NK cell),CDKL5,0.05783989
+Neuroendocrine,CDKL5,0.05743041
+Satellite cell,CDKL5,0.057317358
+"Myocyte (sk. muscle, cytoplasmic)",CDKL5,0.05274846

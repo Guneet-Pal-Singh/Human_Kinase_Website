@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmucosa,Epithelial cell,IRAK4,1.1761942,9.256306175703102
+prostate,Immune (myeloid),IRAK4,1.0731708,7.976653696498054
+esophagusmucosa,Immune (myeloid),IRAK4,1.081081,7.939914163090128
+esophagusmucosa,Immune (lymphocyte),IRAK4,1.057554,7.645764576457646
+esophagusmucosa,Stromal,IRAK4,1.1081082,7.482305358948432
+heart,Immune (lymphocyte),IRAK4,1.0652174,6.59025787965616
+lung,Immune (myeloid),IRAK4,1.0703517,6.525659944253157
+esophagusmucosa,Endothelial cell,IRAK4,1.0794702,6.45575032064985
+heart,Immune (myeloid),IRAK4,1.0392157,6.37599624941397
+prostate,Epithelial cell,IRAK4,1.0673611,6.241060980366663
+esophagusmuscularis,Immune (myeloid),IRAK4,1.0614525,6.041174485318933
+esophagusmuscularis,Immune (lymphocyte),IRAK4,1.0,5.647840531561462
+skin,Immune (myeloid),IRAK4,1.3,5.58659217877095
+prostate,Endothelial cell,IRAK4,1.0649351,5.449398443029016
+skin,Melanocyte,IRAK4,1.0714285,5.147058823529411
+skeletalmuscle,Immune (myeloid),IRAK4,1.054054,5.020352781546811
+skeletalmuscle,Immune (lymphocyte),IRAK4,1.0,5.0
+prostate,Immune (lymphocyte),IRAK4,1.2058823,4.98533724340176
+skin,Epithelial cell (keratinocyte),IRAK4,1.0947368,4.879301489470981
+prostate,Muscle,IRAK4,1.074074,4.814979937583593
+esophagusmucosa,Glia,IRAK4,1.3333334,4.615384615384616
+heart,Fibroblast,IRAK4,1.0398127,4.5978249165500165
+esophagusmuscularis,Adipocyte,IRAK4,1.125,4.571428571428571
+heart,Endothelial cell,IRAK4,1.0463768,4.518664047151278
+esophagusmucosa,Fibroblast,IRAK4,1.0787401,4.511545293072825
+breast,Epithelial cell,IRAK4,1.0894941,4.431798585963096
+skin,Endothelial cell,IRAK4,1.0,4.301075268817205
+lung,Muscle,IRAK4,1.0,4.294478527607362
+prostate,Fibroblast,IRAK4,1.0408163,4.2907180385288965
+lung,Immune (lymphocyte),IRAK4,1.0,4.275862068965517
+breast,Endothelial cell,IRAK4,1.1081082,4.19977298524404
+heart,Adipocyte,IRAK4,1.0,4.145077720207254
+esophagusmuscularis,Endothelial cell,IRAK4,1.038674,4.057386236269895
+esophagusmuscularis,Muscle,IRAK4,1.0523648,3.9814378909139823
+breast,Muscle,IRAK4,1.0,3.947368421052632
+skin,Other,IRAK4,1.0,3.761061946902655
+breast,Immune (myeloid),IRAK4,1.0,3.6312849162011176
+esophagusmucosa,Muscle,IRAK4,1.0,3.592814371257485
+esophagusmuscularis,Fibroblast,IRAK4,1.0403225,3.5738303391296
+lung,Epithelial cell,IRAK4,1.0422535,3.538940809968848
+skin,Fibroblast,IRAK4,1.0555556,3.402646502835539
+skeletalmuscle,Endothelial cell,IRAK4,1.0444444,3.3809166040571
+lung,Endothelial cell,IRAK4,1.0326087,3.3503277494537507
+esophagusmuscularis,Glia,IRAK4,1.03125,3.2989690721649487
+lung,Fibroblast,IRAK4,1.0666667,3.048780487804878
+heart,Muscle,IRAK4,1.0535212,2.94263925729443
+heart,Glia,IRAK4,1.0,2.684563758389262
+skin,Immune (lymphocyte),IRAK4,1.0,2.666666666666667
+skeletalmuscle,Fibroblast,IRAK4,1.0266666,2.523553162853297
+breast,Fibroblast,IRAK4,1.0,2.31990231990232
+skin,Muscle,IRAK4,1.0,2.1505376344086025
+skeletalmuscle,Adipocyte,IRAK4,1.0,1.8867924528301887
+skin,Epithelial cell,IRAK4,1.0,1.6611295681063123
+prostate,Glia,IRAK4,1.0,1.4925373134328357
+breast,Adipocyte,IRAK4,1.0384616,1.4764338444065872
+skeletalmuscle,Muscle,IRAK4,1.0089285,0.4962119533915201
+esophagusmuscularis,Neuron,IRAK4,0.0,0.0
+skin,Adipocyte,IRAK4,0.0,0.0
+skeletalmuscle,Glia,IRAK4,0.0,0.0

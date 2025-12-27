@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+prostate,Glia,PIP4K2B,1.0,10.44776119402985
+esophagusmucosa,Stromal,PIP4K2B,1.0465117,8.695652173913043
+esophagusmuscularis,Neuron,PIP4K2B,1.0,8.0
+heart,Muscle,PIP4K2B,1.0614973,6.200265251989389
+prostate,Muscle,PIP4K2B,1.0656934,6.107891217119929
+prostate,Endothelial cell,PIP4K2B,1.0591716,5.980184005661713
+esophagusmucosa,Epithelial cell,PIP4K2B,1.0714285,5.784285300086982
+prostate,Fibroblast,PIP4K2B,1.016129,5.42907180385289
+skin,Immune (lymphocyte),PIP4K2B,1.0,5.333333333333334
+esophagusmucosa,Endothelial cell,PIP4K2B,1.0788382,5.151774262505344
+skin,Melanocyte,PIP4K2B,1.1428572,5.147058823529411
+prostate,Epithelial cell,PIP4K2B,1.0656997,5.079530186798423
+lung,Immune (myeloid),PIP4K2B,1.054054,4.85325463190687
+skin,Adipocyte,PIP4K2B,1.3333334,4.838709677419355
+breast,Epithelial cell,PIP4K2B,1.057971,4.759441282979824
+breast,Adipocyte,PIP4K2B,1.0365853,4.656445201590006
+esophagusmucosa,Fibroblast,PIP4K2B,1.038168,4.653641207815276
+breast,Muscle,PIP4K2B,1.1428572,4.605263157894736
+esophagusmucosa,Muscle,PIP4K2B,1.0,4.590818363273453
+prostate,Immune (myeloid),PIP4K2B,1.0217391,4.474708171206226
+breast,Endothelial cell,PIP4K2B,1.0833334,4.0862656072644725
+esophagusmucosa,Immune (myeloid),PIP4K2B,1.0175439,4.07725321888412
+lung,Epithelial cell,PIP4K2B,1.0332295,4.0
+skin,Immune (myeloid),PIP4K2B,1.0,3.910614525139665
+heart,Adipocyte,PIP4K2B,1.0,3.6269430051813463
+heart,Fibroblast,PIP4K2B,1.0334346,3.542586411112308
+heart,Endothelial cell,PIP4K2B,1.0365853,3.2220039292730847
+skin,Fibroblast,PIP4K2B,1.0588236,3.213610586011342
+skeletalmuscle,Adipocyte,PIP4K2B,1.0,3.1446540880503147
+skin,Endothelial cell,PIP4K2B,1.0,3.1280547409579667
+esophagusmucosa,Immune (lymphocyte),PIP4K2B,1.018868,2.915291529152915
+skin,Epithelial cell,PIP4K2B,1.0,2.823920265780731
+lung,Endothelial cell,PIP4K2B,1.012987,2.8040786598689005
+breast,Immune (myeloid),PIP4K2B,1.1,2.793296089385475
+esophagusmuscularis,Muscle,PIP4K2B,1.0193237,2.7843163629026835
+heart,Immune (myeloid),PIP4K2B,1.0393258,2.7816846382247227
+esophagusmuscularis,Immune (lymphocyte),PIP4K2B,1.0,2.6578073089701
+skin,Epithelial cell (keratinocyte),PIP4K2B,1.0204082,2.516692347200822
+lung,Muscle,PIP4K2B,1.0,2.4539877300613497
+skin,Other,PIP4K2B,1.0,2.433628318584071
+esophagusmuscularis,Endothelial cell,PIP4K2B,1.0277778,2.42098184263618
+lung,Fibroblast,PIP4K2B,1.0,2.3712737127371275
+esophagusmuscularis,Immune (myeloid),PIP4K2B,1.0294118,2.294971312858589
+skin,Muscle,PIP4K2B,1.0,2.1505376344086025
+esophagusmuscularis,Fibroblast,PIP4K2B,1.0138888,2.0751272936881544
+skeletalmuscle,Muscle,PIP4K2B,1.0321199,2.0690266270878563
+esophagusmuscularis,Glia,PIP4K2B,1.05,2.061855670103093
+heart,Glia,PIP4K2B,1.1666666,2.013422818791946
+skeletalmuscle,Fibroblast,PIP4K2B,1.0260869,1.9347240915208612
+skeletalmuscle,Endothelial cell,PIP4K2B,1.08,1.878287002253944
+breast,Fibroblast,PIP4K2B,1.0666667,1.831501831501832
+esophagusmuscularis,Adipocyte,PIP4K2B,1.0,1.7142857142857144
+esophagusmucosa,Glia,PIP4K2B,1.0,1.5384615384615383
+lung,Immune (lymphocyte),PIP4K2B,1.0,1.5172413793103448
+skeletalmuscle,Immune (myeloid),PIP4K2B,1.0,1.4925373134328357
+prostate,Immune (lymphocyte),PIP4K2B,1.1,1.466275659824047
+heart,Immune (lymphocyte),PIP4K2B,1.0,1.4326647564469914
+skeletalmuscle,Glia,PIP4K2B,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),PIP4K2B,0.0,0.0

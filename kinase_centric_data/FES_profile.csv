@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+breast,Immune (myeloid),FES,1.1666666,10.05586592178771
+esophagusmuscularis,Immune (myeloid),FES,1.094697,8.90988862639217
+prostate,Endothelial cell,FES,1.1302521,8.421797593772116
+esophagusmucosa,Immune (myeloid),FES,1.079646,8.082975679542203
+heart,Immune (myeloid),FES,1.0612649,7.907485544616347
+prostate,Immune (myeloid),FES,1.0897436,7.587548638132295
+esophagusmuscularis,Endothelial cell,FES,1.1074626,7.509527011880744
+skeletalmuscle,Immune (myeloid),FES,1.0769231,7.055630936227951
+breast,Endothelial cell,FES,1.0166667,6.81044267877412
+skin,Immune (myeloid),FES,1.0833334,6.70391061452514
+lung,Immune (myeloid),FES,1.0723515,6.345302508607968
+esophagusmucosa,Endothelial cell,FES,1.0752689,5.964087216759299
+heart,Endothelial cell,FES,1.0256411,3.575638506876228
+esophagusmuscularis,Adipocyte,FES,1.0,3.428571428571429
+esophagusmucosa,Glia,FES,1.0,3.076923076923077
+lung,Endothelial cell,FES,1.0357143,3.058994901675164
+skin,Endothelial cell,FES,1.0,3.0303030303030303
+esophagusmucosa,Stromal,FES,1.137931,2.932254802831143
+skeletalmuscle,Endothelial cell,FES,1.0645162,2.329075882794891
+prostate,Muscle,FES,1.0,2.31832367365136
+prostate,Epithelial cell,FES,1.0679013,2.1063580808737483
+breast,Muscle,FES,2.0,1.973684210526316
+skin,Fibroblast,FES,1.0,1.890359168241966
+lung,Muscle,FES,1.0,1.8404907975460123
+prostate,Fibroblast,FES,1.0476191,1.838879159369527
+skin,Muscle,FES,1.0,1.6129032258064515
+esophagusmucosa,Muscle,FES,1.375,1.596806387225549
+prostate,Glia,FES,1.0,1.4925373134328357
+esophagusmuscularis,Glia,FES,1.0,1.443298969072165
+lung,Fibroblast,FES,1.0,1.3550135501355014
+esophagusmucosa,Fibroblast,FES,1.0,1.349911190053286
+breast,Fibroblast,FES,1.0,1.3431013431013432
+heart,Glia,FES,1.0,1.342281879194631
+skeletalmuscle,Adipocyte,FES,1.0,1.257861635220126
+esophagusmucosa,Immune (lymphocyte),FES,1.2105263,1.0451045104510452
+heart,Adipocyte,FES,1.0,1.0362694300518136
+heart,Fibroblast,FES,1.0,0.9152578873694412
+esophagusmuscularis,Muscle,FES,1.0514706,0.9146546506153742
+skeletalmuscle,Fibroblast,FES,1.0185186,0.9084791386271872
+esophagusmuscularis,Fibroblast,FES,1.0,0.8550293015659526
+skin,Epithelial cell,FES,1.0,0.8305647840531563
+heart,Muscle,FES,1.0526316,0.7874668435013263
+skin,Melanocyte,FES,1.0,0.7352941176470588
+lung,Immune (lymphocyte),FES,1.0,0.6896551724137931
+esophagusmucosa,Epithelial cell,FES,1.0625,0.5798782255726298
+heart,Immune (lymphocyte),FES,1.0,0.5730659025787965
+lung,Epithelial cell,FES,1.015625,0.5316718587746625
+skin,Other,FES,1.0,0.4424778761061947
+breast,Epithelial cell,FES,1.0,0.4138644593895499
+esophagusmuscularis,Immune (lymphocyte),FES,2.0,0.3322259136212624
+prostate,Immune (lymphocyte),FES,1.0,0.2932551319648094
+skeletalmuscle,Muscle,FES,1.0508474,0.2613973683044615
+breast,Adipocyte,FES,1.0,0.1135718341851221
+skin,Epithelial cell (keratinocyte),FES,1.0,0.0513610683102208
+esophagusmuscularis,Neuron,FES,0.0,0.0
+skin,Adipocyte,FES,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),FES,0.0,0.0
+skeletalmuscle,Glia,FES,0.0,0.0
+skin,Immune (lymphocyte),FES,0.0,0.0

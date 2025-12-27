@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+lung,Muscle,PDGFRB,2.3164556,48.466257668711656
+esophagusmucosa,Muscle,PDGFRB,1.8712447,46.50698602794412
+skin,Muscle,PDGFRB,1.7948718,41.935483870967744
+heart,Fibroblast,PDGFRB,1.5386896,36.319586518789706
+breast,Muscle,PDGFRB,1.6341463,26.973684210526315
+prostate,Fibroblast,PDGFRB,1.3023256,26.35726795096322
+esophagusmucosa,Fibroblast,PDGFRB,1.2985294,24.156305506216697
+esophagusmuscularis,Fibroblast,PDGFRB,1.297073,21.99058507061197
+heart,Muscle,PDGFRB,2.6199133,19.14787798408488
+skeletalmuscle,Fibroblast,PDGFRB,1.1743737,17.46298788694482
+lung,Fibroblast,PDGFRB,1.2552301,16.19241192411924
+prostate,Muscle,PDGFRB,1.4162011,15.960766830138208
+breast,Fibroblast,PDGFRB,1.2258065,15.14041514041514
+skin,Fibroblast,PDGFRB,1.046875,12.098298676748582
+esophagusmuscularis,Adipocyte,PDGFRB,1.4375,9.142857142857142
+esophagusmucosa,Glia,PDGFRB,1.0,7.6923076923076925
+esophagusmucosa,Stromal,PDGFRB,1.150685,7.381193124368049
+esophagusmuscularis,Glia,PDGFRB,1.1857142,7.216494845360824
+esophagusmuscularis,Muscle,PDGFRB,1.4328793,6.913713094357387
+skeletalmuscle,Glia,PDGFRB,1.0,5.714285714285714
+prostate,Glia,PDGFRB,1.3333334,4.477611940298507
+skeletalmuscle,Immune (lymphocyte),PDGFRB,1.0,4.0
+heart,Adipocyte,PDGFRB,2.2857144,3.6269430051813463
+heart,Glia,PDGFRB,1.2,3.355704697986577
+skin,Adipocyte,PDGFRB,1.0,3.225806451612903
+skin,Immune (lymphocyte),PDGFRB,1.0,2.666666666666667
+esophagusmuscularis,Immune (myeloid),PDGFRB,1.2307693,1.7549780627742155
+breast,Endothelial cell,PDGFRB,1.7142857,1.5891032917139614
+skeletalmuscle,Muscle,PDGFRB,2.1966293,1.5772451375659031
+breast,Adipocyte,PDGFRB,1.24,1.419647927314026
+skin,Other,PDGFRB,1.0,1.327433628318584
+esophagusmucosa,Immune (myeloid),PDGFRB,1.1875,1.144492131616595
+skeletalmuscle,Endothelial cell,PDGFRB,1.4666667,1.1269722013523666
+skin,Immune (myeloid),PDGFRB,1.0,1.11731843575419
+heart,Endothelial cell,PDGFRB,1.2131147,0.7989521938441388
+esophagusmuscularis,Endothelial cell,PDGFRB,1.2285714,0.7845774490024657
+skin,Melanocyte,PDGFRB,1.0,0.7352941176470588
+lung,Endothelial cell,PDGFRB,1.1,0.7283321194464676
+skin,Endothelial cell,PDGFRB,1.1428572,0.6842619745845552
+esophagusmuscularis,Immune (lymphocyte),PDGFRB,1.0,0.6644518272425249
+heart,Immune (myeloid),PDGFRB,1.6097561,0.6407251132989529
+lung,Immune (myeloid),PDGFRB,1.0769231,0.6394490900147565
+skeletalmuscle,Adipocyte,PDGFRB,1.0,0.628930817610063
+esophagusmucosa,Epithelial cell,PDGFRB,1.2025317,0.5726297477529719
+esophagusmucosa,Endothelial cell,PDGFRB,1.2,0.5344164172723386
+lung,Epithelial cell,PDGFRB,1.0686275,0.4236760124610592
+skeletalmuscle,Immune (myeloid),PDGFRB,1.6666666,0.4070556309362279
+prostate,Immune (myeloid),PDGFRB,1.25,0.3891050583657587
+prostate,Endothelial cell,PDGFRB,1.8888888,0.3184713375796179
+breast,Immune (myeloid),PDGFRB,1.0,0.2793296089385474
+lung,Immune (lymphocyte),PDGFRB,2.0,0.2758620689655172
+breast,Epithelial cell,PDGFRB,1.1333333,0.2586652871184687
+prostate,Epithelial cell,PDGFRB,1.1764706,0.2210375763879859
+esophagusmucosa,Immune (lymphocyte),PDGFRB,1.5,0.22002200220022
+skin,Epithelial cell,PDGFRB,1.0,0.1661129568106312
+heart,Immune (lymphocyte),PDGFRB,1.0,0.1432664756446991
+esophagusmuscularis,Neuron,PDGFRB,0.0,0.0
+prostate,Immune (lymphocyte),PDGFRB,0.0,0.0
+skin,Epithelial cell (keratinocyte),PDGFRB,0.0,0.0

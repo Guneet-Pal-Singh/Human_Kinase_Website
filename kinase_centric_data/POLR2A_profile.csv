@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Neuron,POLR2A,1.1666666,24.0
+esophagusmucosa,Epithelial cell,POLR2A,1.1791406,15.011597564511453
+skin,Other,POLR2A,1.1538461,14.380530973451329
+esophagusmuscularis,Adipocyte,POLR2A,1.1304348,13.142857142857142
+skin,Epithelial cell (keratinocyte),POLR2A,1.1212121,10.16949152542373
+skin,Immune (myeloid),POLR2A,1.1111112,10.05586592178771
+prostate,Epithelial cell,POLR2A,1.1666666,9.959693147835132
+esophagusmucosa,Immune (myeloid),POLR2A,1.0503597,9.94277539341917
+esophagusmucosa,Stromal,POLR2A,1.1847826,9.30232558139535
+lung,Immune (myeloid),POLR2A,1.1265823,9.067060173798984
+prostate,Glia,POLR2A,1.0,8.955223880597014
+prostate,Endothelial cell,POLR2A,1.0750989,8.952583156404813
+heart,Adipocyte,POLR2A,1.0588236,8.808290155440414
+skin,Muscle,POLR2A,1.125,8.60215053763441
+esophagusmuscularis,Endothelial cell,POLR2A,1.1170213,8.428603452140775
+breast,Endothelial cell,POLR2A,1.1714286,7.945516458569807
+esophagusmucosa,Endothelial cell,POLR2A,1.0833334,7.695596408721676
+breast,Adipocyte,POLR2A,1.0597014,7.609312890403181
+prostate,Fibroblast,POLR2A,1.082353,7.443082311733801
+skin,Melanocyte,POLR2A,1.2,7.352941176470589
+breast,Muscle,POLR2A,1.0909091,7.236842105263158
+heart,Endothelial cell,POLR2A,1.0881801,6.981008513425016
+esophagusmucosa,Fibroblast,POLR2A,1.0625,6.820603907637655
+breast,Epithelial cell,POLR2A,1.0771208,6.708053112605622
+prostate,Muscle,POLR2A,1.0408163,6.553722692822113
+esophagusmucosa,Muscle,POLR2A,1.0,6.387225548902195
+heart,Fibroblast,POLR2A,1.0664395,6.320663292774846
+lung,Epithelial cell,POLR2A,1.0756081,6.317757009345794
+lung,Fibroblast,POLR2A,1.032258,6.300813008130081
+skeletalmuscle,Adipocyte,POLR2A,1.0,6.289308176100629
+skin,Epithelial cell,POLR2A,1.1944444,5.980066445182724
+prostate,Immune (myeloid),POLR2A,1.1639345,5.93385214007782
+lung,Immune (lymphocyte),POLR2A,1.0465117,5.931034482758621
+heart,Muscle,POLR2A,1.1036415,5.9184350132626
+esophagusmuscularis,Glia,POLR2A,1.0877193,5.876288659793814
+esophagusmuscularis,Fibroblast,POLR2A,1.0887772,5.73542127005476
+esophagusmuscularis,Immune (myeloid),POLR2A,1.1011904,5.669929125885926
+lung,Endothelial cell,POLR2A,1.0387096,5.644573925710124
+skin,Fibroblast,POLR2A,1.137931,5.482041587901701
+skin,Endothelial cell,POLR2A,1.0545454,5.376344086021505
+breast,Fibroblast,POLR2A,1.0681819,5.372405372405373
+skin,Immune (lymphocyte),POLR2A,1.0,5.333333333333334
+esophagusmuscularis,Immune (lymphocyte),POLR2A,1.0,5.3156146179402
+breast,Immune (myeloid),POLR2A,1.1052631,5.307262569832402
+esophagusmucosa,Immune (lymphocyte),POLR2A,1.0208334,5.2805280528052805
+heart,Immune (myeloid),POLR2A,1.0519878,5.110173464603844
+esophagusmuscularis,Muscle,POLR2A,1.0821192,5.077678391283879
+skin,Adipocyte,POLR2A,1.0,4.838709677419355
+esophagusmucosa,Glia,POLR2A,1.0,4.615384615384616
+prostate,Immune (lymphocyte),POLR2A,1.1612903,4.545454545454546
+skeletalmuscle,Fibroblast,POLR2A,1.0519481,3.886271870794078
+lung,Muscle,POLR2A,1.1666666,3.6809815950920246
+heart,Immune (lymphocyte),POLR2A,1.0,3.29512893982808
+skeletalmuscle,Endothelial cell,POLR2A,1.0952381,3.155522163786627
+skeletalmuscle,Immune (myeloid),POLR2A,1.0588236,2.3066485753052914
+heart,Glia,POLR2A,1.0,2.013422818791946
+skeletalmuscle,Immune (lymphocyte),POLR2A,1.0,2.0
+skeletalmuscle,Muscle,POLR2A,1.0362903,1.0987550396526518
+skeletalmuscle,Glia,POLR2A,0.0,0.0

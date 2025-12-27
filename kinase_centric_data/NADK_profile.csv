@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+breast,Adipocyte,NADK,1.1560509,17.83077796706417
+skin,Epithelial cell,NADK,1.2608696,11.461794019933556
+heart,Adipocyte,NADK,1.0476191,10.88082901554404
+esophagusmuscularis,Adipocyte,NADK,1.0526316,10.857142857142858
+prostate,Immune (myeloid),NADK,1.0515463,9.43579766536965
+esophagusmucosa,Stromal,NADK,1.0689656,8.796764408493427
+skeletalmuscle,Adipocyte,NADK,1.25,7.547169811320755
+skin,Other,NADK,1.0588236,7.52212389380531
+esophagusmucosa,Immune (myeloid),NADK,1.0384616,7.439198855507868
+esophagusmucosa,Fibroblast,NADK,1.0372341,6.678507992895204
+lung,Immune (myeloid),NADK,1.0734177,6.47647155271356
+skin,Adipocyte,NADK,1.0,6.451612903225806
+heart,Fibroblast,NADK,1.0574324,6.374501992031872
+breast,Muscle,NADK,1.1111112,5.921052631578947
+esophagusmucosa,Epithelial cell,NADK,1.0659062,5.71904899971006
+prostate,Muscle,NADK,1.0873016,5.617476593847526
+esophagusmucosa,Muscle,NADK,1.0357143,5.588822355289421
+prostate,Fibroblast,NADK,1.016129,5.42907180385289
+heart,Muscle,NADK,1.0557276,5.354774535809018
+breast,Endothelial cell,NADK,1.0638298,5.334846765039727
+prostate,Epithelial cell,NADK,1.0822147,5.166211589303515
+skeletalmuscle,Fibroblast,NADK,1.0506756,4.979811574697174
+skin,Fibroblast,NADK,1.1923077,4.914933837429111
+esophagusmuscularis,Fibroblast,NADK,1.0395257,4.861177826880584
+esophagusmuscularis,Muscle,NADK,1.0583215,4.727957495460354
+esophagusmucosa,Endothelial cell,NADK,1.0645162,4.638734501923899
+skin,Immune (myeloid),NADK,1.0,4.46927374301676
+lung,Epithelial cell,NADK,1.0448179,4.4485981308411215
+breast,Fibroblast,NADK,1.0285715,4.273504273504273
+breast,Immune (myeloid),NADK,1.2,4.189944134078212
+prostate,Endothelial cell,NADK,1.0598291,4.140127388535031
+heart,Immune (myeloid),NADK,1.0358566,3.922487888732615
+skin,Muscle,NADK,1.1428572,3.763440860215054
+heart,Endothelial cell,NADK,1.0516605,3.549443352979699
+esophagusmuscularis,Immune (myeloid),NADK,1.0104166,3.239959500506244
+skeletalmuscle,Glia,NADK,1.0,2.857142857142857
+skeletalmuscle,Endothelial cell,NADK,1.0277778,2.70473328324568
+skin,Immune (lymphocyte),NADK,1.0,2.666666666666667
+skin,Melanocyte,NADK,1.0,2.5735294117647056
+breast,Epithelial cell,NADK,1.0821918,2.5176754612864287
+lung,Fibroblast,NADK,1.0277778,2.4390243902439024
+esophagusmucosa,Immune (lymphocyte),NADK,1.0465117,2.3652365236523654
+esophagusmuscularis,Endothelial cell,NADK,1.0792079,2.264066352835687
+heart,Glia,NADK,1.0,2.013422818791946
+heart,Immune (lymphocyte),NADK,1.0,1.8624641833810889
+lung,Endothelial cell,NADK,1.0,1.602330662782229
+skin,Endothelial cell,NADK,1.0625,1.564027370478983
+esophagusmucosa,Glia,NADK,1.0,1.5384615384615383
+prostate,Glia,NADK,1.0,1.4925373134328357
+skin,Epithelial cell (keratinocyte),NADK,1.0714285,1.4381099126861838
+skeletalmuscle,Immune (myeloid),NADK,1.0,1.35685210312076
+lung,Muscle,NADK,1.0,1.2269938650306749
+prostate,Immune (lymphocyte),NADK,1.0,1.1730205278592376
+lung,Immune (lymphocyte),NADK,1.0,1.103448275862069
+skeletalmuscle,Immune (lymphocyte),NADK,1.0,1.0
+skeletalmuscle,Muscle,NADK,1.0144928,0.9171060210003988
+esophagusmuscularis,Glia,NADK,1.0,0.8247422680412372
+esophagusmuscularis,Immune (lymphocyte),NADK,1.0,0.3322259136212624
+esophagusmuscularis,Neuron,NADK,0.0,0.0

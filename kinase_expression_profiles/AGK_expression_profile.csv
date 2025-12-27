@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (DC),AGK,0.5162534
+Myocyte (cardiac),AGK,0.4541001
+Immune (NK cell),AGK,0.37783435
+Myocyte (NMJ-rich),AGK,0.3123501
+Myocyte (sk. muscle),AGK,0.24544013
+Schwann cell,AGK,0.22612934
+Epithelial cell (Hillock),AGK,0.21270981
+Epithelial cell (club),AGK,0.2107394
+Epithelial cell (suprabasal),AGK,0.20605418
+Immune (B cell),AGK,0.20325226
+Endothelial cell (vascular),AGK,0.19358581
+Epithelial cell (basal),AGK,0.19280554
+Immune (T cell),AGK,0.1912945
+ICCs,AGK,0.19076784
+Pericyte/SMC,AGK,0.18008564
+Epithelial cell (alveolar type II),AGK,0.17166197
+Myofibroblast,AGK,0.16539207
+Epithelial cell (ciliated),AGK,0.16240348
+Neuroendocrine,AGK,0.1603331
+Mucous cell,AGK,0.15932181
+Epithelial cell (luminal),AGK,0.15737917
+Immune (alveolar macrophage),AGK,0.15390807
+Adipocyte,AGK,0.15262665
+Myocyte (smooth muscle),AGK,0.14781979
+Epithelial cell (alveolar type I),AGK,0.14776577
+Endothelial cell (lymphatic),AGK,0.1458866
+Immune (DC/macrophage),AGK,0.13968343
+Satellite cell,AGK,0.13919799
+Fibroblast,AGK,0.13459663
+Immune (mast cell),AGK,0.13220035
+Myoepithelial (basal),AGK,0.116033435
+"Myocyte (cardiac, cytoplasmic)",AGK,0.110864
+Sweat gland cell,AGK,0.08435831
+"Myocyte (sk. muscle, cytoplasmic)",AGK,0.08013797
+Epithelial cell (basal keratinocyte),AGK,0.07502403
+Epithelial cell (suprabasal keratinocyte),AGK,0.072807275
+Epithelial cell (mature keratinocyte),AGK,0.0627481
+Neuronal,AGK,0.04330386
+Epithelial cell (squamous),AGK,0.038381353
+Sebaceous gland cell,AGK,0.03725754
+Melanocyte,AGK,0.035990614
+Epithelial cell (cornified keratinocyte),AGK,0.0
+Immune (Langerhans),AGK,0.0

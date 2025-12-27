@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (DC),NEK4,0.44128585
+Epithelial cell (ciliated),NEK4,0.3516312
+Mucous cell,NEK4,0.20985535
+Neuronal,NEK4,0.19256885
+Myocyte (cardiac),NEK4,0.17617695
+Epithelial cell (club),NEK4,0.16814308
+Epithelial cell (suprabasal),NEK4,0.15722296
+Myofibroblast,NEK4,0.15522604
+ICCs,NEK4,0.15041527
+Epithelial cell (alveolar type I),NEK4,0.14886506
+Melanocyte,NEK4,0.1444798
+Epithelial cell (luminal),NEK4,0.13148539
+Epithelial cell (alveolar type II),NEK4,0.130113
+Epithelial cell (Hillock),NEK4,0.12996323
+Immune (alveolar macrophage),NEK4,0.12970781
+Epithelial cell (basal),NEK4,0.1260153
+Sweat gland cell,NEK4,0.121590264
+Pericyte/SMC,NEK4,0.11039123
+Immune (NK cell),NEK4,0.109369345
+Myoepithelial (basal),NEK4,0.10631166
+Immune (DC/macrophage),NEK4,0.10576516
+Immune (B cell),NEK4,0.101536214
+Myocyte (smooth muscle),NEK4,0.10152675
+Fibroblast,NEK4,0.098888114
+Endothelial cell (lymphatic),NEK4,0.09733422
+Endothelial cell (vascular),NEK4,0.09486844
+Satellite cell,NEK4,0.09282487
+Immune (T cell),NEK4,0.08997734
+Epithelial cell (squamous),NEK4,0.082329854
+Myocyte (NMJ-rich),NEK4,0.08219307
+Immune (mast cell),NEK4,0.075217
+Adipocyte,NEK4,0.0750735
+Myocyte (sk. muscle),NEK4,0.06621043
+Schwann cell,NEK4,0.066169195
+"Myocyte (cardiac, cytoplasmic)",NEK4,0.066055514
+"Myocyte (sk. muscle, cytoplasmic)",NEK4,0.050357018
+Epithelial cell (suprabasal keratinocyte),NEK4,0.045251064
+Epithelial cell (basal keratinocyte),NEK4,0.041743197
+Sebaceous gland cell,NEK4,0.04032451
+Neuroendocrine,NEK4,0.02949905
+Epithelial cell (cornified keratinocyte),NEK4,0.0
+Immune (Langerhans),NEK4,0.0
+Epithelial cell (mature keratinocyte),NEK4,0.0

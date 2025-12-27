@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Sweat gland cell,STK39,1.7744055
+Mucous cell,STK39,1.3415177
+Neuroendocrine,STK39,1.1730525
+Epithelial cell (luminal),STK39,1.0219522
+Myocyte (NMJ-rich),STK39,1.0093745
+Adipocyte,STK39,0.98828787
+Epithelial cell (Hillock),STK39,0.98477125
+Myocyte (cardiac),STK39,0.97528785
+Epithelial cell (club),STK39,0.9437008
+Epithelial cell (suprabasal),STK39,0.89705807
+Epithelial cell (squamous),STK39,0.894271
+Immune (NK cell),STK39,0.85120976
+Pericyte/SMC,STK39,0.689608
+Epithelial cell (suprabasal keratinocyte),STK39,0.66062075
+Myoepithelial (basal),STK39,0.6522078
+Epithelial cell (basal),STK39,0.6388389
+Neuronal,STK39,0.6105601
+Myofibroblast,STK39,0.60431784
+Immune (T cell),STK39,0.59736496
+Epithelial cell (alveolar type II),STK39,0.58333945
+Epithelial cell (ciliated),STK39,0.55037624
+Sebaceous gland cell,STK39,0.50054294
+Immune (alveolar macrophage),STK39,0.48843628
+Epithelial cell (alveolar type I),STK39,0.4338153
+Myocyte (smooth muscle),STK39,0.3886221
+Epithelial cell (basal keratinocyte),STK39,0.38064653
+Immune (B cell),STK39,0.30307126
+Satellite cell,STK39,0.29808816
+ICCs,STK39,0.29533353
+Epithelial cell (mature keratinocyte),STK39,0.28660202
+Immune (Langerhans),STK39,0.25537673
+"Myocyte (cardiac, cytoplasmic)",STK39,0.252637
+Epithelial cell (cornified keratinocyte),STK39,0.2519429
+Fibroblast,STK39,0.24279352
+Immune (DC),STK39,0.18126632
+Immune (mast cell),STK39,0.17664371
+Endothelial cell (vascular),STK39,0.16133797
+Immune (DC/macrophage),STK39,0.15096682
+Schwann cell,STK39,0.14895813
+Endothelial cell (lymphatic),STK39,0.1388094
+Melanocyte,STK39,0.10409865
+Myocyte (sk. muscle),STK39,0.06543175
+"Myocyte (sk. muscle, cytoplasmic)",STK39,0.033449553

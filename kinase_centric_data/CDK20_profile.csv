@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skin,Adipocyte,CDK20,1.0,1.6129032258064515
+esophagusmucosa,Glia,CDK20,1.0,1.5384615384615383
+prostate,Glia,CDK20,1.0,1.4925373134328357
+skeletalmuscle,Adipocyte,CDK20,1.0,1.257861635220126
+esophagusmuscularis,Adipocyte,CDK20,1.0,1.1428571428571428
+heart,Adipocyte,CDK20,1.0,1.0362694300518136
+esophagusmucosa,Stromal,CDK20,1.0,0.8088978766430739
+esophagusmucosa,Epithelial cell,CDK20,1.0183486,0.7900840823427081
+skin,Fibroblast,CDK20,1.0,0.7561436672967864
+skin,Melanocyte,CDK20,1.0,0.7352941176470588
+prostate,Epithelial cell,CDK20,1.0059172,0.7324578511680319
+prostate,Muscle,CDK20,1.0625,0.7133303611234953
+lung,Epithelial cell,CDK20,1.03125,0.6645898234683282
+lung,Muscle,CDK20,1.0,0.6134969325153374
+esophagusmucosa,Muscle,CDK20,1.0,0.5988023952095809
+breast,Adipocyte,CDK20,1.0,0.5678591709256104
+breast,Immune (myeloid),CDK20,1.0,0.5586592178770949
+esophagusmucosa,Fibroblast,CDK20,1.0,0.5328596802841918
+esophagusmuscularis,Muscle,CDK20,1.0,0.5245813437352882
+esophagusmuscularis,Glia,CDK20,1.0,0.5154639175257731
+skin,Epithelial cell (keratinocyte),CDK20,1.1,0.5136106831022085
+skin,Epithelial cell,CDK20,1.0,0.4983388704318937
+breast,Epithelial cell,CDK20,1.0714285,0.4828418692878082
+esophagusmuscularis,Fibroblast,CDK20,1.02,0.4803535402055913
+heart,Fibroblast,CDK20,1.0,0.4414773339076128
+lung,Fibroblast,CDK20,1.0,0.4065040650406504
+prostate,Immune (myeloid),CDK20,1.0,0.3891050583657587
+lung,Immune (myeloid),CDK20,1.0,0.3771110018035744
+heart,Muscle,CDK20,1.0,0.3647214854111406
+esophagusmuscularis,Immune (myeloid),CDK20,1.0,0.3037462031724603
+heart,Immune (lymphocyte),CDK20,1.0,0.2865329512893982
+prostate,Fibroblast,CDK20,1.0,0.2626970227670753
+esophagusmuscularis,Endothelial cell,CDK20,1.0,0.2465814839722035
+skeletalmuscle,Fibroblast,CDK20,1.0,0.2355316285329744
+skin,Other,CDK20,1.0,0.2212389380530973
+prostate,Endothelial cell,CDK20,1.0,0.1769285208775654
+prostate,Immune (lymphocyte),CDK20,1.0,0.1466275659824047
+breast,Fibroblast,CDK20,1.0,0.1221001221001221
+esophagusmucosa,Immune (lymphocyte),CDK20,1.0,0.11001100110011
+heart,Immune (myeloid),CDK20,1.0,0.1093920925144553
+skin,Endothelial cell,CDK20,1.0,0.0977517106549364
+heart,Endothelial cell,CDK20,1.0,0.0392927308447937
+skeletalmuscle,Muscle,CDK20,1.0,0.0265827832174028
+esophagusmucosa,Endothelial cell,CDK20,1.0,0.0213766566908935
+esophagusmuscularis,Neuron,CDK20,0.0,0.0
+heart,Glia,CDK20,0.0,0.0
+esophagusmuscularis,Immune (lymphocyte),CDK20,0.0,0.0
+breast,Endothelial cell,CDK20,0.0,0.0
+breast,Muscle,CDK20,0.0,0.0
+esophagusmucosa,Immune (myeloid),CDK20,0.0,0.0
+lung,Immune (lymphocyte),CDK20,0.0,0.0
+lung,Endothelial cell,CDK20,0.0,0.0
+skeletalmuscle,Endothelial cell,CDK20,0.0,0.0
+skeletalmuscle,Glia,CDK20,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),CDK20,0.0,0.0
+skeletalmuscle,Immune (myeloid),CDK20,0.0,0.0
+skin,Immune (lymphocyte),CDK20,0.0,0.0
+skin,Immune (myeloid),CDK20,0.0,0.0
+skin,Muscle,CDK20,0.0,0.0

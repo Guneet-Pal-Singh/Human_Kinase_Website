@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+prostate,Muscle,STK26,1.0941176,3.7895675434685687
+skin,Other,STK26,1.1666666,2.6548672566371683
+esophagusmucosa,Immune (lymphocyte),STK26,1.0256411,2.145214521452145
+esophagusmucosa,Epithelial cell,STK26,1.0440677,2.138300956799072
+heart,Immune (lymphocyte),STK26,1.0,2.005730659025788
+skin,Epithelial cell (keratinocyte),STK26,1.0,1.9517205957883923
+prostate,Immune (lymphocyte),STK26,1.0769231,1.906158357771261
+esophagusmucosa,Stromal,STK26,1.0,1.820020222446916
+lung,Epithelial cell,STK26,1.0472441,1.5825545171339563
+prostate,Epithelial cell,STK26,1.0520548,1.5819355957179388
+lung,Immune (lymphocyte),STK26,1.0,1.5172413793103448
+esophagusmuscularis,Immune (lymphocyte),STK26,1.0,1.32890365448505
+esophagusmucosa,Immune (myeloid),STK26,1.117647,1.2160228898426324
+prostate,Immune (myeloid),STK26,1.0833334,1.1673151750972763
+skin,Epithelial cell,STK26,1.0,1.162790697674419
+breast,Epithelial cell,STK26,1.0,0.8794619762027935
+prostate,Fibroblast,STK26,1.0,0.8756567425569177
+heart,Immune (myeloid),STK26,1.0178572,0.875136740115643
+lung,Immune (myeloid),STK26,1.02,0.8198065256599443
+esophagusmuscularis,Muscle,STK26,1.0517242,0.7801466137601721
+esophagusmuscularis,Immune (myeloid),STK26,1.0454545,0.7424907188660141
+skeletalmuscle,Adipocyte,STK26,1.0,0.628930817610063
+skin,Immune (myeloid),STK26,1.0,0.5586592178770949
+prostate,Endothelial cell,STK26,1.0,0.5307855626326964
+skeletalmuscle,Immune (myeloid),STK26,1.0,0.4070556309362279
+esophagusmucosa,Muscle,STK26,1.0,0.3992015968063871
+skeletalmuscle,Endothelial cell,STK26,1.0,0.3756574004507889
+heart,Fibroblast,STK26,1.0,0.2691934962851297
+esophagusmucosa,Endothelial cell,STK26,1.0,0.2565198802907225
+esophagusmucosa,Fibroblast,STK26,1.0,0.2486678507992895
+breast,Fibroblast,STK26,1.0,0.2442002442002442
+breast,Endothelial cell,STK26,1.0,0.2270147559591373
+heart,Muscle,STK26,1.0,0.1906498673740053
+skin,Fibroblast,STK26,1.0,0.1890359168241966
+skeletalmuscle,Fibroblast,STK26,1.0,0.1682368775235531
+esophagusmuscularis,Fibroblast,STK26,1.0666667,0.1441060620616774
+heart,Endothelial cell,STK26,1.0,0.1440733464309103
+esophagusmuscularis,Glia,STK26,1.0,0.1030927835051546
+skeletalmuscle,Muscle,STK26,1.0,0.0708874219130743
+lung,Fibroblast,STK26,1.0,0.067750677506775
+breast,Adipocyte,STK26,1.0,0.056785917092561
+esophagusmuscularis,Endothelial cell,STK26,1.0,0.0448329970858551
+lung,Endothelial cell,STK26,1.0,0.0364166059723233
+heart,Glia,STK26,0.0,0.0
+heart,Adipocyte,STK26,0.0,0.0
+esophagusmuscularis,Neuron,STK26,0.0,0.0
+esophagusmuscularis,Adipocyte,STK26,0.0,0.0
+breast,Muscle,STK26,0.0,0.0
+breast,Immune (myeloid),STK26,0.0,0.0
+esophagusmucosa,Glia,STK26,0.0,0.0
+lung,Muscle,STK26,0.0,0.0
+prostate,Glia,STK26,0.0,0.0
+skin,Adipocyte,STK26,0.0,0.0
+skeletalmuscle,Glia,STK26,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),STK26,0.0,0.0
+skin,Endothelial cell,STK26,0.0,0.0
+skin,Immune (lymphocyte),STK26,0.0,0.0
+skin,Melanocyte,STK26,0.0,0.0
+skin,Muscle,STK26,0.0,0.0

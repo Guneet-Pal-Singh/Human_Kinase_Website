@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (cornified keratinocyte),CDK7,0.34370717
+Epithelial cell (basal keratinocyte),CDK7,0.29668996
+Epithelial cell (mature keratinocyte),CDK7,0.28796268
+Epithelial cell (suprabasal),CDK7,0.26866433
+Epithelial cell (ciliated),CDK7,0.23193584
+Myocyte (NMJ-rich),CDK7,0.22357592
+Neuronal,CDK7,0.20231172
+Epithelial cell (suprabasal keratinocyte),CDK7,0.18895385
+Epithelial cell (alveolar type I),CDK7,0.18709348
+Immune (alveolar macrophage),CDK7,0.1802599
+Epithelial cell (alveolar type II),CDK7,0.1749854
+Epithelial cell (basal),CDK7,0.16097976
+Mucous cell,CDK7,0.15550895
+Immune (Langerhans),CDK7,0.15516488
+Epithelial cell (club),CDK7,0.15471971
+Epithelial cell (squamous),CDK7,0.15192112
+Myofibroblast,CDK7,0.14902234
+Epithelial cell (luminal),CDK7,0.14531508
+ICCs,CDK7,0.13873051
+Myocyte (cardiac),CDK7,0.13375337
+Neuroendocrine,CDK7,0.1329239
+Epithelial cell (Hillock),CDK7,0.1326268
+Immune (B cell),CDK7,0.13117497
+Sweat gland cell,CDK7,0.13036852
+Satellite cell,CDK7,0.13029607
+Immune (NK cell),CDK7,0.124160916
+Myocyte (smooth muscle),CDK7,0.116047405
+Immune (mast cell),CDK7,0.10322649
+Adipocyte,CDK7,0.10282168
+Immune (T cell),CDK7,0.1017207
+Endothelial cell (vascular),CDK7,0.09969598
+Fibroblast,CDK7,0.097455435
+Immune (DC/macrophage),CDK7,0.09649866
+Schwann cell,CDK7,0.09089
+Immune (DC),CDK7,0.089063294
+Myoepithelial (basal),CDK7,0.088888176
+Myocyte (sk. muscle),CDK7,0.083860226
+Pericyte/SMC,CDK7,0.07780523
+Melanocyte,CDK7,0.07341936
+Endothelial cell (lymphatic),CDK7,0.069819316
+Sebaceous gland cell,CDK7,0.052927192
+"Myocyte (sk. muscle, cytoplasmic)",CDK7,0.04833587
+"Myocyte (cardiac, cytoplasmic)",CDK7,0.028751211

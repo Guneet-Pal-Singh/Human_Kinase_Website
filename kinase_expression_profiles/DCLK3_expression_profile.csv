@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Melanocyte,DCLK3,0.010424126
+Mucous cell,DCLK3,0.0062623797
+Immune (alveolar macrophage),DCLK3,0.0037013022
+Schwann cell,DCLK3,0.0036462361
+Pericyte/SMC,DCLK3,0.0035462198
+Epithelial cell (ciliated),DCLK3,0.0030093074
+Epithelial cell (basal keratinocyte),DCLK3,0.0028507179
+Epithelial cell (alveolar type II),DCLK3,0.0017711936
+Adipocyte,DCLK3,0.0017139924
+Epithelial cell (alveolar type I),DCLK3,0.0015186671
+Immune (DC/macrophage),DCLK3,0.0009242826
+Myocyte (sk. muscle),DCLK3,0.0008912827
+Endothelial cell (lymphatic),DCLK3,0.00079468486
+"Myocyte (cardiac, cytoplasmic)",DCLK3,0.000660606
+Endothelial cell (vascular),DCLK3,0.0005046808
+Myocyte (smooth muscle),DCLK3,0.00048233068
+Epithelial cell (basal),DCLK3,0.00047510982
+Fibroblast,DCLK3,0.0003652449
+Epithelial cell (luminal),DCLK3,0.0003638694
+Myocyte (cardiac),DCLK3,0.00014548999
+Epithelial cell (cornified keratinocyte),DCLK3,0.0
+Epithelial cell (Hillock),DCLK3,0.0
+Epithelial cell (club),DCLK3,0.0
+Immune (B cell),DCLK3,0.0
+Epithelial cell (suprabasal keratinocyte),DCLK3,0.0
+Epithelial cell (squamous),DCLK3,0.0
+Epithelial cell (mature keratinocyte),DCLK3,0.0
+Immune (mast cell),DCLK3,0.0
+Immune (T cell),DCLK3,0.0
+Immune (Langerhans),DCLK3,0.0
+Immune (NK cell),DCLK3,0.0
+Immune (DC),DCLK3,0.0
+Epithelial cell (suprabasal),DCLK3,0.0
+ICCs,DCLK3,0.0
+Myocyte (NMJ-rich),DCLK3,0.0
+Myoepithelial (basal),DCLK3,0.0
+"Myocyte (sk. muscle, cytoplasmic)",DCLK3,0.0
+Neuroendocrine,DCLK3,0.0
+Myofibroblast,DCLK3,0.0
+Neuronal,DCLK3,0.0
+Satellite cell,DCLK3,0.0
+Sebaceous gland cell,DCLK3,0.0
+Sweat gland cell,DCLK3,0.0

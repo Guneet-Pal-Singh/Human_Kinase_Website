@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (ciliated),ANKK1,0.049651656
+Myoepithelial (basal),ANKK1,0.03556498
+Epithelial cell (Hillock),ANKK1,0.016225103
+Myocyte (sk. muscle),ANKK1,0.012487975
+Epithelial cell (basal keratinocyte),ANKK1,0.010845291
+Epithelial cell (basal),ANKK1,0.009139897
+Epithelial cell (luminal),ANKK1,0.008771056
+Epithelial cell (club),ANKK1,0.0071427864
+Mucous cell,ANKK1,0.005913355
+Epithelial cell (suprabasal),ANKK1,0.0048381775
+Epithelial cell (squamous),ANKK1,0.0046333317
+Epithelial cell (alveolar type II),ANKK1,0.00448075
+Immune (T cell),ANKK1,0.003577958
+Epithelial cell (alveolar type I),ANKK1,0.003544161
+Endothelial cell (lymphatic),ANKK1,0.0033947239
+Immune (alveolar macrophage),ANKK1,0.003107473
+Pericyte/SMC,ANKK1,0.0026627562
+Adipocyte,ANKK1,0.0023987107
+Endothelial cell (vascular),ANKK1,0.0020415366
+Myofibroblast,ANKK1,0.0017194895
+Fibroblast,ANKK1,0.0012104219
+Myocyte (smooth muscle),ANKK1,0.001131546
+Immune (DC/macrophage),ANKK1,0.00049333385
+Myocyte (cardiac),ANKK1,0.000438833
+Epithelial cell (cornified keratinocyte),ANKK1,0.0
+Immune (B cell),ANKK1,0.0
+Epithelial cell (suprabasal keratinocyte),ANKK1,0.0
+Melanocyte,ANKK1,0.0
+Immune (mast cell),ANKK1,0.0
+Immune (Langerhans),ANKK1,0.0
+Immune (NK cell),ANKK1,0.0
+Immune (DC),ANKK1,0.0
+Epithelial cell (mature keratinocyte),ANKK1,0.0
+ICCs,ANKK1,0.0
+Myocyte (NMJ-rich),ANKK1,0.0
+"Myocyte (sk. muscle, cytoplasmic)",ANKK1,0.0
+"Myocyte (cardiac, cytoplasmic)",ANKK1,0.0
+Neuroendocrine,ANKK1,0.0
+Neuronal,ANKK1,0.0
+Satellite cell,ANKK1,0.0
+Schwann cell,ANKK1,0.0
+Sebaceous gland cell,ANKK1,0.0
+Sweat gland cell,ANKK1,0.0

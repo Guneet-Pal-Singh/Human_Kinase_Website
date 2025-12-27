@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Myocyte (smooth muscle),MYLK,1.4431242
+Myofibroblast,MYLK,1.1858938
+Myoepithelial (basal),MYLK,1.0138469
+Sebaceous gland cell,MYLK,1.0058131
+Pericyte/SMC,MYLK,0.5222791
+Epithelial cell (ciliated),MYLK,0.20947984
+Adipocyte,MYLK,0.16116665
+Immune (mast cell),MYLK,0.15744995
+Epithelial cell (alveolar type II),MYLK,0.14870217
+ICCs,MYLK,0.13813865
+Fibroblast,MYLK,0.13322218
+Neuroendocrine,MYLK,0.12629957
+Immune (alveolar macrophage),MYLK,0.10144949
+Schwann cell,MYLK,0.09989948
+Satellite cell,MYLK,0.078202285
+Endothelial cell (vascular),MYLK,0.075772256
+Epithelial cell (basal),MYLK,0.071605735
+Sweat gland cell,MYLK,0.062122412
+Epithelial cell (luminal),MYLK,0.060224082
+Epithelial cell (alveolar type I),MYLK,0.058101743
+Myocyte (cardiac),MYLK,0.05700444
+"Myocyte (sk. muscle, cytoplasmic)",MYLK,0.0544248
+Myocyte (sk. muscle),MYLK,0.050188433
+Myocyte (NMJ-rich),MYLK,0.046014722
+"Myocyte (cardiac, cytoplasmic)",MYLK,0.0452459
+Immune (DC/macrophage),MYLK,0.031469006
+Endothelial cell (lymphatic),MYLK,0.029042
+Epithelial cell (club),MYLK,0.028192569
+Melanocyte,MYLK,0.026748503
+Epithelial cell (squamous),MYLK,0.022871504
+Epithelial cell (mature keratinocyte),MYLK,0.021671332
+Epithelial cell (suprabasal keratinocyte),MYLK,0.016641859
+Immune (NK cell),MYLK,0.016132247
+Immune (T cell),MYLK,0.011138515
+Epithelial cell (Hillock),MYLK,0.009449358
+Epithelial cell (suprabasal),MYLK,0.0041402113
+Mucous cell,MYLK,0.0035139662
+Epithelial cell (basal keratinocyte),MYLK,0.002064378
+Epithelial cell (cornified keratinocyte),MYLK,0.0
+Immune (DC),MYLK,0.0
+Immune (Langerhans),MYLK,0.0
+Immune (B cell),MYLK,0.0
+Neuronal,MYLK,0.0

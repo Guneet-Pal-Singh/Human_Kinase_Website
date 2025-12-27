@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+lung,Immune (myeloid),PAPSS1,1.2486137,17.740613215281194
+breast,Adipocyte,PAPSS1,1.2307693,16.240772288472456
+heart,Adipocyte,PAPSS1,1.2666667,15.544041450777202
+prostate,Epithelial cell,PAPSS1,1.285131,12.737832098123349
+prostate,Immune (myeloid),PAPSS1,1.1328125,12.45136186770428
+esophagusmuscularis,Neuron,PAPSS1,1.3333334,12.0
+esophagusmucosa,Epithelial cell,PAPSS1,1.1596588,11.894752102058566
+skin,Adipocyte,PAPSS1,1.2857143,11.29032258064516
+heart,Immune (myeloid),PAPSS1,1.1160991,10.095327394905452
+skeletalmuscle,Adipocyte,PAPSS1,1.25,10.062893081761008
+lung,Epithelial cell,PAPSS1,1.210091,10.04361370716511
+esophagusmucosa,Stromal,PAPSS1,1.1511627,8.695652173913043
+esophagusmucosa,Immune (myeloid),PAPSS1,1.1355932,8.44062947067239
+prostate,Muscle,PAPSS1,1.2215909,7.846633972358448
+prostate,Fibroblast,PAPSS1,1.1573033,7.793345008756567
+esophagusmucosa,Glia,PAPSS1,1.0,7.6923076923076925
+prostate,Glia,PAPSS1,1.4,7.462686567164178
+breast,Immune (myeloid),PAPSS1,1.1153846,7.262569832402235
+breast,Epithelial cell,PAPSS1,1.119904,7.19089498189343
+esophagusmucosa,Fibroblast,PAPSS1,1.0773196,6.891651865008881
+heart,Muscle,PAPSS1,1.0905511,6.31631299734748
+heart,Fibroblast,PAPSS1,1.0890411,6.28836007322063
+skin,Epithelial cell,PAPSS1,1.1621622,6.146179401993355
+skin,Immune (myeloid),PAPSS1,1.0909091,6.145251396648044
+prostate,Endothelial cell,PAPSS1,1.0930233,6.086341118188252
+esophagusmuscularis,Immune (myeloid),PAPSS1,1.0654762,5.669929125885926
+esophagusmucosa,Endothelial cell,PAPSS1,1.1111112,5.3869174861051725
+heart,Glia,PAPSS1,1.0625,5.369127516778524
+skin,Immune (lymphocyte),PAPSS1,1.0,5.333333333333334
+esophagusmuscularis,Immune (lymphocyte),PAPSS1,1.0,4.983388704318937
+skin,Epithelial cell (keratinocyte),PAPSS1,1.0520834,4.930662557781202
+skin,Other,PAPSS1,1.2272727,4.867256637168142
+esophagusmucosa,Muscle,PAPSS1,1.0833334,4.790419161676647
+heart,Endothelial cell,PAPSS1,1.0779945,4.702030124426981
+esophagusmuscularis,Adipocyte,PAPSS1,1.0,4.571428571428571
+esophagusmuscularis,Glia,PAPSS1,1.0,4.536082474226804
+skeletalmuscle,Immune (myeloid),PAPSS1,1.0909091,4.477611940298507
+esophagusmuscularis,Endothelial cell,PAPSS1,1.0923913,4.124635731898677
+breast,Muscle,PAPSS1,1.0,3.947368421052632
+lung,Immune (lymphocyte),PAPSS1,1.0,3.8620689655172415
+skin,Muscle,PAPSS1,1.0,3.763440860215054
+lung,Fibroblast,PAPSS1,1.0363636,3.7262872628726287
+lung,Muscle,PAPSS1,1.0,3.6809815950920246
+breast,Endothelial cell,PAPSS1,1.03125,3.632236095346197
+esophagusmucosa,Immune (lymphocyte),PAPSS1,1.0625,3.52035203520352
+skin,Melanocyte,PAPSS1,1.1111112,3.308823529411765
+heart,Immune (lymphocyte),PAPSS1,1.0,3.29512893982808
+lung,Endothelial cell,PAPSS1,1.0379747,2.876911871813547
+skeletalmuscle,Glia,PAPSS1,1.0,2.857142857142857
+skeletalmuscle,Endothelial cell,PAPSS1,1.0294118,2.5544703230653645
+prostate,Immune (lymphocyte),PAPSS1,1.0,2.49266862170088
+esophagusmuscularis,Muscle,PAPSS1,1.0563381,2.3875176541798373
+skin,Fibroblast,PAPSS1,1.25,2.2684310018903595
+breast,Fibroblast,PAPSS1,1.1111112,2.197802197802198
+skin,Endothelial cell,PAPSS1,1.0454545,2.1505376344086025
+skeletalmuscle,Fibroblast,PAPSS1,1.0578512,2.0356662180349936
+esophagusmuscularis,Fibroblast,PAPSS1,1.04375,1.537131328657892
+skeletalmuscle,Muscle,PAPSS1,1.051282,0.863940454565593
+skeletalmuscle,Immune (lymphocyte),PAPSS1,0.0,0.0

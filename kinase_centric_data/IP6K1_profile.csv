@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+prostate,Glia,IP6K1,1.0,16.417910447761194
+esophagusmucosa,Stromal,IP6K1,1.2111801,16.27906976744186
+esophagusmucosa,Epithelial cell,IP6K1,1.1907707,15.236300376920846
+heart,Muscle,IP6K1,1.2098109,14.025198938992045
+lung,Epithelial cell,IP6K1,1.1344615,13.499480789200415
+skin,Endothelial cell,IP6K1,1.1221374,12.805474095796676
+breast,Immune (myeloid),IP6K1,1.0454545,12.290502793296088
+esophagusmucosa,Immune (lymphocyte),IP6K1,1.0904977,12.156215621562156
+esophagusmuscularis,Neuron,IP6K1,1.0,12.0
+heart,Fibroblast,IP6K1,1.1327273,11.844513836545708
+skin,Melanocyte,IP6K1,1.1875,11.76470588235294
+esophagusmucosa,Endothelial cell,IP6K1,1.1428572,11.671654553227876
+esophagusmuscularis,Adipocyte,IP6K1,1.1,11.428571428571429
+lung,Immune (myeloid),IP6K1,1.1321839,11.411706837186424
+esophagusmucosa,Immune (myeloid),IP6K1,1.0828025,11.23032904148784
+prostate,Epithelial cell,IP6K1,1.1413428,11.038876609023534
+heart,Adipocyte,IP6K1,1.1904762,10.88082901554404
+prostate,Muscle,IP6K1,1.1244813,10.744538564422648
+skin,Other,IP6K1,1.1489362,10.398230088495575
+skin,Epithelial cell (keratinocyte),IP6K1,1.1666666,10.16949152542373
+esophagusmuscularis,Muscle,IP6K1,1.1180041,9.973770932813236
+skin,Muscle,IP6K1,1.0555556,9.67741935483871
+heart,Immune (myeloid),IP6K1,1.0765392,9.392092514455385
+esophagusmucosa,Fibroblast,IP6K1,1.1190476,8.952042628774423
+esophagusmuscularis,Immune (lymphocyte),IP6K1,1.1538461,8.637873754152823
+prostate,Immune (myeloid),IP6K1,1.1494253,8.463035019455253
+esophagusmuscularis,Endothelial cell,IP6K1,1.1196809,8.428603452140775
+skin,Immune (myeloid),IP6K1,1.1333333,8.379888268156424
+heart,Endothelial cell,IP6K1,1.0987461,8.356254092992796
+esophagusmuscularis,Glia,IP6K1,1.1234568,8.350515463917525
+esophagusmucosa,Muscle,IP6K1,1.1707317,8.183632734530939
+esophagusmuscularis,Immune (myeloid),IP6K1,1.0878661,8.066149173135335
+lung,Immune (lymphocyte),IP6K1,1.0689656,8.0
+skin,Immune (lymphocyte),IP6K1,1.5,8.0
+breast,Muscle,IP6K1,1.25,7.894736842105263
+breast,Endothelial cell,IP6K1,1.057971,7.832009080590238
+breast,Fibroblast,IP6K1,1.046875,7.814407814407814
+prostate,Immune (lymphocyte),IP6K1,1.0943396,7.771260997067449
+esophagusmucosa,Glia,IP6K1,1.0,7.6923076923076925
+breast,Epithelial cell,IP6K1,1.1011236,7.673736851181238
+breast,Adipocyte,IP6K1,1.1343284,7.609312890403181
+esophagusmuscularis,Fibroblast,IP6K1,1.0991106,7.560764722836007
+prostate,Endothelial cell,IP6K1,1.1462264,7.501769285208776
+skeletalmuscle,Muscle,IP6K1,1.1016847,7.363430951220592
+lung,Muscle,IP6K1,1.0833334,7.361963190184049
+heart,Glia,IP6K1,1.0,6.711409395973154
+prostate,Fibroblast,IP6K1,1.0945946,6.47985989492119
+heart,Immune (lymphocyte),IP6K1,1.0666667,6.446991404011461
+lung,Fibroblast,IP6K1,1.0526316,6.436314363143632
+skeletalmuscle,Fibroblast,IP6K1,1.0648967,5.703230148048452
+skeletalmuscle,Immune (myeloid),IP6K1,1.0714285,5.698778833107191
+lung,Endothelial cell,IP6K1,1.0592105,5.535324107793153
+skeletalmuscle,Immune (lymphocyte),IP6K1,1.0,5.0
+skin,Epithelial cell,IP6K1,1.074074,4.485049833887043
+skeletalmuscle,Endothelial cell,IP6K1,1.0508474,4.432757325319309
+skin,Fibroblast,IP6K1,1.0952381,3.969754253308128
+skeletalmuscle,Adipocyte,IP6K1,1.1666666,3.7735849056603774
+skin,Adipocyte,IP6K1,1.0,3.225806451612903
+skeletalmuscle,Glia,IP6K1,2.0,2.857142857142857

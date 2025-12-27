@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Adipocyte,CDKL3,1.12,14.285714285714285
+heart,Muscle,CDKL3,1.1710438,12.309350132625994
+prostate,Glia,CDKL3,1.1428572,10.44776119402985
+skeletalmuscle,Muscle,CDKL3,1.1584158,10.291967569004475
+esophagusmucosa,Stromal,CDKL3,1.1397849,9.403437815975732
+skin,Muscle,CDKL3,1.0588236,9.13978494623656
+heart,Adipocyte,CDKL3,1.1764706,8.808290155440414
+prostate,Muscle,CDKL3,1.1157895,8.470798038341506
+esophagusmuscularis,Neuron,CDKL3,1.5,8.0
+lung,Epithelial cell,CDKL3,1.1026908,7.563862928348909
+lung,Immune (myeloid),CDKL3,1.1052631,7.476635514018691
+lung,Fibroblast,CDKL3,1.1111112,6.707317073170732
+breast,Adipocyte,CDKL3,1.0458716,6.189664963089154
+prostate,Epithelial cell,CDKL3,1.0795621,5.937676071598839
+esophagusmuscularis,Muscle,CDKL3,1.072,5.884726612415092
+esophagusmuscularis,Glia,CDKL3,1.0892857,5.77319587628866
+heart,Fibroblast,CDKL3,1.064394,5.685366641541941
+skeletalmuscle,Adipocyte,CDKL3,1.0,5.660377358490567
+lung,Muscle,CDKL3,1.0,5.521472392638037
+prostate,Fibroblast,CDKL3,1.1612903,5.42907180385289
+esophagusmucosa,Muscle,CDKL3,1.1153846,5.189620758483033
+skin,Melanocyte,CDKL3,1.0,4.779411764705882
+esophagusmucosa,Epithelial cell,CDKL3,1.0616332,4.704262104957959
+heart,Glia,CDKL3,1.1428572,4.697986577181208
+breast,Epithelial cell,CDKL3,1.0820895,4.621486463183308
+lung,Endothelial cell,CDKL3,1.04,4.552075746540423
+esophagusmuscularis,Fibroblast,CDKL3,1.0549682,4.544144490344894
+esophagusmucosa,Fibroblast,CDKL3,1.048387,4.404973357015986
+skin,Epithelial cell (keratinocyte),CDKL3,1.0365853,4.21160760143811
+skin,Immune (myeloid),CDKL3,1.1428572,3.910614525139665
+skeletalmuscle,Fibroblast,CDKL3,1.0614035,3.835800807537012
+skin,Other,CDKL3,1.1764706,3.761061946902655
+prostate,Immune (myeloid),CDKL3,1.0526316,3.696498054474709
+esophagusmucosa,Immune (myeloid),CDKL3,1.0612245,3.5050071530758222
+heart,Endothelial cell,CDKL3,1.0636704,3.4970530451866404
+esophagusmuscularis,Immune (myeloid),CDKL3,1.0306122,3.3074586567667903
+esophagusmucosa,Endothelial cell,CDKL3,1.0588236,3.2706284737067124
+skeletalmuscle,Immune (myeloid),CDKL3,1.125,3.2564450474898234
+heart,Immune (myeloid),CDKL3,1.0724638,3.234880450070324
+skin,Endothelial cell,CDKL3,1.0909091,3.225806451612903
+prostate,Endothelial cell,CDKL3,1.0549451,3.220099079971692
+esophagusmucosa,Glia,CDKL3,1.0,3.076923076923077
+breast,Immune (myeloid),CDKL3,1.0,3.072625698324022
+skin,Fibroblast,CDKL3,1.0625,3.0245746691871456
+skin,Epithelial cell,CDKL3,1.0555556,2.990033222591362
+esophagusmuscularis,Immune (lymphocyte),CDKL3,1.0,2.990033222591362
+skeletalmuscle,Glia,CDKL3,1.0,2.857142857142857
+breast,Endothelial cell,CDKL3,1.04,2.837684449489217
+esophagusmuscularis,Endothelial cell,CDKL3,1.0916667,2.6899798251513114
+breast,Fibroblast,CDKL3,1.0454545,2.6862026862026864
+breast,Muscle,CDKL3,1.0,2.631578947368421
+skeletalmuscle,Endothelial cell,CDKL3,1.2,2.629601803155522
+heart,Immune (lymphocyte),CDKL3,1.0,2.4355300859598854
+esophagusmucosa,Immune (lymphocyte),CDKL3,1.0714285,2.31023102310231
+prostate,Immune (lymphocyte),CDKL3,1.0,2.0527859237536656
+skin,Adipocyte,CDKL3,1.0,1.6129032258064515
+lung,Immune (lymphocyte),CDKL3,1.125,1.103448275862069
+skeletalmuscle,Immune (lymphocyte),CDKL3,1.0,1.0
+skin,Immune (lymphocyte),CDKL3,0.0,0.0

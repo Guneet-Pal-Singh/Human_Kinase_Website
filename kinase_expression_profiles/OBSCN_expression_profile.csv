@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Myocyte (sk. muscle),OBSCN,1.5521507
+"Myocyte (sk. muscle, cytoplasmic)",OBSCN,1.4216003
+Myocyte (cardiac),OBSCN,1.3942122
+ICCs,OBSCN,1.2083204
+Myocyte (NMJ-rich),OBSCN,1.0591997
+"Myocyte (cardiac, cytoplasmic)",OBSCN,0.8630758
+Epithelial cell (basal),OBSCN,0.39904973
+Myoepithelial (basal),OBSCN,0.36712316
+Epithelial cell (Hillock),OBSCN,0.33217743
+Mucous cell,OBSCN,0.25879645
+Sebaceous gland cell,OBSCN,0.23780411
+Neuroendocrine,OBSCN,0.2277659
+Myofibroblast,OBSCN,0.22433177
+Epithelial cell (suprabasal),OBSCN,0.21740603
+Endothelial cell (lymphatic),OBSCN,0.19134301
+Epithelial cell (club),OBSCN,0.18020754
+Epithelial cell (basal keratinocyte),OBSCN,0.17677458
+Neuronal,OBSCN,0.16259493
+Epithelial cell (suprabasal keratinocyte),OBSCN,0.14936927
+Epithelial cell (luminal),OBSCN,0.13030158
+Epithelial cell (alveolar type I),OBSCN,0.110972285
+Pericyte/SMC,OBSCN,0.11042611
+Immune (T cell),OBSCN,0.098988324
+Satellite cell,OBSCN,0.09861847
+Immune (B cell),OBSCN,0.09362195
+Epithelial cell (squamous),OBSCN,0.089415886
+Epithelial cell (alveolar type II),OBSCN,0.089322455
+Immune (DC),OBSCN,0.084515
+Immune (mast cell),OBSCN,0.082611665
+Fibroblast,OBSCN,0.067089655
+Sweat gland cell,OBSCN,0.06614422
+Myocyte (smooth muscle),OBSCN,0.06349465
+Schwann cell,OBSCN,0.063156076
+Immune (NK cell),OBSCN,0.06224942
+Endothelial cell (vascular),OBSCN,0.058658835
+Epithelial cell (ciliated),OBSCN,0.051687397
+Melanocyte,OBSCN,0.050992146
+Epithelial cell (cornified keratinocyte),OBSCN,0.048452783
+Epithelial cell (mature keratinocyte),OBSCN,0.04612483
+Adipocyte,OBSCN,0.045249734
+Immune (alveolar macrophage),OBSCN,0.04390139
+Immune (DC/macrophage),OBSCN,0.033226207
+Immune (Langerhans),OBSCN,0.0

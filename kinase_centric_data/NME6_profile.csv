@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Neuron,NME6,1.0,4.0
+esophagusmuscularis,Adipocyte,NME6,1.0,2.2857142857142856
+heart,Muscle,NME6,1.0257732,1.6080901856763925
+esophagusmucosa,Epithelial cell,NME6,1.0251256,1.4424470861119163
+breast,Immune (myeloid),NME6,1.0,1.3966480446927374
+prostate,Muscle,NME6,1.0645162,1.3820775746767722
+esophagusmuscularis,Immune (lymphocyte),NME6,1.0,1.32890365448505
+prostate,Epithelial cell,NME6,1.0185186,1.170198933818749
+esophagusmuscularis,Muscle,NME6,1.0179641,1.1231421077409376
+lung,Immune (myeloid),NME6,1.0147059,1.114936874897524
+lung,Epithelial cell,NME6,1.0076923,1.0799584631360333
+heart,Adipocyte,NME6,1.0,1.0362694300518136
+esophagusmucosa,Stromal,NME6,1.0,1.0111223458038423
+esophagusmucosa,Immune (myeloid),NME6,1.0,1.0014306151645207
+skeletalmuscle,Immune (lymphocyte),NME6,1.0,1.0
+heart,Fibroblast,NME6,1.0,0.9798643264778722
+skeletalmuscle,Fibroblast,NME6,1.0,0.9421265141318976
+breast,Fibroblast,NME6,1.0,0.8547008547008548
+breast,Adipocyte,NME6,1.0,0.8517887563884157
+breast,Epithelial cell,NME6,1.0425532,0.8104845663045352
+heart,Immune (myeloid),NME6,1.0,0.7969995311767463
+lung,Endothelial cell,NME6,1.0476191,0.764748725418791
+lung,Fibroblast,NME6,1.0,0.7452574525745257
+prostate,Immune (myeloid),NME6,1.0,0.6809338521400778
+skin,Other,NME6,1.0,0.6637168141592921
+esophagusmucosa,Immune (lymphocyte),NME6,1.0,0.6600660066006601
+breast,Muscle,NME6,1.0,0.6578947368421052
+esophagusmucosa,Fibroblast,NME6,1.0,0.6394316163410302
+prostate,Endothelial cell,NME6,1.0,0.6369426751592357
+esophagusmuscularis,Fibroblast,NME6,1.0,0.6340666730713805
+esophagusmuscularis,Immune (myeloid),NME6,1.0,0.5737428282146473
+skin,Fibroblast,NME6,1.0,0.5671077504725899
+skin,Muscle,NME6,1.0,0.5376344086021506
+heart,Endothelial cell,NME6,1.0243902,0.5370006548788474
+prostate,Fibroblast,NME6,1.0,0.5253940455341506
+esophagusmuscularis,Glia,NME6,1.0,0.5154639175257731
+esophagusmucosa,Endothelial cell,NME6,1.0,0.5130397605814451
+skin,Endothelial cell,NME6,1.0,0.4887585532746823
+esophagusmuscularis,Endothelial cell,NME6,1.0,0.4707464694014795
+lung,Immune (lymphocyte),NME6,1.0,0.4137931034482758
+skin,Epithelial cell (keratinocyte),NME6,1.0,0.4108885464817668
+skeletalmuscle,Immune (myeloid),NME6,1.0,0.4070556309362279
+esophagusmucosa,Muscle,NME6,1.0,0.3992015968063871
+breast,Endothelial cell,NME6,1.0,0.340522133938706
+skeletalmuscle,Muscle,NME6,1.0,0.3367152540871029
+skin,Epithelial cell,NME6,1.0,0.3322259136212624
+skeletalmuscle,Endothelial cell,NME6,1.0,0.3005259203606311
+prostate,Immune (lymphocyte),NME6,1.0,0.2932551319648094
+heart,Immune (lymphocyte),NME6,1.0,0.2865329512893982
+heart,Glia,NME6,0.0,0.0
+esophagusmucosa,Glia,NME6,0.0,0.0
+skeletalmuscle,Adipocyte,NME6,0.0,0.0
+prostate,Glia,NME6,0.0,0.0
+lung,Muscle,NME6,0.0,0.0
+skeletalmuscle,Glia,NME6,0.0,0.0
+skin,Adipocyte,NME6,0.0,0.0
+skin,Immune (lymphocyte),NME6,0.0,0.0
+skin,Melanocyte,NME6,0.0,0.0
+skin,Immune (myeloid),NME6,0.0,0.0

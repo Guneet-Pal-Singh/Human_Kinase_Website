@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (ciliated),LMTK3,0.25545293
+Epithelial cell (mature keratinocyte),LMTK3,0.22466223
+Mucous cell,LMTK3,0.22131924
+Myoepithelial (basal),LMTK3,0.21980117
+Epithelial cell (alveolar type I),LMTK3,0.2003844
+Myocyte (NMJ-rich),LMTK3,0.19024095
+Epithelial cell (alveolar type II),LMTK3,0.18178603
+Sweat gland cell,LMTK3,0.16937898
+Epithelial cell (squamous),LMTK3,0.16858827
+Immune (alveolar macrophage),LMTK3,0.16632615
+Sebaceous gland cell,LMTK3,0.16547687
+Immune (Langerhans),LMTK3,0.15399155
+ICCs,LMTK3,0.15147743
+Epithelial cell (Hillock),LMTK3,0.14974914
+Epithelial cell (suprabasal),LMTK3,0.14827904
+Epithelial cell (club),LMTK3,0.14190724
+Epithelial cell (luminal),LMTK3,0.1353885
+Immune (mast cell),LMTK3,0.12463787
+Myocyte (sk. muscle),LMTK3,0.12461673
+Epithelial cell (basal),LMTK3,0.12265567
+Myocyte (smooth muscle),LMTK3,0.10919094
+Neuronal,LMTK3,0.10721548
+Epithelial cell (basal keratinocyte),LMTK3,0.10225511
+Adipocyte,LMTK3,0.09578444
+Epithelial cell (cornified keratinocyte),LMTK3,0.08919344
+Myocyte (cardiac),LMTK3,0.08323779
+Epithelial cell (suprabasal keratinocyte),LMTK3,0.08263992
+Myofibroblast,LMTK3,0.08132739
+Melanocyte,LMTK3,0.078576274
+Schwann cell,LMTK3,0.07747977
+Fibroblast,LMTK3,0.07594164
+Satellite cell,LMTK3,0.069248
+Neuroendocrine,LMTK3,0.06715548
+Endothelial cell (vascular),LMTK3,0.06672958
+Pericyte/SMC,LMTK3,0.06376569
+Endothelial cell (lymphatic),LMTK3,0.059152655
+Immune (B cell),LMTK3,0.05686408
+Immune (T cell),LMTK3,0.056381214
+Immune (DC/macrophage),LMTK3,0.054880504
+Immune (NK cell),LMTK3,0.053206515
+Immune (DC),LMTK3,0.05114288
+"Myocyte (sk. muscle, cytoplasmic)",LMTK3,0.046370666
+"Myocyte (cardiac, cytoplasmic)",LMTK3,0.019272236

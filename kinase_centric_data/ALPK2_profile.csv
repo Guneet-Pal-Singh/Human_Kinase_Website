@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+heart,Muscle,ALPK2,1.781949,32.23640583554377
+skeletalmuscle,Muscle,ALPK2,1.4100363,13.419875060918878
+breast,Fibroblast,ALPK2,1.1538461,3.1746031746031744
+esophagusmucosa,Immune (lymphocyte),ALPK2,1.2,2.7502750275027505
+heart,Adipocyte,ALPK2,1.0,2.5906735751295336
+skin,Melanocyte,ALPK2,2.1666667,2.2058823529411766
+lung,Immune (myeloid),ALPK2,1.0149254,2.1970814887686507
+breast,Immune (myeloid),ALPK2,1.1666666,1.675977653631285
+esophagusmucosa,Stromal,ALPK2,1.0,1.6177957532861478
+skin,Epithelial cell,ALPK2,1.0,1.495016611295681
+lung,Epithelial cell,ALPK2,1.0169972,1.4662512980269988
+esophagusmucosa,Muscle,ALPK2,1.0,1.3972055888223551
+lung,Endothelial cell,ALPK2,1.0,1.347414420975965
+breast,Epithelial cell,ALPK2,1.025974,1.3278151405414726
+lung,Fibroblast,ALPK2,1.0,1.151761517615176
+lung,Immune (lymphocyte),ALPK2,1.0,1.103448275862069
+breast,Adipocyte,ALPK2,1.0,1.0789324247586598
+esophagusmuscularis,Muscle,ALPK2,1.0,1.0491626874705764
+esophagusmuscularis,Endothelial cell,ALPK2,1.0,1.0087424344317415
+esophagusmuscularis,Immune (lymphocyte),ALPK2,1.0,0.9966777408637874
+skeletalmuscle,Endothelial cell,ALPK2,1.1538461,0.9767092411720512
+prostate,Fibroblast,ALPK2,1.0,0.9632224168126094
+skin,Endothelial cell,ALPK2,1.0,0.8797653958944283
+skin,Epithelial cell (keratinocyte),ALPK2,1.0,0.8731381612737544
+esophagusmucosa,Immune (myeloid),ALPK2,2.1666667,0.8583690987124464
+esophagusmuscularis,Glia,ALPK2,1.0,0.8247422680412372
+prostate,Muscle,ALPK2,1.0,0.8024966562639322
+breast,Endothelial cell,ALPK2,1.0,0.7945516458569807
+skin,Fibroblast,ALPK2,1.0,0.7561436672967864
+prostate,Epithelial cell,ALPK2,1.0481927,0.7194556407922681
+prostate,Immune (myeloid),ALPK2,1.0,0.6809338521400778
+breast,Muscle,ALPK2,1.0,0.6578947368421052
+esophagusmuscularis,Immune (myeloid),ALPK2,1.0,0.641241984475194
+esophagusmucosa,Fibroblast,ALPK2,1.1111112,0.6394316163410302
+skeletalmuscle,Fibroblast,ALPK2,1.0571429,0.588829071332436
+esophagusmucosa,Epithelial cell,ALPK2,1.0375,0.5798782255726298
+esophagusmuscularis,Fibroblast,ALPK2,1.101695,0.5668171774425977
+prostate,Endothelial cell,ALPK2,1.0,0.5661712668082095
+heart,Immune (myeloid),ALPK2,1.0277778,0.5625879043600562
+skeletalmuscle,Immune (myeloid),ALPK2,1.0,0.5427408412483039
+skin,Muscle,ALPK2,1.0,0.5376344086021506
+esophagusmucosa,Endothelial cell,ALPK2,1.0454545,0.470286447199658
+heart,Fibroblast,ALPK2,1.0,0.4091741143533972
+heart,Glia,ALPK2,1.0,0.3355704697986577
+heart,Endothelial cell,ALPK2,1.0,0.2881466928618206
+heart,Immune (lymphocyte),ALPK2,1.0,0.2865329512893982
+skin,Other,ALPK2,1.0,0.2212389380530973
+prostate,Immune (lymphocyte),ALPK2,1.0,0.1466275659824047
+esophagusmuscularis,Neuron,ALPK2,0.0,0.0
+esophagusmucosa,Glia,ALPK2,0.0,0.0
+esophagusmuscularis,Adipocyte,ALPK2,0.0,0.0
+skeletalmuscle,Adipocyte,ALPK2,0.0,0.0
+prostate,Glia,ALPK2,0.0,0.0
+lung,Muscle,ALPK2,0.0,0.0
+skeletalmuscle,Glia,ALPK2,0.0,0.0
+skin,Adipocyte,ALPK2,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),ALPK2,0.0,0.0
+skin,Immune (lymphocyte),ALPK2,0.0,0.0
+skin,Immune (myeloid),ALPK2,0.0,0.0

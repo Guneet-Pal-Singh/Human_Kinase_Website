@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+breast,Adipocyte,ROCK2,4.54195,75.12776831345826
+esophagusmuscularis,Adipocyte,ROCK2,3.5966387,68.0
+skeletalmuscle,Adipocyte,ROCK2,2.5185184,50.943396226415096
+heart,Adipocyte,ROCK2,2.0769231,47.15025906735752
+breast,Muscle,ROCK2,1.6461538,42.76315789473684
+lung,Fibroblast,ROCK2,1.663961,41.73441734417344
+skin,Adipocyte,ROCK2,2.52,40.32258064516129
+esophagusmucosa,Muscle,ROCK2,1.3969072,38.72255489021956
+esophagusmucosa,Stromal,ROCK2,1.7044855,38.32153690596562
+lung,Muscle,ROCK2,1.7678572,34.355828220858896
+skin,Muscle,ROCK2,1.5396825,33.87096774193548
+prostate,Muscle,ROCK2,1.6023778,33.74944271065537
+skeletalmuscle,Muscle,ROCK2,1.5217935,31.917061716361705
+skin,Fibroblast,ROCK2,1.5240964,31.379962192816635
+heart,Muscle,ROCK2,1.3767935,26.57493368700265
+prostate,Endothelial cell,ROCK2,1.3296089,25.33616418966737
+prostate,Fibroblast,ROCK2,1.2805755,24.34325744308231
+esophagusmucosa,Endothelial cell,ROCK2,1.221239,21.740059854638734
+esophagusmuscularis,Endothelial cell,ROCK2,1.3249476,21.38533960995293
+lung,Immune (myeloid),ROCK2,1.2444968,20.85587801278898
+prostate,Epithelial cell,ROCK2,1.3045113,20.751527759719156
+skin,Endothelial cell,ROCK2,1.2654028,20.625610948191596
+esophagusmuscularis,Muscle,ROCK2,1.2940384,19.967718071154756
+skeletalmuscle,Fibroblast,ROCK2,1.2815945,19.83512786002692
+skeletalmuscle,Endothelial cell,ROCK2,1.2671756,19.684447783621337
+prostate,Glia,ROCK2,1.0,19.402985074626866
+breast,Endothelial cell,ROCK2,1.3536586,18.615209988649266
+heart,Endothelial cell,ROCK2,1.2394775,18.04846103470858
+lung,Epithelial cell,ROCK2,1.1745739,18.03530633437176
+heart,Fibroblast,ROCK2,1.1971154,17.917519112738237
+esophagusmucosa,Glia,ROCK2,1.3636364,16.923076923076923
+breast,Fibroblast,ROCK2,1.3181819,16.117216117216117
+lung,Endothelial cell,ROCK2,1.1871921,14.785142024763292
+esophagusmucosa,Fibroblast,ROCK2,1.2211539,14.77797513321492
+heart,Immune (myeloid),ROCK2,1.1510957,13.548992030004689
+esophagusmuscularis,Glia,ROCK2,1.1384616,13.402061855670103
+prostate,Immune (myeloid),ROCK2,1.1111112,13.13229571984436
+esophagusmucosa,Epithelial cell,ROCK2,1.2044321,13.083502464482455
+skeletalmuscle,Immune (myeloid),ROCK2,1.1894736,12.890094979647218
+heart,Glia,ROCK2,1.1842105,12.751677852348994
+esophagusmucosa,Immune (myeloid),ROCK2,1.1136364,12.589413447782546
+skin,Immune (myeloid),ROCK2,1.0909091,12.290502793296088
+skin,Epithelial cell,ROCK2,1.2537314,11.129568106312291
+skin,Other,ROCK2,1.2340425,10.398230088495575
+skin,Melanocyte,ROCK2,1.2142857,10.294117647058822
+esophagusmuscularis,Fibroblast,ROCK2,1.1188679,10.183495052358536
+breast,Epithelial cell,ROCK2,1.1832192,10.070701845145717
+esophagusmuscularis,Immune (myeloid),ROCK2,1.1346802,10.023624704691192
+skin,Immune (lymphocyte),ROCK2,1.1428572,9.333333333333334
+esophagusmuscularis,Immune (lymphocyte),ROCK2,1.1153846,8.637873754152823
+esophagusmucosa,Immune (lymphocyte),ROCK2,1.0933334,8.25082508250825
+lung,Immune (lymphocyte),ROCK2,1.0877193,7.862068965517241
+breast,Immune (myeloid),ROCK2,1.0714285,7.82122905027933
+heart,Immune (lymphocyte),ROCK2,1.074074,7.736389684813753
+prostate,Immune (lymphocyte),ROCK2,1.125,7.038123167155426
+skin,Epithelial cell (keratinocyte),ROCK2,1.088,6.4201335387776055
+skeletalmuscle,Glia,ROCK2,1.0,5.714285714285714
+esophagusmuscularis,Neuron,ROCK2,1.0,4.0
+skeletalmuscle,Immune (lymphocyte),ROCK2,1.0,4.0

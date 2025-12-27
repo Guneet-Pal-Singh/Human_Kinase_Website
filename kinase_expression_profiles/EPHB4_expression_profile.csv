@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Endothelial cell (lymphatic),EPHB4,0.50032
+Endothelial cell (vascular),EPHB4,0.33164206
+Epithelial cell (Hillock),EPHB4,0.20859994
+Epithelial cell (basal),EPHB4,0.17911987
+Sweat gland cell,EPHB4,0.15005219
+Epithelial cell (club),EPHB4,0.1193417
+Myofibroblast,EPHB4,0.11653291
+Epithelial cell (suprabasal),EPHB4,0.1076797
+Epithelial cell (suprabasal keratinocyte),EPHB4,0.10574421
+Epithelial cell (luminal),EPHB4,0.10371121
+Epithelial cell (cornified keratinocyte),EPHB4,0.100344084
+Mucous cell,EPHB4,0.09069024
+Epithelial cell (basal keratinocyte),EPHB4,0.079562746
+Myocyte (smooth muscle),EPHB4,0.070647866
+Epithelial cell (alveolar type II),EPHB4,0.068608716
+Epithelial cell (squamous),EPHB4,0.059445135
+Myoepithelial (basal),EPHB4,0.054686118
+Epithelial cell (ciliated),EPHB4,0.054455936
+Immune (DC),EPHB4,0.049224053
+Immune (mast cell),EPHB4,0.04660464
+Pericyte/SMC,EPHB4,0.040052548
+Epithelial cell (mature keratinocyte),EPHB4,0.039248068
+Immune (alveolar macrophage),EPHB4,0.038096294
+Melanocyte,EPHB4,0.035260737
+Myocyte (NMJ-rich),EPHB4,0.034648363
+"Myocyte (cardiac, cytoplasmic)",EPHB4,0.03426197
+Schwann cell,EPHB4,0.033729143
+Epithelial cell (alveolar type I),EPHB4,0.028694903
+Sebaceous gland cell,EPHB4,0.01884351
+Fibroblast,EPHB4,0.018691912
+Immune (T cell),EPHB4,0.017499814
+Satellite cell,EPHB4,0.016919117
+Immune (B cell),EPHB4,0.014175793
+Myocyte (cardiac),EPHB4,0.012498375
+"Myocyte (sk. muscle, cytoplasmic)",EPHB4,0.012088438
+Immune (DC/macrophage),EPHB4,0.010675099
+Adipocyte,EPHB4,0.004286656
+Myocyte (sk. muscle),EPHB4,0.003896504
+ICCs,EPHB4,0.0
+Immune (Langerhans),EPHB4,0.0
+Immune (NK cell),EPHB4,0.0
+Neuronal,EPHB4,0.0
+Neuroendocrine,EPHB4,0.0

@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Myocyte (cardiac),BMPR1A,0.99025637
+ICCs,BMPR1A,0.88019913
+Myofibroblast,BMPR1A,0.85670704
+Epithelial cell (alveolar type I),BMPR1A,0.8007247
+Mucous cell,BMPR1A,0.79662824
+Myocyte (smooth muscle),BMPR1A,0.7877908
+Epithelial cell (club),BMPR1A,0.7666209
+Epithelial cell (luminal),BMPR1A,0.7056788
+Epithelial cell (ciliated),BMPR1A,0.6979253
+Immune (mast cell),BMPR1A,0.63293976
+Pericyte/SMC,BMPR1A,0.6233133
+Adipocyte,BMPR1A,0.6206089
+Sebaceous gland cell,BMPR1A,0.59970266
+Epithelial cell (Hillock),BMPR1A,0.5725152
+Epithelial cell (alveolar type II),BMPR1A,0.5627492
+Myocyte (sk. muscle),BMPR1A,0.55006284
+Myocyte (NMJ-rich),BMPR1A,0.5403393
+Epithelial cell (basal),BMPR1A,0.5194436
+Neuroendocrine,BMPR1A,0.5088053
+Myoepithelial (basal),BMPR1A,0.4937427
+Fibroblast,BMPR1A,0.49192986
+Epithelial cell (suprabasal),BMPR1A,0.46253362
+Melanocyte,BMPR1A,0.46065524
+Satellite cell,BMPR1A,0.45156708
+Schwann cell,BMPR1A,0.42575172
+Sweat gland cell,BMPR1A,0.4107144
+Neuronal,BMPR1A,0.39947093
+Immune (alveolar macrophage),BMPR1A,0.37002656
+Epithelial cell (mature keratinocyte),BMPR1A,0.3697508
+Epithelial cell (basal keratinocyte),BMPR1A,0.3428621
+Immune (NK cell),BMPR1A,0.2867051
+Immune (T cell),BMPR1A,0.27541095
+Epithelial cell (suprabasal keratinocyte),BMPR1A,0.27433577
+Epithelial cell (cornified keratinocyte),BMPR1A,0.23381859
+"Myocyte (cardiac, cytoplasmic)",BMPR1A,0.22423902
+Immune (DC/macrophage),BMPR1A,0.21429022
+Epithelial cell (squamous),BMPR1A,0.18404359
+"Myocyte (sk. muscle, cytoplasmic)",BMPR1A,0.1652588
+Immune (B cell),BMPR1A,0.15539312
+Immune (DC),BMPR1A,0.12100318
+Endothelial cell (vascular),BMPR1A,0.11048618
+Endothelial cell (lymphatic),BMPR1A,0.055972643
+Immune (Langerhans),BMPR1A,0.040927958

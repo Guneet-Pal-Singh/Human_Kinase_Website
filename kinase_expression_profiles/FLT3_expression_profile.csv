@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (DC),FLT3,0.928915
+Immune (Langerhans),FLT3,0.7063205
+Adipocyte,FLT3,0.52928007
+Immune (DC/macrophage),FLT3,0.370618
+Epithelial cell (cornified keratinocyte),FLT3,0.28538585
+Melanocyte,FLT3,0.25772664
+Immune (alveolar macrophage),FLT3,0.22279815
+Immune (B cell),FLT3,0.2200237
+Neuronal,FLT3,0.20032631
+Myocyte (NMJ-rich),FLT3,0.1761876
+Epithelial cell (alveolar type I),FLT3,0.15954696
+Epithelial cell (ciliated),FLT3,0.14248525
+Epithelial cell (alveolar type II),FLT3,0.13912241
+Myocyte (sk. muscle),FLT3,0.112622604
+Epithelial cell (mature keratinocyte),FLT3,0.10641869
+Sweat gland cell,FLT3,0.09603066
+Immune (mast cell),FLT3,0.0920209
+Myocyte (cardiac),FLT3,0.08467119
+Satellite cell,FLT3,0.075274624
+Endothelial cell (vascular),FLT3,0.072398916
+ICCs,FLT3,0.07049049
+Endothelial cell (lymphatic),FLT3,0.06648128
+Neuroendocrine,FLT3,0.06459872
+Myofibroblast,FLT3,0.062191438
+Myocyte (smooth muscle),FLT3,0.06098563
+Sebaceous gland cell,FLT3,0.060047742
+Mucous cell,FLT3,0.05795488
+Epithelial cell (suprabasal keratinocyte),FLT3,0.05779743
+Pericyte/SMC,FLT3,0.056633085
+Fibroblast,FLT3,0.056326307
+Schwann cell,FLT3,0.05021933
+Immune (T cell),FLT3,0.049153578
+Epithelial cell (suprabasal),FLT3,0.04759274
+Epithelial cell (club),FLT3,0.046687234
+Epithelial cell (basal keratinocyte),FLT3,0.045146395
+Epithelial cell (luminal),FLT3,0.04154018
+"Myocyte (sk. muscle, cytoplasmic)",FLT3,0.03943919
+Immune (NK cell),FLT3,0.03815207
+Epithelial cell (squamous),FLT3,0.03476572
+Epithelial cell (basal),FLT3,0.033609014
+Epithelial cell (Hillock),FLT3,0.027928768
+"Myocyte (cardiac, cytoplasmic)",FLT3,0.022518177
+Myoepithelial (basal),FLT3,0.012763136

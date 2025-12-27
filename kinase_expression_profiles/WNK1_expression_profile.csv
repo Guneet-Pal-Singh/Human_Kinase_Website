@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (mature keratinocyte),WNK1,1.2764491
+Epithelial cell (cornified keratinocyte),WNK1,1.2129072
+Epithelial cell (suprabasal keratinocyte),WNK1,1.1327705
+Epithelial cell (basal keratinocyte),WNK1,1.1271079
+Epithelial cell (suprabasal),WNK1,1.0875418
+Epithelial cell (alveolar type I),WNK1,1.087188
+Epithelial cell (squamous),WNK1,1.0677955
+Myocyte (cardiac),WNK1,1.05272
+Endothelial cell (vascular),WNK1,1.0412674
+"Myocyte (cardiac, cytoplasmic)",WNK1,1.0367585
+Immune (T cell),WNK1,1.0207347
+Epithelial cell (alveolar type II),WNK1,0.926218
+Immune (Langerhans),WNK1,0.86694723
+Neuroendocrine,WNK1,0.8654594
+Immune (DC),WNK1,0.8502805
+Neuronal,WNK1,0.846681
+Sebaceous gland cell,WNK1,0.8325937
+Endothelial cell (lymphatic),WNK1,0.8033416
+Immune (alveolar macrophage),WNK1,0.7741509
+Epithelial cell (basal),WNK1,0.773468
+Myocyte (NMJ-rich),WNK1,0.76500314
+Myocyte (sk. muscle),WNK1,0.7520715
+Myofibroblast,WNK1,0.71494263
+Immune (DC/macrophage),WNK1,0.6969809
+Adipocyte,WNK1,0.6483701
+Epithelial cell (Hillock),WNK1,0.64835334
+Immune (NK cell),WNK1,0.6465877
+Epithelial cell (ciliated),WNK1,0.6354907
+Mucous cell,WNK1,0.6153834
+Epithelial cell (club),WNK1,0.6130833
+"Myocyte (sk. muscle, cytoplasmic)",WNK1,0.6041771
+Immune (B cell),WNK1,0.59721816
+Epithelial cell (luminal),WNK1,0.506522
+Fibroblast,WNK1,0.4977987
+Myocyte (smooth muscle),WNK1,0.44058713
+ICCs,WNK1,0.4340144
+Schwann cell,WNK1,0.42769817
+Pericyte/SMC,WNK1,0.41302526
+Myoepithelial (basal),WNK1,0.41036856
+Immune (mast cell),WNK1,0.40100852
+Sweat gland cell,WNK1,0.38559783
+Satellite cell,WNK1,0.3817712
+Melanocyte,WNK1,0.3308209

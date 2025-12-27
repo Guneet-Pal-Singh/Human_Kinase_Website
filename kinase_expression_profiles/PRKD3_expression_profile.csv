@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Melanocyte,PRKD3,1.2502146
+Myocyte (sk. muscle),PRKD3,0.7059116
+Epithelial cell (basal keratinocyte),PRKD3,0.5943344
+Immune (B cell),PRKD3,0.5816737
+Immune (Langerhans),PRKD3,0.5779118
+Myocyte (NMJ-rich),PRKD3,0.5600907
+Endothelial cell (vascular),PRKD3,0.49917704
+Immune (NK cell),PRKD3,0.4733561
+Epithelial cell (cornified keratinocyte),PRKD3,0.44218728
+Satellite cell,PRKD3,0.43357018
+Fibroblast,PRKD3,0.40125233
+Mucous cell,PRKD3,0.39643967
+Epithelial cell (alveolar type II),PRKD3,0.3901569
+Immune (DC/macrophage),PRKD3,0.386862
+Epithelial cell (club),PRKD3,0.37630957
+Endothelial cell (lymphatic),PRKD3,0.36961412
+Myofibroblast,PRKD3,0.36841613
+Immune (alveolar macrophage),PRKD3,0.36191446
+"Myocyte (sk. muscle, cytoplasmic)",PRKD3,0.35437882
+ICCs,PRKD3,0.35205624
+Pericyte/SMC,PRKD3,0.34598857
+Epithelial cell (alveolar type I),PRKD3,0.33559808
+Immune (DC),PRKD3,0.32635623
+Epithelial cell (basal),PRKD3,0.32497573
+Epithelial cell (Hillock),PRKD3,0.32405648
+Sweat gland cell,PRKD3,0.31875572
+Schwann cell,PRKD3,0.31738597
+Myocyte (smooth muscle),PRKD3,0.31050333
+Immune (mast cell),PRKD3,0.30825445
+Myocyte (cardiac),PRKD3,0.30547717
+Epithelial cell (suprabasal keratinocyte),PRKD3,0.30438432
+Epithelial cell (suprabasal),PRKD3,0.30315208
+Immune (T cell),PRKD3,0.28968683
+Adipocyte,PRKD3,0.28073964
+Neuroendocrine,PRKD3,0.21690108
+Epithelial cell (luminal),PRKD3,0.21626213
+Myoepithelial (basal),PRKD3,0.21453641
+Epithelial cell (ciliated),PRKD3,0.18464929
+Sebaceous gland cell,PRKD3,0.108622715
+"Myocyte (cardiac, cytoplasmic)",PRKD3,0.1012321
+Epithelial cell (squamous),PRKD3,0.09889342
+Epithelial cell (mature keratinocyte),PRKD3,0.0980369
+Neuronal,PRKD3,0.0611457

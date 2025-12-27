@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Sebaceous gland cell,NADK,0.61960065
+Adipocyte,NADK,0.44694093
+Immune (DC),NADK,0.21810998
+Myofibroblast,NADK,0.20825148
+Epithelial cell (cornified keratinocyte),NADK,0.1932847
+Immune (alveolar macrophage),NADK,0.18930034
+Fibroblast,NADK,0.17530496
+Epithelial cell (suprabasal),NADK,0.15882307
+Immune (B cell),NADK,0.15881336
+Mucous cell,NADK,0.15450278
+Immune (DC/macrophage),NADK,0.15413329
+Epithelial cell (Hillock),NADK,0.15257575
+Myocyte (smooth muscle),NADK,0.13882487
+Epithelial cell (alveolar type I),NADK,0.13756844
+Epithelial cell (luminal),NADK,0.1372895
+Epithelial cell (alveolar type II),NADK,0.13645595
+Epithelial cell (basal),NADK,0.13424738
+Sweat gland cell,NADK,0.12746131
+Epithelial cell (club),NADK,0.12070443
+Myocyte (cardiac),NADK,0.11839093
+Pericyte/SMC,NADK,0.1154425
+Endothelial cell (vascular),NADK,0.113531545
+Epithelial cell (suprabasal keratinocyte),NADK,0.11081303
+Epithelial cell (squamous),NADK,0.1078658
+Epithelial cell (ciliated),NADK,0.0979699
+"Myocyte (cardiac, cytoplasmic)",NADK,0.09626412
+Endothelial cell (lymphatic),NADK,0.08702768
+Melanocyte,NADK,0.08312869
+Neuroendocrine,NADK,0.080665484
+Immune (NK cell),NADK,0.080091275
+ICCs,NADK,0.07715995
+Epithelial cell (mature keratinocyte),NADK,0.07249296
+Immune (Langerhans),NADK,0.06648867
+Immune (T cell),NADK,0.057213888
+"Myocyte (sk. muscle, cytoplasmic)",NADK,0.05566622
+Satellite cell,NADK,0.051378567
+Schwann cell,NADK,0.04231549
+Immune (mast cell),NADK,0.027467847
+Myocyte (sk. muscle),NADK,0.026540665
+Epithelial cell (basal keratinocyte),NADK,0.02432554
+Myoepithelial (basal),NADK,0.021404304
+Myocyte (NMJ-rich),NADK,0.0
+Neuronal,NADK,0.0

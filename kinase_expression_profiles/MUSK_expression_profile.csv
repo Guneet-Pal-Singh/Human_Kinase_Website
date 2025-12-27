@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Myocyte (NMJ-rich),MUSK,1.6561263
+Satellite cell,MUSK,1.4612973
+Fibroblast,MUSK,0.5001842
+Schwann cell,MUSK,0.3305121
+Immune (DC),MUSK,0.19311038
+Epithelial cell (club),MUSK,0.16737373
+Myocyte (sk. muscle),MUSK,0.1492004
+Myocyte (cardiac),MUSK,0.12473962
+Immune (alveolar macrophage),MUSK,0.12350795
+Epithelial cell (Hillock),MUSK,0.11461006
+"Myocyte (sk. muscle, cytoplasmic)",MUSK,0.096191555
+Neuroendocrine,MUSK,0.09433949
+Neuronal,MUSK,0.07688278
+Epithelial cell (basal),MUSK,0.07562882
+Immune (mast cell),MUSK,0.06981538
+Sebaceous gland cell,MUSK,0.055546742
+ICCs,MUSK,0.05244533
+Epithelial cell (cornified keratinocyte),MUSK,0.05168441
+Pericyte/SMC,MUSK,0.049123656
+Epithelial cell (alveolar type II),MUSK,0.048166383
+Sweat gland cell,MUSK,0.047787584
+"Myocyte (cardiac, cytoplasmic)",MUSK,0.04637733
+Myocyte (smooth muscle),MUSK,0.045804147
+Immune (DC/macrophage),MUSK,0.045725673
+Myofibroblast,MUSK,0.043398153
+Endothelial cell (vascular),MUSK,0.042669844
+Epithelial cell (alveolar type I),MUSK,0.041857135
+Melanocyte,MUSK,0.04073904
+Epithelial cell (luminal),MUSK,0.038094953
+Epithelial cell (suprabasal),MUSK,0.037481938
+Adipocyte,MUSK,0.03691342
+Immune (B cell),MUSK,0.029452037
+Endothelial cell (lymphatic),MUSK,0.029423222
+Epithelial cell (ciliated),MUSK,0.028287182
+Immune (NK cell),MUSK,0.027783018
+Epithelial cell (basal keratinocyte),MUSK,0.025986739
+Myoepithelial (basal),MUSK,0.022491425
+Immune (T cell),MUSK,0.02238627
+Epithelial cell (squamous),MUSK,0.015203706
+Epithelial cell (mature keratinocyte),MUSK,0.009645492
+Mucous cell,MUSK,0.0072156875
+Epithelial cell (suprabasal keratinocyte),MUSK,0.00677292
+Immune (Langerhans),MUSK,0.0

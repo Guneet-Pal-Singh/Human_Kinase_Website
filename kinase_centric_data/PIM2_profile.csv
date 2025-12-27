@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+lung,Immune (lymphocyte),PIM2,1.5,3.8620689655172415
+prostate,Immune (lymphocyte),PIM2,1.0,3.372434017595308
+esophagusmucosa,Immune (lymphocyte),PIM2,1.05,3.3003300330033
+skin,Immune (lymphocyte),PIM2,1.0,2.666666666666667
+heart,Immune (lymphocyte),PIM2,1.2222222,2.5787965616045847
+esophagusmuscularis,Immune (lymphocyte),PIM2,1.1666666,1.9933554817275747
+esophagusmucosa,Glia,PIM2,1.0,1.5384615384615383
+skeletalmuscle,Immune (lymphocyte),PIM2,2.0,1.0
+esophagusmucosa,Immune (myeloid),PIM2,1.0,0.9298998569384836
+prostate,Immune (myeloid),PIM2,1.2222222,0.8754863813229572
+breast,Immune (myeloid),PIM2,1.0,0.8379888268156425
+prostate,Muscle,PIM2,1.0,0.6687472135532769
+skin,Other,PIM2,1.3333334,0.6637168141592921
+lung,Epithelial cell,PIM2,1.0377358,0.660436137071651
+lung,Muscle,PIM2,2.0,0.6134969325153374
+skin,Immune (myeloid),PIM2,1.0,0.5586592178770949
+prostate,Epithelial cell,PIM2,1.0247934,0.5244224851558098
+esophagusmucosa,Stromal,PIM2,1.0,0.5055611729019212
+breast,Adipocyte,PIM2,1.0,0.4542873367404884
+esophagusmucosa,Epithelial cell,PIM2,1.0178572,0.4059147579008408
+esophagusmuscularis,Immune (myeloid),PIM2,1.25,0.4049949375632805
+lung,Immune (myeloid),PIM2,1.0,0.3935071323167732
+heart,Muscle,PIM2,1.1162791,0.3564323607427055
+heart,Immune (myeloid),PIM2,1.0909091,0.3438037193311455
+esophagusmucosa,Fibroblast,PIM2,1.125,0.2841918294849023
+prostate,Endothelial cell,PIM2,1.0,0.2830856334041047
+esophagusmucosa,Endothelial cell,PIM2,1.0,0.235143223599829
+esophagusmuscularis,Muscle,PIM2,1.0588236,0.2286636626538435
+skeletalmuscle,Endothelial cell,PIM2,1.0,0.2253944402704733
+skin,Epithelial cell (keratinocyte),PIM2,1.0,0.2054442732408834
+esophagusmucosa,Muscle,PIM2,1.0,0.1996007984031935
+skin,Fibroblast,PIM2,1.0,0.1890359168241966
+skeletalmuscle,Fibroblast,PIM2,1.1818181,0.1850605652759084
+heart,Endothelial cell,PIM2,1.0,0.183366077275704
+prostate,Fibroblast,PIM2,1.0,0.1751313485113835
+skin,Epithelial cell,PIM2,1.0,0.1661129568106312
+heart,Fibroblast,PIM2,1.0714285,0.1507483579196726
+breast,Epithelial cell,PIM2,1.0,0.1379548197965166
+lung,Fibroblast,PIM2,1.0,0.1355013550135501
+lung,Endothelial cell,PIM2,1.0,0.0728332119446467
+esophagusmuscularis,Endothelial cell,PIM2,1.0,0.0672494956287827
+esophagusmuscularis,Fibroblast,PIM2,1.0,0.0576424248246709
+skeletalmuscle,Muscle,PIM2,1.0,0.0177218554782685
+heart,Glia,PIM2,0.0,0.0
+heart,Adipocyte,PIM2,0.0,0.0
+esophagusmuscularis,Neuron,PIM2,0.0,0.0
+esophagusmuscularis,Glia,PIM2,0.0,0.0
+esophagusmuscularis,Adipocyte,PIM2,0.0,0.0
+breast,Endothelial cell,PIM2,0.0,0.0
+breast,Muscle,PIM2,0.0,0.0
+breast,Fibroblast,PIM2,0.0,0.0
+skeletalmuscle,Adipocyte,PIM2,0.0,0.0
+prostate,Glia,PIM2,0.0,0.0
+skeletalmuscle,Immune (myeloid),PIM2,0.0,0.0
+skeletalmuscle,Glia,PIM2,0.0,0.0
+skin,Endothelial cell,PIM2,0.0,0.0
+skin,Adipocyte,PIM2,0.0,0.0
+skin,Melanocyte,PIM2,0.0,0.0
+skin,Muscle,PIM2,0.0,0.0

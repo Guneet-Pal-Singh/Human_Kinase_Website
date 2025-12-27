@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Adipocyte,CSNK2A2,1.0909091,12.571428571428571
+heart,Adipocyte,CSNK2A2,1.1578947,9.844559585492227
+esophagusmucosa,Stromal,CSNK2A2,1.0256411,7.886754297269969
+heart,Muscle,CSNK2A2,1.0961539,7.327586206896551
+skin,Immune (lymphocyte),CSNK2A2,1.0,6.666666666666667
+esophagusmucosa,Epithelial cell,CSNK2A2,1.0715859,6.581617860249348
+skin,Other,CSNK2A2,1.0714285,6.1946902654867255
+skin,Immune (myeloid),CSNK2A2,1.0,6.145251396648044
+prostate,Muscle,CSNK2A2,1.1037037,6.018724921979492
+prostate,Epithelial cell,CSNK2A2,1.0751657,5.881333159970528
+skeletalmuscle,Glia,CSNK2A2,1.0,5.714285714285714
+skeletalmuscle,Adipocyte,CSNK2A2,1.2222222,5.660377358490567
+prostate,Endothelial cell,CSNK2A2,1.0379747,5.590941259731069
+esophagusmuscularis,Muscle,CSNK2A2,1.0554217,5.582083529490887
+lung,Immune (myeloid),CSNK2A2,1.0746269,5.492703721921627
+heart,Fibroblast,CSNK2A2,1.0462776,5.351566706148379
+breast,Adipocyte,CSNK2A2,1.0860215,5.281090289608177
+esophagusmucosa,Endothelial cell,CSNK2A2,1.0528455,5.258657545959812
+heart,Endothelial cell,CSNK2A2,1.0555556,5.18664047151277
+esophagusmuscularis,Endothelial cell,CSNK2A2,1.0311111,5.043712172158709
+prostate,Immune (myeloid),CSNK2A2,1.0392157,4.961089494163424
+esophagusmucosa,Immune (myeloid),CSNK2A2,1.0441177,4.86409155937053
+skin,Epithelial cell (keratinocyte),CSNK2A2,1.1170213,4.82794042116076
+skin,Epithelial cell,CSNK2A2,1.0357143,4.651162790697675
+lung,Epithelial cell,CSNK2A2,1.0464481,4.5607476635514015
+esophagusmuscularis,Glia,CSNK2A2,1.0681819,4.536082474226804
+esophagusmucosa,Muscle,CSNK2A2,1.0454545,4.39121756487026
+prostate,Fibroblast,CSNK2A2,1.04,4.378283712784588
+heart,Glia,CSNK2A2,1.0,4.362416107382551
+lung,Muscle,CSNK2A2,1.0,4.294478527607362
+heart,Immune (myeloid),CSNK2A2,1.0522388,4.188154399124863
+esophagusmuscularis,Neuron,CSNK2A2,1.0,4.0
+esophagusmucosa,Immune (lymphocyte),CSNK2A2,1.0588236,3.74037403740374
+esophagusmucosa,Fibroblast,CSNK2A2,1.0594059,3.5879218472468914
+skeletalmuscle,Endothelial cell,CSNK2A2,1.0869565,3.4560480841472576
+esophagusmuscularis,Fibroblast,CSNK2A2,1.0677966,3.4009030646555867
+lung,Fibroblast,CSNK2A2,1.04,3.387533875338753
+skeletalmuscle,Fibroblast,CSNK2A2,1.0408163,3.297442799461642
+prostate,Immune (lymphocyte),CSNK2A2,1.0,3.225806451612903
+esophagusmuscularis,Immune (myeloid),CSNK2A2,1.0212766,3.172460344245697
+breast,Epithelial cell,CSNK2A2,1.0505618,3.069494740472495
+skin,Fibroblast,CSNK2A2,1.0625,3.0245746691871456
+prostate,Glia,CSNK2A2,1.5,2.985074626865672
+heart,Immune (lymphocyte),CSNK2A2,1.0,2.865329512893983
+skin,Endothelial cell,CSNK2A2,1.1034483,2.834799608993157
+breast,Endothelial cell,CSNK2A2,1.0833334,2.724177071509648
+esophagusmuscularis,Immune (lymphocyte),CSNK2A2,1.125,2.6578073089701
+lung,Endothelial cell,CSNK2A2,1.0277778,2.6219956300072838
+skin,Melanocyte,CSNK2A2,1.1428572,2.5735294117647056
+breast,Fibroblast,CSNK2A2,1.0526316,2.31990231990232
+lung,Immune (lymphocyte),CSNK2A2,1.0,2.206896551724138
+skeletalmuscle,Immune (myeloid),CSNK2A2,1.0625,2.170963364993216
+skin,Muscle,CSNK2A2,1.0,2.1505376344086025
+skeletalmuscle,Immune (lymphocyte),CSNK2A2,1.0,2.0
+skin,Adipocyte,CSNK2A2,1.0,1.6129032258064515
+esophagusmucosa,Glia,CSNK2A2,1.0,1.5384615384615383
+skeletalmuscle,Muscle,CSNK2A2,1.019544,1.3601524079571132
+breast,Muscle,CSNK2A2,1.0,1.3157894736842104
+breast,Immune (myeloid),CSNK2A2,1.0,1.11731843575419

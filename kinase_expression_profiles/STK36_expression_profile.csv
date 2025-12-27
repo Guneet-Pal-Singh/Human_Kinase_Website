@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (ciliated),STK36,0.33124802
+Neuroendocrine,STK36,0.14816344
+Epithelial cell (luminal),STK36,0.14671999
+Myofibroblast,STK36,0.14445427
+Epithelial cell (cornified keratinocyte),STK36,0.09973867
+Epithelial cell (club),STK36,0.097953826
+Epithelial cell (basal keratinocyte),STK36,0.095565714
+Epithelial cell (basal),STK36,0.09382599
+Sweat gland cell,STK36,0.09088095
+Epithelial cell (suprabasal),STK36,0.085986674
+Immune (DC),STK36,0.08477401
+Epithelial cell (Hillock),STK36,0.08419171
+Myoepithelial (basal),STK36,0.07942082
+Epithelial cell (alveolar type II),STK36,0.07379035
+Epithelial cell (mature keratinocyte),STK36,0.07008015
+Epithelial cell (alveolar type I),STK36,0.069654465
+Melanocyte,STK36,0.068048894
+Mucous cell,STK36,0.061990947
+Fibroblast,STK36,0.053033456
+Endothelial cell (lymphatic),STK36,0.052095857
+Epithelial cell (squamous),STK36,0.04883955
+Immune (alveolar macrophage),STK36,0.046808276
+Adipocyte,STK36,0.04329618
+Immune (B cell),STK36,0.042665336
+Myocyte (cardiac),STK36,0.0399229
+Myocyte (smooth muscle),STK36,0.0397459
+Immune (DC/macrophage),STK36,0.034750108
+Satellite cell,STK36,0.03259935
+Epithelial cell (suprabasal keratinocyte),STK36,0.032238983
+Sebaceous gland cell,STK36,0.03217036
+Pericyte/SMC,STK36,0.031062573
+Schwann cell,STK36,0.030407155
+Endothelial cell (vascular),STK36,0.030203046
+"Myocyte (sk. muscle, cytoplasmic)",STK36,0.025470957
+Myocyte (NMJ-rich),STK36,0.023451332
+Immune (T cell),STK36,0.016665999
+"Myocyte (cardiac, cytoplasmic)",STK36,0.013941951
+Myocyte (sk. muscle),STK36,0.013738905
+Immune (mast cell),STK36,0.012162453
+Immune (NK cell),STK36,0.006267174
+ICCs,STK36,0.0
+Immune (Langerhans),STK36,0.0
+Neuronal,STK36,0.0

@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (DC/macrophage),MERTK,1.1241041
+Sebaceous gland cell,MERTK,0.567909
+Immune (DC),MERTK,0.31362942
+Pericyte/SMC,MERTK,0.25809038
+Myofibroblast,MERTK,0.25199705
+Myocyte (cardiac),MERTK,0.21416153
+Epithelial cell (alveolar type II),MERTK,0.2075625
+ICCs,MERTK,0.2013649
+Immune (alveolar macrophage),MERTK,0.19716239
+Myoepithelial (basal),MERTK,0.19658053
+Immune (B cell),MERTK,0.17134403
+Myocyte (smooth muscle),MERTK,0.14865749
+Epithelial cell (luminal),MERTK,0.14498538
+Schwann cell,MERTK,0.13832836
+Endothelial cell (vascular),MERTK,0.13115406
+Immune (mast cell),MERTK,0.13062994
+Endothelial cell (lymphatic),MERTK,0.108023636
+Epithelial cell (ciliated),MERTK,0.09707811
+Epithelial cell (alveolar type I),MERTK,0.096826605
+Sweat gland cell,MERTK,0.092619725
+Neuronal,MERTK,0.09202397
+Epithelial cell (Hillock),MERTK,0.0908464
+Immune (Langerhans),MERTK,0.08534343
+Epithelial cell (club),MERTK,0.076528415
+Fibroblast,MERTK,0.06791912
+Immune (NK cell),MERTK,0.06372373
+Epithelial cell (squamous),MERTK,0.06245398
+Epithelial cell (suprabasal),MERTK,0.061550997
+Epithelial cell (basal),MERTK,0.05967634
+"Myocyte (cardiac, cytoplasmic)",MERTK,0.055100188
+Adipocyte,MERTK,0.041445263
+Satellite cell,MERTK,0.033611536
+Neuroendocrine,MERTK,0.033265032
+Mucous cell,MERTK,0.030701818
+Immune (T cell),MERTK,0.028524442
+Melanocyte,MERTK,0.02261807
+"Myocyte (sk. muscle, cytoplasmic)",MERTK,0.021480555
+Myocyte (sk. muscle),MERTK,0.018015057
+Epithelial cell (basal keratinocyte),MERTK,0.0071696546
+Epithelial cell (cornified keratinocyte),MERTK,0.0
+Epithelial cell (mature keratinocyte),MERTK,0.0
+Epithelial cell (suprabasal keratinocyte),MERTK,0.0
+Myocyte (NMJ-rich),MERTK,0.0

@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Myocyte (cardiac),DCLK2,0.69773936
+Neuronal,DCLK2,0.57547843
+Myocyte (smooth muscle),DCLK2,0.5554188
+ICCs,DCLK2,0.4970262
+Myofibroblast,DCLK2,0.49533194
+Immune (mast cell),DCLK2,0.4687696
+Pericyte/SMC,DCLK2,0.3612358
+Endothelial cell (vascular),DCLK2,0.35318923
+Neuroendocrine,DCLK2,0.28792298
+Endothelial cell (lymphatic),DCLK2,0.273732
+Immune (DC),DCLK2,0.26670048
+Schwann cell,DCLK2,0.24853636
+Immune (Langerhans),DCLK2,0.23361354
+Sweat gland cell,DCLK2,0.21642023
+Epithelial cell (club),DCLK2,0.21485092
+Immune (alveolar macrophage),DCLK2,0.14764808
+Satellite cell,DCLK2,0.13487905
+"Myocyte (cardiac, cytoplasmic)",DCLK2,0.13253409
+Adipocyte,DCLK2,0.12436162
+Fibroblast,DCLK2,0.10075248
+Myoepithelial (basal),DCLK2,0.092185155
+Immune (B cell),DCLK2,0.09123165
+Epithelial cell (luminal),DCLK2,0.08515489
+Epithelial cell (alveolar type II),DCLK2,0.08238021
+Epithelial cell (alveolar type I),DCLK2,0.08139518
+Epithelial cell (ciliated),DCLK2,0.07034111
+Melanocyte,DCLK2,0.055491965
+Immune (DC/macrophage),DCLK2,0.05393069
+Epithelial cell (basal keratinocyte),DCLK2,0.05216055
+Epithelial cell (Hillock),DCLK2,0.05044504
+Myocyte (sk. muscle),DCLK2,0.047587417
+Immune (NK cell),DCLK2,0.037010647
+Epithelial cell (suprabasal keratinocyte),DCLK2,0.03435417
+Sebaceous gland cell,DCLK2,0.03427675
+"Myocyte (sk. muscle, cytoplasmic)",DCLK2,0.033313263
+Epithelial cell (basal),DCLK2,0.03269216
+Immune (T cell),DCLK2,0.029760204
+Mucous cell,DCLK2,0.02558484
+Myocyte (NMJ-rich),DCLK2,0.022521563
+Epithelial cell (squamous),DCLK2,0.012665626
+Epithelial cell (mature keratinocyte),DCLK2,0.009645492
+Epithelial cell (suprabasal),DCLK2,0.009283273
+Epithelial cell (cornified keratinocyte),DCLK2,0.0

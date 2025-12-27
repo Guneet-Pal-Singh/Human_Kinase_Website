@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Sebaceous gland cell,PMVK,0.6272317
+"Myocyte (cardiac, cytoplasmic)",PMVK,0.43114164
+Neuroendocrine,PMVK,0.29308388
+"Myocyte (sk. muscle, cytoplasmic)",PMVK,0.22407368
+Epithelial cell (squamous),PMVK,0.17670792
+Epithelial cell (luminal),PMVK,0.16241284
+Epithelial cell (Hillock),PMVK,0.16156217
+Myocyte (smooth muscle),PMVK,0.12891628
+Epithelial cell (club),PMVK,0.12111104
+Epithelial cell (suprabasal),PMVK,0.10998237
+Epithelial cell (basal),PMVK,0.10440615
+Immune (DC/macrophage),PMVK,0.099181004
+Epithelial cell (mature keratinocyte),PMVK,0.09610869
+Mucous cell,PMVK,0.09228614
+Epithelial cell (cornified keratinocyte),PMVK,0.089029014
+Epithelial cell (suprabasal keratinocyte),PMVK,0.08349799
+Immune (DC),PMVK,0.08122286
+Immune (NK cell),PMVK,0.07317204
+Schwann cell,PMVK,0.06444461
+Neuronal,PMVK,0.0611457
+Melanocyte,PMVK,0.056127153
+Myoepithelial (basal),PMVK,0.05326536
+Endothelial cell (lymphatic),PMVK,0.05180022
+Epithelial cell (alveolar type I),PMVK,0.050135113
+Myofibroblast,PMVK,0.049459726
+Myocyte (cardiac),PMVK,0.045603037
+Satellite cell,PMVK,0.04457572
+Immune (alveolar macrophage),PMVK,0.040934645
+Epithelial cell (basal keratinocyte),PMVK,0.039707754
+Epithelial cell (alveolar type II),PMVK,0.039654713
+Adipocyte,PMVK,0.039332252
+Fibroblast,PMVK,0.038243685
+Sweat gland cell,PMVK,0.03676455
+Pericyte/SMC,PMVK,0.035287254
+Immune (T cell),PMVK,0.0335292
+Immune (mast cell),PMVK,0.03151629
+Endothelial cell (vascular),PMVK,0.024021456
+Myocyte (NMJ-rich),PMVK,0.023733376
+Epithelial cell (ciliated),PMVK,0.02361461
+Immune (B cell),PMVK,0.012394537
+Myocyte (sk. muscle),PMVK,0.0003153817
+Immune (Langerhans),PMVK,0.0
+ICCs,PMVK,0.0

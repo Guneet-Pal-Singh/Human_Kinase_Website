@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+lung,Immune (myeloid),TLK2,1.2579156,24.85653385800951
+heart,Muscle,TLK2,1.3416982,24.11306366047745
+esophagusmucosa,Stromal,TLK2,1.3244444,22.75025278058645
+heart,Adipocyte,TLK2,1.3255814,22.279792746113987
+lung,Muscle,TLK2,1.0571429,21.47239263803681
+esophagusmucosa,Epithelial cell,TLK2,1.2624419,20.244998550304437
+skin,Muscle,TLK2,1.2702702,19.892473118279568
+skin,Endothelial cell,TLK2,1.1443299,18.963831867057674
+lung,Epithelial cell,TLK2,1.1765097,18.70820353063344
+prostate,Muscle,TLK2,1.2325,17.833259028087383
+breast,Muscle,TLK2,1.1153846,17.105263157894736
+breast,Immune (myeloid),TLK2,1.1475409,17.039106145251395
+esophagusmucosa,Immune (myeloid),TLK2,1.1853448,16.595135908440632
+breast,Adipocyte,TLK2,1.1335616,16.581487791027826
+prostate,Epithelial cell,TLK2,1.1792378,16.491136826593856
+skin,Immune (myeloid),TLK2,1.137931,16.201117318435752
+prostate,Endothelial cell,TLK2,1.1378555,16.171266808209484
+heart,Fibroblast,TLK2,1.1512325,16.16237751695919
+esophagusmuscularis,Adipocyte,TLK2,1.1785715,16.0
+skin,Fibroblast,TLK2,1.1071428,15.879017013232511
+skin,Epithelial cell (keratinocyte),TLK2,1.1456953,15.511042629686695
+lung,Fibroblast,TLK2,1.1288888,15.24390243902439
+esophagusmucosa,Endothelial cell,TLK2,1.157969,15.156049593843523
+skin,Melanocyte,TLK2,1.1707317,15.073529411764705
+breast,Epithelial cell,TLK2,1.1635945,14.968097947922054
+heart,Immune (myeloid),TLK2,1.1175236,14.892952023753711
+prostate,Fibroblast,TLK2,1.1785715,14.711033274956216
+skin,Immune (lymphocyte),TLK2,1.0,14.666666666666666
+skeletalmuscle,Muscle,TLK2,1.1276995,14.155332063267023
+esophagusmuscularis,Muscle,TLK2,1.1385427,14.02918824399758
+skin,Epithelial cell,TLK2,1.1190476,13.953488372093023
+prostate,Immune (myeloid),TLK2,1.1798561,13.521400778210117
+breast,Endothelial cell,TLK2,1.1779661,13.393870601589104
+esophagusmucosa,Fibroblast,TLK2,1.1485411,13.392539964476022
+lung,Endothelial cell,TLK2,1.090164,13.328477785870357
+skeletalmuscle,Adipocyte,TLK2,1.1428572,13.20754716981132
+heart,Endothelial cell,TLK2,1.1135902,12.914210870988867
+esophagusmucosa,Muscle,TLK2,1.171875,12.77445109780439
+skeletalmuscle,Immune (myeloid),TLK2,1.106383,12.754409769335142
+breast,Fibroblast,TLK2,1.1153846,12.698412698412698
+esophagusmuscularis,Endothelial cell,TLK2,1.1563636,12.329074198610176
+skeletalmuscle,Endothelial cell,TLK2,1.1533742,12.246431254695718
+esophagusmucosa,Immune (lymphocyte),TLK2,1.0765766,12.211221122112212
+esophagusmuscularis,Immune (myeloid),TLK2,1.0886427,12.183597705028689
+esophagusmuscularis,Neuron,TLK2,1.0,12.0
+lung,Immune (lymphocyte),TLK2,1.1162791,11.862068965517242
+skeletalmuscle,Fibroblast,TLK2,1.1096866,11.810228802153432
+esophagusmuscularis,Glia,TLK2,1.1315789,11.752577319587628
+skin,Other,TLK2,1.2075472,11.72566371681416
+skin,Adipocyte,TLK2,1.1428572,11.29032258064516
+esophagusmuscularis,Fibroblast,TLK2,1.0980223,11.173023345182054
+esophagusmuscularis,Immune (lymphocyte),TLK2,1.1515151,10.96345514950166
+esophagusmucosa,Glia,TLK2,1.0,10.76923076923077
+prostate,Glia,TLK2,1.0,10.44776119402985
+heart,Glia,TLK2,1.1290323,10.40268456375839
+heart,Immune (lymphocyte),TLK2,1.1014493,9.88538681948424
+prostate,Immune (lymphocyte),TLK2,1.05,8.797653958944283
+skeletalmuscle,Immune (lymphocyte),TLK2,1.0,7.000000000000001
+skeletalmuscle,Glia,TLK2,1.0,5.714285714285714

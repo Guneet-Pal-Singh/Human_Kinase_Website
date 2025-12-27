@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Neuron,BRSK2,1.0,8.0
+skeletalmuscle,Glia,BRSK2,1.0,2.857142857142857
+esophagusmucosa,Stromal,BRSK2,1.0,2.1233569261880687
+prostate,Muscle,BRSK2,1.0697675,1.9170753455193936
+lung,Muscle,BRSK2,1.0,1.8404907975460123
+esophagusmuscularis,Muscle,BRSK2,1.0254238,1.587194834891385
+heart,Glia,BRSK2,1.0,1.342281879194631
+breast,Muscle,BRSK2,1.0,1.3157894736842104
+esophagusmuscularis,Glia,BRSK2,1.0,1.2371134020618555
+esophagusmucosa,Muscle,BRSK2,1.0,1.1976047904191618
+skin,Muscle,BRSK2,1.0,1.0752688172043012
+skeletalmuscle,Immune (lymphocyte),BRSK2,1.0,1.0
+prostate,Fibroblast,BRSK2,1.0,0.8756567425569177
+skeletalmuscle,Adipocyte,BRSK2,1.0,0.628930817610063
+skin,Endothelial cell,BRSK2,1.0,0.5865102639296188
+prostate,Epithelial cell,BRSK2,1.1119403,0.58076539678412
+lung,Fibroblast,BRSK2,1.0,0.5420054200542005
+lung,Endothelial cell,BRSK2,1.0,0.5098324836125273
+heart,Muscle,BRSK2,1.0517242,0.4807692307692308
+esophagusmuscularis,Endothelial cell,BRSK2,1.0,0.4707464694014795
+skin,Fibroblast,BRSK2,1.0,0.3780718336483932
+skin,Melanocyte,BRSK2,1.0,0.3676470588235294
+breast,Endothelial cell,BRSK2,1.0,0.340522133938706
+prostate,Endothelial cell,BRSK2,1.0,0.2830856334041047
+lung,Immune (myeloid),BRSK2,1.0,0.278734218724381
+lung,Immune (lymphocyte),BRSK2,1.0,0.2758620689655172
+skin,Epithelial cell (keratinocyte),BRSK2,1.0,0.2568053415511042
+lung,Epithelial cell,BRSK2,1.0,0.249221183800623
+skin,Other,BRSK2,1.0,0.2212389380530973
+prostate,Immune (myeloid),BRSK2,1.0,0.1945525291828793
+breast,Epithelial cell,BRSK2,1.0,0.1896878772202103
+breast,Adipocyte,BRSK2,1.0,0.1703577512776831
+esophagusmuscularis,Immune (myeloid),BRSK2,1.0,0.1687478906513668
+skeletalmuscle,Fibroblast,BRSK2,1.0,0.1514131897711978
+esophagusmucosa,Endothelial cell,BRSK2,1.0,0.1496365968362548
+prostate,Immune (lymphocyte),BRSK2,1.0,0.1466275659824047
+skeletalmuscle,Muscle,BRSK2,1.030303,0.1462053076957157
+heart,Endothelial cell,BRSK2,1.0,0.1309757694826457
+breast,Fibroblast,BRSK2,1.0,0.1221001221001221
+heart,Fibroblast,BRSK2,1.0,0.1184451383654571
+esophagusmucosa,Epithelial cell,BRSK2,1.0,0.0797332560162366
+skeletalmuscle,Endothelial cell,BRSK2,1.0,0.0751314800901577
+esophagusmucosa,Immune (myeloid),BRSK2,1.0,0.0715307582260371
+esophagusmucosa,Fibroblast,BRSK2,1.0,0.0710479573712255
+esophagusmuscularis,Fibroblast,BRSK2,1.0,0.0672494956287827
+heart,Immune (myeloid),BRSK2,1.0,0.0625097671511173
+esophagusmucosa,Immune (lymphocyte),BRSK2,1.0,0.055005500550055
+breast,Immune (myeloid),BRSK2,0.0,0.0
+esophagusmucosa,Glia,BRSK2,0.0,0.0
+esophagusmuscularis,Adipocyte,BRSK2,0.0,0.0
+esophagusmuscularis,Immune (lymphocyte),BRSK2,0.0,0.0
+heart,Immune (lymphocyte),BRSK2,0.0,0.0
+heart,Adipocyte,BRSK2,0.0,0.0
+prostate,Glia,BRSK2,0.0,0.0
+skeletalmuscle,Immune (myeloid),BRSK2,0.0,0.0
+skin,Adipocyte,BRSK2,0.0,0.0
+skin,Epithelial cell,BRSK2,0.0,0.0
+skin,Immune (lymphocyte),BRSK2,0.0,0.0
+skin,Immune (myeloid),BRSK2,0.0,0.0

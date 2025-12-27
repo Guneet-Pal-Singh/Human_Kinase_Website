@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Adipocyte,MAK,1.5294118,38.85714285714285
+heart,Adipocyte,MAK,1.2962962,27.979274611398964
+skeletalmuscle,Adipocyte,MAK,1.125,20.12578616352201
+heart,Muscle,MAK,1.4003954,16.768899204244033
+skeletalmuscle,Fibroblast,MAK,1.256384,16.470390309555853
+heart,Fibroblast,MAK,1.2638981,16.076235598147946
+esophagusmuscularis,Neuron,MAK,2.25,16.0
+esophagusmuscularis,Fibroblast,MAK,1.2821752,15.899702180805072
+esophagusmuscularis,Glia,MAK,1.2214285,14.432989690721648
+skeletalmuscle,Muscle,MAK,1.2976898,13.424305524788446
+prostate,Muscle,MAK,1.318644,13.152028533214445
+lung,Muscle,MAK,1.2857143,12.883435582822086
+heart,Endothelial cell,MAK,1.2367601,12.612966601178782
+prostate,Epithelial cell,MAK,1.2453352,12.542798942486892
+esophagusmuscularis,Muscle,MAK,1.2845616,12.502522025691034
+prostate,Glia,MAK,1.125,11.940298507462686
+skeletalmuscle,Glia,MAK,1.0,11.428571428571429
+heart,Immune (myeloid),MAK,1.1933241,11.236130645413349
+lung,Epithelial cell,MAK,1.175696,11.040498442367602
+esophagusmucosa,Glia,MAK,1.0,10.76923076923077
+skeletalmuscle,Endothelial cell,MAK,1.2042253,10.668670172802404
+esophagusmuscularis,Endothelial cell,MAK,1.2080679,10.558170813718895
+heart,Glia,MAK,1.2580645,10.40268456375839
+esophagusmuscularis,Immune (myeloid),MAK,1.137931,9.787377657779276
+lung,Endothelial cell,MAK,1.0856031,9.359067734887107
+heart,Immune (lymphocyte),MAK,1.1384616,9.312320916905444
+esophagusmucosa,Stromal,MAK,1.1318681,9.201213346814964
+prostate,Fibroblast,MAK,1.2788461,9.106830122591944
+lung,Fibroblast,MAK,1.119403,9.078590785907858
+skeletalmuscle,Immune (myeloid),MAK,1.1969697,8.955223880597014
+lung,Immune (myeloid),MAK,1.0986193,8.312838170191835
+breast,Epithelial cell,MAK,1.1346579,7.811691670977755
+prostate,Endothelial cell,MAK,1.1304348,7.32484076433121
+esophagusmuscularis,Immune (lymphocyte),MAK,1.0454545,7.308970099667775
+lung,Immune (lymphocyte),MAK,1.1153846,7.172413793103448
+skeletalmuscle,Immune (lymphocyte),MAK,1.0,7.000000000000001
+prostate,Immune (lymphocyte),MAK,1.2,6.598240469208211
+breast,Muscle,MAK,1.3,6.578947368421052
+esophagusmucosa,Muscle,MAK,1.0645162,6.187624750499002
+prostate,Immune (myeloid),MAK,1.2580645,6.031128404669261
+breast,Adipocyte,MAK,1.125,5.905735377626349
+breast,Fibroblast,MAK,1.1276596,5.738705738705739
+breast,Immune (myeloid),MAK,1.1,5.58659217877095
+esophagusmucosa,Immune (myeloid),MAK,1.1538461,5.579399141630901
+esophagusmucosa,Fibroblast,MAK,1.0714285,5.470692717584369
+skin,Epithelial cell (keratinocyte),MAK,1.1333333,5.392912172573189
+esophagusmucosa,Epithelial cell,MAK,1.0969945,5.305885763989562
+skin,Adipocyte,MAK,1.0,4.838709677419355
+esophagusmucosa,Endothelial cell,MAK,1.0973451,4.831124412141941
+esophagusmucosa,Immune (lymphocyte),MAK,1.1325301,4.565456545654565
+skin,Epithelial cell,MAK,1.0769231,4.318936877076411
+breast,Endothelial cell,MAK,1.054054,4.19977298524404
+skin,Fibroblast,MAK,1.0,4.158790170132325
+skin,Endothelial cell,MAK,1.0476191,4.105571847507331
+skin,Immune (lymphocyte),MAK,1.0,4.0
+skin,Melanocyte,MAK,1.0,3.308823529411765
+skin,Muscle,MAK,1.0,3.225806451612903
+skin,Other,MAK,1.0,3.0973451327433628
+skin,Immune (myeloid),MAK,1.0,2.23463687150838

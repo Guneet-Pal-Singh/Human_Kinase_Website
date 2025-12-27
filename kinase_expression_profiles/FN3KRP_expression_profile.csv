@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Neuronal,FN3KRP,0.21732084
+Immune (alveolar macrophage),FN3KRP,0.10346263
+Myofibroblast,FN3KRP,0.10235108
+Immune (DC),FN3KRP,0.093298435
+Epithelial cell (basal keratinocyte),FN3KRP,0.09287874
+Epithelial cell (suprabasal),FN3KRP,0.09064276
+Epithelial cell (basal),FN3KRP,0.08654056
+Immune (Langerhans),FN3KRP,0.08492125
+Myocyte (NMJ-rich),FN3KRP,0.08098241
+Immune (NK cell),FN3KRP,0.07778926
+Immune (T cell),FN3KRP,0.0727368
+Epithelial cell (alveolar type II),FN3KRP,0.06831677
+Epithelial cell (alveolar type I),FN3KRP,0.06728303
+Immune (B cell),FN3KRP,0.067117885
+Mucous cell,FN3KRP,0.06584554
+Endothelial cell (lymphatic),FN3KRP,0.06532228
+Epithelial cell (luminal),FN3KRP,0.063528225
+Epithelial cell (club),FN3KRP,0.060091622
+Epithelial cell (Hillock),FN3KRP,0.059465934
+Myocyte (sk. muscle),FN3KRP,0.058544397
+Myoepithelial (basal),FN3KRP,0.055057317
+Epithelial cell (mature keratinocyte),FN3KRP,0.05468976
+Myocyte (smooth muscle),FN3KRP,0.05213633
+Schwann cell,FN3KRP,0.051168106
+Epithelial cell (ciliated),FN3KRP,0.050688148
+Endothelial cell (vascular),FN3KRP,0.048870143
+Immune (DC/macrophage),FN3KRP,0.048622567
+Epithelial cell (squamous),FN3KRP,0.047895394
+Myocyte (cardiac),FN3KRP,0.047478087
+Immune (mast cell),FN3KRP,0.04696677
+Satellite cell,FN3KRP,0.042398155
+Adipocyte,FN3KRP,0.03976899
+Fibroblast,FN3KRP,0.0384835
+ICCs,FN3KRP,0.038078036
+Epithelial cell (suprabasal keratinocyte),FN3KRP,0.03793783
+Epithelial cell (cornified keratinocyte),FN3KRP,0.03774584
+Neuroendocrine,FN3KRP,0.03631768
+"Myocyte (cardiac, cytoplasmic)",FN3KRP,0.034848485
+Pericyte/SMC,FN3KRP,0.0330783
+Melanocyte,FN3KRP,0.03170154
+"Myocyte (sk. muscle, cytoplasmic)",FN3KRP,0.030068642
+Sweat gland cell,FN3KRP,0.02665041
+Sebaceous gland cell,FN3KRP,0.020277532

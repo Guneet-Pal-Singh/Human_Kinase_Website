@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (suprabasal),IKBKE,0.20474261
+Epithelial cell (suprabasal keratinocyte),IKBKE,0.15160562
+Immune (T cell),IKBKE,0.13611686
+Epithelial cell (Hillock),IKBKE,0.1282513
+Immune (alveolar macrophage),IKBKE,0.12196614
+Immune (DC/macrophage),IKBKE,0.110080376
+Epithelial cell (club),IKBKE,0.10291313
+Immune (NK cell),IKBKE,0.099195614
+Epithelial cell (basal),IKBKE,0.09587119
+Immune (B cell),IKBKE,0.09360535
+Mucous cell,IKBKE,0.09224258
+Epithelial cell (mature keratinocyte),IKBKE,0.08121945
+Sebaceous gland cell,IKBKE,0.05652874
+Epithelial cell (luminal),IKBKE,0.05635889
+Immune (DC),IKBKE,0.05209818
+Epithelial cell (cornified keratinocyte),IKBKE,0.050042756
+Myocyte (NMJ-rich),IKBKE,0.049418177
+Sweat gland cell,IKBKE,0.04112805
+Epithelial cell (alveolar type II),IKBKE,0.039319534
+Epithelial cell (squamous),IKBKE,0.037732102
+Myofibroblast,IKBKE,0.036047984
+Immune (mast cell),IKBKE,0.035209715
+Fibroblast,IKBKE,0.028032845
+Melanocyte,IKBKE,0.025320563
+Endothelial cell (lymphatic),IKBKE,0.015520205
+Adipocyte,IKBKE,0.015371152
+Schwann cell,IKBKE,0.014893433
+Pericyte/SMC,IKBKE,0.014554493
+Myocyte (cardiac),IKBKE,0.013952682
+Myoepithelial (basal),IKBKE,0.013454388
+ICCs,IKBKE,0.01244876
+Epithelial cell (basal keratinocyte),IKBKE,0.012042218
+Epithelial cell (alveolar type I),IKBKE,0.009328385
+"Myocyte (cardiac, cytoplasmic)",IKBKE,0.008770201
+Epithelial cell (ciliated),IKBKE,0.008511888
+Myocyte (smooth muscle),IKBKE,0.008313376
+Endothelial cell (vascular),IKBKE,0.008264129
+Myocyte (sk. muscle),IKBKE,0.0020602562
+Immune (Langerhans),IKBKE,0.0
+"Myocyte (sk. muscle, cytoplasmic)",IKBKE,0.0
+Neuroendocrine,IKBKE,0.0
+Neuronal,IKBKE,0.0
+Satellite cell,IKBKE,0.0

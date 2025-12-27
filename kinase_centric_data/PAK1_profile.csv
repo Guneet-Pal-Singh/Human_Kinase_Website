@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmucosa,Immune (myeloid),PAK1,1.571006,24.17739628040057
+esophagusmuscularis,Neuron,PAK1,1.5,24.0
+prostate,Immune (myeloid),PAK1,1.2935324,19.55252918287938
+skin,Immune (myeloid),PAK1,1.2068965,16.201117318435752
+prostate,Fibroblast,PAK1,1.2707182,15.849387040280211
+esophagusmucosa,Stromal,PAK1,1.160584,13.85237613751264
+esophagusmucosa,Epithelial cell,PAK1,1.1948198,12.873296607712382
+prostate,Epithelial cell,PAK1,1.1946098,12.382438347852467
+heart,Immune (myeloid),PAK1,1.1214188,11.454914830442256
+skeletalmuscle,Immune (myeloid),PAK1,1.1604939,10.990502035278157
+esophagusmuscularis,Immune (myeloid),PAK1,1.172956,10.732365845426932
+esophagusmuscularis,Adipocyte,PAK1,1.1111112,10.285714285714285
+lung,Immune (myeloid),PAK1,1.1570247,9.919658960485323
+skin,Epithelial cell,PAK1,1.2033899,9.800664451827243
+breast,Epithelial cell,PAK1,1.1364486,9.22572857389205
+lung,Epithelial cell,PAK1,1.1302521,8.897196261682243
+esophagusmuscularis,Muscle,PAK1,1.1351557,8.857354226915058
+lung,Fibroblast,PAK1,1.0930233,8.739837398373984
+prostate,Muscle,PAK1,1.1839081,7.7574676772180124
+esophagusmucosa,Glia,PAK1,1.0,7.6923076923076925
+skeletalmuscle,Adipocyte,PAK1,1.3333334,7.547169811320755
+breast,Immune (myeloid),PAK1,1.1153846,7.262569832402235
+esophagusmuscularis,Fibroblast,PAK1,1.1103253,6.7921990585070615
+heart,Adipocyte,PAK1,1.0769231,6.735751295336788
+heart,Muscle,PAK1,1.1697878,6.639588859416445
+heart,Fibroblast,PAK1,1.0879478,6.611392268762787
+skeletalmuscle,Muscle,PAK1,1.1329201,6.433033538611492
+skin,Epithelial cell (keratinocyte),PAK1,1.0806452,6.368772470467386
+prostate,Glia,PAK1,1.0,5.970149253731343
+breast,Muscle,PAK1,1.1111112,5.921052631578947
+skin,Melanocyte,PAK1,1.0625,5.88235294117647
+esophagusmucosa,Muscle,PAK1,1.3214285,5.588822355289421
+skin,Other,PAK1,1.0,5.08849557522124
+esophagusmucosa,Fibroblast,PAK1,1.0984849,4.6891651865008885
+esophagusmuscularis,Glia,PAK1,1.1111112,4.639175257731959
+lung,Muscle,PAK1,1.2857143,4.294478527607362
+heart,Glia,PAK1,1.0833334,4.026845637583892
+skin,Fibroblast,PAK1,1.0476191,3.969754253308128
+skin,Muscle,PAK1,1.1428572,3.763440860215054
+skeletalmuscle,Fibroblast,PAK1,1.0430622,3.516150740242261
+lung,Immune (lymphocyte),PAK1,1.125,3.310344827586207
+breast,Adipocyte,PAK1,1.1052631,3.2367972742759794
+skin,Adipocyte,PAK1,1.0,3.225806451612903
+skin,Immune (lymphocyte),PAK1,1.0,2.666666666666667
+esophagusmuscularis,Immune (lymphocyte),PAK1,1.0,2.6578073089701
+esophagusmucosa,Immune (lymphocyte),PAK1,1.0208334,2.64026402640264
+skeletalmuscle,Endothelial cell,PAK1,1.030303,2.479338842975207
+prostate,Immune (lymphocyte),PAK1,1.25,2.346041055718475
+breast,Endothelial cell,PAK1,1.3,2.2701475595913734
+breast,Fibroblast,PAK1,1.117647,2.0757020757020754
+skeletalmuscle,Immune (lymphocyte),PAK1,1.0,2.0
+prostate,Endothelial cell,PAK1,1.037037,1.910828025477707
+esophagusmuscularis,Endothelial cell,PAK1,1.0487804,1.8381528805200624
+heart,Endothelial cell,PAK1,1.0625,1.466928618205632
+esophagusmucosa,Endothelial cell,PAK1,1.132353,1.453612654980761
+skin,Endothelial cell,PAK1,1.0769231,1.270772238514174
+lung,Endothelial cell,PAK1,1.060606,1.2017479970866711
+heart,Immune (lymphocyte),PAK1,1.1428572,1.002865329512894
+skeletalmuscle,Glia,PAK1,0.0,0.0

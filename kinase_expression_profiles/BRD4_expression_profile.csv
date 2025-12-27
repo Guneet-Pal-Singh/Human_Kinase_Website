@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (suprabasal keratinocyte),BRD4,0.71371585
+Epithelial cell (mature keratinocyte),BRD4,0.6838365
+Sebaceous gland cell,BRD4,0.6539286
+Epithelial cell (suprabasal),BRD4,0.60551006
+Immune (Langerhans),BRD4,0.5962416
+Epithelial cell (luminal),BRD4,0.5756199
+Epithelial cell (squamous),BRD4,0.5629858
+Mucous cell,BRD4,0.5583718
+Myofibroblast,BRD4,0.5382798
+Epithelial cell (club),BRD4,0.5093133
+Epithelial cell (basal keratinocyte),BRD4,0.50888634
+Sweat gland cell,BRD4,0.49886355
+Myocyte (sk. muscle),BRD4,0.49681014
+Epithelial cell (basal),BRD4,0.49319676
+Immune (DC),BRD4,0.49086994
+Immune (B cell),BRD4,0.48916775
+Myocyte (cardiac),BRD4,0.47705153
+Adipocyte,BRD4,0.4640704
+Epithelial cell (Hillock),BRD4,0.4598723
+Melanocyte,BRD4,0.4467069
+Immune (alveolar macrophage),BRD4,0.43535504
+Myoepithelial (basal),BRD4,0.42022535
+Immune (T cell),BRD4,0.3752333
+Pericyte/SMC,BRD4,0.37306163
+Myocyte (smooth muscle),BRD4,0.37182
+Epithelial cell (ciliated),BRD4,0.3656862
+Epithelial cell (alveolar type II),BRD4,0.36568072
+Endothelial cell (lymphatic),BRD4,0.35755295
+Fibroblast,BRD4,0.35628378
+Immune (DC/macrophage),BRD4,0.34287766
+Myocyte (NMJ-rich),BRD4,0.34281784
+Epithelial cell (alveolar type I),BRD4,0.34098014
+Schwann cell,BRD4,0.33753535
+Endothelial cell (vascular),BRD4,0.30748114
+Neuroendocrine,BRD4,0.2873253
+Neuronal,BRD4,0.2748614
+Immune (NK cell),BRD4,0.26882192
+Epithelial cell (cornified keratinocyte),BRD4,0.2635105
+"Myocyte (cardiac, cytoplasmic)",BRD4,0.25355726
+"Myocyte (sk. muscle, cytoplasmic)",BRD4,0.25317463
+Satellite cell,BRD4,0.25216097
+ICCs,BRD4,0.232371
+Immune (mast cell),BRD4,0.23156267

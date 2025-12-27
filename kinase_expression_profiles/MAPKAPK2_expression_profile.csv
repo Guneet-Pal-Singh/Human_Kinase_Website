@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+"Myocyte (cardiac, cytoplasmic)",MAPKAPK2,0.6952795
+Myocyte (cardiac),MAPKAPK2,0.69235677
+Neuronal,MAPKAPK2,0.56259876
+Epithelial cell (cornified keratinocyte),MAPKAPK2,0.45108834
+Epithelial cell (squamous),MAPKAPK2,0.42648593
+Epithelial cell (mature keratinocyte),MAPKAPK2,0.4019015
+Myocyte (smooth muscle),MAPKAPK2,0.34222433
+ICCs,MAPKAPK2,0.33651745
+Immune (alveolar macrophage),MAPKAPK2,0.3170435
+Epithelial cell (suprabasal),MAPKAPK2,0.3125429
+Immune (NK cell),MAPKAPK2,0.30857775
+Immune (T cell),MAPKAPK2,0.30724
+Epithelial cell (alveolar type II),MAPKAPK2,0.2808217
+Mucous cell,MAPKAPK2,0.2780908
+Pericyte/SMC,MAPKAPK2,0.25745732
+Immune (B cell),MAPKAPK2,0.25542915
+Epithelial cell (alveolar type I),MAPKAPK2,0.25252122
+"Myocyte (sk. muscle, cytoplasmic)",MAPKAPK2,0.24415302
+Epithelial cell (Hillock),MAPKAPK2,0.24198404
+Immune (DC/macrophage),MAPKAPK2,0.2392582
+Adipocyte,MAPKAPK2,0.23466016
+Endothelial cell (lymphatic),MAPKAPK2,0.22372688
+Myofibroblast,MAPKAPK2,0.22066143
+Epithelial cell (club),MAPKAPK2,0.21928006
+Fibroblast,MAPKAPK2,0.21375777
+Myoepithelial (basal),MAPKAPK2,0.21071532
+Epithelial cell (basal),MAPKAPK2,0.20644028
+Epithelial cell (luminal),MAPKAPK2,0.20052552
+Immune (DC),MAPKAPK2,0.19847591
+Endothelial cell (vascular),MAPKAPK2,0.19566853
+Epithelial cell (basal keratinocyte),MAPKAPK2,0.19253302
+Epithelial cell (suprabasal keratinocyte),MAPKAPK2,0.18551852
+Epithelial cell (ciliated),MAPKAPK2,0.17532767
+Myocyte (sk. muscle),MAPKAPK2,0.16690366
+Schwann cell,MAPKAPK2,0.15785821
+Sebaceous gland cell,MAPKAPK2,0.15313745
+Immune (mast cell),MAPKAPK2,0.15150544
+Melanocyte,MAPKAPK2,0.14568265
+Neuroendocrine,MAPKAPK2,0.13790281
+Satellite cell,MAPKAPK2,0.12845348
+Myocyte (NMJ-rich),MAPKAPK2,0.12181631
+Sweat gland cell,MAPKAPK2,0.1060159
+Immune (Langerhans),MAPKAPK2,0.066801175

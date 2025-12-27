@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (squamous),EPHA2,1.6882674
+Epithelial cell (suprabasal),EPHA2,0.7310435
+Epithelial cell (Hillock),EPHA2,0.3288595
+Mucous cell,EPHA2,0.31657183
+Epithelial cell (mature keratinocyte),EPHA2,0.24024834
+Epithelial cell (suprabasal keratinocyte),EPHA2,0.18787834
+Sweat gland cell,EPHA2,0.17342903
+Endothelial cell (lymphatic),EPHA2,0.15294874
+Epithelial cell (club),EPHA2,0.11854968
+Epithelial cell (ciliated),EPHA2,0.111678705
+Epithelial cell (basal),EPHA2,0.10943215
+Epithelial cell (alveolar type II),EPHA2,0.09237697
+Immune (Langerhans),EPHA2,0.08214563
+Pericyte/SMC,EPHA2,0.080595054
+Endothelial cell (vascular),EPHA2,0.06527363
+Immune (alveolar macrophage),EPHA2,0.059134994
+Epithelial cell (luminal),EPHA2,0.058169473
+Epithelial cell (alveolar type I),EPHA2,0.056339536
+Myofibroblast,EPHA2,0.056158748
+Epithelial cell (basal keratinocyte),EPHA2,0.055217054
+Sebaceous gland cell,EPHA2,0.053645205
+Myocyte (NMJ-rich),EPHA2,0.051422216
+Satellite cell,EPHA2,0.04853593
+Epithelial cell (cornified keratinocyte),EPHA2,0.04649024
+Myocyte (cardiac),EPHA2,0.03961891
+"Myocyte (cardiac, cytoplasmic)",EPHA2,0.03846642
+Myoepithelial (basal),EPHA2,0.03792359
+Neuroendocrine,EPHA2,0.03478906
+Schwann cell,EPHA2,0.02828971
+Fibroblast,EPHA2,0.026259338
+Immune (NK cell),EPHA2,0.024162684
+"Myocyte (sk. muscle, cytoplasmic)",EPHA2,0.023163138
+ICCs,EPHA2,0.017005803
+Immune (mast cell),EPHA2,0.012672104
+Myocyte (smooth muscle),EPHA2,0.009984221
+Adipocyte,EPHA2,0.009728175
+Immune (T cell),EPHA2,0.006051228
+Immune (DC/macrophage),EPHA2,0.005221564
+Myocyte (sk. muscle),EPHA2,0.002142516
+Melanocyte,EPHA2,0.0
+Immune (DC),EPHA2,0.0
+Immune (B cell),EPHA2,0.0
+Neuronal,EPHA2,0.0

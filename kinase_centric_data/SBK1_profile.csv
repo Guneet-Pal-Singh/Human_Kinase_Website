@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+heart,Muscle,SBK1,1.1533647,5.296750663129973
+skeletalmuscle,Immune (lymphocyte),SBK1,1.5,2.0
+heart,Immune (lymphocyte),SBK1,1.0,1.7191977077363898
+skeletalmuscle,Muscle,SBK1,1.0193906,1.5993974569137388
+prostate,Glia,SBK1,1.0,1.4925373134328357
+lung,Immune (myeloid),SBK1,1.0240964,1.3608788325955077
+lung,Epithelial cell,SBK1,1.0262295,1.2668743509865006
+esophagusmucosa,Immune (lymphocyte),SBK1,1.0,1.155115511551155
+prostate,Epithelial cell,SBK1,1.0413224,1.0488449703116196
+lung,Endothelial cell,SBK1,1.0,0.9104151493080844
+breast,Epithelial cell,SBK1,1.0833334,0.8277289187790998
+skin,Melanocyte,SBK1,1.0,0.7352941176470588
+esophagusmucosa,Stromal,SBK1,1.0,0.7077856420626896
+lung,Muscle,SBK1,1.0,0.6134969325153374
+esophagusmucosa,Muscle,SBK1,1.0,0.5988023952095809
+prostate,Immune (lymphocyte),SBK1,1.0,0.5865102639296188
+skin,Immune (myeloid),SBK1,1.0,0.5586592178770949
+esophagusmucosa,Epithelial cell,SBK1,1.0649351,0.5581327921136562
+lung,Immune (lymphocyte),SBK1,1.0,0.5517241379310345
+lung,Fibroblast,SBK1,1.0,0.4742547425474254
+skin,Other,SBK1,1.0,0.4424778761061947
+skin,Fibroblast,SBK1,1.0,0.3780718336483932
+esophagusmuscularis,Immune (lymphocyte),SBK1,1.0,0.3322259136212624
+skin,Epithelial cell,SBK1,1.0,0.3322259136212624
+prostate,Muscle,SBK1,1.0,0.3120820329915292
+esophagusmuscularis,Glia,SBK1,1.0,0.3092783505154639
+skin,Epithelial cell (keratinocyte),SBK1,1.0,0.3081664098613251
+skeletalmuscle,Endothelial cell,SBK1,1.0,0.3005259203606311
+esophagusmuscularis,Muscle,SBK1,1.0,0.2959176810814446
+breast,Immune (myeloid),SBK1,1.0,0.2793296089385474
+skeletalmuscle,Immune (myeloid),SBK1,1.0,0.2713704206241519
+prostate,Fibroblast,SBK1,1.0,0.2626970227670753
+breast,Fibroblast,SBK1,1.0,0.2442002442002442
+esophagusmucosa,Fibroblast,SBK1,1.0,0.2131438721136767
+skeletalmuscle,Fibroblast,SBK1,1.0833334,0.2018842530282638
+skin,Endothelial cell,SBK1,1.0,0.1955034213098729
+heart,Immune (myeloid),SBK1,1.0,0.1875293014533521
+esophagusmuscularis,Fibroblast,SBK1,1.0,0.1825343452781247
+heart,Endothelial cell,SBK1,1.0,0.1440733464309103
+prostate,Endothelial cell,SBK1,1.0,0.1415428167020523
+esophagusmucosa,Endothelial cell,SBK1,1.0,0.1282599401453612
+breast,Adipocyte,SBK1,1.0,0.1135718341851221
+breast,Endothelial cell,SBK1,1.0,0.1135073779795686
+esophagusmuscularis,Immune (myeloid),SBK1,1.0,0.1012487343908201
+prostate,Immune (myeloid),SBK1,1.0,0.0972762645914396
+heart,Fibroblast,SBK1,1.0,0.0969096586626467
+esophagusmuscularis,Endothelial cell,SBK1,1.0,0.0896659941717103
+esophagusmuscularis,Adipocyte,SBK1,0.0,0.0
+esophagusmucosa,Glia,SBK1,0.0,0.0
+breast,Muscle,SBK1,0.0,0.0
+esophagusmucosa,Immune (myeloid),SBK1,0.0,0.0
+heart,Glia,SBK1,0.0,0.0
+heart,Adipocyte,SBK1,0.0,0.0
+esophagusmuscularis,Neuron,SBK1,0.0,0.0
+skeletalmuscle,Adipocyte,SBK1,0.0,0.0
+skin,Adipocyte,SBK1,0.0,0.0
+skeletalmuscle,Glia,SBK1,0.0,0.0
+skin,Immune (lymphocyte),SBK1,0.0,0.0
+skin,Muscle,SBK1,0.0,0.0

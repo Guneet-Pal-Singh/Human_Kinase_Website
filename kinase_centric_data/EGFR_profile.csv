@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skeletalmuscle,Fibroblast,EGFR,1.9203165,59.53903095558546
+skin,Epithelial cell (keratinocyte),EGFR,2.046083,55.72675911658963
+esophagusmuscularis,Adipocyte,EGFR,1.5,51.42857142857142
+esophagusmucosa,Epithelial cell,EGFR,2.2296102,50.03624238909829
+skin,Other,EGFR,1.9765258,47.12389380530973
+skin,Fibroblast,EGFR,1.6275303,46.69187145557656
+esophagusmucosa,Stromal,EGFR,2.0503283,46.20829120323559
+heart,Fibroblast,EGFR,1.7052187,45.80596532787768
+prostate,Epithelial cell,EGFR,2.5065205,43.86945780782733
+breast,Fibroblast,EGFR,1.6806723,43.58974358974359
+heart,Adipocyte,EGFR,1.7012987,39.89637305699482
+skeletalmuscle,Adipocyte,EGFR,1.4666667,37.735849056603776
+skin,Epithelial cell,EGFR,1.9140271,36.7109634551495
+breast,Adipocyte,EGFR,1.4651163,34.185122089721744
+esophagusmucosa,Fibroblast,EGFR,1.451001,33.712255772646536
+esophagusmuscularis,Fibroblast,EGFR,1.4800231,33.18282255740225
+lung,Epithelial cell,EGFR,1.4654673,33.01765316718588
+prostate,Fibroblast,EGFR,1.5899054,27.75831873905429
+esophagusmucosa,Muscle,EGFR,1.3913044,22.954091816367264
+lung,Fibroblast,EGFR,1.2679127,21.747967479674795
+skin,Adipocyte,EGFR,1.7692307,20.967741935483872
+lung,Muscle,EGFR,1.2424242,20.245398773006134
+prostate,Muscle,EGFR,1.6799117,20.19616584930896
+skeletalmuscle,Endothelial cell,EGFR,1.5153847,19.534184823441024
+esophagusmuscularis,Muscle,EGFR,1.358497,19.510390745847065
+skin,Muscle,EGFR,1.5294118,18.27956989247312
+heart,Endothelial cell,EGFR,1.2589928,16.38506876227898
+lung,Endothelial cell,EGFR,1.1836735,14.275309541150763
+breast,Epithelial cell,EGFR,1.2079589,13.433350577685808
+breast,Muscle,EGFR,1.4,13.157894736842104
+esophagusmucosa,Glia,EGFR,1.625,12.307692307692308
+skin,Immune (lymphocyte),EGFR,1.6666666,12.0
+skeletalmuscle,Glia,EGFR,1.0,11.428571428571429
+prostate,Endothelial cell,EGFR,1.3278146,10.686482661004954
+skeletalmuscle,Muscle,EGFR,1.2943686,10.385007310265385
+esophagusmuscularis,Endothelial cell,EGFR,1.2360097,9.21318090114324
+breast,Endothelial cell,EGFR,1.1728395,9.19409761634506
+prostate,Glia,EGFR,1.5,8.955223880597014
+esophagusmucosa,Endothelial cell,EGFR,1.364532,8.67892261650278
+heart,Muscle,EGFR,1.36405,7.286140583554376
+skin,Endothelial cell,EGFR,1.3378378,7.233626588465299
+skin,Immune (myeloid),EGFR,1.6363636,6.145251396648044
+esophagusmuscularis,Glia,EGFR,1.2142857,4.329896907216495
+skin,Melanocyte,EGFR,1.2727273,4.044117647058823
+skeletalmuscle,Immune (lymphocyte),EGFR,1.5,4.0
+esophagusmuscularis,Neuron,EGFR,2.0,4.0
+esophagusmucosa,Immune (myeloid),EGFR,1.36,3.5765379113018603
+esophagusmuscularis,Immune (lymphocyte),EGFR,1.0,3.322259136212625
+skeletalmuscle,Immune (myeloid),EGFR,1.1666666,3.2564450474898234
+breast,Immune (myeloid),EGFR,1.1818181,3.072625698324022
+lung,Immune (myeloid),EGFR,1.2028985,2.2626660108214462
+esophagusmuscularis,Immune (myeloid),EGFR,1.1846154,2.1937225784677694
+prostate,Immune (myeloid),EGFR,1.8636364,2.140077821011673
+heart,Glia,EGFR,1.5,2.013422818791946
+prostate,Immune (lymphocyte),EGFR,1.0,1.0263929618768328
+esophagusmucosa,Immune (lymphocyte),EGFR,1.4375,0.88008800880088
+heart,Immune (myeloid),EGFR,1.0869565,0.7188623222378496
+heart,Immune (lymphocyte),EGFR,1.25,0.5730659025787965
+lung,Immune (lymphocyte),EGFR,1.0,0.2758620689655172

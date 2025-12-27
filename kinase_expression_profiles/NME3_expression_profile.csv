@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Neuroendocrine,NME3,0.6432212
+Epithelial cell (basal keratinocyte),NME3,0.55691683
+Mucous cell,NME3,0.55315536
+Immune (DC),NME3,0.5512392
+Epithelial cell (suprabasal keratinocyte),NME3,0.5468754
+Neuronal,NME3,0.48174292
+ICCs,NME3,0.45921284
+Myofibroblast,NME3,0.44575524
+Epithelial cell (club),NME3,0.43493232
+Myocyte (smooth muscle),NME3,0.42867082
+Adipocyte,NME3,0.41706365
+Epithelial cell (basal),NME3,0.40327698
+Epithelial cell (Hillock),NME3,0.3956697
+Epithelial cell (alveolar type II),NME3,0.38896194
+Sweat gland cell,NME3,0.38513345
+Immune (alveolar macrophage),NME3,0.3771994
+Pericyte/SMC,NME3,0.37268096
+Epithelial cell (mature keratinocyte),NME3,0.36860636
+Epithelial cell (luminal),NME3,0.36204213
+Myocyte (cardiac),NME3,0.3607966
+Epithelial cell (ciliated),NME3,0.35872188
+Epithelial cell (cornified keratinocyte),NME3,0.34493503
+Immune (mast cell),NME3,0.33080515
+Myoepithelial (basal),NME3,0.32553536
+Epithelial cell (suprabasal),NME3,0.3168328
+Fibroblast,NME3,0.3141091
+Sebaceous gland cell,NME3,0.2958241
+Endothelial cell (vascular),NME3,0.29121593
+Immune (B cell),NME3,0.29050222
+Epithelial cell (alveolar type I),NME3,0.28802595
+Immune (T cell),NME3,0.28610465
+Immune (DC/macrophage),NME3,0.28474036
+Schwann cell,NME3,0.28378907
+Immune (Langerhans),NME3,0.26112935
+"Myocyte (cardiac, cytoplasmic)",NME3,0.25886157
+Satellite cell,NME3,0.25704175
+Endothelial cell (lymphatic),NME3,0.2550891
+Melanocyte,NME3,0.22482824
+Immune (NK cell),NME3,0.19950761
+Myocyte (NMJ-rich),NME3,0.17234129
+"Myocyte (sk. muscle, cytoplasmic)",NME3,0.16717678
+Epithelial cell (squamous),NME3,0.110357456
+Myocyte (sk. muscle),NME3,0.08643543

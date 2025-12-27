@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (B cell),CDK14,1.1915377
+Immune (Langerhans),CDK14,1.0502957
+Immune (alveolar macrophage),CDK14,0.9454773
+Myocyte (cardiac),CDK14,0.91762155
+Epithelial cell (club),CDK14,0.9022696
+Neuroendocrine,CDK14,0.87436575
+Epithelial cell (alveolar type I),CDK14,0.8145178
+ICCs,CDK14,0.7859044
+Myocyte (sk. muscle),CDK14,0.6567979
+Mucous cell,CDK14,0.6152523
+Myocyte (NMJ-rich),CDK14,0.61245483
+Fibroblast,CDK14,0.6119609
+Immune (DC),CDK14,0.608276
+Myoepithelial (basal),CDK14,0.60629076
+Epithelial cell (luminal),CDK14,0.5913261
+Epithelial cell (alveolar type II),CDK14,0.54630595
+Pericyte/SMC,CDK14,0.5160353
+Schwann cell,CDK14,0.48529685
+Adipocyte,CDK14,0.4850393
+Neuronal,CDK14,0.47971117
+Myofibroblast,CDK14,0.43301514
+Endothelial cell (vascular),CDK14,0.42252707
+Epithelial cell (basal),CDK14,0.4170929
+Epithelial cell (Hillock),CDK14,0.40913686
+Epithelial cell (ciliated),CDK14,0.40617555
+Sweat gland cell,CDK14,0.34980035
+Myocyte (smooth muscle),CDK14,0.32017776
+Immune (DC/macrophage),CDK14,0.31496307
+"Myocyte (sk. muscle, cytoplasmic)",CDK14,0.25002483
+Satellite cell,CDK14,0.2500102
+"Myocyte (cardiac, cytoplasmic)",CDK14,0.20227091
+Immune (mast cell),CDK14,0.18722822
+Endothelial cell (lymphatic),CDK14,0.1224168
+Sebaceous gland cell,CDK14,0.11580998
+Melanocyte,CDK14,0.1084884
+Immune (T cell),CDK14,0.09801891
+Epithelial cell (suprabasal keratinocyte),CDK14,0.08315791
+Epithelial cell (basal keratinocyte),CDK14,0.062268857
+Epithelial cell (squamous),CDK14,0.059847448
+Epithelial cell (suprabasal),CDK14,0.055503882
+Immune (NK cell),CDK14,0.041460305
+Epithelial cell (mature keratinocyte),CDK14,0.038368624
+Epithelial cell (cornified keratinocyte),CDK14,0.0

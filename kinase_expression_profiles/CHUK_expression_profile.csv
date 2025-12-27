@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Neuronal,CHUK,0.22762036
+Neuroendocrine,CHUK,0.17813203
+Epithelial cell (cornified keratinocyte),CHUK,0.17558503
+ICCs,CHUK,0.14991981
+Myocyte (cardiac),CHUK,0.14854702
+Epithelial cell (suprabasal),CHUK,0.14821449
+Myofibroblast,CHUK,0.14307517
+Immune (alveolar macrophage),CHUK,0.13994302
+Immune (NK cell),CHUK,0.13266148
+Immune (DC/macrophage),CHUK,0.12915438
+Immune (T cell),CHUK,0.12003517
+Epithelial cell (club),CHUK,0.1177997
+Epithelial cell (basal),CHUK,0.110799015
+Myocyte (smooth muscle),CHUK,0.10786724
+Adipocyte,CHUK,0.105669096
+Epithelial cell (alveolar type I),CHUK,0.104724474
+Epithelial cell (luminal),CHUK,0.09902333
+Endothelial cell (lymphatic),CHUK,0.09723599
+Fibroblast,CHUK,0.0949971
+Pericyte/SMC,CHUK,0.09447223
+Endothelial cell (vascular),CHUK,0.09441053
+Epithelial cell (Hillock),CHUK,0.09274892
+Immune (B cell),CHUK,0.09084318
+Immune (mast cell),CHUK,0.09034151
+Mucous cell,CHUK,0.08880974
+Epithelial cell (alveolar type II),CHUK,0.086171865
+Immune (DC),CHUK,0.079796605
+Schwann cell,CHUK,0.07899299
+Sebaceous gland cell,CHUK,0.07521374
+Myocyte (NMJ-rich),CHUK,0.072591096
+"Myocyte (cardiac, cytoplasmic)",CHUK,0.061156254
+Epithelial cell (mature keratinocyte),CHUK,0.061002113
+Satellite cell,CHUK,0.060577694
+"Myocyte (sk. muscle, cytoplasmic)",CHUK,0.05792911
+Melanocyte,CHUK,0.052781787
+Epithelial cell (ciliated),CHUK,0.050325297
+Sweat gland cell,CHUK,0.050058205
+Myocyte (sk. muscle),CHUK,0.049248986
+Myoepithelial (basal),CHUK,0.039623927
+Epithelial cell (basal keratinocyte),CHUK,0.033668995
+Epithelial cell (suprabasal keratinocyte),CHUK,0.032824136
+Epithelial cell (squamous),CHUK,0.03213689
+Immune (Langerhans),CHUK,0.0

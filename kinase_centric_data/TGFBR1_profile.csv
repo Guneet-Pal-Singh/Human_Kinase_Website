@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+prostate,Immune (myeloid),TGFBR1,1.5620689,28.21011673151751
+esophagusmucosa,Stromal,TGFBR1,1.3009709,20.82912032355915
+esophagusmucosa,Immune (myeloid),TGFBR1,1.5111111,19.313304721030043
+lung,Immune (myeloid),TGFBR1,1.272045,17.478275127070013
+heart,Immune (myeloid),TGFBR1,1.1671612,15.799343647444914
+heart,Immune (lymphocyte),TGFBR1,1.0666667,15.04297994269341
+esophagusmuscularis,Muscle,TGFBR1,1.5795608,15.004371511197794
+heart,Fibroblast,TGFBR1,1.1749271,14.77333907612792
+esophagusmuscularis,Immune (myeloid),TGFBR1,1.097035,12.521093486331422
+prostate,Fibroblast,TGFBR1,1.4275362,12.084063047285465
+esophagusmuscularis,Neuron,TGFBR1,1.0,12.0
+prostate,Muscle,TGFBR1,1.3471698,11.81453410610789
+skin,Immune (myeloid),TGFBR1,1.0952381,11.731843575418994
+esophagusmuscularis,Adipocyte,TGFBR1,1.05,11.428571428571429
+esophagusmucosa,Immune (lymphocyte),TGFBR1,1.245,11.001100110011002
+heart,Adipocyte,TGFBR1,1.35,10.362694300518134
+esophagusmucosa,Fibroblast,TGFBR1,1.1438596,10.124333925399643
+heart,Muscle,TGFBR1,1.1831104,9.913793103448276
+heart,Glia,TGFBR1,1.0,9.731543624161072
+prostate,Immune (lymphocyte),TGFBR1,1.0769231,9.530791788856304
+esophagusmuscularis,Fibroblast,TGFBR1,1.1456212,9.434143529637812
+esophagusmucosa,Glia,TGFBR1,1.0,9.230769230769232
+esophagusmuscularis,Immune (lymphocyte),TGFBR1,1.1111112,8.970099667774086
+esophagusmucosa,Epithelial cell,TGFBR1,1.1471075,8.770658161786026
+skeletalmuscle,Immune (myeloid),TGFBR1,1.25,7.598371777476255
+skeletalmuscle,Adipocyte,TGFBR1,1.0,7.547169811320755
+heart,Endothelial cell,TGFBR1,1.09375,7.125081859855927
+skeletalmuscle,Immune (lymphocyte),TGFBR1,1.1428572,7.000000000000001
+breast,Immune (myeloid),TGFBR1,1.0833334,6.70391061452514
+breast,Adipocyte,TGFBR1,1.1271186,6.700738216922203
+skin,Melanocyte,TGFBR1,1.1111112,6.61764705882353
+esophagusmucosa,Muscle,TGFBR1,1.030303,6.58682634730539
+esophagusmuscularis,Glia,TGFBR1,1.1111112,6.494845360824743
+esophagusmucosa,Endothelial cell,TGFBR1,1.2,6.412997007268063
+lung,Immune (lymphocyte),TGFBR1,1.0888889,6.206896551724138
+breast,Fibroblast,TGFBR1,1.08,6.105006105006105
+skin,Fibroblast,TGFBR1,1.1875,6.049149338374291
+breast,Muscle,TGFBR1,1.1111112,5.921052631578947
+lung,Epithelial cell,TGFBR1,1.1091424,5.860851505711319
+skeletalmuscle,Glia,TGFBR1,1.0,5.714285714285714
+lung,Endothelial cell,TGFBR1,1.0909091,5.207574654042244
+lung,Fibroblast,TGFBR1,1.1621622,5.013550135501355
+skin,Adipocyte,TGFBR1,1.0,4.838709677419355
+skeletalmuscle,Fibroblast,TGFBR1,1.0385965,4.794751009421265
+prostate,Epithelial cell,TGFBR1,1.0960145,4.784813418281108
+prostate,Glia,TGFBR1,1.0,4.477611940298507
+skin,Endothelial cell,TGFBR1,1.1111112,4.398826979472141
+esophagusmuscularis,Endothelial cell,TGFBR1,1.1649485,4.348800717327953
+prostate,Endothelial cell,TGFBR1,1.0350877,4.033970276008493
+lung,Muscle,TGFBR1,1.0,3.6809815950920246
+breast,Endothelial cell,TGFBR1,1.1333333,3.40522133938706
+breast,Epithelial cell,TGFBR1,1.1117647,2.9315399206759785
+skin,Muscle,TGFBR1,1.0,2.6881720430107525
+skin,Immune (lymphocyte),TGFBR1,1.5,2.666666666666667
+skeletalmuscle,Endothelial cell,TGFBR1,1.1,2.2539444027047333
+skin,Epithelial cell,TGFBR1,1.3333334,1.9933554817275747
+skin,Epithelial cell (keratinocyte),TGFBR1,1.0833334,1.848998459167951
+skeletalmuscle,Muscle,TGFBR1,1.0628141,1.7633246200877233
+skin,Other,TGFBR1,1.0,1.5486725663716814

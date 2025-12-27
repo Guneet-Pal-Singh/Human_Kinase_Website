@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (cornified keratinocyte),MASTL,0.29752573
+Immune (alveolar macrophage),MASTL,0.21199906
+Immune (DC),MASTL,0.1949059
+Epithelial cell (basal keratinocyte),MASTL,0.18584105
+Sebaceous gland cell,MASTL,0.17188229
+Immune (B cell),MASTL,0.14833367
+Epithelial cell (mature keratinocyte),MASTL,0.14706515
+Immune (Langerhans),MASTL,0.1453594
+Epithelial cell (suprabasal),MASTL,0.1229485
+Epithelial cell (basal),MASTL,0.115331054
+Mucous cell,MASTL,0.1101814
+Epithelial cell (alveolar type II),MASTL,0.10733203
+Satellite cell,MASTL,0.10377219
+Epithelial cell (alveolar type I),MASTL,0.10360589
+Sweat gland cell,MASTL,0.09954269
+Epithelial cell (ciliated),MASTL,0.09029401
+Epithelial cell (suprabasal keratinocyte),MASTL,0.089790046
+Immune (mast cell),MASTL,0.08780369
+Myofibroblast,MASTL,0.08682543
+Myoepithelial (basal),MASTL,0.0863768
+ICCs,MASTL,0.08021882
+Epithelial cell (Hillock),MASTL,0.08012268
+Immune (DC/macrophage),MASTL,0.07998243
+Endothelial cell (vascular),MASTL,0.07935652
+Immune (T cell),MASTL,0.07906756
+Myocyte (cardiac),MASTL,0.07890914
+Adipocyte,MASTL,0.07410046
+Fibroblast,MASTL,0.07265618
+Melanocyte,MASTL,0.07192892
+Epithelial cell (luminal),MASTL,0.07048164
+Schwann cell,MASTL,0.070027076
+Pericyte/SMC,MASTL,0.067707285
+Epithelial cell (club),MASTL,0.06485507
+Epithelial cell (squamous),MASTL,0.062776916
+Endothelial cell (lymphatic),MASTL,0.0581067
+Myocyte (NMJ-rich),MASTL,0.055515792
+Myocyte (smooth muscle),MASTL,0.049357682
+Myocyte (sk. muscle),MASTL,0.03789042
+Immune (NK cell),MASTL,0.036082704
+Neuroendocrine,MASTL,0.035488296
+"Myocyte (cardiac, cytoplasmic)",MASTL,0.0193822
+"Myocyte (sk. muscle, cytoplasmic)",MASTL,0.012424206
+Neuronal,MASTL,0.0

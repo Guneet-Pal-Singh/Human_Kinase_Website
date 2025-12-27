@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+"Myocyte (cardiac, cytoplasmic)",CKB,1.1004272
+Myocyte (smooth muscle),CKB,0.9869971
+Neuroendocrine,CKB,0.785518
+Myofibroblast,CKB,0.7721838
+Epithelial cell (luminal),CKB,0.7397759
+"Myocyte (sk. muscle, cytoplasmic)",CKB,0.4430786
+Neuronal,CKB,0.39068973
+Epithelial cell (suprabasal keratinocyte),CKB,0.37544122
+Sweat gland cell,CKB,0.36735597
+Adipocyte,CKB,0.33283234
+Epithelial cell (squamous),CKB,0.3251159
+Epithelial cell (ciliated),CKB,0.27660435
+Epithelial cell (alveolar type I),CKB,0.27368575
+Epithelial cell (mature keratinocyte),CKB,0.20232816
+Epithelial cell (club),CKB,0.1680964
+Epithelial cell (basal keratinocyte),CKB,0.13772696
+Epithelial cell (cornified keratinocyte),CKB,0.13253911
+Epithelial cell (alveolar type II),CKB,0.1160885
+Pericyte/SMC,CKB,0.10088206
+Epithelial cell (basal),CKB,0.08567101
+Schwann cell,CKB,0.08538753
+Epithelial cell (Hillock),CKB,0.08244697
+Myocyte (cardiac),CKB,0.08161362
+ICCs,CKB,0.07192564
+Melanocyte,CKB,0.064198874
+Sebaceous gland cell,CKB,0.04412409
+Immune (Langerhans),CKB,0.040927958
+Immune (mast cell),CKB,0.039054748
+Fibroblast,CKB,0.03836678
+Immune (B cell),CKB,0.026267951
+Myoepithelial (basal),CKB,0.025465887
+Mucous cell,CKB,0.022169339
+Immune (DC),CKB,0.01864947
+Satellite cell,CKB,0.016573342
+Epithelial cell (suprabasal),CKB,0.011683499
+Endothelial cell (vascular),CKB,0.008819773
+Immune (DC/macrophage),CKB,0.007627868
+Immune (NK cell),CKB,0.007606312
+Endothelial cell (lymphatic),CKB,0.0069632567
+Immune (alveolar macrophage),CKB,0.006020743
+Immune (T cell),CKB,0.002272336
+Myocyte (sk. muscle),CKB,0.00012846531
+Myocyte (NMJ-rich),CKB,0.0

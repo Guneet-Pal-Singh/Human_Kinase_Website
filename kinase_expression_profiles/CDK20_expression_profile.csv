@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (ciliated),CDK20,0.11394067
+Epithelial cell (basal),CDK20,0.029162345
+Epithelial cell (Hillock),CDK20,0.027148219
+Melanocyte,CDK20,0.025582304
+Sebaceous gland cell,CDK20,0.024480266
+Epithelial cell (basal keratinocyte),CDK20,0.022287546
+Adipocyte,CDK20,0.021660829
+Mucous cell,CDK20,0.021087399
+Myofibroblast,CDK20,0.019821791
+Epithelial cell (alveolar type II),CDK20,0.017779967
+Myocyte (smooth muscle),CDK20,0.017231332
+Schwann cell,CDK20,0.0156672
+Epithelial cell (luminal),CDK20,0.0156243285
+Epithelial cell (club),CDK20,0.015454528
+Epithelial cell (suprabasal keratinocyte),CDK20,0.015042705
+Fibroblast,CDK20,0.014363454
+Sweat gland cell,CDK20,0.013399011
+Myoepithelial (basal),CDK20,0.013179189
+Epithelial cell (alveolar type I),CDK20,0.012537078
+Immune (alveolar macrophage),CDK20,0.011008467
+Epithelial cell (squamous),CDK20,0.009924954
+Epithelial cell (suprabasal),CDK20,0.00969213
+Myocyte (cardiac),CDK20,0.009579377
+Satellite cell,CDK20,0.009146905
+Immune (NK cell),CDK20,0.008976683
+Pericyte/SMC,CDK20,0.008877035
+Immune (DC/macrophage),CDK20,0.0058191484
+Immune (mast cell),CDK20,0.00490811
+Immune (T cell),CDK20,0.004771327
+Endothelial cell (lymphatic),CDK20,0.002811926
+Endothelial cell (vascular),CDK20,0.0023981954
+Myocyte (sk. muscle),CDK20,0.0007924504
+Epithelial cell (cornified keratinocyte),CDK20,0.0
+Epithelial cell (mature keratinocyte),CDK20,0.0
+Immune (B cell),CDK20,0.0
+Immune (DC),CDK20,0.0
+Immune (Langerhans),CDK20,0.0
+ICCs,CDK20,0.0
+Myocyte (NMJ-rich),CDK20,0.0
+"Myocyte (sk. muscle, cytoplasmic)",CDK20,0.0
+"Myocyte (cardiac, cytoplasmic)",CDK20,0.0
+Neuronal,CDK20,0.0
+Neuroendocrine,CDK20,0.0

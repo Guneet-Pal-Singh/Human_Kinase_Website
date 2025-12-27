@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (alveolar macrophage),IRAK3,1.2559385
+Immune (DC/macrophage),IRAK3,1.0877142
+Mucous cell,IRAK3,0.84375334
+Immune (Langerhans),IRAK3,0.7999543
+Endothelial cell (vascular),IRAK3,0.7212103
+Immune (mast cell),IRAK3,0.72007453
+Endothelial cell (lymphatic),IRAK3,0.6843086
+Adipocyte,IRAK3,0.641052
+Fibroblast,IRAK3,0.5244408
+Immune (DC),IRAK3,0.47775763
+Schwann cell,IRAK3,0.26266435
+Satellite cell,IRAK3,0.22277234
+Myofibroblast,IRAK3,0.20319085
+Epithelial cell (alveolar type II),IRAK3,0.20316367
+Pericyte/SMC,IRAK3,0.19440834
+Melanocyte,IRAK3,0.1522429
+"Myocyte (cardiac, cytoplasmic)",IRAK3,0.14727016
+Sweat gland cell,IRAK3,0.1406485
+Epithelial cell (club),IRAK3,0.12945172
+Epithelial cell (Hillock),IRAK3,0.123502895
+ICCs,IRAK3,0.117221065
+Myocyte (cardiac),IRAK3,0.10778441
+Sebaceous gland cell,IRAK3,0.107405946
+Epithelial cell (ciliated),IRAK3,0.081908904
+Epithelial cell (basal),IRAK3,0.0804747
+Immune (NK cell),IRAK3,0.073008224
+Myocyte (smooth muscle),IRAK3,0.063554235
+Immune (B cell),IRAK3,0.063351795
+Immune (T cell),IRAK3,0.059278276
+"Myocyte (sk. muscle, cytoplasmic)",IRAK3,0.055723637
+Epithelial cell (luminal),IRAK3,0.051609408
+Epithelial cell (alveolar type I),IRAK3,0.048423346
+Epithelial cell (squamous),IRAK3,0.047448795
+Myoepithelial (basal),IRAK3,0.033058804
+Epithelial cell (suprabasal),IRAK3,0.02970764
+Neuroendocrine,IRAK3,0.020269899
+Myocyte (sk. muscle),IRAK3,0.012247037
+Epithelial cell (mature keratinocyte),IRAK3,0.010819347
+Epithelial cell (basal keratinocyte),IRAK3,0.0043134056
+Epithelial cell (cornified keratinocyte),IRAK3,0.0
+Epithelial cell (suprabasal keratinocyte),IRAK3,0.0
+Myocyte (NMJ-rich),IRAK3,0.0
+Neuronal,IRAK3,0.0

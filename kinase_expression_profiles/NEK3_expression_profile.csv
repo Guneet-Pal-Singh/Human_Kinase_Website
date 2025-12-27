@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (Langerhans),NEK3,0.330128
+Melanocyte,NEK3,0.26747537
+Neuroendocrine,NEK3,0.2127656
+Endothelial cell (vascular),NEK3,0.16936415
+Epithelial cell (suprabasal keratinocyte),NEK3,0.14848636
+Endothelial cell (lymphatic),NEK3,0.14792983
+Immune (DC),NEK3,0.13611843
+Neuronal,NEK3,0.11928897
+Epithelial cell (basal keratinocyte),NEK3,0.118510075
+Mucous cell,NEK3,0.105099484
+Immune (DC/macrophage),NEK3,0.10306253
+Myocyte (cardiac),NEK3,0.101979196
+Epithelial cell (ciliated),NEK3,0.09642772
+Sebaceous gland cell,NEK3,0.09465794
+Pericyte/SMC,NEK3,0.09331729
+Myoepithelial (basal),NEK3,0.090353295
+Satellite cell,NEK3,0.08850455
+Schwann cell,NEK3,0.085165754
+Myofibroblast,NEK3,0.08280135
+Fibroblast,NEK3,0.08060205
+Sweat gland cell,NEK3,0.07940438
+Epithelial cell (alveolar type I),NEK3,0.07844305
+Myocyte (NMJ-rich),NEK3,0.07684837
+Immune (alveolar macrophage),NEK3,0.07527968
+Epithelial cell (luminal),NEK3,0.075263366
+Epithelial cell (Hillock),NEK3,0.07026871
+Adipocyte,NEK3,0.067375764
+Immune (mast cell),NEK3,0.06660067
+ICCs,NEK3,0.06491443
+Epithelial cell (club),NEK3,0.062171664
+Immune (B cell),NEK3,0.060671195
+Epithelial cell (basal),NEK3,0.057673167
+Epithelial cell (suprabasal),NEK3,0.05724083
+Epithelial cell (alveolar type II),NEK3,0.056369968
+Epithelial cell (cornified keratinocyte),NEK3,0.050126314
+Myocyte (smooth muscle),NEK3,0.04942948
+Epithelial cell (mature keratinocyte),NEK3,0.04731499
+Immune (NK cell),NEK3,0.044913184
+"Myocyte (cardiac, cytoplasmic)",NEK3,0.036270887
+Immune (T cell),NEK3,0.021972189
+Epithelial cell (squamous),NEK3,0.01818982
+"Myocyte (sk. muscle, cytoplasmic)",NEK3,0.015411479
+Myocyte (sk. muscle),NEK3,0.01413492

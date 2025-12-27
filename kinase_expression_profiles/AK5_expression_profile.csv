@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Schwann cell,AK5,0.52213943
+Neuronal,AK5,0.45298308
+Epithelial cell (luminal),AK5,0.44697776
+Myoepithelial (basal),AK5,0.35718456
+Epithelial cell (club),AK5,0.34501725
+Immune (NK cell),AK5,0.20721872
+Immune (alveolar macrophage),AK5,0.18305257
+Sweat gland cell,AK5,0.16179326
+Epithelial cell (alveolar type II),AK5,0.11665315
+Epithelial cell (alveolar type I),AK5,0.10773477
+Epithelial cell (ciliated),AK5,0.09960898
+Myocyte (sk. muscle),AK5,0.06749492
+Epithelial cell (cornified keratinocyte),AK5,0.04662529
+Pericyte/SMC,AK5,0.041291848
+Immune (mast cell),AK5,0.041130222
+Melanocyte,AK5,0.036276758
+Epithelial cell (suprabasal keratinocyte),AK5,0.036261998
+Endothelial cell (vascular),AK5,0.03441664
+Myocyte (cardiac),AK5,0.027728865
+Epithelial cell (Hillock),AK5,0.025455242
+Endothelial cell (lymphatic),AK5,0.024565486
+Immune (T cell),AK5,0.024073888
+Myocyte (smooth muscle),AK5,0.023804598
+Epithelial cell (basal),AK5,0.023052786
+Fibroblast,AK5,0.023012673
+Satellite cell,AK5,0.02229178
+Myocyte (NMJ-rich),AK5,0.020528829
+"Myocyte (sk. muscle, cytoplasmic)",AK5,0.019115085
+Myofibroblast,AK5,0.018508552
+Adipocyte,AK5,0.01616558
+Mucous cell,AK5,0.01565512
+Immune (DC/macrophage),AK5,0.01491386
+Epithelial cell (basal keratinocyte),AK5,0.012332812
+Epithelial cell (mature keratinocyte),AK5,0.010819347
+Epithelial cell (suprabasal),AK5,0.009118365
+Sebaceous gland cell,AK5,0.008653274
+"Myocyte (cardiac, cytoplasmic)",AK5,0.0056245495
+Epithelial cell (squamous),AK5,0.0031464286
+Immune (B cell),AK5,0.0
+Immune (DC),AK5,0.0
+Immune (Langerhans),AK5,0.0
+ICCs,AK5,0.0
+Neuroendocrine,AK5,0.0

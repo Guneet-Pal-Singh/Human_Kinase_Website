@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Mucous cell,ALDH18A1,0.21827692
+Neuroendocrine,ALDH18A1,0.20687962
+Sweat gland cell,ALDH18A1,0.18017277
+Epithelial cell (club),ALDH18A1,0.17938977
+Epithelial cell (luminal),ALDH18A1,0.17434512
+Epithelial cell (Hillock),ALDH18A1,0.1587391
+Epithelial cell (suprabasal),ALDH18A1,0.15851584
+Epithelial cell (basal),ALDH18A1,0.1432546
+Epithelial cell (mature keratinocyte),ALDH18A1,0.12280967
+Epithelial cell (suprabasal keratinocyte),ALDH18A1,0.12263323
+Epithelial cell (ciliated),ALDH18A1,0.11564617
+Epithelial cell (alveolar type II),ALDH18A1,0.109039776
+Satellite cell,ALDH18A1,0.1077351
+Immune (B cell),ALDH18A1,0.10225896
+Myocyte (cardiac),ALDH18A1,0.10089232
+Fibroblast,ALDH18A1,0.09647919
+Myofibroblast,ALDH18A1,0.093298435
+Immune (NK cell),ALDH18A1,0.08923677
+ICCs,ALDH18A1,0.08382258
+Adipocyte,ALDH18A1,0.0815717
+Myocyte (smooth muscle),ALDH18A1,0.07311253
+Sebaceous gland cell,ALDH18A1,0.07233168
+Epithelial cell (basal keratinocyte),ALDH18A1,0.0715131
+Myoepithelial (basal),ALDH18A1,0.06996071
+Melanocyte,ALDH18A1,0.0670473
+Epithelial cell (alveolar type I),ALDH18A1,0.065515734
+Schwann cell,ALDH18A1,0.061676078
+Immune (T cell),ALDH18A1,0.06164444
+Immune (alveolar macrophage),ALDH18A1,0.06116268
+Neuronal,ALDH18A1,0.0611457
+Endothelial cell (lymphatic),ALDH18A1,0.060750347
+Pericyte/SMC,ALDH18A1,0.05677595
+Endothelial cell (vascular),ALDH18A1,0.053934164
+Epithelial cell (squamous),ALDH18A1,0.046900675
+Immune (DC/macrophage),ALDH18A1,0.037564047
+Immune (DC),ALDH18A1,0.034969352
+Immune (mast cell),ALDH18A1,0.031734683
+"Myocyte (cardiac, cytoplasmic)",ALDH18A1,0.031007363
+Myocyte (NMJ-rich),ALDH18A1,0.02620158
+Myocyte (sk. muscle),ALDH18A1,0.016561441
+"Myocyte (sk. muscle, cytoplasmic)",ALDH18A1,0.010269082
+Epithelial cell (cornified keratinocyte),ALDH18A1,0.0
+Immune (Langerhans),ALDH18A1,0.0

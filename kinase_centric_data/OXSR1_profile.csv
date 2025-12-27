@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Neuron,OXSR1,1.2857143,28.000000000000004
+esophagusmucosa,Epithelial cell,OXSR1,1.3530351,18.150188460423312
+prostate,Glia,OXSR1,1.0833334,17.91044776119403
+lung,Immune (myeloid),OXSR1,1.2426395,16.150188555500904
+skin,Adipocyte,OXSR1,1.1,16.129032258064516
+prostate,Muscle,OXSR1,1.1355422,14.801604993312528
+esophagusmucosa,Stromal,OXSR1,1.177305,14.256825075834175
+heart,Muscle,OXSR1,1.2311734,14.19927055702918
+prostate,Immune (myeloid),OXSR1,1.1438849,13.521400778210117
+esophagusmuscularis,Adipocyte,OXSR1,1.2380953,12.0
+skin,Immune (myeloid),OXSR1,1.1,11.1731843575419
+breast,Immune (myeloid),OXSR1,1.2051282,10.893854748603353
+heart,Adipocyte,OXSR1,1.0,10.88082901554404
+skin,Other,OXSR1,1.3469387,10.84070796460177
+skeletalmuscle,Adipocyte,OXSR1,1.117647,10.69182389937107
+breast,Adipocyte,OXSR1,1.1451613,10.562180579216356
+prostate,Epithelial cell,OXSR1,1.1212994,10.540458544619252
+breast,Endothelial cell,OXSR1,1.0722891,9.4211123723042
+skin,Endothelial cell,OXSR1,1.125,9.3841642228739
+skin,Epithelial cell (keratinocyte),OXSR1,1.1190476,8.628659476117104
+prostate,Endothelial cell,OXSR1,1.0699588,8.598726114649681
+esophagusmucosa,Immune (myeloid),OXSR1,1.1583333,8.583690987124463
+skin,Epithelial cell,OXSR1,1.0392157,8.471760797342192
+lung,Epithelial cell,OXSR1,1.0881035,8.344755970924195
+skin,Muscle,OXSR1,1.0666667,8.064516129032258
+heart,Immune (myeloid),OXSR1,1.0783132,7.782466010314111
+esophagusmuscularis,Muscle,OXSR1,1.0856644,7.693859708117561
+esophagusmucosa,Endothelial cell,OXSR1,1.0545977,7.439076528430953
+skin,Fibroblast,OXSR1,1.2051282,7.372400756143667
+breast,Epithelial cell,OXSR1,1.0970149,6.932229694774961
+esophagusmuscularis,Immune (myeloid),OXSR1,1.0769231,6.581167735403308
+lung,Fibroblast,OXSR1,1.0721649,6.571815718157181
+esophagusmucosa,Immune (lymphocyte),OXSR1,1.0892857,6.16061606160616
+esophagusmucosa,Glia,OXSR1,1.25,6.153846153846154
+skeletalmuscle,Immune (myeloid),OXSR1,1.1555556,6.10583446404342
+skeletalmuscle,Immune (lymphocyte),OXSR1,1.0,6.0
+esophagusmucosa,Muscle,OXSR1,1.1333333,5.9880239520958085
+breast,Muscle,OXSR1,1.3333334,5.921052631578947
+esophagusmuscularis,Endothelial cell,OXSR1,1.0806452,5.559291638646044
+lung,Muscle,OXSR1,1.1111112,5.521472392638037
+heart,Endothelial cell,OXSR1,1.0508474,5.409299279633268
+lung,Immune (lymphocyte),OXSR1,1.0256411,5.379310344827586
+heart,Immune (lymphocyte),OXSR1,1.027027,5.300859598853868
+prostate,Fibroblast,OXSR1,1.0701754,4.99124343257443
+prostate,Immune (lymphocyte),OXSR1,1.0882353,4.98533724340176
+esophagusmuscularis,Glia,OXSR1,1.0638298,4.845360824742269
+skin,Melanocyte,OXSR1,1.0,4.779411764705882
+esophagusmucosa,Fibroblast,OXSR1,1.0681819,4.6891651865008885
+heart,Fibroblast,OXSR1,1.0438799,4.662431355658447
+heart,Glia,OXSR1,1.2307693,4.362416107382551
+esophagusmuscularis,Immune (lymphocyte),OXSR1,1.0,4.318936877076411
+esophagusmuscularis,Fibroblast,OXSR1,1.0357143,4.034969737726967
+skeletalmuscle,Endothelial cell,OXSR1,1.0576923,3.9068369646882046
+lung,Endothelial cell,OXSR1,1.1214954,3.896576839038601
+skeletalmuscle,Muscle,OXSR1,1.0632912,3.5000664569580437
+breast,Fibroblast,OXSR1,1.1071428,3.418803418803419
+skeletalmuscle,Fibroblast,OXSR1,1.0338984,2.977792732166891
+skeletalmuscle,Glia,OXSR1,1.0,2.857142857142857
+skin,Immune (lymphocyte),OXSR1,1.0,2.666666666666667

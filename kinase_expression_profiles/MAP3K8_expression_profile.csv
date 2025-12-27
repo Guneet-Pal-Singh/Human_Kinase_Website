@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (DC/macrophage),MAP3K8,0.9626336
+Epithelial cell (cornified keratinocyte),MAP3K8,0.9299715
+Immune (alveolar macrophage),MAP3K8,0.83984447
+Immune (NK cell),MAP3K8,0.5546628
+Immune (Langerhans),MAP3K8,0.5201157
+Myocyte (smooth muscle),MAP3K8,0.4733167
+Epithelial cell (alveolar type II),MAP3K8,0.43316644
+Immune (DC),MAP3K8,0.42750672
+Pericyte/SMC,MAP3K8,0.38649893
+Adipocyte,MAP3K8,0.3703639
+Endothelial cell (vascular),MAP3K8,0.36856228
+Epithelial cell (squamous),MAP3K8,0.34098354
+Epithelial cell (ciliated),MAP3K8,0.32598698
+Fibroblast,MAP3K8,0.32557666
+ICCs,MAP3K8,0.30925858
+Myofibroblast,MAP3K8,0.3074001
+Immune (B cell),MAP3K8,0.28053474
+Schwann cell,MAP3K8,0.28003952
+Immune (mast cell),MAP3K8,0.25254706
+Epithelial cell (suprabasal),MAP3K8,0.25052944
+Endothelial cell (lymphatic),MAP3K8,0.19985953
+Epithelial cell (mature keratinocyte),MAP3K8,0.19614778
+Immune (T cell),MAP3K8,0.1783518
+Epithelial cell (basal keratinocyte),MAP3K8,0.17119116
+Mucous cell,MAP3K8,0.16684544
+Epithelial cell (suprabasal keratinocyte),MAP3K8,0.16244957
+Sebaceous gland cell,MAP3K8,0.15448685
+Epithelial cell (club),MAP3K8,0.14169149
+Sweat gland cell,MAP3K8,0.13481937
+Myocyte (cardiac),MAP3K8,0.11976437
+Neuronal,MAP3K8,0.11928897
+Epithelial cell (alveolar type I),MAP3K8,0.117430195
+Melanocyte,MAP3K8,0.099957086
+Myoepithelial (basal),MAP3K8,0.09977799
+Satellite cell,MAP3K8,0.095478155
+Epithelial cell (basal),MAP3K8,0.09272569
+Epithelial cell (luminal),MAP3K8,0.08145045
+"Myocyte (cardiac, cytoplasmic)",MAP3K8,0.071031846
+Neuroendocrine,MAP3K8,0.06113548
+Epithelial cell (Hillock),MAP3K8,0.059287515
+Myocyte (NMJ-rich),MAP3K8,0.044353925
+"Myocyte (sk. muscle, cytoplasmic)",MAP3K8,0.02583437
+Myocyte (sk. muscle),MAP3K8,0.018400392

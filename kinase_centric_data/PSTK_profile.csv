@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Neuron,PSTK,1.0,4.0
+esophagusmucosa,Stromal,PSTK,1.0434783,2.3255813953488373
+lung,Fibroblast,PSTK,1.0,1.6260162601626018
+lung,Immune (myeloid),PSTK,1.0,1.6068207902934908
+heart,Muscle,PSTK,1.0362694,1.5998010610079576
+esophagusmucosa,Muscle,PSTK,1.0,1.596806387225549
+heart,Adipocyte,PSTK,1.0,1.5544041450777202
+esophagusmucosa,Glia,PSTK,1.0,1.5384615384615383
+breast,Epithelial cell,PSTK,1.0357143,1.4485256078634248
+prostate,Epithelial cell,PSTK,1.0279503,1.3955705803319898
+lung,Epithelial cell,PSTK,1.0180722,1.379023883696781
+skin,Epithelial cell,PSTK,1.0,1.32890365448505
+heart,Fibroblast,PSTK,1.04,1.076773985140519
+skin,Muscle,PSTK,1.0,1.0752688172043012
+prostate,Muscle,PSTK,1.0,1.069995541685243
+esophagusmucosa,Epithelial cell,PSTK,1.0208334,1.0437808060307336
+heart,Glia,PSTK,1.0,1.006711409395973
+skeletalmuscle,Immune (lymphocyte),PSTK,1.0,1.0
+esophagusmuscularis,Immune (lymphocyte),PSTK,1.0,0.9966777408637874
+skin,Epithelial cell (keratinocyte),PSTK,1.0,0.9758602978941964
+skin,Other,PSTK,1.0,0.8849557522123894
+prostate,Immune (lymphocyte),PSTK,1.0,0.8797653958944283
+prostate,Fibroblast,PSTK,1.0,0.8756567425569177
+breast,Fibroblast,PSTK,1.0,0.8547008547008548
+skeletalmuscle,Muscle,PSTK,1.0220995,0.801913960391653
+esophagusmuscularis,Muscle,PSTK,1.0254238,0.7935974174456923
+esophagusmuscularis,Glia,PSTK,1.0,0.7216494845360825
+esophagusmucosa,Immune (myeloid),PSTK,1.0,0.7153075822603719
+skeletalmuscle,Fibroblast,PSTK,1.0243902,0.689771197846568
+lung,Immune (lymphocyte),PSTK,1.0,0.6896551724137931
+prostate,Immune (myeloid),PSTK,1.0,0.6809338521400778
+esophagusmucosa,Fibroblast,PSTK,1.0526316,0.6749555950266429
+esophagusmuscularis,Fibroblast,PSTK,1.0147059,0.6532808146796042
+esophagusmuscularis,Endothelial cell,PSTK,1.0689656,0.6500784577449003
+prostate,Endothelial cell,PSTK,1.0555556,0.6369426751592357
+skeletalmuscle,Adipocyte,PSTK,1.0,0.628930817610063
+esophagusmucosa,Endothelial cell,PSTK,1.0,0.6199230440359128
+esophagusmuscularis,Immune (myeloid),PSTK,1.0555556,0.6074924063449206
+esophagusmucosa,Immune (lymphocyte),PSTK,1.0,0.605060506050605
+skeletalmuscle,Endothelial cell,PSTK,1.125,0.6010518407212623
+skin,Endothelial cell,PSTK,1.0,0.5865102639296188
+esophagusmuscularis,Adipocyte,PSTK,1.0,0.5714285714285714
+heart,Immune (myeloid),PSTK,1.0277778,0.5625879043600562
+skin,Immune (myeloid),PSTK,1.0,0.5586592178770949
+breast,Immune (myeloid),PSTK,1.0,0.5586592178770949
+heart,Endothelial cell,PSTK,1.0,0.5108055009823183
+lung,Endothelial cell,PSTK,1.0,0.5098324836125273
+breast,Adipocyte,PSTK,1.0,0.2839295854628052
+breast,Endothelial cell,PSTK,1.0,0.2270147559591373
+skin,Fibroblast,PSTK,1.0,0.1890359168241966
+heart,Immune (lymphocyte),PSTK,1.0,0.1432664756446991
+breast,Muscle,PSTK,0.0,0.0
+lung,Muscle,PSTK,0.0,0.0
+prostate,Glia,PSTK,0.0,0.0
+skeletalmuscle,Glia,PSTK,0.0,0.0
+skin,Adipocyte,PSTK,0.0,0.0
+skeletalmuscle,Immune (myeloid),PSTK,0.0,0.0
+skin,Immune (lymphocyte),PSTK,0.0,0.0
+skin,Melanocyte,PSTK,0.0,0.0

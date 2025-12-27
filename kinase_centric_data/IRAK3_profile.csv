@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+lung,Immune (myeloid),IRAK3,1.8559709,53.95966551893753
+prostate,Immune (myeloid),IRAK3,1.6651785,43.57976653696498
+heart,Immune (myeloid),IRAK3,1.5210307,41.24081887794968
+skeletalmuscle,Immune (myeloid),IRAK3,1.4155406,40.16282225237449
+esophagusmucosa,Immune (myeloid),IRAK3,1.453211,38.98426323319027
+heart,Adipocyte,IRAK3,1.4705882,35.233160621761655
+esophagusmuscularis,Adipocyte,IRAK3,1.5254238,33.714285714285715
+skin,Immune (myeloid),IRAK3,1.4666667,33.5195530726257
+esophagusmuscularis,Immune (myeloid),IRAK3,1.396728,33.00708741140736
+skin,Endothelial cell,IRAK3,1.4565217,31.47605083088954
+prostate,Endothelial cell,IRAK3,1.4032445,30.5378627034678
+breast,Immune (myeloid),IRAK3,1.4528302,29.60893854748604
+skeletalmuscle,Endothelial cell,IRAK3,1.3377309,28.4748309541698
+skeletalmuscle,Adipocyte,IRAK3,1.375,25.15723270440252
+esophagusmucosa,Endothelial cell,IRAK3,1.2639725,24.861051731509196
+breast,Endothelial cell,IRAK3,1.2890996,23.95005675368899
+heart,Endothelial cell,IRAK3,1.2604625,23.78519973804846
+breast,Adipocyte,IRAK3,1.245614,22.657580919931856
+esophagusmucosa,Fibroblast,IRAK3,1.2532258,22.02486678507993
+lung,Endothelial cell,IRAK3,1.2080537,21.704297159504733
+esophagusmuscularis,Endothelial cell,IRAK3,1.3471502,21.63192109392513
+heart,Fibroblast,IRAK3,1.2344086,20.02799612361365
+lung,Fibroblast,IRAK3,1.2105263,19.30894308943089
+skin,Fibroblast,IRAK3,1.2234043,17.76937618147448
+breast,Fibroblast,IRAK3,1.1666666,15.384615384615383
+esophagusmuscularis,Fibroblast,IRAK3,1.1741855,15.332885003362476
+skeletalmuscle,Fibroblast,IRAK3,1.1600454,14.821668909825034
+prostate,Fibroblast,IRAK3,1.150685,12.784588441331
+esophagusmucosa,Glia,IRAK3,1.125,12.307692307692308
+prostate,Muscle,IRAK3,1.2290748,10.12037449843959
+esophagusmucosa,Stromal,IRAK3,1.1868132,9.201213346814964
+heart,Glia,IRAK3,1.2,8.389261744966444
+lung,Muscle,IRAK3,1.0,7.975460122699387
+esophagusmuscularis,Glia,IRAK3,1.1830986,7.31958762886598
+breast,Muscle,IRAK3,1.4545455,7.236842105263158
+skin,Muscle,IRAK3,1.3846154,6.989247311827956
+esophagusmucosa,Muscle,IRAK3,1.0285715,6.986027944111776
+lung,Epithelial cell,IRAK3,1.1549401,5.54932502596054
+heart,Muscle,IRAK3,1.3227954,4.981763925729443
+skin,Adipocyte,IRAK3,1.0,4.838709677419355
+skin,Melanocyte,IRAK3,1.2727273,4.044117647058823
+skin,Immune (lymphocyte),IRAK3,1.0,4.0
+esophagusmucosa,Epithelial cell,IRAK3,1.2969035,3.979414322992172
+skin,Epithelial cell,IRAK3,1.1304348,3.820598006644518
+heart,Immune (lymphocyte),IRAK3,1.4090909,3.151862464183381
+prostate,Glia,IRAK3,1.0,2.985074626865672
+prostate,Epithelial cell,IRAK3,1.1360153,2.2623846053829157
+esophagusmuscularis,Immune (lymphocyte),IRAK3,1.0,1.9933554817275747
+lung,Immune (lymphocyte),IRAK3,1.0,1.6551724137931034
+breast,Epithelial cell,IRAK3,1.097561,1.4140369029142956
+esophagusmuscularis,Muscle,IRAK3,1.1606218,1.2980025556527002
+esophagusmucosa,Immune (lymphocyte),IRAK3,1.3,1.1001100110011002
+skeletalmuscle,Immune (lymphocyte),IRAK3,1.0,1.0
+prostate,Immune (lymphocyte),IRAK3,1.1666666,0.8797653958944283
+skin,Other,IRAK3,1.3333334,0.6637168141592921
+skeletalmuscle,Muscle,IRAK3,1.1027397,0.646847724956803
+skin,Epithelial cell (keratinocyte),IRAK3,1.0,0.1540832049306625
+esophagusmuscularis,Neuron,IRAK3,0.0,0.0
+skeletalmuscle,Glia,IRAK3,0.0,0.0

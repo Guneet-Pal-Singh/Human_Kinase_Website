@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Myocyte (NMJ-rich),STK3,1.2440321
+Epithelial cell (club),STK3,1.1800803
+Sebaceous gland cell,STK3,1.1075511
+Adipocyte,STK3,1.0420476
+Neuroendocrine,STK3,1.0351471
+Epithelial cell (alveolar type II),STK3,1.0283444
+Myocyte (sk. muscle),STK3,1.0106838
+ICCs,STK3,1.0046453
+Epithelial cell (luminal),STK3,0.98816806
+Epithelial cell (alveolar type I),STK3,0.97091
+Fibroblast,STK3,0.9587892
+Myofibroblast,STK3,0.9474219
+Endothelial cell (lymphatic),STK3,0.9467008
+Epithelial cell (basal),STK3,0.93691504
+Epithelial cell (Hillock),STK3,0.91856194
+Immune (DC),STK3,0.9071588
+Myoepithelial (basal),STK3,0.8774388
+Epithelial cell (suprabasal),STK3,0.87641877
+Mucous cell,STK3,0.8757681
+Myocyte (cardiac),STK3,0.86643577
+Immune (alveolar macrophage),STK3,0.8580372
+Myocyte (smooth muscle),STK3,0.85425127
+Pericyte/SMC,STK3,0.8525122
+Endothelial cell (vascular),STK3,0.84159553
+Immune (DC/macrophage),STK3,0.81017524
+Sweat gland cell,STK3,0.80549943
+Satellite cell,STK3,0.79262817
+Schwann cell,STK3,0.78101224
+Epithelial cell (ciliated),STK3,0.7467066
+Epithelial cell (basal keratinocyte),STK3,0.704645
+Immune (mast cell),STK3,0.69344103
+Epithelial cell (suprabasal keratinocyte),STK3,0.68033487
+Melanocyte,STK3,0.47651398
+Immune (B cell),STK3,0.43256578
+Immune (T cell),STK3,0.41997728
+"Myocyte (sk. muscle, cytoplasmic)",STK3,0.41280615
+Neuronal,STK3,0.37308818
+Epithelial cell (mature keratinocyte),STK3,0.36993355
+Epithelial cell (squamous),STK3,0.34116235
+Immune (NK cell),STK3,0.336492
+Epithelial cell (cornified keratinocyte),STK3,0.32778892
+Immune (Langerhans),STK3,0.24901576
+"Myocyte (cardiac, cytoplasmic)",STK3,0.2407727

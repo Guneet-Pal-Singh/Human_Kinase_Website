@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (DC),HIPK1,0.53604907
+Epithelial cell (squamous),HIPK1,0.48180366
+Epithelial cell (ciliated),HIPK1,0.4749939
+Epithelial cell (mature keratinocyte),HIPK1,0.44085473
+Immune (NK cell),HIPK1,0.3732118
+Immune (T cell),HIPK1,0.33409294
+Epithelial cell (cornified keratinocyte),HIPK1,0.3145072
+Immune (Langerhans),HIPK1,0.29940674
+Myofibroblast,HIPK1,0.2918925
+Immune (alveolar macrophage),HIPK1,0.28381833
+Epithelial cell (suprabasal),HIPK1,0.2795369
+Epithelial cell (suprabasal keratinocyte),HIPK1,0.23891738
+ICCs,HIPK1,0.23308554
+Neuroendocrine,HIPK1,0.23263802
+Neuronal,HIPK1,0.23053211
+Melanocyte,HIPK1,0.22938477
+"Myocyte (cardiac, cytoplasmic)",HIPK1,0.22317374
+Immune (DC/macrophage),HIPK1,0.19787014
+Adipocyte,HIPK1,0.19291088
+Mucous cell,HIPK1,0.18086174
+Immune (mast cell),HIPK1,0.17835423
+Epithelial cell (club),HIPK1,0.17579591
+Myocyte (smooth muscle),HIPK1,0.16915645
+Epithelial cell (Hillock),HIPK1,0.16875857
+Endothelial cell (lymphatic),HIPK1,0.16745827
+Epithelial cell (alveolar type II),HIPK1,0.16522443
+Immune (B cell),HIPK1,0.16288991
+Epithelial cell (basal),HIPK1,0.16112897
+Pericyte/SMC,HIPK1,0.15620671
+Sebaceous gland cell,HIPK1,0.15451899
+"Myocyte (sk. muscle, cytoplasmic)",HIPK1,0.14521043
+Epithelial cell (basal keratinocyte),HIPK1,0.14363623
+Epithelial cell (alveolar type I),HIPK1,0.14024033
+Epithelial cell (luminal),HIPK1,0.13975398
+Fibroblast,HIPK1,0.12199822
+Myocyte (cardiac),HIPK1,0.119954616
+Endothelial cell (vascular),HIPK1,0.10828101
+Schwann cell,HIPK1,0.082151964
+Myoepithelial (basal),HIPK1,0.07857954
+Sweat gland cell,HIPK1,0.07734791
+Satellite cell,HIPK1,0.04904054
+Myocyte (sk. muscle),HIPK1,0.044867672
+Myocyte (NMJ-rich),HIPK1,0.015187027

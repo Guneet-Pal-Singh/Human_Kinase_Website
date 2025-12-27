@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (DC),LYN,1.634245
+Immune (B cell),LYN,1.162886
+Immune (alveolar macrophage),LYN,1.0577676
+Immune (Langerhans),LYN,1.0017518
+Immune (DC/macrophage),LYN,0.9432984
+Mucous cell,LYN,0.8601287
+Immune (NK cell),LYN,0.7895275
+Epithelial cell (alveolar type II),LYN,0.7759518
+Endothelial cell (lymphatic),LYN,0.75142616
+Epithelial cell (club),LYN,0.6460186
+Epithelial cell (alveolar type I),LYN,0.61845744
+Immune (mast cell),LYN,0.5329638
+Epithelial cell (suprabasal),LYN,0.4039481
+Epithelial cell (ciliated),LYN,0.3881889
+ICCs,LYN,0.3755237
+Epithelial cell (squamous),LYN,0.29318267
+Epithelial cell (basal),LYN,0.28538612
+Epithelial cell (Hillock),LYN,0.27666372
+Epithelial cell (luminal),LYN,0.27327
+Myocyte (smooth muscle),LYN,0.2676238
+Endothelial cell (vascular),LYN,0.24046761
+Neuronal,LYN,0.20797664
+Sweat gland cell,LYN,0.18456212
+Myoepithelial (basal),LYN,0.17442499
+Myofibroblast,LYN,0.16027847
+Epithelial cell (cornified keratinocyte),LYN,0.1535964
+Pericyte/SMC,LYN,0.13277394
+Adipocyte,LYN,0.11964851
+Myocyte (cardiac),LYN,0.107958205
+Schwann cell,LYN,0.1067166
+Epithelial cell (basal keratinocyte),LYN,0.10404664
+Fibroblast,LYN,0.0998141
+Immune (T cell),LYN,0.09920139
+Melanocyte,LYN,0.08067377
+Neuroendocrine,LYN,0.07829547
+Myocyte (NMJ-rich),LYN,0.059156783
+"Myocyte (cardiac, cytoplasmic)",LYN,0.0496053
+Satellite cell,LYN,0.04706099
+Myocyte (sk. muscle),LYN,0.044929355
+Epithelial cell (suprabasal keratinocyte),LYN,0.043833993
+"Myocyte (sk. muscle, cytoplasmic)",LYN,0.021561377
+Epithelial cell (mature keratinocyte),LYN,0.020334339
+Sebaceous gland cell,LYN,0.015898041

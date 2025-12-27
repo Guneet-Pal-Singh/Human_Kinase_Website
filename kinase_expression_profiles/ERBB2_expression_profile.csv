@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (mature keratinocyte),ERBB2,0.97368723
+Epithelial cell (squamous),ERBB2,0.8998905
+Epithelial cell (suprabasal),ERBB2,0.7382694
+Sweat gland cell,ERBB2,0.5816903
+Epithelial cell (cornified keratinocyte),ERBB2,0.54603356
+Mucous cell,ERBB2,0.5093967
+Epithelial cell (Hillock),ERBB2,0.4682605
+Epithelial cell (club),ERBB2,0.46654013
+Epithelial cell (luminal),ERBB2,0.44958723
+Sebaceous gland cell,ERBB2,0.36813205
+Epithelial cell (basal),ERBB2,0.34371027
+Epithelial cell (alveolar type I),ERBB2,0.3396228
+Schwann cell,ERBB2,0.3209499
+Epithelial cell (ciliated),ERBB2,0.29961216
+Epithelial cell (suprabasal keratinocyte),ERBB2,0.26321703
+Myocyte (cardiac),ERBB2,0.25700176
+Myofibroblast,ERBB2,0.25284874
+"Myocyte (cardiac, cytoplasmic)",ERBB2,0.24737504
+Epithelial cell (alveolar type II),ERBB2,0.22210754
+Myoepithelial (basal),ERBB2,0.2019885
+Myocyte (smooth muscle),ERBB2,0.15185007
+Immune (DC),ERBB2,0.12711255
+Epithelial cell (basal keratinocyte),ERBB2,0.12488488
+ICCs,ERBB2,0.12208024
+Fibroblast,ERBB2,0.10723399
+Satellite cell,ERBB2,0.10509117
+Pericyte/SMC,ERBB2,0.09620829
+Immune (alveolar macrophage),ERBB2,0.08640256
+Immune (NK cell),ERBB2,0.08595702
+Immune (mast cell),ERBB2,0.080729716
+Endothelial cell (vascular),ERBB2,0.073372945
+Myocyte (sk. muscle),ERBB2,0.057273556
+"Myocyte (sk. muscle, cytoplasmic)",ERBB2,0.047556132
+Immune (DC/macrophage),ERBB2,0.042342376
+Neuroendocrine,ERBB2,0.032997284
+Endothelial cell (lymphatic),ERBB2,0.032897096
+Melanocyte,ERBB2,0.029636707
+Immune (T cell),ERBB2,0.02150919
+Adipocyte,ERBB2,0.01998599
+Myocyte (NMJ-rich),ERBB2,0.018482912
+Immune (B cell),ERBB2,0.01603003
+Immune (Langerhans),ERBB2,0.0
+Neuronal,ERBB2,0.0

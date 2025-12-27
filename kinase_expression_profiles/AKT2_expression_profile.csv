@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Adipocyte,AKT2,0.5975045
+Melanocyte,AKT2,0.47451302
+Myofibroblast,AKT2,0.3604434
+Epithelial cell (basal keratinocyte),AKT2,0.34723884
+Epithelial cell (squamous),AKT2,0.32845226
+Epithelial cell (suprabasal),AKT2,0.31318045
+Epithelial cell (suprabasal keratinocyte),AKT2,0.2994245
+Epithelial cell (basal),AKT2,0.29180935
+Myocyte (NMJ-rich),AKT2,0.27986515
+Epithelial cell (Hillock),AKT2,0.27684215
+Epithelial cell (ciliated),AKT2,0.27678394
+Mucous cell,AKT2,0.27330458
+Epithelial cell (luminal),AKT2,0.25112867
+"Myocyte (sk. muscle, cytoplasmic)",AKT2,0.23774374
+Epithelial cell (mature keratinocyte),AKT2,0.2368691
+Immune (B cell),AKT2,0.22727808
+ICCs,AKT2,0.22630914
+Immune (NK cell),AKT2,0.22219732
+Immune (Langerhans),AKT2,0.21281502
+Myocyte (smooth muscle),AKT2,0.20834407
+Epithelial cell (club),AKT2,0.20717731
+Myocyte (sk. muscle),AKT2,0.20596443
+Myocyte (cardiac),AKT2,0.19991118
+Neuronal,AKT2,0.195219
+"Myocyte (cardiac, cytoplasmic)",AKT2,0.19106373
+Fibroblast,AKT2,0.18411806
+Neuroendocrine,AKT2,0.17996131
+Schwann cell,AKT2,0.17309333
+Satellite cell,AKT2,0.17274903
+Endothelial cell (lymphatic),AKT2,0.16919301
+Immune (T cell),AKT2,0.16397683
+Sweat gland cell,AKT2,0.16059116
+Epithelial cell (alveolar type II),AKT2,0.15925282
+Myoepithelial (basal),AKT2,0.15629852
+Epithelial cell (alveolar type I),AKT2,0.14953968
+Pericyte/SMC,AKT2,0.14245503
+Immune (DC),AKT2,0.1399953
+Endothelial cell (vascular),AKT2,0.1306747
+Immune (mast cell),AKT2,0.12973988
+Immune (alveolar macrophage),AKT2,0.12331312
+Immune (DC/macrophage),AKT2,0.118680835
+Sebaceous gland cell,AKT2,0.096576996
+Epithelial cell (cornified keratinocyte),AKT2,0.021470219

@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+heart,Immune (lymphocyte),STK10,1.2887931,33.2378223495702
+esophagusmucosa,Immune (lymphocyte),STK10,1.2458194,32.893289328932894
+esophagusmuscularis,Immune (lymphocyte),STK10,1.25,29.2358803986711
+skeletalmuscle,Immune (lymphocyte),STK10,1.2857143,28.000000000000004
+lung,Immune (myeloid),STK10,1.2762599,27.004426955238564
+lung,Immune (lymphocyte),STK10,1.2298851,24.0
+heart,Immune (myeloid),STK10,1.2062781,20.90951711204876
+prostate,Immune (lymphocyte),STK10,1.1901408,20.821114369501466
+prostate,Immune (myeloid),STK10,1.273585,20.62256809338521
+skeletalmuscle,Immune (myeloid),STK10,1.1549295,19.26729986431479
+skin,Immune (lymphocyte),STK10,1.0714285,18.666666666666668
+breast,Immune (myeloid),STK10,1.609375,17.877094972067038
+esophagusmuscularis,Immune (myeloid),STK10,1.1909263,17.85352683091461
+prostate,Glia,STK10,1.0909091,16.417910447761194
+breast,Endothelial cell,STK10,1.1726619,15.777525539160044
+esophagusmucosa,Immune (myeloid),STK10,1.2051282,13.948497854077251
+esophagusmuscularis,Adipocyte,STK10,1.0952381,12.0
+heart,Endothelial cell,STK10,1.1331829,11.60445317616241
+skeletalmuscle,Glia,STK10,1.25,11.428571428571429
+skin,Immune (myeloid),STK10,1.0,11.1731843575419
+esophagusmucosa,Stromal,STK10,1.1028037,10.819009100101113
+skin,Epithelial cell,STK10,2.5238094,10.465116279069768
+lung,Endothelial cell,STK10,1.1153846,10.415149308084487
+skin,Endothelial cell,STK10,1.0849056,10.361681329423265
+esophagusmuscularis,Glia,STK10,1.113402,10.0
+skeletalmuscle,Endothelial cell,STK10,1.0944881,9.541697971450038
+prostate,Endothelial cell,STK10,1.0708956,9.483368719037507
+esophagusmucosa,Endothelial cell,STK10,1.1438357,9.362975630611372
+esophagusmucosa,Glia,STK10,1.0,9.230769230769232
+esophagusmuscularis,Endothelial cell,STK10,1.1142132,8.832100425913472
+heart,Glia,STK10,1.04,8.389261744966444
+skin,Adipocyte,STK10,1.0,8.064516129032258
+lung,Fibroblast,STK10,1.117647,8.062330623306233
+esophagusmuscularis,Neuron,STK10,1.0,8.0
+lung,Muscle,STK10,1.0,7.361963190184049
+skin,Muscle,STK10,1.0,6.989247311827956
+heart,Muscle,STK10,1.1149701,6.921419098143236
+breast,Fibroblast,STK10,1.0434783,5.616605616605617
+breast,Adipocyte,STK10,1.0729166,5.45144804088586
+prostate,Muscle,STK10,1.112069,5.171645118145341
+lung,Epithelial cell,STK10,1.0850537,5.030114226375908
+esophagusmuscularis,Muscle,STK10,1.0977242,5.023875176541798
+breast,Muscle,STK10,1.1428572,4.605263157894736
+heart,Fibroblast,STK10,1.0808823,4.3932378593733175
+esophagusmucosa,Muscle,STK10,1.0,4.39121756487026
+esophagusmuscularis,Fibroblast,STK10,1.0685841,4.342396003458545
+heart,Adipocyte,STK10,1.375,4.145077720207254
+esophagusmucosa,Epithelial cell,STK10,1.1847247,4.080893012467382
+breast,Epithelial cell,STK10,1.0454545,3.414381789963787
+prostate,Epithelial cell,STK10,1.05,3.380574697698609
+skin,Melanocyte,STK10,1.0,3.308823529411765
+prostate,Fibroblast,STK10,1.027027,3.239929947460595
+skeletalmuscle,Adipocyte,STK10,1.0,3.1446540880503147
+esophagusmucosa,Fibroblast,STK10,1.0357143,2.984014209591474
+skeletalmuscle,Muscle,STK10,1.0616332,2.875371051349076
+skeletalmuscle,Fibroblast,STK10,1.0301205,2.7927321668909824
+skin,Fibroblast,STK10,1.0,2.2684310018903595
+skin,Epithelial cell (keratinocyte),STK10,1.1904762,2.157164869029276
+skin,Other,STK10,1.125,1.7699115044247788

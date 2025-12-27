@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skin,Melanocyte,EPHA5,1.2,20.22058823529412
+esophagusmuscularis,Neuron,EPHA5,1.2,20.0
+prostate,Glia,EPHA5,1.5,8.955223880597014
+esophagusmuscularis,Adipocyte,EPHA5,1.0,8.571428571428571
+skeletalmuscle,Glia,EPHA5,1.0,5.714285714285714
+lung,Immune (myeloid),EPHA5,1.0620915,5.017215937038859
+prostate,Epithelial cell,EPHA5,1.2297535,4.923503662289256
+skin,Epithelial cell,EPHA5,1.1724138,4.817275747508306
+esophagusmuscularis,Glia,EPHA5,1.0232558,4.43298969072165
+lung,Muscle,EPHA5,1.0,4.294478527607362
+prostate,Muscle,EPHA5,1.168421,4.235399019170753
+skin,Fibroblast,EPHA5,1.0454545,4.158790170132325
+heart,Fibroblast,EPHA5,1.1138889,3.876386346505868
+prostate,Fibroblast,EPHA5,1.1136364,3.852889667250438
+skin,Epithelial cell (keratinocyte),EPHA5,1.0135136,3.800719054956344
+lung,Epithelial cell,EPHA5,1.0515118,3.709241952232607
+heart,Muscle,EPHA5,1.0444965,3.5394562334217508
+heart,Glia,EPHA5,1.0,3.355704697986577
+skin,Endothelial cell,EPHA5,1.1470588,3.3235581622678394
+skeletalmuscle,Adipocyte,EPHA5,1.0,3.1446540880503147
+esophagusmuscularis,Endothelial cell,EPHA5,1.0428572,3.138309796009863
+lung,Fibroblast,EPHA5,1.0217391,3.116531165311653
+lung,Endothelial cell,EPHA5,1.0352942,3.095411507647487
+esophagusmuscularis,Muscle,EPHA5,1.0430839,2.9659022126572063
+breast,Epithelial cell,EPHA5,1.1151515,2.845318158303156
+skin,Immune (myeloid),EPHA5,1.0,2.793296089385475
+skin,Immune (lymphocyte),EPHA5,1.0,2.666666666666667
+skeletalmuscle,Muscle,EPHA5,1.0184255,2.644986930131585
+esophagusmuscularis,Fibroblast,EPHA5,1.0255475,2.6323374003266404
+breast,Muscle,EPHA5,1.25,2.631578947368421
+heart,Adipocyte,EPHA5,1.0,2.5906735751295336
+skin,Other,EPHA5,1.0,2.433628318584071
+prostate,Endothelial cell,EPHA5,1.0441177,2.40622788393489
+skeletalmuscle,Fibroblast,EPHA5,1.0352113,2.388963660834455
+esophagusmucosa,Stromal,EPHA5,1.0,2.3255813953488373
+skin,Muscle,EPHA5,1.0,2.1505376344086025
+esophagusmuscularis,Immune (myeloid),EPHA5,1.0166667,2.0249746878164023
+esophagusmucosa,Fibroblast,EPHA5,1.0877193,2.024866785079929
+esophagusmuscularis,Immune (lymphocyte),EPHA5,1.0,1.9933554817275747
+breast,Adipocyte,EPHA5,1.0,1.8171493469619533
+heart,Endothelial cell,EPHA5,1.0075758,1.7288801571709236
+breast,Endothelial cell,EPHA5,1.1333333,1.70261066969353
+breast,Immune (myeloid),EPHA5,1.0,1.675977653631285
+skeletalmuscle,Endothelial cell,EPHA5,1.0454545,1.6528925619834711
+skeletalmuscle,Immune (myeloid),EPHA5,1.0,1.6282225237449115
+skin,Adipocyte,EPHA5,1.0,1.6129032258064515
+breast,Fibroblast,EPHA5,1.0,1.5873015873015872
+prostate,Immune (myeloid),EPHA5,1.0,1.556420233463035
+lung,Immune (lymphocyte),EPHA5,1.0909091,1.5172413793103448
+esophagusmucosa,Endothelial cell,EPHA5,1.0149254,1.4322359982898676
+heart,Immune (myeloid),EPHA5,1.0,1.2814502265979058
+esophagusmucosa,Epithelial cell,EPHA5,1.0116959,1.239489707161496
+esophagusmucosa,Muscle,EPHA5,1.1666666,1.1976047904191618
+prostate,Immune (lymphocyte),EPHA5,1.0,1.0263929618768328
+heart,Immune (lymphocyte),EPHA5,1.0,1.002865329512894
+esophagusmucosa,Immune (myeloid),EPHA5,1.0,1.0014306151645207
+esophagusmucosa,Immune (lymphocyte),EPHA5,1.0,0.44004400440044
+esophagusmucosa,Glia,EPHA5,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),EPHA5,0.0,0.0

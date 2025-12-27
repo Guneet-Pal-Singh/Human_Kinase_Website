@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (DC),MAPK8,1.0444244
+Epithelial cell (cornified keratinocyte),MAPK8,1.0436188
+Epithelial cell (club),MAPK8,0.8474854
+Epithelial cell (Hillock),MAPK8,0.7835649
+Epithelial cell (luminal),MAPK8,0.7753822
+Neuroendocrine,MAPK8,0.76316917
+Neuronal,MAPK8,0.7534103
+Epithelial cell (squamous),MAPK8,0.73701435
+Epithelial cell (alveolar type II),MAPK8,0.7274057
+Myofibroblast,MAPK8,0.67292047
+Epithelial cell (basal),MAPK8,0.647804
+Mucous cell,MAPK8,0.62856054
+Epithelial cell (suprabasal),MAPK8,0.5865324
+Myoepithelial (basal),MAPK8,0.58476186
+Melanocyte,MAPK8,0.5826893
+Myocyte (cardiac),MAPK8,0.5818627
+Sweat gland cell,MAPK8,0.56795216
+Immune (alveolar macrophage),MAPK8,0.559974
+Epithelial cell (alveolar type I),MAPK8,0.54085433
+ICCs,MAPK8,0.51970077
+Endothelial cell (vascular),MAPK8,0.46814498
+Epithelial cell (basal keratinocyte),MAPK8,0.45164832
+Epithelial cell (suprabasal keratinocyte),MAPK8,0.43974087
+Epithelial cell (ciliated),MAPK8,0.43554235
+Sebaceous gland cell,MAPK8,0.43549976
+Endothelial cell (lymphatic),MAPK8,0.426787
+Adipocyte,MAPK8,0.42635384
+Immune (T cell),MAPK8,0.38658062
+Fibroblast,MAPK8,0.38488862
+Satellite cell,MAPK8,0.38011384
+Myocyte (smooth muscle),MAPK8,0.37582004
+Immune (DC/macrophage),MAPK8,0.3755698
+Immune (Langerhans),MAPK8,0.37227312
+Pericyte/SMC,MAPK8,0.36237702
+Schwann cell,MAPK8,0.33130956
+Immune (mast cell),MAPK8,0.31516835
+Immune (B cell),MAPK8,0.31110495
+Immune (NK cell),MAPK8,0.29611015
+Myocyte (sk. muscle),MAPK8,0.22824064
+Myocyte (NMJ-rich),MAPK8,0.20289639
+Epithelial cell (mature keratinocyte),MAPK8,0.17917365
+"Myocyte (sk. muscle, cytoplasmic)",MAPK8,0.156613
+"Myocyte (cardiac, cytoplasmic)",MAPK8,0.13818365

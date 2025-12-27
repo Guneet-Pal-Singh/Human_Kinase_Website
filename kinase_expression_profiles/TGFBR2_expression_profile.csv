@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Endothelial cell (lymphatic),TGFBR2,1.4635773
+Fibroblast,TGFBR2,1.1166577
+Endothelial cell (vascular),TGFBR2,1.1051724
+Epithelial cell (alveolar type I),TGFBR2,1.0533386
+Epithelial cell (alveolar type II),TGFBR2,0.9634964
+Schwann cell,TGFBR2,0.9573016
+Immune (T cell),TGFBR2,0.95223653
+ICCs,TGFBR2,0.8335106
+Immune (B cell),TGFBR2,0.79532516
+Immune (NK cell),TGFBR2,0.78991693
+Myocyte (cardiac),TGFBR2,0.75787777
+Immune (DC/macrophage),TGFBR2,0.74981594
+Adipocyte,TGFBR2,0.6267562
+Immune (mast cell),TGFBR2,0.5899295
+Immune (alveolar macrophage),TGFBR2,0.5639138
+"Myocyte (cardiac, cytoplasmic)",TGFBR2,0.5535734
+Myoepithelial (basal),TGFBR2,0.5324186
+Myocyte (smooth muscle),TGFBR2,0.5237008
+Epithelial cell (Hillock),TGFBR2,0.5032419
+Pericyte/SMC,TGFBR2,0.46721524
+Epithelial cell (basal keratinocyte),TGFBR2,0.45818746
+Immune (Langerhans),TGFBR2,0.4568834
+Immune (DC),TGFBR2,0.4220942
+Mucous cell,TGFBR2,0.4070162
+Epithelial cell (club),TGFBR2,0.40394017
+Epithelial cell (ciliated),TGFBR2,0.38175392
+Myofibroblast,TGFBR2,0.35409343
+Satellite cell,TGFBR2,0.29102674
+Epithelial cell (basal),TGFBR2,0.28716844
+Epithelial cell (luminal),TGFBR2,0.21418807
+Neuronal,TGFBR2,0.20131989
+Epithelial cell (suprabasal keratinocyte),TGFBR2,0.19840278
+Myocyte (NMJ-rich),TGFBR2,0.18666062
+"Myocyte (sk. muscle, cytoplasmic)",TGFBR2,0.15742944
+Epithelial cell (cornified keratinocyte),TGFBR2,0.15360352
+Melanocyte,TGFBR2,0.10462563
+Sebaceous gland cell,TGFBR2,0.10237158
+Epithelial cell (squamous),TGFBR2,0.08731635
+Sweat gland cell,TGFBR2,0.057423465
+Epithelial cell (suprabasal),TGFBR2,0.04389572
+Neuroendocrine,TGFBR2,0.04282094
+Myocyte (sk. muscle),TGFBR2,0.024454396
+Epithelial cell (mature keratinocyte),TGFBR2,0.0

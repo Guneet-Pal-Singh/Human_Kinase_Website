@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Adipocyte,PFKFB1,0.4783023
+Myocyte (NMJ-rich),PFKFB1,0.1843846
+Myocyte (sk. muscle),PFKFB1,0.16260047
+Immune (DC),PFKFB1,0.06126307
+"Myocyte (sk. muscle, cytoplasmic)",PFKFB1,0.057089575
+Sweat gland cell,PFKFB1,0.037077695
+Satellite cell,PFKFB1,0.01750576
+ICCs,PFKFB1,0.015926957
+Immune (alveolar macrophage),PFKFB1,0.015615482
+Epithelial cell (ciliated),PFKFB1,0.013801083
+Epithelial cell (mature keratinocyte),PFKFB1,0.013281947
+Melanocyte,PFKFB1,0.011184081
+Myoepithelial (basal),PFKFB1,0.010492423
+Epithelial cell (luminal),PFKFB1,0.009963727
+Epithelial cell (Hillock),PFKFB1,0.00885396
+Epithelial cell (alveolar type II),PFKFB1,0.008834816
+Epithelial cell (suprabasal),PFKFB1,0.00873909
+Myocyte (cardiac),PFKFB1,0.008586429
+Mucous cell,PFKFB1,0.00821488
+Epithelial cell (alveolar type I),PFKFB1,0.0077219564
+Epithelial cell (club),PFKFB1,0.0076809004
+Epithelial cell (suprabasal keratinocyte),PFKFB1,0.0075228238
+Epithelial cell (basal),PFKFB1,0.007209698
+Endothelial cell (lymphatic),PFKFB1,0.007178553
+Myofibroblast,PFKFB1,0.005136223
+Endothelial cell (vascular),PFKFB1,0.003908853
+Immune (DC/macrophage),PFKFB1,0.0038826107
+Myocyte (smooth muscle),PFKFB1,0.003810742
+Pericyte/SMC,PFKFB1,0.0034916627
+Fibroblast,PFKFB1,0.003468158
+Epithelial cell (basal keratinocyte),PFKFB1,0.0027806857
+Immune (mast cell),PFKFB1,0.002518035
+Immune (T cell),PFKFB1,0.0019919032
+Epithelial cell (squamous),PFKFB1,0.0008706574
+"Myocyte (cardiac, cytoplasmic)",PFKFB1,0.000753775
+Epithelial cell (cornified keratinocyte),PFKFB1,0.0
+Immune (Langerhans),PFKFB1,0.0
+Immune (B cell),PFKFB1,0.0
+Immune (NK cell),PFKFB1,0.0
+Neuronal,PFKFB1,0.0
+Neuroendocrine,PFKFB1,0.0
+Schwann cell,PFKFB1,0.0
+Sebaceous gland cell,PFKFB1,0.0

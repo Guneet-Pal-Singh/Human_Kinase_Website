@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+heart,Muscle,MAPKAPK3,1.4206996,17.299403183023873
+lung,Immune (myeloid),MAPKAPK3,1.141593,9.26381373995737
+prostate,Immune (myeloid),MAPKAPK3,1.1463414,7.976653696498054
+breast,Adipocyte,MAPKAPK3,1.1092438,6.757524134014764
+skeletalmuscle,Muscle,MAPKAPK3,1.0930736,6.140622923220061
+esophagusmuscularis,Adipocyte,MAPKAPK3,1.0,5.714285714285714
+esophagusmucosa,Epithelial cell,MAPKAPK3,1.143949,5.690055088431429
+heart,Immune (myeloid),MAPKAPK3,1.0574713,5.43834974214721
+breast,Immune (myeloid),MAPKAPK3,1.0,4.46927374301676
+esophagusmucosa,Immune (myeloid),MAPKAPK3,1.0169492,4.220314735336195
+skin,Other,MAPKAPK3,1.0,4.20353982300885
+esophagusmuscularis,Neuron,MAPKAPK3,1.0,4.0
+esophagusmuscularis,Immune (myeloid),MAPKAPK3,1.046729,3.6112048599392503
+heart,Immune (lymphocyte),MAPKAPK3,1.12,3.5816618911174785
+prostate,Epithelial cell,MAPKAPK3,1.0554156,3.441251679452174
+lung,Epithelial cell,MAPKAPK3,1.0303398,3.42263759086189
+esophagusmuscularis,Immune (lymphocyte),MAPKAPK3,1.0,2.6578073089701
+heart,Adipocyte,MAPKAPK3,1.2,2.5906735751295336
+prostate,Muscle,MAPKAPK3,1.0172414,2.5858225590726707
+prostate,Immune (lymphocyte),MAPKAPK3,1.0,2.346041055718475
+esophagusmucosa,Immune (lymphocyte),MAPKAPK3,1.0238096,2.31023102310231
+skin,Immune (myeloid),MAPKAPK3,1.0,2.23463687150838
+skin,Epithelial cell,MAPKAPK3,1.0769231,2.1594684385382057
+heart,Glia,MAPKAPK3,1.1666666,2.013422818791946
+skeletalmuscle,Immune (lymphocyte),MAPKAPK3,1.0,2.0
+esophagusmucosa,Stromal,MAPKAPK3,1.0555556,1.820020222446916
+esophagusmuscularis,Muscle,MAPKAPK3,1.0150375,1.788956890174188
+lung,Immune (lymphocyte),MAPKAPK3,1.0,1.6551724137931034
+skin,Immune (lymphocyte),MAPKAPK3,1.0,1.3333333333333337
+breast,Muscle,MAPKAPK3,1.0,1.3157894736842104
+prostate,Fibroblast,MAPKAPK3,1.0,1.3134851138353765
+skeletalmuscle,Adipocyte,MAPKAPK3,1.0,1.257861635220126
+breast,Fibroblast,MAPKAPK3,1.1,1.221001221001221
+skin,Epithelial cell (keratinocyte),MAPKAPK3,1.0869565,1.1813045711350796
+skeletalmuscle,Immune (myeloid),MAPKAPK3,1.0,1.0854816824966078
+esophagusmucosa,Muscle,MAPKAPK3,1.0,0.7984031936127743
+esophagusmuscularis,Fibroblast,MAPKAPK3,1.0,0.7973868767412816
+prostate,Endothelial cell,MAPKAPK3,1.0,0.743099787685775
+skin,Melanocyte,MAPKAPK3,1.0,0.7352941176470588
+breast,Epithelial cell,MAPKAPK3,1.0487804,0.7070184514571478
+esophagusmucosa,Endothelial cell,MAPKAPK3,1.0645162,0.6626763574176998
+lung,Muscle,MAPKAPK3,1.0,0.6134969325153374
+esophagusmucosa,Fibroblast,MAPKAPK3,1.0,0.5683836589698046
+lung,Endothelial cell,MAPKAPK3,1.0,0.5462490895848506
+skin,Endothelial cell,MAPKAPK3,1.0,0.4887585532746823
+esophagusmuscularis,Endothelial cell,MAPKAPK3,1.05,0.4483299708585518
+esophagusmuscularis,Glia,MAPKAPK3,1.0,0.4123711340206186
+lung,Fibroblast,MAPKAPK3,1.0,0.2710027100271002
+skeletalmuscle,Fibroblast,MAPKAPK3,1.1428572,0.2355316285329744
+breast,Endothelial cell,MAPKAPK3,1.0,0.2270147559591373
+heart,Fibroblast,MAPKAPK3,1.0,0.2261225368795089
+skin,Fibroblast,MAPKAPK3,1.0,0.1890359168241966
+skeletalmuscle,Endothelial cell,MAPKAPK3,1.0,0.1502629601803155
+heart,Endothelial cell,MAPKAPK3,1.125,0.1047806155861165
+esophagusmucosa,Glia,MAPKAPK3,0.0,0.0
+prostate,Glia,MAPKAPK3,0.0,0.0
+skeletalmuscle,Glia,MAPKAPK3,0.0,0.0
+skin,Adipocyte,MAPKAPK3,0.0,0.0
+skin,Muscle,MAPKAPK3,0.0,0.0

@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (cornified keratinocyte),MAPK13,0.3550338
+Epithelial cell (squamous),MAPK13,0.31081825
+Epithelial cell (suprabasal),MAPK13,0.24362597
+Epithelial cell (mature keratinocyte),MAPK13,0.1572868
+Neuroendocrine,MAPK13,0.14689942
+Epithelial cell (Hillock),MAPK13,0.14630763
+Immune (DC),MAPK13,0.13547102
+Epithelial cell (basal),MAPK13,0.121189
+Mucous cell,MAPK13,0.11399995
+Epithelial cell (club),MAPK13,0.1090546
+Epithelial cell (suprabasal keratinocyte),MAPK13,0.09870889
+Epithelial cell (basal keratinocyte),MAPK13,0.09540491
+Sebaceous gland cell,MAPK13,0.09282326
+Epithelial cell (alveolar type II),MAPK13,0.08796939
+Immune (alveolar macrophage),MAPK13,0.08488622
+Immune (B cell),MAPK13,0.081196696
+Myocyte (sk. muscle),MAPK13,0.07651406
+Sweat gland cell,MAPK13,0.076099075
+Epithelial cell (luminal),MAPK13,0.071173124
+Immune (NK cell),MAPK13,0.0647939
+Immune (T cell),MAPK13,0.0629498
+Myocyte (NMJ-rich),MAPK13,0.05792432
+Myofibroblast,MAPK13,0.055709906
+Epithelial cell (alveolar type I),MAPK13,0.055658605
+Myoepithelial (basal),MAPK13,0.049143437
+Immune (mast cell),MAPK13,0.046576
+ICCs,MAPK13,0.042386297
+Epithelial cell (ciliated),MAPK13,0.036978796
+Myocyte (cardiac),MAPK13,0.03615164
+Immune (DC/macrophage),MAPK13,0.034953743
+Fibroblast,MAPK13,0.031220784
+Endothelial cell (lymphatic),MAPK13,0.02732205
+"Myocyte (sk. muscle, cytoplasmic)",MAPK13,0.02581207
+Myocyte (smooth muscle),MAPK13,0.020002782
+Melanocyte,MAPK13,0.019647565
+Pericyte/SMC,MAPK13,0.01824654
+Satellite cell,MAPK13,0.016821207
+Endothelial cell (vascular),MAPK13,0.013264225
+Adipocyte,MAPK13,0.011870632
+"Myocyte (cardiac, cytoplasmic)",MAPK13,0.010444615
+Schwann cell,MAPK13,0.009314544
+Immune (Langerhans),MAPK13,0.0
+Neuronal,MAPK13,0.0

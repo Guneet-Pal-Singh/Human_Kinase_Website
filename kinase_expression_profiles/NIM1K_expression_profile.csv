@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (alveolar type II),NIM1K,0.44467008
+Schwann cell,NIM1K,0.31159672
+Neuroendocrine,NIM1K,0.2760491
+Neuronal,NIM1K,0.13269818
+Sweat gland cell,NIM1K,0.10172519
+Immune (Langerhans),NIM1K,0.09481561
+Epithelial cell (basal keratinocyte),NIM1K,0.087990746
+Epithelial cell (cornified keratinocyte),NIM1K,0.08496762
+Immune (alveolar macrophage),NIM1K,0.08422513
+Myofibroblast,NIM1K,0.07535804
+ICCs,NIM1K,0.0745299
+Epithelial cell (ciliated),NIM1K,0.073666155
+Immune (DC),NIM1K,0.0732412
+Myocyte (sk. muscle),NIM1K,0.072602704
+Epithelial cell (suprabasal keratinocyte),NIM1K,0.064201176
+Epithelial cell (club),NIM1K,0.057933737
+Epithelial cell (Hillock),NIM1K,0.05611673
+Myocyte (cardiac),NIM1K,0.055223014
+Melanocyte,NIM1K,0.05494027
+Immune (mast cell),NIM1K,0.053625487
+Myocyte (NMJ-rich),NIM1K,0.052629076
+Epithelial cell (alveolar type I),NIM1K,0.051820632
+Satellite cell,NIM1K,0.049392752
+Fibroblast,NIM1K,0.049339898
+Adipocyte,NIM1K,0.04755796
+Epithelial cell (basal),NIM1K,0.047398705
+Immune (T cell),NIM1K,0.044397287
+Myoepithelial (basal),NIM1K,0.04351213
+Myocyte (smooth muscle),NIM1K,0.042258035
+Immune (B cell),NIM1K,0.040341567
+Immune (DC/macrophage),NIM1K,0.04028905
+Pericyte/SMC,NIM1K,0.039053407
+Endothelial cell (vascular),NIM1K,0.038479652
+Epithelial cell (luminal),NIM1K,0.037913036
+Endothelial cell (lymphatic),NIM1K,0.034855705
+Epithelial cell (suprabasal),NIM1K,0.034233753
+Sebaceous gland cell,NIM1K,0.03382625
+Immune (NK cell),NIM1K,0.03155045
+Mucous cell,NIM1K,0.026662905
+"Myocyte (sk. muscle, cytoplasmic)",NIM1K,0.016945973
+Epithelial cell (squamous),NIM1K,0.010729898
+"Myocyte (cardiac, cytoplasmic)",NIM1K,0.0071809487
+Epithelial cell (mature keratinocyte),NIM1K,0.0

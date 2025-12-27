@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Neuron,LMTK3,1.0,8.0
+lung,Epithelial cell,LMTK3,1.0656152,6.583592938733125
+esophagusmuscularis,Adipocyte,LMTK3,1.0,6.285714285714287
+breast,Epithelial cell,LMTK3,1.0929577,6.121745128470426
+lung,Immune (myeloid),LMTK3,1.0576369,5.689457288080013
+skin,Epithelial cell,LMTK3,1.117647,5.647840531561462
+esophagusmucosa,Epithelial cell,LMTK3,1.0849421,5.632067265874166
+prostate,Epithelial cell,LMTK3,1.0679013,4.212716161747497
+skin,Immune (myeloid),LMTK3,1.0,3.910614525139665
+skin,Endothelial cell,LMTK3,1.0256411,3.812316715542522
+skeletalmuscle,Muscle,LMTK3,1.0660378,3.7570333613929376
+prostate,Muscle,LMTK3,1.0375,3.566651805617477
+esophagusmuscularis,Muscle,LMTK3,1.0283018,3.564462976662856
+skin,Other,LMTK3,1.0,3.5398230088495577
+breast,Adipocyte,LMTK3,1.048387,3.520726859738785
+skin,Epithelial cell (keratinocyte),LMTK3,1.060606,3.389830508474576
+esophagusmucosa,Stromal,LMTK3,1.0909091,3.336703741152679
+heart,Muscle,LMTK3,1.038071,3.2659151193633957
+skin,Fibroblast,LMTK3,1.0,3.213610586011342
+esophagusmuscularis,Endothelial cell,LMTK3,1.0352113,3.183142793095718
+esophagusmucosa,Glia,LMTK3,1.0,3.076923076923077
+lung,Endothelial cell,LMTK3,1.025,2.9133284777858703
+skeletalmuscle,Glia,LMTK3,1.0,2.857142857142857
+skeletalmuscle,Fibroblast,LMTK3,1.0240964,2.7927321668909824
+lung,Fibroblast,LMTK3,1.05,2.710027100271003
+skin,Muscle,LMTK3,1.0,2.6881720430107525
+skin,Immune (lymphocyte),LMTK3,1.0,2.666666666666667
+prostate,Immune (myeloid),LMTK3,1.0,2.626459143968872
+esophagusmuscularis,Fibroblast,LMTK3,1.0221403,2.603516187914305
+esophagusmuscularis,Glia,LMTK3,1.0,2.5773195876288657
+breast,Endothelial cell,LMTK3,1.0,2.4971623155505105
+lung,Muscle,LMTK3,1.0,2.4539877300613497
+esophagusmuscularis,Immune (myeloid),LMTK3,1.0140845,2.3962200472494097
+breast,Fibroblast,LMTK3,1.0,2.31990231990232
+skeletalmuscle,Endothelial cell,LMTK3,1.0357143,2.103681442524418
+lung,Immune (lymphocyte),LMTK3,1.0,2.0689655172413794
+breast,Muscle,LMTK3,1.0,1.973684210526316
+breast,Immune (myeloid),LMTK3,1.5714285,1.9553072625698324
+prostate,Immune (lymphocyte),LMTK3,1.0,1.906158357771261
+skin,Melanocyte,LMTK3,1.8,1.8382352941176472
+skeletalmuscle,Immune (myeloid),LMTK3,1.0,1.7639077340569878
+prostate,Endothelial cell,LMTK3,1.0208334,1.6985138004246283
+heart,Fibroblast,LMTK3,1.0064516,1.6689996769678046
+prostate,Fibroblast,LMTK3,1.0555556,1.5761821366024518
+esophagusmucosa,Immune (myeloid),LMTK3,1.0,1.5736766809728182
+heart,Adipocyte,LMTK3,1.0,1.5544041450777202
+prostate,Glia,LMTK3,1.0,1.4925373134328357
+esophagusmuscularis,Immune (lymphocyte),LMTK3,1.0,1.32890365448505
+esophagusmucosa,Fibroblast,LMTK3,1.0,1.2788632326820604
+heart,Immune (myeloid),LMTK3,1.0123457,1.2658227848101269
+esophagusmucosa,Immune (lymphocyte),LMTK3,1.0,1.2651265126512652
+skeletalmuscle,Adipocyte,LMTK3,1.0,1.257861635220126
+heart,Endothelial cell,LMTK3,1.0106384,1.2311722331368695
+skeletalmuscle,Immune (lymphocyte),LMTK3,1.0,1.0
+esophagusmucosa,Endothelial cell,LMTK3,1.0227273,0.940572894399316
+heart,Immune (lymphocyte),LMTK3,1.0,0.7163323782234957
+heart,Glia,LMTK3,1.0,0.6711409395973155
+esophagusmucosa,Muscle,LMTK3,1.0,0.1996007984031935
+skin,Adipocyte,LMTK3,0.0,0.0

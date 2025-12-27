@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Neuron,PI4KA,1.75,32.0
+skin,Epithelial cell,PI4KA,1.4104047,28.7375415282392
+lung,Immune (myeloid),PI4KA,1.2873564,27.102803738317757
+esophagusmucosa,Stromal,PI4KA,1.3056604,26.79474216380182
+esophagusmucosa,Immune (myeloid),PI4KA,1.2194357,22.818311874105863
+esophagusmuscularis,Adipocyte,PI4KA,1.2564102,22.285714285714285
+heart,Muscle,PI4KA,1.2895474,20.697944297082227
+prostate,Immune (myeloid),PI4KA,1.1714286,20.428015564202333
+prostate,Muscle,PI4KA,1.2175825,20.2853321444494
+breast,Immune (myeloid),PI4KA,1.25,20.11173184357542
+esophagusmucosa,Epithelial cell,PI4KA,1.2052765,20.05653812699333
+skin,Immune (myeloid),PI4KA,1.2285714,19.553072625698324
+lung,Epithelial cell,PI4KA,1.1708928,19.4932502596054
+prostate,Glia,PI4KA,1.1538461,19.402985074626866
+skin,Muscle,PI4KA,1.0857143,18.817204301075268
+heart,Adipocyte,PI4KA,1.1944444,18.65284974093264
+skin,Melanocyte,PI4KA,1.08,18.38235294117647
+heart,Immune (myeloid),PI4KA,1.1464041,18.25285200812627
+breast,Epithelial cell,PI4KA,1.1905231,17.46852905673392
+skin,Endothelial cell,PI4KA,1.1686747,16.226783968719452
+prostate,Epithelial cell,PI4KA,1.1700535,16.209422268452304
+esophagusmucosa,Muscle,PI4KA,1.1728395,16.16766467065868
+esophagusmuscularis,Immune (myeloid),PI4KA,1.1524009,16.166047924400946
+skin,Adipocyte,PI4KA,1.0,16.129032258064516
+esophagusmucosa,Fibroblast,PI4KA,1.1633554,16.092362344582593
+skin,Immune (lymphocyte),PI4KA,1.1666666,16.0
+skin,Epithelial cell (keratinocyte),PI4KA,1.1294498,15.870570107858242
+esophagusmucosa,Immune (lymphocyte),PI4KA,1.1690141,15.62156215621562
+prostate,Fibroblast,PI4KA,1.1355932,15.499124343257442
+esophagusmucosa,Endothelial cell,PI4KA,1.1539528,15.412569474134246
+breast,Muscle,PI4KA,1.2608696,15.13157894736842
+esophagusmuscularis,Muscle,PI4KA,1.1481977,15.111977940681957
+skin,Other,PI4KA,1.132353,15.04424778761062
+breast,Fibroblast,PI4KA,1.107438,14.774114774114777
+lung,Fibroblast,PI4KA,1.119266,14.769647696476964
+lung,Immune (lymphocyte),PI4KA,1.0560747,14.758620689655173
+heart,Immune (lymphocyte),PI4KA,1.137255,14.613180515759314
+skeletalmuscle,Immune (myeloid),PI4KA,1.1121495,14.518317503392131
+breast,Endothelial cell,PI4KA,1.136,14.188422247446084
+esophagusmuscularis,Immune (lymphocyte),PI4KA,1.1190476,13.953488372093023
+lung,Endothelial cell,PI4KA,1.0943396,13.510560815731973
+lung,Muscle,PI4KA,1.1818181,13.496932515337424
+breast,Adipocyte,PI4KA,1.1561182,13.458262350936966
+esophagusmuscularis,Endothelial cell,PI4KA,1.133446,13.270567137413137
+skin,Fibroblast,PI4KA,1.115942,13.043478260869565
+prostate,Endothelial cell,PI4KA,1.132964,12.774239207360228
+esophagusmuscularis,Fibroblast,PI4KA,1.0826122,12.210586992026132
+heart,Fibroblast,PI4KA,1.1358792,12.124475072682245
+heart,Endothelial cell,PI4KA,1.1021739,12.049770792403406
+esophagusmuscularis,Glia,PI4KA,1.1081082,11.443298969072163
+skeletalmuscle,Fibroblast,PI4KA,1.099851,11.288694481830415
+prostate,Immune (lymphocyte),PI4KA,1.1184211,11.143695014662756
+heart,Glia,PI4KA,1.060606,11.073825503355703
+esophagusmucosa,Glia,PI4KA,1.1428572,10.76923076923077
+skeletalmuscle,Adipocyte,PI4KA,1.0588236,10.69182389937107
+skeletalmuscle,Muscle,PI4KA,1.0982684,10.2343715387001
+skeletalmuscle,Endothelial cell,PI4KA,1.037037,10.1427498121713
+skeletalmuscle,Immune (lymphocyte),PI4KA,1.1,10.0
+skeletalmuscle,Glia,PI4KA,1.0,8.571428571428571

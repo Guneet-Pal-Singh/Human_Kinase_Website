@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Endothelial cell (vascular),ACVRL1,0.29164693
+Fibroblast,ACVRL1,0.20665282
+Endothelial cell (lymphatic),ACVRL1,0.20383145
+Immune (alveolar macrophage),ACVRL1,0.14615689
+"Myocyte (cardiac, cytoplasmic)",ACVRL1,0.063119866
+Pericyte/SMC,ACVRL1,0.059950076
+Satellite cell,ACVRL1,0.05421843
+Immune (DC),ACVRL1,0.050240256
+ICCs,ACVRL1,0.048555385
+Immune (DC/macrophage),ACVRL1,0.043163154
+Myofibroblast,ACVRL1,0.039309658
+"Myocyte (sk. muscle, cytoplasmic)",ACVRL1,0.02900087
+Immune (mast cell),ACVRL1,0.026688064
+Myocyte (smooth muscle),ACVRL1,0.020260742
+Schwann cell,ACVRL1,0.019238297
+Epithelial cell (ciliated),ACVRL1,0.014054023
+Myocyte (cardiac),ACVRL1,0.013145445
+Epithelial cell (Hillock),ACVRL1,0.010306138
+Epithelial cell (squamous),ACVRL1,0.010136563
+Epithelial cell (club),ACVRL1,0.008873275
+Immune (B cell),ACVRL1,0.008208211
+Adipocyte,ACVRL1,0.0068879467
+Epithelial cell (suprabasal),ACVRL1,0.005311868
+Immune (T cell),ACVRL1,0.0050950935
+Immune (NK cell),ACVRL1,0.0048577175
+Epithelial cell (luminal),ACVRL1,0.0042545907
+Epithelial cell (basal),ACVRL1,0.004170565
+Mucous cell,ACVRL1,0.0041105435
+Epithelial cell (alveolar type II),ACVRL1,0.0028441953
+Epithelial cell (alveolar type I),ACVRL1,0.0015952886
+Myocyte (sk. muscle),ACVRL1,0.0008948921
+Epithelial cell (cornified keratinocyte),ACVRL1,0.0
+Epithelial cell (basal keratinocyte),ACVRL1,0.0
+Epithelial cell (suprabasal keratinocyte),ACVRL1,0.0
+Epithelial cell (mature keratinocyte),ACVRL1,0.0
+Melanocyte,ACVRL1,0.0
+Immune (Langerhans),ACVRL1,0.0
+Myoepithelial (basal),ACVRL1,0.0
+Myocyte (NMJ-rich),ACVRL1,0.0
+Neuronal,ACVRL1,0.0
+Neuroendocrine,ACVRL1,0.0
+Sebaceous gland cell,ACVRL1,0.0
+Sweat gland cell,ACVRL1,0.0

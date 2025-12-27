@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skin,Other,WEE1,1.2191781,16.150442477876105
+skin,Epithelial cell (keratinocyte),WEE1,1.2473118,14.329738058551616
+heart,Muscle,WEE1,1.1359743,7.742042440318303
+breast,Epithelial cell,WEE1,1.1911422,7.397827211588205
+esophagusmucosa,Stromal,WEE1,1.1129032,6.268958543983821
+esophagusmucosa,Epithelial cell,WEE1,1.1610979,6.074224412873297
+skin,Epithelial cell,WEE1,1.21875,5.3156146179402
+prostate,Muscle,WEE1,1.0366973,4.859563085153812
+esophagusmuscularis,Neuron,WEE1,1.0,4.0
+esophagusmuscularis,Muscle,WEE1,1.0641025,3.6720694061470174
+heart,Fibroblast,WEE1,1.0390879,3.3056961343813933
+esophagusmuscularis,Fibroblast,WEE1,1.115625,3.074262657315784
+prostate,Epithelial cell,WEE1,1.0811595,2.990508386425692
+prostate,Glia,WEE1,1.0,2.985074626865672
+esophagusmucosa,Muscle,WEE1,1.0714285,2.7944111776447107
+skeletalmuscle,Fibroblast,WEE1,1.0181818,2.7759084791386277
+breast,Muscle,WEE1,1.25,2.631578947368421
+prostate,Fibroblast,WEE1,1.0666667,2.626970227670753
+lung,Fibroblast,WEE1,1.1290323,2.100271002710027
+breast,Fibroblast,WEE1,1.117647,2.0757020757020754
+esophagusmucosa,Fibroblast,WEE1,1.0754716,1.8827708703374777
+lung,Muscle,WEE1,1.6666666,1.8404907975460123
+esophagusmuscularis,Endothelial cell,WEE1,1.2926829,1.8381528805200624
+breast,Immune (myeloid),WEE1,1.0,1.675977653631285
+lung,Epithelial cell,WEE1,1.0266666,1.557632398753894
+heart,Adipocyte,WEE1,1.0,1.5544041450777202
+skin,Immune (lymphocyte),WEE1,1.0,1.3333333333333337
+prostate,Immune (lymphocyte),WEE1,1.1111112,1.3196480938416422
+esophagusmuscularis,Immune (myeloid),WEE1,1.030303,1.113736078299021
+skeletalmuscle,Endothelial cell,WEE1,1.0714285,1.051840721262209
+esophagusmucosa,Immune (myeloid),WEE1,1.1428572,1.0014306151645207
+esophagusmucosa,Immune (lymphocyte),WEE1,1.0,0.99009900990099
+lung,Immune (myeloid),WEE1,1.0847458,0.9673717002787342
+breast,Endothelial cell,WEE1,1.0,0.7945516458569807
+prostate,Immune (myeloid),WEE1,1.0,0.7782101167315175
+skin,Melanocyte,WEE1,1.0,0.7352941176470588
+skeletalmuscle,Muscle,WEE1,1.0368098,0.7221656107394444
+esophagusmuscularis,Glia,WEE1,1.0,0.7216494845360825
+lung,Immune (lymphocyte),WEE1,1.2,0.6896551724137931
+heart,Glia,WEE1,1.0,0.6711409395973155
+heart,Endothelial cell,WEE1,1.0588236,0.6679764243614932
+skin,Endothelial cell,WEE1,1.0,0.5865102639296188
+esophagusmuscularis,Adipocyte,WEE1,1.0,0.5714285714285714
+skeletalmuscle,Immune (myeloid),WEE1,1.0,0.5427408412483039
+prostate,Endothelial cell,WEE1,1.0666667,0.5307855626326964
+lung,Endothelial cell,WEE1,1.0,0.4005826656955572
+skin,Fibroblast,WEE1,1.0,0.3780718336483932
+esophagusmucosa,Endothelial cell,WEE1,1.0,0.3420265070542967
+esophagusmuscularis,Immune (lymphocyte),WEE1,1.0,0.3322259136212624
+heart,Immune (lymphocyte),WEE1,1.0,0.2865329512893982
+heart,Immune (myeloid),WEE1,1.0588236,0.2656665103922487
+breast,Adipocyte,WEE1,1.0,0.1135718341851221
+esophagusmucosa,Glia,WEE1,0.0,0.0
+skeletalmuscle,Adipocyte,WEE1,0.0,0.0
+skeletalmuscle,Glia,WEE1,0.0,0.0
+skin,Adipocyte,WEE1,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),WEE1,0.0,0.0
+skin,Immune (myeloid),WEE1,0.0,0.0
+skin,Muscle,WEE1,0.0,0.0

@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmucosa,Immune (myeloid),HCK,1.554,35.7653791130186
+prostate,Immune (myeloid),HCK,1.3344482,29.08560311284047
+heart,Immune (myeloid),HCK,1.3010938,27.144866385372712
+lung,Immune (myeloid),HCK,1.460188,26.15182816855222
+esophagusmuscularis,Immune (myeloid),HCK,1.3253205,21.059736753290583
+breast,Immune (myeloid),HCK,1.3378378,20.670391061452516
+skeletalmuscle,Immune (myeloid),HCK,1.3026316,20.62415196743555
+skin,Immune (myeloid),HCK,1.2083334,13.40782122905028
+esophagusmuscularis,Adipocyte,HCK,1.0,5.142857142857142
+heart,Muscle,HCK,1.122034,2.445291777188329
+skin,Endothelial cell,HCK,1.0416666,2.346041055718475
+esophagusmucosa,Stromal,HCK,1.173913,2.3255813953488373
+lung,Endothelial cell,HCK,1.0,2.112163146394756
+heart,Adipocyte,HCK,1.25,2.072538860103627
+skeletalmuscle,Immune (lymphocyte),HCK,1.0,2.0
+lung,Epithelial cell,HCK,1.0491072,1.8608515057113189
+lung,Muscle,HCK,1.0,1.8404907975460123
+lung,Fibroblast,HCK,1.0,1.7615176151761516
+skeletalmuscle,Endothelial cell,HCK,1.0476191,1.5777610818933134
+skin,Melanocyte,HCK,1.0,1.4705882352941175
+heart,Immune (lymphocyte),HCK,1.5,1.4326647564469914
+esophagusmuscularis,Glia,HCK,1.0,1.3402061855670102
+prostate,Muscle,HCK,1.1666666,1.337494427106554
+esophagusmuscularis,Endothelial cell,HCK,1.0350877,1.277740416946873
+breast,Endothelial cell,HCK,1.0,1.135073779795687
+skin,Muscle,HCK,1.0,1.0752688172043012
+esophagusmucosa,Endothelial cell,HCK,1.1458334,1.02607952116289
+esophagusmuscularis,Muscle,HCK,1.0397351,1.0155356782567757
+esophagusmucosa,Epithelial cell,HCK,1.037037,0.9785445056538128
+lung,Immune (lymphocyte),HCK,1.1428572,0.9655172413793104
+skeletalmuscle,Muscle,HCK,1.0050251,0.8816623100438616
+prostate,Epithelial cell,HCK,1.0591133,0.8798162354266892
+breast,Adipocyte,HCK,1.0666667,0.8517887563884157
+skin,Epithelial cell,HCK,1.0,0.8305647840531563
+prostate,Immune (lymphocyte),HCK,1.0,0.7331378299120235
+breast,Fibroblast,HCK,1.0,0.7326007326007326
+breast,Epithelial cell,HCK,1.0,0.7242628039317124
+heart,Endothelial cell,HCK,1.0384616,0.6810740013097577
+prostate,Endothelial cell,HCK,1.0,0.6723283793347488
+skin,Other,HCK,1.0,0.6637168141592921
+esophagusmucosa,Immune (lymphocyte),HCK,1.0833334,0.6600660066006601
+breast,Muscle,HCK,1.0,0.6578947368421052
+skeletalmuscle,Fibroblast,HCK,1.0,0.6224764468371468
+skin,Epithelial cell (keratinocyte),HCK,1.0,0.6163328197226503
+heart,Fibroblast,HCK,1.0350877,0.6137611715300959
+esophagusmucosa,Muscle,HCK,1.0,0.5988023952095809
+esophagusmuscularis,Fibroblast,HCK,1.0166667,0.5764242482467096
+skin,Fibroblast,HCK,1.0,0.3780718336483932
+prostate,Fibroblast,HCK,1.0,0.3502626970227671
+heart,Glia,HCK,1.0,0.3355704697986577
+esophagusmucosa,Fibroblast,HCK,1.0,0.2841918294849023
+esophagusmuscularis,Neuron,HCK,0.0,0.0
+esophagusmuscularis,Immune (lymphocyte),HCK,0.0,0.0
+esophagusmucosa,Glia,HCK,0.0,0.0
+prostate,Glia,HCK,0.0,0.0
+skeletalmuscle,Adipocyte,HCK,0.0,0.0
+skeletalmuscle,Glia,HCK,0.0,0.0
+skin,Adipocyte,HCK,0.0,0.0
+skin,Immune (lymphocyte),HCK,0.0,0.0

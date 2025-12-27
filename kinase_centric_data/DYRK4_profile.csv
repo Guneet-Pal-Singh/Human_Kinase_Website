@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skeletalmuscle,Adipocyte,DYRK4,1.0,1.257861635220126
+skin,Endothelial cell,DYRK4,1.0,0.8797653958944283
+prostate,Immune (myeloid),DYRK4,1.0,0.8754863813229572
+lung,Immune (myeloid),DYRK4,1.0,0.868994917199541
+esophagusmucosa,Stromal,DYRK4,1.0,0.7077856420626896
+heart,Glia,DYRK4,1.0,0.6711409395973155
+esophagusmuscularis,Adipocyte,DYRK4,1.0,0.5714285714285714
+skin,Muscle,DYRK4,1.0,0.5376344086021506
+esophagusmuscularis,Glia,DYRK4,1.0,0.5154639175257731
+lung,Fibroblast,DYRK4,1.0,0.4742547425474254
+lung,Endothelial cell,DYRK4,1.0,0.4734158776402039
+skeletalmuscle,Immune (myeloid),DYRK4,1.0,0.4070556309362279
+lung,Epithelial cell,DYRK4,1.0,0.3821391484942887
+esophagusmuscularis,Immune (myeloid),DYRK4,1.0,0.371245359433007
+skin,Melanocyte,DYRK4,1.0,0.3676470588235294
+heart,Muscle,DYRK4,1.0,0.3647214854111406
+breast,Epithelial cell,DYRK4,1.0,0.327642697016727
+esophagusmucosa,Immune (myeloid),DYRK4,1.0,0.2861230329041487
+prostate,Muscle,DYRK4,1.0,0.2674988854213107
+skeletalmuscle,Fibroblast,DYRK4,1.0,0.2523553162853297
+prostate,Endothelial cell,DYRK4,1.0,0.2476999292285916
+esophagusmuscularis,Endothelial cell,DYRK4,1.0,0.2465814839722035
+breast,Fibroblast,DYRK4,1.0,0.2442002442002442
+esophagusmuscularis,Muscle,DYRK4,1.0,0.2421144663393638
+esophagusmucosa,Endothelial cell,DYRK4,1.0,0.235143223599829
+breast,Endothelial cell,DYRK4,1.0,0.2270147559591373
+skeletalmuscle,Endothelial cell,DYRK4,1.0,0.2253944402704733
+skin,Other,DYRK4,1.0,0.2212389380530973
+esophagusmucosa,Immune (lymphocyte),DYRK4,1.0,0.22002200220022
+skin,Epithelial cell (keratinocyte),DYRK4,1.0,0.2054442732408834
+esophagusmucosa,Muscle,DYRK4,1.0,0.1996007984031935
+heart,Endothelial cell,DYRK4,1.0,0.1964636542239685
+skin,Fibroblast,DYRK4,1.0,0.1890359168241966
+prostate,Fibroblast,DYRK4,1.0,0.1751313485113835
+breast,Adipocyte,DYRK4,1.0,0.1703577512776831
+heart,Immune (myeloid),DYRK4,1.0,0.1562744178777934
+prostate,Immune (lymphocyte),DYRK4,1.0,0.1466275659824047
+heart,Immune (lymphocyte),DYRK4,1.0,0.1432664756446991
+esophagusmucosa,Fibroblast,DYRK4,1.0,0.1420959147424511
+prostate,Epithelial cell,DYRK4,1.0,0.138690244008148
+lung,Immune (lymphocyte),DYRK4,1.0,0.1379310344827586
+esophagusmuscularis,Fibroblast,DYRK4,1.0,0.1344989912575655
+heart,Fibroblast,DYRK4,1.0,0.1292128782168622
+skeletalmuscle,Muscle,DYRK4,1.0,0.12405298834788
+esophagusmucosa,Epithelial cell,DYRK4,1.0,0.1159756451145259
+esophagusmuscularis,Neuron,DYRK4,0.0,0.0
+heart,Adipocyte,DYRK4,0.0,0.0
+breast,Muscle,DYRK4,0.0,0.0
+breast,Immune (myeloid),DYRK4,0.0,0.0
+esophagusmuscularis,Immune (lymphocyte),DYRK4,0.0,0.0
+esophagusmucosa,Glia,DYRK4,0.0,0.0
+prostate,Glia,DYRK4,0.0,0.0
+lung,Muscle,DYRK4,0.0,0.0
+skeletalmuscle,Glia,DYRK4,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),DYRK4,0.0,0.0
+skin,Adipocyte,DYRK4,0.0,0.0
+skin,Epithelial cell,DYRK4,0.0,0.0
+skin,Immune (lymphocyte),DYRK4,0.0,0.0
+skin,Immune (myeloid),DYRK4,0.0,0.0

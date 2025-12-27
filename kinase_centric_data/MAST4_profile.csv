@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+heart,Adipocyte,MAST4,2.6015038,68.9119170984456
+heart,Muscle,MAST4,5.4851866,60.15417771883289
+lung,Epithelial cell,MAST4,2.480803,59.177570093457945
+esophagusmucosa,Epithelial cell,MAST4,2.8558593,55.66830965497246
+prostate,Epithelial cell,MAST4,2.258788,53.14003380574698
+skeletalmuscle,Adipocyte,MAST4,2.120482,52.20125786163522
+skin,Epithelial cell (keratinocyte),MAST4,1.70229,47.098099640472526
+breast,Endothelial cell,MAST4,2.0669975,45.743473325766175
+breast,Adipocyte,MAST4,1.7163398,43.4412265758092
+esophagusmuscularis,Adipocyte,MAST4,1.7236842,43.42857142857143
+skin,Endothelial cell,MAST4,1.880829,37.73216031280548
+skin,Epithelial cell,MAST4,2.2378855,37.70764119601329
+skin,Other,MAST4,1.6,32.07964601769911
+esophagusmucosa,Stromal,MAST4,2.2721312,30.83923154701719
+skeletalmuscle,Endothelial cell,MAST4,1.6826197,29.82719759579264
+heart,Fibroblast,MAST4,1.4200435,29.762032949283945
+esophagusmucosa,Endothelial cell,MAST4,1.7555715,29.734929457032923
+lung,Endothelial cell,MAST4,1.5659204,29.278951201748
+breast,Epithelial cell,MAST4,1.6581972,28.50491464045525
+lung,Fibroblast,MAST4,1.4487805,27.77777777777778
+esophagusmuscularis,Endothelial cell,MAST4,1.7163935,27.348128222371663
+prostate,Endothelial cell,MAST4,1.629776,26.85774946921444
+prostate,Muscle,MAST4,1.7414966,26.21489077128845
+skeletalmuscle,Muscle,MAST4,1.4994677,24.97009436888042
+heart,Endothelial cell,MAST4,1.5179049,24.50556647020301
+esophagusmuscularis,Neuron,MAST4,1.0,24.0
+breast,Muscle,MAST4,1.4722222,23.684210526315788
+skin,Adipocyte,MAST4,1.5714285,22.58064516129032
+prostate,Fibroblast,MAST4,1.6041666,21.015761821366024
+esophagusmuscularis,Muscle,MAST4,1.4407243,19.685251193758827
+esophagusmucosa,Muscle,MAST4,1.5108696,18.36327345309381
+lung,Muscle,MAST4,1.7692307,15.950920245398772
+skin,Immune (lymphocyte),MAST4,1.3636364,14.666666666666666
+esophagusmucosa,Fibroblast,MAST4,1.3098959,13.64120781527531
+breast,Fibroblast,MAST4,1.3,12.21001221001221
+esophagusmucosa,Immune (lymphocyte),MAST4,1.3349514,11.331133113311331
+lung,Immune (lymphocyte),MAST4,1.4266666,10.344827586206897
+skeletalmuscle,Immune (lymphocyte),MAST4,1.0,10.0
+esophagusmucosa,Glia,MAST4,1.3333334,9.230769230769232
+lung,Immune (myeloid),MAST4,1.312963,8.853910477127398
+esophagusmuscularis,Fibroblast,MAST4,1.1636971,8.62714958209242
+skin,Immune (myeloid),MAST4,1.2307693,7.262569832402235
+skin,Muscle,MAST4,1.3076923,6.989247311827956
+breast,Immune (myeloid),MAST4,1.5,6.70391061452514
+skeletalmuscle,Fibroblast,MAST4,1.127321,6.342530282637954
+esophagusmucosa,Immune (myeloid),MAST4,1.5227273,6.294706723891273
+skin,Fibroblast,MAST4,1.25,6.049149338374291
+skeletalmuscle,Glia,MAST4,1.5,5.714285714285714
+esophagusmuscularis,Glia,MAST4,1.4313725,5.257731958762887
+esophagusmuscularis,Immune (lymphocyte),MAST4,1.3333334,4.983388704318937
+prostate,Immune (lymphocyte),MAST4,1.3636364,4.838709677419355
+heart,Immune (lymphocyte),MAST4,1.2121212,4.727793696275072
+prostate,Glia,MAST4,3.3333333,4.477611940298507
+skin,Melanocyte,MAST4,1.4545455,4.044117647058823
+skeletalmuscle,Immune (myeloid),MAST4,1.1666666,3.2564450474898234
+heart,Glia,MAST4,1.3333334,3.02013422818792
+esophagusmuscularis,Immune (myeloid),MAST4,1.1529412,2.8687141410732364
+prostate,Immune (myeloid),MAST4,1.6296296,2.626459143968872
+heart,Immune (myeloid),MAST4,1.6785715,1.3127051101734646

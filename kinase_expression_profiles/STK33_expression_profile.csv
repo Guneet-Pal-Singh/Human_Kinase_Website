@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (ciliated),STK33,1.9658985
+Myocyte (cardiac),STK33,0.97886145
+Neuroendocrine,STK33,0.9290805
+Epithelial cell (alveolar type I),STK33,0.7074196
+Epithelial cell (alveolar type II),STK33,0.66498655
+ICCs,STK33,0.40550846
+Neuronal,STK33,0.36956248
+Myocyte (smooth muscle),STK33,0.34581724
+Myofibroblast,STK33,0.26255468
+Epithelial cell (club),STK33,0.19263402
+Immune (B cell),STK33,0.17899804
+Immune (alveolar macrophage),STK33,0.16212684
+Myocyte (NMJ-rich),STK33,0.1504444
+"Myocyte (cardiac, cytoplasmic)",STK33,0.14069125
+Mucous cell,STK33,0.13134643
+Schwann cell,STK33,0.11717937
+Myocyte (sk. muscle),STK33,0.095032685
+Epithelial cell (mature keratinocyte),STK33,0.067389555
+Immune (mast cell),STK33,0.06344874
+Endothelial cell (lymphatic),STK33,0.057679944
+Endothelial cell (vascular),STK33,0.044956863
+Epithelial cell (basal),STK33,0.04333857
+Epithelial cell (basal keratinocyte),STK33,0.04069925
+Pericyte/SMC,STK33,0.036679044
+"Myocyte (sk. muscle, cytoplasmic)",STK33,0.033569865
+Epithelial cell (luminal),STK33,0.03217137
+Sweat gland cell,STK33,0.03140119
+Sebaceous gland cell,STK33,0.03072539
+Fibroblast,STK33,0.028847473
+Myoepithelial (basal),STK33,0.028798418
+Immune (T cell),STK33,0.02369582
+Immune (NK cell),STK33,0.022247918
+Satellite cell,STK33,0.018607028
+Immune (DC/macrophage),STK33,0.016595105
+Epithelial cell (suprabasal keratinocyte),STK33,0.016182758
+Adipocyte,STK33,0.01502058
+Epithelial cell (suprabasal),STK33,0.013302396
+Epithelial cell (Hillock),STK33,0.012531963
+Melanocyte,STK33,0.008553775
+Epithelial cell (squamous),STK33,0.0057905423
+Epithelial cell (cornified keratinocyte),STK33,0.0
+Immune (DC),STK33,0.0
+Immune (Langerhans),STK33,0.0

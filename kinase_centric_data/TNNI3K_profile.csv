@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+heart,Muscle,TNNI3K,1.0623701,3.9870689655172415
+esophagusmucosa,Glia,TNNI3K,1.0,1.5384615384615383
+skin,Other,TNNI3K,1.0,0.2212389380530973
+esophagusmucosa,Muscle,TNNI3K,1.0,0.1996007984031935
+skin,Epithelial cell (keratinocyte),TNNI3K,1.0,0.1027221366204417
+esophagusmucosa,Stromal,TNNI3K,1.0,0.1011122345803842
+skeletalmuscle,Muscle,TNNI3K,1.0,0.06202649417394
+esophagusmucosa,Fibroblast,TNNI3K,1.0,0.0355239786856127
+skeletalmuscle,Fibroblast,TNNI3K,1.0,0.0336473755047106
+esophagusmuscularis,Endothelial cell,TNNI3K,1.0,0.0224164985429275
+esophagusmucosa,Endothelial cell,TNNI3K,1.0,0.0213766566908935
+esophagusmuscularis,Muscle,TNNI3K,1.0,0.0201762055282803
+breast,Epithelial cell,TNNI3K,1.0,0.0172443524745645
+heart,Immune (myeloid),TNNI3K,1.0,0.0156274417877793
+heart,Endothelial cell,TNNI3K,1.0,0.0130975769482645
+heart,Fibroblast,TNNI3K,1.0,0.0107677398514051
+esophagusmuscularis,Fibroblast,TNNI3K,1.0,0.0096070708041118
+prostate,Epithelial cell,TNNI3K,1.0,0.0043340701252546
+esophagusmucosa,Immune (lymphocyte),TNNI3K,0.0,0.0
+esophagusmuscularis,Immune (lymphocyte),TNNI3K,0.0,0.0
+esophagusmucosa,Epithelial cell,TNNI3K,0.0,0.0
+breast,Immune (myeloid),TNNI3K,0.0,0.0
+breast,Muscle,TNNI3K,0.0,0.0
+breast,Fibroblast,TNNI3K,0.0,0.0
+breast,Endothelial cell,TNNI3K,0.0,0.0
+breast,Adipocyte,TNNI3K,0.0,0.0
+esophagusmuscularis,Adipocyte,TNNI3K,0.0,0.0
+heart,Immune (lymphocyte),TNNI3K,0.0,0.0
+heart,Glia,TNNI3K,0.0,0.0
+esophagusmuscularis,Neuron,TNNI3K,0.0,0.0
+heart,Adipocyte,TNNI3K,0.0,0.0
+esophagusmuscularis,Immune (myeloid),TNNI3K,0.0,0.0
+esophagusmucosa,Immune (myeloid),TNNI3K,0.0,0.0
+esophagusmuscularis,Glia,TNNI3K,0.0,0.0
+lung,Endothelial cell,TNNI3K,0.0,0.0
+lung,Muscle,TNNI3K,0.0,0.0
+prostate,Endothelial cell,TNNI3K,0.0,0.0
+prostate,Fibroblast,TNNI3K,0.0,0.0
+prostate,Glia,TNNI3K,0.0,0.0
+lung,Fibroblast,TNNI3K,0.0,0.0
+lung,Immune (lymphocyte),TNNI3K,0.0,0.0
+lung,Immune (myeloid),TNNI3K,0.0,0.0
+lung,Epithelial cell,TNNI3K,0.0,0.0
+skeletalmuscle,Adipocyte,TNNI3K,0.0,0.0
+prostate,Muscle,TNNI3K,0.0,0.0
+prostate,Immune (myeloid),TNNI3K,0.0,0.0
+prostate,Immune (lymphocyte),TNNI3K,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),TNNI3K,0.0,0.0
+skeletalmuscle,Immune (myeloid),TNNI3K,0.0,0.0
+skeletalmuscle,Glia,TNNI3K,0.0,0.0
+skeletalmuscle,Endothelial cell,TNNI3K,0.0,0.0
+skin,Endothelial cell,TNNI3K,0.0,0.0
+skin,Adipocyte,TNNI3K,0.0,0.0
+skin,Fibroblast,TNNI3K,0.0,0.0
+skin,Epithelial cell,TNNI3K,0.0,0.0
+skin,Immune (lymphocyte),TNNI3K,0.0,0.0
+skin,Immune (myeloid),TNNI3K,0.0,0.0
+skin,Melanocyte,TNNI3K,0.0,0.0
+skin,Muscle,TNNI3K,0.0,0.0

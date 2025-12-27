@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (T cell),ITK,1.0295606
+Immune (NK cell),ITK,0.6147067
+Immune (mast cell),ITK,0.21308136
+Immune (alveolar macrophage),ITK,0.06902341
+Immune (Langerhans),ITK,0.06898766
+Myofibroblast,ITK,0.0665969
+Immune (DC),ITK,0.05956413
+Immune (B cell),ITK,0.05087029
+Epithelial cell (alveolar type II),ITK,0.04395978
+Epithelial cell (alveolar type I),ITK,0.041730493
+Epithelial cell (ciliated),ITK,0.04074038
+ICCs,ITK,0.02523843
+Mucous cell,ITK,0.02355116
+Epithelial cell (squamous),ITK,0.021884615
+Schwann cell,ITK,0.021658119
+Melanocyte,ITK,0.02016238
+Adipocyte,ITK,0.019613294
+Epithelial cell (club),ITK,0.019484008
+Endothelial cell (vascular),ITK,0.017250365
+Myocyte (cardiac),ITK,0.015466949
+Epithelial cell (suprabasal),ITK,0.014740912
+Endothelial cell (lymphatic),ITK,0.014304024
+Immune (DC/macrophage),ITK,0.013750489
+Myocyte (smooth muscle),ITK,0.013323526
+Pericyte/SMC,ITK,0.013128404
+Epithelial cell (luminal),ITK,0.012435631
+Myocyte (sk. muscle),ITK,0.011488838
+Epithelial cell (basal),ITK,0.011354726
+Epithelial cell (Hillock),ITK,0.009822298
+Fibroblast,ITK,0.0097319335
+Satellite cell,ITK,0.009219192
+Myoepithelial (basal),ITK,0.0075852694
+"Myocyte (cardiac, cytoplasmic)",ITK,0.004275339
+Epithelial cell (basal keratinocyte),ITK,0.003408107
+Epithelial cell (cornified keratinocyte),ITK,0.0
+Epithelial cell (suprabasal keratinocyte),ITK,0.0
+Epithelial cell (mature keratinocyte),ITK,0.0
+"Myocyte (sk. muscle, cytoplasmic)",ITK,0.0
+Myocyte (NMJ-rich),ITK,0.0
+Neuronal,ITK,0.0
+Neuroendocrine,ITK,0.0
+Sebaceous gland cell,ITK,0.0
+Sweat gland cell,ITK,0.0

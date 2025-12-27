@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Adipocyte,FGFR1,1.3414634,46.85714285714286
+breast,Adipocyte,FGFR1,1.5206258,39.92049971607041
+esophagusmucosa,Fibroblast,FGFR1,1.3741722,32.184724689165186
+heart,Muscle,FGFR1,1.5786844,29.865716180371354
+breast,Fibroblast,FGFR1,1.4405286,27.71672771672772
+skin,Adipocyte,FGFR1,1.5882353,27.41935483870968
+heart,Fibroblast,FGFR1,1.3033398,27.40389792182621
+esophagusmucosa,Stromal,FGFR1,1.3212851,25.176946410515672
+esophagusmuscularis,Fibroblast,FGFR1,1.3214705,24.56528004611394
+esophagusmuscularis,Neuron,FGFR1,1.8333334,24.0
+skeletalmuscle,Fibroblast,FGFR1,1.2265682,22.796096904441452
+prostate,Fibroblast,FGFR1,1.2745098,22.329246935201404
+skeletalmuscle,Adipocyte,FGFR1,1.1714286,22.0125786163522
+heart,Adipocyte,FGFR1,1.1463414,21.243523316062177
+skin,Endothelial cell,FGFR1,1.3584906,20.72336265884653
+prostate,Muscle,FGFR1,1.2873303,19.70575122603656
+esophagusmuscularis,Muscle,FGFR1,1.2545768,19.470038334790505
+skin,Fibroblast,FGFR1,1.0744681,17.76937618147448
+breast,Endothelial cell,FGFR1,1.1805556,16.34506242905789
+prostate,Glia,FGFR1,1.0,14.925373134328357
+lung,Fibroblast,FGFR1,1.2019231,14.092140921409213
+skeletalmuscle,Endothelial cell,FGFR1,1.3043479,13.82419233658903
+breast,Muscle,FGFR1,1.2380953,13.815789473684212
+skin,Muscle,FGFR1,1.28,13.440860215053762
+prostate,Endothelial cell,FGFR1,1.2142857,12.384996461429584
+skeletalmuscle,Glia,FGFR1,1.0,11.428571428571429
+breast,Epithelial cell,FGFR1,1.1887417,10.415588894637008
+heart,Endothelial cell,FGFR1,1.1428572,10.08513425016372
+esophagusmuscularis,Endothelial cell,FGFR1,1.1678321,9.616677874915938
+lung,Endothelial cell,FGFR1,1.144033,8.849235251274582
+esophagusmuscularis,Glia,FGFR1,1.0941176,8.762886597938143
+esophagusmucosa,Muscle,FGFR1,1.0465117,8.582834331337326
+esophagusmucosa,Endothelial cell,FGFR1,1.1274787,7.545959811885421
+lung,Muscle,FGFR1,1.4166666,7.361963190184049
+skin,Melanocyte,FGFR1,1.2105263,6.985294117647059
+lung,Epithelial cell,FGFR1,1.0929033,6.438213914849429
+esophagusmuscularis,Immune (myeloid),FGFR1,1.0978261,6.209922375970301
+heart,Immune (myeloid),FGFR1,1.0849859,5.516486951086107
+skin,Immune (lymphocyte),FGFR1,1.0,5.333333333333334
+breast,Immune (myeloid),FGFR1,1.1764706,4.748603351955307
+esophagusmucosa,Glia,FGFR1,1.3333334,4.615384615384616
+esophagusmuscularis,Immune (lymphocyte),FGFR1,1.2307693,4.318936877076411
+esophagusmucosa,Immune (myeloid),FGFR1,1.1,4.291845493562231
+skeletalmuscle,Immune (myeloid),FGFR1,1.1935484,4.2062415196743554
+skeletalmuscle,Immune (lymphocyte),FGFR1,1.0,4.0
+prostate,Epithelial cell,FGFR1,1.1415094,3.6752914662159233
+heart,Glia,FGFR1,1.1,3.355704697986577
+skin,Immune (myeloid),FGFR1,1.1666666,3.35195530726257
+lung,Immune (myeloid),FGFR1,1.0666667,3.1972454500737824
+esophagusmucosa,Epithelial cell,FGFR1,1.1378505,3.102348506813569
+skin,Epithelial cell,FGFR1,1.1538461,2.1594684385382057
+skin,Other,FGFR1,1.0,1.991150442477876
+skeletalmuscle,Muscle,FGFR1,1.0696379,1.5905365291746043
+prostate,Immune (myeloid),FGFR1,1.0,1.1673151750972763
+lung,Immune (lymphocyte),FGFR1,1.3333334,0.8275862068965517
+prostate,Immune (lymphocyte),FGFR1,1.0,0.7331378299120235
+heart,Immune (lymphocyte),FGFR1,1.3333334,0.4297994269340974
+esophagusmucosa,Immune (lymphocyte),FGFR1,1.1428572,0.385038503850385
+skin,Epithelial cell (keratinocyte),FGFR1,2.0,0.0513610683102208

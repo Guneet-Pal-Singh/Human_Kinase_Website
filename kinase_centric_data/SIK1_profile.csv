@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skin,Other,SIK1,1.4492754,15.265486725663717
+skin,Epithelial cell (keratinocyte),SIK1,1.1073825,7.6527991782229075
+skin,Muscle,SIK1,1.2727273,5.913978494623656
+skin,Endothelial cell,SIK1,1.0588236,4.98533724340176
+breast,Muscle,SIK1,1.4285715,4.605263157894736
+esophagusmuscularis,Neuron,SIK1,1.0,4.0
+breast,Endothelial cell,SIK1,1.0,3.5187287173666286
+skin,Immune (myeloid),SIK1,1.0,3.35195530726257
+skin,Melanocyte,SIK1,1.0,2.941176470588235
+skin,Epithelial cell,SIK1,1.125,2.6578073089701
+breast,Epithelial cell,SIK1,1.0326087,1.5864804276599414
+esophagusmucosa,Glia,SIK1,1.0,1.5384615384615383
+prostate,Endothelial cell,SIK1,1.0243902,1.4508138711960368
+breast,Immune (myeloid),SIK1,1.2,1.3966480446927374
+skin,Immune (lymphocyte),SIK1,1.0,1.3333333333333337
+lung,Endothelial cell,SIK1,1.0,1.2381646030589948
+esophagusmuscularis,Endothelial cell,SIK1,1.0652174,1.031158932974669
+skeletalmuscle,Endothelial cell,SIK1,1.0,0.8264462809917356
+esophagusmucosa,Endothelial cell,SIK1,1.0,0.748182984181274
+lung,Muscle,SIK1,1.0,0.6134969325153374
+esophagusmucosa,Stromal,SIK1,1.1666666,0.6066734074823054
+lung,Epithelial cell,SIK1,1.0428572,0.5815160955347871
+lung,Immune (myeloid),SIK1,1.0,0.4590916543695688
+prostate,Epithelial cell,SIK1,1.0095239,0.4550773631517357
+esophagusmuscularis,Muscle,SIK1,1.031746,0.4237003160938866
+skin,Fibroblast,SIK1,1.0,0.3780718336483932
+esophagusmucosa,Immune (myeloid),SIK1,1.0,0.3576537911301859
+esophagusmucosa,Epithelial cell,SIK1,1.0425532,0.34067845752392
+esophagusmuscularis,Immune (lymphocyte),SIK1,1.0,0.3322259136212624
+prostate,Muscle,SIK1,1.0,0.3120820329915292
+lung,Immune (lymphocyte),SIK1,1.0,0.2758620689655172
+heart,Endothelial cell,SIK1,1.0,0.2357563850687623
+esophagusmuscularis,Fibroblast,SIK1,1.0,0.2113555576904602
+esophagusmucosa,Muscle,SIK1,1.0,0.1996007984031935
+skeletalmuscle,Immune (myeloid),SIK1,1.0,0.1356852103120759
+esophagusmuscularis,Immune (myeloid),SIK1,1.0,0.1349983125210934
+heart,Muscle,SIK1,1.0666667,0.1243368700265251
+breast,Fibroblast,SIK1,1.0,0.1221001221001221
+esophagusmuscularis,Glia,SIK1,1.0,0.1030927835051546
+lung,Fibroblast,SIK1,1.0,0.067750677506775
+breast,Adipocyte,SIK1,1.0,0.056785917092561
+heart,Fibroblast,SIK1,1.0,0.0538386992570259
+skeletalmuscle,Fibroblast,SIK1,1.0,0.0504710632570659
+skeletalmuscle,Muscle,SIK1,1.0,0.0265827832174028
+heart,Immune (myeloid),SIK1,1.0,0.0156274417877793
+heart,Immune (lymphocyte),SIK1,0.0,0.0
+heart,Glia,SIK1,0.0,0.0
+esophagusmucosa,Fibroblast,SIK1,0.0,0.0
+esophagusmucosa,Immune (lymphocyte),SIK1,0.0,0.0
+heart,Adipocyte,SIK1,0.0,0.0
+esophagusmuscularis,Adipocyte,SIK1,0.0,0.0
+skeletalmuscle,Adipocyte,SIK1,0.0,0.0
+prostate,Immune (myeloid),SIK1,0.0,0.0
+prostate,Immune (lymphocyte),SIK1,0.0,0.0
+prostate,Glia,SIK1,0.0,0.0
+prostate,Fibroblast,SIK1,0.0,0.0
+skin,Adipocyte,SIK1,0.0,0.0
+skeletalmuscle,Glia,SIK1,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),SIK1,0.0,0.0

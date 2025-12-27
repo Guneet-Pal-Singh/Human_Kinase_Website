@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Myocyte (cardiac),DYRK1A,0.8937618
+Epithelial cell (Hillock),DYRK1A,0.8456795
+Epithelial cell (club),DYRK1A,0.8089738
+Epithelial cell (suprabasal),DYRK1A,0.7874449
+Melanocyte,DYRK1A,0.7801062
+Neuroendocrine,DYRK1A,0.77933764
+Epithelial cell (basal),DYRK1A,0.7550956
+Mucous cell,DYRK1A,0.7462691
+Myofibroblast,DYRK1A,0.74069494
+Immune (DC),DYRK1A,0.72576064
+Immune (B cell),DYRK1A,0.692517
+Epithelial cell (alveolar type II),DYRK1A,0.6874479
+Immune (T cell),DYRK1A,0.68044096
+Myocyte (sk. muscle),DYRK1A,0.6700826
+ICCs,DYRK1A,0.6366767
+Endothelial cell (lymphatic),DYRK1A,0.6281686
+Immune (NK cell),DYRK1A,0.62721366
+Immune (DC/macrophage),DYRK1A,0.62199616
+Myocyte (NMJ-rich),DYRK1A,0.6171643
+Epithelial cell (basal keratinocyte),DYRK1A,0.6108232
+Epithelial cell (ciliated),DYRK1A,0.6073626
+Epithelial cell (luminal),DYRK1A,0.59093076
+Immune (mast cell),DYRK1A,0.5858499
+Endothelial cell (vascular),DYRK1A,0.58437717
+Sweat gland cell,DYRK1A,0.58415115
+Epithelial cell (alveolar type I),DYRK1A,0.5836657
+Immune (alveolar macrophage),DYRK1A,0.58314353
+Pericyte/SMC,DYRK1A,0.5234662
+Epithelial cell (cornified keratinocyte),DYRK1A,0.5113957
+Myoepithelial (basal),DYRK1A,0.49907726
+Immune (Langerhans),DYRK1A,0.49355376
+Myocyte (smooth muscle),DYRK1A,0.48793346
+Epithelial cell (mature keratinocyte),DYRK1A,0.48086083
+Neuronal,DYRK1A,0.46802187
+Schwann cell,DYRK1A,0.4676957
+Epithelial cell (suprabasal keratinocyte),DYRK1A,0.46468735
+Fibroblast,DYRK1A,0.4634307
+Adipocyte,DYRK1A,0.45091563
+Sebaceous gland cell,DYRK1A,0.4423809
+Satellite cell,DYRK1A,0.4402225
+Epithelial cell (squamous),DYRK1A,0.40719178
+"Myocyte (sk. muscle, cytoplasmic)",DYRK1A,0.37739897
+"Myocyte (cardiac, cytoplasmic)",DYRK1A,0.33691975

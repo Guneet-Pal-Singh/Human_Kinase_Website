@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+heart,Endothelial cell,TGM2,1.6907578,29.901768172888016
+esophagusmuscularis,Endothelial cell,TGM2,2.324754,29.61219457520735
+prostate,Fibroblast,TGM2,1.8195719,28.63397548161121
+heart,Muscle,TGM2,1.8591467,28.365384615384613
+prostate,Endothelial cell,TGM2,1.6847458,20.877565463552724
+prostate,Muscle,TGM2,1.6047008,20.86491306286224
+lung,Fibroblast,TGM2,1.5134228,20.18970189701897
+skeletalmuscle,Endothelial cell,TGM2,2.1162791,19.383921863260703
+prostate,Epithelial cell,TGM2,2.0829823,17.49664109565293
+esophagusmuscularis,Muscle,TGM2,1.5535194,16.14768982446701
+lung,Endothelial cell,TGM2,1.2875817,11.143481427530954
+lung,Muscle,TGM2,1.1111112,11.042944785276074
+heart,Adipocyte,TGM2,2.6666667,9.32642487046632
+breast,Muscle,TGM2,1.0,8.552631578947368
+esophagusmuscularis,Adipocyte,TGM2,1.7142857,8.0
+lung,Immune (myeloid),TGM2,1.498943,7.755369732743072
+esophagusmucosa,Stromal,TGM2,1.0724638,6.976744186046512
+esophagusmucosa,Endothelial cell,TGM2,1.4018692,6.861906797776827
+esophagusmuscularis,Neuron,TGM2,1.0,4.0
+breast,Endothelial cell,TGM2,1.1875,3.632236095346197
+esophagusmucosa,Muscle,TGM2,1.1875,3.1936127744510974
+skeletalmuscle,Muscle,TGM2,1.1632653,3.0392982145230603
+prostate,Glia,TGM2,1.5,2.985074626865672
+lung,Epithelial cell,TGM2,1.316923,2.699896157840083
+heart,Glia,TGM2,1.375,2.684563758389262
+heart,Fibroblast,TGM2,1.494898,2.1104770108754174
+skeletalmuscle,Adipocyte,TGM2,1.0,1.8867924528301887
+esophagusmuscularis,Glia,TGM2,1.4117647,1.7525773195876289
+prostate,Immune (myeloid),TGM2,1.3888888,1.7509727626459144
+esophagusmuscularis,Immune (lymphocyte),TGM2,1.5,1.32890365448505
+esophagusmucosa,Fibroblast,TGM2,1.2258065,1.1012433392539964
+skeletalmuscle,Immune (lymphocyte),TGM2,1.0,1.0
+breast,Immune (myeloid),TGM2,1.3333334,0.8379888268156425
+esophagusmuscularis,Immune (myeloid),TGM2,1.2,0.6749915626054674
+esophagusmucosa,Epithelial cell,TGM2,1.5632184,0.6306175703102349
+heart,Immune (lymphocyte),TGM2,1.25,0.5730659025787965
+skin,Muscle,TGM2,1.0,0.5376344086021506
+skin,Endothelial cell,TGM2,1.0,0.4887585532746823
+heart,Immune (myeloid),TGM2,1.3636364,0.3438037193311455
+prostate,Immune (lymphocyte),TGM2,1.0,0.2932551319648094
+skeletalmuscle,Immune (myeloid),TGM2,1.0,0.2713704206241519
+esophagusmuscularis,Fibroblast,TGM2,1.36,0.2401767701027956
+breast,Epithelial cell,TGM2,1.0769231,0.2241765821693395
+esophagusmucosa,Immune (myeloid),TGM2,1.0,0.2145922746781116
+breast,Adipocyte,TGM2,1.3333334,0.1703577512776831
+breast,Fibroblast,TGM2,2.0,0.1221001221001221
+esophagusmucosa,Immune (lymphocyte),TGM2,1.0,0.11001100110011
+skin,Epithelial cell (keratinocyte),TGM2,1.0,0.1027221366204417
+skeletalmuscle,Fibroblast,TGM2,1.0,0.1009421265141319
+esophagusmucosa,Glia,TGM2,0.0,0.0
+lung,Immune (lymphocyte),TGM2,0.0,0.0
+skin,Adipocyte,TGM2,0.0,0.0
+skeletalmuscle,Glia,TGM2,0.0,0.0
+skin,Fibroblast,TGM2,0.0,0.0
+skin,Epithelial cell,TGM2,0.0,0.0
+skin,Immune (lymphocyte),TGM2,0.0,0.0
+skin,Immune (myeloid),TGM2,0.0,0.0
+skin,Melanocyte,TGM2,0.0,0.0
+skin,Other,TGM2,0.0,0.0

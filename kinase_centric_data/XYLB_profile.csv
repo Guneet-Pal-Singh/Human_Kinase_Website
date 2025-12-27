@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skin,Epithelial cell,XYLB,1.2647059,11.295681063122924
+esophagusmuscularis,Neuron,XYLB,1.0,8.0
+esophagusmuscularis,Adipocyte,XYLB,1.0,8.0
+skin,Immune (myeloid),XYLB,1.0833334,6.70391061452514
+esophagusmucosa,Epithelial cell,XYLB,1.1160715,6.494636126413453
+heart,Adipocyte,XYLB,1.0,5.699481865284974
+esophagusmucosa,Stromal,XYLB,1.0588236,5.156723963599596
+skin,Adipocyte,XYLB,1.0,4.838709677419355
+skeletalmuscle,Adipocyte,XYLB,1.0,4.40251572327044
+breast,Fibroblast,XYLB,1.1111112,4.395604395604396
+breast,Epithelial cell,XYLB,1.052,4.311088118641146
+lung,Fibroblast,XYLB,1.0166667,4.065040650406504
+breast,Immune (myeloid),XYLB,1.0,3.910614525139665
+prostate,Epithelial cell,XYLB,1.0707656,3.735968447969488
+lung,Immune (myeloid),XYLB,1.0140187,3.508771929824561
+prostate,Immune (myeloid),XYLB,1.0277778,3.501945525291829
+breast,Adipocyte,XYLB,1.0847458,3.3503691084611016
+esophagusmucosa,Immune (myeloid),XYLB,1.0465117,3.0758226037196
+esophagusmucosa,Fibroblast,XYLB,1.0722891,2.9484902309058616
+esophagusmuscularis,Fibroblast,XYLB,1.0330033,2.9109424536458834
+esophagusmuscularis,Immune (myeloid),XYLB,1.0117648,2.8687141410732364
+heart,Fibroblast,XYLB,1.0620155,2.778076881662539
+breast,Endothelial cell,XYLB,1.0416666,2.724177071509648
+prostate,Endothelial cell,XYLB,1.0789474,2.689313517338995
+skin,Muscle,XYLB,1.0,2.6881720430107525
+prostate,Muscle,XYLB,1.0338984,2.6304057066428888
+skeletalmuscle,Fibroblast,XYLB,1.0263158,2.557200538358008
+prostate,Fibroblast,XYLB,1.0689656,2.539404553415061
+esophagusmuscularis,Endothelial cell,XYLB,1.0265486,2.533064335350818
+esophagusmucosa,Endothelial cell,XYLB,1.036036,2.3728088926891835
+skin,Endothelial cell,XYLB,1.0,2.346041055718475
+skin,Fibroblast,XYLB,1.0,2.2684310018903595
+lung,Epithelial cell,XYLB,1.0441177,2.259605399792316
+heart,Immune (myeloid),XYLB,1.0285715,2.187841850289108
+breast,Muscle,XYLB,1.3333334,1.973684210526316
+esophagusmuscularis,Glia,XYLB,1.0,1.958762886597938
+skeletalmuscle,Immune (myeloid),XYLB,1.0,1.899592944369064
+lung,Muscle,XYLB,1.0,1.8404907975460123
+skin,Other,XYLB,1.125,1.7699115044247788
+heart,Muscle,XYLB,1.0640393,1.6826923076923077
+esophagusmuscularis,Muscle,XYLB,1.0409836,1.6409980496334655
+lung,Endothelial cell,XYLB,1.0,1.638747268754552
+esophagusmucosa,Immune (lymphocyte),XYLB,1.0344827,1.5951595159515952
+skeletalmuscle,Muscle,XYLB,1.0396601,1.5639537459572015
+esophagusmucosa,Glia,XYLB,1.0,1.5384615384615383
+prostate,Glia,XYLB,1.0,1.4925373134328357
+skin,Melanocyte,XYLB,1.0,1.4705882352941175
+esophagusmucosa,Muscle,XYLB,1.0,1.3972055888223551
+heart,Immune (lymphocyte),XYLB,1.0,1.146131805157593
+skeletalmuscle,Endothelial cell,XYLB,1.0714285,1.051840721262209
+heart,Endothelial cell,XYLB,1.0405406,0.9692206941715782
+prostate,Immune (lymphocyte),XYLB,1.0,0.7331378299120235
+lung,Immune (lymphocyte),XYLB,1.0,0.6896551724137931
+heart,Glia,XYLB,1.0,0.6711409395973155
+skin,Epithelial cell (keratinocyte),XYLB,1.0833334,0.6163328197226503
+esophagusmuscularis,Immune (lymphocyte),XYLB,1.0,0.3322259136212624
+skeletalmuscle,Immune (lymphocyte),XYLB,0.0,0.0
+skeletalmuscle,Glia,XYLB,0.0,0.0
+skin,Immune (lymphocyte),XYLB,0.0,0.0

@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (NK cell),DCK,0.15011108
+Neuronal,DCK,0.10522756
+Immune (DC),DCK,0.0861278
+Immune (DC/macrophage),DCK,0.08525864
+Immune (B cell),DCK,0.0831545
+Immune (Langerhans),DCK,0.0804882
+Immune (T cell),DCK,0.058576766
+Neuroendocrine,DCK,0.05440791
+"Myocyte (cardiac, cytoplasmic)",DCK,0.049157232
+"Myocyte (sk. muscle, cytoplasmic)",DCK,0.048536263
+Immune (alveolar macrophage),DCK,0.036381073
+Epithelial cell (suprabasal keratinocyte),DCK,0.033615567
+Epithelial cell (Hillock),DCK,0.031682864
+Endothelial cell (lymphatic),DCK,0.030742731
+Endothelial cell (vascular),DCK,0.028636567
+Epithelial cell (mature keratinocyte),DCK,0.025122661
+Myocyte (NMJ-rich),DCK,0.02318988
+Mucous cell,DCK,0.023175323
+Epithelial cell (basal),DCK,0.022167305
+Myocyte (smooth muscle),DCK,0.019927131
+Pericyte/SMC,DCK,0.017948475
+Epithelial cell (luminal),DCK,0.015911309
+Epithelial cell (club),DCK,0.014671626
+Myocyte (cardiac),DCK,0.014536956
+Myofibroblast,DCK,0.013136071
+Epithelial cell (basal keratinocyte),DCK,0.012946037
+Epithelial cell (ciliated),DCK,0.012471776
+Immune (mast cell),DCK,0.011743378
+Fibroblast,DCK,0.011073664
+Schwann cell,DCK,0.010136736
+Epithelial cell (suprabasal),DCK,0.009862781
+Satellite cell,DCK,0.0095019825
+Myoepithelial (basal),DCK,0.008977025
+Epithelial cell (alveolar type I),DCK,0.008073794
+Epithelial cell (squamous),DCK,0.0066207354
+Epithelial cell (alveolar type II),DCK,0.0064704185
+Adipocyte,DCK,0.0040287385
+Myocyte (sk. muscle),DCK,0.0008190928
+Epithelial cell (cornified keratinocyte),DCK,0.0
+Melanocyte,DCK,0.0
+ICCs,DCK,0.0
+Sebaceous gland cell,DCK,0.0
+Sweat gland cell,DCK,0.0

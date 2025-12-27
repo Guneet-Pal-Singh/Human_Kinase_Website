@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+heart,Muscle,AGK,1.2769017,17.871352785145888
+heart,Adipocyte,AGK,1.0434783,11.917098445595856
+heart,Immune (lymphocyte),AGK,1.1129032,8.882521489971348
+skeletalmuscle,Glia,AGK,1.0,8.571428571428571
+esophagusmuscularis,Adipocyte,AGK,1.2142857,8.0
+esophagusmucosa,Glia,AGK,1.2,7.6923076923076925
+prostate,Glia,AGK,1.4,7.462686567164178
+skeletalmuscle,Muscle,AGK,1.1149013,7.403305126046697
+esophagusmuscularis,Immune (lymphocyte),AGK,1.0454545,7.308970099667775
+prostate,Endothelial cell,AGK,1.1071428,6.935598018400565
+prostate,Epithelial cell,AGK,1.09,6.9345122004074025
+esophagusmucosa,Stromal,AGK,1.0895523,6.774519716885743
+esophagusmuscularis,Endothelial cell,AGK,1.0538721,6.657700067249496
+prostate,Muscle,AGK,1.1013514,6.5983058403923325
+skin,Adipocyte,AGK,1.0,6.451612903225806
+heart,Glia,AGK,1.1052631,6.375838926174497
+esophagusmuscularis,Glia,AGK,1.0655738,6.288659793814433
+heart,Endothelial cell,AGK,1.0618337,6.142763588736084
+esophagusmucosa,Epithelial cell,AGK,1.0990338,6.001739634676718
+skeletalmuscle,Immune (lymphocyte),AGK,1.0,6.0
+lung,Immune (myeloid),AGK,1.0726258,5.8698147237252005
+lung,Epithelial cell,AGK,1.0625,5.781931464174455
+heart,Fibroblast,AGK,1.0706106,5.64229568213632
+prostate,Fibroblast,AGK,1.0952381,5.516637478108581
+prostate,Immune (myeloid),AGK,1.0714285,5.447470817120623
+skeletalmuscle,Endothelial cell,AGK,1.0735294,5.108940646130729
+lung,Immune (lymphocyte),AGK,1.0,5.103448275862069
+esophagusmucosa,Immune (lymphocyte),AGK,1.0777777,4.950495049504951
+esophagusmuscularis,Muscle,AGK,1.076072,4.862465532315556
+esophagusmucosa,Endothelial cell,AGK,1.0486726,4.831124412141941
+esophagusmuscularis,Immune (myeloid),AGK,1.027972,4.826189672629092
+esophagusmucosa,Immune (myeloid),AGK,1.2089552,4.792560801144492
+lung,Fibroblast,AGK,1.0153847,4.403794037940379
+skeletalmuscle,Adipocyte,AGK,1.0,4.40251572327044
+skin,Endothelial cell,AGK,1.0666667,4.398826979472141
+breast,Adipocyte,AGK,1.025974,4.372515616127201
+lung,Muscle,AGK,1.0,4.294478527607362
+prostate,Immune (lymphocyte),AGK,1.1428572,4.105571847507331
+breast,Epithelial cell,AGK,1.0603448,4.000689774098983
+skin,Immune (lymphocyte),AGK,1.3333334,4.0
+esophagusmuscularis,Neuron,AGK,1.0,4.0
+breast,Endothelial cell,AGK,1.117647,3.859250851305335
+lung,Endothelial cell,AGK,1.0485437,3.750910415149309
+heart,Immune (myeloid),AGK,1.0546218,3.719331145491483
+esophagusmuscularis,Fibroblast,AGK,1.0466322,3.7083293303871647
+skeletalmuscle,Immune (myeloid),AGK,1.0,3.3921302578018997
+breast,Immune (myeloid),AGK,1.0833334,3.35195530726257
+esophagusmucosa,Fibroblast,AGK,1.0224719,3.161634103019538
+esophagusmucosa,Muscle,AGK,1.0666667,2.9940119760479043
+skeletalmuscle,Fibroblast,AGK,1.0338984,2.977792732166891
+breast,Muscle,AGK,1.0,2.631578947368421
+skin,Fibroblast,AGK,1.0,2.457466918714556
+skin,Epithelial cell (keratinocyte),AGK,1.0227273,2.2598870056497176
+skin,Immune (myeloid),AGK,1.0,2.23463687150838
+skin,Muscle,AGK,1.0,2.1505376344086025
+skin,Epithelial cell,AGK,1.2727273,1.827242524916944
+skin,Other,AGK,1.0,1.7699115044247788
+breast,Fibroblast,AGK,1.0,1.7094017094017095
+skin,Melanocyte,AGK,1.0,1.1029411764705883

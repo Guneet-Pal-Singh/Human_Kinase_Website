@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmucosa,Epithelial cell,PKMYT1,1.0805687,1.529428819947811
+skin,Immune (myeloid),PKMYT1,1.0,1.11731843575419
+skin,Other,PKMYT1,1.0,0.8849557522123894
+esophagusmucosa,Stromal,PKMYT1,1.0,0.7077856420626896
+prostate,Immune (myeloid),PKMYT1,1.2,0.4863813229571984
+esophagusmucosa,Immune (myeloid),PKMYT1,1.0,0.3576537911301859
+skin,Epithelial cell (keratinocyte),PKMYT1,1.0,0.3081664098613251
+breast,Immune (myeloid),PKMYT1,1.0,0.2793296089385474
+esophagusmucosa,Immune (lymphocyte),PKMYT1,1.0,0.22002200220022
+esophagusmuscularis,Immune (myeloid),PKMYT1,1.0,0.2024974687816402
+esophagusmucosa,Muscle,PKMYT1,1.0,0.1996007984031935
+heart,Immune (lymphocyte),PKMYT1,1.0,0.1432664756446991
+lung,Immune (myeloid),PKMYT1,1.0,0.131169044105591
+heart,Immune (myeloid),PKMYT1,1.0,0.1250195343022347
+heart,Muscle,PKMYT1,1.0,0.1160477453580901
+prostate,Epithelial cell,PKMYT1,1.2083334,0.104017683006111
+breast,Epithelial cell,PKMYT1,1.1666666,0.1034661148473874
+prostate,Fibroblast,PKMYT1,1.0,0.0875656742556917
+esophagusmucosa,Fibroblast,PKMYT1,1.0,0.0710479573712255
+prostate,Muscle,PKMYT1,1.0,0.0445831475702184
+esophagusmucosa,Endothelial cell,PKMYT1,1.0,0.042753313381787
+prostate,Endothelial cell,PKMYT1,1.0,0.035385704175513
+esophagusmuscularis,Muscle,PKMYT1,1.0,0.0269016073710404
+lung,Epithelial cell,PKMYT1,1.0,0.0249221183800623
+esophagusmuscularis,Endothelial cell,PKMYT1,1.0,0.0224164985429275
+heart,Fibroblast,PKMYT1,1.0,0.0215354797028103
+esophagusmuscularis,Fibroblast,PKMYT1,1.0,0.0192141416082236
+skeletalmuscle,Fibroblast,PKMYT1,1.0,0.0168236877523553
+skeletalmuscle,Muscle,PKMYT1,1.0,0.0088609277391342
+esophagusmuscularis,Neuron,PKMYT1,0.0,0.0
+heart,Adipocyte,PKMYT1,0.0,0.0
+heart,Glia,PKMYT1,0.0,0.0
+heart,Endothelial cell,PKMYT1,0.0,0.0
+esophagusmuscularis,Immune (lymphocyte),PKMYT1,0.0,0.0
+esophagusmucosa,Glia,PKMYT1,0.0,0.0
+breast,Endothelial cell,PKMYT1,0.0,0.0
+breast,Fibroblast,PKMYT1,0.0,0.0
+breast,Muscle,PKMYT1,0.0,0.0
+breast,Adipocyte,PKMYT1,0.0,0.0
+esophagusmuscularis,Glia,PKMYT1,0.0,0.0
+esophagusmuscularis,Adipocyte,PKMYT1,0.0,0.0
+lung,Fibroblast,PKMYT1,0.0,0.0
+lung,Immune (lymphocyte),PKMYT1,0.0,0.0
+skeletalmuscle,Adipocyte,PKMYT1,0.0,0.0
+prostate,Immune (lymphocyte),PKMYT1,0.0,0.0
+prostate,Glia,PKMYT1,0.0,0.0
+lung,Muscle,PKMYT1,0.0,0.0
+lung,Endothelial cell,PKMYT1,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),PKMYT1,0.0,0.0
+skeletalmuscle,Glia,PKMYT1,0.0,0.0
+skeletalmuscle,Endothelial cell,PKMYT1,0.0,0.0
+skin,Endothelial cell,PKMYT1,0.0,0.0
+skin,Adipocyte,PKMYT1,0.0,0.0
+skeletalmuscle,Immune (myeloid),PKMYT1,0.0,0.0
+skin,Epithelial cell,PKMYT1,0.0,0.0
+skin,Immune (lymphocyte),PKMYT1,0.0,0.0
+skin,Fibroblast,PKMYT1,0.0,0.0
+skin,Melanocyte,PKMYT1,0.0,0.0
+skin,Muscle,PKMYT1,0.0,0.0

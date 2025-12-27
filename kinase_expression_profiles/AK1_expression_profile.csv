@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+"Myocyte (cardiac, cytoplasmic)",AK1,1.2808084
+"Myocyte (sk. muscle, cytoplasmic)",AK1,1.0200868
+Epithelial cell (squamous),AK1,0.34635818
+Sebaceous gland cell,AK1,0.25954932
+Adipocyte,AK1,0.24865262
+Myocyte (smooth muscle),AK1,0.1802728
+Epithelial cell (cornified keratinocyte),AK1,0.14697257
+Epithelial cell (alveolar type II),AK1,0.14180967
+Neuronal,AK1,0.12327238
+Schwann cell,AK1,0.113158725
+Immune (alveolar macrophage),AK1,0.11083485
+Epithelial cell (mature keratinocyte),AK1,0.11080953
+Epithelial cell (alveolar type I),AK1,0.103188545
+Neuroendocrine,AK1,0.10110801
+Immune (T cell),AK1,0.08543664
+Myocyte (cardiac),AK1,0.0837846
+Myoepithelial (basal),AK1,0.08298971
+Myofibroblast,AK1,0.08130723
+Immune (Langerhans),AK1,0.07452027
+Epithelial cell (ciliated),AK1,0.066487685
+Fibroblast,AK1,0.06577045
+Mucous cell,AK1,0.061403003
+Epithelial cell (suprabasal keratinocyte),AK1,0.060676638
+Endothelial cell (lymphatic),AK1,0.05134753
+Pericyte/SMC,AK1,0.04847573
+Epithelial cell (suprabasal),AK1,0.045157228
+Endothelial cell (vascular),AK1,0.044471666
+Immune (B cell),AK1,0.0413963
+Epithelial cell (luminal),AK1,0.039574903
+Epithelial cell (club),AK1,0.038945775
+Epithelial cell (basal),AK1,0.0348782
+Epithelial cell (basal keratinocyte),AK1,0.03353525
+Melanocyte,AK1,0.025889102
+Epithelial cell (Hillock),AK1,0.024657799
+Immune (mast cell),AK1,0.024303896
+Immune (NK cell),AK1,0.016193982
+Immune (DC/macrophage),AK1,0.014197762
+ICCs,AK1,0.010145104
+Myocyte (sk. muscle),AK1,0.0038495066
+Immune (DC),AK1,0.0
+Myocyte (NMJ-rich),AK1,0.0
+Satellite cell,AK1,0.0
+Sweat gland cell,AK1,0.0

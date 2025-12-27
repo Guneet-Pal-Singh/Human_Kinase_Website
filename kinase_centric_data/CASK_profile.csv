@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmucosa,Immune (lymphocyte),CASK,1.6243781,44.22442244224423
+skin,Immune (lymphocyte),CASK,1.15625,42.66666666666667
+lung,Immune (lymphocyte),CASK,1.4256055,39.86206896551724
+heart,Adipocyte,CASK,1.375,33.160621761658035
+prostate,Immune (lymphocyte),CASK,1.3846154,32.40469208211144
+lung,Epithelial cell,CASK,1.4018449,31.97092419522326
+esophagusmuscularis,Immune (lymphocyte),CASK,1.3777778,29.900332225913623
+esophagusmucosa,Stromal,CASK,1.4183674,29.726996966632964
+esophagusmuscularis,Adipocyte,CASK,1.2692307,29.714285714285715
+esophagusmucosa,Epithelial cell,CASK,1.4962406,26.99333140040591
+breast,Epithelial cell,CASK,1.3684888,26.81496809794792
+lung,Fibroblast,CASK,1.2926209,26.6260162601626
+skeletalmuscle,Immune (lymphocyte),CASK,1.6538461,26.0
+heart,Immune (lymphocyte),CASK,1.3728814,25.358166189111746
+prostate,Fibroblast,CASK,1.2899628,23.555166374781088
+skin,Epithelial cell,CASK,1.4776119,22.259136212624583
+prostate,Epithelial cell,CASK,1.3493407,22.02141030641876
+prostate,Muscle,CASK,1.3206751,21.13241194828355
+heart,Muscle,CASK,1.3361378,20.689655172413797
+esophagusmucosa,Glia,CASK,1.1538461,20.0
+skin,Fibroblast,CASK,1.1826923,19.65973534971645
+lung,Immune (myeloid),CASK,1.2666099,19.24905722249549
+lung,Muscle,CASK,1.1612903,19.018404907975462
+esophagusmucosa,Muscle,CASK,1.1182796,18.562874251497004
+heart,Fibroblast,CASK,1.2654867,18.2513190481318
+skeletalmuscle,Adipocyte,CASK,1.2068965,18.238993710691823
+prostate,Endothelial cell,CASK,1.2083334,17.8343949044586
+skin,Muscle,CASK,1.2424242,17.741935483870968
+esophagusmucosa,Endothelial cell,CASK,1.2234299,17.699871740059855
+skin,Endothelial cell,CASK,1.2166667,17.595307917888565
+skeletalmuscle,Glia,CASK,1.1666666,17.142857142857142
+esophagusmucosa,Immune (myeloid),CASK,1.3021277,16.80972818311874
+lung,Endothelial cell,CASK,1.1644737,16.60597232337946
+breast,Adipocyte,CASK,1.2142857,15.900056785917094
+esophagusmucosa,Fibroblast,CASK,1.2179775,15.808170515097691
+prostate,Immune (myeloid),CASK,1.2962962,15.758754863813229
+esophagusmuscularis,Endothelial cell,CASK,1.2047129,15.220802510647838
+breast,Muscle,CASK,1.173913,15.13157894736842
+heart,Endothelial cell,CASK,1.1961806,15.088408644400786
+breast,Fibroblast,CASK,1.214876,14.774114774114777
+heart,Immune (myeloid),CASK,1.2584746,14.752305047663697
+esophagusmuscularis,Glia,CASK,1.0921986,14.536082474226806
+skeletalmuscle,Immune (myeloid),CASK,1.1862745,13.83989145183175
+skin,Melanocyte,CASK,1.1621622,13.602941176470589
+skin,Epithelial cell (keratinocyte),CASK,1.2007576,13.559322033898304
+skin,Immune (myeloid),CASK,1.125,13.40782122905028
+heart,Glia,CASK,1.2307693,13.087248322147651
+skeletalmuscle,Fibroblast,CASK,1.1534461,12.937415881561238
+skeletalmuscle,Muscle,CASK,1.1562823,12.87049754109255
+esophagusmuscularis,Muscle,CASK,1.1817222,12.731185688344878
+esophagusmuscularis,Fibroblast,CASK,1.1294396,12.172158708809684
+esophagusmuscularis,Neuron,CASK,2.0,12.0
+breast,Immune (myeloid),CASK,1.1904762,11.731843575418994
+skeletalmuscle,Endothelial cell,CASK,1.1806451,11.645379413974457
+skin,Adipocyte,CASK,1.2857143,11.29032258064516
+esophagusmuscularis,Immune (myeloid),CASK,1.1661538,10.968612892338845
+breast,Endothelial cell,CASK,1.1875,10.896708286038592
+skin,Other,CASK,1.1707317,9.070796460176991
+prostate,Glia,CASK,1.4,7.462686567164178

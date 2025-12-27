@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Melanocyte,AK2,0.37094742
+"Myocyte (sk. muscle, cytoplasmic)",AK2,0.3336967
+"Myocyte (cardiac, cytoplasmic)",AK2,0.3164503
+Adipocyte,AK2,0.31118953
+Myocyte (sk. muscle),AK2,0.2979035
+Epithelial cell (suprabasal),AK2,0.28559032
+Neuroendocrine,AK2,0.28329283
+Neuronal,AK2,0.2790623
+Epithelial cell (Hillock),AK2,0.274154
+Sebaceous gland cell,AK2,0.27301666
+Epithelial cell (club),AK2,0.2710341
+Epithelial cell (basal),AK2,0.25948122
+Immune (Langerhans),AK2,0.23500948
+Mucous cell,AK2,0.2349735
+Epithelial cell (luminal),AK2,0.22699538
+Myofibroblast,AK2,0.22455831
+Myocyte (cardiac),AK2,0.2228643
+Sweat gland cell,AK2,0.21395202
+ICCs,AK2,0.20823644
+Epithelial cell (basal keratinocyte),AK2,0.20447771
+Epithelial cell (alveolar type II),AK2,0.20355546
+Epithelial cell (ciliated),AK2,0.19746658
+Myocyte (smooth muscle),AK2,0.19356868
+Immune (alveolar macrophage),AK2,0.17420003
+Endothelial cell (vascular),AK2,0.16374657
+Immune (NK cell),AK2,0.16343194
+Myocyte (NMJ-rich),AK2,0.16275764
+Epithelial cell (alveolar type I),AK2,0.15756205
+Endothelial cell (lymphatic),AK2,0.1567656
+Schwann cell,AK2,0.14784944
+Myoepithelial (basal),AK2,0.14639248
+Fibroblast,AK2,0.14483511
+Epithelial cell (suprabasal keratinocyte),AK2,0.1427191
+Immune (mast cell),AK2,0.13646722
+Satellite cell,AK2,0.13466586
+Pericyte/SMC,AK2,0.12768236
+Immune (DC),AK2,0.12751028
+Immune (DC/macrophage),AK2,0.11816848
+Epithelial cell (cornified keratinocyte),AK2,0.11629255
+Immune (B cell),AK2,0.10650064
+Epithelial cell (squamous),AK2,0.1058449
+Immune (T cell),AK2,0.098125435
+Epithelial cell (mature keratinocyte),AK2,0.071005814

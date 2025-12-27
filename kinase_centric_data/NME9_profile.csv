@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Adipocyte,NME9,1.1842105,21.714285714285715
+skeletalmuscle,Muscle,NME9,1.2904953,19.857339063399937
+esophagusmuscularis,Neuron,NME9,2.5,8.0
+skeletalmuscle,Immune (lymphocyte),NME9,1.0,8.0
+heart,Muscle,NME9,1.1859244,7.891246684350133
+lung,Immune (myeloid),NME9,1.0967742,7.624200688637482
+skeletalmuscle,Adipocyte,NME9,1.2,6.289308176100629
+esophagusmuscularis,Muscle,NME9,1.1194896,5.79729638845921
+lung,Muscle,NME9,1.0,5.521472392638037
+lung,Epithelial cell,NME9,1.1238245,5.300103842159917
+heart,Adipocyte,NME9,1.4,5.181347150259067
+esophagusmuscularis,Fibroblast,NME9,1.0929368,5.168604092612163
+skeletalmuscle,Fibroblast,NME9,1.0824373,4.693808882907134
+heart,Fibroblast,NME9,1.0703883,4.436308818778938
+skeletalmuscle,Endothelial cell,NME9,1.0862069,4.357625845229151
+heart,Glia,NME9,1.0,4.026845637583892
+prostate,Muscle,NME9,1.1111112,4.012483281319661
+lung,Endothelial cell,NME9,1.0480769,3.787327021121632
+esophagusmuscularis,Glia,NME9,1.0277778,3.711340206185567
+esophagusmuscularis,Endothelial cell,NME9,1.0621119,3.609056265411343
+esophagusmuscularis,Immune (myeloid),NME9,1.0882353,3.442456969287884
+esophagusmucosa,Stromal,NME9,1.0294118,3.4378159757330637
+esophagusmuscularis,Immune (lymphocyte),NME9,1.0,3.322259136212625
+lung,Immune (lymphocyte),NME9,1.0,3.310344827586207
+heart,Endothelial cell,NME9,1.0493827,3.182711198428291
+lung,Fibroblast,NME9,1.0869565,3.116531165311653
+heart,Immune (myeloid),NME9,1.0725389,3.016096265041413
+skeletalmuscle,Glia,NME9,1.0,2.857142857142857
+skeletalmuscle,Immune (myeloid),NME9,1.1428572,2.849389416553596
+heart,Immune (lymphocyte),NME9,1.0,2.722063037249284
+prostate,Epithelial cell,NME9,1.0602837,2.444415550643609
+prostate,Fibroblast,NME9,1.1111112,2.364273204903678
+breast,Adipocyte,NME9,1.0,2.271436683702442
+prostate,Immune (myeloid),NME9,1.0434783,2.237354085603113
+prostate,Immune (lymphocyte),NME9,1.1428572,2.0527859237536656
+prostate,Endothelial cell,NME9,1.0701754,2.0169851380042463
+skin,Fibroblast,NME9,1.0,1.7013232514177694
+breast,Immune (myeloid),NME9,1.0,1.675977653631285
+esophagusmucosa,Immune (myeloid),NME9,1.0434783,1.6452074391988556
+skin,Muscle,NME9,1.0,1.6129032258064515
+esophagusmucosa,Immune (lymphocyte),NME9,1.0,1.5951595159515952
+skin,Endothelial cell,NME9,1.0,1.3685239491691104
+skin,Immune (lymphocyte),NME9,1.0,1.3333333333333337
+esophagusmucosa,Endothelial cell,NME9,1.0172414,1.2398460880718256
+esophagusmucosa,Muscle,NME9,1.0,1.1976047904191618
+skin,Immune (myeloid),NME9,1.0,1.11731843575419
+skin,Melanocyte,NME9,1.0,1.1029411764705883
+breast,Fibroblast,NME9,1.0,1.098901098901099
+esophagusmucosa,Epithelial cell,NME9,1.0071943,1.0075384169324442
+skin,Epithelial cell,NME9,1.1666666,0.9966777408637874
+skin,Other,NME9,1.0,0.8849557522123894
+breast,Epithelial cell,NME9,1.0,0.8794619762027935
+skin,Epithelial cell (keratinocyte),NME9,1.0,0.8217770929635336
+breast,Muscle,NME9,1.0,0.6578947368421052
+esophagusmucosa,Fibroblast,NME9,1.0555556,0.6394316163410302
+breast,Endothelial cell,NME9,1.2,0.5675368898978433
+esophagusmucosa,Glia,NME9,0.0,0.0
+prostate,Glia,NME9,0.0,0.0
+skin,Adipocyte,NME9,0.0,0.0

@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (ciliated),NME5,0.700131
+Neuronal,NME5,0.19187972
+Myocyte (cardiac),NME5,0.1463903
+Epithelial cell (alveolar type II),NME5,0.13198268
+Epithelial cell (alveolar type I),NME5,0.1285548
+Neuroendocrine,NME5,0.12202746
+Sweat gland cell,NME5,0.11743606
+Immune (alveolar macrophage),NME5,0.09628084
+Epithelial cell (club),NME5,0.08987813
+Epithelial cell (luminal),NME5,0.077944055
+Epithelial cell (Hillock),NME5,0.06963578
+Melanocyte,NME5,0.0686976
+ICCs,NME5,0.06658901
+Myoepithelial (basal),NME5,0.059435565
+Myocyte (smooth muscle),NME5,0.05749321
+Myocyte (NMJ-rich),NME5,0.055440333
+Mucous cell,NME5,0.04725607
+Endothelial cell (lymphatic),NME5,0.042389642
+Epithelial cell (basal),NME5,0.042048912
+Fibroblast,NME5,0.035965785
+"Myocyte (cardiac, cytoplasmic)",NME5,0.035388786
+Endothelial cell (vascular),NME5,0.034464665
+Myofibroblast,NME5,0.033804413
+Satellite cell,NME5,0.033773668
+Adipocyte,NME5,0.03365505
+Schwann cell,NME5,0.033158142
+Immune (mast cell),NME5,0.03246029
+Myocyte (sk. muscle),NME5,0.032122426
+Epithelial cell (basal keratinocyte),NME5,0.030192437
+Pericyte/SMC,NME5,0.018920744
+Epithelial cell (mature keratinocyte),NME5,0.015428154
+Sebaceous gland cell,NME5,0.013577402
+Immune (DC/macrophage),NME5,0.012926435
+Immune (T cell),NME5,0.012271594
+Epithelial cell (suprabasal),NME5,0.009219876
+Immune (NK cell),NME5,0.00754267
+Epithelial cell (squamous),NME5,0.005215052
+Epithelial cell (cornified keratinocyte),NME5,0.0
+Immune (B cell),NME5,0.0
+Immune (DC),NME5,0.0
+Immune (Langerhans),NME5,0.0
+Epithelial cell (suprabasal keratinocyte),NME5,0.0
+"Myocyte (sk. muscle, cytoplasmic)",NME5,0.0

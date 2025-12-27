@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (alveolar type I),PRKCZ,1.06415
+Epithelial cell (alveolar type II),PRKCZ,0.6293695
+Epithelial cell (ciliated),PRKCZ,0.5808774
+Endothelial cell (lymphatic),PRKCZ,0.49412975
+Epithelial cell (squamous),PRKCZ,0.44900483
+Epithelial cell (suprabasal),PRKCZ,0.41947317
+Mucous cell,PRKCZ,0.34523767
+Neuronal,PRKCZ,0.33227903
+Epithelial cell (club),PRKCZ,0.30036092
+Epithelial cell (Hillock),PRKCZ,0.28238657
+Epithelial cell (luminal),PRKCZ,0.2764043
+Epithelial cell (basal),PRKCZ,0.2638643
+Neuroendocrine,PRKCZ,0.24537572
+Immune (Langerhans),PRKCZ,0.23205256
+Immune (T cell),PRKCZ,0.21337539
+Epithelial cell (basal keratinocyte),PRKCZ,0.2112657
+Immune (B cell),PRKCZ,0.20177291
+Sebaceous gland cell,PRKCZ,0.2009845
+Sweat gland cell,PRKCZ,0.19614133
+Epithelial cell (mature keratinocyte),PRKCZ,0.18485749
+Myoepithelial (basal),PRKCZ,0.18385962
+Melanocyte,PRKCZ,0.17779939
+Epithelial cell (suprabasal keratinocyte),PRKCZ,0.17765129
+Myocyte (cardiac),PRKCZ,0.17500597
+Immune (alveolar macrophage),PRKCZ,0.16198926
+Epithelial cell (cornified keratinocyte),PRKCZ,0.13539632
+ICCs,PRKCZ,0.118269734
+Immune (DC),PRKCZ,0.116447724
+Myofibroblast,PRKCZ,0.11249678
+Immune (mast cell),PRKCZ,0.111341216
+Immune (NK cell),PRKCZ,0.08819089
+"Myocyte (cardiac, cytoplasmic)",PRKCZ,0.08497622
+Pericyte/SMC,PRKCZ,0.060246844
+Schwann cell,PRKCZ,0.04899649
+Endothelial cell (vascular),PRKCZ,0.044161454
+Myocyte (smooth muscle),PRKCZ,0.03844097
+Myocyte (NMJ-rich),PRKCZ,0.035532933
+Immune (DC/macrophage),PRKCZ,0.029334076
+Fibroblast,PRKCZ,0.029308463
+Myocyte (sk. muscle),PRKCZ,0.025345404
+Adipocyte,PRKCZ,0.01980364
+Satellite cell,PRKCZ,0.009093926
+"Myocyte (sk. muscle, cytoplasmic)",PRKCZ,0.0018478017

@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Neuron,CLK3,1.0,8.0
+esophagusmucosa,Stromal,CLK3,1.1012658,7.987866531850354
+prostate,Glia,CLK3,1.0,7.462686567164178
+heart,Muscle,CLK3,1.1099415,7.087201591511937
+skin,Other,CLK3,1.0666667,6.637168141592921
+esophagusmucosa,Epithelial cell,CLK3,1.0733945,6.320672658741665
+skin,Epithelial cell,CLK3,1.0571429,5.813953488372093
+esophagusmuscularis,Adipocyte,CLK3,1.0,5.142857142857142
+skin,Epithelial cell (keratinocyte),CLK3,1.0612245,5.033384694401644
+prostate,Muscle,CLK3,1.0707071,4.413731609451627
+esophagusmucosa,Immune (myeloid),CLK3,1.05,4.291845493562231
+esophagusmuscularis,Muscle,CLK3,1.0558214,4.216826955410586
+heart,Adipocyte,CLK3,1.0,4.145077720207254
+breast,Adipocyte,CLK3,1.0422535,4.031800113571834
+prostate,Epithelial cell,CLK3,1.0498916,3.996012655484766
+lung,Epithelial cell,CLK3,1.0276549,3.7549325025960543
+esophagusmucosa,Immune (lymphocyte),CLK3,1.0147059,3.74037403740374
+breast,Epithelial cell,CLK3,1.0694444,3.724780134505949
+lung,Immune (myeloid),CLK3,1.039823,3.705525495982948
+prostate,Immune (myeloid),CLK3,1.0789474,3.696498054474709
+esophagusmucosa,Muscle,CLK3,1.0588236,3.393213572854292
+esophagusmucosa,Endothelial cell,CLK3,1.0318471,3.3561351004702864
+breast,Immune (myeloid),CLK3,1.0833334,3.35195530726257
+skin,Melanocyte,CLK3,1.0,3.308823529411765
+esophagusmuscularis,Immune (myeloid),CLK3,1.0212766,3.172460344245697
+esophagusmucosa,Glia,CLK3,1.0,3.076923076923077
+skeletalmuscle,Immune (lymphocyte),CLK3,1.0,3.0
+skin,Immune (myeloid),CLK3,1.0,2.793296089385475
+skeletalmuscle,Endothelial cell,CLK3,1.0277778,2.70473328324568
+esophagusmuscularis,Immune (lymphocyte),CLK3,1.0,2.6578073089701
+prostate,Endothelial cell,CLK3,1.0405406,2.618542108987969
+heart,Immune (myeloid),CLK3,1.0359281,2.6097827785591496
+esophagusmuscularis,Fibroblast,CLK3,1.0111111,2.593909117110193
+esophagusmuscularis,Endothelial cell,CLK3,1.0380952,2.3537323470073974
+heart,Endothelial cell,CLK3,1.0225989,2.3182711198428287
+breast,Endothelial cell,CLK3,1.05,2.2701475595913734
+heart,Fibroblast,CLK3,1.0339806,2.218154409389469
+breast,Fibroblast,CLK3,1.0588236,2.0757020757020754
+lung,Endothelial cell,CLK3,1.0357143,2.039329934450109
+breast,Muscle,CLK3,1.0,1.973684210526316
+esophagusmucosa,Fibroblast,CLK3,1.0363636,1.953818827708704
+skeletalmuscle,Fibroblast,CLK3,1.0263158,1.917900403768506
+skeletalmuscle,Adipocyte,CLK3,1.3333334,1.8867924528301887
+skeletalmuscle,Muscle,CLK3,1.03125,1.843072969739932
+esophagusmuscularis,Glia,CLK3,1.0588236,1.7525773195876289
+heart,Immune (lymphocyte),CLK3,1.0,1.7191977077363898
+lung,Fibroblast,CLK3,1.0434783,1.5582655826558265
+skeletalmuscle,Immune (myeloid),CLK3,1.0,1.4925373134328357
+prostate,Fibroblast,CLK3,1.0,1.48861646234676
+prostate,Immune (lymphocyte),CLK3,1.0,1.466275659824047
+heart,Glia,CLK3,1.25,1.342281879194631
+skin,Immune (lymphocyte),CLK3,1.0,1.3333333333333337
+lung,Immune (lymphocyte),CLK3,1.0,1.103448275862069
+skin,Endothelial cell,CLK3,1.0,1.0752688172043012
+lung,Muscle,CLK3,1.0,0.6134969325153374
+skin,Fibroblast,CLK3,1.5,0.3780718336483932
+skeletalmuscle,Glia,CLK3,0.0,0.0
+skin,Adipocyte,CLK3,0.0,0.0
+skin,Muscle,CLK3,0.0,0.0

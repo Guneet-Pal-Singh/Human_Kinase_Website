@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmucosa,Epithelial cell,MINK1,1.563371,32.77036822267324
+lung,Immune (myeloid),MINK1,1.334035,23.36448598130841
+skin,Epithelial cell (keratinocyte),MINK1,1.2037915,21.6743708269132
+esophagusmucosa,Stromal,MINK1,1.3804348,18.6046511627907
+esophagusmuscularis,Adipocyte,MINK1,1.2142857,16.0
+skin,Other,MINK1,1.0563381,15.70796460176991
+prostate,Epithelial cell,MINK1,1.2612152,15.264594981146796
+esophagusmucosa,Endothelial cell,MINK1,1.1649331,14.386489952971354
+heart,Muscle,MINK1,1.1873863,13.668766578249336
+breast,Immune (myeloid),MINK1,1.1914893,13.128491620111731
+esophagusmucosa,Immune (myeloid),MINK1,1.1807909,12.660944206008583
+skin,Endothelial cell,MINK1,1.1322314,11.827956989247312
+breast,Epithelial cell,MINK1,1.115727,11.622693567856526
+esophagusmuscularis,Endothelial cell,MINK1,1.170082,10.939251288948666
+skin,Epithelial cell,MINK1,1.2307693,10.79734219269103
+breast,Adipocyte,MINK1,1.0842105,10.7893242475866
+breast,Endothelial cell,MINK1,1.0786517,10.102156640181612
+prostate,Endothelial cell,MINK1,1.1299639,9.801840056617127
+esophagusmuscularis,Immune (myeloid),MINK1,1.0503597,9.382382720215997
+skin,Immune (lymphocyte),MINK1,1.0,9.333333333333334
+prostate,Immune (myeloid),MINK1,1.0978261,8.949416342412452
+breast,Muscle,MINK1,1.3846154,8.552631578947368
+lung,Epithelial cell,MINK1,1.0898765,8.411214953271028
+heart,Adipocyte,MINK1,1.1875,8.290155440414509
+esophagusmuscularis,Neuron,MINK1,1.0,8.0
+esophagusmucosa,Immune (lymphocyte),MINK1,1.028169,7.81078107810781
+heart,Endothelial cell,MINK1,1.0756303,7.7930582842174205
+skin,Melanocyte,MINK1,1.0,7.720588235294118
+skeletalmuscle,Adipocyte,MINK1,1.0,7.547169811320755
+prostate,Muscle,MINK1,1.1964285,7.489968791796701
+prostate,Glia,MINK1,1.6,7.462686567164178
+heart,Immune (lymphocyte),MINK1,1.0961539,7.4498567335243555
+esophagusmuscularis,Glia,MINK1,1.0694444,7.422680412371134
+lung,Endothelial cell,MINK1,1.0689656,7.392571012381646
+heart,Immune (myeloid),MINK1,1.0647322,7.001093920925144
+esophagusmucosa,Muscle,MINK1,1.2571429,6.986027944111776
+lung,Fibroblast,MINK1,1.0582525,6.978319783197833
+esophagusmuscularis,Muscle,MINK1,1.0941747,6.927163898042908
+breast,Fibroblast,MINK1,1.0357143,6.837606837606838
+lung,Muscle,MINK1,1.0,6.748466257668712
+prostate,Immune (lymphocyte),MINK1,1.1086956,6.744868035190615
+skin,Immune (myeloid),MINK1,1.0833334,6.70391061452514
+skin,Adipocyte,MINK1,1.0,6.451612903225806
+esophagusmuscularis,Immune (lymphocyte),MINK1,1.1052631,6.312292358803987
+heart,Fibroblast,MINK1,1.078534,6.169914934855174
+skeletalmuscle,Immune (lymphocyte),MINK1,1.3333334,6.0
+prostate,Fibroblast,MINK1,1.125,5.604203152364273
+esophagusmuscularis,Fibroblast,MINK1,1.0667838,5.466423287539629
+skeletalmuscle,Immune (myeloid),MINK1,1.0,5.42740841248304
+skeletalmuscle,Endothelial cell,MINK1,1.125,5.40946656649136
+skin,Muscle,MINK1,1.1,5.376344086021505
+lung,Immune (lymphocyte),MINK1,1.1052631,5.241379310344827
+skeletalmuscle,Muscle,MINK1,1.0609002,5.019715564219574
+esophagusmucosa,Fibroblast,MINK1,1.056,4.440497335701599
+skeletalmuscle,Fibroblast,MINK1,1.0205761,4.088156123822341
+heart,Glia,MINK1,1.0,3.691275167785235
+skin,Fibroblast,MINK1,1.0526316,3.5916824196597354
+esophagusmucosa,Glia,MINK1,1.0,3.076923076923077
+skeletalmuscle,Glia,MINK1,0.0,0.0

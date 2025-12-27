@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Neuron,GCK,1.0,4.0
+lung,Immune (myeloid),GCK,1.0289855,1.1313330054107231
+skeletalmuscle,Immune (lymphocyte),GCK,1.0,1.0
+heart,Muscle,GCK,1.0123457,0.6714190981432361
+skin,Immune (myeloid),GCK,1.0,0.5586592178770949
+skin,Epithelial cell,GCK,1.0,0.4983388704318937
+lung,Endothelial cell,GCK,1.0,0.4734158776402039
+lung,Epithelial cell,GCK,1.0,0.4278296988577362
+lung,Immune (lymphocyte),GCK,1.0,0.4137931034482758
+skeletalmuscle,Immune (myeloid),GCK,1.0,0.4070556309362279
+skin,Fibroblast,GCK,1.0,0.3780718336483932
+skin,Melanocyte,GCK,1.0,0.3676470588235294
+prostate,Fibroblast,GCK,1.0,0.3502626970227671
+esophagusmucosa,Stromal,GCK,1.0,0.3033367037411527
+esophagusmucosa,Fibroblast,GCK,1.0,0.2841918294849023
+breast,Immune (myeloid),GCK,1.0,0.2793296089385474
+lung,Fibroblast,GCK,1.0,0.2710027100271002
+breast,Fibroblast,GCK,1.0,0.2442002442002442
+skeletalmuscle,Fibroblast,GCK,1.0,0.2355316285329744
+breast,Adipocyte,GCK,1.0,0.2271436683702442
+prostate,Muscle,GCK,1.0,0.2229157378510923
+esophagusmuscularis,Endothelial cell,GCK,1.0,0.2017484868863483
+esophagusmuscularis,Muscle,GCK,1.0,0.195036653440043
+prostate,Immune (myeloid),GCK,1.0,0.1945525291828793
+prostate,Epithelial cell,GCK,1.0,0.1863650153859489
+heart,Fibroblast,GCK,1.0588236,0.1830515774738882
+breast,Epithelial cell,GCK,1.1,0.1724435247456457
+skeletalmuscle,Muscle,GCK,1.0,0.15506623543485
+skin,Epithelial cell (keratinocyte),GCK,1.0,0.1540832049306625
+esophagusmucosa,Endothelial cell,GCK,1.0,0.1496365968362548
+esophagusmucosa,Immune (myeloid),GCK,1.0,0.1430615164520743
+esophagusmuscularis,Immune (myeloid),GCK,1.0,0.1349983125210934
+esophagusmuscularis,Fibroblast,GCK,1.0,0.1344989912575655
+esophagusmucosa,Epithelial cell,GCK,1.0,0.1304726007538417
+breast,Endothelial cell,GCK,1.0,0.1135073779795686
+esophagusmuscularis,Glia,GCK,1.0,0.1030927835051546
+heart,Immune (myeloid),GCK,1.0,0.093764650726676
+skeletalmuscle,Endothelial cell,GCK,1.0,0.0751314800901577
+heart,Endothelial cell,GCK,1.0,0.0654878847413228
+esophagusmucosa,Immune (lymphocyte),GCK,1.0,0.055005500550055
+esophagusmucosa,Muscle,GCK,0.0,0.0
+breast,Muscle,GCK,0.0,0.0
+esophagusmucosa,Glia,GCK,0.0,0.0
+heart,Immune (lymphocyte),GCK,0.0,0.0
+heart,Glia,GCK,0.0,0.0
+heart,Adipocyte,GCK,0.0,0.0
+esophagusmuscularis,Immune (lymphocyte),GCK,0.0,0.0
+esophagusmuscularis,Adipocyte,GCK,0.0,0.0
+lung,Muscle,GCK,0.0,0.0
+prostate,Endothelial cell,GCK,0.0,0.0
+prostate,Glia,GCK,0.0,0.0
+skeletalmuscle,Adipocyte,GCK,0.0,0.0
+prostate,Immune (lymphocyte),GCK,0.0,0.0
+skeletalmuscle,Glia,GCK,0.0,0.0
+skin,Adipocyte,GCK,0.0,0.0
+skin,Endothelial cell,GCK,0.0,0.0
+skin,Immune (lymphocyte),GCK,0.0,0.0
+skin,Muscle,GCK,0.0,0.0
+skin,Other,GCK,0.0,0.0

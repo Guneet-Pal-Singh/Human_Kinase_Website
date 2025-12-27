@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Mucous cell,SEPHS1,0.17413816
+Sweat gland cell,SEPHS1,0.11838159
+Immune (B cell),SEPHS1,0.11438893
+Neuroendocrine,SEPHS1,0.11279598
+Epithelial cell (Hillock),SEPHS1,0.10861968
+Immune (NK cell),SEPHS1,0.10573175
+Endothelial cell (lymphatic),SEPHS1,0.104079284
+Epithelial cell (basal),SEPHS1,0.10406089
+"Myocyte (cardiac, cytoplasmic)",SEPHS1,0.10297366
+Myofibroblast,SEPHS1,0.099483944
+Immune (DC),SEPHS1,0.098274216
+Epithelial cell (club),SEPHS1,0.09633795
+Epithelial cell (luminal),SEPHS1,0.0947177
+Myocyte (smooth muscle),SEPHS1,0.091220036
+Immune (Langerhans),SEPHS1,0.08797877
+Myocyte (cardiac),SEPHS1,0.085789956
+Epithelial cell (basal keratinocyte),SEPHS1,0.08553357
+Epithelial cell (suprabasal),SEPHS1,0.081980556
+"Myocyte (sk. muscle, cytoplasmic)",SEPHS1,0.08075818
+Adipocyte,SEPHS1,0.07999642
+Endothelial cell (vascular),SEPHS1,0.07719908
+Immune (alveolar macrophage),SEPHS1,0.07698665
+Epithelial cell (ciliated),SEPHS1,0.07508248
+Pericyte/SMC,SEPHS1,0.07083831
+Epithelial cell (alveolar type II),SEPHS1,0.06874237
+Satellite cell,SEPHS1,0.067114115
+Epithelial cell (alveolar type I),SEPHS1,0.06612007
+Schwann cell,SEPHS1,0.06502031
+Fibroblast,SEPHS1,0.06436764
+ICCs,SEPHS1,0.054947555
+Sebaceous gland cell,SEPHS1,0.04991849
+Myoepithelial (basal),SEPHS1,0.047730517
+Epithelial cell (suprabasal keratinocyte),SEPHS1,0.046638444
+Immune (T cell),SEPHS1,0.045395896
+Immune (DC/macrophage),SEPHS1,0.044314567
+Epithelial cell (mature keratinocyte),SEPHS1,0.043020274
+Immune (mast cell),SEPHS1,0.041408498
+Epithelial cell (cornified keratinocyte),SEPHS1,0.03774584
+Myocyte (sk. muscle),SEPHS1,0.033924863
+Epithelial cell (squamous),SEPHS1,0.02633719
+Melanocyte,SEPHS1,0.0
+Myocyte (NMJ-rich),SEPHS1,0.0
+Neuronal,SEPHS1,0.0

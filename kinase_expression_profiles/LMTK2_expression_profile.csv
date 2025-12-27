@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (squamous),LMTK2,0.64665955
+Epithelial cell (alveolar type I),LMTK2,0.57393664
+Epithelial cell (cornified keratinocyte),LMTK2,0.55465865
+Myocyte (cardiac),LMTK2,0.5411783
+Epithelial cell (Hillock),LMTK2,0.4875728
+Epithelial cell (suprabasal keratinocyte),LMTK2,0.48010385
+Mucous cell,LMTK2,0.47341818
+Epithelial cell (suprabasal),LMTK2,0.46407714
+Epithelial cell (mature keratinocyte),LMTK2,0.44415656
+Epithelial cell (alveolar type II),LMTK2,0.43359065
+Neuroendocrine,LMTK2,0.42833668
+Epithelial cell (basal keratinocyte),LMTK2,0.40368044
+Sebaceous gland cell,LMTK2,0.3797636
+Sweat gland cell,LMTK2,0.3516576
+Epithelial cell (club),LMTK2,0.33972797
+Epithelial cell (ciliated),LMTK2,0.3164329
+Epithelial cell (basal),LMTK2,0.30413958
+Myofibroblast,LMTK2,0.29945382
+Epithelial cell (luminal),LMTK2,0.29846942
+Myocyte (sk. muscle),LMTK2,0.26809376
+Immune (DC),LMTK2,0.25420108
+Neuronal,LMTK2,0.24677306
+Immune (T cell),LMTK2,0.24158682
+Endothelial cell (vascular),LMTK2,0.22264796
+ICCs,LMTK2,0.21613704
+Endothelial cell (lymphatic),LMTK2,0.20564204
+Myoepithelial (basal),LMTK2,0.2005176
+Immune (B cell),LMTK2,0.18013255
+Adipocyte,LMTK2,0.17276305
+Immune (mast cell),LMTK2,0.16758765
+Satellite cell,LMTK2,0.16570105
+Pericyte/SMC,LMTK2,0.16437712
+Myocyte (smooth muscle),LMTK2,0.15440264
+Fibroblast,LMTK2,0.14901645
+Immune (NK cell),LMTK2,0.13429
+Schwann cell,LMTK2,0.13199225
+Immune (alveolar macrophage),LMTK2,0.13050804
+Melanocyte,LMTK2,0.12382618
+"Myocyte (cardiac, cytoplasmic)",LMTK2,0.11883479
+"Myocyte (sk. muscle, cytoplasmic)",LMTK2,0.113786034
+Immune (Langerhans),LMTK2,0.08725629
+Immune (DC/macrophage),LMTK2,0.085107386
+Myocyte (NMJ-rich),LMTK2,0.07663671

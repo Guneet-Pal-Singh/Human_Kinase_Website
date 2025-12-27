@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+prostate,Endothelial cell,TRPM6,1.190184,5.767869780608635
+esophagusmucosa,Endothelial cell,TRPM6,1.1914062,5.472424112868747
+esophagusmuscularis,Endothelial cell,TRPM6,1.0954357,5.40237614884555
+skin,Endothelial cell,TRPM6,1.1081082,3.6168132942326494
+lung,Immune (myeloid),TRPM6,1.0651163,3.5251680603377604
+skin,Adipocyte,TRPM6,1.0,3.225806451612903
+prostate,Epithelial cell,TRPM6,1.1096681,3.0035105968014566
+esophagusmucosa,Epithelial cell,TRPM6,1.1236264,2.638445926355465
+breast,Endothelial cell,TRPM6,1.1304348,2.6106696935300797
+lung,Endothelial cell,TRPM6,1.0147059,2.4763292061179896
+lung,Epithelial cell,TRPM6,1.0576271,2.45067497403946
+esophagusmucosa,Stromal,TRPM6,1.1363636,2.224469160768453
+skin,Epithelial cell,TRPM6,1.0909091,1.827242524916944
+skeletalmuscle,Endothelial cell,TRPM6,1.0434783,1.7280240420736288
+lung,Fibroblast,TRPM6,1.0434783,1.5582655826558265
+skin,Immune (lymphocyte),TRPM6,1.0,1.3333333333333337
+breast,Muscle,TRPM6,1.0,1.3157894736842104
+heart,Endothelial cell,TRPM6,1.0416666,1.2573673870333988
+lung,Muscle,TRPM6,1.0,1.2269938650306749
+esophagusmuscularis,Adipocyte,TRPM6,1.0,1.1428571428571428
+skin,Immune (myeloid),TRPM6,1.0,1.11731843575419
+heart,Muscle,TRPM6,1.008,1.0361405835543769
+esophagusmuscularis,Glia,TRPM6,1.0,1.0309278350515465
+prostate,Muscle,TRPM6,1.0,1.0254123941150244
+esophagusmuscularis,Muscle,TRPM6,1.0413793,0.9751832672002152
+lung,Immune (lymphocyte),TRPM6,1.0,0.9655172413793104
+prostate,Fibroblast,TRPM6,1.0,0.9632224168126094
+breast,Adipocyte,TRPM6,1.0,0.9085746734809768
+skin,Epithelial cell (keratinocyte),TRPM6,1.0,0.8217770929635336
+breast,Epithelial cell,TRPM6,1.0,0.7932402138299707
+esophagusmuscularis,Immune (myeloid),TRPM6,1.0434783,0.7762402969962876
+skeletalmuscle,Fibroblast,TRPM6,1.0,0.7738896366083445
+skeletalmuscle,Muscle,TRPM6,1.00625,0.708874219130743
+esophagusmuscularis,Immune (lymphocyte),TRPM6,1.0,0.6644518272425249
+skeletalmuscle,Adipocyte,TRPM6,1.0,0.628930817610063
+esophagusmuscularis,Fibroblast,TRPM6,1.0615385,0.6244596022672687
+esophagusmucosa,Muscle,TRPM6,1.0,0.5988023952095809
+heart,Immune (myeloid),TRPM6,1.0526316,0.593842787935615
+heart,Fibroblast,TRPM6,1.0363636,0.5922256918272855
+prostate,Immune (myeloid),TRPM6,1.1666666,0.5836575875486382
+skeletalmuscle,Immune (myeloid),TRPM6,1.0,0.5427408412483039
+skin,Muscle,TRPM6,1.0,0.5376344086021506
+esophagusmucosa,Fibroblast,TRPM6,1.0,0.4618117229129663
+skin,Melanocyte,TRPM6,1.0,0.3676470588235294
+breast,Fibroblast,TRPM6,1.0,0.3663003663003663
+heart,Glia,TRPM6,1.0,0.3355704697986577
+prostate,Immune (lymphocyte),TRPM6,1.0,0.2932551319648094
+breast,Immune (myeloid),TRPM6,1.0,0.2793296089385474
+esophagusmucosa,Immune (lymphocyte),TRPM6,1.0,0.275027502750275
+skin,Fibroblast,TRPM6,1.0,0.1890359168241966
+heart,Immune (lymphocyte),TRPM6,1.0,0.1432664756446991
+esophagusmucosa,Immune (myeloid),TRPM6,1.0,0.1430615164520743
+esophagusmuscularis,Neuron,TRPM6,0.0,0.0
+esophagusmucosa,Glia,TRPM6,0.0,0.0
+heart,Adipocyte,TRPM6,0.0,0.0
+prostate,Glia,TRPM6,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),TRPM6,0.0,0.0
+skeletalmuscle,Glia,TRPM6,0.0,0.0
+skin,Other,TRPM6,0.0,0.0

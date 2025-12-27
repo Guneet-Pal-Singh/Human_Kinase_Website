@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+heart,Adipocyte,HYKK,1.0,3.1088082901554404
+heart,Muscle,HYKK,1.0392157,2.1137267904509285
+esophagusmuscularis,Adipocyte,HYKK,1.0,1.7142857142857144
+skin,Epithelial cell,HYKK,1.1,1.6611295681063123
+esophagusmucosa,Stromal,HYKK,1.0625,1.6177957532861478
+esophagusmucosa,Glia,HYKK,1.0,1.5384615384615383
+prostate,Glia,HYKK,1.0,1.4925373134328357
+prostate,Epithelial cell,HYKK,1.033033,1.4432453517097907
+prostate,Fibroblast,HYKK,1.0,1.4010507880910683
+heart,Glia,HYKK,1.0,1.342281879194631
+lung,Immune (myeloid),HYKK,1.0394737,1.2461059190031152
+lung,Epithelial cell,HYKK,1.0104166,1.1962616822429906
+esophagusmucosa,Fibroblast,HYKK,1.0,1.1367673179396092
+heart,Fibroblast,HYKK,1.049505,1.087541724991924
+prostate,Muscle,HYKK,1.0,1.0254123941150244
+skeletalmuscle,Immune (lymphocyte),HYKK,1.0,1.0
+breast,Epithelial cell,HYKK,1.1071428,0.9656837385756164
+esophagusmucosa,Epithelial cell,HYKK,1.0153847,0.9423021165555232
+esophagusmuscularis,Muscle,HYKK,1.0294118,0.9146546506153742
+lung,Endothelial cell,HYKK,1.0833334,0.8739985433357611
+esophagusmuscularis,Fibroblast,HYKK,1.0333333,0.8646363723700643
+prostate,Endothelial cell,HYKK,1.0,0.8492569002123143
+esophagusmucosa,Muscle,HYKK,1.0,0.7984031936127743
+esophagusmuscularis,Endothelial cell,HYKK,1.0,0.7621609504595382
+skin,Fibroblast,HYKK,1.0,0.7561436672967864
+breast,Adipocyte,HYKK,1.0,0.7382169222032936
+esophagusmuscularis,Glia,HYKK,1.0,0.7216494845360825
+heart,Endothelial cell,HYKK,1.0192307,0.6810740013097577
+breast,Muscle,HYKK,1.0,0.6578947368421052
+lung,Muscle,HYKK,1.0,0.6134969325153374
+skeletalmuscle,Fibroblast,HYKK,1.0,0.6056527590847914
+esophagusmucosa,Endothelial cell,HYKK,1.037037,0.5771697306541257
+breast,Endothelial cell,HYKK,1.0,0.5675368898978433
+skin,Epithelial cell (keratinocyte),HYKK,1.0909091,0.5649717514124294
+skeletalmuscle,Muscle,HYKK,1.0192307,0.460768242434983
+lung,Immune (lymphocyte),HYKK,1.0,0.4137931034482758
+skeletalmuscle,Immune (myeloid),HYKK,1.0,0.4070556309362279
+lung,Fibroblast,HYKK,1.0,0.4065040650406504
+prostate,Immune (myeloid),HYKK,1.0,0.3891050583657587
+skin,Melanocyte,HYKK,1.0,0.3676470588235294
+breast,Fibroblast,HYKK,1.0,0.3663003663003663
+esophagusmuscularis,Immune (lymphocyte),HYKK,1.0,0.3322259136212624
+skeletalmuscle,Endothelial cell,HYKK,1.0,0.3005259203606311
+skin,Endothelial cell,HYKK,1.0,0.2932551319648094
+heart,Immune (lymphocyte),HYKK,1.0,0.2865329512893982
+breast,Immune (myeloid),HYKK,1.0,0.2793296089385474
+esophagusmucosa,Immune (lymphocyte),HYKK,1.0,0.275027502750275
+skin,Other,HYKK,1.0,0.2212389380530973
+esophagusmuscularis,Immune (myeloid),HYKK,1.0,0.1349983125210934
+heart,Immune (myeloid),HYKK,1.0,0.093764650726676
+esophagusmucosa,Immune (myeloid),HYKK,0.0,0.0
+esophagusmuscularis,Neuron,HYKK,0.0,0.0
+prostate,Immune (lymphocyte),HYKK,0.0,0.0
+skeletalmuscle,Adipocyte,HYKK,0.0,0.0
+skeletalmuscle,Glia,HYKK,0.0,0.0
+skin,Adipocyte,HYKK,0.0,0.0
+skin,Immune (lymphocyte),HYKK,0.0,0.0
+skin,Immune (myeloid),HYKK,0.0,0.0
+skin,Muscle,HYKK,0.0,0.0

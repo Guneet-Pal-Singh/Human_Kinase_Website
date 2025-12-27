@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (cornified keratinocyte),UCKL1,0.30710363
+Epithelial cell (suprabasal),UCKL1,0.2660127
+Epithelial cell (squamous),UCKL1,0.2594723
+Adipocyte,UCKL1,0.23204918
+Myofibroblast,UCKL1,0.20609131
+Myocyte (cardiac),UCKL1,0.20265743
+Melanocyte,UCKL1,0.19161065
+Epithelial cell (basal keratinocyte),UCKL1,0.1893257
+Epithelial cell (mature keratinocyte),UCKL1,0.18611652
+Myoepithelial (basal),UCKL1,0.18363841
+Epithelial cell (ciliated),UCKL1,0.15971507
+Sebaceous gland cell,UCKL1,0.15740506
+Neuronal,UCKL1,0.15617938
+Immune (Langerhans),UCKL1,0.15058154
+Sweat gland cell,UCKL1,0.13310222
+Epithelial cell (suprabasal keratinocyte),UCKL1,0.12913205
+Epithelial cell (basal),UCKL1,0.12626807
+Endothelial cell (lymphatic),UCKL1,0.1222362
+Epithelial cell (alveolar type I),UCKL1,0.12213697
+Myocyte (NMJ-rich),UCKL1,0.09980062
+"Myocyte (sk. muscle, cytoplasmic)",UCKL1,0.098175086
+Epithelial cell (Hillock),UCKL1,0.09785484
+Mucous cell,UCKL1,0.0898694
+Epithelial cell (luminal),UCKL1,0.084597886
+Myocyte (smooth muscle),UCKL1,0.083310835
+Immune (alveolar macrophage),UCKL1,0.077032134
+Immune (NK cell),UCKL1,0.07547524
+Immune (mast cell),UCKL1,0.075431496
+Immune (T cell),UCKL1,0.07329759
+Immune (DC/macrophage),UCKL1,0.073063985
+Immune (B cell),UCKL1,0.07226102
+Epithelial cell (club),UCKL1,0.07184579
+Pericyte/SMC,UCKL1,0.07117427
+Epithelial cell (alveolar type II),UCKL1,0.06461236
+Endothelial cell (vascular),UCKL1,0.06238069
+"Myocyte (cardiac, cytoplasmic)",UCKL1,0.062239535
+Fibroblast,UCKL1,0.06173408
+Satellite cell,UCKL1,0.055455223
+ICCs,UCKL1,0.05254815
+Neuroendocrine,UCKL1,0.03631768
+Myocyte (sk. muscle),UCKL1,0.029563416
+Immune (DC),UCKL1,0.028686306
+Schwann cell,UCKL1,0.025778793

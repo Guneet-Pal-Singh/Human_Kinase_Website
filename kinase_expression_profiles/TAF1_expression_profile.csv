@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Myocyte (NMJ-rich),TAF1,0.92237824
+Myocyte (sk. muscle),TAF1,0.7112099
+Epithelial cell (basal keratinocyte),TAF1,0.6053521
+Myofibroblast,TAF1,0.56944644
+Myocyte (cardiac),TAF1,0.56609994
+Neuronal,TAF1,0.5563656
+Sebaceous gland cell,TAF1,0.5122215
+Mucous cell,TAF1,0.510887
+Immune (alveolar macrophage),TAF1,0.50360084
+Adipocyte,TAF1,0.48762918
+Epithelial cell (Hillock),TAF1,0.48425427
+Epithelial cell (suprabasal keratinocyte),TAF1,0.47652966
+Neuroendocrine,TAF1,0.47119033
+Epithelial cell (basal),TAF1,0.46078256
+Endothelial cell (vascular),TAF1,0.4592575
+Epithelial cell (ciliated),TAF1,0.4532302
+Myoepithelial (basal),TAF1,0.45025507
+Epithelial cell (suprabasal),TAF1,0.44982395
+Immune (T cell),TAF1,0.4473416
+Epithelial cell (alveolar type II),TAF1,0.43938088
+Myocyte (smooth muscle),TAF1,0.4389562
+Pericyte/SMC,TAF1,0.43690786
+Immune (NK cell),TAF1,0.4328059
+Immune (mast cell),TAF1,0.4323523
+Epithelial cell (mature keratinocyte),TAF1,0.4313285
+Epithelial cell (club),TAF1,0.42823222
+Sweat gland cell,TAF1,0.41851124
+Immune (B cell),TAF1,0.40123448
+Satellite cell,TAF1,0.3964326
+Epithelial cell (alveolar type I),TAF1,0.38953695
+Endothelial cell (lymphatic),TAF1,0.38806748
+Schwann cell,TAF1,0.3796785
+Melanocyte,TAF1,0.3770764
+ICCs,TAF1,0.3763631
+Epithelial cell (luminal),TAF1,0.36760512
+Immune (DC/macrophage),TAF1,0.36746743
+Fibroblast,TAF1,0.3671305
+Immune (DC),TAF1,0.3558448
+Immune (Langerhans),TAF1,0.29691815
+"Myocyte (sk. muscle, cytoplasmic)",TAF1,0.21671285
+Epithelial cell (cornified keratinocyte),TAF1,0.20111854
+"Myocyte (cardiac, cytoplasmic)",TAF1,0.15332767
+Epithelial cell (squamous),TAF1,0.1441348

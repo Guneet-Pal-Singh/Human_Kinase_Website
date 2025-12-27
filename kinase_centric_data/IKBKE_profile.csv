@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+heart,Immune (lymphocyte),IKBKE,1.075,5.730659025787966
+prostate,Immune (myeloid),IKBKE,1.0344827,5.642023346303502
+esophagusmucosa,Epithelial cell,IKBKE,1.0923994,4.863728616990432
+esophagusmuscularis,Immune (lymphocyte),IKBKE,1.0,4.651162790697675
+lung,Immune (myeloid),IKBKE,1.0693431,4.492539760616494
+esophagusmucosa,Immune (myeloid),IKBKE,1.074074,3.862660944206009
+heart,Immune (myeloid),IKBKE,1.0727273,3.4380371933114557
+skin,Other,IKBKE,1.2142857,3.0973451327433628
+prostate,Immune (lymphocyte),IKBKE,1.0,2.932551319648094
+esophagusmucosa,Immune (lymphocyte),IKBKE,1.0754716,2.915291529152915
+lung,Immune (lymphocyte),IKBKE,1.0555556,2.4827586206896552
+prostate,Epithelial cell,IKBKE,1.0514184,2.444415550643609
+esophagusmuscularis,Immune (myeloid),IKBKE,1.037037,1.822477219034762
+skin,Epithelial cell,IKBKE,1.1,1.6611295681063123
+esophagusmucosa,Muscle,IKBKE,1.125,1.596806387225549
+heart,Adipocyte,IKBKE,1.0,1.5544041450777202
+esophagusmucosa,Glia,IKBKE,1.0,1.5384615384615383
+esophagusmucosa,Stromal,IKBKE,1.0666667,1.5166835187057632
+prostate,Glia,IKBKE,1.0,1.4925373134328357
+skin,Epithelial cell (keratinocyte),IKBKE,1.1071428,1.4381099126861838
+breast,Epithelial cell,IKBKE,1.0493827,1.396792550439731
+heart,Fibroblast,IKBKE,1.0310078,1.3890384408312697
+skin,Immune (lymphocyte),IKBKE,1.0,1.3333333333333337
+lung,Muscle,IKBKE,1.0,1.2269938650306749
+skeletalmuscle,Immune (myeloid),IKBKE,1.0,1.2211668928086838
+prostate,Muscle,IKBKE,1.037037,1.2037449843958985
+esophagusmuscularis,Adipocyte,IKBKE,1.0,1.1428571428571428
+skin,Immune (myeloid),IKBKE,1.0,1.11731843575419
+breast,Immune (myeloid),IKBKE,1.25,1.11731843575419
+lung,Epithelial cell,IKBKE,1.0202429,1.0259605399792315
+skeletalmuscle,Immune (lymphocyte),IKBKE,1.0,1.0
+breast,Fibroblast,IKBKE,1.0,0.9768009768009768
+prostate,Fibroblast,IKBKE,1.0,0.9632224168126094
+lung,Fibroblast,IKBKE,1.1666666,0.8130081300813009
+esophagusmuscularis,Fibroblast,IKBKE,1.0649351,0.7397444519166106
+skin,Melanocyte,IKBKE,1.0,0.7352941176470588
+esophagusmucosa,Fibroblast,IKBKE,1.0,0.7104795737122558
+skeletalmuscle,Adipocyte,IKBKE,1.0,0.628930817610063
+heart,Muscle,IKBKE,1.0151515,0.5470822281167109
+skin,Muscle,IKBKE,1.0,0.5376344086021506
+esophagusmucosa,Endothelial cell,IKBKE,1.0526316,0.4061564771269773
+breast,Adipocyte,IKBKE,1.0,0.3975014196479273
+lung,Endothelial cell,IKBKE,1.1,0.3641660597232338
+esophagusmuscularis,Endothelial cell,IKBKE,1.0,0.3586639766868415
+prostate,Endothelial cell,IKBKE,1.0,0.3538570417551309
+breast,Endothelial cell,IKBKE,1.0,0.340522133938706
+heart,Glia,IKBKE,1.0,0.3355704697986577
+esophagusmuscularis,Glia,IKBKE,1.0,0.3092783505154639
+skin,Endothelial cell,IKBKE,1.0,0.2932551319648094
+skeletalmuscle,Fibroblast,IKBKE,1.0,0.2523553162853297
+esophagusmuscularis,Muscle,IKBKE,1.0344827,0.195036653440043
+heart,Endothelial cell,IKBKE,1.0714285,0.183366077275704
+skeletalmuscle,Muscle,IKBKE,1.0,0.0708874219130743
+esophagusmuscularis,Neuron,IKBKE,0.0,0.0
+breast,Muscle,IKBKE,0.0,0.0
+skin,Adipocyte,IKBKE,0.0,0.0
+skeletalmuscle,Glia,IKBKE,0.0,0.0
+skeletalmuscle,Endothelial cell,IKBKE,0.0,0.0
+skin,Fibroblast,IKBKE,0.0,0.0

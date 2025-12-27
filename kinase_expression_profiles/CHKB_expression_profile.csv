@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (Langerhans),CHKB,0.08173129
+Neuroendocrine,CHKB,0.074075304
+Epithelial cell (alveolar type II),CHKB,0.029418502
+Myocyte (NMJ-rich),CHKB,0.020528829
+Epithelial cell (alveolar type I),CHKB,0.019858602
+Immune (alveolar macrophage),CHKB,0.016035814
+Epithelial cell (ciliated),CHKB,0.015747666
+Sebaceous gland cell,CHKB,0.014895816
+Epithelial cell (suprabasal),CHKB,0.0147642335
+Melanocyte,CHKB,0.01263886
+Epithelial cell (club),CHKB,0.010721362
+Schwann cell,CHKB,0.010386221
+Endothelial cell (vascular),CHKB,0.009819052
+Sweat gland cell,CHKB,0.008275416
+Satellite cell,CHKB,0.008226338
+Immune (T cell),CHKB,0.008023853
+Epithelial cell (suprabasal keratinocyte),CHKB,0.007940902
+Myoepithelial (basal),CHKB,0.0076444624
+Myocyte (cardiac),CHKB,0.007588862
+Pericyte/SMC,CHKB,0.0074304333
+Epithelial cell (Hillock),CHKB,0.006846353
+Fibroblast,CHKB,0.0068304343
+Myocyte (smooth muscle),CHKB,0.006556536
+Endothelial cell (lymphatic),CHKB,0.0063712825
+Epithelial cell (luminal),CHKB,0.006188917
+Epithelial cell (basal),CHKB,0.00546282
+"Myocyte (sk. muscle, cytoplasmic)",CHKB,0.0044137114
+"Myocyte (cardiac, cytoplasmic)",CHKB,0.004197831
+Myocyte (sk. muscle),CHKB,0.0039464147
+Immune (DC/macrophage),CHKB,0.003734581
+Adipocyte,CHKB,0.0023305453
+Epithelial cell (squamous),CHKB,0.0020231605
+Epithelial cell (basal keratinocyte),CHKB,0.0
+Epithelial cell (cornified keratinocyte),CHKB,0.0
+Epithelial cell (mature keratinocyte),CHKB,0.0
+Immune (mast cell),CHKB,0.0
+Immune (NK cell),CHKB,0.0
+Immune (DC),CHKB,0.0
+Immune (B cell),CHKB,0.0
+ICCs,CHKB,0.0
+Mucous cell,CHKB,0.0
+Neuronal,CHKB,0.0
+Myofibroblast,CHKB,0.0

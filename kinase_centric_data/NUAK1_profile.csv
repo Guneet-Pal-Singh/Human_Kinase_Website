@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+prostate,Endothelial cell,NUAK1,1.4458333,25.477707006369428
+heart,Muscle,NUAK1,1.490994,24.850795755968168
+heart,Endothelial cell,NUAK1,1.4974153,22.802881466928618
+esophagusmucosa,Endothelial cell,NUAK1,1.5338645,21.46216331765712
+skin,Endothelial cell,NUAK1,1.3761468,21.309872922776147
+lung,Fibroblast,NUAK1,1.3485916,19.24119241192412
+skeletalmuscle,Endothelial cell,NUAK1,1.5767635,18.106686701728027
+breast,Muscle,NUAK1,1.5,17.105263157894736
+breast,Endothelial cell,NUAK1,1.496124,14.642451759364356
+esophagusmuscularis,Endothelial cell,NUAK1,1.3613707,14.391392064559517
+breast,Adipocyte,NUAK1,1.2711111,12.776831345826237
+skeletalmuscle,Adipocyte,NUAK1,1.2222222,11.320754716981131
+lung,Endothelial cell,NUAK1,1.467128,10.524399126001455
+heart,Adipocyte,NUAK1,1.0588236,8.808290155440414
+esophagusmuscularis,Adipocyte,NUAK1,1.3333334,8.571428571428571
+esophagusmucosa,Muscle,NUAK1,1.097561,8.183632734530939
+skin,Fibroblast,NUAK1,1.1627907,8.128544423440454
+skin,Adipocyte,NUAK1,1.0,8.064516129032258
+prostate,Epithelial cell,NUAK1,1.5460773,6.96051662115893
+prostate,Fibroblast,NUAK1,1.1012658,6.917688266199649
+prostate,Muscle,NUAK1,1.1258278,6.732055283102987
+breast,Fibroblast,NUAK1,1.12,6.105006105006105
+skin,Muscle,NUAK1,1.2222222,4.838709677419355
+prostate,Glia,NUAK1,1.3333334,4.477611940298507
+esophagusmucosa,Stromal,NUAK1,1.2857143,4.246713852376137
+skin,Other,NUAK1,1.0588236,3.761061946902655
+lung,Muscle,NUAK1,1.1666666,3.6809815950920246
+skin,Epithelial cell (keratinocyte),NUAK1,1.0563381,3.64663585002568
+esophagusmucosa,Fibroblast,NUAK1,1.1058824,3.019538188277087
+skeletalmuscle,Fibroblast,NUAK1,1.0691824,2.674966352624496
+skeletalmuscle,Muscle,NUAK1,1.0388769,2.051304771609588
+skin,Epithelial cell,NUAK1,1.0,1.6611295681063123
+esophagusmucosa,Glia,NUAK1,1.0,1.5384615384615383
+prostate,Immune (myeloid),NUAK1,1.1333333,1.4591439688715953
+esophagusmucosa,Epithelial cell,NUAK1,1.1218274,1.4279501304726008
+heart,Glia,NUAK1,2.0,1.342281879194631
+heart,Immune (lymphocyte),NUAK1,1.0,1.146131805157593
+esophagusmuscularis,Muscle,NUAK1,1.0869565,1.0827896966843769
+skeletalmuscle,Immune (lymphocyte),NUAK1,1.0,1.0
+heart,Fibroblast,NUAK1,1.0487804,0.8829546678152256
+esophagusmuscularis,Fibroblast,NUAK1,1.0941176,0.8166010183495052
+breast,Epithelial cell,NUAK1,1.0425532,0.8104845663045352
+skin,Melanocyte,NUAK1,1.5,0.7352941176470588
+lung,Epithelial cell,NUAK1,1.033557,0.6188992731048806
+lung,Immune (myeloid),NUAK1,1.1142857,0.573864567961961
+breast,Immune (myeloid),NUAK1,1.0,0.5586592178770949
+lung,Immune (lymphocyte),NUAK1,1.0,0.5517241379310345
+esophagusmuscularis,Immune (myeloid),NUAK1,1.1428572,0.4724940938238272
+esophagusmucosa,Immune (myeloid),NUAK1,1.0,0.4291845493562232
+esophagusmuscularis,Glia,NUAK1,1.0,0.4123711340206186
+skeletalmuscle,Immune (myeloid),NUAK1,1.0,0.4070556309362279
+esophagusmucosa,Immune (lymphocyte),NUAK1,1.0,0.33003300330033
+heart,Immune (myeloid),NUAK1,1.1428572,0.3281762775433661
+prostate,Immune (lymphocyte),NUAK1,1.0,0.2932551319648094
+esophagusmuscularis,Immune (lymphocyte),NUAK1,0.0,0.0
+esophagusmuscularis,Neuron,NUAK1,0.0,0.0
+skeletalmuscle,Glia,NUAK1,0.0,0.0
+skin,Immune (lymphocyte),NUAK1,0.0,0.0
+skin,Immune (myeloid),NUAK1,0.0,0.0

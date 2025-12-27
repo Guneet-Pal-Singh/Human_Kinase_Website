@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+prostate,Endothelial cell,FLT1,4.8641634,64.08351026185422
+heart,Endothelial cell,FLT1,2.1181102,53.22855271774721
+skeletalmuscle,Endothelial cell,FLT1,3.4728916,49.88730277986476
+breast,Endothelial cell,FLT1,2.115493,40.29511918274688
+skin,Endothelial cell,FLT1,2.2337663,37.634408602150536
+esophagusmuscularis,Endothelial cell,FLT1,2.3126583,35.4180676978256
+esophagusmucosa,Endothelial cell,FLT1,2.4794693,33.83924754168448
+lung,Endothelial cell,FLT1,1.7222947,27.93153678077203
+skin,Muscle,FLT1,1.52,13.440860215053762
+esophagusmuscularis,Adipocyte,FLT1,1.5882353,9.714285714285714
+heart,Muscle,FLT1,1.7903225,9.250663129973477
+esophagusmucosa,Stromal,FLT1,1.9523809,6.370070778564206
+lung,Immune (myeloid),FLT1,1.2266667,6.148548942449581
+skin,Immune (myeloid),FLT1,1.5,5.58659217877095
+breast,Muscle,FLT1,1.625,5.263157894736842
+heart,Adipocyte,FLT1,1.5555556,4.66321243523316
+prostate,Glia,FLT1,1.0,4.477611940298507
+prostate,Muscle,FLT1,2.86,4.458314757021846
+heart,Glia,FLT1,1.4615384,4.362416107382551
+lung,Muscle,FLT1,1.8333334,3.6809815950920246
+esophagusmucosa,Immune (myeloid),FLT1,1.1836735,3.5050071530758222
+esophagusmucosa,Glia,FLT1,2.0,3.076923076923077
+esophagusmucosa,Muscle,FLT1,1.2,2.9940119760479043
+skin,Other,FLT1,1.5384616,2.8761061946902653
+skeletalmuscle,Glia,FLT1,1.0,2.857142857142857
+esophagusmuscularis,Glia,FLT1,1.68,2.5773195876288657
+lung,Fibroblast,FLT1,1.4444444,2.4390243902439024
+heart,Immune (myeloid),FLT1,1.340136,2.297233942803563
+lung,Epithelial cell,FLT1,1.0445344,2.051921079958463
+skeletalmuscle,Immune (lymphocyte),FLT1,1.0,2.0
+prostate,Fibroblast,FLT1,1.2380953,1.838879159369527
+skin,Adipocyte,FLT1,1.0,1.6129032258064515
+esophagusmuscularis,Muscle,FLT1,1.4067796,1.587194834891385
+prostate,Immune (myeloid),FLT1,1.375,1.556420233463035
+lung,Immune (lymphocyte),FLT1,1.1818181,1.5172413793103448
+skeletalmuscle,Immune (myeloid),FLT1,2.909091,1.4925373134328357
+skeletalmuscle,Muscle,FLT1,1.6011904,1.4886358601745604
+breast,Immune (myeloid),FLT1,1.2,1.3966480446927374
+esophagusmuscularis,Immune (lymphocyte),FLT1,1.0,1.32890365448505
+esophagusmuscularis,Immune (myeloid),FLT1,1.4473684,1.282483968950388
+heart,Fibroblast,FLT1,1.2436975,1.2813610423172177
+heart,Immune (lymphocyte),FLT1,1.125,1.146131805157593
+esophagusmucosa,Epithelial cell,FLT1,1.6402878,1.0075384169324442
+skin,Epithelial cell,FLT1,1.0,0.8305647840531563
+prostate,Epithelial cell,FLT1,2.0270271,0.801802973172106
+esophagusmuscularis,Fibroblast,FLT1,1.2409638,0.7973868767412816
+skin,Melanocyte,FLT1,1.0,0.7352941176470588
+breast,Fibroblast,FLT1,1.6666666,0.7326007326007326
+esophagusmucosa,Immune (lymphocyte),FLT1,1.0833334,0.6600660066006601
+skeletalmuscle,Adipocyte,FLT1,12.0,0.628930817610063
+skeletalmuscle,Fibroblast,FLT1,1.7297298,0.6224764468371468
+breast,Epithelial cell,FLT1,1.2,0.6035523366097603
+breast,Adipocyte,FLT1,1.125,0.4542873367404884
+skin,Epithelial cell (keratinocyte),FLT1,1.0,0.3595274781715459
+prostate,Immune (lymphocyte),FLT1,1.0,0.2932551319648094
+skin,Fibroblast,FLT1,1.0,0.1890359168241966
+esophagusmucosa,Fibroblast,FLT1,1.0,0.1776198934280639
+esophagusmuscularis,Neuron,FLT1,0.0,0.0
+skin,Immune (lymphocyte),FLT1,0.0,0.0

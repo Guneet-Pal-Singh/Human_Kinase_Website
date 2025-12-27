@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skeletalmuscle,Muscle,GRK7,1.0750989,3.362722077001462
+lung,Epithelial cell,GRK7,1.1149068,2.6749740394600208
+lung,Immune (myeloid),GRK7,1.0344827,2.3774389244138385
+skin,Melanocyte,GRK7,1.0,2.2058823529411766
+breast,Muscle,GRK7,1.0,1.973684210526316
+lung,Muscle,GRK7,1.0,1.8404907975460123
+lung,Endothelial cell,GRK7,1.0204082,1.7844136926438456
+skin,Adipocyte,GRK7,1.0,1.6129032258064515
+esophagusmucosa,Glia,GRK7,1.0,1.5384615384615383
+prostate,Glia,GRK7,1.0,1.4925373134328357
+esophagusmucosa,Muscle,GRK7,1.0,1.1976047904191618
+heart,Muscle,GRK7,1.0699301,1.1853448275862069
+skin,Immune (myeloid),GRK7,1.0,1.11731843575419
+esophagusmucosa,Stromal,GRK7,1.0,1.1122345803842264
+skin,Muscle,GRK7,1.0,1.0752688172043012
+lung,Fibroblast,GRK7,1.0666667,1.016260162601626
+esophagusmucosa,Immune (lymphocyte),GRK7,1.1111112,0.99009900990099
+prostate,Muscle,GRK7,1.0,0.980829246544806
+esophagusmucosa,Epithelial cell,GRK7,1.0687023,0.9495505943751812
+skin,Epithelial cell (keratinocyte),GRK7,1.0,0.9244992295839756
+skin,Other,GRK7,1.0,0.8849557522123894
+esophagusmuscularis,Glia,GRK7,1.0,0.8247422680412372
+heart,Fibroblast,GRK7,1.04,0.8075804888553892
+skeletalmuscle,Fibroblast,GRK7,1.0652174,0.7738896366083445
+esophagusmuscularis,Fibroblast,GRK7,1.0128205,0.7493515227207225
+esophagusmucosa,Endothelial cell,GRK7,1.0882353,0.7268063274903805
+esophagusmuscularis,Endothelial cell,GRK7,1.0625,0.717327953373683
+breast,Adipocyte,GRK7,1.0,0.6814310051107325
+esophagusmuscularis,Immune (myeloid),GRK7,1.0,0.6749915626054674
+skin,Epithelial cell,GRK7,1.0,0.6644518272425249
+prostate,Epithelial cell,GRK7,1.0208334,0.6241060980366663
+esophagusmuscularis,Muscle,GRK7,1.0217391,0.6187369695339296
+skeletalmuscle,Endothelial cell,GRK7,1.0,0.6010518407212623
+prostate,Immune (lymphocyte),GRK7,1.0,0.5865102639296188
+esophagusmucosa,Immune (myeloid),GRK7,1.0,0.5722460658082975
+esophagusmuscularis,Adipocyte,GRK7,1.0,0.5714285714285714
+lung,Immune (lymphocyte),GRK7,1.0,0.5517241379310345
+skeletalmuscle,Immune (myeloid),GRK7,1.0,0.5427408412483039
+heart,Adipocyte,GRK7,1.0,0.5181347150259068
+breast,Fibroblast,GRK7,1.0,0.4884004884004884
+breast,Epithelial cell,GRK7,1.0714285,0.4828418692878082
+prostate,Endothelial cell,GRK7,1.0769231,0.4600141542816702
+breast,Endothelial cell,GRK7,1.0,0.4540295119182747
+heart,Immune (myeloid),GRK7,1.0,0.4375683700578215
+esophagusmucosa,Fibroblast,GRK7,1.0,0.4262877442273534
+heart,Endothelial cell,GRK7,1.0,0.3929273084479371
+prostate,Fibroblast,GRK7,1.0,0.3502626970227671
+heart,Glia,GRK7,1.0,0.3355704697986577
+skin,Endothelial cell,GRK7,1.0,0.2932551319648094
+prostate,Immune (myeloid),GRK7,1.0,0.2918287937743191
+breast,Immune (myeloid),GRK7,1.0,0.2793296089385474
+skin,Fibroblast,GRK7,1.0,0.1890359168241966
+heart,Immune (lymphocyte),GRK7,1.0,0.1432664756446991
+esophagusmuscularis,Neuron,GRK7,0.0,0.0
+esophagusmuscularis,Immune (lymphocyte),GRK7,0.0,0.0
+skeletalmuscle,Adipocyte,GRK7,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),GRK7,0.0,0.0
+skeletalmuscle,Glia,GRK7,0.0,0.0
+skin,Immune (lymphocyte),GRK7,0.0,0.0

@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (cornified keratinocyte),BCR,1.0151083
+Epithelial cell (squamous),BCR,0.77416974
+Endothelial cell (lymphatic),BCR,0.6587986
+Endothelial cell (vascular),BCR,0.57411534
+Epithelial cell (suprabasal),BCR,0.53807217
+Myofibroblast,BCR,0.5111571
+Mucous cell,BCR,0.50971967
+Adipocyte,BCR,0.50222254
+Sebaceous gland cell,BCR,0.41955623
+Schwann cell,BCR,0.40950853
+Epithelial cell (alveolar type I),BCR,0.4049622
+Neuronal,BCR,0.37604004
+Epithelial cell (basal),BCR,0.36347243
+Myoepithelial (basal),BCR,0.36282605
+Epithelial cell (Hillock),BCR,0.36211118
+Epithelial cell (mature keratinocyte),BCR,0.3343797
+Epithelial cell (ciliated),BCR,0.30864775
+Neuroendocrine,BCR,0.30740815
+Immune (NK cell),BCR,0.2885031
+ICCs,BCR,0.27421433
+Immune (DC),BCR,0.26098454
+Epithelial cell (alveolar type II),BCR,0.2500961
+Myocyte (smooth muscle),BCR,0.24700451
+Immune (T cell),BCR,0.24668378
+Epithelial cell (luminal),BCR,0.23442234
+Sweat gland cell,BCR,0.21408725
+Immune (B cell),BCR,0.21122111
+Epithelial cell (club),BCR,0.2069279
+Myocyte (cardiac),BCR,0.18950668
+Immune (alveolar macrophage),BCR,0.18237768
+Fibroblast,BCR,0.18237512
+Pericyte/SMC,BCR,0.17362086
+Immune (mast cell),BCR,0.16008468
+Epithelial cell (suprabasal keratinocyte),BCR,0.15708044
+Immune (Langerhans),BCR,0.14027622
+"Myocyte (cardiac, cytoplasmic)",BCR,0.13496707
+Myocyte (NMJ-rich),BCR,0.13308857
+Immune (DC/macrophage),BCR,0.1068613
+Epithelial cell (basal keratinocyte),BCR,0.09424895
+Melanocyte,BCR,0.08777391
+Myocyte (sk. muscle),BCR,0.08732428
+"Myocyte (sk. muscle, cytoplasmic)",BCR,0.070243806
+Satellite cell,BCR,0.06257602

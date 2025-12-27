@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (DC),GSK3B,1.0667738
+Neuronal,GSK3B,1.024048
+Myocyte (cardiac),GSK3B,0.9410302
+Mucous cell,GSK3B,0.92682064
+Epithelial cell (alveolar type I),GSK3B,0.9255432
+Epithelial cell (suprabasal),GSK3B,0.8988026
+Neuroendocrine,GSK3B,0.88009596
+Epithelial cell (mature keratinocyte),GSK3B,0.78399974
+Immune (alveolar macrophage),GSK3B,0.75554144
+Epithelial cell (alveolar type II),GSK3B,0.7489976
+Epithelial cell (Hillock),GSK3B,0.74863714
+Epithelial cell (club),GSK3B,0.73839146
+Myofibroblast,GSK3B,0.72214204
+Epithelial cell (ciliated),GSK3B,0.6987337
+Immune (DC/macrophage),GSK3B,0.69513017
+Epithelial cell (basal),GSK3B,0.6939514
+Sebaceous gland cell,GSK3B,0.67708755
+Endothelial cell (lymphatic),GSK3B,0.6672023
+Adipocyte,GSK3B,0.6648331
+Endothelial cell (vascular),GSK3B,0.6596591
+Myocyte (sk. muscle),GSK3B,0.6450837
+Immune (NK cell),GSK3B,0.6374589
+Immune (T cell),GSK3B,0.6204419
+Myocyte (NMJ-rich),GSK3B,0.6160815
+Epithelial cell (luminal),GSK3B,0.591092
+Epithelial cell (suprabasal keratinocyte),GSK3B,0.58862793
+Immune (Langerhans),GSK3B,0.58406013
+Sweat gland cell,GSK3B,0.58326405
+Pericyte/SMC,GSK3B,0.54693246
+ICCs,GSK3B,0.5402092
+Schwann cell,GSK3B,0.5205518
+Myoepithelial (basal),GSK3B,0.5142937
+Immune (B cell),GSK3B,0.5122045
+Melanocyte,GSK3B,0.49808857
+Fibroblast,GSK3B,0.49397367
+Immune (mast cell),GSK3B,0.4876638
+Epithelial cell (squamous),GSK3B,0.4497351
+Epithelial cell (basal keratinocyte),GSK3B,0.44150344
+Myocyte (smooth muscle),GSK3B,0.39278805
+Epithelial cell (cornified keratinocyte),GSK3B,0.38141766
+Satellite cell,GSK3B,0.37329134
+"Myocyte (cardiac, cytoplasmic)",GSK3B,0.29989704
+"Myocyte (sk. muscle, cytoplasmic)",GSK3B,0.26048717

@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Endothelial cell,CDK17,1.9634259,48.4196368527236
+prostate,Endothelial cell,CDK17,1.4741036,35.52724699221515
+esophagusmuscularis,Muscle,CDK17,1.9448234,33.51940278431636
+heart,Endothelial cell,CDK17,1.4065795,31.054354944335294
+esophagusmucosa,Endothelial cell,CDK17,1.3973182,30.29072253099615
+esophagusmuscularis,Adipocyte,CDK17,1.5306122,28.000000000000004
+breast,Endothelial cell,CDK17,1.3162394,26.560726447219068
+skeletalmuscle,Endothelial cell,CDK17,1.4730878,26.52141247182569
+skin,Endothelial cell,CDK17,1.3321034,26.49071358748778
+esophagusmucosa,Stromal,CDK17,1.2720306,26.39029322548028
+esophagusmuscularis,Glia,CDK17,1.5695068,22.989690721649485
+lung,Endothelial cell,CDK17,1.2458746,22.06846321922797
+lung,Immune (myeloid),CDK17,1.2426527,21.75766519101492
+heart,Immune (lymphocyte),CDK17,1.1736112,20.63037249283668
+esophagusmuscularis,Fibroblast,CDK17,1.2937764,18.215006244596022
+prostate,Immune (lymphocyte),CDK17,1.1779661,17.302052785923756
+esophagusmuscularis,Immune (lymphocyte),CDK17,1.3653846,17.275747508305646
+lung,Immune (lymphocyte),CDK17,1.0650407,16.96551724137931
+esophagusmuscularis,Neuron,CDK17,2.0,16.0
+esophagusmucosa,Immune (lymphocyte),CDK17,1.2124542,15.01650165016502
+skin,Immune (lymphocyte),CDK17,1.2727273,14.666666666666666
+heart,Muscle,CDK17,1.1859504,14.041777188328911
+prostate,Muscle,CDK17,1.2929937,13.999108337048597
+prostate,Epithelial cell,CDK17,1.193108,13.331599705283232
+esophagusmucosa,Immune (myeloid),CDK17,1.230337,12.732474964234624
+esophagusmucosa,Epithelial cell,CDK17,1.1795613,12.554363583647437
+prostate,Immune (myeloid),CDK17,1.1496063,12.35408560311284
+skin,Melanocyte,CDK17,1.125,11.76470588235294
+lung,Muscle,CDK17,1.0,11.65644171779141
+esophagusmuscularis,Immune (myeloid),CDK17,1.2463768,11.643604454944311
+skeletalmuscle,Glia,CDK17,1.25,11.428571428571429
+breast,Fibroblast,CDK17,1.1182796,11.355311355311356
+esophagusmucosa,Fibroblast,CDK17,1.1314102,11.083481349911189
+heart,Fibroblast,CDK17,1.1493124,10.961559168730483
+prostate,Fibroblast,CDK17,1.128,10.945709281961472
+heart,Adipocyte,CDK17,1.05,10.362694300518134
+heart,Immune (myeloid),CDK17,1.1399372,9.93905297702766
+lung,Epithelial cell,CDK17,1.1336696,9.881619937694705
+skin,Epithelial cell (keratinocyte),CDK17,1.1842105,9.758602978941962
+heart,Glia,CDK17,1.0344827,9.731543624161072
+esophagusmucosa,Muscle,CDK17,1.1041666,9.580838323353294
+breast,Epithelial cell,CDK17,1.1062272,9.41541645111226
+skin,Fibroblast,CDK17,1.0408163,9.262759924385634
+breast,Immune (myeloid),CDK17,1.0909091,9.217877094972067
+breast,Muscle,CDK17,1.2857143,9.210526315789473
+skeletalmuscle,Immune (lymphocyte),CDK17,1.3333334,9.0
+skin,Other,CDK17,1.1538461,8.628318584070795
+skin,Muscle,CDK17,1.1875,8.60215053763441
+lung,Fibroblast,CDK17,1.0833334,8.130081300813007
+esophagusmucosa,Glia,CDK17,1.0,7.6923076923076925
+skin,Immune (myeloid),CDK17,1.0,7.262569832402235
+skeletalmuscle,Immune (myeloid),CDK17,1.0408163,6.648575305291724
+skeletalmuscle,Fibroblast,CDK17,1.0936708,6.64535666218035
+prostate,Glia,CDK17,1.25,5.970149253731343
+skin,Epithelial cell,CDK17,1.1714286,5.813953488372093
+skeletalmuscle,Adipocyte,CDK17,1.0,5.660377358490567
+skin,Adipocyte,CDK17,1.0,4.838709677419355
+skeletalmuscle,Muscle,CDK17,1.0617801,4.231092995436622
+breast,Adipocyte,CDK17,1.0923077,3.691084611016468

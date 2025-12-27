@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Fibroblast,CDC7,1.2878289,5.841099048899991
+esophagusmucosa,Epithelial cell,CDC7,1.1796483,5.769788344447666
+esophagusmuscularis,Glia,CDC7,1.0980393,5.257731958762887
+esophagusmucosa,Stromal,CDC7,1.1162791,4.3478260869565215
+esophagusmuscularis,Muscle,CDC7,1.1433071,4.270630170152667
+esophagusmuscularis,Neuron,CDC7,1.0,4.0
+esophagusmucosa,Immune (lymphocyte),CDC7,1.0857143,3.850385038503851
+esophagusmuscularis,Immune (lymphocyte),CDC7,1.0,3.322259136212625
+heart,Immune (lymphocyte),CDC7,1.0869565,3.29512893982808
+esophagusmuscularis,Endothelial cell,CDC7,1.1319444,3.2279757901815738
+skeletalmuscle,Glia,CDC7,1.0,2.857142857142857
+prostate,Immune (lymphocyte),CDC7,1.0526316,2.785923753665689
+esophagusmucosa,Fibroblast,CDC7,1.0256411,2.770870337477797
+skin,Immune (lymphocyte),CDC7,1.0,2.666666666666667
+prostate,Muscle,CDC7,1.1111112,2.407489968791797
+esophagusmucosa,Immune (myeloid),CDC7,1.15625,2.28898426323319
+lung,Immune (lymphocyte),CDC7,1.0,2.206896551724138
+lung,Epithelial cell,CDC7,1.0493827,2.0186915887850465
+esophagusmucosa,Endothelial cell,CDC7,1.0215054,1.9880290722530995
+breast,Immune (myeloid),CDC7,1.0,1.9553072625698324
+skeletalmuscle,Fibroblast,CDC7,1.2413793,1.9515477792732168
+prostate,Endothelial cell,CDC7,1.0545454,1.9462137296532205
+prostate,Epithelial cell,CDC7,1.092166,1.880986434360508
+skeletalmuscle,Immune (myeloid),CDC7,1.0,1.7639077340569878
+heart,Fibroblast,CDC7,1.1288344,1.755141595779046
+breast,Fibroblast,CDC7,1.0,1.7094017094017095
+skin,Immune (myeloid),CDC7,1.0,1.675977653631285
+heart,Immune (myeloid),CDC7,1.0283018,1.65650882950461
+esophagusmuscularis,Immune (myeloid),CDC7,1.0425532,1.5862301721228484
+prostate,Immune (myeloid),CDC7,1.0,1.556420233463035
+skin,Epithelial cell (keratinocyte),CDC7,1.1,1.5408320493066257
+lung,Muscle,CDC7,1.0,1.2269938650306749
+heart,Muscle,CDC7,1.05,1.160477453580902
+esophagusmuscularis,Adipocyte,CDC7,1.0,1.1428571428571428
+heart,Endothelial cell,CDC7,1.0232558,1.1263916175507531
+breast,Endothelial cell,CDC7,1.0,1.021566401816118
+skeletalmuscle,Immune (lymphocyte),CDC7,1.0,1.0
+lung,Immune (myeloid),CDC7,1.0,0.8853910477127398
+skin,Other,CDC7,1.0,0.8849557522123894
+lung,Endothelial cell,CDC7,1.0,0.8375819373634377
+skin,Epithelial cell,CDC7,1.0,0.8305647840531563
+skeletalmuscle,Endothelial cell,CDC7,1.1,0.7513148009015778
+skin,Melanocyte,CDC7,1.0,0.7352941176470588
+prostate,Fibroblast,CDC7,1.25,0.7005253940455342
+breast,Muscle,CDC7,1.0,0.6578947368421052
+lung,Fibroblast,CDC7,1.0,0.6097560975609756
+esophagusmucosa,Muscle,CDC7,1.0,0.5988023952095809
+skin,Endothelial cell,CDC7,1.0,0.5865102639296188
+skin,Fibroblast,CDC7,1.0,0.5671077504725899
+heart,Adipocyte,CDC7,1.0,0.5181347150259068
+breast,Adipocyte,CDC7,1.0,0.5110732538330494
+breast,Epithelial cell,CDC7,1.0434783,0.3966201069149853
+skeletalmuscle,Muscle,CDC7,3.3,0.0443046386956714
+heart,Glia,CDC7,0.0,0.0
+esophagusmucosa,Glia,CDC7,0.0,0.0
+skeletalmuscle,Adipocyte,CDC7,0.0,0.0
+prostate,Glia,CDC7,0.0,0.0
+skin,Adipocyte,CDC7,0.0,0.0
+skin,Muscle,CDC7,0.0,0.0

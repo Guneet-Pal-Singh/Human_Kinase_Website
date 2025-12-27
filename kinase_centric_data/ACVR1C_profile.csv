@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+breast,Adipocyte,ACVR1C,1.7986667,42.58943781942078
+heart,Adipocyte,ACVR1C,2.0864198,41.968911917098445
+esophagusmuscularis,Adipocyte,ACVR1C,1.7833333,34.285714285714285
+skeletalmuscle,Adipocyte,ACVR1C,1.7428571,22.0125786163522
+skin,Adipocyte,ACVR1C,1.0,9.67741935483871
+skeletalmuscle,Muscle,ACVR1C,1.145551,7.518497186655443
+esophagusmuscularis,Neuron,ACVR1C,1.0,4.0
+skeletalmuscle,Fibroblast,ACVR1C,1.0588236,3.4320323014804845
+skeletalmuscle,Immune (lymphocyte),ACVR1C,1.0,3.0
+lung,Epithelial cell,ACVR1C,1.0464135,2.953271028037383
+skeletalmuscle,Glia,ACVR1C,1.0,2.857142857142857
+prostate,Immune (lymphocyte),ACVR1C,1.1428572,2.0527859237536656
+lung,Immune (myeloid),ACVR1C,1.0260869,1.885555009017872
+skeletalmuscle,Endothelial cell,ACVR1C,1.0,1.878287002253944
+esophagusmuscularis,Endothelial cell,ACVR1C,1.0487804,1.8381528805200624
+esophagusmucosa,Muscle,ACVR1C,1.0,1.7964071856287425
+prostate,Fibroblast,ACVR1C,1.0,1.7513134851138354
+esophagusmucosa,Stromal,ACVR1C,1.117647,1.7189079878665317
+esophagusmucosa,Immune (myeloid),ACVR1C,1.3333334,1.7167381974248928
+skin,Immune (myeloid),ACVR1C,1.0,1.675977653631285
+esophagusmuscularis,Glia,ACVR1C,1.0,1.6494845360824744
+esophagusmuscularis,Muscle,ACVR1C,1.0340426,1.5804694330486246
+heart,Muscle,ACVR1C,1.0432433,1.5334880636604775
+prostate,Muscle,ACVR1C,1.0294118,1.5158270173874275
+skin,Fibroblast,ACVR1C,1.0,1.5122873345935728
+skin,Epithelial cell,ACVR1C,1.0,1.495016611295681
+esophagusmuscularis,Immune (myeloid),ACVR1C,1.0,1.4512318596017548
+skin,Endothelial cell,ACVR1C,1.0,1.3685239491691104
+skeletalmuscle,Immune (myeloid),ACVR1C,1.3,1.35685210312076
+esophagusmuscularis,Fibroblast,ACVR1C,1.0149254,1.2873474877509847
+lung,Immune (lymphocyte),ACVR1C,1.125,1.103448275862069
+skin,Melanocyte,ACVR1C,1.0,1.1029411764705883
+prostate,Epithelial cell,ACVR1C,1.079832,1.0315086898106012
+esophagusmuscularis,Immune (lymphocyte),ACVR1C,1.0,0.9966777408637874
+prostate,Immune (myeloid),ACVR1C,1.0,0.9727626459143968
+lung,Endothelial cell,ACVR1C,1.0,0.9104151493080844
+heart,Fibroblast,ACVR1C,1.0240964,0.8937224076666308
+prostate,Endothelial cell,ACVR1C,1.0,0.8846426043878274
+esophagusmucosa,Epithelial cell,ACVR1C,1.0588236,0.8625688605392867
+esophagusmucosa,Immune (lymphocyte),ACVR1C,1.0714285,0.77007700770077
+esophagusmucosa,Endothelial cell,ACVR1C,1.0285715,0.748182984181274
+lung,Fibroblast,ACVR1C,1.0,0.7452574525745257
+heart,Glia,ACVR1C,1.0,0.6711409395973155
+lung,Muscle,ACVR1C,1.0,0.6134969325153374
+heart,Immune (lymphocyte),ACVR1C,1.0,0.5730659025787965
+esophagusmucosa,Fibroblast,ACVR1C,1.0,0.5683836589698046
+breast,Immune (myeloid),ACVR1C,1.0,0.5586592178770949
+heart,Endothelial cell,ACVR1C,1.0,0.550098231827112
+breast,Fibroblast,ACVR1C,1.0,0.4884004884004884
+heart,Immune (myeloid),ACVR1C,1.0,0.4688232536333802
+breast,Epithelial cell,ACVR1C,1.0,0.4138644593895499
+skin,Epithelial cell (keratinocyte),ACVR1C,1.0,0.4108885464817668
+breast,Endothelial cell,ACVR1C,1.0,0.340522133938706
+breast,Muscle,ACVR1C,0.0,0.0
+esophagusmucosa,Glia,ACVR1C,0.0,0.0
+prostate,Glia,ACVR1C,0.0,0.0
+skin,Immune (lymphocyte),ACVR1C,0.0,0.0
+skin,Muscle,ACVR1C,0.0,0.0
+skin,Other,ACVR1C,0.0,0.0

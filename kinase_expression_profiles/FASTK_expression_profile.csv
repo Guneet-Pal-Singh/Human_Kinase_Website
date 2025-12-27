@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+"Myocyte (cardiac, cytoplasmic)",FASTK,0.4673864
+Neuronal,FASTK,0.3978061
+Epithelial cell (suprabasal),FASTK,0.38036108
+Sebaceous gland cell,FASTK,0.355294
+Epithelial cell (mature keratinocyte),FASTK,0.30007824
+Adipocyte,FASTK,0.2833676
+Sweat gland cell,FASTK,0.28113058
+Epithelial cell (suprabasal keratinocyte),FASTK,0.26302874
+"Myocyte (sk. muscle, cytoplasmic)",FASTK,0.24573418
+Mucous cell,FASTK,0.24035054
+Epithelial cell (basal),FASTK,0.23432335
+Myofibroblast,FASTK,0.22743763
+Epithelial cell (luminal),FASTK,0.21830262
+Myocyte (cardiac),FASTK,0.2169381
+Immune (DC),FASTK,0.20647873
+Epithelial cell (Hillock),FASTK,0.18681142
+Epithelial cell (club),FASTK,0.17582332
+Epithelial cell (ciliated),FASTK,0.17206578
+Myocyte (smooth muscle),FASTK,0.17107615
+Epithelial cell (squamous),FASTK,0.16835305
+Epithelial cell (cornified keratinocyte),FASTK,0.16519637
+Epithelial cell (basal keratinocyte),FASTK,0.16372429
+Myoepithelial (basal),FASTK,0.14996786
+Melanocyte,FASTK,0.144005
+Immune (T cell),FASTK,0.1437466
+ICCs,FASTK,0.1382932
+Fibroblast,FASTK,0.13646784
+Epithelial cell (alveolar type I),FASTK,0.13423406
+Immune (alveolar macrophage),FASTK,0.13421667
+Pericyte/SMC,FASTK,0.13067958
+Immune (B cell),FASTK,0.13010861
+Neuroendocrine,FASTK,0.12693962
+Epithelial cell (alveolar type II),FASTK,0.12138206
+Schwann cell,FASTK,0.117102936
+Immune (DC/macrophage),FASTK,0.11666219
+Immune (NK cell),FASTK,0.1166054
+Immune (mast cell),FASTK,0.10352986
+Myocyte (NMJ-rich),FASTK,0.09748935
+Endothelial cell (vascular),FASTK,0.08176948
+Endothelial cell (lymphatic),FASTK,0.074830875
+Immune (Langerhans),FASTK,0.066622026
+Myocyte (sk. muscle),FASTK,0.051478807
+Satellite cell,FASTK,0.031529583

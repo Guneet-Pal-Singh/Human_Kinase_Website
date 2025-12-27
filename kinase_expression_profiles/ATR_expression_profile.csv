@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (DC),ATR,0.77966005
+Sweat gland cell,ATR,0.67987865
+Sebaceous gland cell,ATR,0.6708427
+Adipocyte,ATR,0.63277847
+Epithelial cell (ciliated),ATR,0.61193514
+Immune (alveolar macrophage),ATR,0.6035896
+Myocyte (cardiac),ATR,0.58935124
+Epithelial cell (luminal),ATR,0.5857186
+Immune (NK cell),ATR,0.58562446
+Mucous cell,ATR,0.58549666
+Epithelial cell (basal),ATR,0.5841955
+Epithelial cell (club),ATR,0.5766675
+Epithelial cell (Hillock),ATR,0.5595168
+Myoepithelial (basal),ATR,0.5563389
+Immune (Langerhans),ATR,0.5561828
+Epithelial cell (suprabasal),ATR,0.54818016
+Immune (T cell),ATR,0.5135785
+Immune (DC/macrophage),ATR,0.4925444
+Myofibroblast,ATR,0.46597186
+Neuronal,ATR,0.4470353
+Epithelial cell (alveolar type II),ATR,0.44667822
+ICCs,ATR,0.43601355
+Endothelial cell (lymphatic),ATR,0.4204563
+Epithelial cell (basal keratinocyte),ATR,0.4146485
+Endothelial cell (vascular),ATR,0.40853554
+Melanocyte,ATR,0.38351554
+Fibroblast,ATR,0.38188165
+Epithelial cell (alveolar type I),ATR,0.38004115
+Immune (mast cell),ATR,0.37800997
+Immune (B cell),ATR,0.37724575
+Neuroendocrine,ATR,0.35166958
+Pericyte/SMC,ATR,0.34454244
+Epithelial cell (cornified keratinocyte),ATR,0.33636275
+Satellite cell,ATR,0.33389375
+Myocyte (smooth muscle),ATR,0.33289787
+Myocyte (NMJ-rich),ATR,0.32545385
+Schwann cell,ATR,0.29939193
+Epithelial cell (suprabasal keratinocyte),ATR,0.28859925
+Myocyte (sk. muscle),ATR,0.26723188
+Epithelial cell (squamous),ATR,0.12479103
+Epithelial cell (mature keratinocyte),ATR,0.09452554
+"Myocyte (cardiac, cytoplasmic)",ATR,0.09331665
+"Myocyte (sk. muscle, cytoplasmic)",ATR,0.08350108

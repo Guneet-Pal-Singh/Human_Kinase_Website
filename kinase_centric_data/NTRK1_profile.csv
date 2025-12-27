@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+prostate,Glia,NTRK1,1.5,2.985074626865672
+prostate,Fibroblast,NTRK1,1.037037,2.364273204903678
+esophagusmuscularis,Fibroblast,NTRK1,1.0515463,1.8637717359976944
+heart,Fibroblast,NTRK1,1.0693642,1.862818994293098
+skin,Immune (lymphocyte),NTRK1,1.0,1.3333333333333337
+esophagusmuscularis,Adipocyte,NTRK1,1.0,1.1428571428571428
+breast,Fibroblast,NTRK1,1.0,1.098901098901099
+heart,Adipocyte,NTRK1,1.0,1.0362694300518136
+skeletalmuscle,Fibroblast,NTRK1,1.0,0.8916554508748318
+esophagusmuscularis,Immune (lymphocyte),NTRK1,1.0,0.6644518272425249
+breast,Muscle,NTRK1,1.0,0.6578947368421052
+esophagusmuscularis,Immune (myeloid),NTRK1,1.1111112,0.6074924063449206
+skin,Immune (myeloid),NTRK1,1.0,0.5586592178770949
+lung,Immune (myeloid),NTRK1,1.0,0.5574684374487621
+prostate,Muscle,NTRK1,1.1,0.4458314757021846
+heart,Muscle,NTRK1,1.0196079,0.4227453580901857
+lung,Immune (lymphocyte),NTRK1,1.0,0.4137931034482758
+esophagusmuscularis,Glia,NTRK1,1.0,0.4123711340206186
+lung,Epithelial cell,NTRK1,1.0116279,0.3572170301142264
+esophagusmucosa,Fibroblast,NTRK1,1.0,0.3552397868561279
+lung,Endothelial cell,NTRK1,1.0,0.3277494537509104
+skeletalmuscle,Endothelial cell,NTRK1,1.25,0.3005259203606311
+skin,Endothelial cell,NTRK1,1.0,0.2932551319648094
+heart,Immune (myeloid),NTRK1,1.0666667,0.2344116268166901
+skeletalmuscle,Muscle,NTRK1,1.02,0.2215231934783572
+esophagusmucosa,Stromal,NTRK1,1.0,0.2022244691607684
+skin,Fibroblast,NTRK1,1.0,0.1890359168241966
+esophagusmuscularis,Endothelial cell,NTRK1,1.0,0.1793319883434207
+esophagusmucosa,Immune (lymphocyte),NTRK1,1.0,0.165016501650165
+prostate,Immune (lymphocyte),NTRK1,1.0,0.1466275659824047
+skeletalmuscle,Immune (myeloid),NTRK1,1.0,0.1356852103120759
+esophagusmucosa,Endothelial cell,NTRK1,1.0,0.1282599401453612
+esophagusmuscularis,Muscle,NTRK1,1.0,0.1210572331696819
+breast,Endothelial cell,NTRK1,1.0,0.1135073779795686
+prostate,Endothelial cell,NTRK1,1.0,0.1061571125265392
+skin,Epithelial cell (keratinocyte),NTRK1,1.0,0.1027221366204417
+prostate,Immune (myeloid),NTRK1,1.0,0.0972762645914396
+heart,Endothelial cell,NTRK1,1.0,0.091683038637852
+breast,Epithelial cell,NTRK1,1.0,0.0862217623728228
+prostate,Epithelial cell,NTRK1,1.0526316,0.0823473323798379
+esophagusmucosa,Epithelial cell,NTRK1,1.0909091,0.0797332560162366
+lung,Fibroblast,NTRK1,1.0,0.067750677506775
+breast,Adipocyte,NTRK1,1.0,0.056785917092561
+heart,Immune (lymphocyte),NTRK1,0.0,0.0
+heart,Glia,NTRK1,0.0,0.0
+esophagusmuscularis,Neuron,NTRK1,0.0,0.0
+esophagusmucosa,Muscle,NTRK1,0.0,0.0
+esophagusmucosa,Immune (myeloid),NTRK1,0.0,0.0
+esophagusmucosa,Glia,NTRK1,0.0,0.0
+breast,Immune (myeloid),NTRK1,0.0,0.0
+lung,Muscle,NTRK1,0.0,0.0
+skeletalmuscle,Adipocyte,NTRK1,0.0,0.0
+skin,Adipocyte,NTRK1,0.0,0.0
+skeletalmuscle,Glia,NTRK1,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),NTRK1,0.0,0.0
+skin,Epithelial cell,NTRK1,0.0,0.0
+skin,Melanocyte,NTRK1,0.0,0.0
+skin,Muscle,NTRK1,0.0,0.0
+skin,Other,NTRK1,0.0,0.0

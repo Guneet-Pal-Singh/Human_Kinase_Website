@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+"Myocyte (cardiac, cytoplasmic)",PINK1,0.81721205
+"Myocyte (sk. muscle, cytoplasmic)",PINK1,0.6520725
+Neuronal,PINK1,0.6077475
+Epithelial cell (squamous),PINK1,0.39415926
+Epithelial cell (mature keratinocyte),PINK1,0.30505612
+Neuroendocrine,PINK1,0.18449569
+Myocyte (smooth muscle),PINK1,0.17128845
+Immune (Langerhans),PINK1,0.1649976
+Epithelial cell (luminal),PINK1,0.1552889
+Endothelial cell (vascular),PINK1,0.14930522
+Epithelial cell (suprabasal keratinocyte),PINK1,0.14085582
+Epithelial cell (suprabasal),PINK1,0.12712689
+Epithelial cell (club),PINK1,0.118438154
+Epithelial cell (cornified keratinocyte),PINK1,0.11604184
+Mucous cell,PINK1,0.11387186
+Fibroblast,PINK1,0.094831884
+Epithelial cell (Hillock),PINK1,0.094576605
+Myocyte (cardiac),PINK1,0.09061998
+Immune (DC),PINK1,0.08068548
+Endothelial cell (lymphatic),PINK1,0.07672021
+Epithelial cell (basal),PINK1,0.0744141
+Myoepithelial (basal),PINK1,0.0721807
+Epithelial cell (ciliated),PINK1,0.06835401
+Sebaceous gland cell,PINK1,0.06729304
+Epithelial cell (basal keratinocyte),PINK1,0.06667129
+Schwann cell,PINK1,0.06373673
+Adipocyte,PINK1,0.062647164
+Pericyte/SMC,PINK1,0.061688438
+Myofibroblast,PINK1,0.056560487
+Immune (NK cell),PINK1,0.055465486
+Epithelial cell (alveolar type I),PINK1,0.054215446
+Immune (alveolar macrophage),PINK1,0.046557184
+Epithelial cell (alveolar type II),PINK1,0.04522173
+Sweat gland cell,PINK1,0.041177526
+Immune (mast cell),PINK1,0.040475853
+Immune (DC/macrophage),PINK1,0.039196018
+Immune (T cell),PINK1,0.025080746
+Myocyte (sk. muscle),PINK1,0.017235922
+Melanocyte,PINK1,0.016400084
+ICCs,PINK1,0.011111893
+Satellite cell,PINK1,0.0065755397
+Immune (B cell),PINK1,0.0
+Myocyte (NMJ-rich),PINK1,0.0

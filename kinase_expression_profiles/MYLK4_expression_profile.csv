@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Myocyte (NMJ-rich),MYLK4,0.588512
+Myocyte (sk. muscle),MYLK4,0.5473274
+"Myocyte (sk. muscle, cytoplasmic)",MYLK4,0.2652662
+Immune (alveolar macrophage),MYLK4,0.09637464
+Epithelial cell (suprabasal),MYLK4,0.08136251
+Myocyte (cardiac),MYLK4,0.06229817
+Epithelial cell (basal),MYLK4,0.052759405
+Epithelial cell (alveolar type II),MYLK4,0.048762903
+Mucous cell,MYLK4,0.04615215
+Epithelial cell (club),MYLK4,0.045021705
+Epithelial cell (cornified keratinocyte),MYLK4,0.044739626
+Endothelial cell (lymphatic),MYLK4,0.04145228
+Myoepithelial (basal),MYLK4,0.037154797
+Epithelial cell (squamous),MYLK4,0.0369042
+Epithelial cell (alveolar type I),MYLK4,0.034400687
+Schwann cell,MYLK4,0.03220299
+Epithelial cell (Hillock),MYLK4,0.031508885
+Melanocyte,MYLK4,0.030433765
+Neuroendocrine,MYLK4,0.02949905
+Epithelial cell (basal keratinocyte),MYLK4,0.029076554
+Endothelial cell (vascular),MYLK4,0.028144164
+Myofibroblast,MYLK4,0.026573252
+Fibroblast,MYLK4,0.026563121
+ICCs,MYLK4,0.02617236
+Pericyte/SMC,MYLK4,0.02589265
+Immune (mast cell),MYLK4,0.022575574
+Epithelial cell (ciliated),MYLK4,0.021309918
+Myocyte (smooth muscle),MYLK4,0.020105056
+Epithelial cell (luminal),MYLK4,0.019686077
+Immune (DC/macrophage),MYLK4,0.018051233
+Satellite cell,MYLK4,0.015283177
+Immune (B cell),MYLK4,0.014343872
+Immune (T cell),MYLK4,0.013481139
+Adipocyte,MYLK4,0.013334943
+"Myocyte (cardiac, cytoplasmic)",MYLK4,0.009749358
+Epithelial cell (suprabasal keratinocyte),MYLK4,0.009228078
+Sweat gland cell,MYLK4,0.009112213
+Immune (NK cell),MYLK4,0.0078078285
+Epithelial cell (mature keratinocyte),MYLK4,0.007595534
+Sebaceous gland cell,MYLK4,0.0054717297
+Immune (Langerhans),MYLK4,0.0
+Immune (DC),MYLK4,0.0
+Neuronal,MYLK4,0.0

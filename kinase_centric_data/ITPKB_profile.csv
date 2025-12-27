@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmucosa,Stromal,ITPKB,1.3797909,29.01921132457027
+heart,Endothelial cell,ITPKB,1.3460898,23.61493123772102
+skin,Immune (lymphocyte),ITPKB,1.4375,21.333333333333336
+esophagusmuscularis,Muscle,ITPKB,1.3978707,17.055619073239626
+skin,Melanocyte,ITPKB,1.3043479,16.911764705882355
+esophagusmucosa,Immune (lymphocyte),ITPKB,1.1783217,15.731573157315731
+esophagusmuscularis,Immune (lymphocyte),ITPKB,1.1702127,15.614617940199334
+prostate,Muscle,ITPKB,1.2529762,14.979937583593404
+skin,Endothelial cell,ITPKB,1.3061224,14.36950146627566
+heart,Immune (lymphocyte),ITPKB,1.0927835,13.896848137535816
+skeletalmuscle,Adipocyte,ITPKB,1.1428572,13.20754716981132
+breast,Endothelial cell,ITPKB,1.2155173,13.166855845629966
+heart,Adipocyte,ITPKB,1.12,12.953367875647666
+esophagusmucosa,Endothelial cell,ITPKB,1.1900827,12.932877297990592
+breast,Immune (myeloid),ITPKB,1.3902439,11.452513966480447
+prostate,Immune (lymphocyte),ITPKB,1.0384616,11.436950146627565
+skin,Muscle,ITPKB,1.1904762,11.29032258064516
+prostate,Endothelial cell,ITPKB,1.1677215,11.181882519462135
+skeletalmuscle,Immune (lymphocyte),ITPKB,1.1818181,11.0
+lung,Immune (lymphocyte),ITPKB,1.0759493,10.896551724137932
+esophagusmuscularis,Endothelial cell,ITPKB,1.205074,10.603003810804752
+prostate,Immune (myeloid),ITPKB,1.1584158,9.82490272373541
+esophagusmucosa,Glia,ITPKB,1.0,9.230769230769232
+lung,Endothelial cell,ITPKB,1.1298702,8.4122359796067
+prostate,Epithelial cell,ITPKB,1.1447988,8.2910761496121
+esophagusmucosa,Muscle,ITPKB,1.2051282,7.784431137724551
+heart,Immune (myeloid),ITPKB,1.1169355,7.751211126738553
+esophagusmucosa,Immune (myeloid),ITPKB,1.1203704,7.725321888412018
+lung,Immune (myeloid),ITPKB,1.127193,7.476635514018691
+skeletalmuscle,Endothelial cell,ITPKB,1.2525252,7.43801652892562
+esophagusmuscularis,Immune (myeloid),ITPKB,1.1636363,7.424907188660142
+breast,Muscle,ITPKB,1.0,7.236842105263158
+esophagusmucosa,Epithelial cell,ITPKB,1.1138211,7.132502174543346
+esophagusmuscularis,Adipocyte,ITPKB,1.0833334,6.857142857142858
+esophagusmuscularis,Glia,ITPKB,1.2575758,6.804123711340206
+prostate,Glia,ITPKB,1.0,5.970149253731343
+skin,Immune (myeloid),ITPKB,1.1,5.58659217877095
+skin,Adipocyte,ITPKB,1.0,4.838709677419355
+breast,Adipocyte,ITPKB,1.1428572,4.770017035775128
+lung,Fibroblast,ITPKB,1.1029412,4.607046070460704
+prostate,Fibroblast,ITPKB,1.0612245,4.2907180385288965
+skin,Other,ITPKB,1.0526316,4.20353982300885
+heart,Muscle,ITPKB,1.1358025,4.028514588859417
+esophagusmuscularis,Neuron,ITPKB,1.0,4.0
+skin,Epithelial cell,ITPKB,1.0416666,3.986710963455149
+heart,Fibroblast,ITPKB,1.0909091,3.908689566060084
+skeletalmuscle,Immune (myeloid),ITPKB,1.0357143,3.799185888738128
+esophagusmucosa,Fibroblast,ITPKB,1.0882353,3.623445825932504
+breast,Fibroblast,ITPKB,1.1785715,3.418803418803419
+heart,Glia,ITPKB,1.3,3.355704697986577
+lung,Epithelial cell,ITPKB,1.0387985,3.318795430944964
+breast,Epithelial cell,ITPKB,1.0449438,3.069494740472495
+skeletalmuscle,Glia,ITPKB,1.0,2.857142857142857
+skin,Fibroblast,ITPKB,1.0666667,2.835538752362949
+esophagusmuscularis,Fibroblast,ITPKB,1.0814815,2.593909117110193
+skin,Epithelial cell (keratinocyte),ITPKB,1.0555556,1.848998459167951
+lung,Muscle,ITPKB,1.0,1.8404907975460123
+skeletalmuscle,Fibroblast,ITPKB,1.0307692,1.0935397039030954
+skeletalmuscle,Muscle,ITPKB,1.0465117,0.5715298391741616

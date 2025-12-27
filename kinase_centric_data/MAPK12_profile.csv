@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Neuron,MAPK12,1.0,8.0
+esophagusmucosa,Endothelial cell,MAPK12,1.0657895,6.4985036340316364
+prostate,Endothelial cell,MAPK12,1.035461,4.989384288747346
+breast,Endothelial cell,MAPK12,1.0526316,4.313280363223609
+breast,Muscle,MAPK12,1.0,3.289473684210526
+prostate,Muscle,MAPK12,1.0338984,2.6304057066428888
+heart,Adipocyte,MAPK12,1.0,2.5906735751295336
+esophagusmuscularis,Endothelial cell,MAPK12,1.0,2.33131584846447
+esophagusmucosa,Stromal,MAPK12,1.0869565,2.3255813953488373
+skin,Endothelial cell,MAPK12,1.0,1.9550342130987293
+skeletalmuscle,Adipocyte,MAPK12,1.0,1.8867924528301887
+heart,Muscle,MAPK12,1.014151,1.7572944297082227
+skeletalmuscle,Muscle,MAPK12,1.0412371,1.7190199813920517
+esophagusmuscularis,Adipocyte,MAPK12,1.0,1.7142857142857144
+esophagusmuscularis,Muscle,MAPK12,1.0244898,1.6477234514762258
+heart,Endothelial cell,MAPK12,1.0254238,1.5455140798952194
+lung,Endothelial cell,MAPK12,1.0,1.529497450837582
+prostate,Glia,MAPK12,2.0,1.4925373134328357
+breast,Immune (myeloid),MAPK12,1.0,1.3966480446927374
+lung,Fibroblast,MAPK12,1.0,1.3550135501355014
+prostate,Epithelial cell,MAPK12,1.0239043,1.0878516014389112
+esophagusmuscularis,Immune (lymphocyte),MAPK12,1.3333334,0.9966777408637874
+prostate,Fibroblast,MAPK12,1.0,0.9632224168126094
+esophagusmucosa,Fibroblast,MAPK12,1.0384616,0.9236234458259326
+skin,Other,MAPK12,1.0,0.8849557522123894
+skeletalmuscle,Endothelial cell,MAPK12,1.0,0.8264462809917356
+esophagusmucosa,Muscle,MAPK12,1.25,0.7984031936127743
+prostate,Immune (myeloid),MAPK12,1.0,0.7782101167315175
+esophagusmuscularis,Immune (myeloid),MAPK12,1.0,0.6749915626054674
+esophagusmucosa,Immune (myeloid),MAPK12,1.0,0.5722460658082975
+heart,Fibroblast,MAPK12,1.0,0.5599224722730699
+skin,Immune (myeloid),MAPK12,1.0,0.5586592178770949
+prostate,Immune (lymphocyte),MAPK12,1.0,0.4398826979472141
+heart,Immune (myeloid),MAPK12,1.0357143,0.4375683700578215
+esophagusmuscularis,Fibroblast,MAPK12,1.0227273,0.4227111153809204
+esophagusmuscularis,Glia,MAPK12,1.0,0.4123711340206186
+skin,Fibroblast,MAPK12,1.0,0.3780718336483932
+breast,Fibroblast,MAPK12,1.0,0.3663003663003663
+breast,Epithelial cell,MAPK12,1.0,0.2931539920675978
+esophagusmucosa,Immune (lymphocyte),MAPK12,1.0,0.275027502750275
+esophagusmucosa,Epithelial cell,MAPK12,1.0277778,0.2609452015076834
+lung,Immune (myeloid),MAPK12,1.0,0.2131496966715855
+skin,Epithelial cell,MAPK12,1.0,0.1661129568106312
+lung,Epithelial cell,MAPK12,1.0,0.1163032191069574
+breast,Adipocyte,MAPK12,1.5,0.1135718341851221
+skeletalmuscle,Fibroblast,MAPK12,1.0,0.0336473755047106
+esophagusmucosa,Glia,MAPK12,0.0,0.0
+heart,Immune (lymphocyte),MAPK12,0.0,0.0
+heart,Glia,MAPK12,0.0,0.0
+lung,Immune (lymphocyte),MAPK12,0.0,0.0
+lung,Muscle,MAPK12,0.0,0.0
+skin,Adipocyte,MAPK12,0.0,0.0
+skeletalmuscle,Immune (myeloid),MAPK12,0.0,0.0
+skeletalmuscle,Glia,MAPK12,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),MAPK12,0.0,0.0
+skin,Immune (lymphocyte),MAPK12,0.0,0.0
+skin,Epithelial cell (keratinocyte),MAPK12,0.0,0.0
+skin,Melanocyte,MAPK12,0.0,0.0
+skin,Muscle,MAPK12,0.0,0.0

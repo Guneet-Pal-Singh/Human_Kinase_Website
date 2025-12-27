@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmucosa,Stromal,CDK9,1.05,8.088978766430738
+esophagusmuscularis,Neuron,CDK9,1.0,8.0
+breast,Muscle,CDK9,1.2727273,7.236842105263158
+skin,Other,CDK9,1.032258,6.8584070796460175
+esophagusmucosa,Glia,CDK9,1.0,6.153846153846154
+esophagusmuscularis,Adipocyte,CDK9,1.0,5.142857142857142
+skin,Muscle,CDK9,1.0,4.838709677419355
+prostate,Endothelial cell,CDK9,1.0296296,4.777070063694268
+breast,Adipocyte,CDK9,1.0243902,4.656445201590006
+esophagusmucosa,Immune (myeloid),CDK9,1.0615385,4.649499284692418
+esophagusmucosa,Endothelial cell,CDK9,1.0231482,4.6173578452330055
+breast,Endothelial cell,CDK9,1.075,4.540295119182747
+prostate,Glia,CDK9,1.0,4.477611940298507
+prostate,Muscle,CDK9,1.04,4.458314757021846
+skeletalmuscle,Adipocyte,CDK9,1.1428572,4.40251572327044
+esophagusmucosa,Epithelial cell,CDK9,1.0578232,4.262104957958829
+esophagusmucosa,Fibroblast,CDK9,1.0168067,4.227353463587922
+skin,Immune (lymphocyte),CDK9,1.0,4.0
+breast,Immune (myeloid),CDK9,1.0,3.910614525139665
+prostate,Fibroblast,CDK9,1.0227273,3.852889667250438
+heart,Adipocyte,CDK9,1.0,3.6269430051813463
+skin,Epithelial cell,CDK9,1.0476191,3.488372093023256
+esophagusmucosa,Muscle,CDK9,1.0,3.393213572854292
+prostate,Immune (myeloid),CDK9,1.0,3.3073929961089497
+lung,Immune (myeloid),CDK9,1.0307692,3.1972454500737824
+skin,Epithelial cell (keratinocyte),CDK9,1.0666667,3.0816640986132517
+lung,Muscle,CDK9,1.0,3.067484662576687
+esophagusmuscularis,Muscle,CDK9,1.0397351,3.046607034770328
+prostate,Epithelial cell,CDK9,1.0483162,2.96016989554891
+esophagusmucosa,Immune (lymphocyte),CDK9,1.0,2.915291529152915
+skin,Endothelial cell,CDK9,1.0689656,2.834799608993157
+breast,Epithelial cell,CDK9,1.0245398,2.810829453354027
+esophagusmuscularis,Endothelial cell,CDK9,1.0275229,2.443398341179108
+heart,Muscle,CDK9,1.0177305,2.3375331564986737
+breast,Fibroblast,CDK9,1.0526316,2.31990231990232
+esophagusmuscularis,Glia,CDK9,1.0454545,2.268041237113402
+skin,Melanocyte,CDK9,1.0,2.2058823529411766
+skin,Fibroblast,CDK9,1.0,2.0793950850661624
+heart,Fibroblast,CDK9,1.031915,2.024335092064176
+skeletalmuscle,Immune (lymphocyte),CDK9,1.0,2.0
+esophagusmuscularis,Fibroblast,CDK9,1.0149254,1.9310212316264768
+prostate,Immune (lymphocyte),CDK9,1.0,1.906158357771261
+skeletalmuscle,Immune (myeloid),CDK9,1.0,1.899592944369064
+heart,Endothelial cell,CDK9,1.0137931,1.899148657498363
+heart,Immune (myeloid),CDK9,1.0086207,1.8127832473824037
+esophagusmuscularis,Immune (myeloid),CDK9,1.0769231,1.7549780627742155
+skeletalmuscle,Fibroblast,CDK9,1.009901,1.699192462987887
+lung,Epithelial cell,CDK9,1.0125,1.6614745586708204
+skin,Adipocyte,CDK9,1.0,1.6129032258064515
+lung,Fibroblast,CDK9,1.0,1.5582655826558265
+lung,Endothelial cell,CDK9,1.05,1.4566642388929352
+heart,Glia,CDK9,1.0,1.342281879194631
+esophagusmuscularis,Immune (lymphocyte),CDK9,1.0,1.32890365448505
+heart,Immune (lymphocyte),CDK9,1.0,1.146131805157593
+skin,Immune (myeloid),CDK9,1.0,1.11731843575419
+skeletalmuscle,Endothelial cell,CDK9,1.0,0.9015777610818932
+lung,Immune (lymphocyte),CDK9,1.0,0.8275862068965517
+skeletalmuscle,Muscle,CDK9,1.0,0.34114571795667
+skeletalmuscle,Glia,CDK9,0.0,0.0

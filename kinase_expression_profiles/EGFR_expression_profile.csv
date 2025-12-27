@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (basal keratinocyte),EGFR,1.5567529
+Epithelial cell (basal),EGFR,1.4608066
+Epithelial cell (suprabasal),EGFR,1.3052021
+Satellite cell,EGFR,1.282523
+Sebaceous gland cell,EGFR,1.2382563
+Epithelial cell (Hillock),EGFR,1.2328464
+Fibroblast,EGFR,1.1135924
+Epithelial cell (suprabasal keratinocyte),EGFR,1.1011078
+Epithelial cell (alveolar type I),EGFR,1.0654868
+Epithelial cell (club),EGFR,1.0464123
+Myofibroblast,EGFR,1.0345062
+Epithelial cell (cornified keratinocyte),EGFR,1.0097572
+Epithelial cell (mature keratinocyte),EGFR,0.9720292
+Mucous cell,EGFR,0.9472177
+Adipocyte,EGFR,0.8992444
+Epithelial cell (alveolar type II),EGFR,0.76679313
+Myoepithelial (basal),EGFR,0.7584408
+Sweat gland cell,EGFR,0.7422115
+Epithelial cell (luminal),EGFR,0.6439209
+Myocyte (smooth muscle),EGFR,0.5478054
+Pericyte/SMC,EGFR,0.5303121
+Epithelial cell (ciliated),EGFR,0.4903152
+Myocyte (NMJ-rich),EGFR,0.48176074
+Endothelial cell (vascular),EGFR,0.46218395
+Epithelial cell (squamous),EGFR,0.39203998
+ICCs,EGFR,0.31799546
+Myocyte (sk. muscle),EGFR,0.31527576
+"Myocyte (sk. muscle, cytoplasmic)",EGFR,0.27576715
+Immune (Langerhans),EGFR,0.25784385
+Immune (DC),EGFR,0.22512785
+Neuroendocrine,EGFR,0.19811977
+Immune (mast cell),EGFR,0.18670337
+Schwann cell,EGFR,0.1547778
+Melanocyte,EGFR,0.1258473
+Neuronal,EGFR,0.12371617
+"Myocyte (cardiac, cytoplasmic)",EGFR,0.12339759
+Myocyte (cardiac),EGFR,0.118442744
+Immune (alveolar macrophage),EGFR,0.069079146
+Endothelial cell (lymphatic),EGFR,0.065257356
+Immune (T cell),EGFR,0.047515027
+Immune (DC/macrophage),EGFR,0.044154115
+Immune (B cell),EGFR,0.041115347
+Immune (NK cell),EGFR,0.029625924

@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Myocyte (smooth muscle),ILK,0.73117274
+Myofibroblast,ILK,0.5029711
+Neuronal,ILK,0.45262212
+Myocyte (cardiac),ILK,0.4480712
+"Myocyte (cardiac, cytoplasmic)",ILK,0.4318197
+Pericyte/SMC,ILK,0.37735224
+Endothelial cell (vascular),ILK,0.24053705
+Schwann cell,ILK,0.22087114
+Mucous cell,ILK,0.20546588
+Immune (mast cell),ILK,0.20438786
+Immune (DC/macrophage),ILK,0.19787808
+ICCs,ILK,0.19445704
+Endothelial cell (lymphatic),ILK,0.17829861
+"Myocyte (sk. muscle, cytoplasmic)",ILK,0.1755663
+Neuroendocrine,ILK,0.16919194
+Fibroblast,ILK,0.1690434
+Epithelial cell (alveolar type I),ILK,0.1551726
+Myoepithelial (basal),ILK,0.13703662
+Immune (NK cell),ILK,0.1343461
+Epithelial cell (club),ILK,0.13392799
+Adipocyte,ILK,0.1326952
+Immune (alveolar macrophage),ILK,0.12784323
+Immune (B cell),ILK,0.12735836
+Epithelial cell (basal),ILK,0.12549545
+Epithelial cell (mature keratinocyte),ILK,0.120327584
+Immune (DC),ILK,0.116109915
+Satellite cell,ILK,0.114802085
+Immune (T cell),ILK,0.1123221
+Epithelial cell (Hillock),ILK,0.11166884
+Epithelial cell (luminal),ILK,0.10043761
+Epithelial cell (ciliated),ILK,0.090551175
+Immune (Langerhans),ILK,0.0782062
+Melanocyte,ILK,0.07816596
+Sweat gland cell,ILK,0.07802634
+Epithelial cell (suprabasal),ILK,0.077413596
+Epithelial cell (alveolar type II),ILK,0.07028378
+Epithelial cell (squamous),ILK,0.0686384
+Myocyte (sk. muscle),ILK,0.05295952
+Epithelial cell (basal keratinocyte),ILK,0.04366698
+Epithelial cell (suprabasal keratinocyte),ILK,0.043466907
+Epithelial cell (cornified keratinocyte),ILK,0.04224785
+Myocyte (NMJ-rich),ILK,0.035896003
+Sebaceous gland cell,ILK,0.02446116

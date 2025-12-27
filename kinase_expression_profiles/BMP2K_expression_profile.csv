@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (DC),BMP2K,1.8136266
+Immune (mast cell),BMP2K,1.355691
+ICCs,BMP2K,0.93520975
+Melanocyte,BMP2K,0.9173301
+Immune (Langerhans),BMP2K,0.88921744
+Immune (DC/macrophage),BMP2K,0.8594584
+Immune (B cell),BMP2K,0.8491214
+Endothelial cell (lymphatic),BMP2K,0.7334951
+Immune (alveolar macrophage),BMP2K,0.68778616
+Epithelial cell (suprabasal),BMP2K,0.529333
+Myocyte (cardiac),BMP2K,0.47228304
+Epithelial cell (squamous),BMP2K,0.35655916
+Schwann cell,BMP2K,0.3496121
+Neuronal,BMP2K,0.33242548
+Epithelial cell (mature keratinocyte),BMP2K,0.32868615
+Epithelial cell (alveolar type I),BMP2K,0.3250872
+Myofibroblast,BMP2K,0.3109709
+Epithelial cell (ciliated),BMP2K,0.30103785
+Sweat gland cell,BMP2K,0.2878662
+Mucous cell,BMP2K,0.28266272
+Epithelial cell (suprabasal keratinocyte),BMP2K,0.2567922
+Myocyte (NMJ-rich),BMP2K,0.22086643
+Myocyte (smooth muscle),BMP2K,0.2120537
+Epithelial cell (basal),BMP2K,0.20731257
+Fibroblast,BMP2K,0.20191646
+Adipocyte,BMP2K,0.2010928
+Myoepithelial (basal),BMP2K,0.19795243
+Endothelial cell (vascular),BMP2K,0.19263777
+Pericyte/SMC,BMP2K,0.18335612
+Epithelial cell (alveolar type II),BMP2K,0.18324253
+Epithelial cell (luminal),BMP2K,0.17869723
+Satellite cell,BMP2K,0.16134289
+Epithelial cell (basal keratinocyte),BMP2K,0.14603193
+"Myocyte (cardiac, cytoplasmic)",BMP2K,0.14324369
+Epithelial cell (club),BMP2K,0.14229436
+Immune (T cell),BMP2K,0.13962193
+Immune (NK cell),BMP2K,0.12007584
+Myocyte (sk. muscle),BMP2K,0.11865834
+Epithelial cell (Hillock),BMP2K,0.11428089
+Sebaceous gland cell,BMP2K,0.09097268
+Neuroendocrine,BMP2K,0.087871976
+"Myocyte (sk. muscle, cytoplasmic)",BMP2K,0.07431234
+Epithelial cell (cornified keratinocyte),BMP2K,0.06753497

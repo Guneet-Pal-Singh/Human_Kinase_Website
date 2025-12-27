@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skin,Melanocyte,PIKFYVE,1.28125,23.52941176470588
+esophagusmuscularis,Neuron,PIKFYVE,1.2,20.0
+esophagusmuscularis,Adipocyte,PIKFYVE,1.1428572,20.0
+lung,Immune (myeloid),PIKFYVE,1.1736641,17.18314477783243
+heart,Adipocyte,PIKFYVE,1.2727273,17.098445595854923
+heart,Muscle,PIKFYVE,1.2249255,16.694297082228115
+prostate,Immune (myeloid),PIKFYVE,1.1976048,16.245136186770427
+esophagusmucosa,Stromal,PIKFYVE,1.1719745,15.874620829120325
+prostate,Epithelial cell,PIKFYVE,1.1878172,15.368612664152906
+esophagusmucosa,Immune (myeloid),PIKFYVE,1.245283,15.164520743919883
+prostate,Muscle,PIKFYVE,1.1555556,14.043691484618815
+heart,Immune (myeloid),PIKFYVE,1.1180556,13.502109704641349
+skeletalmuscle,Adipocyte,PIKFYVE,1.1428572,13.20754716981132
+prostate,Fibroblast,PIKFYVE,1.1081082,12.95971978984238
+esophagusmuscularis,Immune (myeloid),PIKFYVE,1.1179625,12.588592642591967
+skin,Muscle,PIKFYVE,1.1304348,12.365591397849462
+esophagusmucosa,Epithelial cell,PIKFYVE,1.1396182,12.148448825746597
+prostate,Endothelial cell,PIKFYVE,1.1202346,12.066525123849964
+skin,Endothelial cell,PIKFYVE,1.1130434,11.241446725317692
+breast,Immune (myeloid),PIKFYVE,1.15,11.1731843575419
+esophagusmucosa,Endothelial cell,PIKFYVE,1.0873016,10.773834972210343
+skin,Epithelial cell (keratinocyte),PIKFYVE,1.1298077,10.683102208525936
+skin,Epithelial cell,PIKFYVE,1.125,10.6312292358804
+esophagusmucosa,Fibroblast,PIKFYVE,1.0793103,10.301953818827709
+lung,Epithelial cell,PIKFYVE,1.0942706,10.222222222222223
+skin,Immune (myeloid),PIKFYVE,1.0,10.05586592178771
+breast,Adipocyte,PIKFYVE,1.1040462,9.82396365701306
+skin,Adipocyte,PIKFYVE,1.0,9.67741935483871
+heart,Endothelial cell,PIKFYVE,1.0955678,9.45645055664702
+heart,Fibroblast,PIKFYVE,1.0813009,9.271024012059868
+lung,Fibroblast,PIKFYVE,1.0808823,9.214092140921409
+breast,Muscle,PIKFYVE,1.0714285,9.210526315789473
+esophagusmucosa,Muscle,PIKFYVE,1.1086956,9.181636726546904
+skeletalmuscle,Immune (myeloid),PIKFYVE,1.0895523,9.090909090909092
+skeletalmuscle,Immune (lymphocyte),PIKFYVE,1.0,9.0
+esophagusmuscularis,Muscle,PIKFYVE,1.0904088,8.554711143990854
+breast,Epithelial cell,PIKFYVE,1.0881147,8.415244007587514
+skin,Other,PIKFYVE,1.3421053,8.4070796460177
+esophagusmuscularis,Endothelial cell,PIKFYVE,1.0748663,8.38377045505492
+skin,Immune (lymphocyte),PIKFYVE,1.0,8.0
+esophagusmucosa,Immune (lymphocyte),PIKFYVE,1.137931,7.975797579757976
+lung,Muscle,PIKFYVE,1.0,7.975460122699387
+skin,Fibroblast,PIKFYVE,1.1190476,7.939508506616256
+esophagusmuscularis,Glia,PIKFYVE,1.0649351,7.938144329896906
+heart,Immune (lymphocyte),PIKFYVE,1.1272727,7.879656160458452
+lung,Immune (lymphocyte),PIKFYVE,1.0701754,7.862068965517241
+lung,Endothelial cell,PIKFYVE,1.0660378,7.720320466132556
+esophagusmuscularis,Immune (lymphocyte),PIKFYVE,1.0434783,7.641196013289036
+prostate,Glia,PIKFYVE,1.0,7.462686567164178
+skeletalmuscle,Fibroblast,PIKFYVE,1.0608273,6.914535666218034
+esophagusmuscularis,Fibroblast,PIKFYVE,1.0450704,6.821020270919396
+breast,Endothelial cell,PIKFYVE,1.0666667,6.81044267877412
+breast,Fibroblast,PIKFYVE,1.0943396,6.471306471306472
+heart,Glia,PIKFYVE,1.0,6.375838926174497
+esophagusmucosa,Glia,PIKFYVE,1.0,6.153846153846154
+skeletalmuscle,Endothelial cell,PIKFYVE,1.1111112,5.40946656649136
+prostate,Immune (lymphocyte),PIKFYVE,1.0285715,5.131964809384164
+skeletalmuscle,Muscle,PIKFYVE,1.065388,5.081742058393514
+skeletalmuscle,Glia,PIKFYVE,0.0,0.0

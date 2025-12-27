@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Adipocyte,NPR1,0.42845795
+Endothelial cell (vascular),NPR1,0.1910482
+Endothelial cell (lymphatic),NPR1,0.16447425
+Fibroblast,NPR1,0.13541637
+Epithelial cell (alveolar type II),NPR1,0.13202773
+Immune (DC),NPR1,0.12256593
+Myofibroblast,NPR1,0.0368923
+Neuroendocrine,NPR1,0.034575492
+Immune (mast cell),NPR1,0.03350971
+Myocyte (smooth muscle),NPR1,0.029942647
+"Myocyte (cardiac, cytoplasmic)",NPR1,0.028661521
+Epithelial cell (alveolar type I),NPR1,0.025941977
+Epithelial cell (ciliated),NPR1,0.022371199
+Pericyte/SMC,NPR1,0.019648582
+Schwann cell,NPR1,0.019098623
+"Myocyte (sk. muscle, cytoplasmic)",NPR1,0.016493943
+Epithelial cell (luminal),NPR1,0.008663189
+Myocyte (cardiac),NPR1,0.008291147
+Sweat gland cell,NPR1,0.0075871516
+Immune (NK cell),NPR1,0.007328796
+Epithelial cell (squamous),NPR1,0.005859401
+Immune (T cell),NPR1,0.0056935865
+Epithelial cell (club),NPR1,0.00565076
+Immune (DC/macrophage),NPR1,0.0049195937
+Epithelial cell (basal keratinocyte),NPR1,0.003301039
+Epithelial cell (Hillock),NPR1,0.0029269254
+Epithelial cell (basal),NPR1,0.0028685688
+Immune (alveolar macrophage),NPR1,0.0026287662
+Epithelial cell (suprabasal),NPR1,0.002397337
+Myocyte (sk. muscle),NPR1,0.000530297
+Epithelial cell (cornified keratinocyte),NPR1,0.0
+Epithelial cell (suprabasal keratinocyte),NPR1,0.0
+Epithelial cell (mature keratinocyte),NPR1,0.0
+ICCs,NPR1,0.0
+Immune (B cell),NPR1,0.0
+Melanocyte,NPR1,0.0
+Immune (Langerhans),NPR1,0.0
+Myocyte (NMJ-rich),NPR1,0.0
+Mucous cell,NPR1,0.0
+Myoepithelial (basal),NPR1,0.0
+Neuronal,NPR1,0.0
+Satellite cell,NPR1,0.0
+Sebaceous gland cell,NPR1,0.0

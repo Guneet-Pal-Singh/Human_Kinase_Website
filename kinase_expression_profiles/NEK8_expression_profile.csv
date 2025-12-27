@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Neuronal,NEK8,0.19545211
+Epithelial cell (alveolar type II),NEK8,0.13912755
+Epithelial cell (Hillock),NEK8,0.13130325
+Sebaceous gland cell,NEK8,0.12658066
+Epithelial cell (ciliated),NEK8,0.12449415
+Mucous cell,NEK8,0.12281662
+Immune (alveolar macrophage),NEK8,0.118898466
+Epithelial cell (cornified keratinocyte),NEK8,0.11719555
+Epithelial cell (club),NEK8,0.116501175
+Neuroendocrine,NEK8,0.10064903
+Epithelial cell (basal),NEK8,0.09612881
+Immune (B cell),NEK8,0.09548282
+Epithelial cell (luminal),NEK8,0.07764471
+Epithelial cell (alveolar type I),NEK8,0.0775761
+Immune (DC),NEK8,0.07049917
+Epithelial cell (suprabasal),NEK8,0.067041874
+Myofibroblast,NEK8,0.056261305
+Myoepithelial (basal),NEK8,0.052755423
+Immune (DC/macrophage),NEK8,0.048162222
+Adipocyte,NEK8,0.04542773
+Immune (mast cell),NEK8,0.043800127
+Melanocyte,NEK8,0.04336544
+Immune (NK cell),NEK8,0.042142123
+Myocyte (sk. muscle),NEK8,0.03876497
+Epithelial cell (basal keratinocyte),NEK8,0.03742982
+Sweat gland cell,NEK8,0.037248656
+Fibroblast,NEK8,0.03702925
+Myocyte (NMJ-rich),NEK8,0.034696884
+Pericyte/SMC,NEK8,0.03399424
+Myocyte (cardiac),NEK8,0.03381617
+Endothelial cell (vascular),NEK8,0.030784314
+Endothelial cell (lymphatic),NEK8,0.030210793
+Myocyte (smooth muscle),NEK8,0.029323798
+Epithelial cell (squamous),NEK8,0.026934871
+Immune (T cell),NEK8,0.02198303
+Satellite cell,NEK8,0.017620105
+ICCs,NEK8,0.014235909
+"Myocyte (sk. muscle, cytoplasmic)",NEK8,0.009629604
+"Myocyte (cardiac, cytoplasmic)",NEK8,0.0070086117
+Schwann cell,NEK8,0.00590205
+Immune (Langerhans),NEK8,0.0
+Epithelial cell (suprabasal keratinocyte),NEK8,0.0
+Epithelial cell (mature keratinocyte),NEK8,0.0

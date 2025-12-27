@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Neuron,NEK4,1.0,8.0
+heart,Muscle,NEK4,1.08,7.252984084880637
+esophagusmucosa,Stromal,NEK4,1.1269841,6.370070778564206
+heart,Adipocyte,NEK4,1.0,6.217616580310881
+prostate,Epithelial cell,NEK4,1.0669975,5.239890781432843
+lung,Epithelial cell,NEK4,1.0666125,5.11318795430945
+esophagusmucosa,Epithelial cell,NEK4,1.0572687,4.936213395187011
+prostate,Muscle,NEK4,1.1018518,4.814979937583593
+lung,Immune (myeloid),NEK4,1.0664335,4.689293326774881
+prostate,Glia,NEK4,1.0,4.477611940298507
+skin,Melanocyte,NEK4,1.0833334,4.411764705882353
+prostate,Fibroblast,NEK4,1.0625,4.203152364273205
+esophagusmucosa,Immune (myeloid),NEK4,1.125,4.005722460658083
+esophagusmuscularis,Adipocyte,NEK4,1.0,4.0
+esophagusmucosa,Muscle,NEK4,1.1111112,3.592814371257485
+prostate,Endothelial cell,NEK4,1.0204082,3.4677990092002826
+heart,Immune (lymphocyte),NEK4,1.0833334,3.43839541547278
+heart,Fibroblast,NEK4,1.0414013,3.38107031334123
+breast,Epithelial cell,NEK4,1.03125,3.3109156751163997
+esophagusmuscularis,Muscle,NEK4,1.0430328,3.281996099266931
+heart,Immune (myeloid),NEK4,1.0714285,3.281762775433662
+lung,Fibroblast,NEK4,1.0212766,3.1842818428184283
+esophagusmucosa,Fibroblast,NEK4,1.0337079,3.161634103019538
+skeletalmuscle,Adipocyte,NEK4,1.0,3.1446540880503147
+lung,Muscle,NEK4,1.0,3.067484662576687
+breast,Fibroblast,NEK4,1.04,3.0525030525030523
+lung,Endothelial cell,NEK4,1.0481927,3.02257829570284
+esophagusmucosa,Endothelial cell,NEK4,1.0719424,2.9713552800342025
+heart,Endothelial cell,NEK4,1.0504587,2.8552717747216767
+esophagusmuscularis,Endothelial cell,NEK4,1.04,2.8020623178659494
+esophagusmuscularis,Immune (myeloid),NEK4,1.0481927,2.80121498481269
+skeletalmuscle,Immune (myeloid),NEK4,1.05,2.71370420624152
+skeletalmuscle,Fibroblast,NEK4,1.0377358,2.674966352624496
+esophagusmuscularis,Fibroblast,NEK4,1.0288808,2.661158612738976
+lung,Immune (lymphocyte),NEK4,1.1052631,2.6206896551724137
+breast,Endothelial cell,NEK4,1.0869565,2.6106696935300797
+breast,Immune (myeloid),NEK4,1.0,2.5139664804469275
+esophagusmucosa,Immune (lymphocyte),NEK4,1.0487804,2.255225522552255
+skeletalmuscle,Endothelial cell,NEK4,1.0333333,2.2539444027047333
+prostate,Immune (myeloid),NEK4,1.0869565,2.237354085603113
+skin,Other,NEK4,1.1,2.2123893805309733
+prostate,Immune (lymphocyte),NEK4,1.0,2.19941348973607
+skin,Epithelial cell,NEK4,1.0,2.1594684385382057
+breast,Adipocyte,NEK4,1.0526316,2.15786484951732
+skin,Muscle,NEK4,1.0,2.1505376344086025
+skin,Endothelial cell,NEK4,1.0,2.0527859237536656
+heart,Glia,NEK4,1.0,2.013422818791946
+skeletalmuscle,Muscle,NEK4,1.0177778,1.9937087413052148
+breast,Muscle,NEK4,1.0,1.973684210526316
+esophagusmuscularis,Glia,NEK4,1.117647,1.7525773195876289
+esophagusmuscularis,Immune (lymphocyte),NEK4,1.0,1.6611295681063123
+esophagusmucosa,Glia,NEK4,1.0,1.5384615384615383
+skin,Epithelial cell (keratinocyte),NEK4,1.0434783,1.1813045711350796
+skin,Fibroblast,NEK4,1.0,1.1342155009451798
+skin,Immune (myeloid),NEK4,1.0,1.11731843575419
+skeletalmuscle,Immune (lymphocyte),NEK4,1.0,1.0
+skeletalmuscle,Glia,NEK4,0.0,0.0
+skin,Adipocyte,NEK4,0.0,0.0
+skin,Immune (lymphocyte),NEK4,0.0,0.0

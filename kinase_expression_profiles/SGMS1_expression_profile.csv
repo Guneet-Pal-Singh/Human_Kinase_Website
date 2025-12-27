@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Mucous cell,SGMS1,0.99190015
+ICCs,SGMS1,0.9654741
+Immune (DC/macrophage),SGMS1,0.940663
+Myocyte (cardiac),SGMS1,0.86788994
+Immune (alveolar macrophage),SGMS1,0.86273867
+Epithelial cell (club),SGMS1,0.8475013
+Schwann cell,SGMS1,0.81749624
+Epithelial cell (alveolar type II),SGMS1,0.7031418
+Epithelial cell (alveolar type I),SGMS1,0.6831197
+Neuroendocrine,SGMS1,0.68080443
+Epithelial cell (Hillock),SGMS1,0.6749487
+Epithelial cell (suprabasal),SGMS1,0.66679883
+Immune (T cell),SGMS1,0.66268325
+Epithelial cell (basal),SGMS1,0.6620072
+Myofibroblast,SGMS1,0.643199
+Myocyte (NMJ-rich),SGMS1,0.6317094
+Epithelial cell (suprabasal keratinocyte),SGMS1,0.63119435
+Immune (DC),SGMS1,0.62310386
+Pericyte/SMC,SGMS1,0.61786985
+Epithelial cell (basal keratinocyte),SGMS1,0.59606874
+Neuronal,SGMS1,0.58914477
+Epithelial cell (luminal),SGMS1,0.55177563
+Endothelial cell (lymphatic),SGMS1,0.5408094
+Myocyte (sk. muscle),SGMS1,0.53605413
+Immune (B cell),SGMS1,0.5225116
+Immune (mast cell),SGMS1,0.51392347
+Satellite cell,SGMS1,0.51240146
+Epithelial cell (ciliated),SGMS1,0.49645567
+Fibroblast,SGMS1,0.4840622
+Immune (Langerhans),SGMS1,0.48224616
+Myocyte (smooth muscle),SGMS1,0.443679
+Immune (NK cell),SGMS1,0.44145063
+Endothelial cell (vascular),SGMS1,0.43917996
+Epithelial cell (mature keratinocyte),SGMS1,0.41479838
+Epithelial cell (cornified keratinocyte),SGMS1,0.38552397
+Adipocyte,SGMS1,0.37641808
+Myoepithelial (basal),SGMS1,0.30236837
+"Myocyte (sk. muscle, cytoplasmic)",SGMS1,0.25897583
+Sweat gland cell,SGMS1,0.23735324
+"Myocyte (cardiac, cytoplasmic)",SGMS1,0.21828446
+Epithelial cell (squamous),SGMS1,0.15326719
+Sebaceous gland cell,SGMS1,0.13280313
+Melanocyte,SGMS1,0.10686306

@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+lung,Immune (myeloid),MELK,1.2461773,10.723069355632072
+lung,Endothelial cell,MELK,1.1165049,7.501820830298617
+esophagusmucosa,Epithelial cell,MELK,1.3272101,6.313424180922006
+lung,Epithelial cell,MELK,1.1872483,6.188992731048805
+lung,Immune (lymphocyte),MELK,1.1,4.137931034482759
+lung,Muscle,MELK,1.0,3.6809815950920246
+esophagusmucosa,Stromal,MELK,1.2571429,3.5389282103134483
+lung,Fibroblast,MELK,1.2391304,3.116531165311653
+skin,Epithelial cell (keratinocyte),MELK,1.0357143,2.876219825372368
+skin,Melanocyte,MELK,1.0,2.5735294117647056
+esophagusmucosa,Immune (myeloid),MELK,1.1714286,2.503576537911302
+prostate,Immune (myeloid),MELK,1.4,2.4319066147859925
+esophagusmuscularis,Adipocyte,MELK,1.0,2.2857142857142856
+skin,Immune (myeloid),MELK,1.25,2.23463687150838
+esophagusmuscularis,Immune (myeloid),MELK,1.1967213,2.058724265946676
+heart,Immune (lymphocyte),MELK,1.2307693,1.8624641833810889
+skin,Endothelial cell,MELK,1.0,1.857282502443793
+skin,Other,MELK,1.125,1.7699115044247788
+esophagusmucosa,Immune (lymphocyte),MELK,1.2666667,1.65016501650165
+skeletalmuscle,Endothelial cell,MELK,1.0,1.5777610818933134
+heart,Adipocyte,MELK,1.0,1.5544041450777202
+skin,Fibroblast,MELK,1.0,1.5122873345935728
+breast,Immune (myeloid),MELK,1.4,1.3966480446927374
+skeletalmuscle,Immune (myeloid),MELK,1.4,1.35685210312076
+esophagusmuscularis,Endothelial cell,MELK,1.0166667,1.3449899125756557
+skin,Immune (lymphocyte),MELK,1.0,1.3333333333333337
+heart,Immune (myeloid),MELK,1.2289157,1.2970776683856853
+skeletalmuscle,Fibroblast,MELK,1.0135136,1.2449528936742935
+esophagusmucosa,Muscle,MELK,1.0,1.1976047904191618
+heart,Muscle,MELK,1.0597014,1.1107427055702916
+esophagusmuscularis,Glia,MELK,1.0,1.0309278350515465
+breast,Endothelial cell,MELK,1.1111112,1.021566401816118
+heart,Glia,MELK,1.0,1.006711409395973
+skeletalmuscle,Immune (lymphocyte),MELK,1.0,1.0
+esophagusmuscularis,Muscle,MELK,1.0204082,0.9886340708857352
+breast,Adipocyte,MELK,1.0,0.9653605905735378
+prostate,Fibroblast,MELK,1.0,0.9632224168126094
+heart,Fibroblast,MELK,1.1685393,0.9583288467750618
+breast,Epithelial cell,MELK,1.0555556,0.9311950336264871
+skeletalmuscle,Muscle,MELK,1.0,0.9303974126091
+prostate,Epithelial cell,MELK,1.0772947,0.8971525159277077
+prostate,Muscle,MELK,1.0,0.8916629514043692
+breast,Fibroblast,MELK,1.0,0.8547008547008548
+skin,Epithelial cell,MELK,1.0,0.8305647840531563
+esophagusmucosa,Endothelial cell,MELK,1.0857143,0.748182984181274
+prostate,Immune (lymphocyte),MELK,1.0,0.7331378299120235
+heart,Endothelial cell,MELK,1.0377358,0.6941715782580223
+breast,Muscle,MELK,1.0,0.6578947368421052
+skeletalmuscle,Adipocyte,MELK,1.0,0.628930817610063
+esophagusmuscularis,Fibroblast,MELK,1.0,0.5572101066384859
+skin,Muscle,MELK,1.0,0.5376344086021506
+esophagusmucosa,Fibroblast,MELK,1.0666667,0.5328596802841918
+prostate,Endothelial cell,MELK,1.0833334,0.4246284501061571
+esophagusmuscularis,Immune (lymphocyte),MELK,1.0,0.3322259136212624
+esophagusmucosa,Glia,MELK,0.0,0.0
+esophagusmuscularis,Neuron,MELK,0.0,0.0
+prostate,Glia,MELK,0.0,0.0
+skin,Adipocyte,MELK,0.0,0.0
+skeletalmuscle,Glia,MELK,0.0,0.0

@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Myocyte (cardiac),TRPM7,1.329549
+Immune (DC),TRPM7,1.247216
+Epithelial cell (basal keratinocyte),TRPM7,0.8344707
+Myocyte (NMJ-rich),TRPM7,0.78389925
+Immune (alveolar macrophage),TRPM7,0.7781636
+Immune (Langerhans),TRPM7,0.6623122
+Epithelial cell (alveolar type II),TRPM7,0.6595866
+Epithelial cell (basal),TRPM7,0.63541746
+Immune (DC/macrophage),TRPM7,0.6314404
+Epithelial cell (Hillock),TRPM7,0.6053458
+Melanocyte,TRPM7,0.6008022
+Immune (T cell),TRPM7,0.5804885
+Myocyte (sk. muscle),TRPM7,0.57098216
+Immune (NK cell),TRPM7,0.5699794
+Satellite cell,TRPM7,0.56961995
+Myofibroblast,TRPM7,0.55754906
+Epithelial cell (club),TRPM7,0.5554846
+Neuroendocrine,TRPM7,0.54822856
+Fibroblast,TRPM7,0.5449319
+Sweat gland cell,TRPM7,0.54164577
+ICCs,TRPM7,0.5356703
+Immune (B cell),TRPM7,0.5297899
+Epithelial cell (alveolar type I),TRPM7,0.51496947
+Sebaceous gland cell,TRPM7,0.5134216
+Neuronal,TRPM7,0.5078544
+Adipocyte,TRPM7,0.500388
+Epithelial cell (ciliated),TRPM7,0.4944464
+Epithelial cell (cornified keratinocyte),TRPM7,0.4873349
+Epithelial cell (suprabasal keratinocyte),TRPM7,0.47910577
+Pericyte/SMC,TRPM7,0.45610622
+Endothelial cell (vascular),TRPM7,0.4552532
+Schwann cell,TRPM7,0.45484537
+Mucous cell,TRPM7,0.45160216
+Endothelial cell (lymphatic),TRPM7,0.4409237
+Epithelial cell (suprabasal),TRPM7,0.4282693
+Myocyte (smooth muscle),TRPM7,0.42702803
+Epithelial cell (luminal),TRPM7,0.41318968
+Immune (mast cell),TRPM7,0.3817365
+Myoepithelial (basal),TRPM7,0.371728
+"Myocyte (cardiac, cytoplasmic)",TRPM7,0.32314825
+Epithelial cell (mature keratinocyte),TRPM7,0.25121105
+"Myocyte (sk. muscle, cytoplasmic)",TRPM7,0.24232283
+Epithelial cell (squamous),TRPM7,0.110666655

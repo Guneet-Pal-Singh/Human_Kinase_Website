@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Endothelial cell (vascular),PIK3C2A,1.0370996
+Immune (Langerhans),PIK3C2A,0.9516691
+Epithelial cell (cornified keratinocyte),PIK3C2A,0.876912
+Endothelial cell (lymphatic),PIK3C2A,0.7127692
+Neuroendocrine,PIK3C2A,0.6862886
+Epithelial cell (alveolar type II),PIK3C2A,0.65782654
+Mucous cell,PIK3C2A,0.6330841
+Epithelial cell (club),PIK3C2A,0.6190555
+Epithelial cell (basal keratinocyte),PIK3C2A,0.6099115
+Sweat gland cell,PIK3C2A,0.59261286
+Immune (DC),PIK3C2A,0.570366
+Epithelial cell (suprabasal keratinocyte),PIK3C2A,0.56789076
+Immune (DC/macrophage),PIK3C2A,0.56624836
+Epithelial cell (alveolar type I),PIK3C2A,0.54941964
+Myocyte (cardiac),PIK3C2A,0.54535955
+Melanocyte,PIK3C2A,0.54487556
+Myofibroblast,PIK3C2A,0.5240236
+Immune (alveolar macrophage),PIK3C2A,0.5227136
+Immune (mast cell),PIK3C2A,0.51917404
+Immune (NK cell),PIK3C2A,0.517376
+Epithelial cell (Hillock),PIK3C2A,0.5100679
+Epithelial cell (mature keratinocyte),PIK3C2A,0.50608015
+ICCs,PIK3C2A,0.49532294
+Epithelial cell (luminal),PIK3C2A,0.48659703
+Adipocyte,PIK3C2A,0.48363397
+Myocyte (NMJ-rich),PIK3C2A,0.4811909
+Epithelial cell (suprabasal),PIK3C2A,0.45878357
+Myocyte (smooth muscle),PIK3C2A,0.45667592
+Schwann cell,PIK3C2A,0.45505053
+Epithelial cell (basal),PIK3C2A,0.44587052
+Fibroblast,PIK3C2A,0.4385769
+Pericyte/SMC,PIK3C2A,0.4337021
+Myoepithelial (basal),PIK3C2A,0.40925837
+Satellite cell,PIK3C2A,0.4087045
+Epithelial cell (ciliated),PIK3C2A,0.3748486
+Immune (T cell),PIK3C2A,0.36230624
+Myocyte (sk. muscle),PIK3C2A,0.35686043
+Sebaceous gland cell,PIK3C2A,0.3508746
+Immune (B cell),PIK3C2A,0.29901132
+Neuronal,PIK3C2A,0.2275782
+"Myocyte (cardiac, cytoplasmic)",PIK3C2A,0.20087107
+Epithelial cell (squamous),PIK3C2A,0.19714108
+"Myocyte (sk. muscle, cytoplasmic)",PIK3C2A,0.16883704

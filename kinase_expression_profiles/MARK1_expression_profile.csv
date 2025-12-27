@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Neuronal,MARK1,0.81259125
+Myocyte (cardiac),MARK1,0.5879211
+Adipocyte,MARK1,0.547821
+Pericyte/SMC,MARK1,0.53473127
+Neuroendocrine,MARK1,0.4524464
+Epithelial cell (suprabasal),MARK1,0.38800126
+Myofibroblast,MARK1,0.3350366
+ICCs,MARK1,0.3010169
+Epithelial cell (ciliated),MARK1,0.29957205
+Epithelial cell (basal),MARK1,0.2700834
+Myocyte (smooth muscle),MARK1,0.2583521
+Endothelial cell (lymphatic),MARK1,0.25032327
+Schwann cell,MARK1,0.24428457
+Myoepithelial (basal),MARK1,0.24099873
+Fibroblast,MARK1,0.17278929
+Mucous cell,MARK1,0.15269797
+Sweat gland cell,MARK1,0.1428188
+Epithelial cell (Hillock),MARK1,0.13565575
+"Myocyte (cardiac, cytoplasmic)",MARK1,0.1309309
+Epithelial cell (luminal),MARK1,0.12138965
+Epithelial cell (suprabasal keratinocyte),MARK1,0.119968385
+Satellite cell,MARK1,0.11692675
+Epithelial cell (club),MARK1,0.103779875
+Myocyte (NMJ-rich),MARK1,0.101526916
+Immune (DC),MARK1,0.08791276
+Epithelial cell (squamous),MARK1,0.08762842
+Endothelial cell (vascular),MARK1,0.08018678
+Immune (mast cell),MARK1,0.07650085
+Epithelial cell (basal keratinocyte),MARK1,0.05962733
+Epithelial cell (mature keratinocyte),MARK1,0.0561872
+Myocyte (sk. muscle),MARK1,0.047258236
+Immune (alveolar macrophage),MARK1,0.041950855
+Melanocyte,MARK1,0.04126527
+Epithelial cell (cornified keratinocyte),MARK1,0.03892853
+Immune (B cell),MARK1,0.033275787
+Epithelial cell (alveolar type II),MARK1,0.024751967
+"Myocyte (sk. muscle, cytoplasmic)",MARK1,0.01679554
+Immune (NK cell),MARK1,0.014581053
+Epithelial cell (alveolar type I),MARK1,0.014465617
+Immune (DC/macrophage),MARK1,0.012163988
+Immune (T cell),MARK1,0.0056529874
+Immune (Langerhans),MARK1,0.0
+Sebaceous gland cell,MARK1,0.0

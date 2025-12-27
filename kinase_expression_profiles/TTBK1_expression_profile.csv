@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Neuronal,TTBK1,0.30175337
+Immune (alveolar macrophage),TTBK1,0.03328049
+ICCs,TTBK1,0.033182174
+Neuroendocrine,TTBK1,0.03305628
+Myocyte (NMJ-rich),TTBK1,0.022449601
+Epithelial cell (ciliated),TTBK1,0.019793632
+Immune (NK cell),TTBK1,0.018047158
+Epithelial cell (alveolar type I),TTBK1,0.016806759
+Myocyte (smooth muscle),TTBK1,0.015552022
+Epithelial cell (alveolar type II),TTBK1,0.015293047
+Myocyte (cardiac),TTBK1,0.014686607
+Immune (B cell),TTBK1,0.012645509
+Myofibroblast,TTBK1,0.012369302
+Epithelial cell (Hillock),TTBK1,0.011666611
+Epithelial cell (club),TTBK1,0.011569197
+Myocyte (sk. muscle),TTBK1,0.011055572
+Pericyte/SMC,TTBK1,0.010510521
+Schwann cell,TTBK1,0.0104663
+Sebaceous gland cell,TTBK1,0.010428737
+Epithelial cell (suprabasal keratinocyte),TTBK1,0.010056809
+Adipocyte,TTBK1,0.009911289
+Fibroblast,TTBK1,0.009702551
+Immune (T cell),TTBK1,0.009563489
+Endothelial cell (vascular),TTBK1,0.00901924
+Satellite cell,TTBK1,0.008557194
+Epithelial cell (basal),TTBK1,0.00841426
+Myoepithelial (basal),TTBK1,0.0076495945
+Endothelial cell (lymphatic),TTBK1,0.007287729
+Immune (DC/macrophage),TTBK1,0.007180778
+Epithelial cell (luminal),TTBK1,0.0067965426
+Epithelial cell (suprabasal),TTBK1,0.0050484785
+Mucous cell,TTBK1,0.004807667
+Epithelial cell (basal keratinocyte),TTBK1,0.0036553282
+"Myocyte (cardiac, cytoplasmic)",TTBK1,0.0015422038
+Epithelial cell (squamous),TTBK1,0.00066455983
+Epithelial cell (cornified keratinocyte),TTBK1,0.0
+Melanocyte,TTBK1,0.0
+Immune (DC),TTBK1,0.0
+Immune (Langerhans),TTBK1,0.0
+Epithelial cell (mature keratinocyte),TTBK1,0.0
+Immune (mast cell),TTBK1,0.0
+"Myocyte (sk. muscle, cytoplasmic)",TTBK1,0.0
+Sweat gland cell,TTBK1,0.0

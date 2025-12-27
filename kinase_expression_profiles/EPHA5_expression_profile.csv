@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Melanocyte,EPHA5,0.634675
+Neuronal,EPHA5,0.48851845
+Epithelial cell (cornified keratinocyte),EPHA5,0.21386884
+Immune (Langerhans),EPHA5,0.20581889
+Sweat gland cell,EPHA5,0.179707
+Epithelial cell (luminal),EPHA5,0.17390218
+Schwann cell,EPHA5,0.1479331
+Immune (alveolar macrophage),EPHA5,0.14646271
+Epithelial cell (suprabasal keratinocyte),EPHA5,0.13710606
+Epithelial cell (mature keratinocyte),EPHA5,0.12939826
+Myoepithelial (basal),EPHA5,0.12914462
+Epithelial cell (ciliated),EPHA5,0.12383928
+Epithelial cell (alveolar type II),EPHA5,0.11280631
+Epithelial cell (basal keratinocyte),EPHA5,0.11172089
+Satellite cell,EPHA5,0.109959744
+Fibroblast,EPHA5,0.09903328
+Myocyte (smooth muscle),EPHA5,0.098007016
+Myocyte (NMJ-rich),EPHA5,0.0962543
+Sebaceous gland cell,EPHA5,0.093276344
+Myocyte (cardiac),EPHA5,0.09261747
+Epithelial cell (alveolar type I),EPHA5,0.089223355
+Myocyte (sk. muscle),EPHA5,0.08866824
+ICCs,EPHA5,0.07913333
+Endothelial cell (vascular),EPHA5,0.07889823
+Immune (mast cell),EPHA5,0.075273156
+Epithelial cell (Hillock),EPHA5,0.07474906
+Neuroendocrine,EPHA5,0.07126529
+Epithelial cell (club),EPHA5,0.07073613
+Immune (DC),EPHA5,0.069737874
+Adipocyte,EPHA5,0.06810303
+Immune (B cell),EPHA5,0.065317184
+Pericyte/SMC,EPHA5,0.06411745
+Endothelial cell (lymphatic),EPHA5,0.05924526
+Myofibroblast,EPHA5,0.05776025
+Immune (DC/macrophage),EPHA5,0.05061874
+Mucous cell,EPHA5,0.049078777
+Epithelial cell (basal),EPHA5,0.04715853
+Immune (T cell),EPHA5,0.03665792
+Epithelial cell (suprabasal),EPHA5,0.028621899
+Epithelial cell (squamous),EPHA5,0.027555251
+Immune (NK cell),EPHA5,0.025071954
+"Myocyte (sk. muscle, cytoplasmic)",EPHA5,0.019339776
+"Myocyte (cardiac, cytoplasmic)",EPHA5,0.0108577525

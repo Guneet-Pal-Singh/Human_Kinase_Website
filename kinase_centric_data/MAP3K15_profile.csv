@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+lung,Immune (myeloid),MAP3K15,1.3788819,13.198885063125102
+lung,Muscle,MAP3K15,1.2631578,11.65644171779141
+lung,Epithelial cell,MAP3K15,1.3143231,9.541017653167186
+lung,Endothelial cell,MAP3K15,1.1148937,8.557902403495994
+esophagusmuscularis,Neuron,MAP3K15,1.0,8.0
+esophagusmuscularis,Adipocyte,MAP3K15,1.0,6.285714285714287
+lung,Fibroblast,MAP3K15,1.2068965,5.894308943089431
+skeletalmuscle,Muscle,MAP3K15,1.0860786,4.169066501262683
+heart,Muscle,MAP3K15,1.0867469,3.43998673740053
+skin,Adipocyte,MAP3K15,1.0,3.225806451612903
+lung,Immune (lymphocyte),MAP3K15,1.0909091,3.034482758620689
+breast,Muscle,MAP3K15,1.0,2.631578947368421
+skeletalmuscle,Adipocyte,MAP3K15,1.0,2.515723270440252
+skin,Epithelial cell,MAP3K15,1.0,2.3255813953488373
+heart,Adipocyte,MAP3K15,1.0,2.072538860103627
+breast,Adipocyte,MAP3K15,1.0,1.8739352640545144
+esophagusmuscularis,Muscle,MAP3K15,1.0368853,1.6409980496334655
+skin,Muscle,MAP3K15,1.0,1.6129032258064515
+esophagusmuscularis,Endothelial cell,MAP3K15,1.0140845,1.591571396547859
+prostate,Muscle,MAP3K15,1.0285715,1.560410164957646
+esophagusmucosa,Glia,MAP3K15,1.0,1.5384615384615383
+esophagusmucosa,Stromal,MAP3K15,1.0,1.5166835187057632
+prostate,Fibroblast,MAP3K15,1.0,1.4010507880910683
+breast,Immune (myeloid),MAP3K15,1.0,1.3966480446927374
+breast,Endothelial cell,MAP3K15,1.0,1.362088535754824
+esophagusmuscularis,Immune (lymphocyte),MAP3K15,1.0,1.32890365448505
+esophagusmucosa,Epithelial cell,MAP3K15,1.0222223,1.3047260075384168
+esophagusmuscularis,Fibroblast,MAP3K15,1.0296296,1.2969545585550966
+esophagusmuscularis,Immune (myeloid),MAP3K15,1.027027,1.2487343908201147
+esophagusmuscularis,Glia,MAP3K15,1.0,1.2371134020618555
+skeletalmuscle,Fibroblast,MAP3K15,1.0,1.1944818304172276
+breast,Epithelial cell,MAP3K15,1.0147059,1.1726159682703914
+skin,Fibroblast,MAP3K15,1.0,1.1342155009451798
+skin,Immune (myeloid),MAP3K15,1.0,1.11731843575419
+breast,Fibroblast,MAP3K15,1.0,1.098901098901099
+prostate,Epithelial cell,MAP3K15,1.0079365,1.092185671564166
+skin,Epithelial cell (keratinocyte),MAP3K15,1.0952381,1.078582434514638
+skeletalmuscle,Immune (lymphocyte),MAP3K15,1.0,1.0
+skeletalmuscle,Endothelial cell,MAP3K15,1.0,0.9015777610818932
+prostate,Endothelial cell,MAP3K15,1.0,0.8846426043878274
+prostate,Immune (myeloid),MAP3K15,1.0,0.8754863813229572
+esophagusmucosa,Endothelial cell,MAP3K15,1.0,0.8550662676357419
+heart,Fibroblast,MAP3K15,1.0128205,0.8398837084096049
+esophagusmucosa,Muscle,MAP3K15,1.0,0.7984031936127743
+heart,Endothelial cell,MAP3K15,1.0,0.7858546168958742
+skin,Endothelial cell,MAP3K15,1.125,0.7820136852394917
+skin,Melanocyte,MAP3K15,1.5,0.7352941176470588
+prostate,Immune (lymphocyte),MAP3K15,1.0,0.7331378299120235
+heart,Immune (lymphocyte),MAP3K15,1.2,0.7163323782234957
+skeletalmuscle,Immune (myeloid),MAP3K15,1.0,0.6784260515603799
+esophagusmucosa,Fibroblast,MAP3K15,1.0,0.6394316163410302
+heart,Immune (myeloid),MAP3K15,1.0,0.5782153461478357
+esophagusmucosa,Immune (myeloid),MAP3K15,1.0,0.3576537911301859
+esophagusmucosa,Immune (lymphocyte),MAP3K15,1.0,0.275027502750275
+heart,Glia,MAP3K15,0.0,0.0
+prostate,Glia,MAP3K15,0.0,0.0
+skeletalmuscle,Glia,MAP3K15,0.0,0.0
+skin,Immune (lymphocyte),MAP3K15,0.0,0.0
+skin,Other,MAP3K15,0.0,0.0

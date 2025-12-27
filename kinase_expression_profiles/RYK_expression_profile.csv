@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (basal keratinocyte),RYK,0.8704122
+Epithelial cell (mature keratinocyte),RYK,0.6725731
+Epithelial cell (cornified keratinocyte),RYK,0.601965
+Epithelial cell (Hillock),RYK,0.5972304
+Sweat gland cell,RYK,0.55449235
+Epithelial cell (suprabasal keratinocyte),RYK,0.5472544
+Immune (Langerhans),RYK,0.5424178
+Mucous cell,RYK,0.5408878
+Myoepithelial (basal),RYK,0.5353504
+Neuroendocrine,RYK,0.53149307
+Epithelial cell (basal),RYK,0.5301991
+Myofibroblast,RYK,0.5165529
+Epithelial cell (club),RYK,0.48816818
+Sebaceous gland cell,RYK,0.45369127
+Epithelial cell (suprabasal),RYK,0.44625974
+Epithelial cell (luminal),RYK,0.43544874
+Immune (DC),RYK,0.3814289
+Adipocyte,RYK,0.34986648
+Epithelial cell (squamous),RYK,0.3468559
+Endothelial cell (lymphatic),RYK,0.34498554
+Epithelial cell (alveolar type II),RYK,0.33472025
+Myocyte (cardiac),RYK,0.31892118
+Pericyte/SMC,RYK,0.3125372
+Endothelial cell (vascular),RYK,0.2960484
+Epithelial cell (alveolar type I),RYK,0.2957478
+ICCs,RYK,0.29526672
+Myocyte (smooth muscle),RYK,0.29419526
+Immune (alveolar macrophage),RYK,0.29230997
+Immune (B cell),RYK,0.28745043
+Myocyte (NMJ-rich),RYK,0.27897894
+Fibroblast,RYK,0.27558148
+Epithelial cell (ciliated),RYK,0.24253057
+Melanocyte,RYK,0.23571233
+Myocyte (sk. muscle),RYK,0.23091097
+Satellite cell,RYK,0.22571258
+Immune (mast cell),RYK,0.21514814
+Neuronal,RYK,0.21371149
+Immune (T cell),RYK,0.20220962
+Immune (NK cell),RYK,0.1982334
+Immune (DC/macrophage),RYK,0.19415477
+"Myocyte (cardiac, cytoplasmic)",RYK,0.16719869
+Schwann cell,RYK,0.14267518
+"Myocyte (sk. muscle, cytoplasmic)",RYK,0.12393635

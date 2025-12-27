@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skeletalmuscle,Adipocyte,CLP1,1.0,2.515723270440252
+lung,Fibroblast,CLP1,1.0,2.303523035230352
+skeletalmuscle,Immune (lymphocyte),CLP1,1.0,2.0
+esophagusmuscularis,Adipocyte,CLP1,1.0,1.7142857142857144
+skin,Adipocyte,CLP1,1.0,1.6129032258064515
+prostate,Glia,CLP1,1.0,1.4925373134328357
+esophagusmucosa,Stromal,CLP1,1.25,1.2133468149646107
+prostate,Fibroblast,CLP1,1.0769231,1.138353765323993
+esophagusmucosa,Fibroblast,CLP1,1.0625,1.1367673179396092
+prostate,Muscle,CLP1,1.0,1.1145786892554614
+skeletalmuscle,Fibroblast,CLP1,1.0,1.0767160161507403
+heart,Muscle,CLP1,1.0238096,1.0444297082228116
+heart,Adipocyte,CLP1,1.0,1.0362694300518136
+heart,Fibroblast,CLP1,1.03125,1.0337030257348985
+lung,Immune (myeloid),CLP1,1.0357143,0.9181833087391376
+esophagusmuscularis,Fibroblast,CLP1,1.0212766,0.9030646555865116
+esophagusmuscularis,Muscle,CLP1,1.0245901,0.8204990248167328
+esophagusmucosa,Muscle,CLP1,1.0,0.7984031936127743
+prostate,Immune (myeloid),CLP1,1.0,0.7782101167315175
+esophagusmucosa,Epithelial cell,CLP1,1.029703,0.732096259785445
+esophagusmuscularis,Glia,CLP1,1.0,0.7216494845360825
+prostate,Endothelial cell,CLP1,1.0,0.6723283793347488
+esophagusmuscularis,Immune (lymphocyte),CLP1,1.0,0.6644518272425249
+prostate,Epithelial cell,CLP1,1.0419581,0.6197720279114116
+lung,Muscle,CLP1,1.0,0.6134969325153374
+breast,Fibroblast,CLP1,1.4,0.6105006105006106
+prostate,Immune (lymphocyte),CLP1,1.0,0.5865102639296188
+esophagusmucosa,Immune (myeloid),CLP1,1.0,0.5722460658082975
+breast,Immune (myeloid),CLP1,1.0,0.5586592178770949
+skin,Immune (myeloid),CLP1,1.0,0.5586592178770949
+skeletalmuscle,Immune (myeloid),CLP1,1.0,0.5427408412483039
+lung,Epithelial cell,CLP1,1.015748,0.5275181723779855
+lung,Endothelial cell,CLP1,1.0,0.5098324836125273
+breast,Epithelial cell,CLP1,1.0689656,0.5000862217623728
+heart,Endothelial cell,CLP1,1.0555556,0.4715127701375246
+esophagusmucosa,Endothelial cell,CLP1,1.0952381,0.4489097905087644
+esophagusmuscularis,Immune (myeloid),CLP1,1.0,0.4387445156935539
+breast,Adipocyte,CLP1,1.0,0.3975014196479273
+skeletalmuscle,Endothelial cell,CLP1,1.0,0.3756574004507889
+skin,Melanocyte,CLP1,1.0,0.3676470588235294
+heart,Glia,CLP1,1.0,0.3355704697986577
+skin,Epithelial cell,CLP1,1.0,0.3322259136212624
+heart,Immune (lymphocyte),CLP1,1.0,0.2865329512893982
+lung,Immune (lymphocyte),CLP1,1.0,0.2758620689655172
+esophagusmuscularis,Endothelial cell,CLP1,1.0,0.2689979825151311
+skeletalmuscle,Muscle,CLP1,1.0,0.2613973683044615
+heart,Immune (myeloid),CLP1,1.0,0.2344116268166901
+breast,Endothelial cell,CLP1,1.0,0.2270147559591373
+skin,Other,CLP1,1.0,0.2212389380530973
+skin,Fibroblast,CLP1,1.0,0.1890359168241966
+skin,Epithelial cell (keratinocyte),CLP1,1.0,0.1540832049306625
+esophagusmucosa,Immune (lymphocyte),CLP1,1.0,0.11001100110011
+skin,Endothelial cell,CLP1,1.0,0.0977517106549364
+breast,Muscle,CLP1,0.0,0.0
+esophagusmucosa,Glia,CLP1,0.0,0.0
+esophagusmuscularis,Neuron,CLP1,0.0,0.0
+skeletalmuscle,Glia,CLP1,0.0,0.0
+skin,Immune (lymphocyte),CLP1,0.0,0.0
+skin,Muscle,CLP1,0.0,0.0

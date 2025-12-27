@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Neuron,NPR2,1.0,4.0
+skeletalmuscle,Glia,NPR2,1.0,2.857142857142857
+esophagusmucosa,Stromal,NPR2,1.0357143,2.8311425682507583
+skin,Epithelial cell,NPR2,1.625,2.6578073089701
+prostate,Glia,NPR2,1.0,1.4925373134328357
+heart,Fibroblast,NPR2,1.0086956,1.2382900829115968
+esophagusmucosa,Fibroblast,NPR2,1.0294118,1.2078152753108349
+esophagusmuscularis,Adipocyte,NPR2,1.0,1.1428571428571428
+prostate,Fibroblast,NPR2,1.0,1.138353765323993
+heart,Muscle,NPR2,1.015748,1.052718832891247
+esophagusmuscularis,Glia,NPR2,1.0,1.0309278350515465
+lung,Fibroblast,NPR2,1.0666667,1.016260162601626
+esophagusmuscularis,Fibroblast,NPR2,1.039604,0.9703141512152944
+prostate,Muscle,NPR2,1.15,0.8916629514043692
+skeletalmuscle,Fibroblast,NPR2,1.0,0.8075370121130552
+esophagusmuscularis,Muscle,NPR2,1.0086207,0.7801466137601721
+skin,Fibroblast,NPR2,1.0,0.7561436672967864
+skin,Melanocyte,NPR2,1.5,0.7352941176470588
+lung,Muscle,NPR2,1.0,0.6134969325153374
+esophagusmucosa,Muscle,NPR2,1.0,0.5988023952095809
+esophagusmucosa,Endothelial cell,NPR2,1.037037,0.5771697306541257
+heart,Adipocyte,NPR2,1.0,0.5181347150259068
+breast,Adipocyte,NPR2,1.1111112,0.5110732538330494
+heart,Endothelial cell,NPR2,1.0,0.4846103470857891
+prostate,Epithelial cell,NPR2,1.018018,0.4810817839032635
+prostate,Endothelial cell,NPR2,1.0,0.4600141542816702
+lung,Epithelial cell,NPR2,1.0366973,0.4527518172377985
+skeletalmuscle,Muscle,NPR2,1.029703,0.4474768508262815
+skin,Other,NPR2,1.0,0.4424778761061947
+breast,Fibroblast,NPR2,1.0,0.3663003663003663
+esophagusmuscularis,Endothelial cell,NPR2,1.0,0.3586639766868415
+esophagusmucosa,Immune (myeloid),NPR2,1.0,0.3576537911301859
+skeletalmuscle,Immune (myeloid),NPR2,1.0,0.2713704206241519
+skeletalmuscle,Endothelial cell,NPR2,1.0,0.2253944402704733
+lung,Endothelial cell,NPR2,1.0,0.2184996358339402
+prostate,Immune (myeloid),NPR2,1.0,0.1945525291828793
+esophagusmucosa,Epithelial cell,NPR2,1.0,0.1812119454914467
+prostate,Immune (lymphocyte),NPR2,1.0,0.1466275659824047
+heart,Immune (lymphocyte),NPR2,1.0,0.1432664756446991
+breast,Epithelial cell,NPR2,1.0,0.1379548197965166
+lung,Immune (lymphocyte),NPR2,1.0,0.1379310344827586
+esophagusmuscularis,Immune (myeloid),NPR2,1.0,0.1349983125210934
+lung,Immune (myeloid),NPR2,1.0,0.0983767830791933
+skin,Endothelial cell,NPR2,1.0,0.0977517106549364
+heart,Immune (myeloid),NPR2,1.0,0.0625097671511173
+skin,Epithelial cell (keratinocyte),NPR2,1.0,0.0513610683102208
+esophagusmucosa,Glia,NPR2,0.0,0.0
+breast,Muscle,NPR2,0.0,0.0
+breast,Immune (myeloid),NPR2,0.0,0.0
+esophagusmucosa,Immune (lymphocyte),NPR2,0.0,0.0
+breast,Endothelial cell,NPR2,0.0,0.0
+heart,Glia,NPR2,0.0,0.0
+esophagusmuscularis,Immune (lymphocyte),NPR2,0.0,0.0
+skeletalmuscle,Adipocyte,NPR2,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),NPR2,0.0,0.0
+skin,Adipocyte,NPR2,0.0,0.0
+skin,Immune (lymphocyte),NPR2,0.0,0.0
+skin,Immune (myeloid),NPR2,0.0,0.0
+skin,Muscle,NPR2,0.0,0.0

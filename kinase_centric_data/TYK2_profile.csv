@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmucosa,Immune (myeloid),TYK2,1.146789,15.593705293276107
+esophagusmucosa,Stromal,TYK2,1.1475409,12.335692618806876
+lung,Immune (myeloid),TYK2,1.0638298,10.018035743564518
+breast,Immune (myeloid),TYK2,1.1142857,9.776536312849162
+skin,Immune (myeloid),TYK2,1.125,8.938547486033519
+esophagusmucosa,Epithelial cell,TYK2,1.0935065,8.371991881704842
+skin,Immune (lymphocyte),TYK2,1.0,8.0
+prostate,Immune (myeloid),TYK2,1.0487804,7.976653696498054
+prostate,Glia,TYK2,1.2,7.462686567164178
+skin,Epithelial cell (keratinocyte),TYK2,1.0909091,6.779661016949152
+esophagusmucosa,Endothelial cell,TYK2,1.0385852,6.6481402308678925
+breast,Adipocyte,TYK2,1.0940171,6.643952299829642
+breast,Muscle,TYK2,1.0,6.578947368421052
+esophagusmucosa,Immune (lymphocyte),TYK2,1.0420169,6.545654565456546
+esophagusmuscularis,Adipocyte,TYK2,1.0909091,6.285714285714287
+esophagusmucosa,Muscle,TYK2,1.0645162,6.187624750499002
+lung,Epithelial cell,TYK2,1.0482855,5.935617860851506
+skin,Endothelial cell,TYK2,1.0333333,5.865102639296188
+esophagusmucosa,Fibroblast,TYK2,1.0363636,5.86145648312611
+skeletalmuscle,Glia,TYK2,1.0,5.714285714285714
+esophagusmuscularis,Immune (myeloid),TYK2,1.0532545,5.7036787040162
+heart,Muscle,TYK2,1.0461309,5.570291777188329
+breast,Endothelial cell,TYK2,1.0612245,5.561861520998865
+breast,Fibroblast,TYK2,1.0666667,5.494505494505495
+breast,Epithelial cell,TYK2,1.0526316,5.242283152267632
+lung,Immune (lymphocyte),TYK2,1.1351352,5.103448275862069
+skin,Other,TYK2,1.0,5.08849557522124
+prostate,Epithelial cell,TYK2,1.0546255,4.9191695921640015
+skin,Adipocyte,TYK2,1.0,4.838709677419355
+heart,Immune (myeloid),TYK2,1.020979,4.469448351304892
+prostate,Muscle,TYK2,1.01,4.458314757021846
+skin,Melanocyte,TYK2,1.0833334,4.411764705882353
+skin,Muscle,TYK2,1.125,4.301075268817205
+lung,Muscle,TYK2,1.0,4.294478527607362
+lung,Endothelial cell,TYK2,1.036036,4.042243262927895
+lung,Fibroblast,TYK2,1.0,3.997289972899729
+skin,Epithelial cell,TYK2,1.125,3.986710963455149
+skin,Fibroblast,TYK2,1.0952381,3.969754253308128
+prostate,Endothelial cell,TYK2,1.0550458,3.8570417551309273
+skeletalmuscle,Immune (myeloid),TYK2,1.0,3.6635006784260513
+esophagusmuscularis,Immune (lymphocyte),TYK2,1.0,3.654485049833888
+esophagusmuscularis,Muscle,TYK2,1.025145,3.4770327527069744
+esophagusmuscularis,Endothelial cell,TYK2,1.0331125,3.384891279982067
+heart,Immune (lymphocyte),TYK2,1.0,3.151862464183381
+heart,Endothelial cell,TYK2,1.0375,3.143418467583497
+heart,Fibroblast,TYK2,1.0137931,3.1226445569075048
+heart,Adipocyte,TYK2,1.0,3.1088082901554404
+esophagusmucosa,Glia,TYK2,1.0,3.076923076923077
+prostate,Fibroblast,TYK2,1.0882353,2.9772329246935203
+esophagusmuscularis,Fibroblast,TYK2,1.0291971,2.6323374003266404
+esophagusmuscularis,Glia,TYK2,1.0434783,2.3711340206185567
+skeletalmuscle,Fibroblast,TYK2,1.0142857,2.355316285329744
+prostate,Immune (lymphocyte),TYK2,1.0625,2.346041055718475
+skeletalmuscle,Muscle,TYK2,1.0171306,2.0690266270878563
+heart,Glia,TYK2,1.1666666,2.013422818791946
+skeletalmuscle,Adipocyte,TYK2,1.0,1.8867924528301887
+skeletalmuscle,Endothelial cell,TYK2,1.0416666,1.8031555221637865
+skeletalmuscle,Immune (lymphocyte),TYK2,2.0,1.0
+esophagusmuscularis,Neuron,TYK2,0.0,0.0

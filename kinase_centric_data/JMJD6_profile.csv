@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+heart,Muscle,JMJD6,1.14,7.8746684350132625
+skin,Adipocyte,JMJD6,1.0,6.451612903225806
+esophagusmucosa,Glia,JMJD6,1.0,6.153846153846154
+esophagusmuscularis,Adipocyte,JMJD6,1.2,5.714285714285714
+esophagusmuscularis,Muscle,JMJD6,1.0532178,5.434124688950165
+esophagusmucosa,Stromal,JMJD6,1.1698114,5.358948432760364
+skin,Muscle,JMJD6,1.0,4.838709677419355
+prostate,Glia,JMJD6,1.0,4.477611940298507
+prostate,Muscle,JMJD6,1.0404041,4.413731609451627
+prostate,Immune (myeloid),JMJD6,1.0,4.3774319066147855
+skeletalmuscle,Adipocyte,JMJD6,1.0,3.7735849056603774
+lung,Immune (myeloid),JMJD6,1.0657895,3.738317757009345
+esophagusmucosa,Immune (myeloid),JMJD6,1.0408163,3.5050071530758222
+skin,Melanocyte,JMJD6,1.0,3.308823529411765
+breast,Muscle,JMJD6,1.0,3.289473684210526
+skin,Other,JMJD6,1.1428572,3.0973451327433628
+lung,Muscle,JMJD6,1.0,3.067484662576687
+esophagusmucosa,Muscle,JMJD6,1.0,2.7944111776447107
+lung,Epithelial cell,JMJD6,1.0257967,2.7372793354101765
+esophagusmuscularis,Glia,JMJD6,1.0,2.6804123711340204
+prostate,Fibroblast,JMJD6,1.0,2.539404553415061
+esophagusmucosa,Epithelial cell,JMJD6,1.0257143,2.536967236880255
+lung,Fibroblast,JMJD6,1.0,2.5067750677506777
+breast,Adipocyte,JMJD6,1.0454545,2.4985803520726857
+prostate,Epithelial cell,JMJD6,1.0253624,2.392406709140554
+skin,Epithelial cell,JMJD6,1.0714285,2.3255813953488373
+lung,Endothelial cell,JMJD6,1.0333333,2.1849963583394025
+heart,Immune (lymphocyte),JMJD6,1.0,2.148997134670487
+heart,Fibroblast,JMJD6,1.0203046,2.1212447507268224
+esophagusmucosa,Fibroblast,JMJD6,1.0,2.0603907637655414
+heart,Immune (myeloid),JMJD6,1.0229008,2.0471948741990937
+skeletalmuscle,Immune (lymphocyte),JMJD6,1.0,2.0
+skin,Fibroblast,JMJD6,1.0,1.890359168241966
+prostate,Endothelial cell,JMJD6,1.0,1.875442321302194
+heart,Endothelial cell,JMJD6,1.007353,1.7812704649639817
+esophagusmuscularis,Fibroblast,JMJD6,1.010929,1.758093957152464
+esophagusmucosa,Endothelial cell,JMJD6,1.0,1.7528858486532708
+esophagusmuscularis,Immune (myeloid),JMJD6,1.0,1.6874789065136686
+heart,Glia,JMJD6,1.0,1.6778523489932886
+skin,Immune (myeloid),JMJD6,1.0,1.675977653631285
+skeletalmuscle,Fibroblast,JMJD6,1.020202,1.6655450874831763
+skeletalmuscle,Endothelial cell,JMJD6,1.1363636,1.6528925619834711
+esophagusmucosa,Immune (lymphocyte),JMJD6,1.0333333,1.65016501650165
+heart,Adipocyte,JMJD6,1.0,1.5544041450777202
+skin,Endothelial cell,JMJD6,1.0666667,1.466275659824047
+lung,Immune (lymphocyte),JMJD6,1.0,1.3793103448275863
+skeletalmuscle,Immune (myeloid),JMJD6,1.0,1.35685210312076
+esophagusmuscularis,Immune (lymphocyte),JMJD6,1.0,1.32890365448505
+esophagusmuscularis,Endothelial cell,JMJD6,1.0172414,1.3001569154898005
+breast,Endothelial cell,JMJD6,1.0,1.2485811577752552
+breast,Fibroblast,JMJD6,1.0,1.221001221001221
+skin,Epithelial cell (keratinocyte),JMJD6,1.0,1.1813045711350796
+skeletalmuscle,Muscle,JMJD6,1.027668,1.1209073590004872
+prostate,Immune (lymphocyte),JMJD6,1.1428572,1.0263929618768328
+breast,Epithelial cell,JMJD6,1.0344827,1.0001724435247457
+breast,Immune (myeloid),JMJD6,1.0,0.8379888268156425
+esophagusmuscularis,Neuron,JMJD6,0.0,0.0
+skeletalmuscle,Glia,JMJD6,0.0,0.0
+skin,Immune (lymphocyte),JMJD6,0.0,0.0

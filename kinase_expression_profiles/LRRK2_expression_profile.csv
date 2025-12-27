@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (alveolar type II),LRRK2,2.2962923
+Immune (DC/macrophage),LRRK2,0.61999583
+Myofibroblast,LRRK2,0.4315421
+Immune (Langerhans),LRRK2,0.42353734
+Epithelial cell (club),LRRK2,0.3876424
+Immune (B cell),LRRK2,0.38179797
+Immune (DC),LRRK2,0.38032553
+Epithelial cell (suprabasal),LRRK2,0.37943894
+Epithelial cell (ciliated),LRRK2,0.37269652
+Fibroblast,LRRK2,0.31584305
+ICCs,LRRK2,0.29341888
+Epithelial cell (alveolar type I),LRRK2,0.2742173
+Myocyte (smooth muscle),LRRK2,0.24852133
+Mucous cell,LRRK2,0.2470567
+Melanocyte,LRRK2,0.23229268
+Schwann cell,LRRK2,0.2199952
+Neuronal,LRRK2,0.20654878
+Myocyte (cardiac),LRRK2,0.19877054
+Immune (alveolar macrophage),LRRK2,0.18962175
+Epithelial cell (suprabasal keratinocyte),LRRK2,0.18843521
+Epithelial cell (squamous),LRRK2,0.18704648
+Endothelial cell (vascular),LRRK2,0.15848042
+Epithelial cell (basal),LRRK2,0.15754293
+Epithelial cell (mature keratinocyte),LRRK2,0.14839916
+Satellite cell,LRRK2,0.14239115
+Epithelial cell (basal keratinocyte),LRRK2,0.14172019
+Endothelial cell (lymphatic),LRRK2,0.13293283
+Pericyte/SMC,LRRK2,0.13287936
+Myoepithelial (basal),LRRK2,0.12715271
+Immune (mast cell),LRRK2,0.12582853
+Sweat gland cell,LRRK2,0.112875335
+Myocyte (NMJ-rich),LRRK2,0.11168858
+Myocyte (sk. muscle),LRRK2,0.09087256
+"Myocyte (cardiac, cytoplasmic)",LRRK2,0.07661893
+Adipocyte,LRRK2,0.07433912
+Epithelial cell (Hillock),LRRK2,0.064412214
+"Myocyte (sk. muscle, cytoplasmic)",LRRK2,0.05973294
+Epithelial cell (cornified keratinocyte),LRRK2,0.057388593
+Sebaceous gland cell,LRRK2,0.04621128
+Epithelial cell (luminal),LRRK2,0.044258025
+Immune (T cell),LRRK2,0.03364766
+Immune (NK cell),LRRK2,0.033351414
+Neuroendocrine,LRRK2,0.0

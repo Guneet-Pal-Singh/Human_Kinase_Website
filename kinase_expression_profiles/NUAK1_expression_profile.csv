@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Endothelial cell (vascular),NUAK1,0.68424964
+Myocyte (cardiac),NUAK1,0.6261047
+Adipocyte,NUAK1,0.3500531
+"Myocyte (cardiac, cytoplasmic)",NUAK1,0.330675
+Epithelial cell (basal),NUAK1,0.28286487
+Epithelial cell (Hillock),NUAK1,0.25561875
+Pericyte/SMC,NUAK1,0.20700894
+"Myocyte (sk. muscle, cytoplasmic)",NUAK1,0.18494342
+Endothelial cell (lymphatic),NUAK1,0.17508686
+Epithelial cell (basal keratinocyte),NUAK1,0.11984067
+Epithelial cell (suprabasal keratinocyte),NUAK1,0.11398136
+Myofibroblast,NUAK1,0.101421595
+Epithelial cell (cornified keratinocyte),NUAK1,0.09510401
+Fibroblast,NUAK1,0.09420384
+Epithelial cell (mature keratinocyte),NUAK1,0.06763623
+Myocyte (sk. muscle),NUAK1,0.06436978
+Sebaceous gland cell,NUAK1,0.06093122
+Epithelial cell (ciliated),NUAK1,0.052215956
+Epithelial cell (club),NUAK1,0.051654045
+Immune (mast cell),NUAK1,0.05039522
+Mucous cell,NUAK1,0.045137893
+Myoepithelial (basal),NUAK1,0.044497848
+Myocyte (NMJ-rich),NUAK1,0.040661965
+Myocyte (smooth muscle),NUAK1,0.036149126
+Epithelial cell (luminal),NUAK1,0.03379786
+Immune (NK cell),NUAK1,0.03349744
+Neuroendocrine,NUAK1,0.03228271
+ICCs,NUAK1,0.03071495
+Schwann cell,NUAK1,0.029042339
+Melanocyte,NUAK1,0.028256994
+Satellite cell,NUAK1,0.027477635
+Sweat gland cell,NUAK1,0.023268573
+Epithelial cell (squamous),NUAK1,0.018411936
+Immune (B cell),NUAK1,0.017910596
+Immune (alveolar macrophage),NUAK1,0.017327176
+Epithelial cell (alveolar type II),NUAK1,0.016611595
+Immune (T cell),NUAK1,0.014972242
+Immune (DC/macrophage),NUAK1,0.012774387
+Epithelial cell (alveolar type I),NUAK1,0.011596665
+Epithelial cell (suprabasal),NUAK1,0.0059148963
+Immune (Langerhans),NUAK1,0.0
+Immune (DC),NUAK1,0.0
+Neuronal,NUAK1,0.0

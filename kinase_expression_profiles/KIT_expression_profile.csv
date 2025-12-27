@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (mast cell),KIT,1.6684301
+Melanocyte,KIT,1.6033565
+ICCs,KIT,1.520152
+Sweat gland cell,KIT,0.4785245
+Myoepithelial (basal),KIT,0.43604633
+Epithelial cell (luminal),KIT,0.3446745
+Epithelial cell (basal keratinocyte),KIT,0.14237744
+Neuroendocrine,KIT,0.10273696
+Mucous cell,KIT,0.069787525
+Immune (Langerhans),KIT,0.068308085
+Sebaceous gland cell,KIT,0.061211806
+Epithelial cell (cornified keratinocyte),KIT,0.058665607
+Schwann cell,KIT,0.051562946
+Myofibroblast,KIT,0.041928306
+Epithelial cell (basal),KIT,0.037507743
+Immune (T cell),KIT,0.035378214
+Myocyte (smooth muscle),KIT,0.03436576
+Immune (DC),KIT,0.027350737
+Satellite cell,KIT,0.026775513
+Endothelial cell (vascular),KIT,0.025922887
+Immune (B cell),KIT,0.025917144
+Immune (NK cell),KIT,0.02413004
+Immune (DC/macrophage),KIT,0.02054765
+Epithelial cell (Hillock),KIT,0.018707363
+Epithelial cell (club),KIT,0.016742669
+Endothelial cell (lymphatic),KIT,0.015648827
+Pericyte/SMC,KIT,0.013942974
+Adipocyte,KIT,0.011714377
+Fibroblast,KIT,0.011310872
+Epithelial cell (squamous),KIT,0.011187153
+Immune (alveolar macrophage),KIT,0.009590482
+Epithelial cell (suprabasal),KIT,0.008546081
+Epithelial cell (suprabasal keratinocyte),KIT,0.007790552
+Epithelial cell (alveolar type II),KIT,0.005775126
+Myocyte (cardiac),KIT,0.0039805453
+Myocyte (sk. muscle),KIT,0.0038179462
+Epithelial cell (alveolar type I),KIT,0.0034431084
+"Myocyte (cardiac, cytoplasmic)",KIT,0.0019240623
+Epithelial cell (ciliated),KIT,0.0
+Epithelial cell (mature keratinocyte),KIT,0.0
+Myocyte (NMJ-rich),KIT,0.0
+"Myocyte (sk. muscle, cytoplasmic)",KIT,0.0
+Neuronal,KIT,0.0

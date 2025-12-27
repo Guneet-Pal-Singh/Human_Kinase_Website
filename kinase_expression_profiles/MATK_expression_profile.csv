@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (NK cell),MATK,0.4265184
+Immune (T cell),MATK,0.07800532
+Epithelial cell (ciliated),MATK,0.073231876
+Neuroendocrine,MATK,0.06014903
+Satellite cell,MATK,0.05988391
+Epithelial cell (alveolar type II),MATK,0.05619084
+Immune (alveolar macrophage),MATK,0.05342314
+Myocyte (NMJ-rich),MATK,0.051381387
+Epithelial cell (mature keratinocyte),MATK,0.04058204
+Sweat gland cell,MATK,0.040102225
+Immune (DC/macrophage),MATK,0.039519347
+Immune (mast cell),MATK,0.036038253
+Schwann cell,MATK,0.034262475
+Myocyte (cardiac),MATK,0.033208895
+Endothelial cell (lymphatic),MATK,0.031486843
+Epithelial cell (alveolar type I),MATK,0.03135424
+Immune (DC),MATK,0.029563246
+Endothelial cell (vascular),MATK,0.026340567
+Myofibroblast,MATK,0.025634682
+Epithelial cell (Hillock),MATK,0.0254326
+Myoepithelial (basal),MATK,0.024510194
+Myocyte (sk. muscle),MATK,0.023837078
+Pericyte/SMC,MATK,0.021278907
+Myocyte (smooth muscle),MATK,0.01997225
+Epithelial cell (club),MATK,0.01985504
+Fibroblast,MATK,0.019837737
+Epithelial cell (suprabasal),MATK,0.019748168
+Epithelial cell (basal),MATK,0.016844327
+Epithelial cell (basal keratinocyte),MATK,0.01648901
+ICCs,MATK,0.015322827
+Epithelial cell (luminal),MATK,0.015112486
+Mucous cell,MATK,0.015003901
+Immune (B cell),MATK,0.014893775
+Sebaceous gland cell,MATK,0.013653385
+Adipocyte,MATK,0.012338268
+Epithelial cell (squamous),MATK,0.012280972
+Epithelial cell (suprabasal keratinocyte),MATK,0.0059342505
+"Myocyte (sk. muscle, cytoplasmic)",MATK,0.0054525402
+"Myocyte (cardiac, cytoplasmic)",MATK,0.0022895073
+Epithelial cell (cornified keratinocyte),MATK,0.0
+Immune (Langerhans),MATK,0.0
+Melanocyte,MATK,0.0
+Neuronal,MATK,0.0

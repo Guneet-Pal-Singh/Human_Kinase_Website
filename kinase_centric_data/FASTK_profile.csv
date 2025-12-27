@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Neuron,FASTK,1.2,20.0
+esophagusmuscularis,Adipocyte,FASTK,1.0454545,12.571428571428571
+heart,Muscle,FASTK,1.1695827,12.317639257294427
+heart,Adipocyte,FASTK,1.0434783,11.917098445595856
+esophagusmucosa,Epithelial cell,FASTK,1.1028833,11.061177152797914
+breast,Adipocyte,FASTK,1.0944444,10.221465076660987
+esophagusmucosa,Stromal,FASTK,1.1443299,9.80788675429727
+skin,Epithelial cell,FASTK,1.1052631,9.46843853820598
+prostate,Epithelial cell,FASTK,1.1231385,7.567286438694579
+skin,Other,FASTK,1.09375,7.079646017699115
+prostate,Muscle,FASTK,1.0522876,6.821221578243423
+esophagusmucosa,Immune (myeloid),FASTK,1.0212766,6.723891273247497
+esophagusmucosa,Fibroblast,FASTK,1.05,6.394316163410302
+breast,Epithelial cell,FASTK,1.0830946,6.018279013623038
+skin,Epithelial cell (keratinocyte),FASTK,1.0769231,6.00924499229584
+prostate,Immune (myeloid),FASTK,1.0166667,5.836575875486381
+skeletalmuscle,Adipocyte,FASTK,1.0,5.660377358490567
+esophagusmuscularis,Muscle,FASTK,1.0508474,5.555181922119846
+prostate,Fibroblast,FASTK,1.0677966,5.166374781085814
+heart,Fibroblast,FASTK,1.0467092,5.0716054700118445
+esophagusmucosa,Immune (lymphocyte),FASTK,1.011236,4.895489548954895
+esophagusmucosa,Glia,FASTK,1.0,4.615384615384616
+esophagusmucosa,Muscle,FASTK,1.0434783,4.590818363273453
+lung,Immune (myeloid),FASTK,1.0361011,4.541728152156091
+skin,Melanocyte,FASTK,1.0,4.411764705882353
+lung,Epithelial cell,FASTK,1.0384237,4.215991692627206
+esophagusmuscularis,Fibroblast,FASTK,1.0234193,4.10221923335575
+heart,Glia,FASTK,1.0833334,4.026845637583892
+esophagusmucosa,Endothelial cell,FASTK,1.0273224,3.9119281744335184
+skin,Muscle,FASTK,1.0,3.763440860215054
+esophagusmuscularis,Immune (myeloid),FASTK,1.0594059,3.408707391157611
+skin,Immune (myeloid),FASTK,1.0,3.35195530726257
+prostate,Endothelial cell,FASTK,1.0212766,3.326256192498231
+lung,Fibroblast,FASTK,1.0204082,3.3197831978319785
+esophagusmuscularis,Glia,FASTK,1.0,3.1958762886597936
+heart,Immune (lymphocyte),FASTK,1.0,3.151862464183381
+prostate,Immune (lymphocyte),FASTK,1.0476191,3.0791788856304985
+lung,Muscle,FASTK,1.2,3.067484662576687
+lung,Immune (lymphocyte),FASTK,1.0454545,3.034482758620689
+heart,Immune (myeloid),FASTK,1.0314136,2.984841381465854
+skeletalmuscle,Glia,FASTK,1.0,2.857142857142857
+breast,Muscle,FASTK,1.0,2.631578947368421
+esophagusmuscularis,Endothelial cell,FASTK,1.0673077,2.33131584846447
+breast,Fibroblast,FASTK,1.0526316,2.31990231990232
+skeletalmuscle,Fibroblast,FASTK,1.0082644,2.0356662180349936
+esophagusmuscularis,Immune (lymphocyte),FASTK,1.0,1.9933554817275747
+heart,Endothelial cell,FASTK,1.0328947,1.990831696136215
+skeletalmuscle,Muscle,FASTK,1.0283018,1.8785166806964688
+lung,Endothelial cell,FASTK,1.0204082,1.7844136926438456
+skin,Fibroblast,FASTK,1.0,1.7013232514177694
+skeletalmuscle,Endothelial cell,FASTK,1.0,1.5026296018031555
+prostate,Glia,FASTK,1.0,1.4925373134328357
+breast,Immune (myeloid),FASTK,1.0,1.3966480446927374
+skin,Immune (lymphocyte),FASTK,1.0,1.3333333333333337
+breast,Endothelial cell,FASTK,1.1,1.135073779795687
+skin,Endothelial cell,FASTK,1.0,0.3910068426197458
+skeletalmuscle,Immune (myeloid),FASTK,1.0,0.2713704206241519
+skin,Adipocyte,FASTK,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),FASTK,0.0,0.0

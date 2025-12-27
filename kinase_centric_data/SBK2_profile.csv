@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skeletalmuscle,Muscle,SBK2,1.0533333,0.6645695804350715
+esophagusmuscularis,Adipocyte,SBK2,1.0,0.5714285714285714
+skin,Fibroblast,SBK2,1.0,0.1890359168241966
+prostate,Fibroblast,SBK2,1.0,0.1751313485113835
+lung,Immune (myeloid),SBK2,1.0,0.1475651746187899
+skeletalmuscle,Immune (myeloid),SBK2,1.0,0.1356852103120759
+heart,Muscle,SBK2,1.0,0.1160477453580901
+lung,Epithelial cell,SBK2,1.0,0.0955347871235721
+esophagusmucosa,Immune (myeloid),SBK2,1.0,0.0715307582260371
+lung,Fibroblast,SBK2,1.0,0.067750677506775
+esophagusmuscularis,Fibroblast,SBK2,1.0,0.0480353540205591
+heart,Fibroblast,SBK2,1.0,0.0430709594056207
+lung,Endothelial cell,SBK2,1.0,0.0364166059723233
+skeletalmuscle,Fibroblast,SBK2,1.0,0.0336473755047106
+esophagusmuscularis,Muscle,SBK2,1.0,0.0269016073710404
+prostate,Epithelial cell,SBK2,1.0,0.0173362805010185
+heart,Immune (myeloid),SBK2,1.0,0.0156274417877793
+esophagusmucosa,Epithelial cell,SBK2,1.0,0.0072484778196578
+esophagusmucosa,Endothelial cell,SBK2,0.0,0.0
+esophagusmucosa,Immune (lymphocyte),SBK2,0.0,0.0
+esophagusmucosa,Glia,SBK2,0.0,0.0
+esophagusmucosa,Fibroblast,SBK2,0.0,0.0
+breast,Muscle,SBK2,0.0,0.0
+breast,Epithelial cell,SBK2,0.0,0.0
+breast,Fibroblast,SBK2,0.0,0.0
+breast,Endothelial cell,SBK2,0.0,0.0
+breast,Adipocyte,SBK2,0.0,0.0
+heart,Immune (lymphocyte),SBK2,0.0,0.0
+heart,Glia,SBK2,0.0,0.0
+heart,Endothelial cell,SBK2,0.0,0.0
+heart,Adipocyte,SBK2,0.0,0.0
+esophagusmuscularis,Immune (myeloid),SBK2,0.0,0.0
+esophagusmuscularis,Neuron,SBK2,0.0,0.0
+esophagusmuscularis,Glia,SBK2,0.0,0.0
+esophagusmuscularis,Immune (lymphocyte),SBK2,0.0,0.0
+esophagusmucosa,Muscle,SBK2,0.0,0.0
+esophagusmucosa,Stromal,SBK2,0.0,0.0
+esophagusmuscularis,Endothelial cell,SBK2,0.0,0.0
+breast,Immune (myeloid),SBK2,0.0,0.0
+lung,Muscle,SBK2,0.0,0.0
+lung,Immune (lymphocyte),SBK2,0.0,0.0
+prostate,Endothelial cell,SBK2,0.0,0.0
+prostate,Glia,SBK2,0.0,0.0
+skeletalmuscle,Adipocyte,SBK2,0.0,0.0
+prostate,Muscle,SBK2,0.0,0.0
+prostate,Immune (myeloid),SBK2,0.0,0.0
+prostate,Immune (lymphocyte),SBK2,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),SBK2,0.0,0.0
+skeletalmuscle,Glia,SBK2,0.0,0.0
+skin,Adipocyte,SBK2,0.0,0.0
+skeletalmuscle,Endothelial cell,SBK2,0.0,0.0
+skin,Endothelial cell,SBK2,0.0,0.0
+skin,Epithelial cell,SBK2,0.0,0.0
+skin,Epithelial cell (keratinocyte),SBK2,0.0,0.0
+skin,Immune (lymphocyte),SBK2,0.0,0.0
+skin,Immune (myeloid),SBK2,0.0,0.0
+skin,Melanocyte,SBK2,0.0,0.0
+skin,Muscle,SBK2,0.0,0.0
+skin,Other,SBK2,0.0,0.0

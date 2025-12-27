@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (basal keratinocyte),FGFR2,1.2575147
+Mucous cell,FGFR2,0.92971534
+Epithelial cell (club),FGFR2,0.9037342
+Epithelial cell (basal),FGFR2,0.86625
+Epithelial cell (Hillock),FGFR2,0.8262626
+Myoepithelial (basal),FGFR2,0.80474204
+Myofibroblast,FGFR2,0.7555565
+Epithelial cell (suprabasal keratinocyte),FGFR2,0.69643945
+Epithelial cell (alveolar type II),FGFR2,0.6779373
+Sweat gland cell,FGFR2,0.6740565
+Sebaceous gland cell,FGFR2,0.6575049
+Epithelial cell (cornified keratinocyte),FGFR2,0.55429995
+Epithelial cell (mature keratinocyte),FGFR2,0.5245869
+Myocyte (smooth muscle),FGFR2,0.45569798
+Epithelial cell (suprabasal),FGFR2,0.42110574
+Epithelial cell (alveolar type I),FGFR2,0.2736287
+Epithelial cell (ciliated),FGFR2,0.26310053
+Epithelial cell (luminal),FGFR2,0.1432686
+Immune (Langerhans),FGFR2,0.13943456
+Epithelial cell (squamous),FGFR2,0.13554037
+Immune (DC),FGFR2,0.11786294
+Melanocyte,FGFR2,0.08924712
+ICCs,FGFR2,0.08627361
+Neuroendocrine,FGFR2,0.07443648
+Schwann cell,FGFR2,0.07387319
+Immune (alveolar macrophage),FGFR2,0.07339566
+Adipocyte,FGFR2,0.06914013
+Satellite cell,FGFR2,0.06597928
+Fibroblast,FGFR2,0.062413633
+Immune (mast cell),FGFR2,0.045138057
+Pericyte/SMC,FGFR2,0.038392738
+Immune (NK cell),FGFR2,0.031482972
+Endothelial cell (vascular),FGFR2,0.031467494
+Myocyte (sk. muscle),FGFR2,0.031120641
+Myocyte (cardiac),FGFR2,0.025051504
+Immune (DC/macrophage),FGFR2,0.024994206
+Immune (B cell),FGFR2,0.024215786
+Endothelial cell (lymphatic),FGFR2,0.021505293
+Immune (T cell),FGFR2,0.01907537
+"Myocyte (cardiac, cytoplasmic)",FGFR2,0.0045992164
+"Myocyte (sk. muscle, cytoplasmic)",FGFR2,0.0022666696
+Myocyte (NMJ-rich),FGFR2,0.0
+Neuronal,FGFR2,0.0

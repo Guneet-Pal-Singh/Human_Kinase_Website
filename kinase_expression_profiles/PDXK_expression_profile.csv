@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (Langerhans),PDXK,1.0687616
+Adipocyte,PDXK,0.9636107
+Sebaceous gland cell,PDXK,0.88932997
+Mucous cell,PDXK,0.6785724
+Epithelial cell (alveolar type I),PDXK,0.6515051
+Epithelial cell (suprabasal),PDXK,0.5541019
+Epithelial cell (squamous),PDXK,0.52634335
+Immune (alveolar macrophage),PDXK,0.45818982
+Epithelial cell (ciliated),PDXK,0.45093715
+Neuronal,PDXK,0.44538876
+Sweat gland cell,PDXK,0.42296955
+Epithelial cell (alveolar type II),PDXK,0.36894372
+Neuroendocrine,PDXK,0.36723745
+Epithelial cell (club),PDXK,0.3568474
+Epithelial cell (luminal),PDXK,0.3524243
+Epithelial cell (basal),PDXK,0.34076694
+Immune (DC/macrophage),PDXK,0.33592623
+Myoepithelial (basal),PDXK,0.2996295
+Epithelial cell (Hillock),PDXK,0.29913884
+"Myocyte (cardiac, cytoplasmic)",PDXK,0.2929529
+Epithelial cell (basal keratinocyte),PDXK,0.2537491
+Epithelial cell (suprabasal keratinocyte),PDXK,0.24992402
+Myofibroblast,PDXK,0.2318496
+Immune (B cell),PDXK,0.21089916
+Myocyte (cardiac),PDXK,0.20995483
+Endothelial cell (lymphatic),PDXK,0.17393114
+Myocyte (smooth muscle),PDXK,0.13868146
+Fibroblast,PDXK,0.12816617
+Immune (T cell),PDXK,0.11708011
+Melanocyte,PDXK,0.11644391
+ICCs,PDXK,0.101493895
+Epithelial cell (cornified keratinocyte),PDXK,0.096005715
+Schwann cell,PDXK,0.093864664
+Immune (mast cell),PDXK,0.0836267
+Pericyte/SMC,PDXK,0.081427366
+Satellite cell,PDXK,0.074179366
+"Myocyte (sk. muscle, cytoplasmic)",PDXK,0.062176447
+Immune (NK cell),PDXK,0.060845815
+Endothelial cell (vascular),PDXK,0.057176694
+Immune (DC),PDXK,0.056246746
+Epithelial cell (mature keratinocyte),PDXK,0.033430226
+Myocyte (sk. muscle),PDXK,0.026598409
+Myocyte (NMJ-rich),PDXK,0.022449601

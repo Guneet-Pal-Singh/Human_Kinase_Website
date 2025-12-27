@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Sebaceous gland cell,SGK2,0.535868
+Adipocyte,SGK2,0.20918977
+Immune (alveolar macrophage),SGK2,0.032975264
+Sweat gland cell,SGK2,0.028626451
+Epithelial cell (basal keratinocyte),SGK2,0.025532968
+Epithelial cell (alveolar type II),SGK2,0.022584379
+Epithelial cell (suprabasal keratinocyte),SGK2,0.020194095
+Epithelial cell (alveolar type I),SGK2,0.018203067
+Satellite cell,SGK2,0.017012773
+Epithelial cell (ciliated),SGK2,0.01602986
+Melanocyte,SGK2,0.015294068
+Pericyte/SMC,SGK2,0.015207789
+Mucous cell,SGK2,0.014850709
+Epithelial cell (basal),SGK2,0.014734274
+Epithelial cell (club),SGK2,0.0136556
+Myoepithelial (basal),SGK2,0.011034239
+ICCs,SGK2,0.011027582
+Endothelial cell (lymphatic),SGK2,0.010628664
+Epithelial cell (luminal),SGK2,0.010520594
+Myofibroblast,SGK2,0.01027062
+Myocyte (sk. muscle),SGK2,0.0092537105
+Schwann cell,SGK2,0.008675497
+Immune (NK cell),SGK2,0.0082253115
+Endothelial cell (vascular),SGK2,0.008055323
+Fibroblast,SGK2,0.007895064
+Immune (mast cell),SGK2,0.006743649
+Epithelial cell (Hillock),SGK2,0.006734576
+Myocyte (smooth muscle),SGK2,0.0066257003
+Epithelial cell (suprabasal),SGK2,0.0059003374
+Myocyte (cardiac),SGK2,0.005514048
+Immune (DC/macrophage),SGK2,0.004196973
+"Myocyte (sk. muscle, cytoplasmic)",SGK2,0.0038043954
+Epithelial cell (squamous),SGK2,0.002792358
+Epithelial cell (cornified keratinocyte),SGK2,0.0
+Epithelial cell (mature keratinocyte),SGK2,0.0
+Immune (T cell),SGK2,0.0
+Immune (Langerhans),SGK2,0.0
+Immune (DC),SGK2,0.0
+Immune (B cell),SGK2,0.0
+Myocyte (NMJ-rich),SGK2,0.0
+"Myocyte (cardiac, cytoplasmic)",SGK2,0.0
+Neuronal,SGK2,0.0
+Neuroendocrine,SGK2,0.0

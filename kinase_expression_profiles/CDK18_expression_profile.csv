@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Myocyte (cardiac),CDK18,0.78910476
+"Myocyte (cardiac, cytoplasmic)",CDK18,0.4336303
+Schwann cell,CDK18,0.26153985
+Neuroendocrine,CDK18,0.22489005
+Mucous cell,CDK18,0.20482558
+Satellite cell,CDK18,0.18476489
+Epithelial cell (Hillock),CDK18,0.17689796
+Epithelial cell (basal),CDK18,0.16449527
+Pericyte/SMC,CDK18,0.15681142
+Epithelial cell (club),CDK18,0.15305284
+Epithelial cell (alveolar type I),CDK18,0.15040584
+Myoepithelial (basal),CDK18,0.13439983
+Immune (alveolar macrophage),CDK18,0.12654379
+Myocyte (NMJ-rich),CDK18,0.10741409
+Epithelial cell (alveolar type II),CDK18,0.10022761
+Myofibroblast,CDK18,0.09675392
+Neuronal,CDK18,0.092355035
+Sweat gland cell,CDK18,0.084497
+Epithelial cell (suprabasal),CDK18,0.08139551
+Epithelial cell (ciliated),CDK18,0.078718774
+Sebaceous gland cell,CDK18,0.0647107
+ICCs,CDK18,0.046527043
+Epithelial cell (basal keratinocyte),CDK18,0.045267567
+Epithelial cell (luminal),CDK18,0.041663326
+Immune (DC/macrophage),CDK18,0.040990647
+Fibroblast,CDK18,0.036022488
+Immune (NK cell),CDK18,0.032102916
+Endothelial cell (vascular),CDK18,0.029588016
+Epithelial cell (squamous),CDK18,0.024766676
+Immune (mast cell),CDK18,0.023087654
+Myocyte (smooth muscle),CDK18,0.022919068
+Adipocyte,CDK18,0.011613896
+Immune (T cell),CDK18,0.009457047
+Endothelial cell (lymphatic),CDK18,0.008473419
+Epithelial cell (suprabasal keratinocyte),CDK18,0.007867525
+Myocyte (sk. muscle),CDK18,0.0059678205
+"Myocyte (sk. muscle, cytoplasmic)",CDK18,0.005471044
+Epithelial cell (cornified keratinocyte),CDK18,0.0
+Melanocyte,CDK18,0.0
+Epithelial cell (mature keratinocyte),CDK18,0.0
+Immune (Langerhans),CDK18,0.0
+Immune (DC),CDK18,0.0
+Immune (B cell),CDK18,0.0

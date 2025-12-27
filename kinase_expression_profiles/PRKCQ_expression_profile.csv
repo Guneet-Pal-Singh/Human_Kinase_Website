@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+ICCs,PRKCQ,1.037776
+Immune (NK cell),PRKCQ,1.0113941
+Immune (T cell),PRKCQ,0.99683094
+Epithelial cell (alveolar type II),PRKCQ,0.4584672
+Myocyte (NMJ-rich),PRKCQ,0.34636778
+Myocyte (sk. muscle),PRKCQ,0.31771317
+"Myocyte (sk. muscle, cytoplasmic)",PRKCQ,0.14091633
+Endothelial cell (lymphatic),PRKCQ,0.12634811
+Epithelial cell (ciliated),PRKCQ,0.11018904
+Immune (alveolar macrophage),PRKCQ,0.10864058
+Immune (B cell),PRKCQ,0.10218622
+Epithelial cell (alveolar type I),PRKCQ,0.099916324
+Immune (Langerhans),PRKCQ,0.08539076
+Epithelial cell (club),PRKCQ,0.077892564
+Myofibroblast,PRKCQ,0.07750047
+Mucous cell,PRKCQ,0.0668598
+Myoepithelial (basal),PRKCQ,0.06482942
+Epithelial cell (basal),PRKCQ,0.06285233
+Immune (DC),PRKCQ,0.06018961
+Immune (mast cell),PRKCQ,0.047445968
+Schwann cell,PRKCQ,0.047299344
+Melanocyte,PRKCQ,0.04095253
+Epithelial cell (cornified keratinocyte),PRKCQ,0.038835786
+Immune (DC/macrophage),PRKCQ,0.038088754
+Satellite cell,PRKCQ,0.03557891
+Adipocyte,PRKCQ,0.035015516
+Myocyte (smooth muscle),PRKCQ,0.030718487
+Epithelial cell (Hillock),PRKCQ,0.02961413
+Endothelial cell (vascular),PRKCQ,0.029463833
+Sweat gland cell,PRKCQ,0.024171477
+Epithelial cell (luminal),PRKCQ,0.02225029
+Sebaceous gland cell,PRKCQ,0.022209644
+Fibroblast,PRKCQ,0.021729272
+Pericyte/SMC,PRKCQ,0.02134042
+Myocyte (cardiac),PRKCQ,0.020992652
+Epithelial cell (squamous),PRKCQ,0.020868234
+Epithelial cell (basal keratinocyte),PRKCQ,0.017256653
+Epithelial cell (suprabasal keratinocyte),PRKCQ,0.017163014
+Epithelial cell (suprabasal),PRKCQ,0.0152993435
+"Myocyte (cardiac, cytoplasmic)",PRKCQ,0.0096513005
+Epithelial cell (mature keratinocyte),PRKCQ,0.0
+Neuronal,PRKCQ,0.0
+Neuroendocrine,PRKCQ,0.0

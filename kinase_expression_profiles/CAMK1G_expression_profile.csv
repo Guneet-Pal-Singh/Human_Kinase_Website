@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (DC),CAMK1G,0.04471395
+Sweat gland cell,CAMK1G,0.004072471
+Myocyte (sk. muscle),CAMK1G,0.0026579497
+Mucous cell,CAMK1G,0.002551341
+Epithelial cell (alveolar type II),CAMK1G,0.0020645496
+Immune (alveolar macrophage),CAMK1G,0.0020063298
+Fibroblast,CAMK1G,0.0018534699
+Myocyte (smooth muscle),CAMK1G,0.0017681017
+Epithelial cell (suprabasal),CAMK1G,0.0011836148
+Epithelial cell (alveolar type I),CAMK1G,0.0010756943
+Epithelial cell (club),CAMK1G,0.0009313293
+Pericyte/SMC,CAMK1G,0.0009117358
+Endothelial cell (lymphatic),CAMK1G,0.0008046543
+Epithelial cell (basal),CAMK1G,0.0007713079
+Immune (DC/macrophage),CAMK1G,0.00054559775
+Epithelial cell (squamous),CAMK1G,0.00041338705
+Endothelial cell (vascular),CAMK1G,0.00018899655
+Epithelial cell (luminal),CAMK1G,0.00017334809
+Adipocyte,CAMK1G,0.0
+Epithelial cell (cornified keratinocyte),CAMK1G,0.0
+Epithelial cell (ciliated),CAMK1G,0.0
+Epithelial cell (Hillock),CAMK1G,0.0
+Epithelial cell (basal keratinocyte),CAMK1G,0.0
+Immune (B cell),CAMK1G,0.0
+ICCs,CAMK1G,0.0
+Epithelial cell (mature keratinocyte),CAMK1G,0.0
+Epithelial cell (suprabasal keratinocyte),CAMK1G,0.0
+Melanocyte,CAMK1G,0.0
+Immune (mast cell),CAMK1G,0.0
+Immune (T cell),CAMK1G,0.0
+Immune (NK cell),CAMK1G,0.0
+Immune (Langerhans),CAMK1G,0.0
+Myocyte (cardiac),CAMK1G,0.0
+"Myocyte (cardiac, cytoplasmic)",CAMK1G,0.0
+Myocyte (NMJ-rich),CAMK1G,0.0
+Myoepithelial (basal),CAMK1G,0.0
+"Myocyte (sk. muscle, cytoplasmic)",CAMK1G,0.0
+Neuroendocrine,CAMK1G,0.0
+Myofibroblast,CAMK1G,0.0
+Neuronal,CAMK1G,0.0
+Satellite cell,CAMK1G,0.0
+Schwann cell,CAMK1G,0.0
+Sebaceous gland cell,CAMK1G,0.0

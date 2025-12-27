@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Myocyte (sk. muscle),MAP4K1,0.89080864
+Myocyte (NMJ-rich),MAP4K1,0.7284288
+Immune (T cell),MAP4K1,0.2840833
+Immune (B cell),MAP4K1,0.2704265
+"Myocyte (sk. muscle, cytoplasmic)",MAP4K1,0.22675407
+Immune (NK cell),MAP4K1,0.19956243
+Immune (Langerhans),MAP4K1,0.09235342
+Immune (DC/macrophage),MAP4K1,0.0874732
+Immune (mast cell),MAP4K1,0.07730145
+Immune (alveolar macrophage),MAP4K1,0.0740851
+Immune (DC),MAP4K1,0.053241655
+Epithelial cell (ciliated),MAP4K1,0.05118255
+Myoepithelial (basal),MAP4K1,0.04147417
+Epithelial cell (cornified keratinocyte),MAP4K1,0.038835786
+Epithelial cell (mature keratinocyte),MAP4K1,0.038613442
+Sweat gland cell,MAP4K1,0.033761404
+Epithelial cell (alveolar type II),MAP4K1,0.029159646
+Myofibroblast,MAP4K1,0.028143996
+Mucous cell,MAP4K1,0.02791966
+Satellite cell,MAP4K1,0.025652928
+Pericyte/SMC,MAP4K1,0.023378061
+Myocyte (cardiac),MAP4K1,0.022049764
+Epithelial cell (alveolar type I),MAP4K1,0.021521559
+Endothelial cell (vascular),MAP4K1,0.020404205
+Epithelial cell (squamous),MAP4K1,0.0203418
+Epithelial cell (basal),MAP4K1,0.016404504
+Myocyte (smooth muscle),MAP4K1,0.016035983
+Sebaceous gland cell,MAP4K1,0.013938204
+Epithelial cell (suprabasal keratinocyte),MAP4K1,0.0136654815
+Epithelial cell (suprabasal),MAP4K1,0.013577402
+Fibroblast,MAP4K1,0.013288082
+Endothelial cell (lymphatic),MAP4K1,0.012441768
+ICCs,MAP4K1,0.011915491
+Epithelial cell (club),MAP4K1,0.011881718
+Adipocyte,MAP4K1,0.010763869
+Epithelial cell (luminal),MAP4K1,0.010407052
+Schwann cell,MAP4K1,0.006289606
+Epithelial cell (Hillock),MAP4K1,0.0060496866
+"Myocyte (cardiac, cytoplasmic)",MAP4K1,0.003776264
+Epithelial cell (basal keratinocyte),MAP4K1,0.0
+Melanocyte,MAP4K1,0.0
+Neuronal,MAP4K1,0.0
+Neuroendocrine,MAP4K1,0.0

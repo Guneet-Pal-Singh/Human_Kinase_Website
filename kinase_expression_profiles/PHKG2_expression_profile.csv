@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (Langerhans),PHKG2,0.31886408
+Epithelial cell (mature keratinocyte),PHKG2,0.2822945
+Epithelial cell (suprabasal),PHKG2,0.263962
+Epithelial cell (suprabasal keratinocyte),PHKG2,0.18155509
+Epithelial cell (squamous),PHKG2,0.17920904
+Epithelial cell (luminal),PHKG2,0.164516
+Neuronal,PHKG2,0.16307838
+Myofibroblast,PHKG2,0.15869905
+Epithelial cell (ciliated),PHKG2,0.15179682
+Sweat gland cell,PHKG2,0.13784029
+Mucous cell,PHKG2,0.12978579
+Epithelial cell (alveolar type I),PHKG2,0.12628004
+Neuroendocrine,PHKG2,0.12548237
+Epithelial cell (cornified keratinocyte),PHKG2,0.12454447
+Epithelial cell (alveolar type II),PHKG2,0.118429594
+Epithelial cell (basal),PHKG2,0.116774336
+Epithelial cell (club),PHKG2,0.114717595
+Epithelial cell (basal keratinocyte),PHKG2,0.11098949
+Immune (DC),PHKG2,0.10211219
+Immune (DC/macrophage),PHKG2,0.09045087
+Myocyte (smooth muscle),PHKG2,0.08715526
+Myocyte (cardiac),PHKG2,0.08595557
+Myoepithelial (basal),PHKG2,0.08522428
+Epithelial cell (Hillock),PHKG2,0.07945793
+Myocyte (NMJ-rich),PHKG2,0.0738227
+Immune (mast cell),PHKG2,0.073065124
+Melanocyte,PHKG2,0.070347495
+Immune (alveolar macrophage),PHKG2,0.0694696
+Adipocyte,PHKG2,0.064627
+"Myocyte (cardiac, cytoplasmic)",PHKG2,0.06124428
+Immune (T cell),PHKG2,0.060267303
+Sebaceous gland cell,PHKG2,0.058673367
+Fibroblast,PHKG2,0.05786302
+Immune (NK cell),PHKG2,0.054572195
+Immune (B cell),PHKG2,0.053071417
+Schwann cell,PHKG2,0.049905866
+Pericyte/SMC,PHKG2,0.046806443
+Endothelial cell (lymphatic),PHKG2,0.043379795
+Myocyte (sk. muscle),PHKG2,0.042450592
+"Myocyte (sk. muscle, cytoplasmic)",PHKG2,0.03424249
+Endothelial cell (vascular),PHKG2,0.033738554
+ICCs,PHKG2,0.033206545
+Satellite cell,PHKG2,0.02498981

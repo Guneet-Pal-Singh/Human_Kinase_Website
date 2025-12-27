@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+"Myocyte (cardiac, cytoplasmic)",CDK16,0.33574703
+Neuronal,CDK16,0.28954288
+Epithelial cell (squamous),CDK16,0.28632915
+Immune (DC),CDK16,0.21683125
+"Myocyte (sk. muscle, cytoplasmic)",CDK16,0.17251267
+Epithelial cell (luminal),CDK16,0.16400461
+Epithelial cell (suprabasal),CDK16,0.15987197
+Epithelial cell (Hillock),CDK16,0.14789647
+Epithelial cell (basal),CDK16,0.119038306
+Myofibroblast,CDK16,0.111013055
+Epithelial cell (club),CDK16,0.11045878
+Adipocyte,CDK16,0.10637316
+Epithelial cell (basal keratinocyte),CDK16,0.10282504
+Epithelial cell (suprabasal keratinocyte),CDK16,0.09791157
+Mucous cell,CDK16,0.09364274
+Neuroendocrine,CDK16,0.09266698
+Myocyte (smooth muscle),CDK16,0.089995116
+Immune (Langerhans),CDK16,0.080684505
+Endothelial cell (lymphatic),CDK16,0.06534825
+Schwann cell,CDK16,0.064299375
+Epithelial cell (alveolar type I),CDK16,0.06318209
+Myocyte (NMJ-rich),CDK16,0.06074012
+Epithelial cell (alveolar type II),CDK16,0.0594014
+Sebaceous gland cell,CDK16,0.05726612
+Fibroblast,CDK16,0.056793973
+Immune (T cell),CDK16,0.055579178
+Immune (DC/macrophage),CDK16,0.053184967
+Myocyte (cardiac),CDK16,0.051319484
+Epithelial cell (ciliated),CDK16,0.049256463
+Pericyte/SMC,CDK16,0.04892168
+Epithelial cell (mature keratinocyte),CDK16,0.045109387
+Immune (B cell),CDK16,0.04184828
+Immune (alveolar macrophage),CDK16,0.041168164
+Endothelial cell (vascular),CDK16,0.039821524
+Satellite cell,CDK16,0.03921644
+Sweat gland cell,CDK16,0.035765484
+Myocyte (sk. muscle),CDK16,0.030657876
+ICCs,CDK16,0.024295948
+Immune (mast cell),CDK16,0.024196845
+Immune (NK cell),CDK16,0.023931637
+Myoepithelial (basal),CDK16,0.021582216
+Melanocyte,CDK16,0.015882052
+Epithelial cell (cornified keratinocyte),CDK16,0.0

@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Myocyte (smooth muscle),STK38L,0.8948196
+Myocyte (cardiac),STK38L,0.7107316
+Myofibroblast,STK38L,0.6715754
+Immune (DC),STK38L,0.5911234
+Mucous cell,STK38L,0.5841825
+Pericyte/SMC,STK38L,0.526327
+Epithelial cell (squamous),STK38L,0.48607013
+Endothelial cell (vascular),STK38L,0.4241445
+Immune (DC/macrophage),STK38L,0.40501395
+ICCs,STK38L,0.36918396
+"Myocyte (cardiac, cytoplasmic)",STK38L,0.35995862
+Epithelial cell (suprabasal),STK38L,0.35525337
+Immune (Langerhans),STK38L,0.33929196
+Epithelial cell (mature keratinocyte),STK38L,0.33263773
+Myoepithelial (basal),STK38L,0.32652536
+Epithelial cell (club),STK38L,0.32223666
+Adipocyte,STK38L,0.311099
+Epithelial cell (Hillock),STK38L,0.28816143
+Epithelial cell (luminal),STK38L,0.2757281
+Epithelial cell (basal keratinocyte),STK38L,0.2497545
+Epithelial cell (basal),STK38L,0.24719277
+Fibroblast,STK38L,0.24479643
+Neuroendocrine,STK38L,0.23847239
+Immune (alveolar macrophage),STK38L,0.23025593
+Epithelial cell (suprabasal keratinocyte),STK38L,0.22967286
+Myocyte (NMJ-rich),STK38L,0.22964485
+Epithelial cell (alveolar type II),STK38L,0.21731092
+Immune (mast cell),STK38L,0.20745899
+Endothelial cell (lymphatic),STK38L,0.20556344
+Schwann cell,STK38L,0.19510618
+Neuronal,STK38L,0.19488247
+Immune (B cell),STK38L,0.18611635
+Melanocyte,STK38L,0.16774966
+Immune (T cell),STK38L,0.16474047
+Epithelial cell (ciliated),STK38L,0.1530397
+Epithelial cell (alveolar type I),STK38L,0.1396686
+Sebaceous gland cell,STK38L,0.12720752
+Immune (NK cell),STK38L,0.12402647
+Satellite cell,STK38L,0.11480527
+Sweat gland cell,STK38L,0.11375758
+"Myocyte (sk. muscle, cytoplasmic)",STK38L,0.11314918
+Myocyte (sk. muscle),STK38L,0.07903321
+Epithelial cell (cornified keratinocyte),STK38L,0.050126314

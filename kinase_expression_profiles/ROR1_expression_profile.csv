@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Myocyte (cardiac),ROR1,1.5600182
+Epithelial cell (alveolar type I),ROR1,1.484286
+Neuroendocrine,ROR1,1.0968175
+Myofibroblast,ROR1,0.9547548
+Schwann cell,ROR1,0.9059721
+Epithelial cell (basal),ROR1,0.7718209
+Epithelial cell (suprabasal keratinocyte),ROR1,0.70496756
+Epithelial cell (alveolar type II),ROR1,0.58048576
+Epithelial cell (basal keratinocyte),ROR1,0.5725293
+Adipocyte,ROR1,0.539764
+Epithelial cell (suprabasal),ROR1,0.53160155
+Fibroblast,ROR1,0.49703863
+Mucous cell,ROR1,0.48311648
+ICCs,ROR1,0.40777394
+Pericyte/SMC,ROR1,0.40273395
+Sweat gland cell,ROR1,0.38127652
+Epithelial cell (club),ROR1,0.37204018
+Neuronal,ROR1,0.35262862
+Myocyte (sk. muscle),ROR1,0.32479954
+Epithelial cell (mature keratinocyte),ROR1,0.31160823
+"Myocyte (cardiac, cytoplasmic)",ROR1,0.31122002
+Immune (DC),ROR1,0.30776587
+Myocyte (NMJ-rich),ROR1,0.2907691
+Epithelial cell (cornified keratinocyte),ROR1,0.27049267
+Satellite cell,ROR1,0.23048636
+Epithelial cell (ciliated),ROR1,0.2125124
+Myoepithelial (basal),ROR1,0.20459203
+Epithelial cell (luminal),ROR1,0.20246343
+Epithelial cell (squamous),ROR1,0.1911609
+Myocyte (smooth muscle),ROR1,0.18335582
+Immune (DC/macrophage),ROR1,0.14359683
+Immune (alveolar macrophage),ROR1,0.13889298
+"Myocyte (sk. muscle, cytoplasmic)",ROR1,0.1323444
+Immune (mast cell),ROR1,0.1107377
+Epithelial cell (Hillock),ROR1,0.10786612
+Endothelial cell (vascular),ROR1,0.10595693
+Melanocyte,ROR1,0.09327893
+Sebaceous gland cell,ROR1,0.09262925
+Immune (Langerhans),ROR1,0.05166466
+Endothelial cell (lymphatic),ROR1,0.048575174
+Immune (B cell),ROR1,0.047632676
+Immune (T cell),ROR1,0.029299697
+Immune (NK cell),ROR1,0.012612435

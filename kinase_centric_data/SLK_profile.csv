@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmucosa,Epithelial cell,SLK,1.6266266,21.723688025514644
+skin,Other,SLK,1.3827161,17.920353982300885
+skin,Endothelial cell,SLK,1.1052631,14.858260019550343
+skin,Epithelial cell (keratinocyte),SLK,1.1083916,14.689265536723164
+prostate,Endothelial cell,SLK,1.1735941,14.472753007784856
+skin,Melanocyte,SLK,1.030303,12.132352941176473
+esophagusmucosa,Stromal,SLK,1.2457627,11.93124368048534
+heart,Muscle,SLK,1.1271838,11.861737400530505
+prostate,Muscle,SLK,1.1120332,10.744538564422648
+prostate,Fibroblast,SLK,1.1239669,10.595446584938705
+esophagusmucosa,Endothelial cell,SLK,1.1206543,10.453185121846944
+lung,Epithelial cell,SLK,1.0967742,10.04361370716511
+lung,Endothelial cell,SLK,1.0830189,9.650400582665696
+prostate,Epithelial cell,SLK,1.1290177,9.57396090668747
+skin,Immune (myeloid),SLK,1.117647,9.497206703910614
+breast,Endothelial cell,SLK,1.0617284,9.19409761634506
+esophagusmuscularis,Muscle,SLK,1.1143292,8.823727217701258
+lung,Immune (myeloid),SLK,1.0834951,8.444007214297427
+skin,Fibroblast,SLK,1.0227273,8.31758034026465
+esophagusmuscularis,Endothelial cell,SLK,1.1162162,8.29410446088321
+skin,Epithelial cell,SLK,1.1836735,8.13953488372093
+esophagusmuscularis,Neuron,SLK,1.0,8.0
+heart,Adipocyte,SLK,1.0,7.772020725388601
+breast,Epithelial cell,SLK,1.0717703,7.208139334367994
+prostate,Immune (myeloid),SLK,1.1081082,7.198443579766536
+esophagusmucosa,Immune (lymphocyte),SLK,1.0930233,7.095709570957095
+heart,Endothelial cell,SLK,1.0825516,6.981008513425016
+esophagusmucosa,Immune (myeloid),SLK,1.0631579,6.795422031473533
+heart,Fibroblast,SLK,1.0525478,6.76214062668246
+esophagusmuscularis,Immune (lymphocyte),SLK,1.0,6.64451827242525
+breast,Muscle,SLK,1.0,6.578947368421052
+heart,Glia,SLK,1.0526316,6.375838926174497
+skeletalmuscle,Endothelial cell,SLK,1.0476191,6.311044327573254
+esophagusmuscularis,Adipocyte,SLK,1.0,6.285714285714287
+esophagusmucosa,Fibroblast,SLK,1.0397727,6.25222024866785
+esophagusmuscularis,Glia,SLK,1.0508474,6.082474226804123
+prostate,Immune (lymphocyte),SLK,1.0256411,5.718475073313782
+lung,Muscle,SLK,1.0,5.521472392638037
+skin,Muscle,SLK,1.3,5.376344086021505
+esophagusmuscularis,Fibroblast,SLK,1.0672728,5.2838889422615045
+esophagusmuscularis,Immune (myeloid),SLK,1.0320513,5.264934188322646
+lung,Immune (lymphocyte),SLK,1.0,5.241379310344827
+heart,Immune (lymphocyte),SLK,1.0294118,4.871060171919771
+lung,Fibroblast,SLK,1.0422535,4.810298102981029
+breast,Adipocyte,SLK,1.0481927,4.713231118682567
+heart,Immune (myeloid),SLK,1.0631229,4.7038599781215815
+breast,Fibroblast,SLK,1.0263158,4.63980463980464
+skeletalmuscle,Immune (myeloid),SLK,1.030303,4.477611940298507
+breast,Immune (myeloid),SLK,1.1875,4.46927374301676
+skeletalmuscle,Immune (lymphocyte),SLK,1.0,4.0
+skin,Immune (lymphocyte),SLK,1.0,4.0
+esophagusmucosa,Muscle,SLK,1.1578947,3.792415169660679
+skeletalmuscle,Adipocyte,SLK,1.1666666,3.7735849056603774
+skeletalmuscle,Fibroblast,SLK,1.0339806,3.4656796769851947
+esophagusmucosa,Glia,SLK,1.0,3.076923076923077
+prostate,Glia,SLK,1.5,2.985074626865672
+skeletalmuscle,Glia,SLK,2.0,2.857142857142857
+skeletalmuscle,Muscle,SLK,1.0236967,1.8696557529573343
+skin,Adipocyte,SLK,1.0,1.6129032258064515

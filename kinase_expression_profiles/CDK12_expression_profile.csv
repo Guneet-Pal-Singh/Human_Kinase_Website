@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (alveolar macrophage),CDK12,0.46412903
+Mucous cell,CDK12,0.4464676
+Epithelial cell (suprabasal),CDK12,0.44340205
+ICCs,CDK12,0.40950814
+Epithelial cell (mature keratinocyte),CDK12,0.39354393
+Epithelial cell (basal),CDK12,0.39296448
+Sebaceous gland cell,CDK12,0.3906632
+Immune (B cell),CDK12,0.38809562
+Epithelial cell (alveolar type II),CDK12,0.3879282
+Epithelial cell (Hillock),CDK12,0.38737726
+Epithelial cell (club),CDK12,0.38113192
+Myofibroblast,CDK12,0.37742186
+Epithelial cell (ciliated),CDK12,0.37434384
+Myocyte (NMJ-rich),CDK12,0.3705021
+Myocyte (cardiac),CDK12,0.3697386
+Epithelial cell (suprabasal keratinocyte),CDK12,0.3688541
+Immune (DC),CDK12,0.350365
+Epithelial cell (luminal),CDK12,0.3304656
+Adipocyte,CDK12,0.32486972
+Epithelial cell (alveolar type I),CDK12,0.31733447
+Immune (T cell),CDK12,0.31261766
+Neuroendocrine,CDK12,0.2918539
+Myoepithelial (basal),CDK12,0.28239942
+Epithelial cell (basal keratinocyte),CDK12,0.2799095
+Endothelial cell (lymphatic),CDK12,0.2792203
+Melanocyte,CDK12,0.27855211
+Immune (DC/macrophage),CDK12,0.26543534
+Sweat gland cell,CDK12,0.26007417
+Immune (NK cell),CDK12,0.25679004
+Endothelial cell (vascular),CDK12,0.24771473
+Fibroblast,CDK12,0.24387114
+Myocyte (sk. muscle),CDK12,0.23873185
+Immune (mast cell),CDK12,0.23201653
+Satellite cell,CDK12,0.22228077
+Pericyte/SMC,CDK12,0.220652
+Myocyte (smooth muscle),CDK12,0.2196034
+Schwann cell,CDK12,0.21401104
+Epithelial cell (squamous),CDK12,0.19103014
+Neuronal,CDK12,0.18138115
+Epithelial cell (cornified keratinocyte),CDK12,0.15562676
+"Myocyte (cardiac, cytoplasmic)",CDK12,0.12770721
+Immune (Langerhans),CDK12,0.11811476
+"Myocyte (sk. muscle, cytoplasmic)",CDK12,0.08827486

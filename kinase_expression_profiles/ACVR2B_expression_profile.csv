@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Neuronal,ACVR2B,0.1809637
+Melanocyte,ACVR2B,0.13369709
+Myocyte (NMJ-rich),ACVR2B,0.10235396
+Sebaceous gland cell,ACVR2B,0.094633944
+Immune (Langerhans),ACVR2B,0.07019925
+Epithelial cell (Hillock),ACVR2B,0.06888928
+Neuroendocrine,ACVR2B,0.061088663
+Myoepithelial (basal),ACVR2B,0.05923932
+Epithelial cell (luminal),ACVR2B,0.05907705
+Epithelial cell (basal),ACVR2B,0.05813594
+Endothelial cell (lymphatic),ACVR2B,0.056606296
+Epithelial cell (alveolar type II),ACVR2B,0.05592169
+Epithelial cell (club),ACVR2B,0.054710794
+Epithelial cell (ciliated),ACVR2B,0.0544566
+Myocyte (cardiac),ACVR2B,0.053407565
+Myofibroblast,ACVR2B,0.053289555
+"Myocyte (cardiac, cytoplasmic)",ACVR2B,0.050386913
+Satellite cell,ACVR2B,0.049305826
+Epithelial cell (cornified keratinocyte),ACVR2B,0.04903123
+Pericyte/SMC,ACVR2B,0.047839496
+Sweat gland cell,ACVR2B,0.0468489
+Endothelial cell (vascular),ACVR2B,0.045734838
+Mucous cell,ACVR2B,0.04571101
+Epithelial cell (alveolar type I),ACVR2B,0.04443331
+Immune (alveolar macrophage),ACVR2B,0.04306751
+"Myocyte (sk. muscle, cytoplasmic)",ACVR2B,0.037876345
+Immune (DC/macrophage),ACVR2B,0.03372125
+Myocyte (smooth muscle),ACVR2B,0.032474585
+Fibroblast,ACVR2B,0.031103978
+Immune (mast cell),ACVR2B,0.029950058
+Schwann cell,ACVR2B,0.028004676
+Immune (B cell),ACVR2B,0.026886255
+Immune (DC),ACVR2B,0.026740061
+ICCs,ACVR2B,0.02575818
+Epithelial cell (suprabasal),ACVR2B,0.023064466
+Immune (T cell),ACVR2B,0.02206721
+Epithelial cell (basal keratinocyte),ACVR2B,0.021552058
+Myocyte (sk. muscle),ACVR2B,0.020906204
+Epithelial cell (suprabasal keratinocyte),ACVR2B,0.018996445
+Adipocyte,ACVR2B,0.017987031
+Immune (NK cell),ACVR2B,0.016457384
+Epithelial cell (mature keratinocyte),ACVR2B,0.015181412
+Epithelial cell (squamous),ACVR2B,0.014601313

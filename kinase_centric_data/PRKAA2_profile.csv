@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+heart,Muscle,PRKAA2,2.5460665,46.783819628647215
+esophagusmucosa,Stromal,PRKAA2,1.177305,14.256825075834175
+prostate,Muscle,PRKAA2,1.2147651,13.2857779759251
+esophagusmuscularis,Neuron,PRKAA2,1.3333334,12.0
+lung,Muscle,PRKAA2,1.3125,9.8159509202454
+esophagusmuscularis,Muscle,PRKAA2,1.1556802,9.59042302777591
+skeletalmuscle,Muscle,PRKAA2,1.1357597,7.669132958220725
+prostate,Epithelial cell,PRKAA2,1.1567628,7.658301911324925
+skin,Endothelial cell,PRKAA2,1.2741935,6.0606060606060606
+heart,Adipocyte,PRKAA2,1.1818181,5.699481865284974
+esophagusmucosa,Muscle,PRKAA2,1.1071428,5.588822355289421
+lung,Fibroblast,PRKAA2,1.164557,5.35230352303523
+esophagusmucosa,Endothelial cell,PRKAA2,1.1701245,5.151774262505344
+esophagusmuscularis,Endothelial cell,PRKAA2,1.2062781,4.998879175072854
+skin,Epithelial cell,PRKAA2,1.1,4.983388704318937
+skeletalmuscle,Endothelial cell,PRKAA2,1.1333333,4.507888805409467
+prostate,Glia,PRKAA2,1.0,4.477611940298507
+breast,Epithelial cell,PRKAA2,1.0969163,3.91446801172616
+skin,Muscle,PRKAA2,1.1428572,3.763440860215054
+lung,Epithelial cell,PRKAA2,1.0874385,3.3727933541017654
+breast,Muscle,PRKAA2,1.2,3.289473684210526
+esophagusmucosa,Epithelial cell,PRKAA2,1.1526196,3.182081762829806
+heart,Glia,PRKAA2,1.1111112,3.02013422818792
+prostate,Fibroblast,PRKAA2,1.0294118,2.9772329246935203
+prostate,Endothelial cell,PRKAA2,1.3157895,2.689313517338995
+lung,Endothelial cell,PRKAA2,1.0958904,2.6584122359796067
+breast,Endothelial cell,PRKAA2,1.0454545,2.4971623155505105
+skin,Immune (myeloid),PRKAA2,1.0,2.23463687150838
+esophagusmuscularis,Glia,PRKAA2,1.0476191,2.1649484536082477
+esophagusmucosa,Fibroblast,PRKAA2,1.1836735,1.7406749555950267
+skin,Adipocyte,PRKAA2,1.0,1.6129032258064515
+heart,Endothelial cell,PRKAA2,1.2135923,1.3490504256712508
+skeletalmuscle,Adipocyte,PRKAA2,1.0,1.257861635220126
+esophagusmuscularis,Adipocyte,PRKAA2,1.0,1.1428571428571428
+skin,Melanocyte,PRKAA2,2.0,1.1029411764705883
+skeletalmuscle,Immune (lymphocyte),PRKAA2,1.0,1.0
+lung,Immune (myeloid),PRKAA2,1.0,0.9017871782259386
+breast,Fibroblast,PRKAA2,1.1428572,0.8547008547008548
+prostate,Immune (myeloid),PRKAA2,1.25,0.7782101167315175
+skeletalmuscle,Fibroblast,PRKAA2,1.0434783,0.7738896366083445
+skin,Fibroblast,PRKAA2,1.0,0.7561436672967864
+esophagusmuscularis,Immune (lymphocyte),PRKAA2,1.0,0.6644518272425249
+esophagusmucosa,Immune (myeloid),PRKAA2,1.0,0.5722460658082975
+lung,Immune (lymphocyte),PRKAA2,1.0,0.5517241379310345
+esophagusmuscularis,Fibroblast,PRKAA2,1.0181818,0.5283888942261504
+skin,Other,PRKAA2,1.0,0.4424778761061947
+esophagusmuscularis,Immune (myeloid),PRKAA2,1.0,0.3374957813027337
+heart,Immune (lymphocyte),PRKAA2,1.0,0.2865329512893982
+breast,Immune (myeloid),PRKAA2,1.0,0.2793296089385474
+breast,Adipocyte,PRKAA2,1.0,0.2271436683702442
+heart,Fibroblast,PRKAA2,1.0,0.2153547970281037
+prostate,Immune (lymphocyte),PRKAA2,1.0,0.1466275659824047
+skeletalmuscle,Immune (myeloid),PRKAA2,1.0,0.1356852103120759
+heart,Immune (myeloid),PRKAA2,1.0,0.0781372089388967
+esophagusmucosa,Immune (lymphocyte),PRKAA2,0.0,0.0
+esophagusmucosa,Glia,PRKAA2,0.0,0.0
+skeletalmuscle,Glia,PRKAA2,0.0,0.0
+skin,Immune (lymphocyte),PRKAA2,0.0,0.0
+skin,Epithelial cell (keratinocyte),PRKAA2,0.0,0.0

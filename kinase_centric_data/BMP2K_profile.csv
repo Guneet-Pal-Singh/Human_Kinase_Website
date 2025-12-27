@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+prostate,Immune (myeloid),BMP2K,1.6013986,41.73151750972763
+esophagusmucosa,Immune (myeloid),BMP2K,1.9892665,39.98569384835479
+esophagusmuscularis,Immune (myeloid),BMP2K,1.5918164,33.81707728653392
+skin,Melanocyte,BMP2K,1.3522727,32.35294117647059
+skin,Immune (myeloid),BMP2K,1.4,30.726256983240223
+heart,Immune (myeloid),BMP2K,1.3195767,29.535864978902957
+lung,Immune (myeloid),BMP2K,1.3688616,29.3818658796524
+breast,Immune (myeloid),BMP2K,1.3809524,23.463687150837988
+skeletalmuscle,Immune (myeloid),BMP2K,1.1625,21.70963364993216
+heart,Muscle,BMP2K,1.281448,18.318965517241377
+esophagusmucosa,Endothelial cell,BMP2K,1.2781863,17.443351859769134
+esophagusmuscularis,Neuron,BMP2K,1.0,16.0
+esophagusmucosa,Glia,BMP2K,1.4,15.384615384615383
+prostate,Glia,BMP2K,1.1,14.925373134328357
+esophagusmucosa,Epithelial cell,BMP2K,1.2886492,14.112786314873876
+skin,Endothelial cell,BMP2K,1.0970149,13.098729227761485
+esophagusmucosa,Stromal,BMP2K,1.3023256,13.043478260869565
+prostate,Endothelial cell,BMP2K,1.1744186,12.172682236376504
+skeletalmuscle,Glia,BMP2K,1.25,11.428571428571429
+heart,Glia,BMP2K,1.1470588,11.409395973154362
+heart,Adipocyte,BMP2K,1.1904762,10.88082901554404
+lung,Fibroblast,BMP2K,1.1666666,10.16260162601626
+esophagusmuscularis,Adipocyte,BMP2K,1.117647,9.714285714285714
+esophagusmuscularis,Glia,BMP2K,1.3444444,9.278350515463918
+skin,Muscle,BMP2K,1.1875,8.60215053763441
+lung,Epithelial cell,BMP2K,1.1138861,8.315680166147455
+esophagusmuscularis,Endothelial cell,BMP2K,1.1711956,8.249271463797355
+heart,Fibroblast,BMP2K,1.0998685,8.19425002691935
+skin,Immune (lymphocyte),BMP2K,1.1666666,8.0
+breast,Fibroblast,BMP2K,1.21875,7.814407814407814
+esophagusmuscularis,Muscle,BMP2K,1.1855048,7.794740735758962
+skin,Fibroblast,BMP2K,1.125,7.561436672967864
+breast,Epithelial cell,BMP2K,1.1559633,7.518537678910158
+prostate,Fibroblast,BMP2K,1.0595238,7.355516637478108
+esophagusmucosa,Fibroblast,BMP2K,1.1449275,7.353463587921848
+breast,Adipocyte,BMP2K,1.0495868,6.871095968199886
+lung,Endothelial cell,BMP2K,1.1459459,6.737072104879825
+esophagusmuscularis,Immune (lymphocyte),BMP2K,1.1578947,6.312292358803987
+lung,Muscle,BMP2K,1.2,6.134969325153374
+prostate,Muscle,BMP2K,1.1555556,6.018724921979492
+skin,Epithelial cell (keratinocyte),BMP2K,1.1709402,6.00924499229584
+skeletalmuscle,Immune (lymphocyte),BMP2K,1.0,6.0
+heart,Endothelial cell,BMP2K,1.1684902,5.98559266535691
+lung,Immune (lymphocyte),BMP2K,1.4285715,5.793103448275862
+skin,Epithelial cell,BMP2K,1.0882353,5.647840531561462
+breast,Endothelial cell,BMP2K,1.1428572,5.561861520998865
+esophagusmucosa,Immune (lymphocyte),BMP2K,1.1318681,5.005500550055006
+prostate,Epithelial cell,BMP2K,1.0996473,4.9148355220387465
+skeletalmuscle,Endothelial cell,BMP2K,1.1692308,4.883546205860256
+skin,Adipocyte,BMP2K,1.0,4.838709677419355
+esophagusmucosa,Muscle,BMP2K,1.2608696,4.590818363273453
+heart,Immune (lymphocyte),BMP2K,1.25,4.584527220630372
+skeletalmuscle,Fibroblast,BMP2K,1.0814815,4.542395693135935
+skin,Other,BMP2K,1.1,4.424778761061947
+skeletalmuscle,Adipocyte,BMP2K,1.0,4.40251572327044
+esophagusmuscularis,Fibroblast,BMP2K,1.0722347,4.255932366221539
+prostate,Immune (lymphocyte),BMP2K,1.1428572,4.105571847507331
+skeletalmuscle,Muscle,BMP2K,1.0473876,3.64627176465376
+breast,Muscle,BMP2K,2.0,2.631578947368421

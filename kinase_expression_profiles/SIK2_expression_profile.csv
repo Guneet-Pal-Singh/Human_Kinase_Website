@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Adipocyte,SIK2,1.791832
+Myocyte (NMJ-rich),SIK2,0.94594324
+Sweat gland cell,SIK2,0.9267241
+Immune (alveolar macrophage),SIK2,0.84216386
+Neuroendocrine,SIK2,0.8258955
+Myocyte (cardiac),SIK2,0.8045881
+Epithelial cell (alveolar type I),SIK2,0.775859
+Immune (DC),SIK2,0.76027995
+Myocyte (sk. muscle),SIK2,0.71621805
+Epithelial cell (ciliated),SIK2,0.69063747
+Endothelial cell (vascular),SIK2,0.6361843
+Epithelial cell (club),SIK2,0.60950565
+Endothelial cell (lymphatic),SIK2,0.6055452
+Fibroblast,SIK2,0.57027394
+Mucous cell,SIK2,0.54671764
+Myofibroblast,SIK2,0.5450432
+Epithelial cell (alveolar type II),SIK2,0.5318482
+ICCs,SIK2,0.51265717
+Pericyte/SMC,SIK2,0.48539913
+Schwann cell,SIK2,0.48240888
+Epithelial cell (luminal),SIK2,0.4792542
+Epithelial cell (basal),SIK2,0.47380185
+Melanocyte,SIK2,0.45226842
+Epithelial cell (Hillock),SIK2,0.44520295
+Epithelial cell (suprabasal),SIK2,0.42932823
+Immune (DC/macrophage),SIK2,0.4263019
+Myocyte (smooth muscle),SIK2,0.42451003
+Neuronal,SIK2,0.42361996
+Satellite cell,SIK2,0.40376246
+Immune (NK cell),SIK2,0.36674213
+Immune (T cell),SIK2,0.35158846
+"Myocyte (sk. muscle, cytoplasmic)",SIK2,0.31173763
+Immune (mast cell),SIK2,0.30578372
+Myoepithelial (basal),SIK2,0.29326493
+Immune (Langerhans),SIK2,0.29313087
+Epithelial cell (basal keratinocyte),SIK2,0.28539938
+Immune (B cell),SIK2,0.268535
+Epithelial cell (mature keratinocyte),SIK2,0.23697664
+Sebaceous gland cell,SIK2,0.18789828
+Epithelial cell (squamous),SIK2,0.18698439
+Epithelial cell (suprabasal keratinocyte),SIK2,0.18533733
+"Myocyte (cardiac, cytoplasmic)",SIK2,0.18388854
+Epithelial cell (cornified keratinocyte),SIK2,0.14947967

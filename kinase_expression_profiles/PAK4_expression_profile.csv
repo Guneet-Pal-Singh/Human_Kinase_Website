@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (cornified keratinocyte),PAK4,0.60931456
+Epithelial cell (mature keratinocyte),PAK4,0.4809266
+Sweat gland cell,PAK4,0.4132629
+Epithelial cell (suprabasal),PAK4,0.37516487
+Epithelial cell (squamous),PAK4,0.3722766
+Mucous cell,PAK4,0.35201216
+Epithelial cell (luminal),PAK4,0.29565948
+Epithelial cell (Hillock),PAK4,0.27077308
+Epithelial cell (ciliated),PAK4,0.25871468
+Epithelial cell (club),PAK4,0.25202364
+Neuroendocrine,PAK4,0.23685144
+Myofibroblast,PAK4,0.21973266
+Epithelial cell (basal),PAK4,0.21041942
+Endothelial cell (vascular),PAK4,0.15553828
+Epithelial cell (alveolar type II),PAK4,0.14247793
+Epithelial cell (suprabasal keratinocyte),PAK4,0.13692854
+Neuronal,PAK4,0.13381904
+Epithelial cell (alveolar type I),PAK4,0.13017415
+Myocyte (cardiac),PAK4,0.12928915
+Endothelial cell (lymphatic),PAK4,0.12758538
+ICCs,PAK4,0.12245567
+Immune (mast cell),PAK4,0.11867767
+Myocyte (sk. muscle),PAK4,0.11406987
+Immune (alveolar macrophage),PAK4,0.103520416
+Myoepithelial (basal),PAK4,0.08919765
+Melanocyte,PAK4,0.0889632
+Immune (T cell),PAK4,0.08408739
+Adipocyte,PAK4,0.08251227
+Epithelial cell (basal keratinocyte),PAK4,0.078680836
+Sebaceous gland cell,PAK4,0.07764602
+Myocyte (smooth muscle),PAK4,0.07434615
+Fibroblast,PAK4,0.0740588
+Immune (B cell),PAK4,0.072620034
+Immune (DC/macrophage),PAK4,0.06981227
+Schwann cell,PAK4,0.06811271
+Satellite cell,PAK4,0.06655141
+Immune (Langerhans),PAK4,0.06027736
+"Myocyte (cardiac, cytoplasmic)",PAK4,0.052358594
+Pericyte/SMC,PAK4,0.050854683
+Immune (NK cell),PAK4,0.036457375
+"Myocyte (sk. muscle, cytoplasmic)",PAK4,0.030296855
+Immune (DC),PAK4,0.027350737
+Myocyte (NMJ-rich),PAK4,0.0

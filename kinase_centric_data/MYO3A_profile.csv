@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmucosa,Muscle,MYO3A,1.2413793,5.788423153692615
+esophagusmuscularis,Adipocyte,MYO3A,1.0,4.0
+skin,Immune (lymphocyte),MYO3A,1.0,4.0
+lung,Immune (myeloid),MYO3A,1.033195,3.951467453680931
+lung,Epithelial cell,MYO3A,1.0635104,3.597092419522326
+breast,Muscle,MYO3A,1.0,3.289473684210526
+heart,Muscle,MYO3A,1.0433605,3.05868700265252
+esophagusmucosa,Epithelial cell,MYO3A,1.1189189,2.6819367932734126
+skin,Epithelial cell,MYO3A,1.0,2.6578073089701
+lung,Endothelial cell,MYO3A,1.0,2.512745812090313
+lung,Muscle,MYO3A,1.0,2.4539877300613497
+esophagusmucosa,Stromal,MYO3A,1.173913,2.3255813953488373
+prostate,Muscle,MYO3A,1.0196079,2.2737405260811414
+prostate,Epithelial cell,MYO3A,1.1102514,2.240714254756642
+esophagusmuscularis,Endothelial cell,MYO3A,1.0329671,2.039901367406411
+esophagusmuscularis,Muscle,MYO3A,1.0333333,2.0176205528280318
+breast,Epithelial cell,MYO3A,1.0434783,1.9831005345749269
+skeletalmuscle,Adipocyte,MYO3A,1.0,1.8867924528301887
+lung,Fibroblast,MYO3A,1.0,1.829268292682927
+skin,Epithelial cell (keratinocyte),MYO3A,1.0,1.7976373908577297
+breast,Adipocyte,MYO3A,1.0,1.7035775127768311
+skin,Fibroblast,MYO3A,1.0,1.7013232514177694
+skeletalmuscle,Muscle,MYO3A,1.0210526,1.6835762704355144
+lung,Immune (lymphocyte),MYO3A,1.0,1.6551724137931034
+skin,Muscle,MYO3A,1.0,1.6129032258064515
+heart,Adipocyte,MYO3A,1.0,1.5544041450777202
+esophagusmuscularis,Glia,MYO3A,1.0,1.5463917525773196
+esophagusmucosa,Glia,MYO3A,1.0,1.5384615384615383
+esophagusmuscularis,Immune (myeloid),MYO3A,1.0,1.5187310158623015
+heart,Fibroblast,MYO3A,1.0359712,1.4967158393453217
+prostate,Glia,MYO3A,1.0,1.4925373134328357
+prostate,Fibroblast,MYO3A,1.0588236,1.48861646234676
+skin,Melanocyte,MYO3A,1.25,1.4705882352941175
+skeletalmuscle,Fibroblast,MYO3A,1.0123457,1.3627187079407803
+esophagusmuscularis,Fibroblast,MYO3A,1.0212766,1.3545969833797675
+skeletalmuscle,Endothelial cell,MYO3A,1.0,1.35236664162284
+esophagusmucosa,Endothelial cell,MYO3A,1.0172414,1.2398460880718256
+heart,Immune (myeloid),MYO3A,1.025974,1.2033130176590092
+skin,Endothelial cell,MYO3A,1.0,1.1730205278592376
+breast,Endothelial cell,MYO3A,1.0,1.135073779795687
+heart,Endothelial cell,MYO3A,1.0,1.0740013097576948
+prostate,Endothelial cell,MYO3A,1.0344827,1.0261854210898798
+skeletalmuscle,Immune (lymphocyte),MYO3A,1.0,1.0
+prostate,Immune (lymphocyte),MYO3A,1.0,0.8797653958944283
+prostate,Immune (myeloid),MYO3A,1.0,0.8754863813229572
+skeletalmuscle,Immune (myeloid),MYO3A,1.0,0.8141112618724559
+heart,Immune (lymphocyte),MYO3A,1.0,0.7163323782234957
+esophagusmucosa,Immune (myeloid),MYO3A,1.0,0.7153075822603719
+skin,Other,MYO3A,1.0,0.6637168141592921
+esophagusmucosa,Fibroblast,MYO3A,1.0588236,0.6039076376554174
+esophagusmucosa,Immune (lymphocyte),MYO3A,1.0,0.495049504950495
+breast,Fibroblast,MYO3A,1.0,0.4884004884004884
+heart,Glia,MYO3A,1.0,0.3355704697986577
+esophagusmuscularis,Immune (lymphocyte),MYO3A,1.0,0.3322259136212624
+breast,Immune (myeloid),MYO3A,1.0,0.2793296089385474
+esophagusmuscularis,Neuron,MYO3A,0.0,0.0
+skeletalmuscle,Glia,MYO3A,0.0,0.0
+skin,Adipocyte,MYO3A,0.0,0.0
+skin,Immune (myeloid),MYO3A,0.0,0.0

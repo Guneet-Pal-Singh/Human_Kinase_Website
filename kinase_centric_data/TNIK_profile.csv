@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+heart,Muscle,TNIK,2.7876377,45.863726790450926
+lung,Epithelial cell,TNIK,1.8317149,36.35721703011423
+lung,Immune (myeloid),TNIK,1.7376443,35.49762256107559
+esophagusmucosa,Stromal,TNIK,1.3930818,32.153690596562186
+lung,Immune (lymphocyte),TNIK,1.3568075,29.379310344827587
+heart,Immune (lymphocyte),TNIK,1.40625,27.50716332378224
+skin,Immune (lymphocyte),TNIK,1.6,26.666666666666668
+lung,Fibroblast,TNIK,1.4117647,26.490514905149052
+esophagusmucosa,Immune (lymphocyte),TNIK,1.4778948,26.12761276127613
+skeletalmuscle,Immune (lymphocyte),TNIK,1.36,25.0
+skeletalmuscle,Muscle,TNIK,1.4738041,23.33968366487971
+prostate,Fibroblast,TNIK,1.464567,22.241681260945708
+esophagusmuscularis,Muscle,TNIK,1.3487031,21.003429954939808
+esophagusmuscularis,Immune (lymphocyte),TNIK,1.3770492,20.26578073089701
+esophagusmuscularis,Neuron,TNIK,1.4,20.0
+prostate,Muscle,TNIK,1.3596288,19.215336602764157
+esophagusmuscularis,Immune (myeloid),TNIK,1.4578755,18.427269659129266
+prostate,Immune (lymphocyte),TNIK,1.2666667,17.595307917888565
+skeletalmuscle,Glia,TNIK,1.6666666,17.142857142857142
+lung,Muscle,TNIK,1.52,15.337423312883436
+breast,Epithelial cell,TNIK,1.2253855,14.53698913605794
+heart,Fibroblast,TNIK,1.3338335,14.353397221923116
+esophagusmucosa,Muscle,TNIK,1.25,12.77445109780439
+skeletalmuscle,Fibroblast,TNIK,1.2299013,11.92799461641992
+esophagusmucosa,Fibroblast,TNIK,1.2607362,11.580817051509769
+heart,Immune (myeloid),TNIK,1.5955056,11.12673855289889
+esophagusmuscularis,Adipocyte,TNIK,1.4210526,10.857142857142858
+breast,Immune (myeloid),TNIK,1.2162162,10.335195530726256
+esophagusmuscularis,Fibroblast,TNIK,1.1558164,9.001825343452781
+esophagusmucosa,Epithelial cell,TNIK,1.1964452,7.748622789214266
+esophagusmucosa,Immune (myeloid),TNIK,1.4433962,7.582260371959943
+skin,Fibroblast,TNIK,1.054054,6.994328922495274
+skin,Muscle,TNIK,1.1538461,6.989247311827956
+skeletalmuscle,Immune (myeloid),TNIK,1.2156863,6.919945725915875
+esophagusmuscularis,Glia,TNIK,1.40625,6.5979381443298974
+breast,Muscle,TNIK,1.0,6.578947368421052
+heart,Adipocyte,TNIK,1.2727273,5.699481865284974
+skin,Melanocyte,TNIK,1.2666667,5.514705882352941
+skin,Immune (myeloid),TNIK,1.2222222,5.027932960893855
+breast,Fibroblast,TNIK,1.2702702,4.517704517704518
+prostate,Epithelial cell,TNIK,1.1504513,4.321067914878863
+skin,Epithelial cell,TNIK,1.08,4.152823920265781
+skeletalmuscle,Adipocyte,TNIK,1.1666666,3.7735849056603774
+prostate,Immune (myeloid),TNIK,1.3333334,3.501945525291829
+lung,Endothelial cell,TNIK,1.076087,3.3503277494537507
+skin,Endothelial cell,TNIK,1.030303,3.225806451612903
+skin,Other,TNIK,1.1428572,3.0973451327433628
+esophagusmucosa,Glia,TNIK,1.0,3.076923076923077
+prostate,Glia,TNIK,1.5,2.985074626865672
+breast,Endothelial cell,TNIK,1.3043479,2.6106696935300797
+esophagusmuscularis,Endothelial cell,TNIK,1.1801802,2.488231338264963
+skin,Epithelial cell (keratinocyte),TNIK,1.0,2.465331278890601
+heart,Glia,TNIK,1.1428572,2.348993288590604
+skeletalmuscle,Endothelial cell,TNIK,1.2413793,2.178812922614576
+prostate,Endothelial cell,TNIK,1.0392157,1.804670912951168
+skin,Adipocyte,TNIK,1.0,1.6129032258064515
+esophagusmucosa,Endothelial cell,TNIK,1.0945946,1.581872595126122
+heart,Endothelial cell,TNIK,1.0666667,1.1787819253438114
+breast,Adipocyte,TNIK,1.0555556,1.0221465076660987

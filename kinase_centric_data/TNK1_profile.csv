@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Glia,TNK1,1.0,2.4742268041237114
+skin,Other,TNK1,1.0,2.2123893805309733
+skin,Melanocyte,TNK1,1.0,1.8382352941176472
+esophagusmucosa,Glia,TNK1,1.0,1.5384615384615383
+esophagusmucosa,Epithelial cell,TNK1,1.0050762,1.4279501304726008
+prostate,Epithelial cell,TNK1,1.0310559,1.3955705803319898
+breast,Muscle,TNK1,1.0,1.3157894736842104
+breast,Epithelial cell,TNK1,1.0169492,1.01741679599931
+skeletalmuscle,Immune (lymphocyte),TNK1,1.0,1.0
+skin,Epithelial cell (keratinocyte),TNK1,1.0,0.9758602978941964
+prostate,Muscle,TNK1,1.0,0.6687472135532769
+esophagusmuscularis,Immune (lymphocyte),TNK1,1.0,0.6644518272425249
+lung,Fibroblast,TNK1,1.0,0.6097560975609756
+esophagusmucosa,Stromal,TNK1,1.0,0.6066734074823054
+esophagusmuscularis,Adipocyte,TNK1,1.0,0.5714285714285714
+skin,Immune (myeloid),TNK1,1.0,0.5586592178770949
+breast,Immune (myeloid),TNK1,1.0,0.5586592178770949
+esophagusmuscularis,Muscle,TNK1,1.0123457,0.5447575492635686
+lung,Epithelial cell,TNK1,1.0076336,0.5441329179646937
+lung,Endothelial cell,TNK1,1.0,0.5098324836125273
+heart,Muscle,TNK1,1.0357143,0.4641909814323607
+lung,Immune (lymphocyte),TNK1,1.0,0.4137931034482758
+esophagusmucosa,Endothelial cell,TNK1,1.0,0.4061564771269773
+esophagusmucosa,Immune (lymphocyte),TNK1,1.0,0.385038503850385
+skeletalmuscle,Endothelial cell,TNK1,1.0,0.3756574004507889
+breast,Endothelial cell,TNK1,1.3333334,0.340522133938706
+heart,Glia,TNK1,1.0,0.3355704697986577
+skin,Epithelial cell,TNK1,1.0,0.3322259136212624
+esophagusmucosa,Fibroblast,TNK1,1.0,0.3197158081705151
+heart,Endothelial cell,TNK1,1.0,0.3143418467583497
+lung,Immune (myeloid),TNK1,1.0,0.3115264797507788
+skin,Endothelial cell,TNK1,1.0,0.2932551319648094
+prostate,Immune (lymphocyte),TNK1,1.0,0.2932551319648094
+prostate,Immune (myeloid),TNK1,1.0,0.2918287937743191
+esophagusmucosa,Immune (myeloid),TNK1,1.0,0.2861230329041487
+skeletalmuscle,Immune (myeloid),TNK1,1.0,0.2713704206241519
+esophagusmuscularis,Endothelial cell,TNK1,1.0,0.2689979825151311
+esophagusmuscularis,Fibroblast,TNK1,1.037037,0.2593909117110193
+prostate,Endothelial cell,TNK1,1.0,0.2476999292285916
+breast,Fibroblast,TNK1,1.0,0.2442002442002442
+skeletalmuscle,Muscle,TNK1,1.0,0.2348145850870586
+skeletalmuscle,Fibroblast,TNK1,1.0,0.2187079407806191
+esophagusmuscularis,Immune (myeloid),TNK1,1.0,0.2024974687816402
+esophagusmucosa,Muscle,TNK1,1.0,0.1996007984031935
+skin,Fibroblast,TNK1,1.0,0.1890359168241966
+prostate,Fibroblast,TNK1,1.0,0.1751313485113835
+heart,Fibroblast,TNK1,1.0,0.172283837622483
+heart,Immune (lymphocyte),TNK1,1.0,0.1432664756446991
+breast,Adipocyte,TNK1,1.0,0.1135718341851221
+heart,Immune (myeloid),TNK1,1.0,0.0781372089388967
+heart,Adipocyte,TNK1,0.0,0.0
+esophagusmuscularis,Neuron,TNK1,0.0,0.0
+skeletalmuscle,Adipocyte,TNK1,0.0,0.0
+lung,Muscle,TNK1,0.0,0.0
+prostate,Glia,TNK1,0.0,0.0
+skin,Adipocyte,TNK1,0.0,0.0
+skeletalmuscle,Glia,TNK1,0.0,0.0
+skin,Immune (lymphocyte),TNK1,0.0,0.0
+skin,Muscle,TNK1,0.0,0.0

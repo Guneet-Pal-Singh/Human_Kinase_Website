@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (Langerhans),PANK2,0.5452484
+ICCs,PANK2,0.5151157
+Neuronal,PANK2,0.4788796
+Epithelial cell (squamous),PANK2,0.4293954
+Epithelial cell (suprabasal),PANK2,0.41590798
+Immune (DC),PANK2,0.35703528
+Myocyte (smooth muscle),PANK2,0.34742823
+Myofibroblast,PANK2,0.33048037
+Immune (alveolar macrophage),PANK2,0.30091262
+Fibroblast,PANK2,0.2893152
+Mucous cell,PANK2,0.28371575
+Epithelial cell (basal),PANK2,0.27830353
+Melanocyte,PANK2,0.2727011
+Immune (DC/macrophage),PANK2,0.2724928
+Immune (NK cell),PANK2,0.2573933
+Schwann cell,PANK2,0.25254646
+Pericyte/SMC,PANK2,0.23766425
+Epithelial cell (club),PANK2,0.23719624
+Epithelial cell (Hillock),PANK2,0.23438507
+Immune (T cell),PANK2,0.22294345
+Myocyte (cardiac),PANK2,0.22192012
+Adipocyte,PANK2,0.21820135
+Epithelial cell (luminal),PANK2,0.20906956
+Epithelial cell (basal keratinocyte),PANK2,0.19917554
+Epithelial cell (alveolar type I),PANK2,0.19727129
+Epithelial cell (suprabasal keratinocyte),PANK2,0.19687252
+Epithelial cell (alveolar type II),PANK2,0.18938723
+Endothelial cell (vascular),PANK2,0.18906866
+Myoepithelial (basal),PANK2,0.18707141
+Sebaceous gland cell,PANK2,0.18185182
+Endothelial cell (lymphatic),PANK2,0.17909844
+Epithelial cell (ciliated),PANK2,0.17426406
+"Myocyte (cardiac, cytoplasmic)",PANK2,0.16782191
+"Myocyte (sk. muscle, cytoplasmic)",PANK2,0.15330152
+Sweat gland cell,PANK2,0.14792502
+Immune (mast cell),PANK2,0.144106
+Epithelial cell (mature keratinocyte),PANK2,0.14063461
+Satellite cell,PANK2,0.13314535
+Epithelial cell (cornified keratinocyte),PANK2,0.12994123
+Immune (B cell),PANK2,0.12670478
+Neuroendocrine,PANK2,0.115312
+Myocyte (NMJ-rich),PANK2,0.07895994
+Myocyte (sk. muscle),PANK2,0.066409506

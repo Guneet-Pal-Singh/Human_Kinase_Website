@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+heart,Adipocyte,CDK4,1.0,6.735751295336788
+prostate,Immune (myeloid),CDK4,1.0535715,5.447470817120623
+heart,Muscle,CDK4,1.0589198,5.064655172413793
+prostate,Glia,CDK4,1.0,4.477611940298507
+prostate,Epithelial cell,CDK4,1.0710441,4.026351146361548
+prostate,Fibroblast,CDK4,1.0769231,3.4150612959719786
+heart,Glia,CDK4,1.0,3.355704697986577
+prostate,Muscle,CDK4,1.0422535,3.1654034774855107
+esophagusmucosa,Glia,CDK4,1.0,3.076923076923077
+esophagusmuscularis,Adipocyte,CDK4,1.0,2.857142857142857
+prostate,Endothelial cell,CDK4,1.051282,2.760084925690021
+esophagusmuscularis,Muscle,CDK4,1.0514706,2.7439639518461227
+heart,Fibroblast,CDK4,1.0472441,2.735005922256918
+skeletalmuscle,Fibroblast,CDK4,1.0142857,2.355316285329744
+esophagusmucosa,Muscle,CDK4,1.0,2.19560878243513
+esophagusmucosa,Epithelial cell,CDK4,1.0431894,2.1817918237170195
+skin,Muscle,CDK4,1.0,2.1505376344086025
+breast,Adipocyte,CDK4,1.0,2.044293015332197
+breast,Muscle,CDK4,1.3333334,1.973684210526316
+esophagusmuscularis,Glia,CDK4,1.0,1.958762886597938
+esophagusmuscularis,Fibroblast,CDK4,1.0301508,1.911807090018253
+esophagusmucosa,Stromal,CDK4,1.1666666,1.820020222446916
+esophagusmucosa,Fibroblast,CDK4,1.0392157,1.811722912966252
+skin,Other,CDK4,1.0,1.7699115044247788
+heart,Immune (lymphocyte),CDK4,1.0,1.7191977077363898
+breast,Fibroblast,CDK4,1.0714285,1.7094017094017095
+heart,Endothelial cell,CDK4,1.0232558,1.6895874263261297
+skin,Adipocyte,CDK4,1.0,1.6129032258064515
+lung,Epithelial cell,CDK4,1.0206186,1.6116303219106958
+esophagusmucosa,Endothelial cell,CDK4,1.0266666,1.6032492518170158
+lung,Immune (myeloid),CDK4,1.0208334,1.5740285292670928
+lung,Fibroblast,CDK4,1.0,1.4905149051490514
+skin,Melanocyte,CDK4,1.0,1.4705882352941175
+skin,Immune (lymphocyte),CDK4,1.0,1.3333333333333337
+skeletalmuscle,Endothelial cell,CDK4,1.0588236,1.2772351615326822
+breast,Endothelial cell,CDK4,1.0,1.2485811577752552
+lung,Muscle,CDK4,1.0,1.2269938650306749
+esophagusmuscularis,Endothelial cell,CDK4,1.0555556,1.21049092131809
+breast,Epithelial cell,CDK4,1.0461539,1.1208829108466978
+esophagusmuscularis,Immune (myeloid),CDK4,1.0,1.0462369220384746
+esophagusmucosa,Immune (myeloid),CDK4,1.0714285,1.0014306151645207
+skeletalmuscle,Immune (lymphocyte),CDK4,1.0,1.0
+esophagusmuscularis,Immune (lymphocyte),CDK4,1.0,0.9966777408637874
+skin,Epithelial cell (keratinocyte),CDK4,1.0,0.9758602978941964
+heart,Immune (myeloid),CDK4,1.0166667,0.9376465072667604
+lung,Endothelial cell,CDK4,1.0,0.9104151493080844
+breast,Immune (myeloid),CDK4,1.0,0.8379888268156425
+skeletalmuscle,Immune (myeloid),CDK4,1.1666666,0.8141112618724559
+skin,Fibroblast,CDK4,1.0,0.7561436672967864
+esophagusmucosa,Immune (lymphocyte),CDK4,1.0,0.7150715071507151
+skeletalmuscle,Muscle,CDK4,1.007752,0.5715298391741616
+skin,Immune (myeloid),CDK4,1.0,0.5586592178770949
+lung,Immune (lymphocyte),CDK4,1.0,0.5517241379310345
+skin,Endothelial cell,CDK4,1.0,0.4887585532746823
+skin,Epithelial cell,CDK4,1.0,0.3322259136212624
+prostate,Immune (lymphocyte),CDK4,1.5,0.2932551319648094
+esophagusmuscularis,Neuron,CDK4,0.0,0.0
+skeletalmuscle,Adipocyte,CDK4,0.0,0.0
+skeletalmuscle,Glia,CDK4,0.0,0.0

@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+lung,Immune (myeloid),PSKH2,1.0,0.3443187407771766
+lung,Endothelial cell,PSKH2,1.0,0.3277494537509104
+lung,Epithelial cell,PSKH2,1.0,0.2367601246105919
+skin,Epithelial cell,PSKH2,1.0,0.1661129568106312
+skeletalmuscle,Endothelial cell,PSKH2,1.0,0.1502629601803155
+lung,Fibroblast,PSKH2,1.0,0.1355013550135501
+esophagusmuscularis,Glia,PSKH2,1.0,0.1030927835051546
+skin,Endothelial cell,PSKH2,1.0,0.0977517106549364
+prostate,Immune (myeloid),PSKH2,1.0,0.0972762645914396
+heart,Muscle,PSKH2,1.0,0.0911803713527851
+breast,Epithelial cell,PSKH2,1.0,0.0862217623728228
+esophagusmucosa,Fibroblast,PSKH2,1.0,0.0710479573712255
+heart,Endothelial cell,PSKH2,1.0,0.0654878847413228
+esophagusmucosa,Endothelial cell,PSKH2,1.0,0.0641299700726806
+esophagusmuscularis,Muscle,PSKH2,1.0,0.0605286165848409
+breast,Adipocyte,PSKH2,1.0,0.056785917092561
+prostate,Epithelial cell,PSKH2,1.0,0.0563429116283101
+heart,Fibroblast,PSKH2,1.0,0.0538386992570259
+skeletalmuscle,Muscle,PSKH2,1.0,0.0487351025652385
+prostate,Muscle,PSKH2,1.0,0.0445831475702184
+esophagusmuscularis,Fibroblast,PSKH2,1.0,0.0288212124123354
+skeletalmuscle,Fibroblast,PSKH2,1.0,0.0168236877523553
+heart,Immune (myeloid),PSKH2,1.0,0.0156274417877793
+esophagusmucosa,Epithelial cell,PSKH2,1.0,0.0144969556393157
+esophagusmucosa,Glia,PSKH2,0.0,0.0
+esophagusmucosa,Immune (lymphocyte),PSKH2,0.0,0.0
+breast,Endothelial cell,PSKH2,0.0,0.0
+heart,Immune (lymphocyte),PSKH2,0.0,0.0
+heart,Glia,PSKH2,0.0,0.0
+esophagusmuscularis,Neuron,PSKH2,0.0,0.0
+heart,Adipocyte,PSKH2,0.0,0.0
+esophagusmuscularis,Immune (myeloid),PSKH2,0.0,0.0
+esophagusmucosa,Stromal,PSKH2,0.0,0.0
+esophagusmuscularis,Endothelial cell,PSKH2,0.0,0.0
+esophagusmuscularis,Immune (lymphocyte),PSKH2,0.0,0.0
+esophagusmucosa,Muscle,PSKH2,0.0,0.0
+esophagusmucosa,Immune (myeloid),PSKH2,0.0,0.0
+esophagusmuscularis,Adipocyte,PSKH2,0.0,0.0
+breast,Fibroblast,PSKH2,0.0,0.0
+breast,Muscle,PSKH2,0.0,0.0
+breast,Immune (myeloid),PSKH2,0.0,0.0
+lung,Muscle,PSKH2,0.0,0.0
+lung,Immune (lymphocyte),PSKH2,0.0,0.0
+skeletalmuscle,Adipocyte,PSKH2,0.0,0.0
+prostate,Immune (lymphocyte),PSKH2,0.0,0.0
+prostate,Fibroblast,PSKH2,0.0,0.0
+prostate,Glia,PSKH2,0.0,0.0
+prostate,Endothelial cell,PSKH2,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),PSKH2,0.0,0.0
+skeletalmuscle,Immune (myeloid),PSKH2,0.0,0.0
+skeletalmuscle,Glia,PSKH2,0.0,0.0
+skin,Adipocyte,PSKH2,0.0,0.0
+skin,Epithelial cell (keratinocyte),PSKH2,0.0,0.0
+skin,Fibroblast,PSKH2,0.0,0.0
+skin,Immune (lymphocyte),PSKH2,0.0,0.0
+skin,Immune (myeloid),PSKH2,0.0,0.0
+skin,Melanocyte,PSKH2,0.0,0.0
+skin,Muscle,PSKH2,0.0,0.0
+skin,Other,PSKH2,0.0,0.0

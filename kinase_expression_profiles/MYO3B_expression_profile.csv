@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (alveolar macrophage),MYO3B,0.3114193
+Sebaceous gland cell,MYO3B,0.23273548
+Epithelial cell (ciliated),MYO3B,0.22253668
+Epithelial cell (alveolar type II),MYO3B,0.20951122
+Epithelial cell (basal keratinocyte),MYO3B,0.19488968
+Immune (B cell),MYO3B,0.18708366
+Epithelial cell (alveolar type I),MYO3B,0.18579237
+Myocyte (NMJ-rich),MYO3B,0.14974464
+Neuroendocrine,MYO3B,0.1492308
+Neuronal,MYO3B,0.14405075
+Satellite cell,MYO3B,0.13114387
+Immune (Langerhans),MYO3B,0.12730671
+Epithelial cell (suprabasal keratinocyte),MYO3B,0.12387448
+Myocyte (sk. muscle),MYO3B,0.1191433
+Myocyte (cardiac),MYO3B,0.11590981
+Melanocyte,MYO3B,0.11262196
+Immune (mast cell),MYO3B,0.10628769
+Endothelial cell (vascular),MYO3B,0.10254203
+Fibroblast,MYO3B,0.101389214
+Adipocyte,MYO3B,0.09591914
+Epithelial cell (mature keratinocyte),MYO3B,0.09583884
+Myoepithelial (basal),MYO3B,0.09540362
+Myocyte (smooth muscle),MYO3B,0.091092646
+Epithelial cell (club),MYO3B,0.090806514
+ICCs,MYO3B,0.08795629
+Mucous cell,MYO3B,0.08252656
+Epithelial cell (suprabasal),MYO3B,0.08207252
+Sweat gland cell,MYO3B,0.07967098
+Endothelial cell (lymphatic),MYO3B,0.07793167
+Epithelial cell (Hillock),MYO3B,0.076558754
+Epithelial cell (luminal),MYO3B,0.073652096
+Epithelial cell (cornified keratinocyte),MYO3B,0.07286026
+Schwann cell,MYO3B,0.07049311
+Immune (NK cell),MYO3B,0.06990141
+Pericyte/SMC,MYO3B,0.06499269
+Epithelial cell (basal),MYO3B,0.06388481
+Immune (DC/macrophage),MYO3B,0.059831776
+Immune (T cell),MYO3B,0.057642106
+Myofibroblast,MYO3B,0.05536089
+Epithelial cell (squamous),MYO3B,0.052017063
+"Myocyte (sk. muscle, cytoplasmic)",MYO3B,0.033746954
+Immune (DC),MYO3B,0.021115704
+"Myocyte (cardiac, cytoplasmic)",MYO3B,0.010504374

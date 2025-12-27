@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Myocyte (cardiac),NEK9,0.49131536
+Myocyte (NMJ-rich),NEK9,0.48792407
+Immune (alveolar macrophage),NEK9,0.4796483
+Myofibroblast,NEK9,0.4133135
+Neuronal,NEK9,0.38893566
+Adipocyte,NEK9,0.3747243
+Immune (DC),NEK9,0.35856175
+Satellite cell,NEK9,0.3427845
+ICCs,NEK9,0.33982256
+Epithelial cell (ciliated),NEK9,0.32852486
+Myocyte (smooth muscle),NEK9,0.32166156
+Myoepithelial (basal),NEK9,0.31924528
+Epithelial cell (alveolar type II),NEK9,0.3154632
+Epithelial cell (basal keratinocyte),NEK9,0.31461588
+Epithelial cell (suprabasal),NEK9,0.3129508
+Fibroblast,NEK9,0.31293043
+Immune (DC/macrophage),NEK9,0.31013718
+Epithelial cell (Hillock),NEK9,0.30845237
+Epithelial cell (club),NEK9,0.3021674
+Myocyte (sk. muscle),NEK9,0.29853192
+Epithelial cell (basal),NEK9,0.29600748
+Neuroendocrine,NEK9,0.28946227
+Epithelial cell (alveolar type I),NEK9,0.28164566
+"Myocyte (cardiac, cytoplasmic)",NEK9,0.2794924
+Epithelial cell (suprabasal keratinocyte),NEK9,0.26697192
+Epithelial cell (luminal),NEK9,0.2614551
+Pericyte/SMC,NEK9,0.26031685
+Endothelial cell (vascular),NEK9,0.2548311
+Mucous cell,NEK9,0.25433174
+Immune (T cell),NEK9,0.2513258
+Immune (mast cell),NEK9,0.25050098
+Immune (B cell),NEK9,0.24384427
+Schwann cell,NEK9,0.24134344
+Sweat gland cell,NEK9,0.23859307
+Immune (Langerhans),NEK9,0.22503631
+"Myocyte (sk. muscle, cytoplasmic)",NEK9,0.2250116
+Endothelial cell (lymphatic),NEK9,0.22196686
+Sebaceous gland cell,NEK9,0.19941698
+Melanocyte,NEK9,0.16905795
+Epithelial cell (squamous),NEK9,0.1617971
+Immune (NK cell),NEK9,0.13199571
+Epithelial cell (mature keratinocyte),NEK9,0.09299757
+Epithelial cell (cornified keratinocyte),NEK9,0.06864988

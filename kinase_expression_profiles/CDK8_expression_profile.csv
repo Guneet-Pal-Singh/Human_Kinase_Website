@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Satellite cell,CDK8,0.7974136
+Myocyte (cardiac),CDK8,0.64378774
+Neuroendocrine,CDK8,0.62569815
+Immune (Langerhans),CDK8,0.56819886
+Neuronal,CDK8,0.5609964
+Myocyte (smooth muscle),CDK8,0.5304633
+Epithelial cell (club),CDK8,0.50707006
+Immune (DC),CDK8,0.49621135
+Epithelial cell (Hillock),CDK8,0.48781085
+Myofibroblast,CDK8,0.44333896
+Immune (mast cell),CDK8,0.42620972
+Epithelial cell (suprabasal),CDK8,0.42350078
+Epithelial cell (alveolar type II),CDK8,0.4141839
+Immune (alveolar macrophage),CDK8,0.4050864
+Epithelial cell (alveolar type I),CDK8,0.40320712
+Epithelial cell (basal),CDK8,0.3826678
+Myocyte (sk. muscle),CDK8,0.38226637
+Epithelial cell (luminal),CDK8,0.37605727
+Fibroblast,CDK8,0.37298393
+Pericyte/SMC,CDK8,0.37234834
+Myocyte (NMJ-rich),CDK8,0.36347485
+Immune (B cell),CDK8,0.35658053
+Immune (NK cell),CDK8,0.35229686
+Endothelial cell (lymphatic),CDK8,0.3425432
+Immune (DC/macrophage),CDK8,0.34104818
+Immune (T cell),CDK8,0.3264554
+Epithelial cell (ciliated),CDK8,0.30517808
+Mucous cell,CDK8,0.2935937
+Endothelial cell (vascular),CDK8,0.28540447
+Adipocyte,CDK8,0.2851115
+Schwann cell,CDK8,0.22893757
+Epithelial cell (mature keratinocyte),CDK8,0.22463706
+Sweat gland cell,CDK8,0.21564585
+ICCs,CDK8,0.21106914
+Myoepithelial (basal),CDK8,0.20834748
+Melanocyte,CDK8,0.19634607
+Sebaceous gland cell,CDK8,0.18650661
+Epithelial cell (cornified keratinocyte),CDK8,0.16904172
+"Myocyte (cardiac, cytoplasmic)",CDK8,0.15725148
+"Myocyte (sk. muscle, cytoplasmic)",CDK8,0.15691353
+Epithelial cell (suprabasal keratinocyte),CDK8,0.1559233
+Epithelial cell (basal keratinocyte),CDK8,0.15088178
+Epithelial cell (squamous),CDK8,0.13404192

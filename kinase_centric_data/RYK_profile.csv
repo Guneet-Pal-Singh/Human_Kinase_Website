@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skin,Epithelial cell (keratinocyte),RYK,1.2541744,27.68361581920904
+esophagusmucosa,Stromal,RYK,1.3257918,22.345803842264917
+skin,Other,RYK,1.2376238,22.345132743362832
+esophagusmucosa,Epithelial cell,RYK,1.2267376,19.085242099159174
+skin,Epithelial cell,RYK,1.3035715,18.6046511627907
+prostate,Epithelial cell,RYK,1.1927851,18.502145364712
+heart,Adipocyte,RYK,1.2,18.134715025906736
+breast,Epithelial cell,RYK,1.1707556,17.571995171581307
+skin,Immune (myeloid),RYK,1.0344827,16.201117318435752
+prostate,Muscle,RYK,1.2127072,16.139099420419083
+esophagusmuscularis,Adipocyte,RYK,1.1428572,16.0
+skin,Endothelial cell,RYK,1.1419753,15.835777126099709
+prostate,Endothelial cell,RYK,1.1560284,14.968152866242038
+prostate,Fibroblast,RYK,1.112426,14.798598949211907
+breast,Muscle,RYK,1.0454545,14.473684210526317
+heart,Muscle,RYK,1.1835891,14.041777188328911
+skin,Muscle,RYK,1.2307693,13.978494623655912
+esophagusmucosa,Muscle,RYK,1.2173913,13.77245508982036
+skin,Fibroblast,RYK,1.1470588,12.854442344045369
+breast,Endothelial cell,RYK,1.0982143,12.712826333711693
+esophagusmucosa,Endothelial cell,RYK,1.1336718,12.633604104318083
+skeletalmuscle,Adipocyte,RYK,1.05,12.57861635220126
+esophagusmucosa,Fibroblast,RYK,1.1098266,12.291296625222024
+esophagusmuscularis,Neuron,RYK,1.3333334,12.0
+breast,Adipocyte,RYK,1.097561,11.641113003975011
+lung,Epithelial cell,RYK,1.095572,11.256490134994808
+lung,Immune (myeloid),RYK,1.0872375,10.14920478767011
+esophagusmuscularis,Muscle,RYK,1.1242149,9.63750084067523
+breast,Immune (myeloid),RYK,1.2058823,9.497206703910614
+heart,Fibroblast,RYK,1.1015981,9.432540109830946
+esophagusmuscularis,Endothelial cell,RYK,1.0806046,8.899349921542255
+lung,Fibroblast,RYK,1.0551181,8.604336043360433
+lung,Muscle,RYK,1.1428572,8.588957055214724
+skin,Adipocyte,RYK,1.0,8.064516129032258
+skeletalmuscle,Fibroblast,RYK,1.0645162,7.823014804845221
+breast,Fibroblast,RYK,1.125,7.814407814407814
+skeletalmuscle,Endothelial cell,RYK,1.1386138,7.588279489105935
+prostate,Glia,RYK,1.2,7.462686567164178
+skin,Melanocyte,RYK,1.15,7.352941176470589
+skeletalmuscle,Muscle,RYK,1.091024,7.008993841655221
+heart,Endothelial cell,RYK,1.0852273,6.915520628683694
+esophagusmucosa,Immune (myeloid),RYK,1.0625,6.866952789699571
+esophagusmuscularis,Fibroblast,RYK,1.0618557,6.52320107599193
+prostate,Immune (myeloid),RYK,1.0625,6.22568093385214
+esophagusmucosa,Immune (lymphocyte),RYK,1.0619469,6.215621562156215
+lung,Endothelial cell,RYK,1.0882353,6.190823015294974
+lung,Immune (lymphocyte),RYK,1.0930233,5.931034482758621
+heart,Immune (myeloid),RYK,1.0767195,5.907172995780591
+esophagusmuscularis,Immune (lymphocyte),RYK,1.0625,5.3156146179402
+skeletalmuscle,Immune (myeloid),RYK,1.1282052,5.291723202170964
+esophagusmuscularis,Immune (myeloid),RYK,1.0448718,5.264934188322646
+prostate,Immune (lymphocyte),RYK,1.1142857,5.131964809384164
+skeletalmuscle,Immune (lymphocyte),RYK,1.4,5.0
+esophagusmuscularis,Glia,RYK,1.0652174,4.742268041237113
+esophagusmucosa,Glia,RYK,1.0,4.615384615384616
+heart,Immune (lymphocyte),RYK,1.1111112,3.8681948424068766
+skeletalmuscle,Glia,RYK,1.0,2.857142857142857
+heart,Glia,RYK,1.0,2.684563758389262
+skin,Immune (lymphocyte),RYK,1.0,2.666666666666667

@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (alveolar type II),HKDC1,0.260836
+Immune (T cell),HKDC1,0.09582162
+Epithelial cell (alveolar type I),HKDC1,0.0832459
+Epithelial cell (ciliated),HKDC1,0.06986356
+Immune (alveolar macrophage),HKDC1,0.061616752
+Melanocyte,HKDC1,0.058064744
+Sebaceous gland cell,HKDC1,0.034727443
+Myofibroblast,HKDC1,0.029460464
+Myoepithelial (basal),HKDC1,0.029113466
+Immune (B cell),HKDC1,0.02739529
+Epithelial cell (club),HKDC1,0.026495075
+Sweat gland cell,HKDC1,0.023691589
+Myocyte (sk. muscle),HKDC1,0.02084213
+Myocyte (cardiac),HKDC1,0.020623777
+Schwann cell,HKDC1,0.020507297
+Endothelial cell (vascular),HKDC1,0.020369442
+Fibroblast,HKDC1,0.018867444
+Myocyte (smooth muscle),HKDC1,0.017552655
+Epithelial cell (luminal),HKDC1,0.017396506
+Immune (NK cell),HKDC1,0.016400933
+Epithelial cell (basal keratinocyte),HKDC1,0.01568115
+Epithelial cell (Hillock),HKDC1,0.015354817
+Immune (DC/macrophage),HKDC1,0.015136483
+Pericyte/SMC,HKDC1,0.012534179
+Endothelial cell (lymphatic),HKDC1,0.012320875
+Mucous cell,HKDC1,0.011106602
+Epithelial cell (suprabasal keratinocyte),HKDC1,0.010839829
+Epithelial cell (basal),HKDC1,0.010467837
+Satellite cell,HKDC1,0.009461661
+Epithelial cell (suprabasal),HKDC1,0.008058402
+Adipocyte,HKDC1,0.0071417596
+Epithelial cell (squamous),HKDC1,0.0048827427
+Immune (mast cell),HKDC1,0.0043350104
+"Myocyte (sk. muscle, cytoplasmic)",HKDC1,0.0038513937
+"Myocyte (cardiac, cytoplasmic)",HKDC1,0.0014167852
+Epithelial cell (cornified keratinocyte),HKDC1,0.0
+Immune (Langerhans),HKDC1,0.0
+Epithelial cell (mature keratinocyte),HKDC1,0.0
+ICCs,HKDC1,0.0
+Immune (DC),HKDC1,0.0
+Myocyte (NMJ-rich),HKDC1,0.0
+Neuronal,HKDC1,0.0
+Neuroendocrine,HKDC1,0.0

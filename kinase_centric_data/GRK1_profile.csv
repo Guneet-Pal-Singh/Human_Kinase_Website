@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+heart,Muscle,GRK1,1.0,0.01657824933687
+esophagusmuscularis,Fibroblast,GRK1,1.0,0.0096070708041118
+esophagusmucosa,Epithelial cell,GRK1,1.0,0.0072484778196578
+esophagusmuscularis,Muscle,GRK1,1.0,0.0067254018427601
+prostate,Epithelial cell,GRK1,1.0,0.0043340701252546
+breast,Epithelial cell,GRK1,0.0,0.0
+breast,Fibroblast,GRK1,0.0,0.0
+esophagusmucosa,Endothelial cell,GRK1,0.0,0.0
+esophagusmucosa,Fibroblast,GRK1,0.0,0.0
+breast,Muscle,GRK1,0.0,0.0
+breast,Immune (myeloid),GRK1,0.0,0.0
+esophagusmucosa,Immune (lymphocyte),GRK1,0.0,0.0
+esophagusmucosa,Glia,GRK1,0.0,0.0
+esophagusmucosa,Stromal,GRK1,0.0,0.0
+esophagusmucosa,Immune (myeloid),GRK1,0.0,0.0
+esophagusmuscularis,Adipocyte,GRK1,0.0,0.0
+esophagusmuscularis,Endothelial cell,GRK1,0.0,0.0
+esophagusmuscularis,Glia,GRK1,0.0,0.0
+esophagusmucosa,Muscle,GRK1,0.0,0.0
+esophagusmuscularis,Immune (lymphocyte),GRK1,0.0,0.0
+esophagusmuscularis,Immune (myeloid),GRK1,0.0,0.0
+esophagusmuscularis,Neuron,GRK1,0.0,0.0
+heart,Adipocyte,GRK1,0.0,0.0
+heart,Endothelial cell,GRK1,0.0,0.0
+heart,Fibroblast,GRK1,0.0,0.0
+breast,Endothelial cell,GRK1,0.0,0.0
+breast,Adipocyte,GRK1,0.0,0.0
+heart,Immune (lymphocyte),GRK1,0.0,0.0
+heart,Glia,GRK1,0.0,0.0
+lung,Endothelial cell,GRK1,0.0,0.0
+heart,Immune (myeloid),GRK1,0.0,0.0
+lung,Fibroblast,GRK1,0.0,0.0
+lung,Immune (lymphocyte),GRK1,0.0,0.0
+lung,Immune (myeloid),GRK1,0.0,0.0
+lung,Epithelial cell,GRK1,0.0,0.0
+lung,Muscle,GRK1,0.0,0.0
+prostate,Endothelial cell,GRK1,0.0,0.0
+prostate,Fibroblast,GRK1,0.0,0.0
+prostate,Glia,GRK1,0.0,0.0
+prostate,Immune (lymphocyte),GRK1,0.0,0.0
+prostate,Immune (myeloid),GRK1,0.0,0.0
+prostate,Muscle,GRK1,0.0,0.0
+skeletalmuscle,Adipocyte,GRK1,0.0,0.0
+skeletalmuscle,Endothelial cell,GRK1,0.0,0.0
+skeletalmuscle,Fibroblast,GRK1,0.0,0.0
+skeletalmuscle,Glia,GRK1,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),GRK1,0.0,0.0
+skeletalmuscle,Immune (myeloid),GRK1,0.0,0.0
+skeletalmuscle,Muscle,GRK1,0.0,0.0
+skin,Adipocyte,GRK1,0.0,0.0
+skin,Endothelial cell,GRK1,0.0,0.0
+skin,Epithelial cell,GRK1,0.0,0.0
+skin,Epithelial cell (keratinocyte),GRK1,0.0,0.0
+skin,Fibroblast,GRK1,0.0,0.0
+skin,Immune (lymphocyte),GRK1,0.0,0.0
+skin,Immune (myeloid),GRK1,0.0,0.0
+skin,Melanocyte,GRK1,0.0,0.0
+skin,Muscle,GRK1,0.0,0.0
+skin,Other,GRK1,0.0,0.0

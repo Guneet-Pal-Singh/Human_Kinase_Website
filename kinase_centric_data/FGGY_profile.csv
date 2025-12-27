@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skeletalmuscle,Muscle,FGGY,1.356617,22.2630809445749
+lung,Epithelial cell,FGGY,1.2698413,21.7196261682243
+heart,Muscle,FGGY,1.3355321,18.84946949602122
+prostate,Epithelial cell,FGGY,1.2904377,18.22043080657045
+esophagusmucosa,Stromal,FGGY,1.1898735,15.975733063700709
+breast,Epithelial cell,FGGY,1.1953125,15.450939817209864
+skeletalmuscle,Adipocyte,FGGY,1.0833334,15.09433962264151
+skeletalmuscle,Glia,FGGY,1.4,14.285714285714285
+prostate,Muscle,FGGY,1.1835443,14.088274632189032
+prostate,Immune (myeloid),FGGY,1.1830986,13.813229571984436
+lung,Immune (myeloid),FGGY,1.1559523,13.772749631087065
+lung,Fibroblast,FGGY,1.1105528,13.48238482384824
+esophagusmuscularis,Adipocyte,FGGY,1.2173913,13.142857142857142
+esophagusmuscularis,Neuron,FGGY,1.6666666,12.0
+esophagusmucosa,Fibroblast,FGGY,1.1771772,11.829484902309058
+lung,Muscle,FGGY,1.2631578,11.65644171779141
+prostate,Fibroblast,FGGY,1.1653544,11.120840630472854
+esophagusmucosa,Epithelial cell,FGGY,1.1741683,11.111916497535518
+heart,Adipocyte,FGGY,1.2380953,10.88082901554404
+skin,Epithelial cell,FGGY,1.125,10.6312292358804
+skin,Immune (myeloid),FGGY,1.1052631,10.614525139664805
+skin,Other,FGGY,1.2173913,10.17699115044248
+esophagusmucosa,Immune (myeloid),FGGY,1.1751825,9.799713876967097
+heart,Glia,FGGY,1.2068965,9.731543624161072
+skin,Epithelial cell (keratinocyte),FGGY,1.1058201,9.70724191063174
+breast,Endothelial cell,FGGY,1.2117647,9.648127128263337
+esophagusmucosa,Endothelial cell,FGGY,1.1258427,9.512612227447628
+lung,Endothelial cell,FGGY,1.0866141,9.249817916970136
+esophagusmucosa,Glia,FGGY,1.0,9.230769230769232
+breast,Immune (myeloid),FGGY,1.0625,8.938547486033519
+breast,Adipocyte,FGGY,1.1089743,8.858603066439523
+skin,Muscle,FGGY,1.125,8.60215053763441
+breast,Fibroblast,FGGY,1.1449275,8.424908424908425
+heart,Fibroblast,FGGY,1.1145431,8.366533864541832
+esophagusmuscularis,Glia,FGGY,1.1604939,8.350515463917525
+prostate,Endothelial cell,FGGY,1.1365639,8.032554847841473
+skin,Immune (lymphocyte),FGGY,1.1666666,8.0
+esophagusmuscularis,Muscle,FGGY,1.1164966,7.909072567085882
+esophagusmuscularis,Endothelial cell,FGGY,1.1314286,7.845774490024658
+skin,Fibroblast,FGGY,1.097561,7.750472589792061
+skin,Melanocyte,FGGY,1.0,7.720588235294118
+esophagusmucosa,Muscle,FGGY,1.1842105,7.584830339321358
+esophagusmuscularis,Immune (lymphocyte),FGGY,1.0454545,7.308970099667775
+breast,Muscle,FGGY,1.2727273,7.236842105263158
+skin,Endothelial cell,FGGY,1.081081,7.233626588465299
+heart,Immune (myeloid),FGGY,1.1131222,6.907329270198469
+skeletalmuscle,Fibroblast,FGGY,1.0902256,6.712651413189771
+skeletalmuscle,Endothelial cell,FGGY,1.2183908,6.536438767843726
+heart,Endothelial cell,FGGY,1.1287553,6.10347085789129
+esophagusmuscularis,Immune (myeloid),FGGY,1.0777777,6.074924063449207
+esophagusmuscularis,Fibroblast,FGGY,1.064,6.004419252569891
+prostate,Glia,FGGY,1.0,5.970149253731343
+lung,Immune (lymphocyte),FGGY,1.1162791,5.931034482758621
+prostate,Immune (lymphocyte),FGGY,1.0769231,5.718475073313782
+esophagusmucosa,Immune (lymphocyte),FGGY,1.0980393,5.6105610561056105
+skeletalmuscle,Immune (myeloid),FGGY,1.0285715,4.74898236092266
+heart,Immune (lymphocyte),FGGY,1.0476191,3.0085959885386817
+skin,Adipocyte,FGGY,1.0,1.6129032258064515
+skeletalmuscle,Immune (lymphocyte),FGGY,1.0,1.0

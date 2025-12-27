@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+lung,Immune (myeloid),NLK,1.3956044,31.333005410723068
+heart,Immune (myeloid),NLK,1.4203283,29.52023753711517
+heart,Muscle,NLK,1.5364953,29.186007957559685
+skeletalmuscle,Glia,NLK,1.3333334,25.71428571428571
+breast,Endothelial cell,NLK,1.4932735,25.312145289443816
+heart,Endothelial cell,NLK,1.297593,23.94237066142764
+esophagusmuscularis,Immune (myeloid),NLK,1.2410715,22.679716503543705
+prostate,Immune (myeloid),NLK,1.2746781,22.66536964980545
+esophagusmucosa,Immune (myeloid),NLK,1.2468355,22.603719599427755
+heart,Adipocyte,NLK,1.4047619,21.76165803108808
+prostate,Endothelial cell,NLK,1.2659054,21.691436659589524
+skeletalmuscle,Immune (myeloid),NLK,1.2258065,21.031207598371772
+skin,Melanocyte,NLK,1.1111112,19.852941176470587
+lung,Epithelial cell,NLK,1.2314698,19.613707165109037
+prostate,Glia,NLK,1.1538461,19.402985074626866
+esophagusmucosa,Endothelial cell,NLK,1.2392776,18.93971782813168
+breast,Immune (myeloid),NLK,1.3283582,18.71508379888268
+esophagusmucosa,Stromal,NLK,1.2651933,18.301314459049543
+prostate,Epithelial cell,NLK,1.2538517,18.285441858449268
+esophagusmuscularis,Endothelial cell,NLK,1.2625995,16.90203990136741
+prostate,Muscle,NLK,1.3095238,16.852429781542575
+esophagusmuscularis,Adipocyte,NLK,1.137931,16.57142857142857
+lung,Endothelial cell,NLK,1.211236,16.205389657683906
+skeletalmuscle,Endothelial cell,NLK,1.2159624,16.003005259203608
+skin,Endothelial cell,NLK,1.2013422,14.565004887585534
+esophagusmucosa,Muscle,NLK,1.1408451,14.171656686626749
+lung,Muscle,NLK,1.1304348,14.11042944785276
+skin,Immune (myeloid),NLK,1.36,13.966480446927374
+prostate,Fibroblast,NLK,1.1132076,13.922942206654993
+skin,Immune (lymphocyte),NLK,1.1,13.333333333333334
+breast,Epithelial cell,NLK,1.1879107,13.122952233143645
+esophagusmucosa,Epithelial cell,NLK,1.2277777,13.04726007538417
+lung,Fibroblast,NLK,1.1780105,12.940379403794038
+heart,Immune (lymphocyte),NLK,1.1704545,12.607449856733524
+breast,Adipocyte,NLK,1.1004566,12.43611584327087
+esophagusmuscularis,Neuron,NLK,1.6666666,12.0
+breast,Muscle,NLK,1.0588236,11.18421052631579
+heart,Glia,NLK,1.1818181,11.073825503355703
+heart,Fibroblast,NLK,1.1513672,11.026165607838914
+skeletalmuscle,Adipocyte,NLK,1.1764706,10.69182389937107
+lung,Immune (lymphocyte),NLK,1.1948051,10.620689655172413
+esophagusmuscularis,Glia,NLK,1.1875,9.896907216494846
+skin,Epithelial cell,NLK,1.1694915,9.800664451827243
+esophagusmuscularis,Muscle,NLK,1.1461908,9.798910484901471
+esophagusmucosa,Immune (lymphocyte),NLK,1.1428572,9.24092409240924
+prostate,Immune (lymphocyte),NLK,1.1935484,9.090909090909092
+esophagusmucosa,Fibroblast,NLK,1.1428572,8.952042628774423
+skin,Muscle,NLK,1.2,8.064516129032258
+esophagusmuscularis,Immune (lymphocyte),NLK,1.0833334,7.973421926910299
+esophagusmucosa,Glia,NLK,1.2,7.6923076923076925
+breast,Fibroblast,NLK,1.1612903,7.57020757020757
+esophagusmuscularis,Fibroblast,NLK,1.102981,7.090018253434528
+skeletalmuscle,Muscle,NLK,1.144845,7.0045633777856535
+skeletalmuscle,Immune (lymphocyte),NLK,1.1428572,7.000000000000001
+skin,Fibroblast,NLK,1.1081082,6.994328922495274
+skeletalmuscle,Fibroblast,NLK,1.1058824,5.720053835800807
+skin,Epithelial cell (keratinocyte),NLK,1.1279069,4.417051874678993
+skin,Adipocyte,NLK,1.5,3.225806451612903
+skin,Other,NLK,1.1428572,3.0973451327433628

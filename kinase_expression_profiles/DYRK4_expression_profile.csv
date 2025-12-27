@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (B cell),DYRK4,0.040293735
+Immune (alveolar macrophage),DYRK4,0.02722096
+Schwann cell,DYRK4,0.01815942
+Myofibroblast,DYRK4,0.016866764
+Melanocyte,DYRK4,0.014086382
+Immune (mast cell),DYRK4,0.012825867
+Epithelial cell (alveolar type I),DYRK4,0.011421954
+Epithelial cell (alveolar type II),DYRK4,0.011160872
+Endothelial cell (lymphatic),DYRK4,0.011053182
+Endothelial cell (vascular),DYRK4,0.009741157
+Immune (DC/macrophage),DYRK4,0.009437057
+Epithelial cell (ciliated),DYRK4,0.009436885
+Epithelial cell (suprabasal keratinocyte),DYRK4,0.00917271
+Satellite cell,DYRK4,0.0086891735
+Myocyte (cardiac),DYRK4,0.00836929
+Adipocyte,DYRK4,0.007927904
+Myocyte (smooth muscle),DYRK4,0.0077580507
+Epithelial cell (basal keratinocyte),DYRK4,0.007323492
+Epithelial cell (luminal),DYRK4,0.0064883954
+Fibroblast,DYRK4,0.0058494667
+Pericyte/SMC,DYRK4,0.0049987766
+Epithelial cell (club),DYRK4,0.0046832175
+Myoepithelial (basal),DYRK4,0.004207948
+Immune (T cell),DYRK4,0.0041968017
+Epithelial cell (suprabasal),DYRK4,0.0038922157
+Myocyte (sk. muscle),DYRK4,0.003837157
+Epithelial cell (basal),DYRK4,0.0034398485
+Epithelial cell (Hillock),DYRK4,0.003297779
+"Myocyte (sk. muscle, cytoplasmic)",DYRK4,0.0026830127
+Epithelial cell (squamous),DYRK4,0.0018764857
+"Myocyte (cardiac, cytoplasmic)",DYRK4,0.0007536031
+Epithelial cell (cornified keratinocyte),DYRK4,0.0
+Epithelial cell (mature keratinocyte),DYRK4,0.0
+Immune (NK cell),DYRK4,0.0
+ICCs,DYRK4,0.0
+Immune (Langerhans),DYRK4,0.0
+Immune (DC),DYRK4,0.0
+Myocyte (NMJ-rich),DYRK4,0.0
+Mucous cell,DYRK4,0.0
+Neuronal,DYRK4,0.0
+Neuroendocrine,DYRK4,0.0
+Sebaceous gland cell,DYRK4,0.0
+Sweat gland cell,DYRK4,0.0

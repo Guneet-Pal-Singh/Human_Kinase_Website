@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (squamous),GAK,0.8861791
+Epithelial cell (mature keratinocyte),GAK,0.57813656
+Epithelial cell (suprabasal),GAK,0.5683644
+Immune (Langerhans),GAK,0.5490072
+Mucous cell,GAK,0.48336953
+Immune (DC),GAK,0.48203784
+Sebaceous gland cell,GAK,0.48112488
+Myofibroblast,GAK,0.47661176
+Endothelial cell (lymphatic),GAK,0.42222062
+Epithelial cell (cornified keratinocyte),GAK,0.40210128
+Epithelial cell (suprabasal keratinocyte),GAK,0.38268605
+Melanocyte,GAK,0.36204228
+Immune (T cell),GAK,0.35086286
+Immune (alveolar macrophage),GAK,0.3478288
+Epithelial cell (luminal),GAK,0.31541535
+Epithelial cell (basal keratinocyte),GAK,0.31419185
+Adipocyte,GAK,0.295538
+Epithelial cell (basal),GAK,0.27314705
+Epithelial cell (Hillock),GAK,0.26868904
+Immune (DC/macrophage),GAK,0.26843333
+Epithelial cell (club),GAK,0.25073832
+Sweat gland cell,GAK,0.24155408
+Immune (B cell),GAK,0.23846115
+Endothelial cell (vascular),GAK,0.23559022
+Epithelial cell (alveolar type II),GAK,0.22489828
+Immune (NK cell),GAK,0.21697715
+Epithelial cell (alveolar type I),GAK,0.2108421
+Epithelial cell (ciliated),GAK,0.21000494
+Myocyte (smooth muscle),GAK,0.20152406
+Myoepithelial (basal),GAK,0.18674599
+Myocyte (cardiac),GAK,0.18626842
+Fibroblast,GAK,0.16542166
+Myocyte (sk. muscle),GAK,0.16233446
+Pericyte/SMC,GAK,0.16095223
+Immune (mast cell),GAK,0.15352637
+Neuroendocrine,GAK,0.15115964
+Schwann cell,GAK,0.14434022
+ICCs,GAK,0.13656235
+Neuronal,GAK,0.13268924
+Satellite cell,GAK,0.098499276
+"Myocyte (sk. muscle, cytoplasmic)",GAK,0.0884934
+Myocyte (NMJ-rich),GAK,0.085585274
+"Myocyte (cardiac, cytoplasmic)",GAK,0.06825396

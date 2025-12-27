@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+prostate,Muscle,CKB,1.9792746,43.02273740526081
+esophagusmucosa,Stromal,CKB,1.4580646,31.344792719919116
+esophagusmuscularis,Muscle,CKB,2.7194023,30.60730378640124
+prostate,Epithelial cell,CKB,3.043301,20.218437134312836
+esophagusmuscularis,Neuron,CKB,1.5,16.0
+skin,Other,CKB,1.2428571,15.486725663716811
+skin,Adipocyte,CKB,1.1111112,14.516129032258066
+heart,Muscle,CKB,1.8350062,13.212864721485412
+breast,Adipocyte,CKB,1.1136364,12.49290176036343
+heart,Adipocyte,CKB,1.25,8.290155440414509
+prostate,Glia,CKB,1.8,7.462686567164178
+skin,Epithelial cell,CKB,1.3513514,6.146179401993355
+skin,Epithelial cell (keratinocyte),CKB,1.117647,6.111967128916281
+prostate,Fibroblast,CKB,1.2753624,6.042031523642732
+esophagusmucosa,Muscle,CKB,1.0333333,5.9880239520958085
+skeletalmuscle,Adipocyte,CKB,1.0,5.660377358490567
+lung,Epithelial cell,CKB,1.0807779,5.553478712357217
+skin,Muscle,CKB,1.2,5.376344086021505
+breast,Muscle,CKB,1.125,5.263157894736842
+esophagusmucosa,Fibroblast,CKB,1.1370968,4.404973357015986
+lung,Muscle,CKB,1.1428572,4.294478527607362
+esophagusmucosa,Epithelial cell,CKB,1.2049037,4.138880835024645
+esophagusmucosa,Glia,CKB,1.0,3.076923076923077
+lung,Fibroblast,CKB,1.0789474,2.5745257452574526
+esophagusmuscularis,Glia,CKB,1.3043479,2.3711340206185567
+skin,Immune (myeloid),CKB,1.0,2.23463687150838
+skin,Melanocyte,CKB,1.1666666,2.2058823529411766
+skin,Fibroblast,CKB,1.0909091,2.0793950850661624
+heart,Glia,CKB,1.0,1.6778523489932886
+breast,Fibroblast,CKB,1.0,1.465201465201465
+prostate,Immune (myeloid),CKB,2.0714285,1.3618677042801557
+skeletalmuscle,Endothelial cell,CKB,1.0,0.7513148009015778
+prostate,Endothelial cell,CKB,1.6470588,0.6015569709837225
+skeletalmuscle,Muscle,CKB,1.5193799,0.5715298391741616
+esophagusmuscularis,Adipocyte,CKB,2.0,0.5714285714285714
+skeletalmuscle,Fibroblast,CKB,1.0625,0.5383580080753702
+esophagusmuscularis,Fibroblast,CKB,1.3023256,0.4131040445768085
+heart,Fibroblast,CKB,1.0,0.3553354150963713
+breast,Endothelial cell,CKB,1.0,0.340522133938706
+breast,Epithelial cell,CKB,1.0526316,0.327642697016727
+esophagusmucosa,Endothelial cell,CKB,1.0,0.3206498503634031
+prostate,Immune (lymphocyte),CKB,2.0,0.2932551319648094
+lung,Immune (myeloid),CKB,1.117647,0.278734218724381
+esophagusmuscularis,Immune (myeloid),CKB,1.2857143,0.2362470469119136
+heart,Endothelial cell,CKB,1.117647,0.2226588081204977
+esophagusmucosa,Immune (myeloid),CKB,1.0,0.2145922746781116
+lung,Endothelial cell,CKB,1.0,0.1456664238892935
+heart,Immune (lymphocyte),CKB,1.0,0.1432664756446991
+heart,Immune (myeloid),CKB,1.0,0.140646976090014
+lung,Immune (lymphocyte),CKB,1.0,0.1379310344827586
+esophagusmuscularis,Endothelial cell,CKB,1.2,0.1120824927146379
+esophagusmucosa,Immune (lymphocyte),CKB,1.0,0.055005500550055
+breast,Immune (myeloid),CKB,0.0,0.0
+esophagusmuscularis,Immune (lymphocyte),CKB,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),CKB,0.0,0.0
+skin,Endothelial cell,CKB,0.0,0.0
+skeletalmuscle,Immune (myeloid),CKB,0.0,0.0
+skeletalmuscle,Glia,CKB,0.0,0.0
+skin,Immune (lymphocyte),CKB,0.0,0.0

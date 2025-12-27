@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Neuronal,VRK3,0.24555531
+Immune (NK cell),VRK3,0.22558315
+Epithelial cell (ciliated),VRK3,0.2011908
+Epithelial cell (suprabasal),VRK3,0.19702062
+Epithelial cell (luminal),VRK3,0.18300545
+Mucous cell,VRK3,0.17256637
+Immune (alveolar macrophage),VRK3,0.16865727
+Myofibroblast,VRK3,0.15552624
+Epithelial cell (basal keratinocyte),VRK3,0.14870247
+Satellite cell,VRK3,0.1455564
+Myocyte (cardiac),VRK3,0.14462106
+ICCs,VRK3,0.1420932
+Myocyte (smooth muscle),VRK3,0.14156382
+Immune (B cell),VRK3,0.13915738
+Immune (T cell),VRK3,0.13698079
+Myoepithelial (basal),VRK3,0.13608822
+Epithelial cell (club),VRK3,0.13178319
+Epithelial cell (squamous),VRK3,0.12518215
+Adipocyte,VRK3,0.12320417
+Epithelial cell (alveolar type II),VRK3,0.12214755
+Epithelial cell (basal),VRK3,0.12143549
+Immune (DC/macrophage),VRK3,0.120663606
+Epithelial cell (alveolar type I),VRK3,0.12017031
+Schwann cell,VRK3,0.11489373
+Endothelial cell (vascular),VRK3,0.10955841
+Epithelial cell (cornified keratinocyte),VRK3,0.108030654
+Fibroblast,VRK3,0.107539244
+Endothelial cell (lymphatic),VRK3,0.107216276
+Immune (DC),VRK3,0.10312418
+Epithelial cell (Hillock),VRK3,0.10228812
+Pericyte/SMC,VRK3,0.1014753
+Immune (mast cell),VRK3,0.0991383
+Myocyte (NMJ-rich),VRK3,0.08617689
+Neuroendocrine,VRK3,0.08257707
+Myocyte (sk. muscle),VRK3,0.066367134
+"Myocyte (cardiac, cytoplasmic)",VRK3,0.06125087
+"Myocyte (sk. muscle, cytoplasmic)",VRK3,0.056019958
+Immune (Langerhans),VRK3,0.055408884
+Epithelial cell (suprabasal keratinocyte),VRK3,0.05361223
+Sweat gland cell,VRK3,0.047553804
+Sebaceous gland cell,VRK3,0.046269074
+Melanocyte,VRK3,0.02537481
+Epithelial cell (mature keratinocyte),VRK3,0.0

@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Neuroendocrine,STK32A,0.72018015
+Schwann cell,STK32A,0.51124644
+Sweat gland cell,STK32A,0.5007601
+Melanocyte,STK32A,0.4817967
+Epithelial cell (alveolar type I),STK32A,0.34928325
+Epithelial cell (alveolar type II),STK32A,0.25305486
+Satellite cell,STK32A,0.23510663
+Immune (alveolar macrophage),STK32A,0.11109809
+Epithelial cell (ciliated),STK32A,0.10719552
+Neuronal,STK32A,0.10267818
+Fibroblast,STK32A,0.08418246
+Epithelial cell (club),STK32A,0.058224645
+ICCs,STK32A,0.056611918
+Epithelial cell (cornified keratinocyte),STK32A,0.05332453
+Myocyte (smooth muscle),STK32A,0.051247783
+Endothelial cell (vascular),STK32A,0.04881195
+Immune (mast cell),STK32A,0.048106164
+Myoepithelial (basal),STK32A,0.04294999
+Immune (Langerhans),STK32A,0.040927958
+Myocyte (cardiac),STK32A,0.039693866
+Adipocyte,STK32A,0.038936734
+Myofibroblast,STK32A,0.0375627
+Pericyte/SMC,STK32A,0.036135875
+Epithelial cell (luminal),STK32A,0.031182745
+Myocyte (NMJ-rich),STK32A,0.029060371
+Epithelial cell (basal),STK32A,0.027505478
+Mucous cell,STK32A,0.027059104
+Endothelial cell (lymphatic),STK32A,0.02460082
+Epithelial cell (Hillock),STK32A,0.024212403
+Myocyte (sk. muscle),STK32A,0.02418281
+Immune (DC/macrophage),STK32A,0.01908861
+Epithelial cell (suprabasal),STK32A,0.01899441
+Sebaceous gland cell,STK32A,0.018729432
+Immune (T cell),STK32A,0.016873563
+Epithelial cell (basal keratinocyte),STK32A,0.009806241
+Epithelial cell (squamous),STK32A,0.009482506
+"Myocyte (cardiac, cytoplasmic)",STK32A,0.008980272
+Immune (NK cell),STK32A,0.008542321
+"Myocyte (sk. muscle, cytoplasmic)",STK32A,0.007905155
+Immune (DC),STK32A,0.0
+Epithelial cell (mature keratinocyte),STK32A,0.0
+Epithelial cell (suprabasal keratinocyte),STK32A,0.0
+Immune (B cell),STK32A,0.0

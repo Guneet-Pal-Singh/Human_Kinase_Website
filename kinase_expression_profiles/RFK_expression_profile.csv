@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Neuronal,RFK,0.31418645
+"Myocyte (cardiac, cytoplasmic)",RFK,0.19158654
+"Myocyte (sk. muscle, cytoplasmic)",RFK,0.09467034
+Epithelial cell (squamous),RFK,0.09056264
+Neuroendocrine,RFK,0.063821636
+Fibroblast,RFK,0.061276745
+Sebaceous gland cell,RFK,0.058114965
+Endothelial cell (lymphatic),RFK,0.056363683
+Epithelial cell (ciliated),RFK,0.05278063
+Endothelial cell (vascular),RFK,0.043717206
+Epithelial cell (luminal),RFK,0.04024122
+Myocyte (smooth muscle),RFK,0.035560116
+Myofibroblast,RFK,0.034106947
+Immune (DC),RFK,0.03400751
+Myocyte (cardiac),RFK,0.030148983
+Schwann cell,RFK,0.02860251
+Immune (NK cell),RFK,0.026304597
+Epithelial cell (club),RFK,0.026168307
+Immune (alveolar macrophage),RFK,0.02616476
+Melanocyte,RFK,0.024059173
+Pericyte/SMC,RFK,0.02300184
+Epithelial cell (basal keratinocyte),RFK,0.019161077
+Epithelial cell (Hillock),RFK,0.018842999
+Epithelial cell (mature keratinocyte),RFK,0.017632507
+Immune (DC/macrophage),RFK,0.01680149
+Immune (B cell),RFK,0.015078106
+Epithelial cell (basal),RFK,0.014320202
+ICCs,RFK,0.013814541
+Epithelial cell (alveolar type I),RFK,0.0127585335
+Epithelial cell (suprabasal keratinocyte),RFK,0.010500789
+Mucous cell,RFK,0.010485935
+Immune (T cell),RFK,0.010458446
+Immune (mast cell),RFK,0.010353949
+Satellite cell,RFK,0.009099737
+Epithelial cell (suprabasal),RFK,0.008763877
+Adipocyte,RFK,0.008003843
+Myoepithelial (basal),RFK,0.0066505237
+Epithelial cell (alveolar type II),RFK,0.0055335793
+Myocyte (sk. muscle),RFK,0.0006233024
+Epithelial cell (cornified keratinocyte),RFK,0.0
+Immune (Langerhans),RFK,0.0
+Myocyte (NMJ-rich),RFK,0.0
+Sweat gland cell,RFK,0.0

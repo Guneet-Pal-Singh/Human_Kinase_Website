@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (Hillock),DDR1,0.46053374
+Mucous cell,DDR1,0.3918877
+Epithelial cell (suprabasal),DDR1,0.38597968
+Epithelial cell (suprabasal keratinocyte),DDR1,0.33069676
+Epithelial cell (basal),DDR1,0.31294745
+Myoepithelial (basal),DDR1,0.306261
+Epithelial cell (club),DDR1,0.28585708
+Epithelial cell (cornified keratinocyte),DDR1,0.2834555
+Epithelial cell (basal keratinocyte),DDR1,0.27074388
+Epithelial cell (squamous),DDR1,0.24991043
+Epithelial cell (luminal),DDR1,0.23701268
+Epithelial cell (ciliated),DDR1,0.21639553
+Sweat gland cell,DDR1,0.20066231
+Adipocyte,DDR1,0.19973688
+"Myocyte (sk. muscle, cytoplasmic)",DDR1,0.18877506
+Neuroendocrine,DDR1,0.16314997
+Epithelial cell (alveolar type I),DDR1,0.15638417
+Epithelial cell (mature keratinocyte),DDR1,0.15552145
+Myofibroblast,DDR1,0.15532844
+Immune (Langerhans),DDR1,0.123450324
+Sebaceous gland cell,DDR1,0.09558229
+Schwann cell,DDR1,0.07047722
+Epithelial cell (alveolar type II),DDR1,0.06803265
+"Myocyte (cardiac, cytoplasmic)",DDR1,0.0663916
+Myocyte (smooth muscle),DDR1,0.03749501
+Myocyte (sk. muscle),DDR1,0.029491805
+ICCs,DDR1,0.02824249
+Myocyte (NMJ-rich),DDR1,0.02797853
+Satellite cell,DDR1,0.02516424
+Immune (alveolar macrophage),DDR1,0.022002846
+Myocyte (cardiac),DDR1,0.019744774
+Pericyte/SMC,DDR1,0.017781155
+Fibroblast,DDR1,0.014367029
+Melanocyte,DDR1,0.013831234
+Endothelial cell (vascular),DDR1,0.0116620045
+Immune (DC/macrophage),DDR1,0.011520914
+Endothelial cell (lymphatic),DDR1,0.009099737
+Immune (T cell),DDR1,0.0041959444
+Immune (mast cell),DDR1,0.0031426533
+Immune (DC),DDR1,0.0
+Immune (NK cell),DDR1,0.0
+Immune (B cell),DDR1,0.0
+Neuronal,DDR1,0.0

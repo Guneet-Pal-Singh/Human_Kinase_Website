@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+"Myocyte (cardiac, cytoplasmic)",CMPK1,0.48696277
+Epithelial cell (club),CMPK1,0.3545327
+Epithelial cell (suprabasal),CMPK1,0.35253975
+Mucous cell,CMPK1,0.3497781
+"Myocyte (sk. muscle, cytoplasmic)",CMPK1,0.32648405
+Epithelial cell (Hillock),CMPK1,0.31191275
+Epithelial cell (squamous),CMPK1,0.30566528
+Epithelial cell (luminal),CMPK1,0.3009017
+Neuroendocrine,CMPK1,0.25933078
+Immune (alveolar macrophage),CMPK1,0.24462849
+Adipocyte,CMPK1,0.23543084
+Immune (NK cell),CMPK1,0.23068543
+Myocyte (smooth muscle),CMPK1,0.21504442
+Myocyte (cardiac),CMPK1,0.20926176
+Myofibroblast,CMPK1,0.20494452
+Epithelial cell (basal),CMPK1,0.19207034
+Immune (B cell),CMPK1,0.17898422
+Epithelial cell (ciliated),CMPK1,0.17823416
+Epithelial cell (alveolar type II),CMPK1,0.17375001
+Endothelial cell (vascular),CMPK1,0.16888157
+Sebaceous gland cell,CMPK1,0.16766636
+Fibroblast,CMPK1,0.16556688
+Myocyte (NMJ-rich),CMPK1,0.16245218
+Myocyte (sk. muscle),CMPK1,0.15916473
+Epithelial cell (alveolar type I),CMPK1,0.14878191
+Satellite cell,CMPK1,0.14811128
+Pericyte/SMC,CMPK1,0.14654955
+Immune (DC),CMPK1,0.14447403
+Neuronal,CMPK1,0.13741115
+Endothelial cell (lymphatic),CMPK1,0.1324332
+Immune (T cell),CMPK1,0.1256211
+Epithelial cell (suprabasal keratinocyte),CMPK1,0.121064864
+Epithelial cell (basal keratinocyte),CMPK1,0.120535955
+Immune (DC/macrophage),CMPK1,0.11459703
+Epithelial cell (cornified keratinocyte),CMPK1,0.1029024
+Epithelial cell (mature keratinocyte),CMPK1,0.0955097
+Immune (mast cell),CMPK1,0.09098721
+Sweat gland cell,CMPK1,0.08118938
+Myoepithelial (basal),CMPK1,0.08095965
+Schwann cell,CMPK1,0.073243156
+ICCs,CMPK1,0.06222388
+Melanocyte,CMPK1,0.039686672
+Immune (Langerhans),CMPK1,0.0

@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+prostate,Immune (myeloid),CAMKK1,1.1976744,8.365758754863812
+lung,Immune (myeloid),CAMKK1,1.0909091,8.116084604033448
+esophagusmuscularis,Neuron,CAMKK1,1.0,8.0
+skin,Epithelial cell,CAMKK1,1.1395348,7.142857142857142
+esophagusmucosa,Stromal,CAMKK1,1.115942,6.976744186046512
+skin,Melanocyte,CAMKK1,1.117647,6.25
+esophagusmucosa,Immune (myeloid),CAMKK1,1.1046512,6.151645207439199
+skin,Epithelial cell (keratinocyte),CAMKK1,1.1092438,6.111967128916281
+esophagusmucosa,Epithelial cell,CAMKK1,1.1228534,5.487097709481009
+breast,Immune (myeloid),CAMKK1,1.0,5.307262569832402
+esophagusmucosa,Endothelial cell,CAMKK1,1.0987654,5.194527575887131
+esophagusmuscularis,Adipocyte,CAMKK1,1.0,5.142857142857142
+prostate,Endothelial cell,CAMKK1,1.0780141,4.989384288747346
+esophagusmuscularis,Immune (myeloid),CAMKK1,1.0666667,4.5561930475869055
+skin,Other,CAMKK1,1.15,4.424778761061947
+skin,Endothelial cell,CAMKK1,1.0666667,4.398826979472141
+prostate,Muscle,CAMKK1,1.0412371,4.32456531431119
+breast,Epithelial cell,CAMKK1,1.064,4.311088118641146
+skeletalmuscle,Immune (myeloid),CAMKK1,1.0967742,4.2062415196743554
+breast,Endothelial cell,CAMKK1,1.027027,4.19977298524404
+prostate,Fibroblast,CAMKK1,1.0454545,3.852889667250438
+heart,Immune (myeloid),CAMKK1,1.0699588,3.79746835443038
+heart,Muscle,CAMKK1,1.0729412,3.522877984084881
+esophagusmucosa,Immune (lymphocyte),CAMKK1,1.0476191,3.4653465346534658
+lung,Epithelial cell,CAMKK1,1.0662651,3.447559709241952
+skin,Immune (myeloid),CAMKK1,1.0,3.35195530726257
+esophagusmucosa,Fibroblast,CAMKK1,1.0689656,3.090586145648313
+lung,Endothelial cell,CAMKK1,1.0243902,2.986161689730517
+esophagusmuscularis,Endothelial cell,CAMKK1,1.0564516,2.779645819323022
+skeletalmuscle,Endothelial cell,CAMKK1,1.0,2.70473328324568
+esophagusmuscularis,Muscle,CAMKK1,1.0415584,2.58927970946264
+breast,Fibroblast,CAMKK1,1.0476191,2.564102564102564
+prostate,Epithelial cell,CAMKK1,1.0576923,2.4790881116456465
+skin,Fibroblast,CAMKK1,1.2307693,2.457466918714556
+esophagusmuscularis,Fibroblast,CAMKK1,1.0493274,2.142376789316937
+heart,Adipocyte,CAMKK1,1.25,2.072538860103627
+heart,Endothelial cell,CAMKK1,1.050633,2.0694171578258023
+esophagusmucosa,Muscle,CAMKK1,1.0,1.996007984031936
+skeletalmuscle,Muscle,CAMKK1,1.0533333,1.9937087413052148
+breast,Muscle,CAMKK1,1.3333334,1.973684210526316
+heart,Fibroblast,CAMKK1,1.0837989,1.9274254334015288
+skeletalmuscle,Fibroblast,CAMKK1,1.0353982,1.9010767160161504
+esophagusmuscularis,Immune (lymphocyte),CAMKK1,1.2,1.6611295681063123
+skin,Adipocyte,CAMKK1,1.0,1.6129032258064515
+esophagusmucosa,Glia,CAMKK1,1.0,1.5384615384615383
+lung,Immune (lymphocyte),CAMKK1,1.1818181,1.5172413793103448
+prostate,Glia,CAMKK1,1.0,1.4925373134328357
+heart,Glia,CAMKK1,1.0,1.342281879194631
+esophagusmuscularis,Glia,CAMKK1,1.0,1.3402061855670102
+skin,Immune (lymphocyte),CAMKK1,1.0,1.3333333333333337
+heart,Immune (lymphocyte),CAMKK1,1.0,1.2893982808022924
+lung,Fibroblast,CAMKK1,1.0,1.2872628726287263
+lung,Muscle,CAMKK1,1.0,1.2269938650306749
+skin,Muscle,CAMKK1,1.0,1.0752688172043012
+skeletalmuscle,Immune (lymphocyte),CAMKK1,1.0,1.0
+breast,Adipocyte,CAMKK1,1.0,0.8517887563884157
+skeletalmuscle,Adipocyte,CAMKK1,1.0,0.628930817610063
+prostate,Immune (lymphocyte),CAMKK1,1.0,0.5865102639296188
+skeletalmuscle,Glia,CAMKK1,0.0,0.0

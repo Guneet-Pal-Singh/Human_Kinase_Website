@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (cornified keratinocyte),CLK1,0.8084353
+Epithelial cell (basal keratinocyte),CLK1,0.7969945
+Epithelial cell (squamous),CLK1,0.663362
+Immune (DC),CLK1,0.60154593
+Satellite cell,CLK1,0.6011907
+Neuroendocrine,CLK1,0.5859033
+Immune (mast cell),CLK1,0.57616025
+Epithelial cell (suprabasal),CLK1,0.56804407
+Myofibroblast,CLK1,0.55798525
+Fibroblast,CLK1,0.5216146
+Immune (Langerhans),CLK1,0.50420874
+Epithelial cell (suprabasal keratinocyte),CLK1,0.49851397
+Myocyte (cardiac),CLK1,0.48896885
+Myocyte (smooth muscle),CLK1,0.47126773
+Epithelial cell (basal),CLK1,0.46602917
+Immune (T cell),CLK1,0.43351057
+Epithelial cell (luminal),CLK1,0.4174982
+Schwann cell,CLK1,0.40998986
+Melanocyte,CLK1,0.4084728
+Mucous cell,CLK1,0.40715846
+Epithelial cell (Hillock),CLK1,0.39304122
+Epithelial cell (alveolar type II),CLK1,0.3912192
+Endothelial cell (lymphatic),CLK1,0.38129884
+Epithelial cell (club),CLK1,0.36917612
+Immune (DC/macrophage),CLK1,0.36849183
+Immune (NK cell),CLK1,0.36276323
+ICCs,CLK1,0.35871905
+Pericyte/SMC,CLK1,0.33649322
+Immune (B cell),CLK1,0.3312569
+Endothelial cell (vascular),CLK1,0.32481602
+Epithelial cell (alveolar type I),CLK1,0.3083607
+Epithelial cell (mature keratinocyte),CLK1,0.30735508
+"Myocyte (sk. muscle, cytoplasmic)",CLK1,0.30340534
+Epithelial cell (ciliated),CLK1,0.28965193
+Myoepithelial (basal),CLK1,0.2866271
+Adipocyte,CLK1,0.28463432
+Immune (alveolar macrophage),CLK1,0.28170976
+Sebaceous gland cell,CLK1,0.27082923
+Myocyte (NMJ-rich),CLK1,0.2635599
+Neuronal,CLK1,0.24849585
+Sweat gland cell,CLK1,0.2464214
+Myocyte (sk. muscle),CLK1,0.23733981
+"Myocyte (cardiac, cytoplasmic)",CLK1,0.17532553

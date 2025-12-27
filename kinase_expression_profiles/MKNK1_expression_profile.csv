@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (alveolar macrophage),MKNK1,0.85065097
+Immune (DC/macrophage),MKNK1,0.78307515
+Sebaceous gland cell,MKNK1,0.78094536
+Myocyte (sk. muscle),MKNK1,0.60631585
+Myocyte (NMJ-rich),MKNK1,0.5739975
+Adipocyte,MKNK1,0.5360512
+Myocyte (cardiac),MKNK1,0.47089788
+Myofibroblast,MKNK1,0.4567496
+Epithelial cell (suprabasal),MKNK1,0.442258
+Neuronal,MKNK1,0.41775522
+Immune (T cell),MKNK1,0.38789088
+Immune (mast cell),MKNK1,0.33783394
+Fibroblast,MKNK1,0.32818118
+Satellite cell,MKNK1,0.32128927
+Pericyte/SMC,MKNK1,0.28786734
+Epithelial cell (basal),MKNK1,0.28575113
+Mucous cell,MKNK1,0.28267202
+Immune (NK cell),MKNK1,0.2766177
+Immune (DC),MKNK1,0.26808134
+Myocyte (smooth muscle),MKNK1,0.2667355
+Epithelial cell (alveolar type I),MKNK1,0.25875694
+Immune (Langerhans),MKNK1,0.2561404
+Epithelial cell (Hillock),MKNK1,0.24362423
+Immune (B cell),MKNK1,0.24127345
+Schwann cell,MKNK1,0.23261592
+"Myocyte (sk. muscle, cytoplasmic)",MKNK1,0.2226773
+Epithelial cell (club),MKNK1,0.20826502
+Endothelial cell (lymphatic),MKNK1,0.20659529
+Epithelial cell (luminal),MKNK1,0.19843094
+Epithelial cell (squamous),MKNK1,0.1955092
+Endothelial cell (vascular),MKNK1,0.1939061
+Sweat gland cell,MKNK1,0.18538816
+Epithelial cell (basal keratinocyte),MKNK1,0.1743805
+Myoepithelial (basal),MKNK1,0.15752704
+ICCs,MKNK1,0.15536147
+Epithelial cell (alveolar type II),MKNK1,0.15452889
+Melanocyte,MKNK1,0.13538787
+Epithelial cell (ciliated),MKNK1,0.13512103
+"Myocyte (cardiac, cytoplasmic)",MKNK1,0.12995459
+Neuroendocrine,MKNK1,0.12030259
+Epithelial cell (suprabasal keratinocyte),MKNK1,0.08085981
+Epithelial cell (cornified keratinocyte),MKNK1,0.038835786
+Epithelial cell (mature keratinocyte),MKNK1,0.0

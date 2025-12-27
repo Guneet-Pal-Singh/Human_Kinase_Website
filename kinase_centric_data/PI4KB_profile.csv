@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+prostate,Glia,PI4KB,1.0,13.432835820895525
+lung,Immune (myeloid),PI4KB,1.1563683,13.002131496966715
+esophagusmucosa,Stromal,PI4KB,1.1652893,12.234580384226492
+esophagusmuscularis,Adipocyte,PI4KB,1.0476191,12.0
+skeletalmuscle,Glia,PI4KB,1.0,11.428571428571429
+esophagusmucosa,Epithelial cell,PI4KB,1.1306931,10.981443896781675
+heart,Adipocyte,PI4KB,1.1904762,10.88082901554404
+skin,Epithelial cell (keratinocyte),PI4KB,1.053398,10.580380071905497
+heart,Muscle,PI4KB,1.1391097,10.427718832891248
+skin,Melanocyte,PI4KB,1.1428572,10.294117647058822
+breast,Adipocyte,PI4KB,1.0607735,10.278250993753549
+skin,Other,PI4KB,1.0681819,9.734513274336283
+esophagusmucosa,Immune (myeloid),PI4KB,1.117647,9.72818311874106
+prostate,Muscle,PI4KB,1.110599,9.674543022737408
+prostate,Epithelial cell,PI4KB,1.1109601,9.569626836562216
+skin,Immune (myeloid),PI4KB,1.0,8.938547486033519
+prostate,Immune (myeloid),PI4KB,1.0989012,8.852140077821012
+lung,Epithelial cell,PI4KB,1.0736685,8.344755970924195
+skin,Adipocyte,PI4KB,1.2,8.064516129032258
+skin,Immune (lymphocyte),PI4KB,1.3333334,8.0
+esophagusmuscularis,Neuron,PI4KB,1.0,8.0
+lung,Endothelial cell,PI4KB,1.1284404,7.938820101966497
+esophagusmucosa,Glia,PI4KB,1.0,7.6923076923076925
+lung,Fibroblast,PI4KB,1.0642202,7.384823848238482
+skin,Epithelial cell,PI4KB,1.0454545,7.308970099667775
+heart,Immune (myeloid),PI4KB,1.0570176,7.126113455227379
+heart,Fibroblast,PI4KB,1.0892019,6.8805857650479165
+breast,Epithelial cell,PI4KB,1.0927835,6.690808760131057
+esophagusmucosa,Fibroblast,PI4KB,1.0481284,6.642984014209591
+esophagusmucosa,Muscle,PI4KB,1.030303,6.58682634730539
+esophagusmucosa,Endothelial cell,PI4KB,1.0528053,6.4771269773407445
+skin,Muscle,PI4KB,1.0,6.451612903225806
+esophagusmuscularis,Muscle,PI4KB,1.07652,6.41603335799314
+breast,Fibroblast,PI4KB,1.0784314,6.227106227106227
+esophagusmuscularis,Immune (myeloid),PI4KB,1.0722222,6.074924063449207
+skin,Fibroblast,PI4KB,1.09375,6.049149338374291
+prostate,Fibroblast,PI4KB,1.0757576,5.779334500875657
+esophagusmuscularis,Endothelial cell,PI4KB,1.0674603,5.648957632817754
+breast,Immune (myeloid),PI4KB,1.1,5.58659217877095
+heart,Endothelial cell,PI4KB,1.0853659,5.370006548788474
+esophagusmuscularis,Fibroblast,PI4KB,1.0526316,5.293496013065616
+skeletalmuscle,Endothelial cell,PI4KB,1.0724638,5.184072126220887
+esophagusmuscularis,Glia,PI4KB,1.06,5.154639175257731
+esophagusmucosa,Immune (lymphocyte),PI4KB,1.0652174,5.060506050605061
+skeletalmuscle,Muscle,PI4KB,1.0760181,4.895662575871694
+prostate,Endothelial cell,PI4KB,1.0294118,4.81245576786978
+breast,Endothelial cell,PI4KB,1.0243902,4.653802497162316
+breast,Muscle,PI4KB,1.0,4.605263157894736
+heart,Immune (lymphocyte),PI4KB,1.032258,4.441260744985674
+skeletalmuscle,Adipocyte,PI4KB,1.0,4.40251572327044
+prostate,Immune (lymphocyte),PI4KB,1.0333333,4.398826979472141
+skeletalmuscle,Immune (myeloid),PI4KB,1.1290323,4.2062415196743554
+skin,Endothelial cell,PI4KB,1.0,4.007820136852395
+lung,Immune (lymphocyte),PI4KB,1.0344827,4.0
+esophagusmuscularis,Immune (lymphocyte),PI4KB,1.0,3.986710963455149
+skeletalmuscle,Fibroblast,PI4KB,1.0517242,3.9030955585464335
+heart,Glia,PI4KB,1.0,3.355704697986577
+lung,Muscle,PI4KB,1.0,1.8404907975460123
+skeletalmuscle,Immune (lymphocyte),PI4KB,1.0,1.0

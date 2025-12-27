@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (T cell),LCK,0.72713655
+Immune (NK cell),LCK,0.6877689
+Immune (B cell),LCK,0.10102702
+Immune (Langerhans),LCK,0.09401146
+Immune (alveolar macrophage),LCK,0.070267394
+Immune (DC),LCK,0.06018961
+Epithelial cell (ciliated),LCK,0.056703363
+Myofibroblast,LCK,0.049230702
+Epithelial cell (alveolar type II),LCK,0.04432174
+Melanocyte,LCK,0.04427187
+Epithelial cell (alveolar type I),LCK,0.03594331
+Neuroendocrine,LCK,0.023202742
+Endothelial cell (vascular),LCK,0.022017583
+Myocyte (cardiac),LCK,0.021172479
+Sebaceous gland cell,LCK,0.019452617
+Myoepithelial (basal),LCK,0.018480195
+Satellite cell,LCK,0.017839082
+Myocyte (smooth muscle),LCK,0.017433379
+Endothelial cell (lymphatic),LCK,0.016878493
+ICCs,LCK,0.01676001
+Immune (DC/macrophage),LCK,0.015904164
+Myocyte (sk. muscle),LCK,0.015831191
+Epithelial cell (suprabasal),LCK,0.014669071
+Pericyte/SMC,LCK,0.014579691
+Epithelial cell (squamous),LCK,0.013861724
+Epithelial cell (luminal),LCK,0.013265077
+Schwann cell,LCK,0.011865002
+Epithelial cell (Hillock),LCK,0.011824917
+Adipocyte,LCK,0.011610484
+Immune (mast cell),LCK,0.011047209
+Epithelial cell (club),LCK,0.010777866
+Fibroblast,LCK,0.010530838
+Epithelial cell (basal keratinocyte),LCK,0.009672484
+Epithelial cell (basal),LCK,0.009022487
+Epithelial cell (suprabasal keratinocyte),LCK,0.0073958705
+Mucous cell,LCK,0.00660995
+"Myocyte (sk. muscle, cytoplasmic)",LCK,0.0033108199
+"Myocyte (cardiac, cytoplasmic)",LCK,0.0023451403
+Epithelial cell (cornified keratinocyte),LCK,0.0
+Epithelial cell (mature keratinocyte),LCK,0.0
+Myocyte (NMJ-rich),LCK,0.0
+Neuronal,LCK,0.0
+Sweat gland cell,LCK,0.0

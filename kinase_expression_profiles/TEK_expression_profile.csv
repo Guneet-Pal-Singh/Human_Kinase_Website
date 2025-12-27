@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Endothelial cell (vascular),TEK,0.6819862
+Endothelial cell (lymphatic),TEK,0.35205203
+Neuronal,TEK,0.12232406
+Epithelial cell (alveolar type I),TEK,0.10320023
+ICCs,TEK,0.0782176
+Immune (DC),TEK,0.07335267
+Schwann cell,TEK,0.06693779
+"Myocyte (cardiac, cytoplasmic)",TEK,0.06498775
+Satellite cell,TEK,0.06439083
+Epithelial cell (ciliated),TEK,0.060124453
+Immune (mast cell),TEK,0.04620262
+Myofibroblast,TEK,0.043720376
+Sweat gland cell,TEK,0.043214064
+Immune (alveolar macrophage),TEK,0.04259153
+"Myocyte (sk. muscle, cytoplasmic)",TEK,0.041722644
+Myocyte (NMJ-rich),TEK,0.031879697
+Sebaceous gland cell,TEK,0.031610854
+Pericyte/SMC,TEK,0.031064257
+Epithelial cell (alveolar type II),TEK,0.030278834
+Myocyte (cardiac),TEK,0.024740132
+Myoepithelial (basal),TEK,0.024280218
+Adipocyte,TEK,0.019997694
+Fibroblast,TEK,0.018249769
+Immune (T cell),TEK,0.015425602
+Immune (DC/macrophage),TEK,0.013916402
+Immune (NK cell),TEK,0.012410224
+Melanocyte,TEK,0.012402893
+Myocyte (sk. muscle),TEK,0.011488838
+Epithelial cell (club),TEK,0.011132201
+Myocyte (smooth muscle),TEK,0.011002834
+Epithelial cell (luminal),TEK,0.01093661
+Epithelial cell (squamous),TEK,0.0109093
+Epithelial cell (Hillock),TEK,0.010474836
+Epithelial cell (basal),TEK,0.0095002735
+Epithelial cell (suprabasal),TEK,0.0043238653
+Mucous cell,TEK,0.00345855
+Epithelial cell (basal keratinocyte),TEK,0.0010533531
+Epithelial cell (cornified keratinocyte),TEK,0.0
+Immune (B cell),TEK,0.0
+Immune (Langerhans),TEK,0.0
+Epithelial cell (mature keratinocyte),TEK,0.0
+Epithelial cell (suprabasal keratinocyte),TEK,0.0
+Neuroendocrine,TEK,0.0

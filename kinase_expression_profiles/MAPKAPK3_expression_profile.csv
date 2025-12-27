@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+"Myocyte (cardiac, cytoplasmic)",MAPKAPK3,0.8329483
+"Myocyte (sk. muscle, cytoplasmic)",MAPKAPK3,0.3526747
+Myocyte (cardiac),MAPKAPK3,0.2746274
+Immune (alveolar macrophage),MAPKAPK3,0.24426322
+Epithelial cell (squamous),MAPKAPK3,0.23413067
+Myocyte (NMJ-rich),MAPKAPK3,0.23247686
+Myocyte (sk. muscle),MAPKAPK3,0.19473687
+Adipocyte,MAPKAPK3,0.1771234
+Immune (DC/macrophage),MAPKAPK3,0.16925496
+Immune (NK cell),MAPKAPK3,0.15751055
+Epithelial cell (suprabasal),MAPKAPK3,0.15699251
+Epithelial cell (Hillock),MAPKAPK3,0.122122265
+Epithelial cell (mature keratinocyte),MAPKAPK3,0.11914567
+Epithelial cell (alveolar type II),MAPKAPK3,0.11683509
+Sebaceous gland cell,MAPKAPK3,0.0936126
+Immune (T cell),MAPKAPK3,0.08553648
+Epithelial cell (basal),MAPKAPK3,0.084139794
+Epithelial cell (cornified keratinocyte),MAPKAPK3,0.07927269
+Immune (mast cell),MAPKAPK3,0.07840265
+Epithelial cell (luminal),MAPKAPK3,0.07825214
+Mucous cell,MAPKAPK3,0.07576688
+Epithelial cell (alveolar type I),MAPKAPK3,0.06862249
+Epithelial cell (ciliated),MAPKAPK3,0.0682405
+Immune (B cell),MAPKAPK3,0.06577308
+Epithelial cell (club),MAPKAPK3,0.061685964
+Neuronal,MAPKAPK3,0.0611457
+Myocyte (smooth muscle),MAPKAPK3,0.058558274
+Neuroendocrine,MAPKAPK3,0.03584064
+Epithelial cell (suprabasal keratinocyte),MAPKAPK3,0.03572119
+Myofibroblast,MAPKAPK3,0.034422852
+Immune (DC),MAPKAPK3,0.03407789
+Epithelial cell (basal keratinocyte),MAPKAPK3,0.025232177
+Schwann cell,MAPKAPK3,0.024766676
+Myoepithelial (basal),MAPKAPK3,0.024276668
+Melanocyte,MAPKAPK3,0.021354994
+Pericyte/SMC,MAPKAPK3,0.020205287
+Fibroblast,MAPKAPK3,0.017185278
+Sweat gland cell,MAPKAPK3,0.015763657
+Endothelial cell (vascular),MAPKAPK3,0.013663267
+Endothelial cell (lymphatic),MAPKAPK3,0.0077782352
+Satellite cell,MAPKAPK3,0.006958122
+Immune (Langerhans),MAPKAPK3,0.0
+ICCs,MAPKAPK3,0.0

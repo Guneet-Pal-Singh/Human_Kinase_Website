@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (DC),ROCK1,1.1470938
+Immune (DC/macrophage),ROCK1,1.0792127
+Immune (alveolar macrophage),ROCK1,1.0227292
+Pericyte/SMC,ROCK1,0.9615327
+Myofibroblast,ROCK1,0.90122694
+Immune (Langerhans),ROCK1,0.8745509
+Neuroendocrine,ROCK1,0.8635393
+Immune (B cell),ROCK1,0.78666085
+Immune (NK cell),ROCK1,0.764138
+Immune (T cell),ROCK1,0.71639866
+Epithelial cell (club),ROCK1,0.69502985
+Myocyte (cardiac),ROCK1,0.65351754
+Epithelial cell (ciliated),ROCK1,0.64481163
+Epithelial cell (Hillock),ROCK1,0.63909847
+Myocyte (smooth muscle),ROCK1,0.6035661
+Mucous cell,ROCK1,0.59518373
+Epithelial cell (alveolar type I),ROCK1,0.59050584
+Endothelial cell (vascular),ROCK1,0.58649963
+Endothelial cell (lymphatic),ROCK1,0.5825217
+Immune (mast cell),ROCK1,0.57811236
+Epithelial cell (alveolar type II),ROCK1,0.5771485
+ICCs,ROCK1,0.5750161
+Epithelial cell (luminal),ROCK1,0.562545
+Fibroblast,ROCK1,0.53425705
+Sweat gland cell,ROCK1,0.5251167
+Epithelial cell (basal),ROCK1,0.5028513
+Myoepithelial (basal),ROCK1,0.48002076
+Neuronal,ROCK1,0.47595352
+Satellite cell,ROCK1,0.47406116
+Schwann cell,ROCK1,0.45470017
+Melanocyte,ROCK1,0.45469376
+Myocyte (NMJ-rich),ROCK1,0.4488047
+Adipocyte,ROCK1,0.43735868
+Epithelial cell (suprabasal),ROCK1,0.42453092
+"Myocyte (cardiac, cytoplasmic)",ROCK1,0.3864305
+Myocyte (sk. muscle),ROCK1,0.37179658
+Epithelial cell (basal keratinocyte),ROCK1,0.31003568
+Sebaceous gland cell,ROCK1,0.24326189
+Epithelial cell (suprabasal keratinocyte),ROCK1,0.23508544
+"Myocyte (sk. muscle, cytoplasmic)",ROCK1,0.22040549
+Epithelial cell (squamous),ROCK1,0.1098611
+Epithelial cell (mature keratinocyte),ROCK1,0.07153618
+Epithelial cell (cornified keratinocyte),ROCK1,0.04903123

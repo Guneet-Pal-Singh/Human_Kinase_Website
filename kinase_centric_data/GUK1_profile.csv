@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skin,Other,GUK1,1.5496689,33.4070796460177
+prostate,Endothelial cell,GUK1,1.3988439,24.486907289455058
+skin,Epithelial cell (keratinocyte),GUK1,1.2860215,23.882896764252692
+esophagusmucosa,Epithelial cell,GUK1,1.4947125,21.93389388228472
+esophagusmucosa,Endothelial cell,GUK1,1.1959596,21.16289012398461
+prostate,Glia,GUK1,2.1538463,19.402985074626866
+heart,Adipocyte,GUK1,1.3888888,18.65284974093264
+heart,Endothelial cell,GUK1,1.3388017,18.362802881466926
+skeletalmuscle,Endothelial cell,GUK1,1.5964912,17.129977460555974
+prostate,Muscle,GUK1,1.3146666,16.71868033883192
+prostate,Immune (myeloid),GUK1,1.379518,16.147859922178988
+esophagusmuscularis,Neuron,GUK1,2.75,16.0
+lung,Endothelial cell,GUK1,1.1563343,13.510560815731973
+esophagusmuscularis,Endothelial cell,GUK1,1.329451,13.472315624299483
+esophagusmucosa,Stromal,GUK1,1.3145162,12.537917087967642
+breast,Endothelial cell,GUK1,1.2,12.485811577752552
+skin,Endothelial cell,GUK1,1.216,12.218963831867056
+prostate,Epithelial cell,GUK1,1.3934066,11.83201144194513
+prostate,Fibroblast,GUK1,1.1666666,11.033274956217165
+esophagusmuscularis,Muscle,GUK1,1.51967,10.599233304189926
+heart,Immune (lymphocyte),GUK1,1.115942,9.88538681948424
+lung,Immune (myeloid),GUK1,1.2905983,9.591736350221346
+esophagusmucosa,Glia,GUK1,1.1666666,9.230769230769232
+heart,Muscle,GUK1,1.5710332,8.985411140583555
+prostate,Immune (lymphocyte),GUK1,1.1272727,8.064516129032258
+breast,Muscle,GUK1,1.0833334,7.894736842105263
+breast,Adipocyte,GUK1,1.0676692,7.552526973310619
+heart,Fibroblast,GUK1,1.3652174,7.429740497469581
+lung,Muscle,GUK1,1.0909091,6.748466257668712
+heart,Glia,GUK1,1.3333334,6.04026845637584
+skin,Epithelial cell,GUK1,1.2285714,5.813953488372093
+skeletalmuscle,Glia,GUK1,1.0,5.714285714285714
+skeletalmuscle,Fibroblast,GUK1,1.0985074,5.635935397039031
+skin,Immune (myeloid),GUK1,1.3333334,5.027932960893855
+breast,Epithelial cell,GUK1,1.1416667,4.138644593895499
+lung,Epithelial cell,GUK1,1.0599593,4.0872274143302185
+skeletalmuscle,Immune (lymphocyte),GUK1,1.0,4.0
+esophagusmuscularis,Glia,GUK1,1.1351352,3.814432989690722
+skeletalmuscle,Adipocyte,GUK1,1.0,3.7735849056603774
+breast,Fibroblast,GUK1,1.1,3.6630036630036633
+esophagusmucosa,Immune (lymphocyte),GUK1,1.0307692,3.575357535753575
+esophagusmucosa,Immune (myeloid),GUK1,1.0833334,3.433476394849785
+skin,Adipocyte,GUK1,1.5,3.225806451612903
+lung,Immune (lymphocyte),GUK1,1.0,3.1724137931034484
+lung,Fibroblast,GUK1,1.0681819,2.9810298102981028
+esophagusmucosa,Fibroblast,GUK1,1.0379747,2.80639431616341
+breast,Immune (myeloid),GUK1,1.1,2.793296089385475
+skin,Immune (lymphocyte),GUK1,1.0,2.666666666666667
+heart,Immune (myeloid),GUK1,1.1656442,2.5472730114080324
+skeletalmuscle,Immune (myeloid),GUK1,1.0555556,2.442333785617368
+esophagusmucosa,Muscle,GUK1,1.25,2.395209580838324
+esophagusmuscularis,Immune (lymphocyte),GUK1,1.0,1.6611295681063123
+skin,Muscle,GUK1,1.0,1.6129032258064515
+skin,Melanocyte,GUK1,1.5,1.4705882352941175
+esophagusmuscularis,Immune (myeloid),GUK1,1.074074,0.911238609517381
+esophagusmuscularis,Fibroblast,GUK1,1.125,0.768565664328946
+skeletalmuscle,Muscle,GUK1,1.2155689,0.739887466217713
+esophagusmuscularis,Adipocyte,GUK1,2.0,0.5714285714285714
+skin,Fibroblast,GUK1,1.0,0.1890359168241966

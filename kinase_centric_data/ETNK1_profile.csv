@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Neuron,ETNK1,1.0,24.0
+lung,Immune (myeloid),ETNK1,1.267946,23.06935563207083
+prostate,Immune (myeloid),ETNK1,1.1837838,17.996108949416342
+lung,Epithelial cell,ETNK1,1.197815,17.869158878504674
+breast,Muscle,ETNK1,1.074074,17.763157894736842
+skin,Other,ETNK1,1.2151898,17.47787610619469
+skin,Epithelial cell (keratinocyte),ETNK1,1.2352941,17.46276322547509
+skin,Melanocyte,ETNK1,1.1521739,16.911764705882355
+breast,Immune (myeloid),ETNK1,1.2666667,16.75977653631285
+heart,Immune (myeloid),ETNK1,1.1368822,16.440068760743866
+esophagusmucosa,Stromal,ETNK1,1.1925466,16.27906976744186
+prostate,Epithelial cell,ETNK1,1.2117394,16.17041563732501
+skeletalmuscle,Immune (myeloid),ETNK1,1.1186441,16.010854816824967
+heart,Adipocyte,ETNK1,1.2,15.544041450777202
+esophagusmucosa,Epithelial cell,ETNK1,1.1893656,15.54073644534648
+prostate,Endothelial cell,ETNK1,1.1360202,14.048124557678696
+esophagusmucosa,Immune (myeloid),ETNK1,1.119171,13.80543633762518
+skin,Endothelial cell,ETNK1,1.1347518,13.78299120234604
+prostate,Fibroblast,ETNK1,1.1592357,13.747810858143607
+prostate,Glia,ETNK1,1.1111112,13.432835820895525
+skin,Immune (myeloid),ETNK1,1.2083334,13.40782122905028
+prostate,Muscle,ETNK1,1.1538461,13.33036112349532
+skin,Adipocyte,ETNK1,1.0,12.903225806451612
+heart,Fibroblast,ETNK1,1.105753,12.727468504360932
+breast,Epithelial cell,ETNK1,1.1393324,11.881358854974994
+skin,Fibroblast,ETNK1,1.1129032,11.720226843100187
+heart,Muscle,ETNK1,1.1374911,11.695954907161804
+esophagusmucosa,Endothelial cell,ETNK1,1.1092592,11.543394613082514
+esophagusmuscularis,Adipocyte,ETNK1,1.25,11.428571428571429
+esophagusmuscularis,Immune (myeloid),ETNK1,1.124629,11.373607829902124
+lung,Muscle,ETNK1,1.1666666,11.042944785276074
+esophagusmucosa,Glia,ETNK1,1.2857143,10.76923076923077
+esophagusmucosa,Fibroblast,ETNK1,1.0858086,10.763765541740677
+skeletalmuscle,Adipocyte,ETNK1,1.1764706,10.69182389937107
+skin,Epithelial cell,ETNK1,1.483871,10.299003322259136
+lung,Fibroblast,ETNK1,1.1184211,10.29810298102981
+prostate,Immune (lymphocyte),ETNK1,1.0142857,10.263929618768328
+lung,Immune (lymphocyte),ETNK1,1.0547945,10.06896551724138
+esophagusmucosa,Immune (lymphocyte),ETNK1,1.121547,9.955995599559955
+breast,Fibroblast,ETNK1,1.1410257,9.523809523809524
+esophagusmucosa,Muscle,ETNK1,1.0869565,9.181636726546904
+esophagusmuscularis,Glia,ETNK1,1.1235955,9.175257731958762
+breast,Adipocyte,ETNK1,1.0869565,9.142532651902329
+breast,Endothelial cell,ETNK1,1.0875,9.080590238365494
+esophagusmuscularis,Endothelial cell,ETNK1,1.1215881,9.03384891279982
+skeletalmuscle,Immune (lymphocyte),ETNK1,1.2222222,9.0
+esophagusmuscularis,Muscle,ETNK1,1.1081493,8.830452619544017
+heart,Endothelial cell,ETNK1,1.0730253,8.788474132285527
+skeletalmuscle,Fibroblast,ETNK1,1.0809628,7.68842530282638
+heart,Immune (lymphocyte),ETNK1,1.0566038,7.593123209169055
+esophagusmuscularis,Fibroblast,ETNK1,1.0821382,7.36862330675377
+skin,Muscle,ETNK1,1.1538461,6.989247311827956
+esophagusmuscularis,Immune (lymphocyte),ETNK1,1.0,6.976744186046512
+skeletalmuscle,Endothelial cell,ETNK1,1.1304348,6.912096168294515
+heart,Glia,ETNK1,1.05,6.711409395973154
+skin,Immune (lymphocyte),ETNK1,1.2,6.666666666666667
+lung,Endothelial cell,ETNK1,1.0903226,5.644573925710124
+skeletalmuscle,Muscle,ETNK1,1.0462046,4.027291657436534
+skeletalmuscle,Glia,ETNK1,1.0,2.857142857142857

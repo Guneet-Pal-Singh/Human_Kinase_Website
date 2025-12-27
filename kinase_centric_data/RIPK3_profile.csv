@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skin,Other,RIPK3,1.0,0.2212389380530973
+skin,Endothelial cell,RIPK3,1.0,0.0977517106549364
+esophagusmucosa,Fibroblast,RIPK3,1.0,0.0710479573712255
+breast,Adipocyte,RIPK3,1.0,0.056785917092561
+skin,Epithelial cell (keratinocyte),RIPK3,1.0,0.0513610683102208
+esophagusmucosa,Epithelial cell,RIPK3,1.0,0.0507393447376051
+esophagusmuscularis,Fibroblast,RIPK3,1.0,0.0480353540205591
+prostate,Muscle,RIPK3,1.0,0.0445831475702184
+esophagusmuscularis,Immune (myeloid),RIPK3,1.0,0.0337495781302733
+esophagusmucosa,Endothelial cell,RIPK3,1.0,0.0213766566908935
+skeletalmuscle,Fibroblast,RIPK3,1.0,0.0168236877523553
+heart,Immune (myeloid),RIPK3,1.0,0.0156274417877793
+heart,Endothelial cell,RIPK3,1.0,0.0130975769482645
+lung,Epithelial cell,RIPK3,1.0,0.0083073727933541
+esophagusmuscularis,Muscle,RIPK3,1.0,0.0067254018427601
+skeletalmuscle,Muscle,RIPK3,1.0,0.0044304638695671
+prostate,Epithelial cell,RIPK3,1.0,0.0043340701252546
+esophagusmucosa,Stromal,RIPK3,0.0,0.0
+esophagusmucosa,Immune (myeloid),RIPK3,0.0,0.0
+esophagusmucosa,Immune (lymphocyte),RIPK3,0.0,0.0
+esophagusmucosa,Glia,RIPK3,0.0,0.0
+breast,Immune (myeloid),RIPK3,0.0,0.0
+breast,Muscle,RIPK3,0.0,0.0
+esophagusmuscularis,Adipocyte,RIPK3,0.0,0.0
+breast,Endothelial cell,RIPK3,0.0,0.0
+breast,Epithelial cell,RIPK3,0.0,0.0
+breast,Fibroblast,RIPK3,0.0,0.0
+heart,Immune (lymphocyte),RIPK3,0.0,0.0
+heart,Glia,RIPK3,0.0,0.0
+heart,Fibroblast,RIPK3,0.0,0.0
+heart,Adipocyte,RIPK3,0.0,0.0
+esophagusmuscularis,Neuron,RIPK3,0.0,0.0
+esophagusmuscularis,Endothelial cell,RIPK3,0.0,0.0
+esophagusmuscularis,Glia,RIPK3,0.0,0.0
+esophagusmuscularis,Immune (lymphocyte),RIPK3,0.0,0.0
+esophagusmucosa,Muscle,RIPK3,0.0,0.0
+lung,Muscle,RIPK3,0.0,0.0
+prostate,Fibroblast,RIPK3,0.0,0.0
+lung,Immune (myeloid),RIPK3,0.0,0.0
+lung,Fibroblast,RIPK3,0.0,0.0
+lung,Immune (lymphocyte),RIPK3,0.0,0.0
+heart,Muscle,RIPK3,0.0,0.0
+lung,Endothelial cell,RIPK3,0.0,0.0
+skeletalmuscle,Adipocyte,RIPK3,0.0,0.0
+prostate,Immune (myeloid),RIPK3,0.0,0.0
+prostate,Immune (lymphocyte),RIPK3,0.0,0.0
+prostate,Glia,RIPK3,0.0,0.0
+prostate,Endothelial cell,RIPK3,0.0,0.0
+skeletalmuscle,Glia,RIPK3,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),RIPK3,0.0,0.0
+skeletalmuscle,Endothelial cell,RIPK3,0.0,0.0
+skin,Adipocyte,RIPK3,0.0,0.0
+skeletalmuscle,Immune (myeloid),RIPK3,0.0,0.0
+skin,Fibroblast,RIPK3,0.0,0.0
+skin,Epithelial cell,RIPK3,0.0,0.0
+skin,Immune (lymphocyte),RIPK3,0.0,0.0
+skin,Immune (myeloid),RIPK3,0.0,0.0
+skin,Melanocyte,RIPK3,0.0,0.0
+skin,Muscle,RIPK3,0.0,0.0

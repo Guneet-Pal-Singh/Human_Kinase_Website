@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+prostate,Epithelial cell,WNK4,1.1468428,2.9515017552984006
+skeletalmuscle,Glia,WNK4,1.0,2.857142857142857
+esophagusmucosa,Epithelial cell,WNK4,1.1485944,1.80487097709481
+breast,Epithelial cell,WNK4,1.0412371,1.6727021900327643
+prostate,Glia,WNK4,1.0,1.4925373134328357
+esophagusmucosa,Stromal,WNK4,1.0714285,1.4155712841253791
+skin,Immune (myeloid),WNK4,1.0,1.11731843575419
+skin,Muscle,WNK4,1.0,1.0752688172043012
+skin,Endothelial cell,WNK4,1.0,0.9775171065493646
+skin,Melanocyte,WNK4,1.0,0.7352941176470588
+prostate,Fibroblast,WNK4,1.125,0.7005253940455342
+lung,Immune (myeloid),WNK4,1.0,0.6394490900147565
+esophagusmuscularis,Muscle,WNK4,1.0,0.6120115676911696
+esophagusmuscularis,Endothelial cell,WNK4,1.0384616,0.5828289621161175
+breast,Immune (myeloid),WNK4,1.0,0.5586592178770949
+heart,Adipocyte,WNK4,1.0,0.5181347150259068
+esophagusmuscularis,Glia,WNK4,1.0,0.5154639175257731
+skeletalmuscle,Muscle,WNK4,1.0,0.5006424172610873
+lung,Epithelial cell,WNK4,1.0,0.490134994807892
+lung,Fibroblast,WNK4,1.0,0.4742547425474254
+lung,Endothelial cell,WNK4,1.0,0.4369992716678805
+esophagusmucosa,Muscle,WNK4,1.0,0.3992015968063871
+heart,Muscle,WNK4,1.0,0.3895888594164456
+esophagusmucosa,Endothelial cell,WNK4,1.0,0.3420265070542967
+breast,Endothelial cell,WNK4,1.0,0.340522133938706
+skin,Epithelial cell,WNK4,1.0,0.3322259136212624
+prostate,Muscle,WNK4,1.1428572,0.3120820329915292
+skeletalmuscle,Fibroblast,WNK4,1.0,0.2860026917900403
+prostate,Endothelial cell,WNK4,1.0,0.2830856334041047
+heart,Fibroblast,WNK4,1.0,0.2691934962851297
+esophagusmuscularis,Fibroblast,WNK4,1.0,0.2593909117110193
+breast,Fibroblast,WNK4,1.0,0.2442002442002442
+heart,Endothelial cell,WNK4,1.0,0.2226588081204977
+skin,Fibroblast,WNK4,1.0,0.1890359168241966
+skeletalmuscle,Endothelial cell,WNK4,1.0,0.1502629601803155
+heart,Immune (lymphocyte),WNK4,1.0,0.1432664756446991
+lung,Immune (lymphocyte),WNK4,1.0,0.1379310344827586
+skeletalmuscle,Immune (myeloid),WNK4,1.0,0.1356852103120759
+esophagusmuscularis,Immune (myeloid),WNK4,1.0,0.1349983125210934
+heart,Immune (myeloid),WNK4,1.0,0.1250195343022347
+breast,Adipocyte,WNK4,1.0,0.1135718341851221
+esophagusmucosa,Fibroblast,WNK4,1.0,0.1065719360568383
+prostate,Immune (myeloid),WNK4,1.0,0.0972762645914396
+esophagusmucosa,Immune (myeloid),WNK4,1.0,0.0715307582260371
+esophagusmucosa,Immune (lymphocyte),WNK4,1.0,0.055005500550055
+skin,Epithelial cell (keratinocyte),WNK4,1.0,0.0513610683102208
+esophagusmuscularis,Neuron,WNK4,0.0,0.0
+breast,Muscle,WNK4,0.0,0.0
+esophagusmucosa,Glia,WNK4,0.0,0.0
+esophagusmuscularis,Adipocyte,WNK4,0.0,0.0
+esophagusmuscularis,Immune (lymphocyte),WNK4,0.0,0.0
+heart,Glia,WNK4,0.0,0.0
+skeletalmuscle,Adipocyte,WNK4,0.0,0.0
+lung,Muscle,WNK4,0.0,0.0
+prostate,Immune (lymphocyte),WNK4,0.0,0.0
+skin,Adipocyte,WNK4,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),WNK4,0.0,0.0
+skin,Immune (lymphocyte),WNK4,0.0,0.0
+skin,Other,WNK4,0.0,0.0

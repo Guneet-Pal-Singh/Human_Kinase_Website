@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (squamous),PLK3,0.7970676
+Epithelial cell (cornified keratinocyte),PLK3,0.6928734
+Neuronal,PLK3,0.29717964
+Immune (alveolar macrophage),PLK3,0.24908651
+Immune (mast cell),PLK3,0.2066762
+Epithelial cell (mature keratinocyte),PLK3,0.18469454
+Epithelial cell (ciliated),PLK3,0.14104891
+Immune (DC/macrophage),PLK3,0.13572791
+Fibroblast,PLK3,0.13028571
+Sweat gland cell,PLK3,0.12463109
+Endothelial cell (vascular),PLK3,0.10937939
+Epithelial cell (suprabasal),PLK3,0.10785623
+Endothelial cell (lymphatic),PLK3,0.09370044
+Myocyte (smooth muscle),PLK3,0.090732224
+Satellite cell,PLK3,0.08985033
+ICCs,PLK3,0.08381138
+Schwann cell,PLK3,0.08217926
+Immune (T cell),PLK3,0.08048608
+Immune (DC),PLK3,0.07636433
+Epithelial cell (alveolar type II),PLK3,0.076204464
+Immune (Langerhans),PLK3,0.07290702
+Pericyte/SMC,PLK3,0.06748459
+Sebaceous gland cell,PLK3,0.064205125
+Myofibroblast,PLK3,0.05498464
+Epithelial cell (Hillock),PLK3,0.05296383
+Epithelial cell (basal),PLK3,0.05217465
+Epithelial cell (alveolar type I),PLK3,0.047133233
+Epithelial cell (suprabasal keratinocyte),PLK3,0.044759132
+Epithelial cell (club),PLK3,0.041387107
+Epithelial cell (basal keratinocyte),PLK3,0.039413754
+Myocyte (cardiac),PLK3,0.037327763
+Immune (B cell),PLK3,0.03655933
+Myocyte (sk. muscle),PLK3,0.033654213
+Epithelial cell (luminal),PLK3,0.03279825
+Myoepithelial (basal),PLK3,0.026551811
+Myocyte (NMJ-rich),PLK3,0.025721015
+Mucous cell,PLK3,0.018655583
+Immune (NK cell),PLK3,0.017717961
+Adipocyte,PLK3,0.017318679
+"Myocyte (cardiac, cytoplasmic)",PLK3,0.01726923
+"Myocyte (sk. muscle, cytoplasmic)",PLK3,0.01367434
+Melanocyte,PLK3,0.0
+Neuroendocrine,PLK3,0.0

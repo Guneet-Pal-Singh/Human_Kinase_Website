@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (DC),PTK2B,1.1938132
+Immune (Langerhans),PTK2B,1.0724063
+Immune (alveolar macrophage),PTK2B,0.9168728
+Immune (B cell),PTK2B,0.912317
+Epithelial cell (basal keratinocyte),PTK2B,0.71613455
+Epithelial cell (suprabasal keratinocyte),PTK2B,0.6977842
+Neuronal,PTK2B,0.6848781
+Immune (T cell),PTK2B,0.6645199
+Immune (DC/macrophage),PTK2B,0.6639466
+Immune (NK cell),PTK2B,0.64314544
+Epithelial cell (cornified keratinocyte),PTK2B,0.513887
+Epithelial cell (squamous),PTK2B,0.50367475
+Epithelial cell (alveolar type II),PTK2B,0.4096134
+Epithelial cell (basal),PTK2B,0.39537933
+Epithelial cell (ciliated),PTK2B,0.34670419
+Epithelial cell (club),PTK2B,0.3338284
+Epithelial cell (mature keratinocyte),PTK2B,0.32491738
+Immune (mast cell),PTK2B,0.2911725
+Epithelial cell (luminal),PTK2B,0.27970025
+Mucous cell,PTK2B,0.27911884
+Neuroendocrine,PTK2B,0.2323555
+Myofibroblast,PTK2B,0.22599287
+Sebaceous gland cell,PTK2B,0.22356722
+Epithelial cell (suprabasal),PTK2B,0.19765614
+Epithelial cell (Hillock),PTK2B,0.18072474
+Endothelial cell (vascular),PTK2B,0.16868971
+Myoepithelial (basal),PTK2B,0.16857985
+Myocyte (cardiac),PTK2B,0.14843625
+Adipocyte,PTK2B,0.12789957
+Epithelial cell (alveolar type I),PTK2B,0.12512933
+Melanocyte,PTK2B,0.11518164
+Sweat gland cell,PTK2B,0.09533198
+Myocyte (NMJ-rich),PTK2B,0.078161076
+Myocyte (smooth muscle),PTK2B,0.074775845
+Schwann cell,PTK2B,0.06970429
+ICCs,PTK2B,0.06913226
+Pericyte/SMC,PTK2B,0.06473669
+Satellite cell,PTK2B,0.062440973
+Fibroblast,PTK2B,0.053316243
+Endothelial cell (lymphatic),PTK2B,0.047766123
+"Myocyte (cardiac, cytoplasmic)",PTK2B,0.037337147
+Myocyte (sk. muscle),PTK2B,0.03649762
+"Myocyte (sk. muscle, cytoplasmic)",PTK2B,0.0145102255

@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (cornified keratinocyte),AURKA,0.07307493
+Epithelial cell (basal keratinocyte),AURKA,0.037781693
+Epithelial cell (basal),AURKA,0.035550885
+Immune (DC),AURKA,0.026562277
+Epithelial cell (ciliated),AURKA,0.025144802
+Melanocyte,AURKA,0.024775127
+"Myocyte (cardiac, cytoplasmic)",AURKA,0.024058836
+Immune (alveolar macrophage),AURKA,0.023382293
+Myoepithelial (basal),AURKA,0.022925163
+"Myocyte (sk. muscle, cytoplasmic)",AURKA,0.021573745
+Immune (DC/macrophage),AURKA,0.021407524
+Myocyte (cardiac),AURKA,0.020958751
+Satellite cell,AURKA,0.01781853
+Schwann cell,AURKA,0.017474838
+Epithelial cell (alveolar type II),AURKA,0.017345188
+Epithelial cell (Hillock),AURKA,0.017134123
+Epithelial cell (mature keratinocyte),AURKA,0.01613922
+Epithelial cell (suprabasal keratinocyte),AURKA,0.015353795
+Immune (mast cell),AURKA,0.014742274
+Immune (NK cell),AURKA,0.012227256
+Epithelial cell (club),AURKA,0.011491396
+Endothelial cell (lymphatic),AURKA,0.010409443
+Mucous cell,AURKA,0.010211534
+Myocyte (smooth muscle),AURKA,0.0094239
+Myocyte (sk. muscle),AURKA,0.0088970335
+Epithelial cell (suprabasal),AURKA,0.008582667
+Adipocyte,AURKA,0.008000595
+Endothelial cell (vascular),AURKA,0.007834513
+Epithelial cell (squamous),AURKA,0.007531549
+Epithelial cell (alveolar type I),AURKA,0.0073185298
+Immune (T cell),AURKA,0.007208843
+Fibroblast,AURKA,0.0060428362
+Pericyte/SMC,AURKA,0.004916851
+Epithelial cell (luminal),AURKA,0.0048266933
+Myofibroblast,AURKA,0.0028653073
+Immune (Langerhans),AURKA,0.0
+Immune (B cell),AURKA,0.0
+ICCs,AURKA,0.0
+Myocyte (NMJ-rich),AURKA,0.0
+Neuronal,AURKA,0.0
+Neuroendocrine,AURKA,0.0
+Sebaceous gland cell,AURKA,0.0
+Sweat gland cell,AURKA,0.0

@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Neuron,CDKL2,1.0,16.0
+lung,Epithelial cell,CDKL2,1.1829085,13.852544132917966
+skin,Epithelial cell,CDKL2,1.2083334,3.986710963455149
+lung,Muscle,CDKL2,1.0,3.6809815950920246
+lung,Endothelial cell,CDKL2,1.0714285,3.058994901675164
+skeletalmuscle,Muscle,CDKL2,1.122034,2.6139736830446147
+esophagusmuscularis,Glia,CDKL2,1.12,2.5773195876288657
+lung,Immune (myeloid),CDKL2,1.0194805,2.5250040990326283
+heart,Muscle,CDKL2,1.047826,1.906498673740053
+esophagusmuscularis,Muscle,CDKL2,1.0477941,1.8293093012307484
+esophagusmucosa,Glia,CDKL2,1.0,1.5384615384615383
+prostate,Glia,CDKL2,1.0,1.4925373134328357
+skin,Melanocyte,CDKL2,1.0,1.4705882352941175
+lung,Fibroblast,CDKL2,1.0,1.3550135501355014
+skeletalmuscle,Adipocyte,CDKL2,1.0,1.257861635220126
+prostate,Muscle,CDKL2,1.037037,1.2037449843958985
+esophagusmuscularis,Adipocyte,CDKL2,1.0,1.1428571428571428
+skin,Fibroblast,CDKL2,1.1666666,1.1342155009451798
+skeletalmuscle,Endothelial cell,CDKL2,1.0,1.1269722013523666
+breast,Immune (myeloid),CDKL2,1.0,1.11731843575419
+skin,Immune (myeloid),CDKL2,1.0,1.11731843575419
+skin,Muscle,CDKL2,1.0,1.0752688172043012
+heart,Adipocyte,CDKL2,1.0,1.0362694300518136
+breast,Epithelial cell,CDKL2,1.05,1.0346611484738748
+esophagusmucosa,Stromal,CDKL2,1.0,1.0111223458038423
+heart,Immune (lymphocyte),CDKL2,1.0,1.002865329512894
+skeletalmuscle,Immune (lymphocyte),CDKL2,1.0,1.0
+skeletalmuscle,Fibroblast,CDKL2,1.0172414,0.9757738896366084
+esophagusmuscularis,Fibroblast,CDKL2,1.02,0.9607070804111826
+esophagusmuscularis,Endothelial cell,CDKL2,1.0,0.941492938802959
+esophagusmucosa,Epithelial cell,CDKL2,1.0396825,0.9133082052768918
+skin,Endothelial cell,CDKL2,1.0,0.8797653958944283
+skin,Epithelial cell (keratinocyte),CDKL2,1.0,0.8731381612737544
+heart,Fibroblast,CDKL2,1.0,0.8398837084096049
+skeletalmuscle,Immune (myeloid),CDKL2,1.0,0.8141112618724559
+prostate,Fibroblast,CDKL2,1.0,0.7880910683012259
+esophagusmucosa,Immune (lymphocyte),CDKL2,1.0,0.77007700770077
+esophagusmucosa,Endothelial cell,CDKL2,1.0285715,0.748182984181274
+lung,Immune (lymphocyte),CDKL2,1.0,0.6896551724137931
+prostate,Epithelial cell,CDKL2,1.0251572,0.6891171499154856
+esophagusmuscularis,Immune (myeloid),CDKL2,1.0,0.6749915626054674
+prostate,Endothelial cell,CDKL2,1.0,0.6723283793347488
+heart,Immune (myeloid),CDKL2,1.0,0.6250976715111737
+breast,Adipocyte,CDKL2,1.0,0.6246450880181714
+esophagusmucosa,Fibroblast,CDKL2,1.0,0.5328596802841918
+heart,Endothelial cell,CDKL2,1.0,0.5239030779305829
+esophagusmucosa,Muscle,CDKL2,1.0,0.3992015968063871
+esophagusmucosa,Immune (myeloid),CDKL2,1.0,0.3576537911301859
+breast,Endothelial cell,CDKL2,1.0,0.340522133938706
+heart,Glia,CDKL2,1.0,0.3355704697986577
+prostate,Immune (lymphocyte),CDKL2,1.0,0.2932551319648094
+breast,Fibroblast,CDKL2,1.0,0.2442002442002442
+skin,Other,CDKL2,1.0,0.2212389380530973
+prostate,Immune (myeloid),CDKL2,1.0,0.1945525291828793
+breast,Muscle,CDKL2,0.0,0.0
+esophagusmuscularis,Immune (lymphocyte),CDKL2,0.0,0.0
+skeletalmuscle,Glia,CDKL2,0.0,0.0
+skin,Adipocyte,CDKL2,0.0,0.0
+skin,Immune (lymphocyte),CDKL2,0.0,0.0

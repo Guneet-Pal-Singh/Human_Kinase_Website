@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmucosa,Stromal,CDK11A,1.0576923,5.25783619817998
+lung,Immune (myeloid),CDK11A,1.0404041,4.869650762420069
+skin,Adipocyte,CDK11A,1.0,4.838709677419355
+prostate,Glia,CDK11A,1.0,4.477611940298507
+esophagusmuscularis,Adipocyte,CDK11A,1.0,4.0
+esophagusmucosa,Epithelial cell,CDK11A,1.0408602,3.37054218614091
+heart,Muscle,CDK11A,1.0592784,3.216180371352785
+prostate,Immune (myeloid),CDK11A,1.0333333,2.9182879377431905
+esophagusmucosa,Immune (lymphocyte),CDK11A,1.0754716,2.915291529152915
+breast,Immune (myeloid),CDK11A,1.0,2.793296089385475
+breast,Endothelial cell,CDK11A,1.0,2.724177071509648
+skin,Muscle,CDK11A,1.2,2.6881720430107525
+esophagusmucosa,Immune (myeloid),CDK11A,1.027027,2.6466380543633763
+esophagusmucosa,Endothelial cell,CDK11A,1.0495868,2.586575459598119
+breast,Epithelial cell,CDK11A,1.0208334,2.4831867563373
+esophagusmuscularis,Muscle,CDK11A,1.0356164,2.4547716726074382
+prostate,Muscle,CDK11A,1.0,2.3629068212215785
+skin,Epithelial cell (keratinocyte),CDK11A,1.0227273,2.2598870056497176
+esophagusmucosa,Fibroblast,CDK11A,1.0,2.238010657193606
+lung,Epithelial cell,CDK11A,1.0260707,2.230529595015576
+esophagusmucosa,Muscle,CDK11A,1.0,2.19560878243513
+breast,Adipocyte,CDK11A,1.0,2.15786484951732
+prostate,Epithelial cell,CDK11A,1.037037,2.1063580808737483
+breast,Fibroblast,CDK11A,1.0,2.0757020757020754
+heart,Adipocyte,CDK11A,1.0,2.072538860103627
+skin,Epithelial cell,CDK11A,1.0,1.9933554817275747
+lung,Endothelial cell,CDK11A,1.0377358,1.930080116533139
+esophagusmuscularis,Immune (myeloid),CDK11A,1.0714285,1.889976375295309
+lung,Immune (lymphocyte),CDK11A,1.0,1.793103448275862
+esophagusmuscularis,Endothelial cell,CDK11A,1.0128205,1.7484868863483525
+skin,Endothelial cell,CDK11A,1.0,1.6617790811339197
+lung,Fibroblast,CDK11A,1.0,1.6260162601626018
+esophagusmuscularis,Fibroblast,CDK11A,1.0355029,1.6235949658948985
+prostate,Immune (lymphocyte),CDK11A,1.0,1.6129032258064515
+esophagusmucosa,Glia,CDK11A,1.0,1.5384615384615383
+prostate,Endothelial cell,CDK11A,1.0232558,1.521585279547063
+heart,Immune (lymphocyte),CDK11A,1.2,1.4326647564469914
+heart,Fibroblast,CDK11A,1.0150375,1.4321094002368904
+skeletalmuscle,Fibroblast,CDK11A,1.0120482,1.3963660834454912
+skeletalmuscle,Endothelial cell,CDK11A,1.0,1.35236664162284
+esophagusmuscularis,Glia,CDK11A,1.0,1.3402061855670102
+skin,Immune (lymphocyte),CDK11A,1.0,1.3333333333333337
+skeletalmuscle,Muscle,CDK11A,1.0367893,1.324708697000576
+breast,Muscle,CDK11A,1.0,1.3157894736842104
+prostate,Fibroblast,CDK11A,1.0666667,1.3134851138353765
+lung,Muscle,CDK11A,1.0,1.2269938650306749
+skeletalmuscle,Immune (myeloid),CDK11A,1.0,1.2211668928086838
+heart,Immune (myeloid),CDK11A,1.038961,1.2033130176590092
+heart,Endothelial cell,CDK11A,1.0449438,1.1656843483955468
+skin,Other,CDK11A,1.0,1.106194690265487
+skeletalmuscle,Immune (lymphocyte),CDK11A,1.0,1.0
+skin,Melanocyte,CDK11A,1.0,0.7352941176470588
+esophagusmuscularis,Immune (lymphocyte),CDK11A,1.0,0.6644518272425249
+skeletalmuscle,Adipocyte,CDK11A,1.0,0.628930817610063
+skin,Fibroblast,CDK11A,1.0,0.5671077504725899
+skin,Immune (myeloid),CDK11A,1.0,0.5586592178770949
+heart,Glia,CDK11A,1.0,0.3355704697986577
+esophagusmuscularis,Neuron,CDK11A,0.0,0.0
+skeletalmuscle,Glia,CDK11A,0.0,0.0

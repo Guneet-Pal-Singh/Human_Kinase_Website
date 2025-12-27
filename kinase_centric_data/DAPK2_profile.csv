@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+heart,Muscle,DAPK2,2.397735,35.8670424403183
+lung,Epithelial cell,DAPK2,1.9425315,35.705088265835926
+skeletalmuscle,Muscle,DAPK2,1.5500065,34.15444597049311
+heart,Adipocyte,DAPK2,1.4230769,26.94300518134715
+prostate,Immune (lymphocyte),DAPK2,1.192053,22.14076246334311
+esophagusmucosa,Immune (lymphocyte),DAPK2,1.3013245,16.611661166116612
+skin,Epithelial cell,DAPK2,1.9591837,16.27906976744186
+esophagusmuscularis,Adipocyte,DAPK2,1.2857143,16.0
+breast,Epithelial cell,DAPK2,1.2801303,15.882048629073978
+breast,Adipocyte,DAPK2,1.2431372,14.480408858603068
+skin,Adipocyte,DAPK2,1.4285715,11.29032258064516
+skin,Epithelial cell (keratinocyte),DAPK2,1.2347418,10.939907550077042
+skeletalmuscle,Adipocyte,DAPK2,1.375,10.062893081761008
+prostate,Epithelial cell,DAPK2,1.3940886,9.67797858969358
+esophagusmucosa,Epithelial cell,DAPK2,1.4411535,9.29979704262105
+prostate,Fibroblast,DAPK2,1.34,8.756567425569177
+skin,Immune (lymphocyte),DAPK2,1.1666666,8.0
+esophagusmuscularis,Neuron,DAPK2,1.0,8.0
+lung,Immune (lymphocyte),DAPK2,1.1964285,7.724137931034483
+skin,Other,DAPK2,1.3461539,5.752212389380531
+esophagusmucosa,Stromal,DAPK2,1.1851852,5.460060667340748
+esophagusmucosa,Immune (myeloid),DAPK2,1.1384616,4.649499284692418
+prostate,Muscle,DAPK2,1.2718446,4.592064199732501
+lung,Fibroblast,DAPK2,1.1212121,4.471544715447155
+lung,Muscle,DAPK2,1.1428572,4.294478527607362
+breast,Muscle,DAPK2,1.0,3.947368421052632
+skin,Fibroblast,DAPK2,1.15,3.780718336483932
+lung,Immune (myeloid),DAPK2,1.3066666,3.689129365469749
+skeletalmuscle,Endothelial cell,DAPK2,1.3877552,3.6814425244177302
+breast,Immune (myeloid),DAPK2,1.0,3.35195530726257
+esophagusmuscularis,Immune (lymphocyte),DAPK2,1.2,3.322259136212625
+breast,Endothelial cell,DAPK2,1.2222222,3.064699205448354
+skeletalmuscle,Immune (lymphocyte),DAPK2,1.0,3.0
+breast,Fibroblast,DAPK2,1.1666666,2.93040293040293
+esophagusmucosa,Fibroblast,DAPK2,1.1617647,2.4156305506216698
+heart,Endothelial cell,DAPK2,1.1467391,2.409954158480681
+esophagusmuscularis,Fibroblast,DAPK2,1.1370968,2.382553559419733
+prostate,Endothelial cell,DAPK2,1.1212121,2.335456475583864
+skin,Immune (myeloid),DAPK2,1.25,2.23463687150838
+skin,Melanocyte,DAPK2,1.1666666,2.2058823529411766
+skeletalmuscle,Immune (myeloid),DAPK2,1.1666666,1.6282225237449115
+esophagusmucosa,Muscle,DAPK2,1.125,1.596806387225549
+heart,Immune (lymphocyte),DAPK2,1.0,1.5759312320916905
+esophagusmucosa,Endothelial cell,DAPK2,1.0563381,1.5177426250534416
+prostate,Immune (myeloid),DAPK2,1.2666667,1.4591439688715953
+lung,Endothelial cell,DAPK2,1.051282,1.4202476329206115
+skeletalmuscle,Fibroblast,DAPK2,1.0897436,1.3122476446837146
+esophagusmuscularis,Endothelial cell,DAPK2,1.0689656,1.3001569154898005
+esophagusmuscularis,Immune (myeloid),DAPK2,1.09375,1.079986500168748
+skin,Muscle,DAPK2,1.0,1.0752688172043012
+esophagusmuscularis,Glia,DAPK2,1.0,1.0309278350515465
+heart,Immune (myeloid),DAPK2,1.0327868,0.9532739490545398
+heart,Fibroblast,DAPK2,1.08,0.8075804888553892
+esophagusmuscularis,Muscle,DAPK2,1.0166667,0.8070482211312127
+skin,Endothelial cell,DAPK2,1.0,0.6842619745845552
+heart,Glia,DAPK2,1.0,0.6711409395973155
+esophagusmucosa,Glia,DAPK2,0.0,0.0
+prostate,Glia,DAPK2,0.0,0.0
+skeletalmuscle,Glia,DAPK2,0.0,0.0

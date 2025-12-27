@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Myocyte (cardiac),CKMT2,1.5600417
+"Myocyte (cardiac, cytoplasmic)",CKMT2,1.3973145
+"Myocyte (sk. muscle, cytoplasmic)",CKMT2,1.1380165
+Myocyte (sk. muscle),CKMT2,0.8761088
+Neuronal,CKMT2,0.35547274
+Myocyte (NMJ-rich),CKMT2,0.33539772
+Adipocyte,CKMT2,0.22055797
+Sweat gland cell,CKMT2,0.13620996
+Pericyte/SMC,CKMT2,0.08627458
+Myocyte (smooth muscle),CKMT2,0.07969832
+ICCs,CKMT2,0.07578695
+Myoepithelial (basal),CKMT2,0.04163693
+Epithelial cell (alveolar type II),CKMT2,0.041583125
+Schwann cell,CKMT2,0.040971085
+Endothelial cell (vascular),CKMT2,0.040251754
+Mucous cell,CKMT2,0.03340435
+Immune (NK cell),CKMT2,0.03261448
+Epithelial cell (basal),CKMT2,0.031451337
+Epithelial cell (alveolar type I),CKMT2,0.029225377
+Neuroendocrine,CKMT2,0.027318336
+Melanocyte,CKMT2,0.026167972
+Epithelial cell (club),CKMT2,0.025957515
+Epithelial cell (Hillock),CKMT2,0.023155354
+Epithelial cell (luminal),CKMT2,0.022801759
+Epithelial cell (ciliated),CKMT2,0.02211802
+Endothelial cell (lymphatic),CKMT2,0.019795328
+Immune (DC),CKMT2,0.01864947
+Myofibroblast,CKMT2,0.016955491
+Sebaceous gland cell,CKMT2,0.016653419
+Fibroblast,CKMT2,0.016543929
+Epithelial cell (suprabasal),CKMT2,0.016323393
+Satellite cell,CKMT2,0.01578237
+Epithelial cell (basal keratinocyte),CKMT2,0.015042705
+Immune (alveolar macrophage),CKMT2,0.012643633
+Immune (mast cell),CKMT2,0.0106621245
+Immune (T cell),CKMT2,0.010271302
+Immune (DC/macrophage),CKMT2,0.0066873287
+Epithelial cell (squamous),CKMT2,0.0045409272
+Epithelial cell (cornified keratinocyte),CKMT2,0.0
+Immune (Langerhans),CKMT2,0.0
+Epithelial cell (mature keratinocyte),CKMT2,0.0
+Epithelial cell (suprabasal keratinocyte),CKMT2,0.0
+Immune (B cell),CKMT2,0.0

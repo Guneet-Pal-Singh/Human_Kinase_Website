@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+lung,Epithelial cell,MET,1.3102376,18.70404984423676
+prostate,Endothelial cell,MET,1.2718053,17.445152158527954
+breast,Endothelial cell,MET,1.4855072,15.664018161180476
+skeletalmuscle,Endothelial cell,MET,1.4878049,12.321562734785877
+prostate,Glia,MET,1.375,11.940298507462686
+esophagusmucosa,Endothelial cell,MET,1.2705667,11.693031209918768
+esophagusmuscularis,Endothelial cell,MET,1.231884,10.827168796234028
+esophagusmucosa,Stromal,MET,1.2173913,9.30232558139535
+skin,Epithelial cell (keratinocyte),MET,1.1751412,9.090909090909092
+skin,Endothelial cell,MET,1.1481482,7.917888563049853
+skeletalmuscle,Muscle,MET,1.1466506,7.341278631872757
+skin,Other,MET,1.030303,7.300884955752212
+prostate,Epithelial cell,MET,1.3953346,7.060200234039788
+esophagusmucosa,Epithelial cell,MET,1.2508918,6.09596984633227
+heart,Muscle,MET,1.1341633,5.993037135278515
+heart,Endothelial cell,MET,1.2494382,5.828421741977734
+skeletalmuscle,Glia,MET,1.0,5.714285714285714
+breast,Epithelial cell,MET,1.1945525,4.431798585963096
+lung,Endothelial cell,MET,1.1531532,4.042243262927895
+breast,Muscle,MET,1.1666666,3.947368421052632
+prostate,Muscle,MET,1.1625,3.566651805617477
+skeletalmuscle,Adipocyte,MET,1.6,3.1446540880503147
+lung,Muscle,MET,1.6,3.067484662576687
+breast,Immune (myeloid),MET,1.125,2.23463687150838
+prostate,Fibroblast,MET,1.0588236,1.48861646234676
+lung,Immune (myeloid),MET,1.1294118,1.3936710936219052
+skin,Immune (lymphocyte),MET,1.0,1.3333333333333337
+breast,Fibroblast,MET,1.1111112,1.098901098901099
+lung,Fibroblast,MET,1.0625,1.084010840108401
+skin,Muscle,MET,1.0,1.0752688172043012
+skeletalmuscle,Immune (lymphocyte),MET,1.0,1.0
+esophagusmucosa,Muscle,MET,1.0,0.998003992015968
+esophagusmuscularis,Glia,MET,1.0,0.9278350515463918
+skin,Epithelial cell,MET,1.0,0.8305647840531563
+esophagusmuscularis,Muscle,MET,1.0353982,0.7599704082318919
+skin,Melanocyte,MET,1.0,0.7352941176470588
+skeletalmuscle,Immune (myeloid),MET,1.0,0.6784260515603799
+prostate,Immune (myeloid),MET,1.0,0.5836575875486382
+esophagusmuscularis,Adipocyte,MET,1.0,0.5714285714285714
+skin,Immune (myeloid),MET,1.0,0.5586592178770949
+heart,Adipocyte,MET,1.0,0.5181347150259068
+esophagusmucosa,Immune (myeloid),MET,1.4285715,0.5007153075822603
+breast,Adipocyte,MET,1.0,0.4542873367404884
+skin,Fibroblast,MET,1.5,0.3780718336483932
+esophagusmuscularis,Immune (myeloid),MET,1.0909091,0.371245359433007
+skeletalmuscle,Fibroblast,MET,1.0454545,0.3701211305518169
+heart,Glia,MET,1.0,0.3355704697986577
+esophagusmuscularis,Fibroblast,MET,1.0666667,0.2882121241233548
+lung,Immune (lymphocyte),MET,1.0,0.2758620689655172
+heart,Fibroblast,MET,1.0,0.2261225368795089
+esophagusmucosa,Fibroblast,MET,1.1666666,0.2131438721136767
+prostate,Immune (lymphocyte),MET,1.0,0.1466275659824047
+heart,Immune (myeloid),MET,1.125,0.1250195343022347
+esophagusmucosa,Immune (lymphocyte),MET,1.0,0.055005500550055
+esophagusmucosa,Glia,MET,0.0,0.0
+heart,Immune (lymphocyte),MET,0.0,0.0
+esophagusmuscularis,Neuron,MET,0.0,0.0
+esophagusmuscularis,Immune (lymphocyte),MET,0.0,0.0
+skin,Adipocyte,MET,0.0,0.0

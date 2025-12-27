@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmucosa,Epithelial cell,EPHA2,3.7510626,23.876485937953028
+skin,Other,EPHA2,1.4897959,10.84070796460177
+breast,Muscle,EPHA2,1.0909091,7.236842105263158
+skeletalmuscle,Glia,EPHA2,1.0,5.714285714285714
+breast,Endothelial cell,EPHA2,1.0285715,3.9727582292849033
+skin,Epithelial cell,EPHA2,1.0434783,3.820598006644518
+breast,Epithelial cell,EPHA2,1.1636363,3.7937575444042073
+skin,Epithelial cell (keratinocyte),EPHA2,1.0655738,3.133025166923472
+prostate,Epithelial cell,EPHA2,1.1260388,3.1291986304338404
+heart,Endothelial cell,EPHA2,1.1495726,3.064833005893909
+skeletalmuscle,Endothelial cell,EPHA2,1.1794872,2.9301277235161534
+lung,Epithelial cell,EPHA2,1.0547338,2.8078920041536866
+prostate,Endothelial cell,EPHA2,1.0649351,2.724699221514508
+esophagusmucosa,Stromal,EPHA2,1.6666666,2.426693629929221
+esophagusmuscularis,Endothelial cell,EPHA2,1.049505,2.264066352835687
+heart,Muscle,EPHA2,1.0189394,2.188328912466844
+lung,Immune (myeloid),EPHA2,1.0256411,1.9183472700442696
+skin,Endothelial cell,EPHA2,1.0555556,1.7595307917888563
+esophagusmucosa,Endothelial cell,EPHA2,1.1518987,1.68875587858059
+prostate,Muscle,EPHA2,1.081081,1.6495764600980831
+skin,Adipocyte,EPHA2,1.0,1.6129032258064515
+heart,Adipocyte,EPHA2,1.0,1.5544041450777202
+esophagusmucosa,Glia,EPHA2,1.0,1.5384615384615383
+skeletalmuscle,Fibroblast,EPHA2,1.0786517,1.497308209959623
+prostate,Glia,EPHA2,1.0,1.4925373134328357
+lung,Endothelial cell,EPHA2,1.05,1.4566642388929352
+skin,Immune (lymphocyte),EPHA2,1.0,1.3333333333333337
+lung,Muscle,EPHA2,1.0,1.2269938650306749
+esophagusmuscularis,Adipocyte,EPHA2,1.0,1.1428571428571428
+heart,Fibroblast,EPHA2,1.0377358,1.1413804242489505
+skin,Muscle,EPHA2,1.0,1.0752688172043012
+breast,Immune (myeloid),EPHA2,1.0,0.8379888268156425
+breast,Fibroblast,EPHA2,1.0,0.7326007326007326
+heart,Glia,EPHA2,1.0,0.6711409395973155
+skeletalmuscle,Adipocyte,EPHA2,1.0,0.628930817610063
+esophagusmuscularis,Glia,EPHA2,1.0,0.6185567010309279
+esophagusmucosa,Muscle,EPHA2,2.0,0.5988023952095809
+skin,Immune (myeloid),EPHA2,1.0,0.5586592178770949
+lung,Fibroblast,EPHA2,1.0,0.4065040650406504
+esophagusmuscularis,Fibroblast,EPHA2,1.0769231,0.3746757613603612
+prostate,Fibroblast,EPHA2,1.25,0.3502626970227671
+heart,Immune (lymphocyte),EPHA2,1.0,0.2865329512893982
+esophagusmuscularis,Muscle,EPHA2,1.1190476,0.2824668773959244
+lung,Immune (lymphocyte),EPHA2,1.0,0.2758620689655172
+prostate,Immune (myeloid),EPHA2,1.0,0.1945525291828793
+skeletalmuscle,Muscle,EPHA2,1.175,0.1772185547826857
+prostate,Immune (lymphocyte),EPHA2,1.0,0.1466275659824047
+heart,Immune (myeloid),EPHA2,1.1111112,0.140646976090014
+esophagusmuscularis,Immune (myeloid),EPHA2,1.25,0.1349983125210934
+esophagusmucosa,Immune (lymphocyte),EPHA2,1.5,0.11001100110011
+esophagusmucosa,Fibroblast,EPHA2,1.0,0.1065719360568383
+esophagusmucosa,Immune (myeloid),EPHA2,2.0,0.0715307582260371
+breast,Adipocyte,EPHA2,1.0,0.056785917092561
+esophagusmuscularis,Neuron,EPHA2,0.0,0.0
+esophagusmuscularis,Immune (lymphocyte),EPHA2,0.0,0.0
+skeletalmuscle,Immune (myeloid),EPHA2,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),EPHA2,0.0,0.0
+skin,Fibroblast,EPHA2,0.0,0.0
+skin,Melanocyte,EPHA2,0.0,0.0

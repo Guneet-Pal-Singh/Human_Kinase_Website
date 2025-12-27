@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmucosa,Stromal,PNCK,1.2297298,14.964610717896864
+prostate,Muscle,PNCK,1.1942446,12.394115024520731
+esophagusmuscularis,Muscle,PNCK,1.122288,6.819557468558747
+esophagusmuscularis,Neuron,PNCK,1.0,4.0
+skeletalmuscle,Glia,PNCK,1.0,2.857142857142857
+heart,Muscle,PNCK,1.0401235,2.6856763925729443
+skeletalmuscle,Adipocyte,PNCK,1.0,1.8867924528301887
+skin,Adipocyte,PNCK,1.0,1.6129032258064515
+lung,Muscle,PNCK,1.0,1.2269938650306749
+esophagusmuscularis,Adipocyte,PNCK,1.0,1.1428571428571428
+skin,Melanocyte,PNCK,1.0,1.1029411764705883
+skin,Muscle,PNCK,1.0,1.0752688172043012
+skeletalmuscle,Muscle,PNCK,1.016129,0.8240662797394888
+esophagusmuscularis,Glia,PNCK,1.1428572,0.7216494845360825
+lung,Immune (myeloid),PNCK,1.0,0.6722413510411542
+esophagusmucosa,Muscle,PNCK,1.0,0.5988023952095809
+esophagusmucosa,Epithelial cell,PNCK,1.0632912,0.5726297477529719
+breast,Immune (myeloid),PNCK,1.0,0.5586592178770949
+skin,Immune (myeloid),PNCK,1.0,0.5586592178770949
+lung,Epithelial cell,PNCK,1.0,0.4942886812045691
+skin,Other,PNCK,1.0,0.4424778761061947
+breast,Epithelial cell,PNCK,1.0,0.3966201069149853
+prostate,Epithelial cell,PNCK,1.0340909,0.3813981710224071
+esophagusmuscularis,Immune (myeloid),PNCK,1.0909091,0.371245359433007
+heart,Glia,PNCK,1.0,0.3355704697986577
+skin,Epithelial cell,PNCK,1.0,0.3322259136212624
+lung,Immune (lymphocyte),PNCK,1.0,0.2758620689655172
+skeletalmuscle,Immune (myeloid),PNCK,1.0,0.2713704206241519
+esophagusmucosa,Fibroblast,PNCK,1.0,0.2486678507992895
+lung,Endothelial cell,PNCK,1.1666666,0.2184996358339402
+lung,Fibroblast,PNCK,1.0,0.2032520325203252
+skin,Endothelial cell,PNCK,1.0,0.1955034213098729
+prostate,Endothelial cell,PNCK,1.2,0.1769285208775654
+skeletalmuscle,Fibroblast,PNCK,1.0,0.1514131897711978
+esophagusmuscularis,Fibroblast,PNCK,1.0,0.1344989912575655
+breast,Fibroblast,PNCK,1.0,0.1221001221001221
+breast,Adipocyte,PNCK,1.0,0.1135718341851221
+skin,Epithelial cell (keratinocyte),PNCK,1.0,0.1027221366204417
+heart,Immune (myeloid),PNCK,1.0,0.093764650726676
+prostate,Fibroblast,PNCK,1.0,0.0875656742556917
+esophagusmucosa,Endothelial cell,PNCK,1.0,0.0855066267635741
+skeletalmuscle,Endothelial cell,PNCK,1.0,0.0751314800901577
+esophagusmucosa,Immune (myeloid),PNCK,1.0,0.0715307582260371
+esophagusmucosa,Immune (lymphocyte),PNCK,1.0,0.055005500550055
+heart,Fibroblast,PNCK,1.0,0.0538386992570259
+heart,Endothelial cell,PNCK,1.0,0.0523903077930582
+esophagusmuscularis,Endothelial cell,PNCK,1.0,0.0448329970858551
+breast,Muscle,PNCK,0.0,0.0
+breast,Endothelial cell,PNCK,0.0,0.0
+esophagusmuscularis,Immune (lymphocyte),PNCK,0.0,0.0
+esophagusmucosa,Glia,PNCK,0.0,0.0
+heart,Immune (lymphocyte),PNCK,0.0,0.0
+heart,Adipocyte,PNCK,0.0,0.0
+prostate,Glia,PNCK,0.0,0.0
+prostate,Immune (myeloid),PNCK,0.0,0.0
+prostate,Immune (lymphocyte),PNCK,0.0,0.0
+skeletalmuscle,Immune (lymphocyte),PNCK,0.0,0.0
+skin,Immune (lymphocyte),PNCK,0.0,0.0
+skin,Fibroblast,PNCK,0.0,0.0

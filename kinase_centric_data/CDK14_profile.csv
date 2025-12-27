@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+lung,Immune (myeloid),CDK14,1.5801594,37.02246269880308
+heart,Muscle,CDK14,1.77496,36.28149867374005
+heart,Adipocyte,CDK14,1.3770492,31.606217616580317
+heart,Fibroblast,CDK14,1.3945835,31.409497146548937
+lung,Fibroblast,CDK14,1.3246753,31.30081300813008
+lung,Muscle,CDK14,1.4042553,28.834355828220858
+breast,Fibroblast,CDK14,1.4017467,27.96092796092796
+esophagusmucosa,Glia,CDK14,1.1666666,27.692307692307693
+prostate,Muscle,CDK14,1.4438503,25.011145786892552
+prostate,Epithelial cell,CDK14,1.4737668,24.864560308585794
+lung,Epithelial cell,CDK14,1.3931738,24.82658359293873
+prostate,Fibroblast,CDK14,1.4892857,24.518388791593697
+esophagusmuscularis,Neuron,CDK14,1.8333334,24.0
+skeletalmuscle,Muscle,CDK14,1.272336,21.620663683487663
+breast,Endothelial cell,CDK14,1.4011627,19.52326901248581
+breast,Epithelial cell,CDK14,1.2904718,18.64114502500431
+prostate,Immune (myeloid),CDK14,1.2460732,18.579766536964986
+breast,Muscle,CDK14,1.1071428,18.421052631578945
+lung,Endothelial cell,CDK14,1.2273642,18.09905316824472
+breast,Adipocyte,CDK14,1.2190477,17.88756388415673
+esophagusmucosa,Stromal,CDK14,1.2528735,17.593528816986854
+skeletalmuscle,Glia,CDK14,1.0,17.142857142857142
+prostate,Glia,CDK14,1.0909091,16.417910447761194
+skin,Fibroblast,CDK14,1.2093023,16.257088846880908
+skin,Immune (myeloid),CDK14,1.4482758,16.201117318435752
+esophagusmuscularis,Glia,CDK14,1.1419355,15.979381443298967
+esophagusmuscularis,Adipocyte,CDK14,1.2592592,15.428571428571429
+esophagusmucosa,Fibroblast,CDK14,1.2240964,14.742451154529308
+skin,Other,CDK14,1.7575758,14.601769911504425
+skeletalmuscle,Endothelial cell,CDK14,1.3762887,14.575507137490607
+skeletalmuscle,Fibroblast,CDK14,1.1398602,14.43472409152086
+esophagusmuscularis,Fibroblast,CDK14,1.1778976,14.25689307330195
+esophagusmucosa,Immune (myeloid),CDK14,1.3121387,12.374821173104436
+heart,Glia,CDK14,1.1666666,12.08053691275168
+heart,Endothelial cell,CDK14,1.2830802,12.075965946299934
+breast,Immune (myeloid),CDK14,1.1538461,10.893854748603353
+esophagusmuscularis,Endothelial cell,CDK14,1.2595744,10.53575431517597
+esophagusmucosa,Muscle,CDK14,1.14,9.98003992015968
+skin,Muscle,CDK14,1.1666666,9.67741935483871
+esophagusmuscularis,Muscle,CDK14,1.1754018,9.624050036989711
+heart,Immune (myeloid),CDK14,1.1713781,8.845132051883105
+skeletalmuscle,Immune (myeloid),CDK14,1.0645162,8.412483039348711
+prostate,Endothelial cell,CDK14,1.2236286,8.386411889596603
+lung,Immune (lymphocyte),CDK14,1.4666667,8.275862068965518
+skeletalmuscle,Adipocyte,CDK14,1.1538461,8.176100628930817
+esophagusmucosa,Endothelial cell,CDK14,1.3524591,7.823856348867037
+skin,Epithelial cell,CDK14,1.1904762,6.976744186046512
+skin,Adipocyte,CDK14,1.25,6.451612903225806
+skin,Endothelial cell,CDK14,1.0566038,5.180840664711632
+esophagusmucosa,Immune (lymphocyte),CDK14,1.3404255,5.17051705170517
+esophagusmuscularis,Immune (myeloid),CDK14,1.1056339,4.79244009449882
+esophagusmucosa,Epithelial cell,CDK14,1.1801653,4.385329080893013
+esophagusmuscularis,Immune (lymphocyte),CDK14,1.6666666,3.986710963455149
+prostate,Immune (lymphocyte),CDK14,1.2307693,3.812316715542522
+skin,Melanocyte,CDK14,1.1,3.6764705882352944
+heart,Immune (lymphocyte),CDK14,1.9473684,2.722063037249284
+skin,Immune (lymphocyte),CDK14,1.0,2.666666666666667
+skin,Epithelial cell (keratinocyte),CDK14,1.0,2.157164869029276
+skeletalmuscle,Immune (lymphocyte),CDK14,1.0,1.0

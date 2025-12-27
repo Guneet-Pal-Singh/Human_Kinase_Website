@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skeletalmuscle,Muscle,MYLK4,2.533809,14.283815515484472
+heart,Adipocyte,MYLK4,1.0,3.6269430051813463
+lung,Immune (myeloid),MYLK4,1.071066,3.2300377111001803
+lung,Muscle,MYLK4,1.0,2.4539877300613497
+esophagusmucosa,Epithelial cell,MYLK4,1.0504451,2.442737025224703
+heart,Muscle,MYLK4,1.1054546,2.2795092838196287
+skeletalmuscle,Adipocyte,MYLK4,1.0,1.8867924528301887
+lung,Epithelial cell,MYLK4,1.0241935,1.545171339563863
+skin,Immune (lymphocyte),MYLK4,1.0,1.3333333333333337
+breast,Muscle,MYLK4,1.0,1.3157894736842104
+lung,Fibroblast,MYLK4,1.0,1.2872628726287263
+esophagusmucosa,Endothelial cell,MYLK4,1.0,1.2825994014536126
+prostate,Muscle,MYLK4,1.0,1.2037449843958985
+esophagusmuscularis,Glia,MYLK4,1.0909091,1.134020618556701
+prostate,Endothelial cell,MYLK4,1.03125,1.132342533616419
+heart,Fibroblast,MYLK4,1.0761905,1.130612684397545
+skin,Muscle,MYLK4,1.0,1.0752688172043012
+lung,Endothelial cell,MYLK4,1.0357143,1.0196649672250546
+esophagusmucosa,Stromal,MYLK4,1.0,1.0111223458038423
+skeletalmuscle,Immune (lymphocyte),MYLK4,1.0,1.0
+skeletalmuscle,Endothelial cell,MYLK4,1.0,0.9767092411720512
+prostate,Epithelial cell,MYLK4,1.0185186,0.9361591470549994
+esophagusmucosa,Fibroblast,MYLK4,1.0384616,0.9236234458259326
+breast,Epithelial cell,MYLK4,1.018868,0.9139506811519228
+skin,Other,MYLK4,1.0,0.8849557522123894
+esophagusmucosa,Muscle,MYLK4,1.0,0.7984031936127743
+skin,Endothelial cell,MYLK4,1.0,0.7820136852394917
+heart,Endothelial cell,MYLK4,1.0,0.7596594629993452
+esophagusmuscularis,Endothelial cell,MYLK4,1.060606,0.7397444519166106
+skin,Melanocyte,MYLK4,1.0,0.7352941176470588
+prostate,Fibroblast,MYLK4,1.0,0.7005253940455342
+skin,Epithelial cell (keratinocyte),MYLK4,1.0769231,0.667693888032871
+esophagusmuscularis,Immune (myeloid),MYLK4,1.0,0.641241984475194
+esophagusmuscularis,Fibroblast,MYLK4,1.0153847,0.6244596022672687
+esophagusmuscularis,Adipocyte,MYLK4,1.0,0.5714285714285714
+skin,Fibroblast,MYLK4,1.0,0.5671077504725899
+skin,Immune (myeloid),MYLK4,1.0,0.5586592178770949
+esophagusmuscularis,Muscle,MYLK4,1.0240964,0.5582083529490887
+lung,Immune (lymphocyte),MYLK4,1.0,0.5517241379310345
+heart,Immune (myeloid),MYLK4,1.0,0.5157055789967182
+skin,Epithelial cell,MYLK4,1.0,0.4983388704318937
+skeletalmuscle,Fibroblast,MYLK4,1.0,0.4710632570659488
+heart,Immune (lymphocyte),MYLK4,1.0,0.4297994269340974
+prostate,Immune (myeloid),MYLK4,1.0,0.3891050583657587
+heart,Glia,MYLK4,1.0,0.3355704697986577
+prostate,Immune (lymphocyte),MYLK4,1.0,0.2932551319648094
+esophagusmucosa,Immune (myeloid),MYLK4,1.0,0.2861230329041487
+breast,Immune (myeloid),MYLK4,1.0,0.2793296089385474
+skeletalmuscle,Immune (myeloid),MYLK4,1.5,0.2713704206241519
+breast,Fibroblast,MYLK4,1.0,0.2442002442002442
+esophagusmucosa,Immune (lymphocyte),MYLK4,1.0,0.165016501650165
+breast,Adipocyte,MYLK4,1.0,0.1135718341851221
+breast,Endothelial cell,MYLK4,1.0,0.1135073779795686
+esophagusmucosa,Glia,MYLK4,0.0,0.0
+esophagusmuscularis,Immune (lymphocyte),MYLK4,0.0,0.0
+esophagusmuscularis,Neuron,MYLK4,0.0,0.0
+prostate,Glia,MYLK4,0.0,0.0
+skin,Adipocyte,MYLK4,0.0,0.0
+skeletalmuscle,Glia,MYLK4,0.0,0.0

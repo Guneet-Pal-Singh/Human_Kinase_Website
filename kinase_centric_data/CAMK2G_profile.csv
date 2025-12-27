@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+esophagusmuscularis,Neuron,CAMK2G,1.4,40.0
+esophagusmucosa,Stromal,CAMK2G,1.3175182,27.70475227502528
+esophagusmucosa,Muscle,CAMK2G,1.3783784,22.15568862275449
+prostate,Muscle,CAMK2G,1.2709677,20.731163620151584
+breast,Muscle,CAMK2G,1.0967742,20.394736842105264
+esophagusmuscularis,Muscle,CAMK2G,1.2555442,19.712152801129868
+skin,Muscle,CAMK2G,1.117647,18.27956989247312
+lung,Muscle,CAMK2G,1.2142857,17.177914110429448
+esophagusmucosa,Epithelial cell,CAMK2G,1.225221,15.576978834444766
+lung,Epithelial cell,CAMK2G,1.1367781,12.299065420560748
+esophagusmuscularis,Adipocyte,CAMK2G,1.1666666,10.285714285714285
+lung,Immune (lymphocyte),CAMK2G,1.0684931,10.06896551724138
+esophagusmuscularis,Immune (lymphocyte),CAMK2G,1.1,9.966777408637874
+esophagusmucosa,Immune (lymphocyte),CAMK2G,1.1363636,9.68096809680968
+heart,Muscle,CAMK2G,1.1354616,9.60709549071618
+heart,Adipocyte,CAMK2G,1.0555556,9.32642487046632
+esophagusmucosa,Immune (myeloid),CAMK2G,1.112,8.94134477825465
+prostate,Immune (myeloid),CAMK2G,1.0348837,8.365758754863812
+lung,Immune (myeloid),CAMK2G,1.0901961,8.362026561731431
+esophagusmucosa,Endothelial cell,CAMK2G,1.1145834,8.208636169303121
+esophagusmuscularis,Immune (myeloid),CAMK2G,1.1125,8.09989875126561
+prostate,Epithelial cell,CAMK2G,1.1460917,8.039700082347332
+skin,Immune (lymphocyte),CAMK2G,1.0,8.0
+prostate,Glia,CAMK2G,1.2,7.462686567164178
+heart,Immune (myeloid),CAMK2G,1.0770975,6.891701828410689
+breast,Epithelial cell,CAMK2G,1.0904523,6.863252284876703
+skin,Melanocyte,CAMK2G,1.0,6.61764705882353
+heart,Endothelial cell,CAMK2G,1.0756972,6.574983628028814
+skin,Adipocyte,CAMK2G,1.0,6.451612903225806
+heart,Immune (lymphocyte),CAMK2G,1.1111112,6.446991404011461
+skeletalmuscle,Muscle,CAMK2G,1.0820124,6.428603074741926
+breast,Immune (myeloid),CAMK2G,1.1304348,6.424581005586592
+esophagusmuscularis,Glia,CAMK2G,1.0806452,6.391752577319587
+skin,Epithelial cell,CAMK2G,1.1842105,6.312292358803987
+prostate,Endothelial cell,CAMK2G,1.0465117,6.086341118188252
+skeletalmuscle,Immune (lymphocyte),CAMK2G,1.0,6.0
+prostate,Immune (lymphocyte),CAMK2G,1.15,5.865102639296188
+skeletalmuscle,Immune (myeloid),CAMK2G,1.0243902,5.563093622795115
+breast,Fibroblast,CAMK2G,1.0888889,5.494505494505495
+breast,Adipocyte,CAMK2G,1.1041666,5.45144804088586
+esophagusmuscularis,Endothelial cell,CAMK2G,1.0875,5.379959650302623
+lung,Endothelial cell,CAMK2G,1.0625,5.243991260014567
+skin,Immune (myeloid),CAMK2G,1.2222222,5.027932960893855
+breast,Endothelial cell,CAMK2G,1.1463414,4.653802497162316
+esophagusmucosa,Glia,CAMK2G,1.0,4.615384615384616
+heart,Glia,CAMK2G,1.1538461,4.362416107382551
+lung,Fibroblast,CAMK2G,1.0645162,4.200542005420054
+skin,Epithelial cell (keratinocyte),CAMK2G,1.0864197,4.160246533127889
+heart,Fibroblast,CAMK2G,1.1015625,4.134812102939593
+skeletalmuscle,Endothelial cell,CAMK2G,1.037037,4.05709992486852
+skin,Endothelial cell,CAMK2G,1.1,3.9100684261974585
+prostate,Fibroblast,CAMK2G,1.0227273,3.852889667250438
+esophagusmucosa,Fibroblast,CAMK2G,1.0309278,3.4458259325044405
+skin,Fibroblast,CAMK2G,1.0588236,3.213610586011342
+skeletalmuscle,Glia,CAMK2G,1.0,2.857142857142857
+skeletalmuscle,Adipocyte,CAMK2G,1.0,2.515723270440252
+skin,Other,CAMK2G,1.0,2.433628318584071
+skeletalmuscle,Fibroblast,CAMK2G,1.0347826,1.9347240915208612
+esophagusmuscularis,Fibroblast,CAMK2G,1.0555556,1.7292727447401286

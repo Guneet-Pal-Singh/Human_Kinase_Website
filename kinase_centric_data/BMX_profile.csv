@@ -1,0 +1,60 @@
+tissue,cell_type,gene_name,mean_expression,pct_expressing
+skeletalmuscle,Endothelial cell,BMX,1.7006803,11.044327573253192
+breast,Endothelial cell,BMX,1.1842105,8.626560726447218
+esophagusmuscularis,Endothelial cell,BMX,1.2930107,8.338937457969067
+heart,Muscle,BMX,1.184839,7.982427055702917
+skin,Endothelial cell,BMX,1.2054795,7.135874877810362
+esophagusmucosa,Endothelial cell,BMX,1.2661871,5.942710560068405
+lung,Endothelial cell,BMX,1.2322581,5.644573925710124
+heart,Endothelial cell,BMX,1.3412888,5.487884741322855
+esophagusmuscularis,Adipocyte,BMX,1.0,5.142857142857142
+skin,Melanocyte,BMX,1.1538461,4.779411764705882
+prostate,Endothelial cell,BMX,1.107438,4.281670205237084
+esophagusmuscularis,Neuron,BMX,1.0,4.0
+esophagusmuscularis,Muscle,BMX,1.0958647,3.5779137803483763
+heart,Fibroblast,BMX,1.0877743,3.4349090125982555
+skin,Adipocyte,BMX,2.5,3.225806451612903
+esophagusmucosa,Stromal,BMX,1.0,2.8311425682507583
+skin,Muscle,BMX,1.0,2.6881720430107525
+breast,Adipocyte,BMX,1.1351352,2.1010789324247585
+lung,Muscle,BMX,1.0,1.8404907975460123
+prostate,Muscle,BMX,1.0731708,1.8279090503789568
+skin,Epithelial cell,BMX,1.0909091,1.827242524916944
+lung,Immune (myeloid),BMX,1.0185186,1.7707820954254796
+heart,Glia,BMX,1.0,1.6778523489932886
+heart,Adipocyte,BMX,1.0,1.5544041450777202
+esophagusmucosa,Glia,BMX,1.0,1.5384615384615383
+prostate,Glia,BMX,1.0,1.4925373134328357
+prostate,Fibroblast,BMX,1.0,1.48861646234676
+esophagusmucosa,Epithelial cell,BMX,1.0255102,1.4207016526529428
+breast,Immune (myeloid),BMX,1.0,1.3966480446927374
+prostate,Immune (myeloid),BMX,1.0,1.3618677042801557
+skin,Immune (lymphocyte),BMX,1.0,1.3333333333333337
+skin,Other,BMX,1.0,1.327433628318584
+skin,Epithelial cell (keratinocyte),BMX,1.04,1.2840267077555212
+esophagusmuscularis,Glia,BMX,1.0,1.2371134020618555
+lung,Epithelial cell,BMX,1.0135593,1.22533748701973
+esophagusmucosa,Muscle,BMX,1.1666666,1.1976047904191618
+prostate,Epithelial cell,BMX,1.0772059,1.1788670740692584
+esophagusmuscularis,Immune (myeloid),BMX,1.060606,1.113736078299021
+esophagusmuscularis,Fibroblast,BMX,1.0347826,1.10481314247286
+skeletalmuscle,Immune (lymphocyte),BMX,1.0,1.0
+skeletalmuscle,Muscle,BMX,1.0733945,0.9658411235656372
+lung,Immune (lymphocyte),BMX,1.0,0.9655172413793104
+breast,Epithelial cell,BMX,1.0,0.9484393861010518
+skin,Fibroblast,BMX,1.0,0.945179584120983
+lung,Fibroblast,BMX,1.0,0.8807588075880758
+skeletalmuscle,Fibroblast,BMX,1.0,0.8411843876177658
+breast,Fibroblast,BMX,1.0,0.7326007326007326
+esophagusmucosa,Immune (myeloid),BMX,1.1,0.7153075822603719
+breast,Muscle,BMX,1.0,0.6578947368421052
+skeletalmuscle,Adipocyte,BMX,1.0,0.628930817610063
+esophagusmucosa,Fibroblast,BMX,1.0588236,0.6039076376554174
+heart,Immune (lymphocyte),BMX,1.0,0.5730659025787965
+skin,Immune (myeloid),BMX,1.0,0.5586592178770949
+skeletalmuscle,Immune (myeloid),BMX,1.0,0.5427408412483039
+esophagusmucosa,Immune (lymphocyte),BMX,1.0,0.44004400440044
+heart,Immune (myeloid),BMX,1.0357143,0.4375683700578215
+esophagusmuscularis,Immune (lymphocyte),BMX,1.0,0.3322259136212624
+prostate,Immune (lymphocyte),BMX,1.0,0.2932551319648094
+skeletalmuscle,Glia,BMX,0.0,0.0

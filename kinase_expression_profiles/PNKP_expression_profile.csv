@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+ICCs,PNKP,0.27190435
+Immune (alveolar macrophage),PNKP,0.27092576
+Epithelial cell (ciliated),PNKP,0.25314748
+Mucous cell,PNKP,0.24439897
+Myocyte (cardiac),PNKP,0.23168951
+Epithelial cell (alveolar type I),PNKP,0.21640456
+Epithelial cell (suprabasal),PNKP,0.21412016
+Epithelial cell (alveolar type II),PNKP,0.20333426
+Myofibroblast,PNKP,0.19898257
+Epithelial cell (basal),PNKP,0.19751233
+Immune (B cell),PNKP,0.19610365
+Immune (mast cell),PNKP,0.19391498
+Epithelial cell (club),PNKP,0.19273438
+Neuroendocrine,PNKP,0.18437281
+Immune (NK cell),PNKP,0.18353724
+Epithelial cell (luminal),PNKP,0.1794285
+Immune (DC/macrophage),PNKP,0.17532295
+Myocyte (smooth muscle),PNKP,0.17488454
+Endothelial cell (lymphatic),PNKP,0.17258957
+Satellite cell,PNKP,0.1725473
+Neuronal,PNKP,0.170316
+Adipocyte,PNKP,0.16234492
+Endothelial cell (vascular),PNKP,0.15119883
+Immune (Langerhans),PNKP,0.14357302
+Epithelial cell (Hillock),PNKP,0.14246032
+Fibroblast,PNKP,0.1376538
+Immune (T cell),PNKP,0.13134956
+Schwann cell,PNKP,0.13122286
+Myoepithelial (basal),PNKP,0.13120824
+Pericyte/SMC,PNKP,0.12938207
+Sebaceous gland cell,PNKP,0.11981202
+Epithelial cell (mature keratinocyte),PNKP,0.11129839
+Sweat gland cell,PNKP,0.09750286
+Epithelial cell (squamous),PNKP,0.09313334
+Immune (DC),PNKP,0.08625466
+Epithelial cell (basal keratinocyte),PNKP,0.07846862
+Epithelial cell (cornified keratinocyte),PNKP,0.061318614
+"Myocyte (cardiac, cytoplasmic)",PNKP,0.057827167
+Myocyte (sk. muscle),PNKP,0.049920816
+Melanocyte,PNKP,0.037969824
+Myocyte (NMJ-rich),PNKP,0.030257612
+Epithelial cell (suprabasal keratinocyte),PNKP,0.025478728
+"Myocyte (sk. muscle, cytoplasmic)",PNKP,0.014762022

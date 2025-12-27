@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (Langerhans),DTYMK,0.15612768
+Epithelial cell (basal keratinocyte),DTYMK,0.08916547
+Epithelial cell (suprabasal keratinocyte),DTYMK,0.08828974
+Epithelial cell (basal),DTYMK,0.083155155
+Immune (DC),DTYMK,0.07901563
+Epithelial cell (luminal),DTYMK,0.064379975
+Myoepithelial (basal),DTYMK,0.06313352
+Epithelial cell (suprabasal),DTYMK,0.062440317
+Epithelial cell (Hillock),DTYMK,0.058234062
+Satellite cell,DTYMK,0.057090405
+Epithelial cell (club),DTYMK,0.05078545
+Sebaceous gland cell,DTYMK,0.04790987
+Epithelial cell (cornified keratinocyte),DTYMK,0.047875598
+Immune (NK cell),DTYMK,0.047636338
+"Myocyte (cardiac, cytoplasmic)",DTYMK,0.046327867
+Neuroendocrine,DTYMK,0.046303052
+Immune (DC/macrophage),DTYMK,0.04471662
+Adipocyte,DTYMK,0.044344585
+"Myocyte (sk. muscle, cytoplasmic)",DTYMK,0.042995065
+Myofibroblast,DTYMK,0.042920277
+Epithelial cell (mature keratinocyte),DTYMK,0.041154794
+Immune (T cell),DTYMK,0.036863968
+Immune (alveolar macrophage),DTYMK,0.03599766
+Myocyte (smooth muscle),DTYMK,0.03469588
+Myocyte (cardiac),DTYMK,0.032372512
+Endothelial cell (lymphatic),DTYMK,0.030287927
+Mucous cell,DTYMK,0.029230768
+Endothelial cell (vascular),DTYMK,0.027928093
+Epithelial cell (alveolar type I),DTYMK,0.027520662
+Epithelial cell (squamous),DTYMK,0.02605008
+Pericyte/SMC,DTYMK,0.023572478
+Fibroblast,DTYMK,0.02328008
+Epithelial cell (ciliated),DTYMK,0.022696627
+Schwann cell,DTYMK,0.020173065
+Epithelial cell (alveolar type II),DTYMK,0.018193386
+Immune (B cell),DTYMK,0.017173892
+Melanocyte,DTYMK,0.015815033
+Immune (mast cell),DTYMK,0.014972242
+Myocyte (sk. muscle),DTYMK,0.011299268
+ICCs,DTYMK,0.0
+Myocyte (NMJ-rich),DTYMK,0.0
+Neuronal,DTYMK,0.0
+Sweat gland cell,DTYMK,0.0

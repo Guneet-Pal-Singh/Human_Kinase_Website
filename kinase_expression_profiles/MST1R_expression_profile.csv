@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Epithelial cell (basal keratinocyte),MST1R,0.28729796
+Epithelial cell (suprabasal keratinocyte),MST1R,0.25543204
+Epithelial cell (alveolar type I),MST1R,0.18622762
+Epithelial cell (basal),MST1R,0.16559832
+Myocyte (NMJ-rich),MST1R,0.15064305
+Myocyte (sk. muscle),MST1R,0.14358719
+Epithelial cell (cornified keratinocyte),MST1R,0.13552047
+Epithelial cell (ciliated),MST1R,0.13328601
+Epithelial cell (Hillock),MST1R,0.12874264
+Myofibroblast,MST1R,0.110388674
+Neuroendocrine,MST1R,0.10373298
+Epithelial cell (mature keratinocyte),MST1R,0.10277124
+Mucous cell,MST1R,0.100709654
+Epithelial cell (alveolar type II),MST1R,0.09209173
+Epithelial cell (suprabasal),MST1R,0.08273687
+Epithelial cell (club),MST1R,0.08164792
+Epithelial cell (squamous),MST1R,0.077202335
+Neuronal,MST1R,0.063769475
+Immune (NK cell),MST1R,0.05264118
+Myocyte (smooth muscle),MST1R,0.052467555
+Immune (alveolar macrophage),MST1R,0.04978641
+Immune (DC),MST1R,0.04935087
+Immune (T cell),MST1R,0.045990236
+Fibroblast,MST1R,0.042480655
+Epithelial cell (luminal),MST1R,0.04101388
+Myocyte (cardiac),MST1R,0.03203362
+"Myocyte (sk. muscle, cytoplasmic)",MST1R,0.03180181
+Myoepithelial (basal),MST1R,0.028705694
+Immune (mast cell),MST1R,0.028373525
+Endothelial cell (vascular),MST1R,0.026741749
+Adipocyte,MST1R,0.025858022
+Sweat gland cell,MST1R,0.025535334
+Schwann cell,MST1R,0.022049595
+ICCs,MST1R,0.01864879
+Pericyte/SMC,MST1R,0.01609347
+Endothelial cell (lymphatic),MST1R,0.012622664
+Immune (DC/macrophage),MST1R,0.012021069
+Immune (B cell),MST1R,0.010138613
+Satellite cell,MST1R,0.008391176
+Melanocyte,MST1R,0.005663437
+"Myocyte (cardiac, cytoplasmic)",MST1R,0.0022531042
+Immune (Langerhans),MST1R,0.0
+Sebaceous gland cell,MST1R,0.0

@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Sebaceous gland cell,GK5,1.5380981
+Epithelial cell (club),GK5,0.6543799
+Epithelial cell (luminal),GK5,0.492947
+Mucous cell,GK5,0.4663333
+Immune (NK cell),GK5,0.4361352
+Epithelial cell (Hillock),GK5,0.4308939
+Sweat gland cell,GK5,0.36164278
+Epithelial cell (ciliated),GK5,0.33526453
+Epithelial cell (suprabasal),GK5,0.330424
+Epithelial cell (alveolar type I),GK5,0.3142741
+Adipocyte,GK5,0.2869886
+Myocyte (cardiac),GK5,0.26435784
+Epithelial cell (basal),GK5,0.2531886
+Epithelial cell (squamous),GK5,0.21829079
+Immune (alveolar macrophage),GK5,0.21702509
+Epithelial cell (alveolar type II),GK5,0.21042089
+Epithelial cell (mature keratinocyte),GK5,0.20855394
+Myofibroblast,GK5,0.2015456
+Fibroblast,GK5,0.18969354
+Myoepithelial (basal),GK5,0.18854961
+Epithelial cell (suprabasal keratinocyte),GK5,0.18233767
+Neuroendocrine,GK5,0.16728261
+Myocyte (smooth muscle),GK5,0.16415626
+Immune (Langerhans),GK5,0.14247091
+Endothelial cell (lymphatic),GK5,0.14184894
+Immune (T cell),GK5,0.14131013
+Melanocyte,GK5,0.12658365
+Endothelial cell (vascular),GK5,0.123874955
+Schwann cell,GK5,0.12262011
+Immune (DC/macrophage),GK5,0.11964186
+Satellite cell,GK5,0.11544139
+Pericyte/SMC,GK5,0.113116264
+Immune (mast cell),GK5,0.10677026
+Myocyte (NMJ-rich),GK5,0.10385701
+Immune (DC),GK5,0.08341164
+Immune (B cell),GK5,0.07814038
+Myocyte (sk. muscle),GK5,0.07446229
+"Myocyte (cardiac, cytoplasmic)",GK5,0.073999
+Neuronal,GK5,0.06841306
+ICCs,GK5,0.050474603
+"Myocyte (sk. muscle, cytoplasmic)",GK5,0.04519173
+Epithelial cell (basal keratinocyte),GK5,0.043881707
+Epithelial cell (cornified keratinocyte),GK5,0.03720223

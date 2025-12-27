@@ -1,0 +1,44 @@
+cell_type,gene_name,expression
+Immune (B cell),VRK1,0.31996655
+Immune (Langerhans),VRK1,0.2896452
+Sebaceous gland cell,VRK1,0.18737654
+Epithelial cell (basal),VRK1,0.1823013
+Immune (T cell),VRK1,0.1782109
+Neuronal,VRK1,0.16148175
+Immune (NK cell),VRK1,0.15471971
+Immune (mast cell),VRK1,0.14995174
+Immune (DC),VRK1,0.13796175
+Myofibroblast,VRK1,0.12640578
+Epithelial cell (ciliated),VRK1,0.12446528
+Immune (alveolar macrophage),VRK1,0.12367654
+Epithelial cell (suprabasal),VRK1,0.118732005
+Myoepithelial (basal),VRK1,0.11765309
+Endothelial cell (lymphatic),VRK1,0.11548219
+Mucous cell,VRK1,0.1150049
+Epithelial cell (basal keratinocyte),VRK1,0.11114077
+Neuroendocrine,VRK1,0.1096413
+Satellite cell,VRK1,0.10716023
+Immune (DC/macrophage),VRK1,0.10533052
+ICCs,VRK1,0.0991985
+Endothelial cell (vascular),VRK1,0.098829664
+Epithelial cell (club),VRK1,0.09726815
+Sweat gland cell,VRK1,0.09168121
+Epithelial cell (Hillock),VRK1,0.08703189
+Epithelial cell (luminal),VRK1,0.086742684
+Melanocyte,VRK1,0.086336456
+Epithelial cell (suprabasal keratinocyte),VRK1,0.08586062
+Adipocyte,VRK1,0.08249424
+Myocyte (cardiac),VRK1,0.079826385
+Schwann cell,VRK1,0.07584079
+Myocyte (smooth muscle),VRK1,0.06787334
+Fibroblast,VRK1,0.061130535
+Epithelial cell (alveolar type II),VRK1,0.060775083
+Epithelial cell (alveolar type I),VRK1,0.052686945
+Pericyte/SMC,VRK1,0.04843033
+Myocyte (NMJ-rich),VRK1,0.047038518
+Epithelial cell (squamous),VRK1,0.03821605
+Epithelial cell (mature keratinocyte),VRK1,0.03763308
+Epithelial cell (cornified keratinocyte),VRK1,0.03711055
+"Myocyte (cardiac, cytoplasmic)",VRK1,0.030952152
+"Myocyte (sk. muscle, cytoplasmic)",VRK1,0.029163186
+Myocyte (sk. muscle),VRK1,0.023992194
