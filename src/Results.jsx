@@ -1,5 +1,5 @@
 // Results.js
-import React, { useEffect, useRef, useMemo, useState } from 'react';
+import React, { useEffect, useRef, useMemo, useState, useCallback } from 'react';
 import { useLocation, useNavigate } from 'react-router-dom';
 import { useSearchParams } from 'react-router-dom';
 import './Home.css';
@@ -29,6 +29,16 @@ function parseResultFromSearchParams(searchParams) {
   return Object.keys(result).length > 0 ? result : null;
 }
 
+// Helper function to get PDB path
+function getPdbPath(source, uniprotId) {
+  const pdbFolderMap = {
+    'uniprot': 'PDB/uniprot_pdbs',
+    'modeller_pdbs': 'PDB/modeller_pdbs',
+    'alpha_fold': 'PDB/alphafold_pdbs'
+  };
+  return `/${pdbFolderMap[source]}/${uniprotId}.pdb`;
+}
+
 function Results() {
   const location = useLocation();
   const navigate = useNavigate();
@@ -39,8 +49,10 @@ function Results() {
   const [substrateLoading, setSubstrateLoading] = useState(false);
   const [substrateError, setSubstrateError] = useState(null);
   const [showPocketHighlight, setShowPocketHighlight] = useState(true);
-  const [pdbSource, setPdbSource] = useState('pdb_files'); // 'pdb_files', 'modeller_pdbs', or 'alpha_fold'
+  const [pdbSource, setPdbSource] = useState('uniprot'); // 'uniprot', 'modeller_pdbs', or 'alpha_fold'
   const [pdbError, setPdbError] = useState(false); // Track if PDB file is not available
+  const [availablePdbSources, setAvailablePdbSources] = useState([]); // Track which PDB sources are available
+  const [pdbSourcesChecked, setPdbSourcesChecked] = useState(false); // Track if availability check is complete
 
   // Modal state for expanded viewer
   const [showNGLModal, setShowNGLModal] = useState(false);
@@ -120,18 +132,135 @@ function Results() {
     return nglSelections.join(' or ');
   }
 
-  // Helper function to get PDB path
-  const getPdbPath = (source, uniprotId) => {
-    const pdbFolderMap = {
-      'pdb_files': 'PDB/pdb_files',
-      'modeller_pdbs': 'PDB/modeller_pdbs',
-      'alpha_fold': 'PDB/alpha_fold'
-    };
-    return `/${pdbFolderMap[source]}/${uniprotId}.pdb`;
-  };
+  // Check which PDB sources are available for the current uniprot_id
+  useEffect(() => {
+    if (!result?.uniprot_id) {
+      setPdbSourcesChecked(false);
+      setAvailablePdbSources([]);
+      return;
+    }
+
+    setPdbSourcesChecked(false);
+    setAvailablePdbSources([]);
+    const sources = ['uniprot', 'modeller_pdbs', 'alpha_fold'];
+    const checkPromises = sources.map(source => {
+      const pdbPath = getPdbPath(source, result.uniprot_id);
+      // Use GET with Range header to fetch only first 500 bytes to verify it's actually a PDB file
+      return fetch(pdbPath, { 
+        method: 'GET',
+        cache: 'no-store',
+        headers: {
+          'Cache-Control': 'no-store, no-cache, must-revalidate',
+          'Pragma': 'no-cache',
+          'Range': 'bytes=0-499' // Only fetch first 500 bytes
+        }
+      })
+        .then(async response => {
+          // Check status - 200 (full file) or 206 (partial content) are OK
+          // But 404, 500, etc. mean file doesn't exist
+          if (response.status === 404 || response.status >= 500) {
+            console.log(`Source ${source} returned status ${response.status} for ${result.uniprot_id} - FILE NOT FOUND`);
+            return null;
+          }
+          
+          // If status is not 200 or 206, reject it
+          if (response.status !== 200 && response.status !== 206) {
+            console.log(`Source ${source} returned unexpected status ${response.status} for ${result.uniprot_id}`);
+            return null;
+          }
+          
+          // Check Content-Type if available - reject HTML
+          const contentType = response.headers.get('content-type') || '';
+          if (contentType.toLowerCase().includes('text/html') || 
+              contentType.toLowerCase().includes('text/plain')) {
+            // Server returned HTML or plain text (likely an error page), not a PDB file
+            console.log(`Source ${source} returned ${contentType} instead of PDB for ${result.uniprot_id}`);
+            return null;
+          }
+          
+          // Read the response text (should be first 500 bytes)
+          const text = await response.text();
+          
+          // Check if it's HTML (error page)
+          const trimmedText = text.trim();
+          const isHtml = trimmedText.toLowerCase().startsWith('<!doctype') || 
+                        trimmedText.toLowerCase().startsWith('<html') ||
+                        trimmedText.includes('<html') ||
+                        trimmedText.includes('<!DOCTYPE') ||
+                        trimmedText.includes('<body') ||
+                        trimmedText.includes('404') ||
+                        trimmedText.includes('Not Found') ||
+                        trimmedText.includes('Error');
+          
+          if (isHtml) {
+            console.log(`Source ${source} is HTML/error page for ${result.uniprot_id}`);
+            return null;
+          }
+          
+          // STRICT PDB validation - must contain PDB-specific keywords in first few lines
+          // PDB files MUST have one of these in the first 500 bytes:
+          const firstLines = text.split('\n').slice(0, 10).join('\n');
+          const hasHeader = firstLines.includes('HEADER');
+          const hasAtom = firstLines.includes('ATOM  ');
+          const hasHetatm = firstLines.includes('HETATM');
+          const hasRemark = firstLines.includes('REMARK');
+          const hasTitle = firstLines.includes('TITLE ');
+          const hasCompnd = firstLines.includes('COMPND');
+          
+          // Must have at least one PDB-specific record type
+          const looksLikePdb = hasHeader || hasAtom || hasHetatm || hasRemark || hasTitle || hasCompnd;
+          
+          if (!looksLikePdb) {
+            console.log(`Source ${source} doesn't contain PDB records for ${result.uniprot_id}. First 200 chars:`, text.substring(0, 200));
+            return null;
+          }
+          
+          // Additional check: PDB files are typically longer than 1000 bytes
+          // But we only fetched 500, so if it's less than 100 bytes, it's probably an error
+          if (text.length < 50) {
+            console.log(`Source ${source} is too short (${text.length} bytes) for ${result.uniprot_id}`);
+            return null;
+          }
+          
+          console.log(`✓ Source ${source} is VALID PDB for ${result.uniprot_id}`);
+          return source;
+        })
+        .catch((error) => {
+          console.log(`✗ Source ${source} fetch failed for ${result.uniprot_id}:`, error.message || error);
+          return null;
+        });
+    });
+
+    Promise.all(checkPromises).then(results => {
+      const available = results.filter(Boolean);
+      console.log('Available PDB sources for', result.uniprot_id, ':', available);
+      if (available.length > 0) {
+        setAvailablePdbSources(available);
+        // Set pdbSource to first available if current is not available
+        setPdbSource(prev => {
+          if (available.includes(prev)) {
+            return prev;
+          }
+          return available[0];
+        });
+      } else {
+        // If no sources available, keep current state but mark as error
+        setAvailablePdbSources(['uniprot']); // Default fallback
+        setPdbSource('uniprot');
+      }
+      setPdbSourcesChecked(true);
+    });
+  }, [result?.uniprot_id]);
+
+  // Ensure pdbSource is always in availablePdbSources
+  useEffect(() => {
+    if (availablePdbSources.length > 0 && !availablePdbSources.includes(pdbSource)) {
+      setPdbSource(availablePdbSources[0]);
+    }
+  }, [availablePdbSources, pdbSource]);
 
   // Helper function to load PDB into NGL stage
-  const loadPdbIntoStage = (stage, containerId, uniprotId, source, pocketResidues, shouldHighlight) => {
+  const loadPdbIntoStage = useCallback((stage, containerId, uniprotId, source, pocketResidues, shouldHighlight) => {
     if (!window.NGL || !uniprotId) {
       setPdbError(true);
       return stage;
@@ -140,6 +269,19 @@ function Results() {
     const container = document.getElementById(containerId);
     if (!container) {
       setPdbError(true);
+      return stage;
+    }
+
+    // Validate source is available before attempting to load
+    // This is a critical check - don't load if source is not available
+    if (pdbSourcesChecked && availablePdbSources.length > 0 && !availablePdbSources.includes(source)) {
+      console.log('Blocked loading unavailable source:', source, 'Available:', availablePdbSources);
+      setPdbError(true);
+      container.innerHTML = '';
+      // Switch to first available source
+      if (availablePdbSources.length > 0) {
+        setPdbSource(availablePdbSources[0]);
+      }
       return stage;
     }
 
@@ -195,11 +337,15 @@ function Results() {
         setPdbError(true);
         // Clear any content that might have been injected (like HTML error pages)
         container.innerHTML = '';
+        // If source is not available, switch to first available source
+        if (availablePdbSources.length > 0 && !availablePdbSources.includes(source)) {
+          setPdbSource(availablePdbSources[0]);
+        }
         return stage;
       });
 
     return stage;
-  };
+  }, [availablePdbSources, pdbSourcesChecked]);
 
   // NGL viewer loading (small viewer)
   useEffect(() => {
@@ -256,7 +402,7 @@ function Results() {
         window.nglStage = null;
       }
     };
-  }, [result, navigate, showPocketHighlight, pdbSource]);
+  }, [result, navigate, showPocketHighlight, pdbSource, loadPdbIntoStage]);
 
   // Effect to manage the large NGL viewer inside the modal
   useEffect(() => {
@@ -307,7 +453,7 @@ function Results() {
       const largeDiv = document.getElementById('nglViewerLarge');
       if (largeDiv) largeDiv.innerHTML = '';
     };
-  }, [showNGLModal, result, showPocketHighlight, pdbSource]);
+  }, [showNGLModal, result, showPocketHighlight, pdbSource, loadPdbIntoStage]);
 
   return (
     <>
@@ -320,32 +466,100 @@ function Results() {
             {/* Small viewer - EXACT original layout preserved */}
             <div style={{ position: 'relative', width: '100%', height: 320 }}>
               {/* PDB Source button overlay - top left */}
-              <button
-                onClick={() => {
-                  setPdbSource(prev => {
-                    if (prev === 'pdb_files') return 'modeller_pdbs';
-                    if (prev === 'modeller_pdbs') return 'alpha_fold';
-                    return 'pdb_files';
-                  });
-                }}
-                style={{
-                  position: 'absolute',
-                  left: 10,
-                  top: 10,
-                  padding: '6px 10px',
-                  fontSize: 13,
-                  background: pdbSource === 'pdb_files' ? '#1565a5' : pdbSource === 'modeller_pdbs' ? '#2366a8' : '#0d47a1',
-                  color: 'white',
-                  border: 'none',
-                  borderRadius: 6,
-                  cursor: 'pointer',
-                  zIndex: 20,
-                  fontWeight: 600
-                }}
-                aria-label="Toggle PDB source"
-              >
-                {pdbSource === 'pdb_files' ? 'Original PDBs' : pdbSource === 'modeller_pdbs' ? 'Modeller PDBs' : 'AlphaFold'}
-              </button>
+              {pdbSourcesChecked && availablePdbSources.length > 1 && (
+                <button
+                  onClick={(e) => {
+                    e.preventDefault();
+                    e.stopPropagation();
+                    // Only proceed if we have multiple available sources and check is complete
+                    if (!pdbSourcesChecked || availablePdbSources.length <= 1) {
+                      console.log('Button click blocked - check not complete or insufficient sources');
+                      return;
+                    }
+                    console.log('Current available sources:', availablePdbSources);
+                    console.log('Current pdbSource:', pdbSource);
+                    setPdbSource(prev => {
+                      // Ensure prev is in available sources, if not use first available
+                      if (!availablePdbSources.includes(prev)) {
+                        console.log('Previous source not available, switching to:', availablePdbSources[0]);
+                        return availablePdbSources[0];
+                      }
+                      const currentIndex = availablePdbSources.indexOf(prev);
+                      if (currentIndex === -1) {
+                        console.log('Current index not found, switching to:', availablePdbSources[0]);
+                        return availablePdbSources[0];
+                      }
+                      const nextIndex = (currentIndex + 1) % availablePdbSources.length;
+                      const nextSource = availablePdbSources[nextIndex];
+                      console.log('Switching to next source:', nextSource);
+                      // Final validation - only return if source is in available list
+                      if (!availablePdbSources.includes(nextSource)) {
+                        console.log('Next source not in available list, using first available');
+                        return availablePdbSources[0];
+                      }
+                      return nextSource;
+                    });
+                  }}
+                  disabled={!pdbSourcesChecked || availablePdbSources.length <= 1}
+                  style={{
+                    position: 'absolute',
+                    left: 10,
+                    top: 10,
+                    padding: '6px 10px',
+                    fontSize: 13,
+                    background: pdbSource === 'uniprot' ? '#1565a5' : pdbSource === 'modeller_pdbs' ? '#2366a8' : '#0d47a1',
+                    color: 'white',
+                    border: 'none',
+                    borderRadius: 6,
+                    cursor: (pdbSourcesChecked && availablePdbSources.length > 1) ? 'pointer' : 'not-allowed',
+                    zIndex: 20,
+                    fontWeight: 600,
+                    opacity: (pdbSourcesChecked && availablePdbSources.length > 1) ? 1 : 0.6,
+                    pointerEvents: (pdbSourcesChecked && availablePdbSources.length > 1) ? 'auto' : 'none'
+                  }}
+                  aria-label="Toggle PDB source"
+                >
+                  {pdbSource === 'uniprot' ? 'UniProt PDBs' : pdbSource === 'modeller_pdbs' ? 'Modeller PDBs' : 'AlphaFold'}
+                </button>
+              )}
+              {pdbSourcesChecked && availablePdbSources.length === 1 && (
+                <div
+                  style={{
+                    position: 'absolute',
+                    left: 10,
+                    top: 10,
+                    padding: '6px 10px',
+                    fontSize: 13,
+                    background: pdbSource === 'uniprot' ? '#1565a5' : pdbSource === 'modeller_pdbs' ? '#2366a8' : '#0d47a1',
+                    color: 'white',
+                    border: 'none',
+                    borderRadius: 6,
+                    zIndex: 20,
+                    fontWeight: 600
+                  }}
+                >
+                  {pdbSource === 'uniprot' ? 'UniProt PDBs' : pdbSource === 'modeller_pdbs' ? 'Modeller PDBs' : 'AlphaFold'}
+                </div>
+              )}
+              {availablePdbSources.length === 1 && (
+                <div
+                  style={{
+                    position: 'absolute',
+                    left: 10,
+                    top: 10,
+                    padding: '6px 10px',
+                    fontSize: 13,
+                    background: pdbSource === 'uniprot' ? '#1565a5' : pdbSource === 'modeller_pdbs' ? '#2366a8' : '#0d47a1',
+                    color: 'white',
+                    border: 'none',
+                    borderRadius: 6,
+                    zIndex: 20,
+                    fontWeight: 600
+                  }}
+                >
+                  {pdbSource === 'uniprot' ? 'UniProt PDBs' : pdbSource === 'modeller_pdbs' ? 'Modeller PDBs' : 'AlphaFold'}
+                </div>
+              )}
               {/* Expand button overlay - does not change layout */}
               <button
                 onClick={() => setShowNGLModal(true)}
