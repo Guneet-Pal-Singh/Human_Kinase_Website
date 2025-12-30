@@ -299,50 +299,64 @@ function Results() {
 
     const pdbPath = getPdbPath(source, uniprotId);
 
-    // First check if file exists before loading with NGL
-    fetch(pdbPath, { method: 'HEAD' })
-      .then(response => {
-        if (!response.ok) {
-          throw new Error('PDB file not found');
-        }
-        // File exists, proceed with NGL loading
-        const newStage = new window.NGL.Stage(containerId, { backgroundColor: 'white' });
-        
-        return newStage.loadFile(pdbPath, { defaultRepresentation: true })
-          .then((component) => {
-            // Highlight pocket residues if available
-            if (pocketResidues && shouldHighlight) {
-              try {
-                const selectionString = parsePocketToNGLSelection(pocketResidues);
-                if (selectionString) {
-                  component.addRepresentation('surface', {
-                    sele: selectionString,
-                    color: 'blue',
-                    opacity: 0.5,
-                    surfaceType: 'mesh',
-                    wireframe: true
-                  });
-                }
-              } catch (error) {
-                console.warn('Error parsing pocket residues:', error);
+    // Load PDB directly with NGL and handle errors reliably (avoid relying on HEAD)
+    try {
+      const newStage = new window.NGL.Stage(containerId, { backgroundColor: 'white' });
+
+      // Use NGL's default representation to preserve original coloring
+      newStage.loadFile(pdbPath, { defaultRepresentation: true })
+        .then((component) => {
+          // Add licorice for hetero atoms and color by element for clarity
+          try {
+            component.addRepresentation('licorice', { sele: 'hetero', colorScheme: 'element' });
+          } catch (err) {
+            console.warn('Failed to add hetero licorice representation:', err);
+          }
+
+          // Highlight pocket residues if available
+          if (pocketResidues && shouldHighlight) {
+            try {
+              const selectionString = parsePocketToNGLSelection(pocketResidues);
+              if (selectionString) {
+                component.addRepresentation('surface', {
+                  sele: selectionString,
+                  color: 'blue',
+                  opacity: 0.5,
+                  surfaceType: 'mesh'
+                });
               }
+            } catch (error) {
+              console.warn('Error parsing pocket residues:', error);
             }
+          }
+
+          // Make sure the canvas matches container size
+          try {
             newStage.autoView();
-            setPdbError(false); // Successfully loaded
-            return newStage;
-          });
-      })
-      .catch((e) => {
-        // File doesn't exist or failed to load
-        setPdbError(true);
-        // Clear any content that might have been injected (like HTML error pages)
-        container.innerHTML = '';
-        // If source is not available, switch to first available source
-        if (availablePdbSources.length > 0 && !availablePdbSources.includes(source)) {
-          setPdbSource(availablePdbSources[0]);
-        }
-        return stage;
-      });
+            if (typeof newStage.handleResize === 'function') newStage.handleResize();
+          } catch (err) {
+            // ignore
+          }
+
+          setPdbError(false); // Successfully loaded
+          return newStage;
+        })
+        .catch((err) => {
+          console.warn('NGL failed to load file:', pdbPath, err);
+          setPdbError(true);
+          container.innerHTML = '';
+          // If source is not available, switch to first available source
+          if (availablePdbSources.length > 0 && !availablePdbSources.includes(source)) {
+            setPdbSource(availablePdbSources[0]);
+          }
+          return stage;
+        });
+    } catch (err) {
+      console.warn('Error creating NGL Stage:', err);
+      setPdbError(true);
+      container.innerHTML = '';
+      return stage;
+    }
 
     return stage;
   }, [availablePdbSources, pdbSourcesChecked]);
@@ -454,6 +468,9 @@ function Results() {
       if (largeDiv) largeDiv.innerHTML = '';
     };
   }, [showNGLModal, result, showPocketHighlight, pdbSource, loadPdbIntoStage]);
+
+  // Determine whether the download link should be enabled
+  const downloadDisabled = !pdbSourcesChecked || pdbError || (availablePdbSources.length > 0 && !availablePdbSources.includes(pdbSource));
 
   return (
     <>
@@ -644,13 +661,19 @@ function Results() {
               )}
 
               <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'flex-end' }}>
-                <a
-                  href={getPdbPath(pdbSource, result.uniprot_id)}
-                  download={`${result.uniprot_id}.pdb`}
-                  style={{ color: '#2366a8', cursor: 'pointer', fontWeight: 600, fontSize: 16, textDecoration: 'none' }}
-                >
-                  📁 Download PDB
-                </a>
+                {downloadDisabled ? (
+                  <div style={{ color: '#9bb7d9', cursor: 'not-allowed', fontWeight: 600, fontSize: 16, textDecoration: 'none', opacity: 0.7 }} title={!pdbSourcesChecked ? 'Checking available PDB sources...' : pdbError ? 'PDB not available' : 'Selected source not available'}>
+                    📁 Download PDB
+                  </div>
+                ) : (
+                  <a
+                    href={getPdbPath(pdbSource, result.uniprot_id)}
+                    download={`${result.uniprot_id}.pdb`}
+                    style={{ color: '#2366a8', cursor: 'pointer', fontWeight: 600, fontSize: 16, textDecoration: 'none' }}
+                  >
+                    📁 Download PDB
+                  </a>
+                )}
               </div>
             </div>
 
