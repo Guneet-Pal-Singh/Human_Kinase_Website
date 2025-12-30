@@ -18,6 +18,33 @@ import { Parser as Json2csvParser } from 'json2csv';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
+// Directories we search when looking for CSV assets
+const CSV_SEARCH_DIRS = [
+  path.join(__dirname, '..'),
+  path.join(__dirname, '../kinase_centric_data'),
+  path.join(__dirname, '../kinase_expression_profiles'),
+  path.join(__dirname, '../tissue_centric_data')
+].filter(dir => fs.existsSync(dir));
+
+// Resolve a CSV path by searching allowed directories; returns null if not found
+function resolveCsvPath(requestedName) {
+  const sanitized = path.basename(requestedName || '');
+  const csvFilename = sanitized.endsWith('.csv') ? sanitized : `${sanitized}.csv`;
+
+  for (const dir of CSV_SEARCH_DIRS) {
+    const candidate = path.join(dir, csvFilename);
+    if (fs.existsSync(candidate)) {
+      return {
+        csvFilename,
+        fullPath: candidate,
+        relativeDir: path.relative(path.join(__dirname, '..'), dir) || '.'
+      };
+    }
+  }
+
+  return null;
+}
+
 const app = express();
 app.use(cors());
 app.use(express.json());
@@ -632,6 +659,227 @@ app.post('/api/assets/kinase-batch-availability', (req, res) => {
       total: results.length,
       results: results
     });
+  } catch (err) {
+    res.status(500).json({ error: 'Server error', details: err.message });
+  }
+});
+
+// CSV to JSON Conversion Endpoints
+
+// Convert specific CSV file to JSON and return it
+app.get('/api/csv-to-json/:filename', (req, res) => {
+  try {
+    const { filename } = req.params;
+    const resolved = resolveCsvPath(filename);
+
+    // Check if file exists in any of the allowed directories
+    if (!resolved) {
+      const csvFilename = filename.endsWith('.csv') ? filename : `${filename}.csv`;
+      return res.status(404).json({
+        error: `CSV file not found: ${csvFilename}`,
+        suggestion: 'Use /api/available-csv-files to see available files, or /api/available-kinases for kinase profiles',
+        searched_directories: CSV_SEARCH_DIRS.map(dir => path.relative(path.join(__dirname, '..'), dir) || '.')
+      });
+    }
+
+    const { csvFilename, fullPath } = resolved;
+
+    const results = [];
+    fs.createReadStream(fullPath)
+      .pipe(csv())
+      .on('data', (row) => {
+        results.push(row);
+      })
+      .on('end', () => {
+        res.json({
+          filename: csvFilename,
+          directory: path.relative(path.join(__dirname, '..'), path.dirname(fullPath)) || '.',
+          recordCount: results.length,
+          data: results
+        });
+      })
+      .on('error', (err) => {
+        res.status(500).json({
+          error: 'Failed to read CSV file',
+          details: err.message
+        });
+      });
+  } catch (err) {
+    res.status(500).json({ error: 'Server error', details: err.message });
+  }
+});
+
+// Convert kinase profile CSV to JSON
+app.get('/api/kinase-profile-json/:kinaseName', (req, res) => {
+  try {
+    const { kinaseName } = req.params;
+    const filename = `${kinaseName}_profile.csv`;
+    const csvPath = path.join(__dirname, '../kinase_centric_data', filename);
+
+    // Check if file exists
+    if (!fs.existsSync(csvPath)) {
+      return res.status(404).json({
+        error: `Kinase profile not found: ${kinaseName}`,
+        suggestion: 'Use /api/available-kinases to see available kinase profiles'
+      });
+    }
+
+    const results = [];
+    fs.createReadStream(csvPath)
+      .pipe(csv())
+      .on('data', (row) => {
+        results.push(row);
+      })
+      .on('end', () => {
+        res.json({
+          kinase: kinaseName,
+          filename: filename,
+          recordCount: results.length,
+          data: results
+        });
+      })
+      .on('error', (err) => {
+        res.status(500).json({
+          error: 'Failed to read kinase profile',
+          details: err.message
+        });
+      });
+  } catch (err) {
+    res.status(500).json({ error: 'Server error', details: err.message });
+  }
+});
+
+// Get list of available CSV files in root directory
+app.get('/api/available-csv-files', (req, res) => {
+  try {
+    const seen = new Set();
+    const detailed = [];
+
+    CSV_SEARCH_DIRS.forEach(dir => {
+      try {
+        const relDir = path.relative(path.join(__dirname, '..'), dir) || '.';
+        fs.readdirSync(dir).forEach(file => {
+          if (file.endsWith('.csv')) {
+            seen.add(file);
+            detailed.push({ name: file, directory: relDir });
+          }
+        });
+      } catch (err) {
+        // Skip directories we cannot read but keep others
+      }
+    });
+
+    res.json({
+      total: seen.size,
+      files: Array.from(seen),
+      detailed,
+      searchDirectories: CSV_SEARCH_DIRS.map(dir => path.relative(path.join(__dirname, '..'), dir) || '.'),
+      apiEndpoint: '/api/csv-to-json/:filename'
+    });
+  } catch (err) {
+    res.status(500).json({ error: 'Server error', details: err.message });
+  }
+});
+
+// Get list of available kinase profiles
+app.get('/api/available-kinases', (req, res) => {
+  try {
+    const kinaseDir = path.join(__dirname, '../kinase_centric_data');
+    fs.readdir(kinaseDir, (err, files) => {
+      if (err) {
+        return res.status(500).json({
+          error: 'Failed to read kinase directory',
+          details: err.message
+        });
+      }
+
+      const csvFiles = files.filter(file => file.endsWith('_profile.csv'));
+      const kinaseNames = csvFiles.map(file => file.replace('_profile.csv', ''));
+
+      res.json({
+        total: kinaseNames.length,
+        kinases: kinaseNames,
+        apiEndpoint: '/api/kinase-profile-json/:kinaseName'
+      });
+    });
+  } catch (err) {
+    res.status(500).json({ error: 'Server error', details: err.message });
+  }
+});
+
+// Batch convert multiple CSV files to JSON
+app.post('/api/batch-csv-to-json', (req, res) => {
+  try {
+    let { files } = req.body;
+
+    // Handle both array and comma-separated string input
+    if (typeof files === 'string') {
+      files = files.split(',').map(f => f.trim()).filter(Boolean);
+    }
+
+    if (!Array.isArray(files) || files.length === 0) {
+      return res.status(400).json({
+        error: 'Files array is required',
+        example: { files: ['KinaseDB.csv', 'Kinase_Diseases_Dataset.csv'] }
+      });
+    }
+
+    const results = {};
+    let processed = 0;
+    const errors = {};
+
+    files.forEach(filename => {
+      const resolved = resolveCsvPath(filename);
+
+      if (!resolved) {
+        const csvFilename = filename.endsWith('.csv') ? filename : `${filename}.csv`;
+        errors[filename] = `File not found: ${csvFilename}`;
+        processed++;
+        if (processed === files.length) {
+          sendResponse();
+        }
+        return;
+      }
+
+      const { csvFilename, fullPath, relativeDir } = resolved;
+
+      const fileData = [];
+      fs.createReadStream(fullPath)
+        .pipe(csv())
+        .on('data', (row) => {
+          fileData.push(row);
+        })
+        .on('end', () => {
+          results[filename] = {
+            recordCount: fileData.length,
+            data: fileData,
+            filename: csvFilename,
+            directory: relativeDir
+          };
+          processed++;
+          if (processed === files.length) {
+            sendResponse();
+          }
+        })
+        .on('error', (err) => {
+          errors[filename] = err.message;
+          processed++;
+          if (processed === files.length) {
+            sendResponse();
+          }
+        });
+    });
+
+    function sendResponse() {
+      res.json({
+        total: files.length,
+        successful: Object.keys(results).length,
+        failed: Object.keys(errors).length,
+        results: results,
+        errors: Object.keys(errors).length > 0 ? errors : undefined
+      });
+    }
+
   } catch (err) {
     res.status(500).json({ error: 'Server error', details: err.message });
   }
