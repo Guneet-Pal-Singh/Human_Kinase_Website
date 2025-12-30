@@ -1,9 +1,11 @@
 import React, { useEffect, useRef, useState } from "react";
+import { base_url, extension_urls } from "../config/urls.js";
+import Plot from "react-plotly.js";
 
 const KinasePlot = ({ geneName }) => {
-    const [plotAvailability, setPlotAvailability] = useState({
-        centricPlot: false,
-        expressionPlot: false
+    const [plotData, setPlotData] = useState({
+        centricPlot: null,
+        expressionPlot: null
     });
     const [loading, setLoading] = useState(true);
     const [error, setError] = useState(null);
@@ -14,40 +16,114 @@ const KinasePlot = ({ geneName }) => {
             return;
         }
 
-        const checkPlotAvailability = async () => {
+        const fetchPlotData = async () => {
             setLoading(true);
             setError(null);
 
             try {
-                const centricPlotPath = `/kinase_centric_plots_svg/${geneName}_plot.svg`;
-                const expressionPlotPath = `/kinase_svg_plots/${geneName}_expression.svg`;
+                const response = await fetch(`${base_url}${extension_urls}kinase-profile-json/${geneName}`);
 
-                const checkFile = async (path) => {
-                    try {
-                        const response = await fetch(path, { method: "HEAD" });
-                        return response.ok;
-                    } catch {
-                        return false;
-                    }
-                };
+                if (!response.ok) {
+                    throw new Error(`Failed to fetch plot data: ${response.statusText}`);
+                }
 
-                const [centricExists, expressionExists] = await Promise.all([
-                    checkFile(centricPlotPath),
-                    checkFile(expressionPlotPath)
-                ]);
+                const data = await response.json();
+                console.log('Kinase Profile JSON:', data);
 
-                setPlotAvailability({
-                    centricPlot: centricExists,
-                    expressionPlot: expressionExists
-                });
+                // Transform the data into Plotly format
+                if (data.data && Array.isArray(data.data)) {
+                    // Create expression heatmap (tissue vs mean_expression)
+                    const tissues = [...new Set(data.data.map(d => d.tissue))];
+                    const cellTypes = [...new Set(data.data.map(d => d.cell_type))];
+
+                    // Create matrix for heatmap
+                    const heatmapZ = cellTypes.map(cellType =>
+                        tissues.map(tissue => {
+                            const record = data.data.find(d => d.tissue === tissue && d.cell_type === cellType);
+                            return record ? parseFloat(record.mean_expression) : 0;
+                        })
+                    );
+
+                    const expressionPlot = {
+                        data: [{
+                            z: heatmapZ,
+                            x: tissues,
+                            y: cellTypes,
+                            type: 'heatmap',
+                            colorscale: 'Viridis',
+                            hovertemplate: 'Tissue: %{x}<br>Cell Type: %{y}<br>Mean Expression: %{z:.2f}<extra></extra>',
+                            line: { color: '#fff', width: 2 }
+                        }],
+                        layout: {
+                            title: 'Gene Expression Heatmap by Tissue and Cell Type',
+                            xaxis: {
+                                title: 'Tissue',
+                                showgrid: true,
+                                gridwidth: 2,
+                                gridcolor: '#fff'
+                            },
+                            yaxis: {
+                                title: 'Cell Type',
+                                showgrid: true,
+                                gridwidth: 2,
+                                gridcolor: '#fff'
+                            },
+                            height: 600
+                        }
+                    };
+
+                    // Create bubble chart (percentage expressing)
+                    const bubbleData = data.data.map(d => ({
+                        tissue: d.tissue,
+                        cellType: d.cell_type,
+                        meanExpression: parseFloat(d.mean_expression),
+                        pctExpressing: parseFloat(d.pct_expressing)
+                    }));
+
+                    const centricPlot = {
+                        data: [{
+                            x: bubbleData.map(d => d.pctExpressing),
+                            y: bubbleData.map(d => d.meanExpression),
+                            mode: 'markers',
+                            marker: {
+                                size: bubbleData.map(d => Math.max(15, d.pctExpressing / 1.5)),
+                                color: bubbleData.map(d => d.meanExpression),
+                                colorscale: 'Plasma',
+                                showscale: true,
+                                colorbar: { title: 'Mean Expression' },
+                                line: { width: 1, color: '#fff' }
+                            },
+                            text: bubbleData.map(d => `${d.tissue}<br>${d.cellType}<br>Mean Expr: ${d.meanExpression.toFixed(2)}<br>% Expressing: ${d.pctExpressing.toFixed(2)}%`),
+                            hovertemplate: '%{text}<extra></extra>'
+                        }],
+                        layout: {
+                            title: 'Expression Profile: Percent Expressing vs Mean Expression',
+                            xaxis: { title: 'Percent Expressing (%)' },
+                            yaxis: { title: 'Mean Expression Level' },
+                            height: 500,
+                            showlegend: false
+                        }
+                    };
+
+                    setPlotData({
+                        centricPlot: centricPlot,
+                        expressionPlot: expressionPlot
+                    });
+                } else {
+                    throw new Error('Invalid data format from API');
+                }
             } catch (err) {
-                setError("Failed to check plot availability");
+                setError(err.message || "Failed to load plot data");
+                setPlotData({
+                    centricPlot: null,
+                    expressionPlot: null
+                });
             } finally {
                 setLoading(false);
             }
         };
 
-        checkPlotAvailability();
+        fetchPlotData();
     }, [geneName]);
 
     const responsiveText = (min, mid, max) => ({
@@ -93,7 +169,7 @@ const KinasePlot = ({ geneName }) => {
         );
     }
 
-    if (!plotAvailability.centricPlot && !plotAvailability.expressionPlot) {
+    if (!plotData.centricPlot && !plotData.expressionPlot) {
         return (
             <div style={{
                 textAlign: "center",
@@ -133,7 +209,7 @@ const KinasePlot = ({ geneName }) => {
             }}>
 
                 {/* CENTRIC PLOT */}
-                {plotAvailability.centricPlot && (
+                {plotData.centricPlot && (
                     <div style={{
                         background: "#f4faff",
                         borderRadius: 10,
@@ -157,33 +233,27 @@ const KinasePlot = ({ geneName }) => {
                             padding: "clamp(8px, 1vw, 14px)",
                             border: "1px solid #e3eaf1"
                         }}>
-                            <img
-                                src={`/kinase_centric_plots_svg/${geneName}_plot.svg`}
-                                alt={`${geneName} Centric Plot`}
-                                style={{
-                                    maxWidth: "100%",
-                                    height: "auto",
-                                    maxHeight: "clamp(260px, 45vw, 600px)"
+                            <Plot
+                                data={plotData.centricPlot.data}
+                                layout={{
+                                    ...plotData.centricPlot.layout,
+                                    autosize: true,
+                                    responsive: true,
                                 }}
-                                onError={(e) => {
-                                    e.target.style.display = "none";
-                                    e.target.nextSibling.style.display = "block";
+                                config={{
+                                    responsive: true,
+                                    displayModeBar: true,
+                                    displaylogo: false,
                                 }}
+                                style={{ width: "100%", height: "100%" }}
+                                useResizeHandler={true}
                             />
-                            <div style={{
-                                display: "none",
-                                color: "#dc2626",
-                                padding: "clamp(10px, 2vw, 20px)",
-                                ...responsiveText(12, 1.4, 16)
-                            }}>
-                                Failed to load centric plot
-                            </div>
                         </div>
                     </div>
                 )}
 
                 {/* EXPRESSION PLOT */}
-                {plotAvailability.expressionPlot && (
+                {plotData.expressionPlot && (
                     <div style={{
                         background: "#f4faff",
                         borderRadius: 10,
@@ -207,27 +277,21 @@ const KinasePlot = ({ geneName }) => {
                             padding: "clamp(8px, 1vw, 14px)",
                             border: "1px solid #e3eaf1"
                         }}>
-                            <img
-                                src={`/kinase_svg_plots/${geneName}_expression.svg`}
-                                alt={`${geneName} Expression Plot`}
-                                style={{
-                                    maxWidth: "100%",
-                                    height: "auto",
-                                    maxHeight: "clamp(260px, 45vw, 600px)"
+                            <Plot
+                                data={plotData.expressionPlot.data}
+                                layout={{
+                                    ...plotData.expressionPlot.layout,
+                                    autosize: true,
+                                    responsive: true,
                                 }}
-                                onError={(e) => {
-                                    e.target.style.display = "none";
-                                    e.target.nextSibling.style.display = "block";
+                                config={{
+                                    responsive: true,
+                                    displayModeBar: true,
+                                    displaylogo: false,
                                 }}
+                                style={{ width: "100%", height: "100%" }}
+                                useResizeHandler={true}
                             />
-                            <div style={{
-                                display: "none",
-                                color: "#dc2626",
-                                padding: "clamp(10px, 2vw, 20px)",
-                                ...responsiveText(12, 1.4, 16)
-                            }}>
-                                Failed to load expression plot
-                            </div>
                         </div>
                     </div>
                 )}
@@ -239,10 +303,17 @@ const KinasePlot = ({ geneName }) => {
                     gap: "clamp(12px, 2vw, 24px)",
                     marginTop: "clamp(4px, 1vw, 10px)"
                 }}>
-                    {plotAvailability.centricPlot && (
-                        <a
-                            href={`/kinase_centric_plots_svg/${geneName}_plot.svg`}
-                            download={`${geneName}_plot.svg`}
+                    {plotData.centricPlot && (
+                        <button
+                            onClick={() => {
+                                const blob = new Blob([JSON.stringify(plotData.centricPlot)], { type: 'application/json' });
+                                const url = URL.createObjectURL(blob);
+                                const a = document.createElement('a');
+                                a.href = url;
+                                a.download = `${geneName}_centric_plot.json`;
+                                a.click();
+                                URL.revokeObjectURL(url);
+                            }}
                             style={{
                                 color: "#2366a8",
                                 textDecoration: "none",
@@ -252,6 +323,7 @@ const KinasePlot = ({ geneName }) => {
                                 borderRadius: 6,
                                 background: "white",
                                 transition: "0.2s",
+                                cursor: "pointer",
                                 ...responsiveText(12, 1.4, 16)
                             }}
                             onMouseOver={(e) => {
@@ -264,13 +336,20 @@ const KinasePlot = ({ geneName }) => {
                             }}
                         >
                             📊 Download Centric Plot
-                        </a>
+                        </button>
                     )}
 
-                    {plotAvailability.expressionPlot && (
-                        <a
-                            href={`/kinase_svg_plots/${geneName}_expression.svg`}
-                            download={`${geneName}_expression.svg`}
+                    {plotData.expressionPlot && (
+                        <button
+                            onClick={() => {
+                                const blob = new Blob([JSON.stringify(plotData.expressionPlot)], { type: 'application/json' });
+                                const url = URL.createObjectURL(blob);
+                                const a = document.createElement('a');
+                                a.href = url;
+                                a.download = `${geneName}_expression_plot.json`;
+                                a.click();
+                                URL.revokeObjectURL(url);
+                            }}
                             style={{
                                 color: "#2366a8",
                                 textDecoration: "none",
@@ -280,6 +359,7 @@ const KinasePlot = ({ geneName }) => {
                                 borderRadius: 6,
                                 background: "white",
                                 transition: "0.2s",
+                                cursor: "pointer",
                                 ...responsiveText(12, 1.4, 16)
                             }}
                             onMouseOver={(e) => {
@@ -292,7 +372,7 @@ const KinasePlot = ({ geneName }) => {
                             }}
                         >
                             📈 Download Expression Plot
-                        </a>
+                        </button>
                     )}
                 </div>
             </div>
