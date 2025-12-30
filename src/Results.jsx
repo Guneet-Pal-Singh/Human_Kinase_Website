@@ -1,5 +1,5 @@
 // Results.js
-import React, { useEffect, useRef, useMemo, useState } from 'react';
+import React, { useEffect, useRef, useMemo, useState, useCallback } from 'react';
 import { useLocation, useNavigate } from 'react-router-dom';
 import { useSearchParams } from 'react-router-dom';
 import './Home.css';
@@ -29,6 +29,16 @@ function parseResultFromSearchParams(searchParams) {
   return Object.keys(result).length > 0 ? result : null;
 }
 
+// Helper function to get PDB path
+function getPdbPath(source, uniprotId) {
+  const pdbFolderMap = {
+    'uniprot': 'PDB/uniprot_pdbs',
+    'modeller_pdbs': 'PDB/modeller_pdbs',
+    'alpha_fold': 'PDB/alphafold_pdbs'
+  };
+  return `/${pdbFolderMap[source]}/${uniprotId}.pdb`;
+}
+
 function Results() {
   const location = useLocation();
   const navigate = useNavigate();
@@ -39,7 +49,10 @@ function Results() {
   const [substrateLoading, setSubstrateLoading] = useState(false);
   const [substrateError, setSubstrateError] = useState(null);
   const [showPocketHighlight, setShowPocketHighlight] = useState(true);
-  const [pdbSource, setPdbSource] = useState('pdb_files'); // 'pdb_files', 'modeller_pdbs', or 'alpha_fold'
+  const [pdbSource, setPdbSource] = useState('uniprot'); // 'uniprot', 'modeller_pdbs', or 'alpha_fold'
+  const [pdbError, setPdbError] = useState(false); // Track if PDB file is not available
+  const [availablePdbSources, setAvailablePdbSources] = useState([]); // Track which PDB sources are available
+  const [pdbSourcesChecked, setPdbSourcesChecked] = useState(false); // Track if availability check is complete
 
   // Modal state for expanded viewer
   const [showNGLModal, setShowNGLModal] = useState(false);
@@ -119,12 +132,242 @@ function Results() {
     return nglSelections.join(' or ');
   }
 
+  // Check which PDB sources are available for the current uniprot_id
+  useEffect(() => {
+    if (!result?.uniprot_id) {
+      setPdbSourcesChecked(false);
+      setAvailablePdbSources([]);
+      return;
+    }
+
+    setPdbSourcesChecked(false);
+    setAvailablePdbSources([]);
+    const sources = ['uniprot', 'modeller_pdbs', 'alpha_fold'];
+    const checkPromises = sources.map(source => {
+      const pdbPath = getPdbPath(source, result.uniprot_id);
+      // Use GET with Range header to fetch only first 500 bytes to verify it's actually a PDB file
+      return fetch(pdbPath, { 
+        method: 'GET',
+        cache: 'no-store',
+        headers: {
+          'Cache-Control': 'no-store, no-cache, must-revalidate',
+          'Pragma': 'no-cache',
+          'Range': 'bytes=0-499' // Only fetch first 500 bytes
+        }
+      })
+        .then(async response => {
+          // Check status - 200 (full file) or 206 (partial content) are OK
+          // But 404, 500, etc. mean file doesn't exist
+          if (response.status === 404 || response.status >= 500) {
+            console.log(`Source ${source} returned status ${response.status} for ${result.uniprot_id} - FILE NOT FOUND`);
+            return null;
+          }
+          
+          // If status is not 200 or 206, reject it
+          if (response.status !== 200 && response.status !== 206) {
+            console.log(`Source ${source} returned unexpected status ${response.status} for ${result.uniprot_id}`);
+            return null;
+          }
+          
+          // Check Content-Type if available - reject HTML
+          const contentType = response.headers.get('content-type') || '';
+          if (contentType.toLowerCase().includes('text/html') || 
+              contentType.toLowerCase().includes('text/plain')) {
+            // Server returned HTML or plain text (likely an error page), not a PDB file
+            console.log(`Source ${source} returned ${contentType} instead of PDB for ${result.uniprot_id}`);
+            return null;
+          }
+          
+          // Read the response text (should be first 500 bytes)
+          const text = await response.text();
+          
+          // Check if it's HTML (error page)
+          const trimmedText = text.trim();
+          const isHtml = trimmedText.toLowerCase().startsWith('<!doctype') || 
+                        trimmedText.toLowerCase().startsWith('<html') ||
+                        trimmedText.includes('<html') ||
+                        trimmedText.includes('<!DOCTYPE') ||
+                        trimmedText.includes('<body') ||
+                        trimmedText.includes('404') ||
+                        trimmedText.includes('Not Found') ||
+                        trimmedText.includes('Error');
+          
+          if (isHtml) {
+            console.log(`Source ${source} is HTML/error page for ${result.uniprot_id}`);
+            return null;
+          }
+          
+          // STRICT PDB validation - must contain PDB-specific keywords in first few lines
+          // PDB files MUST have one of these in the first 500 bytes:
+          const firstLines = text.split('\n').slice(0, 10).join('\n');
+          const hasHeader = firstLines.includes('HEADER');
+          const hasAtom = firstLines.includes('ATOM  ');
+          const hasHetatm = firstLines.includes('HETATM');
+          const hasRemark = firstLines.includes('REMARK');
+          const hasTitle = firstLines.includes('TITLE ');
+          const hasCompnd = firstLines.includes('COMPND');
+          
+          // Must have at least one PDB-specific record type
+          const looksLikePdb = hasHeader || hasAtom || hasHetatm || hasRemark || hasTitle || hasCompnd;
+          
+          if (!looksLikePdb) {
+            console.log(`Source ${source} doesn't contain PDB records for ${result.uniprot_id}. First 200 chars:`, text.substring(0, 200));
+            return null;
+          }
+          
+          // Additional check: PDB files are typically longer than 1000 bytes
+          // But we only fetched 500, so if it's less than 100 bytes, it's probably an error
+          if (text.length < 50) {
+            console.log(`Source ${source} is too short (${text.length} bytes) for ${result.uniprot_id}`);
+            return null;
+          }
+          
+          console.log(`✓ Source ${source} is VALID PDB for ${result.uniprot_id}`);
+          return source;
+        })
+        .catch((error) => {
+          console.log(`✗ Source ${source} fetch failed for ${result.uniprot_id}:`, error.message || error);
+          return null;
+        });
+    });
+
+    Promise.all(checkPromises).then(results => {
+      const available = results.filter(Boolean);
+      console.log('Available PDB sources for', result.uniprot_id, ':', available);
+      if (available.length > 0) {
+        setAvailablePdbSources(available);
+        // Set pdbSource to first available if current is not available
+        setPdbSource(prev => {
+          if (available.includes(prev)) {
+            return prev;
+          }
+          return available[0];
+        });
+      } else {
+        // If no sources available, keep current state but mark as error
+        setAvailablePdbSources(['uniprot']); // Default fallback
+        setPdbSource('uniprot');
+      }
+      setPdbSourcesChecked(true);
+    });
+  }, [result?.uniprot_id]);
+
+  // Ensure pdbSource is always in availablePdbSources
+  useEffect(() => {
+    if (availablePdbSources.length > 0 && !availablePdbSources.includes(pdbSource)) {
+      setPdbSource(availablePdbSources[0]);
+    }
+  }, [availablePdbSources, pdbSource]);
+
+  // Helper function to load PDB into NGL stage
+  const loadPdbIntoStage = useCallback((stage, containerId, uniprotId, source, pocketResidues, shouldHighlight) => {
+    if (!window.NGL || !uniprotId) {
+      setPdbError(true);
+      return stage;
+    }
+
+    const container = document.getElementById(containerId);
+    if (!container) {
+      setPdbError(true);
+      return stage;
+    }
+
+    // Validate source is available before attempting to load
+    // This is a critical check - don't load if source is not available
+    if (pdbSourcesChecked && availablePdbSources.length > 0 && !availablePdbSources.includes(source)) {
+      console.log('Blocked loading unavailable source:', source, 'Available:', availablePdbSources);
+      setPdbError(true);
+      container.innerHTML = '';
+      // Switch to first available source
+      if (availablePdbSources.length > 0) {
+        setPdbSource(availablePdbSources[0]);
+      }
+      return stage;
+    }
+
+    // Clear existing content and reset error state
+    container.innerHTML = '';
+    setPdbError(false);
+    
+    if (stage) {
+      try {
+        stage.removeAllComponents();
+      } catch (e) {
+        // ignore
+      }
+    }
+
+    const pdbPath = getPdbPath(source, uniprotId);
+
+    // Load PDB directly with NGL and handle errors reliably (avoid relying on HEAD)
+    try {
+      const newStage = new window.NGL.Stage(containerId, { backgroundColor: 'white' });
+
+      // Use NGL's default representation to preserve original coloring
+      newStage.loadFile(pdbPath, { defaultRepresentation: true })
+        .then((component) => {
+          // Add licorice for hetero atoms and color by element for clarity
+          try {
+            component.addRepresentation('licorice', { sele: 'hetero', colorScheme: 'element' });
+          } catch (err) {
+            console.warn('Failed to add hetero licorice representation:', err);
+          }
+
+          // Highlight pocket residues if available
+          if (pocketResidues && shouldHighlight) {
+            try {
+              const selectionString = parsePocketToNGLSelection(pocketResidues);
+              if (selectionString) {
+                component.addRepresentation('surface', {
+                  sele: selectionString,
+                  color: 'blue',
+                  opacity: 0.5,
+                  surfaceType: 'mesh'
+                });
+              }
+            } catch (error) {
+              console.warn('Error parsing pocket residues:', error);
+            }
+          }
+
+          // Make sure the canvas matches container size
+          try {
+            newStage.autoView();
+            if (typeof newStage.handleResize === 'function') newStage.handleResize();
+          } catch (err) {
+            // ignore
+          }
+
+          setPdbError(false); // Successfully loaded
+          return newStage;
+        })
+        .catch((err) => {
+          console.warn('NGL failed to load file:', pdbPath, err);
+          setPdbError(true);
+          container.innerHTML = '';
+          // If source is not available, switch to first available source
+          if (availablePdbSources.length > 0 && !availablePdbSources.includes(source)) {
+            setPdbSource(availablePdbSources[0]);
+          }
+          return stage;
+        });
+    } catch (err) {
+      console.warn('Error creating NGL Stage:', err);
+      setPdbError(true);
+      container.innerHTML = '';
+      return stage;
+    }
+
+    return stage;
+  }, [availablePdbSources, pdbSourcesChecked]);
+
   // NGL viewer loading (small viewer)
   useEffect(() => {
     if (!result) {
       navigate('/');
       return;
     }
+
     // Scroll to result
     setTimeout(() => {
       if (resultRef.current) {
@@ -132,78 +375,59 @@ function Results() {
       }
     }, 100);
 
-    // NGL viewer logic
-    function loadNGL(flag) {
-      const nglDiv = document.getElementById('nglViewer');
-      if (nglDiv) nglDiv.innerHTML = '';
-      if (window.nglStage) {
-        try { window.nglStage.removeAllComponents(); } catch (e) { /* ignore */ }
-        window.nglStage = null;
-      }
-
-      if (result) {
-        window.nglStage = new window.NGL.Stage('nglViewer', { backgroundColor: 'white' });
-
-        const pdbFolderMap = {
-          'pdb_files': 'PDB/pdb_files',
-          'modeller_pdbs': 'PDB/modeller_pdbs',
-          'alpha_fold': 'PDB/alpha_fold'
-        };
-        const pdbPath = `/${pdbFolderMap[pdbSource]}/${result.uniprot_id}.pdb`;
-
-        window.nglStage.loadFile(pdbPath, { defaultRepresentation: true })
-          .then((component) => {
-            // Highlight pocket residues if available
-            if (result.pocket_residues_y && showPocketHighlight) {
-              try {
-                const selectionString = parsePocketToNGLSelection(result.pocket_residues_y);
-                if (selectionString) {
-                  component.addRepresentation('surface', {
-                    sele: selectionString,
-                    color: 'blue',
-                    opacity: 0.5,
-                    surfaceType: 'mesh',
-                    wireframe: true
-                  });
-                }
-              } catch (error) {
-                console.warn('Error parsing pocket residues:', error);
-              }
-            }
-            window.nglStage.autoView();
-          })
-          .catch(() => {
-            if (nglDiv) nglDiv.innerHTML = '<div style="color:red;">PDB file not found.</div>';
-          });
-      } else {
-        if (nglDiv) nglDiv.innerHTML = '<div style="color:red;">PDB not found.</div>';
-      }
-    }
-
+    // Load NGL library if not already loaded
     if (!window.NGL) {
       const script = document.createElement('script');
       script.src = 'https://unpkg.com/ngl@2.0.0-dev.40/dist/ngl.js';
       script.async = true;
-      script.onload = () => loadNGL();
+      script.onload = () => {
+        if (result?.uniprot_id) {
+          window.nglStage = loadPdbIntoStage(
+            window.nglStage,
+            'nglViewer',
+            result.uniprot_id,
+            pdbSource,
+            result.pocket_residues_y,
+            showPocketHighlight
+          );
+        }
+      };
       document.body.appendChild(script);
-    } else {
-      loadNGL();
+    } else if (result?.uniprot_id) {
+      // NGL already loaded, load PDB directly
+      window.nglStage = loadPdbIntoStage(
+        window.nglStage,
+        'nglViewer',
+        result.uniprot_id,
+        pdbSource,
+        result.pocket_residues_y,
+        showPocketHighlight
+      );
     }
 
+    // Cleanup
     return () => {
       if (window.nglStage) {
-        try { window.nglStage.removeAllComponents(); } catch (e) { /* ignore */ }
+        try {
+          window.nglStage.removeAllComponents();
+        } catch (e) {
+          // ignore
+        }
         window.nglStage = null;
       }
     };
-  }, [result, navigate, showPocketHighlight, pdbSource]);
+  }, [result, navigate, showPocketHighlight, pdbSource, loadPdbIntoStage]);
 
   // Effect to manage the large NGL viewer inside the modal
   useEffect(() => {
-    // destroy when modal closed
+    // Destroy when modal closed
     if (!showNGLModal) {
       if (window.nglStageLarge) {
-        try { window.nglStageLarge.removeAllComponents(); } catch (e) { /* ignore */ }
+        try {
+          window.nglStageLarge.removeAllComponents();
+        } catch (e) {
+          // ignore
+        }
         window.nglStageLarge = null;
       }
       const largeDiv = document.getElementById('nglViewerLarge');
@@ -211,59 +435,42 @@ function Results() {
       return;
     }
 
-    if (!result) return;
+    // Modal is open, load PDB if NGL is available
+    if (!result?.uniprot_id || !window.NGL) return;
 
-    // create large viewer
-    const modalDiv = document.getElementById('nglViewerLarge');
-    if (!modalDiv) return; // modal not yet mounted
+    // Small delay to ensure modal DOM is ready
+    const timer = setTimeout(() => {
+      const modalDiv = document.getElementById('nglViewerLarge');
+      if (!modalDiv) return;
 
-    modalDiv.innerHTML = '';
-    if (window.nglStageLarge) {
-      try { window.nglStageLarge.removeAllComponents(); } catch (e) { /* ignore */ }
-      window.nglStageLarge = null;
-    }
+      window.nglStageLarge = loadPdbIntoStage(
+        window.nglStageLarge,
+        'nglViewerLarge',
+        result.uniprot_id,
+        pdbSource,
+        result.pocket_residues_y,
+        showPocketHighlight
+      );
+    }, 100);
 
-    window.nglStageLarge = new window.NGL.Stage('nglViewerLarge', { backgroundColor: 'white' });
-    const pdbFolderMap = {
-      'pdb_files': 'pdb_files',
-      'modeller_pdbs': 'modeller_pdbs',
-      'alpha_fold': 'alpha_fold'
-    };
-    const pdbPath = `/${pdbFolderMap[pdbSource]}/${result.uniprot_id}.pdb`;
-    window.nglStageLarge.loadFile(pdbPath, { defaultRepresentation: true })
-      .then((component) => {
-        if (result.pocket_residues_y && showPocketHighlight) {
-          try {
-            const selectionString = parsePocketToNGLSelection(result.pocket_residues_y);
-            if (selectionString) {
-              component.addRepresentation('surface', {
-                sele: selectionString,
-                color: 'blue',
-                opacity: 0.5,
-                surfaceType: 'mesh',
-                wireframe: true
-              });
-            }
-          } catch (error) {
-            console.warn('Error parsing pocket residues for large viewer:', error);
-          }
-        }
-        window.nglStageLarge.autoView();
-      })
-      .catch((e) => {
-        modalDiv.innerHTML = '<div style="color:red;padding:16px;">PDB file not found for large viewer.</div>';
-      });
-
-    // cleanup when modal closes/unmounts
+    // Cleanup
     return () => {
+      clearTimeout(timer);
       if (window.nglStageLarge) {
-        try { window.nglStageLarge.removeAllComponents(); } catch (e) { /* ignore */ }
+        try {
+          window.nglStageLarge.removeAllComponents();
+        } catch (e) {
+          // ignore
+        }
         window.nglStageLarge = null;
       }
-      const largeDiv2 = document.getElementById('nglViewerLarge');
-      if (largeDiv2) largeDiv2.innerHTML = '';
+      const largeDiv = document.getElementById('nglViewerLarge');
+      if (largeDiv) largeDiv.innerHTML = '';
     };
-  }, [showNGLModal, result, showPocketHighlight, pdbSource]);
+  }, [showNGLModal, result, showPocketHighlight, pdbSource, loadPdbIntoStage]);
+
+  // Determine whether the download link should be enabled
+  const downloadDisabled = !pdbSourcesChecked || pdbError || (availablePdbSources.length > 0 && !availablePdbSources.includes(pdbSource));
 
   return (
     <>
@@ -275,6 +482,101 @@ function Results() {
           <div className="structure-box" style={{ flex: 1, minWidth: 340, background: '#f4faff', borderRadius: 14, padding: 24, boxShadow: '0 2px 8px 0 rgba(35,102,168,0.06)', display: 'flex', flexDirection: 'column', height: 520 }}>
             {/* Small viewer - EXACT original layout preserved */}
             <div style={{ position: 'relative', width: '100%', height: 320 }}>
+              {/* PDB Source button overlay - top left */}
+              {pdbSourcesChecked && availablePdbSources.length > 1 && (
+                <button
+                  onClick={(e) => {
+                    e.preventDefault();
+                    e.stopPropagation();
+                    // Only proceed if we have multiple available sources and check is complete
+                    if (!pdbSourcesChecked || availablePdbSources.length <= 1) {
+                      console.log('Button click blocked - check not complete or insufficient sources');
+                      return;
+                    }
+                    console.log('Current available sources:', availablePdbSources);
+                    console.log('Current pdbSource:', pdbSource);
+                    setPdbSource(prev => {
+                      // Ensure prev is in available sources, if not use first available
+                      if (!availablePdbSources.includes(prev)) {
+                        console.log('Previous source not available, switching to:', availablePdbSources[0]);
+                        return availablePdbSources[0];
+                      }
+                      const currentIndex = availablePdbSources.indexOf(prev);
+                      if (currentIndex === -1) {
+                        console.log('Current index not found, switching to:', availablePdbSources[0]);
+                        return availablePdbSources[0];
+                      }
+                      const nextIndex = (currentIndex + 1) % availablePdbSources.length;
+                      const nextSource = availablePdbSources[nextIndex];
+                      console.log('Switching to next source:', nextSource);
+                      // Final validation - only return if source is in available list
+                      if (!availablePdbSources.includes(nextSource)) {
+                        console.log('Next source not in available list, using first available');
+                        return availablePdbSources[0];
+                      }
+                      return nextSource;
+                    });
+                  }}
+                  disabled={!pdbSourcesChecked || availablePdbSources.length <= 1}
+                  style={{
+                    position: 'absolute',
+                    left: 10,
+                    top: 10,
+                    padding: '6px 10px',
+                    fontSize: 13,
+                    background: pdbSource === 'uniprot' ? '#1565a5' : pdbSource === 'modeller_pdbs' ? '#2366a8' : '#0d47a1',
+                    color: 'white',
+                    border: 'none',
+                    borderRadius: 6,
+                    cursor: (pdbSourcesChecked && availablePdbSources.length > 1) ? 'pointer' : 'not-allowed',
+                    zIndex: 20,
+                    fontWeight: 600,
+                    opacity: (pdbSourcesChecked && availablePdbSources.length > 1) ? 1 : 0.6,
+                    pointerEvents: (pdbSourcesChecked && availablePdbSources.length > 1) ? 'auto' : 'none'
+                  }}
+                  aria-label="Toggle PDB source"
+                >
+                  {pdbSource === 'uniprot' ? 'UniProt PDBs' : pdbSource === 'modeller_pdbs' ? 'Modeller PDBs' : 'AlphaFold'}
+                </button>
+              )}
+              {pdbSourcesChecked && availablePdbSources.length === 1 && (
+                <div
+                  style={{
+                    position: 'absolute',
+                    left: 10,
+                    top: 10,
+                    padding: '6px 10px',
+                    fontSize: 13,
+                    background: pdbSource === 'uniprot' ? '#1565a5' : pdbSource === 'modeller_pdbs' ? '#2366a8' : '#0d47a1',
+                    color: 'white',
+                    border: 'none',
+                    borderRadius: 6,
+                    zIndex: 20,
+                    fontWeight: 600
+                  }}
+                >
+                  {pdbSource === 'uniprot' ? 'UniProt PDBs' : pdbSource === 'modeller_pdbs' ? 'Modeller PDBs' : 'AlphaFold'}
+                </div>
+              )}
+              {availablePdbSources.length === 1 && (
+                <div
+                  style={{
+                    position: 'absolute',
+                    left: 10,
+                    top: 10,
+                    padding: '6px 10px',
+                    fontSize: 13,
+                    background: pdbSource === 'uniprot' ? '#1565a5' : pdbSource === 'modeller_pdbs' ? '#2366a8' : '#0d47a1',
+                    color: 'white',
+                    border: 'none',
+                    borderRadius: 6,
+                    zIndex: 20,
+                    fontWeight: 600
+                  }}
+                >
+                  {pdbSource === 'uniprot' ? 'UniProt PDBs' : pdbSource === 'modeller_pdbs' ? 'Modeller PDBs' : 'AlphaFold'}
+                </div>
+              )}
               {/* Expand button overlay - does not change layout */}
               <button
                 onClick={() => setShowNGLModal(true)}
@@ -308,9 +610,31 @@ function Results() {
                   display: 'flex',
                   alignItems: 'stretch',
                   justifyContent: 'stretch',
-                  overflow: 'hidden'
+                  overflow: 'hidden',
+                  position: 'relative'
                 }}
-              ></div>
+              >
+                {pdbError && (
+                  <div style={{
+                    position: 'absolute',
+                    top: 0,
+                    left: 0,
+                    right: 0,
+                    bottom: 0,
+                    display: 'flex',
+                    alignItems: 'center',
+                    justifyContent: 'center',
+                    color: '#1565a5',
+                    fontWeight: 600,
+                    fontSize: 16,
+                    textAlign: 'center',
+                    padding: 16,
+                    zIndex: 10
+                  }}>
+                    PDB not available
+                  </div>
+                )}
+              </div>
             </div>
 
             {/* Controls Row - Pocket Highlighting and Download */}
@@ -319,88 +643,7 @@ function Results() {
                 <div style={{ display: 'flex', alignItems: 'center', gap: 12, padding: 8, background: '#e3f0ff', borderRadius: 6, flex: 1 }}>
                   <span style={{ color: '#1565a5', fontWeight: 600, fontSize: 14 }}>Pocket Highlighting:</span>
                   <button
-                    onClick={() => {
-                      const newState = !showPocketHighlight;
-                      setShowPocketHighlight(newState);
-
-                      // Force reload of NGL viewer with new settings (small & large)
-                      setTimeout(() => {
-                        // reload small viewer
-                        if (window.NGL && result) {
-                          try {
-                            if (window.nglStage) {
-                              window.nglStage.removeAllComponents();
-                              window.nglStage = null;
-                            }
-                          } catch (e) { /* ignore */ }
-
-                          const smallDiv = document.getElementById('nglViewer');
-                          if (smallDiv) smallDiv.innerHTML = '';
-                          window.nglStage = new window.NGL.Stage('nglViewer', { backgroundColor: 'white' });
-                          const pdbFolderMap = {
-                            'pdb_files': 'pdb_files',
-                            'modeller_pdbs': 'modeller_pdbs',
-                            'alpha_fold': 'alpha_fold'
-                          };
-                          const pdbPath = `/${pdbFolderMap[pdbSource]}/${result.uniprot_id}.pdb`;
-                          window.nglStage.loadFile(pdbPath, { defaultRepresentation: true })
-                            .then((component) => {
-                              if (result.pocket_residues_y && newState) {
-                                try {
-                                  const selectionString = parsePocketToNGLSelection(result.pocket_residues_y);
-                                  if (selectionString) {
-                                    component.addRepresentation('surface', {
-                                      sele: selectionString,
-                                      color: 'blue',
-                                      opacity: 0.5,
-                                      surfaceType: 'mesh',
-                                      wireframe: true
-                                    });
-                                  }
-                                } catch (error) { console.warn('Error parsing pocket residues:', error); }
-                              }
-                              window.nglStage.autoView();
-                            })
-                            .catch(console.error);
-                        }
-
-                        // reload large viewer if open
-                        if (showNGLModal && window.NGL) {
-                          const modalDiv = document.getElementById('nglViewerLarge');
-                          if (modalDiv) modalDiv.innerHTML = '';
-                          if (window.nglStageLarge) {
-                            try { window.nglStageLarge.removeAllComponents(); } catch (e) { /* ignore */ }
-                            window.nglStageLarge = null;
-                          }
-                          window.nglStageLarge = new window.NGL.Stage('nglViewerLarge', { backgroundColor: 'white' });
-                          const pdbFolderMap = {
-                            'pdb_files': 'pdb_files',
-                            'modeller_pdbs': 'modeller_pdbs',
-                            'alpha_fold': 'alpha_fold'
-                          };
-                          const pdbPath = `/${pdbFolderMap[pdbSource]}/${result.uniprot_id}.pdb`;
-                          window.nglStageLarge.loadFile(pdbPath, { defaultRepresentation: true })
-                            .then((component) => {
-                              if (result.pocket_residues_y && newState) {
-                                try {
-                                  const selectionString = parsePocketToNGLSelection(result.pocket_residues_y);
-                                  if (selectionString) {
-                                    component.addRepresentation('surface', {
-                                      sele: selectionString,
-                                      color: 'blue',
-                                      opacity: 0.5,
-                                      surfaceType: 'mesh',
-                                      wireframe: true
-                                    });
-                                  }
-                                } catch (error) { console.warn('Error parsing pocket residues for large viewer:', error); }
-                              }
-                              window.nglStageLarge.autoView();
-                            })
-                            .catch(console.error);
-                        }
-                      }, 100);
-                    }}
+                    onClick={() => setShowPocketHighlight(prev => !prev)}
                     style={{
                       padding: '4px 12px',
                       borderRadius: 4,
@@ -418,13 +661,19 @@ function Results() {
               )}
 
               <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'flex-end' }}>
-                <a
-                  href={`/${pdbSource === 'pdb_files' ? 'pdb_files' : pdbSource === 'modeller_pdbs' ? 'modeller_pdbs' : 'alpha_fold'}/${result.uniprot_id}.pdb`}
-                  download={`${result.uniprot_id}.pdb`}
-                  style={{ color: '#2366a8', cursor: 'pointer', fontWeight: 600, fontSize: 16, textDecoration: 'none' }}
-                >
-                  📁 Download PDB
-                </a>
+                {downloadDisabled ? (
+                  <div style={{ color: '#9bb7d9', cursor: 'not-allowed', fontWeight: 600, fontSize: 16, textDecoration: 'none', opacity: 0.7 }} title={!pdbSourcesChecked ? 'Checking available PDB sources...' : pdbError ? 'PDB not available' : 'Selected source not available'}>
+                    📁 Download PDB
+                  </div>
+                ) : (
+                  <a
+                    href={getPdbPath(pdbSource, result.uniprot_id)}
+                    download={`${result.uniprot_id}.pdb`}
+                    style={{ color: '#2366a8', cursor: 'pointer', fontWeight: 600, fontSize: 16, textDecoration: 'none' }}
+                  >
+                    📁 Download PDB
+                  </a>
+                )}
               </div>
             </div>
 
@@ -518,34 +767,6 @@ function Results() {
               </span>
             </div>
           </div>
-        </div>
-
-        {/* PDB Source Toggle Button */}
-        <div style={{ display: 'flex', justifyContent: 'center', marginTop: 24 }}>
-          <button
-            onClick={() => {
-              setPdbSource(prev => {
-                if (prev === 'pdb_files') return 'modeller_pdbs';
-                if (prev === 'modeller_pdbs') return 'alpha_fold';
-                return 'pdb_files';
-              });
-            }}
-            style={{
-              padding: '12px 24px',
-              fontSize: 16,
-              fontWeight: 600,
-              borderRadius: 8,
-              border: 'none',
-              background: pdbSource === 'pdb_files' ? '#1565a5' : pdbSource === 'modeller_pdbs' ? '#2366a8' : '#0d47a1',
-              color: 'white',
-              cursor: 'pointer',
-              boxShadow: '0 2px 8px 0 rgba(35,102,168,0.2)',
-              transition: 'all 0.2s ease'
-            }}
-            onMouseEnter={(e) => e.target.style.transform = 'translateY(-2px)'}
-            onMouseLeave={(e) => e.target.style.transform = 'translateY(0)'}          >
-            PDB Source: {pdbSource === 'pdb_files' ? 'Original PDBs' : pdbSource === 'modeller_pdbs' ? 'Modeller PDBs' : 'AlphaFold'}
-          </button>
         </div>
 
         {/* Substrate Details Table (unchanged) */}
@@ -709,7 +930,28 @@ function Results() {
                 )}
               </div>
 
-              <div id="nglViewerLarge" style={{ width: '100%', height: '100%', borderRadius: 8, background: '#eef6ff' }}></div>
+              <div id="nglViewerLarge" style={{ width: '100%', height: '100%', borderRadius: 8, background: '#eef6ff', position: 'relative' }}>
+                {pdbError && (
+                  <div style={{
+                    position: 'absolute',
+                    top: 0,
+                    left: 0,
+                    right: 0,
+                    bottom: 0,
+                    display: 'flex',
+                    alignItems: 'center',
+                    justifyContent: 'center',
+                    color: '#1565a5',
+                    fontWeight: 600,
+                    fontSize: 18,
+                    textAlign: 'center',
+                    padding: 16,
+                    zIndex: 10
+                  }}>
+                    PDB not available
+                  </div>
+                )}
+              </div>
             </div>
           </div>
         )}
